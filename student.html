@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 12px 8px;
+            border-bottom: 1px solid #e9ecef;
+        }
+        th {
+            background: #f8f9fa;
+            color: #667eea;
+            font-size: 1.1em;
+        }
+        tr:last-child td {
+            border-bottom: none;
+        }
+        .count {
+            font-weight: bold;
+            color: #764ba2;
+        }
+        .refresh-btn, .clear-btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-right: 10px;
+        }
+        .refresh-btn:hover, .clear-btn:hover {
+            opacity: 0.9;
+        }
+        .empty {
+            color: #888;
+            margin-top: 30px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 25px;
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.05em;
+            transition: color 0.2s;
+        }
+        .back-link:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        .hamburger-menu {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 100;
+        }
+        .hamburger-btn {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            border: none;
+            border-radius: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: box-shadow 0.2s;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+            padding: 0;
+            position: relative;
+        }
+        .hamburger-btn:focus {
+            outline: 2px solid #764ba2;
+        }
+        .hamburger-btn .bar {
+            display: block;
+            width: 22px;
+            height: 3px;
+            margin: 3px 0;
+            background: #fff;
+            border-radius: 2px;
+            transition: all 0.3s;
+        }
+        .menu-dropdown {
+            display: none;
+            position: absolute;
+            top: 48px;
+            right: 0;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(102, 126, 234, 0.18);
+            min-width: 180px;
+            padding: 10px 0;
+            flex-direction: column;
+            z-index: 200;
+            animation: fadeIn 0.2s;
+        }
+        .menu-dropdown a {
+            display: block;
+            padding: 12px 24px;
+            color: #333;
+            text-decoration: none;
+            font-size: 1.05em;
+            transition: background 0.15s, color 0.15s;
+        }
+        .menu-dropdown a:hover {
+            background: #f3f4fa;
+            color: #764ba2;
+        }
+        .hamburger-menu.open .menu-dropdown {
+            display: flex;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="hamburger-menu" id="hamburgerMenu">
+        <button class="hamburger-btn" id="hamburgerBtn" title="Menu" aria-label="Open menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+        <div class="menu-dropdown" id="menuDropdown">
+            <a href="student.html">👤 Student Dashboard</a>
+            <a href="planning.html">🗂️ Planning & Management</a>
+        </div>
+    </div>
+    <div class="container">
+        <h1>👤 Student Dashboard</h1>
+        <div id="userIdDisplay" style="margin-bottom:18px; color:#764ba2; font-size:1.05em; word-break:break-all;"></div>
+        <h2 style="font-size:1.2em; color:#333; margin-bottom:10px;">📚 Vocabulary Misses</h2>
+        <button class="refresh-btn" onclick="fetchVocabMisses()">🔄 Refresh</button>
+        <button class="clear-btn" onclick="clearVocabMisses()">🗑️ Clear Stats</button>
+        <div id="missTableContainer"></div>
+        <a href="french_listening_app.html" class="back-link">← Back to Main Page</a>
+    </div>
+    <script src="function.js"></script>
+    <script>
+        // Display user UUID from cookie (must be before any use)
+        const userUUID = getCookie('french_listening_uuid');
+        document.getElementById('userIdDisplay').innerHTML = userUUID ? `<strong>User ID:</strong> <span style='font-family:monospace;'>${userUUID}</span>` : '<span style="color:#888">User ID not found</span>';
+        let cacheSocket = null;
+        function connectSocket() {
+            cacheSocket = new WebSocket('ws://localhost:8080');
+            cacheSocket.onopen = () => {
+                fetchVocabMisses();
+            };
+            cacheSocket.onmessage = (event) => {
+                const data = JSON.parse(event.data);
+                if (data.type === 'vocab_miss_stats') {
+                    renderMissTable(data.stats);
+                } else if (data.type === 'clear_vocab_miss_result') {
+                    fetchVocabMisses();
+                }
+            };
+            cacheSocket.onclose = () => {
+                setTimeout(connectSocket, 3000);
+            };
+        }
+        connectSocket();
+        function fetchVocabMisses() {
+            if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN) {
+                cacheSocket.send(JSON.stringify({ action: 'get_vocab_miss_stats', uuid: userUUID }));
+            }
+        }
+        function clearVocabMisses() {
+            if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN) {
+                if (confirm('Clear all vocabulary miss stats? This cannot be undone.')) {
+                    cacheSocket.send(JSON.stringify({ action: 'clear_vocab_miss', uuid: userUUID }));
+                }
+            }
+        }
+        function renderMissTable(stats) {
+            const container = document.getElementById('missTableContainer');
+            const words = Object.keys(stats).sort((a, b) => stats[b] - stats[a]);
+            if (words.length === 0) {
+                container.innerHTML = '<div class="empty">No vocabulary misses recorded yet! 🎉</div>';
+                return;
+            }
+            let html = '<table><tr><th>Word</th><th>Miss Count</th></tr>';
+            for (const word of words) {
+                html += `<tr><td>${word}</td><td class="count">${stats[word]}</td></tr>`;
+            }
+            html += '</table>';
+            container.innerHTML = html;
+        }
+        // Hamburger menu toggle logic
+        const hamburgerBtn = document.getElementById('hamburgerBtn');
+        const menuDropdown = document.getElementById('menuDropdown');
+        const hamburgerMenu = document.getElementById('hamburgerMenu');
+        hamburgerBtn.addEventListener('click', function(e) {
+            e.stopPropagation();
+            hamburgerMenu.classList.toggle('open');
+        });
+        document.addEventListener('click', function(e) {
+            if (!hamburgerMenu.contains(e.target)) {
+                hamburgerMenu.classList.remove('open');
+            }
+        });
+    </script>
+</body>
+</html> 

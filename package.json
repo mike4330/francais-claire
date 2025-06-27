@@ -1,0 +1,19 @@
+{
+  "name": "language",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node redis-cache-server.js",
+    "dev": "node redis-cache-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "redis": "^5.5.6",
+    "ws": "^8.18.2"
+  }
+}

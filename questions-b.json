@@ -1,0 +1,418 @@
+{
+  "questions": [
+    {
+      "id": 200,
+      "audioText": "Les étudiants ont manifesté devant l'université pour soutenir leur professeur licencié après ses critiques du gouvernement.",
+      "question": "Why did the students demonstrate in front of the university?",
+      "questionType": "comprehension",
+      "options": [
+        "To support their professor who was fired after criticizing the government",
+        "To protest against high university fees", 
+        "To demand better facilities and resources",
+        "To celebrate their graduation ceremony"
+      ],
+      "correct": 0,
+      "explanation": "The students demonstrated 'pour soutenir leur professeur licencié après ses critiques du gouvernement' - to support their professor who was fired after his criticisms of the government. The verb 'soutenir' means to support or back someone.",
+      "difficulty": "B2",
+      "source": "University News",
+      "tags": ["education", "protest", "politics", "academic-freedom", "soutenir", "verb-conjugation"]
+    },
+    {
+      "id": 201,
+      "audioText": "Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
+      "parentQuestion": 200,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
+        "Les étudiants critiquent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
+        "Les étudiants soutiennent leur professeur qui a trouvé son travail à cause de ses opinions politiques.",
+        "Les étudiants soutiennent leur directeur qui a perdu son travail à cause de ses opinions politiques."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.' - The students support their professor who lost his job because of his political opinions.",
+      "difficulty": "B1",
+      "source": "University News - Listening",
+      "tags": ["education", "support", "politics", "listening", "exact-comprehension", "simplified", "soutenir"]
+    },
+    {
+      "id": 202,
+      "audioText": "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
+      "question": "What did the speaker order at the restaurant?",
+      "questionType": "comprehension",
+      "options": [
+        "A pizza with chorizo and peppers",
+        "A Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce",
+        "A sandwich with smoked salmon and cucumber",
+        "A dessert with honey and nuts"
+      ],
+      "correct": 1,
+      "explanation": "The speaker ordered 'une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar' - a Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce.",
+      "difficulty": "B1",
+      "source": "Restaurant Menu",
+      "tags": ["food", "restaurant", "salad", "menu"]
+    },
+    {
+      "id": 203,
+      "audioText": "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
+      "parentQuestion": 202,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
+        "Au restaurant, j'ai commandé une salade Bergère avec du chèvre pané et des lardons.",
+        "Au restaurant, j'ai commandé une salade Norvégienne avec du saumon fumé et des crevettes.",
+        "Au restaurant, j'ai commandé une salade Déclic avec du chorizo et des poivrons."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.' - At the restaurant, I ordered a Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce.",
+      "difficulty": "B1",
+      "source": "Restaurant Menu - Listening",
+      "tags": ["food", "restaurant", "salad", "listening", "exact-comprehension"]
+    },
+    {
+      "id": 204,
+      "audioText": "Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.",
+      "question": "What did the speaker have for lunch?",
+      "questionType": "comprehension",
+      "options": [
+        "A Bergère salad with breaded goat cheese and bacon bits",
+        "A Croque Monsieur with fries and salad",
+        "A Norvégienne salad with smoked salmon and shrimp",
+        "A Fromagère dish with camembert and honey"
+      ],
+      "correct": 0,
+      "explanation": "The speaker had 'une salade Bergère avec du chèvre pané et des lardons' - a Bergère salad with breaded goat cheese and bacon bits for lunch.",
+      "difficulty": "B1",
+      "source": "Lunch Menu",
+      "tags": ["food", "lunch", "salad", "menu"]
+    },
+    {
+      "id": 205,
+      "audioText": "Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.",
+      "parentQuestion": 204,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.",
+        "Pour le déjeuner, j'ai pris une salade Cardini avec du poulet croustillant et du parmesan.",
+        "Pour le déjeuner, j'ai pris une salade Déclic avec du chorizo et des noisettes.",
+        "Pour le déjeuner, j'ai pris un Croque Monsieur avec des frites et de la salade."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.' - For lunch, I had a Bergère salad with breaded goat cheese and bacon bits.",
+      "difficulty": "B1",
+      "source": "Lunch Menu - Listening",
+      "tags": ["food", "lunch", "salad", "listening", "exact-comprehension"]
+    },
+    {
+      "id": 206,
+      "audioText": "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+      "question": "What did the speaker eat last night?",
+      "questionType": "comprehension",
+      "options": [
+        "A pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce",
+        "A grilled steak with mustard sauce",
+        "Duck breast skewers with a side salad",
+        "A chicken dish with a fragrant mustard sauce"
+      ],
+      "correct": 0,
+      "explanation": "The speaker ate 'une poêlée de seiche avec du gingembre, du piment doux et de la persillade' - a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, described as very tasty.",
+      "difficulty": "B2",
+      "source": "Dinner Menu",
+      "tags": ["food", "dinner", "seafood", "menu"]
+    },
+    {
+      "id": 207,
+      "audioText": "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+      "parentQuestion": 206,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+        "Hier soir, j'ai dégusté une bavette d'aloyau avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+        "Hier soir, j'ai dégusté des brochettes de magret de canard avec une sauce spéciale, un plat vraiment savoureux.",
+        "Hier soir, j'ai dégusté un émincé de poulet à la moutarde parfumée, un plat vraiment savoureux."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.' - Last night, I enjoyed a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, a really tasty dish.",
+      "difficulty": "B2",
+      "source": "Dinner Menu - Listening",
+      "tags": ["food", "dinner", "seafood", "listening", "exact-comprehension"]
+    },
+    {
+      "id": 208,
+      "audioText": "Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+      "question": "What did the speaker finally choose at the restaurant?",
+      "questionType": "comprehension",
+      "options": [
+        "A flank steak with a side of vegetables",
+        "Duck breast skewers with a special sauce",
+        "A sliced chicken dish with fragrant mustard sauce",
+        "A seafood dish with ginger and mild chili"
+      ],
+      "correct": 2,
+      "explanation": "The speaker finally chose 'un émincé de poulet à la moutarde parfumée' - a sliced chicken dish with fragrant mustard sauce, after hesitating between a flank steak and duck breast skewers.",
+      "difficulty": "B2",
+      "source": "Restaurant Choice",
+      "tags": ["food", "restaurant", "chicken", "menu", "decision"]
+    },
+    {
+      "id": 209,
+      "audioText": "Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+      "parentQuestion": 208,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+        "Au restaurant, j'ai hésité entre une poêlée de seiche et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+        "Au restaurant, j'ai hésité entre une bavette d'aloyau et un burger au bacon, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+        "Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un steak tartare au couteau."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.' - At the restaurant, I hesitated between a flank steak and duck breast skewers, but I finally chose a sliced chicken dish with fragrant mustard sauce.",
+      "difficulty": "B2",
+      "source": "Restaurant Choice - Listening",
+      "tags": ["food", "restaurant", "chicken", "listening", "exact-comprehension", "decision"]
+    },
+    {
+      "id": 210,
+      "audioText": "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine.",
+      "question": "Les employés de la SNCF ont annoncé une ______ de trois jours la semaine prochaine.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "grève",
+        "réunion",
+        "formation",
+        "célébration"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'grève'. La phrase complète est 'Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine.' - SNCF employees announced a three-day strike next week. 'Grève' means strike, which is the logical action when transportation workers make such announcements.",
+      "difficulty": "B1",
+      "source": "Transportation News",
+      "tags": ["transportation", "labor", "strikes", "SNCF", "news", "fill-in-the-blank", "B1"]
+    },
+    {
+      "id": 211,
+      "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.",
+      "question": "Le taux de ______ a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "chômage",
+        "croissance",
+        "inflation", 
+        "productivité"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'chômage'. La phrase complète est 'Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.' - The unemployment rate fell by 0.2 percentage points in the last quarter, reaching 7.3% of the active population. 'Chômage' means unemployment, a key economic indicator.",
+      "difficulty": "B2",
+      "source": "French Economic News",
+      "tags": ["economy", "unemployment", "statistics", "employment", "economic-indicators", "fill-in-the-blank", "B2"]
+    },
+    {
+      "id": 212,
+      "audioText": "Pour obtenir ce poste, Marie doit réussir un entretien d'embauche avec le directeur des ressources humaines.",
+      "question": "Pour obtenir ce poste, Marie doit réussir un ______ d'embauche avec le directeur des ressources humaines.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "entretien",
+        "examen",
+        "test",
+        "questionnaire"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'entretien'. La phrase complète est 'Pour obtenir ce poste, Marie doit réussir un entretien d'embauche avec le directeur des ressources humaines.' - To get this position, Marie must succeed in a job interview with the human resources director. 'Entretien d'embauche' is the standard term for job interview.",
+      "difficulty": "B2",
+      "source": "Human Resources",
+      "tags": ["employment", "job-interview", "recruitment", "human-resources", "career", "fill-in-the-blank", "B2"]
+    },
+    {
+      "id": 213,
+      "audioText": "Cette famille n'a pas les moyens financiers de partir en vacances cette année à cause de la crise économique.",
+      "question": "Cette famille n'a pas les ______ financiers de partir en vacances cette année à cause de la crise économique.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "moyens",
+        "besoins",
+        "désirs",
+        "projets"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'moyens'. La phrase complète est 'Cette famille n'a pas les moyens financiers de partir en vacances cette année à cause de la crise économique.' - This family doesn't have the financial means to go on vacation this year because of the economic crisis. 'Avoir les moyens' is a common expression meaning to have the resources/ability to afford something.",
+      "difficulty": "B1",
+      "source": "Family Economics",
+      "tags": ["finances", "family", "vacation", "economic-crisis", "resources", "expressions", "fill-in-the-blank", "B1"]
+    },
+    {
+      "id": 214,
+      "audioText": "Il pleut pendant nos vacances à la plage ! C'est vraiment le comble de la malchance.",
+      "question": "Il pleut pendant nos vacances à la plage ! C'est vraiment le ______ de la malchance.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "comble",
+        "début",
+        "milieu",
+        "résultat"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'comble'. La phrase complète est 'Il pleut pendant nos vacances à la plage ! C'est vraiment le comble de la malchance.' - It's raining during our beach vacation! That's really the height of bad luck. 'Le comble de' is a French expression meaning 'the height/peak of something' or 'the last straw'.",
+      "difficulty": "B1",
+      "source": "Vacation Troubles",
+      "tags": ["weather", "vacation", "expressions", "bad-luck", "emotions", "idiomatic", "fill-in-the-blank", "B1"]
+    },
+    {
+      "id": 215,
+      "audioText": "Thomas a raté son train, perdu son portefeuille et il pleut maintenant. Quelle malchance aujourd'hui !",
+      "question": "What happened to Thomas today?",
+      "questionType": "comprehension",
+      "options": [
+        "He missed his train, lost his wallet, and now it's raining",
+        "He found his wallet, caught his train, and the weather is nice",
+        "He missed his bus, forgot his keys, and it's very hot",
+        "He arrived early, found money, and it's sunny"
+      ],
+      "correct": 0,
+      "explanation": "Thomas experienced a series of unfortunate events: 'a raté son train' (missed his train), 'perdu son portefeuille' (lost his wallet), 'et il pleut maintenant' (and now it's raining). The speaker concludes with 'Quelle malchance !' (What bad luck!), showing that 'malchance' refers to a string of unlucky events.",
+      "difficulty": "B1",
+      "source": "Daily Misfortunes",
+      "tags": ["bad-luck", "daily-life", "misfortunes", "emotions", "malchance", "vocabulary", "comprehension", "B1"]
+    },
+    {
+      "id": 216,
+      "audioText": "Pour notre entreprise, s'adapter au marché numérique représente un véritable défi stratégique.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Pour notre entreprise, s'adapter au marché numérique représente un véritable défi stratégique.",
+        "Pour notre entreprise, s'adapter au marché numérique représente un véritable délit stratégique.",
+        "Pour notre entreprise, s'adapter au marché numérique représente un véritable déficit stratégique.",
+        "Pour notre entreprise, s'adapter au marché numérique représente un véritable débat stratégique."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Pour notre entreprise, s'adapter au marché numérique représente un véritable défi stratégique.' - For our company, adapting to the digital market represents a real strategic challenge. 'Défi' means challenge or obstacle to overcome, which fits perfectly in this business context about digital transformation.",
+      "difficulty": "B2",
+      "source": "Business Strategy",
+      "tags": ["business", "digital-transformation", "strategy", "challenges", "défi", "listening", "professional", "B2"]
+    },
+    {
+      "id": 217,
+      "audioText": "La junte au pouvoir en Birmanie a brûlé des stupéfiants saisis par les autorités d'une valeur estimée à quelque 300 millions de dollars. Des cérémonies de destruction de drogues ont eu lieu à Rangoun, Mandalay et Taunggyi.",
+      "question": "What did the Myanmar junta do with the seized narcotics?",
+      "questionType": "comprehension",
+      "options": [
+        "They sold them to international buyers",
+        "They stored them in government warehouses", 
+        "They burned them in public ceremonies",
+        "They distributed them to medical facilities"
+      ],
+      "correct": 2,
+      "explanation": "The junta 'a brûlé des stupéfiants saisis' - burned seized narcotics. The ceremonies took place in Rangoon, Mandalay, and Taunggyi. The value was estimated at about 300 million dollars.",
+      "difficulty": "B2",
+      "source": "Myanmar Drug Destruction News",
+      "tags": ["international-news", "drugs", "politics", "myanmar", "authorities"]
+    },
+    {
+      "id": 218,
+      "audioText": "Les autorités de Birmanie ont détruit pour 300 millions de dollars de drogue dans trois villes.",
+      "parentQuestion": 217,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening", 
+      "options": [
+        "Les autorités de Birmanie ont détruit pour 300 millions de dollars de drogue dans trois villes.",
+        "Les autorités de Birmanie ont trouvé pour 300 millions de dollars de drogue dans trois villes.",
+        "Les autorités de Birmanie ont vendu pour 300 millions de dollars de drogue dans trois villes.",
+        "Les autorités de Birmanie ont caché pour 300 millions de dollars de drogue dans trois villes."
+      ],
+      "correct": 0,
+      "explanation": "La phrase simplifiée était 'Les autorités de Birmanie ont détruit pour 300 millions de dollars de drogue dans trois villes.' - The Myanmar authorities destroyed 300 million dollars worth of drugs in three cities.",
+      "difficulty": "B1",
+      "source": "Myanmar Drug News - Simplified",
+      "tags": ["international-news", "drugs", "listening", "simplified", "authorities"]
+    },
+    {
+      "id": 219,
+      "audioText": "La junte au pouvoir en Birmanie a brûlé des stupéfiants saisis par les autorités d'une valeur estimée à quelque 300 millions de dollars.",
+      "question": "La junte au pouvoir en Birmanie a brûlé des ______ saisis par les autorités d'une valeur estimée à quelque 300 millions de dollars.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "stupéfiants",
+        "documents",
+        "armes",
+        "bijoux"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'stupéfiants'. La phrase complète est 'La junte au pouvoir en Birmanie a brûlé des stupéfiants saisis par les autorités d'une valeur estimée à quelque 300 millions de dollars.' - The ruling junta in Myanmar burned narcotics seized by authorities worth an estimated 300 million dollars.",
+      "difficulty": "B2",
+      "source": "Myanmar Drug News - Fill-in-blank",
+      "tags": ["international-news", "drugs", "fill-in-the-blank", "vocabulary", "authorities"]
+    },
+    {
+      "id": 220,
+      "audioText": "Une couche de neige a recouvert une partie du désert d'Atacama au Chili ce 26 juin. Ce dernier situé au nord du Chili, est le plus aride au monde. Cet enneigement soudain est un phénomène qui n'avait pas été vu depuis dix ans selon le centre astronomique ALMA.",
+      "question": "What is remarkable about this snowfall in Chile's Atacama Desert?",
+      "questionType": "comprehension",
+      "options": [
+        "It happened during the summer season in June",
+        "It was the first snowfall ever recorded there",
+        "It hadn't been seen for ten years according to ALMA",
+        "It covered the entire desert for the first time"
+      ],
+      "correct": 2,
+      "explanation": "According to the text, 'Cet enneigement soudain est un phénomène qui n'avait pas été vu depuis dix ans selon le centre astronomique ALMA' - this sudden snowfall is a phenomenon that hadn't been seen for ten years according to the ALMA astronomical center.",
+      "difficulty": "B2",
+      "source": "Chile Weather Phenomenon",
+      "tags": ["weather", "chile", "desert", "snow", "climate", "rare-events"]
+    },
+    {
+      "id": 221,
+      "audioText": "Météo France a placé treize départements en vigilance orange canicule pour le weekend. Les fortes chaleurs touchent le sud et l'est de la France avec des températures très élevées.",
+      "question": "What weather warning has Météo France issued?",
+      "questionType": "comprehension",
+      "options": [
+        "Orange alert for storms in northern France",
+        "Orange heat wave warning for thirteen departments",
+        "Red alert for flooding in the east",
+        "Yellow warning for high winds nationwide"
+      ],
+      "correct": 1,
+      "explanation": "Météo France 'a placé treize départements en vigilance orange canicule' - has placed thirteen departments under orange heat wave warning. The condensed version focuses on the essential information about the heat wave affecting southern and eastern France.",
+      "difficulty": "B1",
+      "source": "French Weather Alert - Condensed",
+      "tags": ["weather", "france", "heat-wave", "alert", "departments"]
+    },
+    {
+      "id": 222,
+      "audioText": "Météo France a placé treize départements en vigilance orange canicule pour le weekend.",
+      "question": "Météo France a placé treize départements en vigilance ______ canicule pour le weekend.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "orange",
+        "rouge",
+        "jaune",
+        "verte"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'orange'. La phrase complète est 'Météo France a placé treize départements en vigilance orange canicule pour le weekend.' - Météo France has placed thirteen departments under orange heat wave warning for the weekend. Orange is the second-highest level of weather alert in France.",
+      "difficulty": "B1",
+      "source": "French Weather Alert - Fill-in-blank",
+      "tags": ["weather", "france", "alert-levels", "fill-in-the-blank", "heat-wave"]
+    },
+    {
+      "id": 223,
+      "audioText": "La Cour suprême des États-Unis a décidé que les juges fédéraux ne peuvent plus suspendre partout dans le pays des décisions prises par le président. Donald Trump a salué cette décision comme une victoire.",
+      "question": "What did the US Supreme Court decide?",
+      "questionType": "comprehension",
+      "options": [
+        "Federal judges can no longer block presidential decisions nationwide",
+        "Federal judges can now make decisions for all states",
+        "The president must follow all decisions made by federal judges",
+        "Donald Trump lost his case at the Supreme Court"
+      ],
+      "correct": 0,
+      "explanation": "The audio says 'les juges fédéraux ne peuvent plus suspendre partout dans le pays des décisions prises par le président' – federal judges can no longer block presidential decisions nationwide. Donald Trump welcomed this as a victory. The other options either reverse the decision, misstate the relationship, or are factually incorrect.",
+      "difficulty": "B2",
+      "source": "French summary of US Supreme Court news, June 2024 (simplified)",
+      "tags": ["law", "politics", "us", "judiciary", "supreme-court", "comprehension", "news"]
+    }
+  ]
+}

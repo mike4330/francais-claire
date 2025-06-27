@@ -1,0 +1,246 @@
+{
+  "questions": [
+    {
+      "id": 100,
+      "audioText": "L'une des plus grandes entreprises publiques françaises va devoir se passer de patron parce que l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant.",
+      "question": "Why will one of France's largest public companies have to go without a CEO?",
+      "questionType": "comprehension",
+      "options": [
+        "Because the previous CEO refused to continue in their position",
+        "Because the Elysée has not yet deigned to designate a successor to the previous CEO",
+        "Because the company is facing financial difficulties",
+        "Because there are no qualified candidates available"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant' - the Elysée has not yet deigned/bothered to designate a successor to the previous CEO. The verb 'daigner' suggests disdain or reluctance from the presidential palace.",
+      "difficulty": "C1",
+      "source": "French Political/Corporate News",
+      "tags": ["politics", "corporate", "leadership", "public-enterprise", "elysee"]
+    },
+    {
+      "id": 101,
+      "audioText": "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
+      "question": "What is ironic about the future of roadside restaurants according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "They have a future without truck drivers, attracting urban professionals seeking authenticity",
+        "They are closing down because truck drivers no longer eat there",
+        "They are becoming too expensive for their traditional clientele",
+        "They are losing their nostalgic charm to modernization"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'C'est un comble, ils ont un avenir sans les chauffeurs routiers' - It's ironic/absurd that they have a future without truck drivers. The restaurants now 'attirent les bobos en quête d'authenticité' - attract bourgeois bohemians (urban professionals) seeking authenticity, replacing their original clientele.",
+      "difficulty": "C1",
+      "source": "French Cultural Commentary",
+      "tags": ["culture", "society", "irony", "gentrification", "nostalgia", "bobos", "authentic-french"]
+    },
+    {
+      "id": 102,
+      "audioText": "Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.",
+      "parentQuestion": 101,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.",
+        "Les vieux restaurants de route survivent maintenant grâce aux touristes qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.",
+        "Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux conducteurs d'origine.",
+        "Les nouveaux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.' - The old roadside restaurants now survive thanks to city dwellers seeking authenticity, not thanks to the original truckers.",
+      "difficulty": "B2",
+      "source": "French Cultural Commentary - Listening",
+      "tags": ["culture", "society", "listening", "exact-comprehension", "simplified", "gentrification"]
+    },
+    {
+      "id": 103,
+      "audioText": "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
+      "question": "What is the context behind the deputy's proposals?",
+      "questionType": "comprehension",
+      "options": [
+        "He was elected to represent suburban districts last year",
+        "He was personally targeted during urban violence after recent riots",
+        "He was appointed by the government to study suburban issues",
+        "He represents a left-wing party focused on social issues"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'Le député, ciblé durant les violences urbaines' - the deputy was targeted during urban violence. This personal experience during recent riots ('après les émeutes de l'année dernière') provides the context for his twenty proposals to 'restore the Republic' in popular neighborhoods.",
+      "difficulty": "C1",
+      "source": "French Political News",
+      "tags": ["politics", "social-issues", "riots", "banlieues", "urban-policy"]
+    },
+    {
+      "id": 104,
+      "audioText": "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
+      "parentQuestion": 103,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
+        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une dizaine de propositions pour «rétablir la République» dans les quartiers populaires",
+        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir l'ordre» dans les quartiers populaires",
+        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, visé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires"
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires.' - After last year's riots, a deputy reveals his 'suburbs plan'. The deputy, targeted during urban violence, presents twenty proposals to 'restore the Republic' in popular neighborhoods.",
+      "difficulty": "B2",
+      "source": "French Political News - Listening",
+      "tags": ["politics", "social-issues", "riots", "banlieues", "listening", "exact-comprehension", "has-comprehension-version"]
+    },
+    {
+      "id": 105,
+      "audioText": "« Je vais m'éloigner de ce milieu nocif » : un jeune homme, membre de l'extrême droite radicale, sort de prison. L'homme de 22 ans et huit autres suspects sont soupçonnés d'avoir violemment agressé un trentenaire qui assistait à une projection contre le fascisme, dans un arrondissement parisien.",
+      "question": "What is the irony in this situation?",
+      "questionType": "comprehension",
+      "options": [
+        "A young far-right member attacks someone at an anti-fascism event, then claims to want to leave that toxic environment",
+        "The young man was imprisoned for a crime he didn't commit according to his own testimony",
+        "Nine suspects were arrested but only one was sentenced to prison time",
+        "The victim was attending a far-right meeting but was attacked by fellow extremists"
+      ],
+      "correct": 0,
+      "explanation": "The irony lies in the fact that someone from 'l'extrême droite radicale' (radical far-right) violently attacked someone at 'une projection contre le fascisme' (an anti-fascism screening), yet now claims to want to distance himself from this 'milieu nocif' (toxic environment). The contradiction between his violent ideological actions and his stated desire to reform creates the ironic situation.",
+      "difficulty": "C1",
+      "source": "French Legal/Political News",
+      "tags": ["politics", "extremism", "legal", "irony", "radicalization", "violence", "prison"]
+    },
+    {
+      "id": 106,
+      "audioText": "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+      "parentQuestion": 105,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et sept autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 40 ans qui assistait à un événement contre le fascisme, dans Paris.",
+        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement pour la démocratie, dans Paris."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était '« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.' - 'I'm going to distance myself from this dangerous environment': a young man, member of a far-right group, gets out of prison.",
+      "difficulty": "B2",
+      "source": "French Legal/Political News - Listening",
+      "tags": ["politics", "extremism", "legal", "listening", "exact-comprehension", "simplified", "has-comprehension-version"]
+    },
+    {
+      "id": 107,
+      "audioText": "Un nouveau cas d'intoxication à la bactérie Escherichia coli a été annoncé par la préfecture, portant à plus de vingt le nombre de personnes contaminées jusqu'à présent.",
+      "question": "What does the phrase 'portant à plus de vingt' indicate?",
+      "questionType": "comprehension",
+      "options": [
+        "The new case brings the total number of contaminated people to more than twenty",
+        "More than twenty people were involved in reporting the new case",
+        "The prefecture is carrying more than twenty investigation files",
+        "More than twenty bacteria strains have been identified in this case"
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'portant à plus de vingt le nombre de personnes contaminées' means 'bringing to more than twenty the number of contaminated people.' This construction indicates that the new case increases the running total to more than twenty affected individuals.",
+      "difficulty": "C1",
+      "source": "French Health News",
+      "tags": ["health", "medical", "administrative", "syntax", "numbers", "contamination"]
+    },
+    {
+      "id": 108,
+      "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active. Cette amélioration s'explique principalement par la création d'emplois dans le secteur des services.",
+      "question": "What does the speaker say about the unemployment rate?",
+      "questionType": "comprehension",
+      "options": [
+        "It increased by 0.2 percentage points due to job losses in services",
+        "It decreased by 0.2 percentage points, reaching 7.3% of the active population",
+        "It remained stable at 7.3% despite job creation in services", 
+        "It reached a historic low of 0.2% thanks to government policies"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'Le taux de chômage a baissé de 0,2 point... atteignant 7,3% de la population active' - the unemployment rate fell by 0.2 percentage points, reaching 7.3% of the active population. This improvement is explained by job creation in the service sector.",
+      "difficulty": "B2",
+      "source": "French Economic News",
+      "tags": ["economy", "unemployment", "statistics", "employment", "services", "economic-indicators"]
+    },
+    {
+      "id": 109,
+      "audioText": "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine. Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport.",
+      "question": "What advice is given to travelers?",
+      "questionType": "comprehension",
+      "options": [
+        "To buy their train tickets in advance to avoid problems",
+        "To postpone their trips or use other means of transportation",
+        "To arrive at the station early because trains will be delayed",
+        "To contact SNCF customer service for more information"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport' - travelers are invited to postpone their trips or use other means of transportation due to the three-day SNCF strike.",
+      "difficulty": "B1",
+      "source": "French Transportation News",
+      "tags": ["strikes", "transportation", "SNCF", "travel", "labor", "social-movements"]
+    },
+    {
+      "id": 110,
+      "audioText": "Le conseil municipal a voté pour interdire le port de signes religieux ostensibles lors des sorties scolaires, invoquant le principe de laïcité. Cette décision divise les parents d'élèves et relance le débat sur l'application de la laïcité.",
+      "question": "What principle is being invoked by the municipal council?",
+      "questionType": "comprehension",
+      "options": [
+        "The principle of religious freedom and tolerance",
+        "The principle of laïcité (French secularism) to ban conspicuous religious symbols",
+        "The principle of parental choice in educational matters",
+        "The principle of safety during school outings"
+      ],
+      "correct": 1,
+      "explanation": "The municipal council 'a voté pour interdire... invoquant le principe de laïcité' - voted to ban conspicuous religious symbols by invoking the principle of laïcité. This uniquely French concept of active secularism goes beyond separation of church and state to actively maintain religious neutrality in public spaces.",
+      "difficulty": "C1",
+      "source": "French Educational Policy",
+      "tags": ["laicite", "religion", "education", "french-values", "secularism", "municipal", "policy", "controversy"]
+    },
+    {
+      "id": 111,
+      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+      "question": "What did the French government announce?",
+      "questionType": "comprehension",
+      "options": [
+        "New health measures for hospitals",
+        "New economic measures to support businesses",
+        "New educational reforms for schools", 
+        "New environmental regulations"
+      ],
+      "correct": 1,
+      "explanation": "The government announced 'nouvelles mesures économiques pour soutenir les entreprises' - new economic measures to support businesses affected by the crisis.",
+      "difficulty": "C1",
+      "source": "France24 Economics",
+      "tags": ["politics", "economy", "government", "crisis"]
+    },
+    {
+      "id": 112,
+      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+      "parentQuestion": 111,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures écologiques pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les étudiants touchés par la crise.",
+        "Le gouvernement français a proposé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.'",
+      "difficulty": "C1",
+      "source": "France24 Economics - Listening",
+      "tags": ["politics", "economy", "listening", "exact-comprehension"]
+    },
+    {
+      "id": 113,
+      "audioText": "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+        "La Cour suprême américaine étend les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"justifiées\".",
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Joe Biden crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"nécessaires\"."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était : 'La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.' Les distracteurs modifient soit le verbe clé (limite/étend), le président mentionné (Trump/Biden), ou la justification de la Cour (excèdent/justifiées/nécessaires).",
+      "difficulty": "C2",
+      "source": "French summary of US Supreme Court news, June 2024",
+      "tags": ["law", "politics", "us", "judiciary", "supreme-court", "listening", "exact-comprehension", "news"]
+    }
+  ]
+}

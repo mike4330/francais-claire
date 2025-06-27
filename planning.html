@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planning & Management - French Listening Practice</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 40px;
+            max-width: 1040px;
+            width: 100%;
+            text-align: center;
+            position: relative;
+        }
+
+        .back-icon {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            color: white;
+            font-size: 18px;
+            text-decoration: none;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        }
+
+        .back-icon:hover {
+            transform: translateX(-5px) scale(1.1);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .header {
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            color: #333;
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .planning-section {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            margin: 20px 0;
+            border-left: 5px solid #667eea;
+            text-align: left;
+        }
+
+        .planning-section h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        .planning-section p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .table-container {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            overflow-x: auto;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9em;
+        }
+
+        th, td {
+            padding: 12px 8px;
+            text-align: left;
+            border-bottom: 1px solid #e9ecef;
+        }
+
+        th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: #333;
+            position: sticky;
+            top: 0;
+        }
+
+        th.sortable {
+            cursor: pointer;
+            user-select: none;
+            position: relative;
+        }
+
+        th.sortable:hover {
+            background: #e9ecef;
+        }
+
+        th.sortable::after {
+            content: ' ↕️';
+            font-size: 0.8em;
+            opacity: 0.5;
+        }
+
+        th.sortable.asc::after {
+            content: ' ↑';
+            color: #667eea;
+            opacity: 1;
+        }
+
+        th.sortable.desc::after {
+            content: ' ↓';
+            color: #667eea;
+            opacity: 1;
+        }
+
+        tr:hover {
+            background: #f8f9ff;
+        }
+
+        .difficulty-badge {
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: 500;
+            color: white;
+        }
+
+        .type-badge {
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: 500;
+            background: #e9ecef;
+            color: #6c757d;
+        }
+
+        .audio-text {
+            max-width: 200px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .question-text {
+            max-width: 150px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .tags {
+            font-size: 0.8em;
+            color: #666;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .stat-card {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            border: 2px solid #e9ecef;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .stat-card h4 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1em;
+        }
+
+        .stat-card span {
+            color: #333;
+            font-size: 1.2em;
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 25px;
+                margin: 10px;
+            }
+            
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .audio-text, .question-text {
+                max-width: 120px;
+            }
+        }
+
+        .template-badge {
+            background-color: #28a745;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 10px;
+            font-size: 0.75em;
+            margin-left: 5px;
+        }
+
+        .hamburger-menu {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 100;
+        }
+        .hamburger-btn {
+            width: 40px;
+            height: 40px;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            border: none;
+            border-radius: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: box-shadow 0.2s;
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+            padding: 0;
+            position: relative;
+        }
+        .hamburger-btn:focus {
+            outline: 2px solid #764ba2;
+        }
+        .hamburger-btn .bar {
+            display: block;
+            width: 22px;
+            height: 3px;
+            margin: 3px 0;
+            background: #fff;
+            border-radius: 2px;
+            transition: all 0.3s;
+        }
+        .menu-dropdown {
+            display: none;
+            position: absolute;
+            top: 48px;
+            right: 0;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(102, 126, 234, 0.18);
+            min-width: 180px;
+            padding: 10px 0;
+            flex-direction: column;
+            z-index: 200;
+            animation: fadeIn 0.2s;
+        }
+        .menu-dropdown a {
+            display: block;
+            padding: 12px 24px;
+            color: #333;
+            text-decoration: none;
+            font-size: 1.05em;
+            transition: background 0.15s, color 0.15s;
+        }
+        .menu-dropdown a:hover {
+            background: #f3f4fa;
+            color: #764ba2;
+        }
+        .hamburger-menu.open .menu-dropdown {
+            display: flex;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="hamburger-menu" id="hamburgerMenu">
+        <button class="hamburger-btn" id="hamburgerBtn" title="Menu" aria-label="Open menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </button>
+        <div class="menu-dropdown" id="menuDropdown">
+            <a href="student.html">👤 Student Dashboard</a>
+            <a href="planning.html">🗂️ Planning & Management</a>
+        </div>
+    </div>
+    <div class="container">
+        <a href="french_listening_app.html" class="back-icon" title="Back to Practice">
+            ←
+        </a>
+        
+        <div class="header">
+            <h1>📋 Planning & Management</h1>
+            <p>Configure and plan your French learning journey</p>
+        </div>
+
+        <div class="planning-section">
+            <h3>📊 Question Bank Overview</h3>
+            <p>Current question parameters and structure analysis:</p>
+        </div>
+
+        <div class="planning-section">
+            <h3>📏 CEFR Word Length Guidelines</h3>
+            <p>Recommended word count boundaries for audio content by difficulty level:</p>
+            <div class="table-container" style="margin-top: 15px;">
+                <table style="font-size: 0.9em;">
+                    <thead>
+                        <tr>
+                            <th style="width: 15%;">Level</th>
+                            <th style="width: 20%;">Maximum Words</th>
+                            <th style="width: 25%;">Target Audience</th>
+                            <th style="width: 40%;">Pedagogical Focus</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><span class="difficulty-badge" style="background-color: #28a745;">A1</span></td>
+                            <td><strong>max 9 words</strong></td>
+                            <td>Absolute Beginners</td>
+                            <td>Simple phrases, basic vocabulary, present tense, single concepts</td>
+                        </tr>
+                        <tr>
+                            <td><span class="difficulty-badge" style="background-color: #20c997;">A2</span></td>
+                            <td><strong>max 14 words</strong></td>
+                            <td>Elementary</td>
+                            <td>Everyday expressions, simple past/future, personal topics</td>
+                        </tr>
+                        <tr>
+                            <td><span class="difficulty-badge" style="background-color: #fd7e14;">B1</span></td>
+                            <td><strong>max 25 words</strong></td>
+                            <td>Intermediate</td>
+                            <td>Complex sentences, abstract concepts, work/travel topics</td>
+                        </tr>
+                        <tr>
+                            <td><span class="difficulty-badge" style="background-color: #e83e8c;">B2</span></td>
+                            <td><strong>max 38 words</strong></td>
+                            <td>Upper-Intermediate</td>
+                            <td>Sophisticated ideas, technical vocabulary, argumentation</td>
+                        </tr>
+                        <tr>
+                            <td><span class="difficulty-badge" style="background-color: #6f42c1;">C1</span></td>
+                            <td><strong>max 60 words</strong></td>
+                            <td>Advanced</td>
+                            <td>Professional/academic discourse, implicit meaning, policy</td>
+                        </tr>
+                        <tr>
+                            <td><span class="difficulty-badge" style="background-color: #dc3545;">C2</span></td>
+                            <td><strong>max 90 words</strong></td>
+                            <td>C2 - Proficiency</td>
+                            <td>Authentic French media, political discourse, cultural context</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p style="margin-top: 15px; font-size: 0.9em; color: #666; font-style: italic;">
+                <strong>Note:</strong> Maximum word counts are calculated as the mean of the original ranges. Content should be 
+                as concise as possible while maintaining pedagogical value for each CEFR level.
+            </p>
+        </div>
+
+        <div class="table-container">
+            <table id="questionsTable">
+                <thead>
+                    <tr>
+                        <th class="sortable" data-sort="id">ID</th>
+                        <th class="sortable" data-sort="difficulty">Difficulty</th>
+                        <th class="sortable" data-sort="type">Type</th>
+                        <th>Audio Text</th>
+                        <th class="sortable" data-sort="words">Words</th>
+                        <th class="sortable" data-sort="parent">Parent Question</th>
+                        <th>Source</th>
+                        <th>Tags</th>
+                    </tr>
+                </thead>
+                <tbody id="questionsTableBody">
+                    <!-- Questions will be populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h4>Total Questions</h4>
+                <span id="totalQuestions">-</span>
+            </div>
+            <div class="stat-card">
+                <h4>Difficulty Levels</h4>
+                <span id="difficultyBreakdown">-</span>
+            </div>
+            <div class="stat-card">
+                <h4>Question Types</h4>
+                <span id="typeBreakdown">-</span>
+            </div>
+            <div class="stat-card">
+                <h4>Sources</h4>
+                <span id="sourceBreakdown">-</span>
+            </div>
+            <div class="stat-card">
+                <h4>Word Count Range</h4>
+                <span id="wordCountRange">-</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Question analysis and display
+        let questionBank = [];
+        let currentSort = { column: null, direction: null };
+
+        // Difficulty level colors matching main app
+        const DIFFICULTY_COLORS = {
+            'A1': '#28a745',
+            'A2': '#20c997', 
+            'B1': '#fd7e14',
+            'B2': '#e83e8c',
+            'C1': '#6f42c1',
+            'C2': '#dc3545'
+        };
+
+        // Difficulty level order for sorting
+        const DIFFICULTY_ORDER = {
+            'A1': 1,
+            'A2': 2,
+            'B1': 3,
+            'B2': 4,
+            'C1': 5,
+            'C2': 6
+        };
+
+        // Load questions from multiple JSON files
+        async function loadQuestions(files = ['questions.json', 'questions-a.json', 'questions-b.json', 'questions-c.json']) {
+            try {
+                console.log('Loading question files for planning:', files);
+                
+                // Fetch all files in parallel
+                const responses = await Promise.all(files.map(f => fetch(f)));
+                const datas = await Promise.all(responses.map(async (r, index) => {
+                    if (r.ok) {
+                        try {
+                            const data = await r.json();
+                            const questionCount = data.questions ? data.questions.length : 0;
+                            console.log(`✅ Planning: ${files[index]}: ${questionCount} questions loaded`);
+                            return data;
+                        } catch (error) {
+                            console.warn(`❌ Planning: ${files[index]}: JSON parse error -`, error);
+                            return { questions: [] };
+                        }
+                    } else {
+                        console.warn(`❌ Planning: ${files[index]}: HTTP ${r.status} - ${r.statusText}`);
+                        return { questions: [] };
+                    }
+                }));
+                
+                // Merge all questions arrays
+                questionBank = datas.flatMap(d => d.questions || []);
+                console.log(`📚 Planning: Total questions loaded: ${questionBank.length}`);
+                
+                if (questionBank.length > 0) {
+                    setupSorting();
+                    populateTable();
+                    updateStats();
+                } else {
+                    document.getElementById('questionsTableBody').innerHTML = 
+                        '<tr><td colspan="9" style="text-align: center; color: #666;">No questions found in any files</td></tr>';
+                }
+            } catch (error) {
+                console.error('Error loading questions:', error);
+                document.getElementById('questionsTableBody').innerHTML = 
+                    '<tr><td colspan="9" style="text-align: center; color: #dc3545;">Error loading questions</td></tr>';
+            }
+        }
+
+        function populateTable() {
+            populateTableWithData(questionBank);
+        }
+
+        // Helper: get displayable audio text for a question
+        function getAudioTextForQuestion(q) {
+            if (q.audioText) return q.audioText;
+            if (q.audioTemplate && q.templateVariables) {
+                let text = q.audioTemplate;
+                for (const [varName, varData] of Object.entries(q.templateVariables)) {
+                    const firstOption = varData.options[0];
+                    text = text.replace(`{${varName}}`, firstOption);
+                }
+                return text;
+            }
+            return '';
+        }
+
+        function updateStats() {
+            // Total questions
+            document.getElementById('totalQuestions').textContent = questionBank.length;
+
+            // Difficulty breakdown
+            const difficultyCount = {};
+            const typeCount = {};
+            const sourceCount = {};
+
+            questionBank.forEach(q => {
+                // Count difficulties
+                difficultyCount[q.difficulty] = (difficultyCount[q.difficulty] || 0) + 1;
+                // Count types
+                const type = q.questionType || 'comprehension';
+                typeCount[type] = (typeCount[type] || 0) + 1;
+                // Count sources (simplified)
+                const source = q.source.split(' ')[0]; // First word only
+                sourceCount[source] = (sourceCount[source] || 0) + 1;
+            });
+
+            // Display difficulty breakdown
+            const difficultyText = Object.entries(difficultyCount)
+                .map(([level, count]) => `${level}:${count}`)
+                .join(' | ');
+            document.getElementById('difficultyBreakdown').textContent = difficultyText;
+
+            // Display type breakdown
+            const typeText = Object.entries(typeCount)
+                .map(([type, count]) => `${type}:${count}`)
+                .join(' | ');
+            document.getElementById('typeBreakdown').textContent = typeText;
+
+            // Display source breakdown
+            const sourceText = Object.entries(sourceCount)
+                .map(([source, count]) => `${source}:${count}`)
+                .join(' | ');
+            document.getElementById('sourceBreakdown').textContent = sourceText;
+
+            // Calculate word count statistics
+            const wordCounts = questionBank.map(q => 
+                getAudioTextForQuestion(q).split(/\s+/).filter(word => word.length > 0).length
+            );
+            const minWords = Math.min(...wordCounts);
+            const maxWords = Math.max(...wordCounts);
+            const avgWords = Math.round(wordCounts.reduce((a, b) => a + b, 0) / wordCounts.length);
+            document.getElementById('wordCountRange').textContent = `${minWords}-${maxWords} (avg: ${avgWords})`;
+        }
+
+        // Setup sorting functionality
+        function setupSorting() {
+            const sortableHeaders = document.querySelectorAll('th.sortable');
+            
+            sortableHeaders.forEach(header => {
+                header.addEventListener('click', () => {
+                    const sortColumn = header.dataset.sort;
+                    sortTable(sortColumn);
+                });
+            });
+        }
+
+        function sortTable(column) {
+            // Determine sort direction
+            let direction = 'asc';
+            if (currentSort.column === column && currentSort.direction === 'asc') {
+                direction = 'desc';
+            }
+            
+            // Update sort indicators
+            document.querySelectorAll('th.sortable').forEach(th => {
+                th.classList.remove('asc', 'desc');
+            });
+            
+            const currentHeader = document.querySelector(`th[data-sort="${column}"]`);
+            currentHeader.classList.add(direction);
+            
+            // Sort the data
+            const sortedQuestions = [...questionBank].sort((a, b) => {
+                let valueA, valueB;
+                
+                switch (column) {
+                    case 'id':
+                        valueA = a.id;
+                        valueB = b.id;
+                        break;
+                    case 'difficulty':
+                        valueA = DIFFICULTY_ORDER[a.difficulty] || 999;
+                        valueB = DIFFICULTY_ORDER[b.difficulty] || 999;
+                        break;
+                    case 'type':
+                        valueA = a.questionType || 'comprehension';
+                        valueB = b.questionType || 'comprehension';
+                        break;
+                    case 'words':
+                        valueA = getAudioTextForQuestion(a).split(/\s+/).filter(word => word.length > 0).length;
+                        valueB = getAudioTextForQuestion(b).split(/\s+/).filter(word => word.length > 0).length;
+                        break;
+                    case 'parent':
+                        valueA = a.parentQuestion || 0;
+                        valueB = b.parentQuestion || 0;
+                        break;
+                    default:
+                        return 0;
+                }
+                
+                if (direction === 'asc') {
+                    return valueA > valueB ? 1 : valueA < valueB ? -1 : 0;
+                } else {
+                    return valueA < valueB ? 1 : valueA > valueB ? -1 : 0;
+                }
+            });
+            
+            // Update current sort state
+            currentSort = { column, direction };
+            
+            // Re-populate table with sorted data
+            populateTableWithData(sortedQuestions);
+        }
+
+        function populateTableWithData(questions) {
+            const tbody = document.getElementById('questionsTableBody');
+            tbody.innerHTML = '';
+
+            questions.forEach(question => {
+                const row = document.createElement('tr');
+                
+                const difficultyColor = DIFFICULTY_COLORS[question.difficulty] || '#6c757d';
+                const audioText = getAudioTextForQuestion(question);
+                const wordCount = audioText.split(/\s+/).filter(word => word.length > 0).length;
+                
+                // Handle parent question display
+                let parentDisplay = 'N/A';
+                if (question.questionType === 'listening' && question.parentQuestion) {
+                    parentDisplay = `#${question.parentQuestion}`;
+                }
+                
+                row.innerHTML = `
+                    <td><strong>#${question.id}</strong></td>
+                    <td><span class="difficulty-badge" style="background-color: ${difficultyColor}">${question.difficulty}</span></td>
+                    <td><span class="type-badge">${question.questionType === 'listening' ? '👂' : question.questionType === 'fill-in-the-blank' ? '✏️' : '📖'}${question.audioTemplate ? ' <span class="template-badge">T</span>' : ''}</span></td>
+                    <td class="audio-text" title="${audioText}">${audioText}</td>
+                    <td style="text-align: center; font-weight: 500; color: #667eea;">${wordCount}</td>
+                    <td style="text-align: center; color: #666; font-style: ${parentDisplay === 'N/A' ? 'italic' : 'normal'};">${parentDisplay}</td>
+                    <td>${question.source}</td>
+                    <td class="tags">${(question.tags || []).join(', ')}</td>
+                `;
+                
+                tbody.appendChild(row);
+            });
+        }
+
+        // Initialize when page loads
+        loadQuestions();
+
+        // Hamburger menu toggle logic
+        const hamburgerBtn = document.getElementById('hamburgerBtn');
+        const menuDropdown = document.getElementById('menuDropdown');
+        const hamburgerMenu = document.getElementById('hamburgerMenu');
+        hamburgerBtn.addEventListener('click', function(e) {
+            e.stopPropagation();
+            hamburgerMenu.classList.toggle('open');
+        });
+        document.addEventListener('click', function(e) {
+            if (!hamburgerMenu.contains(e.target)) {
+                hamburgerMenu.classList.remove('open');
+            }
+        });
+    </script>
+</body>
+</html> 

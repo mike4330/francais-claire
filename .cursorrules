@@ -1,0 +1,145 @@
+# French Language Learning System - Cursor Rules
+
+## 🚨 CRITICAL: Question File Organization
+
+**DO NOT add new questions to `questions.json` - this is the original/legacy file and should not be modified.**
+
+### File Structure for New Questions:
+- **`questions-a.json`** → A1 & A2 levels (ID range: 34-99)
+- **`questions-b.json`** → B1 & B2 levels (ID range: 200-299)  
+- **`questions-c.json`** → C1 & C2 levels (ID range: 100-199)
+
+## 📋 Adding New Questions
+
+### Step 1: Determine CEFR Level & Target File
+- **A1 Beginner** (max 9 words) → `questions-a.json`
+- **A2 Elementary** (max 14 words) → `questions-a.json`
+- **B1 Intermediate** (max 25 words) → `questions-b.json`
+- **B2 Upper-Intermediate** (max 38 words) → `questions-b.json`
+- **C1 Advanced** (max 60 words) → `questions-c.json`
+- **C2 Proficiency** (max 90 words) → `questions-c.json`
+
+### Step 2: ID Assignment
+Check existing IDs in target file and assign next available ID:
+- **questions-a.json**: Last used ID ~42, use 43+
+- **questions-b.json**: Last used ID ~222, use 223+
+- **questions-c.json**: Last used ID ~112, use 113+
+
+### Step 3: Question Structure Template
+
+```json
+{
+    "id": [NEXT_AVAILABLE_ID],
+    "audioText": "[French text - must respect CEFR word limits]",
+    "question": "[English comprehension question OR 'Qu'est-ce que vous avez entendu?' for listening]",
+    "questionType": "comprehension" | "listening" | "fill-in-the-blank",
+    "options": [
+        "[Option A]",
+        "[Option B]", 
+        "[Option C]",
+        "[Option D]"
+    ],
+    "correct": [0-3],
+    "explanation": "[Detailed explanation in English]",
+    "difficulty": "[A1|A2|B1|B2|C1|C2]",
+    "source": "[Content source description]",
+    "tags": ["tag1", "tag2", "tag3"]
+}
+```
+
+### Step 4: Required Fields Validation
+
+**✅ Mandatory Fields:**
+- `id`: Unique integer in correct range
+- `audioText`: French text within CEFR word limits
+- `question`: Clear question in English or French
+- `questionType`: One of the three valid types
+- `options`: Array of exactly 4 options
+- `correct`: Index (0-3) of correct answer
+- `explanation`: Detailed explanation
+- `difficulty`: Valid CEFR level
+- `source`: Brief content source
+- `tags`: Array of relevant tags
+
+**🎯 Optional Fields:**
+- `parentQuestion`: ID of related comprehension question (for listening variants)
+- `audioTemplate`: Template for variable content
+- `templateVariables`: Variables for templates
+
+## 📝 Content Guidelines
+
+### CEFR Word Limits (Strictly Enforced):
+- **A1**: Maximum 9 words
+- **A2**: Maximum 14 words  
+- **B1**: Maximum 25 words
+- **B2**: Maximum 38 words
+- **C1**: Maximum 60 words
+- **C2**: Maximum 90 words
+
+### Question Types:
+
+1. **comprehension**: English question testing understanding
+   - Focus on main ideas, details, implications
+   - 4 plausible options with clear correct answer
+
+2. **listening**: French "Qu'est-ce que vous avez entendu?"
+   - Test exact auditory comprehension
+   - Options in French with subtle variations
+   - Often paired with comprehension question via `parentQuestion`
+
+3. **fill-in-the-blank**: Missing word completion
+   - Question format: "Text with ______ gap"
+   - Test vocabulary and grammar knowledge
+
+### Tag Guidelines:
+Use descriptive, lowercase tags separated by hyphens:
+- **Topics**: politics, weather, food, technology, health
+- **Skills**: listening, exact-comprehension, fill-in-the-blank
+- **Content**: news, simplified, authentic-french
+- **Grammar**: future-perfect, verb-conjugation, gender-agreement
+
+## 🔍 Quality Checklist
+
+Before adding a question:
+- [ ] Word count within CEFR limits
+- [ ] Correct file for difficulty level
+- [ ] Unique ID in proper range
+- [ ] All mandatory fields present
+- [ ] Explanation references specific French phrases
+- [ ] Tags are relevant and descriptive
+- [ ] Options are plausible but only one correct
+- [ ] JSON syntax is valid
+
+## 🛠️ Testing Commands
+
+After adding questions, run analysis:
+```bash
+bash analyze-questions.sh
+```
+
+## 📊 Current Distribution (Reference)
+- A1: 2 questions
+- A2: 12 questions  
+- B1: 22 questions
+- B2: 26 questions
+- C1: 13 questions
+- C2: 2 questions (after recent addition)
+
+**Priority**: Create more A1, C1, and C2 content to balance distribution.
+
+## 🚫 Common Mistakes to Avoid
+
+1. **Never modify `questions.json`** - legacy file
+2. **Don't exceed word limits** - breaks CEFR classification
+3. **Don't reuse IDs** - causes conflicts
+4. **Don't forget parentQuestion** - for listening variants
+5. **Don't use informal tags** - maintain consistency
+6. **Don't create implausible distractors** - reduces pedagogical value
+
+## 🎯 Underrepresented Topics for New Questions
+- Digital technology and AI policy (C2)
+- Academic/university contexts (C1)
+- Cultural heritage and arts (C1/C2)
+- Environmental law and climate policy (B2/C1)
+- Daily life scenarios (A1/A2)
+- Professional contexts (B2/C1) 

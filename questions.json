@@ -1,0 +1,595 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "audioText": "Bonjour, comment allez-vous?",
+            "question": "What greeting did you hear?",
+            "questionType": "listening",
+            "options": [
+                "Bonjour, comment allez-vous?",
+                "Bonsoir, comment allez-vous?", 
+                "Au revoir, à bientôt",
+                "Bonjour, comment vous appelez-vous?"
+            ],
+            "correct": 0,
+            "explanation": "The speaker said 'Bonjour, comment allez-vous?' which means 'Hello, how are you?'",
+            "difficulty": "A1",
+            "source": "Basic greeting",
+            "tags": ["greeting", "politeness"]
+        },
+        {
+            "id": 3,
+            "audioText": "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+            "question": "What does tomorrow's weather forecast predict?",
+            "questionType": "comprehension",
+            "options": [
+                "Rain everywhere in France",
+                "Sun everywhere in France",
+                "Showers in the north, sun in the south",
+                "Snow in the mountains only"
+            ],
+            "correct": 2,
+            "explanation": "'Averses dans le nord et du soleil dans le sud' means showers in the north and sun in the south of France.",
+            "difficulty": "B1",
+            "source": "Weather Report",
+            "tags": ["weather", "geography", "forecast"]
+        },
+        {
+            "id": 4,
+            "audioText": "Un politicien français propose de changer le nom de la langue française. \"Il sait être très inventif quand il s'agit de se rendre désagréable\"",
+            "question": "What does the speaker say about the politician's proposal?",
+            "questionType": "comprehension",
+            "options": [
+                "He wants to change the French language grammar",
+                "He proposed changing the name of the French language", 
+                "He wants to make French easier to learn",
+                "He suggested creating a new French dialect"
+            ],
+            "correct": 1,
+            "explanation": "The politician 'propose de changer le nom de la langue française' - proposes to change the name of the French language. The quote criticizes him as being 'inventive when it comes to making himself unpleasant.'",
+            "difficulty": "B2",
+            "source": "French Political Commentary",
+            "tags": ["politics", "language", "controversy", "criticism"]
+        },
+        {
+            "id": 5,
+            "audioText": "Le mariage du milliardaire et de l'ancienne journaliste Lauren Sanchez doit se tenir dans la cité des Doges. Il aurait décidé de donner un million d'euros à une association de protection de la lagune, ainsi qu'à deux autres organisations locales, pour calmer les esprits.",
+            "question": "Why is the billionaire giving money to local organizations?",
+            "questionType": "comprehension",
+            "options": [
+                "To fund his wedding celebration in Venice",
+                "To support his fiancée's journalism career",
+                "To calm public opinion about the wedding location",
+                "To invest in lagoon tourism development"
+            ],
+            "correct": 2,
+            "explanation": "He gives money 'pour calmer les esprits' - to calm spirits/public opinion. The donations to the lagoon protection association and local organizations are meant to appease concerns about the high-profile wedding in Venice ('la cité des Doges').",
+            "difficulty": "C1",
+            "source": "Celebrity News",
+            "tags": ["celebrity", "marriage", "venice", "environment", "PR"]
+        },
+        {
+            "id": 6,
+            "audioText": "Le PS renoue avec la censure, mais pas avec LFI : « Les socialistes sont revenus à la maison, mais tout n'est pas oublié. C'est à cause d'eux que le gouvernement a pu adopter le pire budget depuis des années »",
+            "question": "What is the relationship between PS and LFI regarding the censure motion?",
+            "questionType": "comprehension",
+            "options": [
+                "PS and LFI are working together on the censure motion",
+                "PS supports censure but is not cooperating with LFI",
+                "LFI has convinced PS to abandon the censure motion",
+                "Both parties oppose any censure motion"
+            ],
+            "correct": 1,
+            "explanation": "'Le PS renoue avec la censure, mais pas avec LFI' - PS reconnects with censure, but not with LFI. The quote suggests PS has 'returned home' (to opposition politics) but hasn't forgiven LFI's role in allowing 'the worst budget in years' to pass.",
+            "difficulty": "C2",
+            "source": "French Parliamentary Politics",
+            "tags": ["politics", "parliament", "censure", "socialist-party", "coalition", "budget"]
+        },
+        {
+            "id": 7,
+            "audioText": "Le parti socialiste veut critiquer le gouvernement, mais refuse de travailler avec l'autre parti de gauche à cause du passé.",
+            "question": "What does the socialist party want to do?",
+            "questionType": "comprehension",
+            "options": [
+                "Work together with the other left-wing party",
+                "Support the current government",
+                "Criticize the government but work independently",
+                "Forget about past political disagreements"
+            ],
+            "correct": 2,
+            "explanation": "The socialists 'veut critiquer le gouvernement, mais refuse de travailler avec l'autre parti' - want to criticize the government, but refuse to work with the other party due to past issues. This shows they want to act independently.",
+            "difficulty": "B1",
+            "source": "Simplified Political News",
+            "tags": ["politics", "disagreement", "cooperation", "government", "criticism"]
+        },
+        {
+            "id": 8,
+            "audioText": "Économies sur les dépenses de santé : \"Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible\"",
+            "question": "What approach does the speaker suggest for healthcare sustainability?",
+            "questionType": "comprehension",
+            "options": [
+                "Reduce the number of hospitals and medical staff",
+                "Focus on prevention to reduce illness",
+                "Increase healthcare prices for patients",
+                "Limit access to expensive medical treatments"
+            ],
+            "correct": 1,
+            "explanation": "The speaker says 'il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - we need to ensure people get sick as late and as little as possible. This describes a prevention-focused approach to make healthcare sustainable.",
+            "difficulty": "C1",
+            "source": "French Healthcare Policy",
+            "tags": ["healthcare", "policy", "prevention", "sustainability", "economics"]
+        },
+        {
+            "id": 9,
+            "audioText": "Ce mercredi, aux alentours de 21 heures, la capitale a subi un orage aussi intense que bref. Une pluie violente et un vent tout aussi puissant ont causé des dégâts, pour l'heure légers.",
+            "question": "What characterized the storm that hit the capital?",
+            "questionType": "comprehension",
+            "options": [
+                "It lasted several hours with moderate intensity",
+                "It was very intense but short-lived",
+                "It caused major damage throughout the city",
+                "It brought only light rain and gentle winds"
+            ],
+            "correct": 1,
+            "explanation": "The storm was described as 'aussi intense que bref' - as intense as it was brief. Despite violent rain and powerful wind, it was short-lived, and damage was 'pour l'heure légers' - so far minor.",
+            "difficulty": "B2",
+            "source": "Weather News Report",
+            "tags": ["weather", "storm", "news", "capital", "damage"]
+        },
+        {
+            "id": 10,
+            "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+            "parentQuestion": 8,
+            "question": "What did you hear?",
+            "questionType": "listening",
+            "options": [
+                "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+                "Pour que le système de santé soit durable, il faut qu'on fasse en sorte que les gens soient malades le plus tôt et le moins possible",
+                "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le plus possible",
+                "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient guéris le plus tard et le moins possible"
+            ],
+            "correct": 0,
+            "explanation": "The exact phrase was 'Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - for the health system to be sustainable, we must ensure people get sick as late and as little as possible.",
+            "difficulty": "C1",
+            "source": "French Healthcare Policy - Listening",
+            "tags": ["healthcare", "policy", "listening", "exact-comprehension", "has-simplified-version"]
+        },
+        {
+            "id": 11,
+            "audioText": "Le pape confirme le célibat sacerdotal. Comment le pape Léon XIV entend relever le défi de la crise des vocations chez les jeunes catholiques",
+            "question": "What challenge is Pope Leo XIV addressing?",
+            "questionType": "comprehension",
+            "options": [
+                "The challenge of modernizing Catholic liturgy",
+                "The crisis of religious vocations among young Catholics",
+                "The problem of declining church attendance",
+                "The issue of financial difficulties in parishes"
+            ],
+            "correct": 1,
+            "explanation": "The Pope is addressing 'le défi de la crise des vocations chez les jeunes catholiques' - the challenge of the vocations crisis among young Catholics. This refers to fewer young people choosing religious life as priests, nuns, etc.",
+            "difficulty": "B2",
+            "source": "Vatican News",
+            "tags": ["religion", "catholic-church", "pope", "vocations", "youth"]
+        },
+        {
+            "id": 12,
+            "audioText": "Plusieurs associations portent plainte contre une entreprise pour pollution de l'environnement",
+            "question": "What are the associations doing?",
+            "questionType": "comprehension",
+            "options": [
+                "They are protesting in the streets",
+                "They are filing a legal complaint against a company",
+                "They are negotiating with the government",
+                "They are organizing environmental campaigns"
+            ],
+            "correct": 1,
+            "explanation": "The associations are 'portent plainte contre une entreprise' - filing a complaint against a company for environmental pollution. 'Porter plainte' means to file a legal complaint or lawsuit.",
+            "difficulty": "B2",
+            "source": "Environmental News",
+            "tags": ["environment", "legal-action", "pollution", "associations", "company"]
+        },
+        {
+            "id": 14,
+            "audioText": "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+            "parentQuestion": 3,
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+                "La météo de demain prévoit des averses dans le sud et du soleil dans le nord de la France.",
+                "La météo de demain prévoit de la pluie dans le nord et des nuages dans le sud de la France.",
+                "La météo de demain prévoit des orages dans le nord et du soleil dans le sud de la France."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.' - Tomorrow's weather forecast predicts showers in the north and sun in the south of France.",
+            "difficulty": "B1",
+            "source": "Weather Report - Listening",
+            "tags": ["weather", "geography", "forecast", "listening", "exact-comprehension"]
+        },
+        {
+            "id": 15,
+            "audioText": "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.",
+            "parentQuestion": 5,
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.",
+                "Le milliardaire va donner un million d'euros à des associations italiennes pour calmer les critiques de son mariage dans la cité des Doges.",
+                "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son divorce dans la cité des Doges.",
+                "Le milliardaire va donner deux millions d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.' - The billionaire will give one million euros to Venetian associations to calm criticism of his wedding in the city of Doges.",
+            "difficulty": "B2",
+            "source": "Celebrity News - Listening",
+            "tags": ["celebrity", "marriage", "venice", "money", "PR", "listening", "exact-comprehension"]
+        },
+        {
+            "id": 16,
+            "audioText": "Un agent des routes de 24 ans a été victime d'un accident alors qu'il portait assistance à un véhicule en panne dans l'Eure.",
+            "question": "What happened to the road worker?",
+            "questionType": "comprehension",
+            "options": [
+                "He was helping repair a broken vehicle in Eure",
+                "He was involved in an accident while assisting a broken-down vehicle",
+                "He caused an accident while working on the roads",
+                "He was directing traffic around a vehicle breakdown"
+            ],
+            "correct": 1,
+            "explanation": "The road worker 'a été victime d'un accident alors qu'il portait assistance à un véhicule en panne' - was the victim of an accident while assisting a broken-down vehicle. The text indicates he was helping someone with a breakdown when the incident occurred.",
+            "difficulty": "B2",
+            "source": "French Traffic News",
+            "tags": ["news", "accident", "road-worker", "assistance", "eure", "traffic"]
+        },
+        {
+            "id": 17,
+            "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
+            "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
+            "questionType": "comprehension",
+            "options": [
+                "She confirmed she will definitely run for election",
+                "She has considered the possibility that she might not be able to run",
+                "She announced her withdrawal from the electoral race",
+                "She criticized the election process in her region"
+            ],
+            "correct": 1,
+            "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
+            "difficulty": "C1",
+            "source": "French Political Interview",
+            "tags": ["politics", "elections", "deputy", "pas-de-calais", "candidacy", "interview"]
+        },
+        {
+            "id": 18,
+            "audioText": "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.",
+            "parentQuestion": 17,
+            "audioTemplate": "Une {political_person} a {reporting_verb} qu'elle pense {uncertainty} ne pas pouvoir {action_verb} aux {event_type}.",
+            "templateVariables": {
+                "political_person": {
+                    "options": ["femme politique", "députée", "candidate", "élue"],
+                    "weights": [0.4, 0.3, 0.2, 0.1]
+                },
+                "reporting_verb": {
+                    "options": ["dit", "déclaré", "affirmé", "expliqué"],
+                    "weights": [0.4, 0.3, 0.2, 0.1]
+                },
+                "uncertainty": {
+                    "options": ["peut-être", "probablement", "sans doute"],
+                    "weights": [0.5, 0.3, 0.2]
+                },
+                "action_verb": {
+                    "options": ["participer", "se présenter", "concourir"],
+                    "weights": [0.5, 0.3, 0.2]
+                },
+                "event_type": {
+                    "options": ["élections", "prochaines élections", "élections locales"],
+                    "weights": [0.5, 0.3, 0.2]
+                }
+            },
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.",
+                "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir gagner aux élections.",
+                "Une femme politique a dit qu'elle pense peut-être ne pas vouloir participer aux élections.",
+                "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir organiser aux élections."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.' - A female politician said she thinks she might not be able to participate in the elections.",
+            "difficulty": "B1",
+            "source": "Political News - Listening",
+            "tags": ["politics", "elections", "participation", "listening", "exact-comprehension", "simplified", "template-enabled"]
+        },
+        {
+            "id": 19,
+            "audioText": "Clémence et Malik donnent des explications après leur séparation difficile suite à l'émission de télé-réalité. Le couple de cette saison a annoncé une rupture qui a provoqué de nombreuses réactions sur les réseaux sociaux.",
+            "question": "What happened with Clémence and Malik after the reality TV show?",
+            "questionType": "comprehension",
+            "options": [
+                "They got married and are planning their honeymoon",
+                "They explained their difficult separation and the public reaction",
+                "They announced they are staying together despite problems",
+                "They decided to participate in another reality show"
+            ],
+            "correct": 1,
+            "explanation": "Clémence and Malik 'donnent des explications après leur séparation difficile' - give explanations after their difficult separation. Their breakup announcement 'a provoqué de nombreuses réactions sur les réseaux sociaux' - provoked many reactions on social media.",
+            "difficulty": "B2",
+            "source": "French Reality TV News",
+            "tags": ["reality-tv", "celebrity", "separation", "social-media", "entertainment"]
+        },
+        {
+            "id": 20,
+            "audioText": "Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.",
+            "parentQuestion": 19,
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.",
+                "Clémence et Malik ont expliqué leur mariage après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.",
+                "Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur succès sur internet.",
+                "Clémence et Malik ont expliqué leur séparation avant l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.' - Clémence and Malik explained their separation after the TV show. Many people talked about their breakup on the internet.",
+            "difficulty": "B1",
+            "source": "Reality TV News - Listening",
+            "tags": ["reality-tv", "separation", "internet", "listening", "exact-comprehension", "simplified"]
+        },
+        {
+            "id": 21,
+            "audioText": "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
+            "parentQuestion": 3,
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
+                "Demain il va pleuvoir dans le sud et il y aura du soleil dans le nord.",
+                "Demain il va neiger dans le nord et il y aura du soleil dans le sud.",
+                "Demain il va pleuvoir dans le nord et il y aura des nuages dans le sud."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.' - Tomorrow it will rain in the north and there will be sun in the south.",
+            "difficulty": "A2",
+            "source": "Weather Report - Listening",
+            "tags": ["weather", "geography", "forecast", "listening", "exact-comprehension", "basic-vocabulary"]
+        },
+        {
+            "id": 22,
+            "audioText": "En vingt ans, ces céréales ont perdu la moitié de leur sucre.",
+            "question": "What happened to these cereals over twenty years?",
+            "questionType": "comprehension",
+            "options": [
+                "They lost half their sugar.",
+                "They doubled their sugar.",
+                "They lost all their sugar.",
+                "They became more expensive."
+            ],
+            "correct": 0,
+            "explanation": "The sentence says 'ont perdu la moitié de leur sucre' – they lost half their sugar over twenty years.",
+            "difficulty": "A2",
+            "source": "Nutrition News",
+            "tags": ["food", "nutrition", "change", "cereals"]
+        },
+        {
+            "id": 23,
+            "audioText": "Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.",
+            "question": "Why was the businesswoman sentenced to death?",
+            "questionType": "comprehension",
+            "options": [
+                "For orchestrating the country's largest fraud.",
+                "For helping the government fight corruption.",
+                "For starting a successful business.",
+                "For organizing a charity event."
+            ],
+            "correct": 0,
+            "explanation": "She was sentenced to death for orchestrating the country's largest fraud ('la plus importante fraude du pays').",
+            "difficulty": "B1",
+            "source": "Legal News",
+            "tags": ["crime", "business", "law", "punishment", "fraud"]
+        },
+        {
+            "id": 24,
+            "audioText": "Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.",
+            "parentQuestion": 23,
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.",
+                "Une femme d'affaires a été condamnée à mort pour avoir organisé un événement caritatif.",
+                "Une femme d'affaires a été condamnée à mort pour avoir aidé le gouvernement à lutter contre la corruption.",
+                "Une femme d'affaires a été condamnée à mort pour avoir créé une entreprise prospère."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.' - A businesswoman was sentenced to death for orchestrating the country's largest fraud.",
+            "difficulty": "B1",
+            "source": "Legal News - Listening",
+            "tags": ["crime", "business", "law", "punishment", "fraud", "listening", "exact-comprehension"]
+        },
+        {
+            "id": 25,
+            "audioText": "Un épisode venteux et pluvieux impressionnant, les pompiers ont reçu un très grand nombre d'appels.",
+            "question": "What happened during the impressive windy and rainy episode?",
+            "questionType": "comprehension",
+            "options": [
+                "The firefighters received a very large number of calls.",
+                "The firefighters closed all the roads.",
+                "The firefighters organized a parade.",
+                "The firefighters went on strike."
+            ],
+            "correct": 0,
+            "explanation": "The sentence says 'les pompiers ont reçu un très grand nombre d'appels' – the firefighters received a very large number of calls during the event.",
+            "difficulty": "B1",
+            "source": "Weather News",
+            "tags": ["weather", "emergency", "firefighters", "calls", "rain", "wind"]
+        },
+        {
+            "id": 26,
+            "audioText": "Assassinat dans les beaux quartiers : une policière et une alliance maudite au cœur du procès.",
+            "question": "What is at the heart of the trial in the upscale neighborhoods?",
+            "questionType": "comprehension",
+            "options": [
+                "A policewoman and a cursed alliance.",
+                "A bank robbery and a missing painting.",
+                "A mayor and a political scandal.",
+                "A chef and a famous restaurant."
+            ],
+            "correct": 0,
+            "explanation": "The sentence says 'une policière et une alliance maudite au cœur du procès' – a policewoman and a cursed alliance are at the heart of the trial.",
+            "difficulty": "B1",
+            "source": "Crime News",
+            "tags": ["crime", "trial", "police", "alliance", "mystery", "vocabulary"]
+        },
+        {
+            "id": 27,
+            "audioText": "Je voudrais une baguette, s'il vous plaît.",
+            "question": "What does the speaker want to buy?",
+            "questionType": "comprehension",
+            "options": [
+                "A baguette",
+                "A croissant",
+                "A coffee",
+                "A newspaper"
+            ],
+            "correct": 0,
+            "explanation": "The speaker says 'Je voudrais une baguette' – I would like a baguette.",
+            "difficulty": "A1",
+            "source": "Synthetic Daily Life",
+            "tags": ["shopping", "food", "bread", "politeness", "A1"]
+        },
+        {
+            "id": 28,
+            "audioTemplate": "La météo prévoit {weather} pour {event} {day}.",
+            "templateVariables": {
+                "weather": {
+                    "options": ["du soleil", "de la pluie", "du vent", "de la neige"],
+                    "weights": [0.4, 0.3, 0.2, 0.1]
+                },
+                "event": {
+                    "options": ["la fête", "le marché", "le concert", "le match"],
+                    "weights": [0.4, 0.3, 0.2, 0.1]
+                },
+                "day": {
+                    "options": ["ce week-end", "demain", "ce soir", "lundi"],
+                    "weights": [0.4, 0.3, 0.2, 0.1]
+                }
+            },
+            "question": "What does the weather forecast predict for the event?",
+            "questionType": "comprehension",
+            "options": [
+                "Sunshine for the festival this weekend.",
+                "Rain for the market tomorrow.",
+                "Wind for the concert tonight.",
+                "Snow for the match on Monday."
+            ],
+            "correct": 0,
+            "explanation": "The sentence says 'La météo prévoit du soleil pour la fête ce week-end' – the weather forecast predicts sunshine for the festival this weekend.",
+            "difficulty": "A2",
+            "source": "Synthetic Weather",
+            "tags": ["weather", "forecast", "festival", "prévoit", "A2", "template-enabled"]
+        },
+        {
+            "id": 29,
+            "audioText": "Le règlement aura prévu des exceptions pour les cas particuliers.",
+            "question": "What will the regulation have done for special cases?",
+            "questionType": "comprehension",
+            "options": [
+                "Provided exceptions for special cases.",
+                "Banned all exceptions.",
+                "Ignored special cases.",
+                "Delayed the implementation."
+            ],
+            "correct": 0,
+            "explanation": "The sentence says 'aura prévu des exceptions' – will have provided exceptions for special cases.",
+            "difficulty": "B2",
+            "source": "Synthetic Legal/Administrative",
+            "tags": ["regulation", "exceptions", "planning", "prévoir", "future-perfect", "B2"]
+        },
+        {
+            "id": 30,
+            "audioText": "Le règlement aura prévu des exceptions pour les cas particuliers.",
+            "parentQuestion": 29,
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "Le règlement aura prévu des exceptions pour les cas particuliers.",
+                "Le règlement aura interdit des exceptions pour les cas particuliers.",
+                "Le règlement aura prévu des exceptions pour tous les cas.",
+                "Le règlement aura ignoré les cas particuliers."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'Le règlement aura prévu des exceptions pour les cas particuliers.' - The regulation will have provided exceptions for special cases.",
+            "difficulty": "B2",
+            "source": "Synthetic Legal/Administrative - Listening",
+            "tags": ["regulation", "exceptions", "planning", "prévoir", "future-perfect", "B2", "listening", "exact-comprehension"]
+        },
+        {
+            "id": 31,
+            "audioText": "Pour améliorer la santé publique, nous devons encourager les gens à rester en bonne santé plus longtemps.",
+            "parentQuestion": 10,
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "Pour améliorer la santé publique, nous devons encourager les gens à rester en bonne santé plus longtemps.",
+                "Pour améliorer la santé publique, nous devons encourager les gens à rester en bonne santé plus souvent.",
+                "Pour améliorer la santé publique, nous devons encourager les gens à aller chez le médecin plus longtemps.",
+                "Pour améliorer la santé publique, nous devons encourager les gens à rester à la maison plus longtemps."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'Pour améliorer la santé publique, nous devons encourager les gens à rester en bonne santé plus longtemps.' - To improve public health, we must encourage people to stay healthy longer.",
+            "difficulty": "B2",
+            "source": "Healthcare Policy - Listening",
+            "tags": ["healthcare", "policy", "prevention", "listening", "exact-comprehension", "simplified"]
+        },
+        {
+            "id": 32,
+            "audioText": "Alban Gervaise a été tué de plusieurs coups de couteaux devant une école à Marseille, en mai 2022. Ce mercredi 25 juin, son meurtrier vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison.",
+            "question": "What happened to the person who killed Alban Gervaise?",
+            "questionType": "comprehension",
+            "options": [
+                "He was declared criminally irresponsible and will not serve prison time",
+                "He was sentenced to life imprisonment",
+                "He was released immediately after the trial",
+                "He was transferred to another jurisdiction"
+            ],
+            "correct": 0,
+            "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
+            "difficulty": "C1",
+            "source": "French Legal News",
+            "tags": ["crime", "legal-system", "criminal-responsibility", "mental-health", "justice"]
+        },
+        {
+            "id": 33,
+            "audioText": "Un homme a tué quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il n'ira pas en prison.",
+            "parentQuestion": 32,
+            "question": "Qu'est-ce que vous avez entendu?",
+            "questionType": "listening",
+            "options": [
+                "Un homme a tué quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il n'ira pas en prison.",
+                "Un homme a tué quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il est responsable à cause de problèmes mentaux et il n'ira pas en prison.",
+                "Un homme a tué quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il ira en prison.",
+                "Un homme a volé quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il n'ira pas en prison."
+            ],
+            "correct": 0,
+            "explanation": "La phrase exacte était 'Un homme a tué quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il n'ira pas en prison.' - A man killed someone in Marseille in 2022. The court decided he is not responsible due to mental problems and he will not go to prison.",
+            "difficulty": "B2",
+            "source": "Legal News - Listening",
+            "tags": ["crime", "legal-system", "mental-health", "listening", "exact-comprehension", "simplified"]
+        },
+        {
+            "id": 34,
+            "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
+            "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
+            "questionType": "comprehension",
+            "options": [
+                "To completely ban American technology companies from operating in France",
+                "To strengthen digital sovereignty through new regulatory safeguards for data protection",
+                "To force American companies to relocate their headquarters to Europe",
+                "To create French alternatives to replace all American digital platforms"
+            ],
+            "correct": 1,
+            "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
+            "difficulty": "C2",
+            "source": "French Digital Policy",
+            "tags": ["digital-sovereignty", "technology", "regulation", "data-protection", "policy", "european-union", "algorithms", "privacy"]
+        }
+    ]
+} 
