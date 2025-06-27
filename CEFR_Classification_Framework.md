@@ -1,4 +1,4 @@
-# French Content Difficulty Classification System
+# francais claire
 ## CEFR-Based Audio Learning Framework
 
 ### Overview
@@ -214,7 +214,7 @@ Listening Exercise
 
 ---
 
-*This framework transforms French language learning from traditional classroom exercises into authentic media consumption training, preparing learners for real-world French communication and news comprehension.*
+*This framework transforms francais claire from traditional classroom exercises into authentic media consumption training, preparing learners for real-world French communication and news comprehension.*
 
 ## Current Implementation Status
 

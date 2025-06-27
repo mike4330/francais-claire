@@ -98,7 +98,7 @@ Questions can include semantic variations to prevent memorization:
 language/
 ├── french_listening_app.html    # Main application
 ├── planning.html               # Question management interface
-├── questions.json              # Question database
+├── questions.json              # Question database (legacy, do not modify; see new files for current questions)
 ├── redis-cache-server.js       # WebSocket cache server
 ├── start-cache-server.sh       # Cache server startup script
 ├── cache-monitor.html          # Cache monitoring dashboard
@@ -250,7 +250,7 @@ The app accepts new content through:
 
 ## 📄 License
 
-This project is part of a language learning system. See individual file headers for specific licensing information.
+This project is part of francais claire. See individual file headers for specific licensing information.
 
 ## 🔗 Related Files
 

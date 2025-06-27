@@ -1563,7 +1563,7 @@
             updateDifficultySummary();
             
             console.log('Question added successfully:', newQuestion);
-            console.log('Tip: This question is saved to localStorage. To add it permanently to questions.json, tell your AI assistant!');
+            console.log('Tip: This question is saved to localStorage. To add it permanently to the new question files, tell your AI assistant!');
             return true;
         }
 
@@ -1586,7 +1586,7 @@
                 questions: questionsOnly
             };
             
-            console.log('Copy this to update your questions.json file:');
+            console.log('Copy this to update your new question files:');
             console.log(JSON.stringify(jsonOutput, null, 4));
             return jsonOutput;
         }
