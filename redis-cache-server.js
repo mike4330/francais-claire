@@ -89,14 +89,16 @@ wss.on('connection', (ws) => {
                     ws.send(JSON.stringify({ type: 'pong', timestamp: Date.now() }));
                     break;
                     
-                case 'track_vocab_miss':
-                    await handleTrackVocabMiss(ws, data.words, data.uuid);
+
+                    
+                case 'track_question_result':
+                    await handleTrackQuestionResult(ws, data.uuid, data.difficulty, data.isCorrect);
                     break;
-                case 'get_vocab_miss_stats':
-                    await handleGetVocabMissStats(ws, data.uuid);
+                case 'get_scoring_stats':
+                    await handleGetScoringStats(ws, data.uuid);
                     break;
-                case 'clear_vocab_miss':
-                    await handleClearVocabMiss(ws, data.uuid);
+                case 'clear_scoring_stats':
+                    await handleClearScoringStats(ws, data.uuid);
                     break;
                     
                 default:
@@ -265,94 +267,140 @@ async function handleEvictCache(ws, cacheKey) {
     }
 }
 
-// Handler to track vocabulary misses
-async function handleTrackVocabMiss(ws, words, uuid) {
+
+
+// Scoring system handlers
+async function handleTrackQuestionResult(ws, uuid, difficulty, isCorrect) {
     try {
         if (!redisClient.isReady) {
             throw new Error('Redis client not ready');
         }
-        if (!Array.isArray(words)) {
-            throw new Error('Words must be an array');
-        }
+
         if (!uuid) {
-            throw new Error('UUID is required for vocab miss tracking');
+            throw new Error('UUID is required for question result tracking');
         }
-        for (const word of words) {
-            if (typeof word === 'string' && word.trim().length > 0) {
-                const key = `vocabmiss:${uuid}:${word.toLowerCase()}`;
-                const newCount = await redisClient.incr(key);
-                log(`🔢 Vocab miss incremented: ${uuid} | ${word.toLowerCase()} = ${newCount}`);
-            }
+
+        if (!difficulty) {
+            throw new Error('Difficulty level is required for question result tracking');
         }
+
+        // Track total attempts for this difficulty level
+        const attemptsKey = `scoring:${uuid}:${difficulty}:attempts`;
+        const totalAttempts = await redisClient.incr(attemptsKey);
+
+        // Track correct answers for this difficulty level if correct
+        let correctAnswers = 0;
+        if (isCorrect) {
+            const correctKey = `scoring:${uuid}:${difficulty}:correct`;
+            correctAnswers = await redisClient.incr(correctKey);
+        } else {
+            // Get current correct count without incrementing
+            const correctKey = `scoring:${uuid}:${difficulty}:correct`;
+            const currentCorrect = await redisClient.get(correctKey);
+            correctAnswers = parseInt(currentCorrect) || 0;
+        }
+
+        const successRate = totalAttempts > 0 ? Math.round((correctAnswers / totalAttempts) * 100) : 0;
+
+        log(`📊 Question result tracked: ${uuid} | ${difficulty} | ${isCorrect ? 'CORRECT' : 'INCORRECT'} | Success rate: ${successRate}% (${correctAnswers}/${totalAttempts})`);
+
         ws.send(JSON.stringify({
-            type: 'track_vocab_miss_result',
-            success: true,
-            words: words
+            type: 'question_result_tracked',
+            uuid: uuid,
+            difficulty: difficulty,
+            isCorrect: isCorrect,
+            totalAttempts: totalAttempts,
+            correctAnswers: correctAnswers,
+            successRate: successRate
         }));
-        log(`📝 Tracked vocab misses for ${uuid}: ${words.join(', ')}`);
+
     } catch (error) {
-        log('❌ Vocab miss tracking error:', error.message);
+        log('❌ Track question result error:', error.message);
         ws.send(JSON.stringify({
             type: 'error',
-            message: 'Vocab miss tracking failed'
+            message: 'Question result tracking failed'
         }));
     }
 }
 
-// Handler to get all vocabulary miss stats
-async function handleGetVocabMissStats(ws, uuid) {
+async function handleGetScoringStats(ws, uuid) {
     try {
         if (!redisClient.isReady) {
             throw new Error('Redis client not ready');
         }
+
         if (!uuid) {
-            throw new Error('UUID is required for vocab miss stats');
+            throw new Error('UUID is required for scoring stats');
         }
-        const keys = await redisClient.keys(`vocabmiss:${uuid}:*`);
+
+        const difficultyLevels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
         const stats = {};
-        for (const key of keys) {
-            const word = key.replace(`vocabmiss:${uuid}:`, '');
-            const count = await redisClient.get(key);
-            stats[word] = parseInt(count, 10) || 0;
+
+        for (const difficulty of difficultyLevels) {
+            const attemptsKey = `scoring:${uuid}:${difficulty}:attempts`;
+            const correctKey = `scoring:${uuid}:${difficulty}:correct`;
+
+            const attempts = await redisClient.get(attemptsKey);
+            const correct = await redisClient.get(correctKey);
+
+            const totalAttempts = parseInt(attempts) || 0;
+            const correctAnswers = parseInt(correct) || 0;
+            const successRate = totalAttempts > 0 ? Math.round((correctAnswers / totalAttempts) * 100) : 0;
+
+            stats[difficulty] = {
+                attempts: totalAttempts,
+                correct: correctAnswers,
+                successRate: successRate
+            };
         }
+
+        log(`📊 Scoring stats sent for ${uuid}`);
+
         ws.send(JSON.stringify({
-            type: 'vocab_miss_stats',
+            type: 'scoring_stats_result',
+            uuid: uuid,
             stats: stats
         }));
-        log(`📊 Vocab miss stats sent for ${uuid} (${keys.length} words)`);
+
     } catch (error) {
-        log('❌ Vocab miss stats error:', error.message);
+        log('❌ Get scoring stats error:', error.message);
         ws.send(JSON.stringify({
             type: 'error',
-            message: 'Vocab miss stats retrieval failed'
+            message: 'Get scoring stats failed'
         }));
     }
 }
 
-// Handler to clear all vocabulary miss stats
-async function handleClearVocabMiss(ws, uuid) {
+async function handleClearScoringStats(ws, uuid) {
     try {
         if (!redisClient.isReady) {
             throw new Error('Redis client not ready');
         }
+
         if (!uuid) {
-            throw new Error('UUID is required for clearing vocab miss stats');
+            throw new Error('UUID is required for clearing scoring stats');
         }
-        const keys = await redisClient.keys(`vocabmiss:${uuid}:*`);
+
+        const keys = await redisClient.keys(`scoring:${uuid}:*`);
         let deleted = 0;
+
         if (keys.length > 0) {
             deleted = await redisClient.del(keys);
         }
+
+        log(`🗑️ Cleared ${deleted} scoring stats for ${uuid}`);
+
         ws.send(JSON.stringify({
-            type: 'clear_vocab_miss_result',
-            deleted: deleted
+            type: 'scoring_stats_cleared',
+            uuid: uuid,
+            deletedCount: deleted
         }));
-        log(`🗑️ Cleared ${deleted} vocab miss stats for ${uuid}`);
+
     } catch (error) {
-        log('❌ Clear vocab miss error:', error.message);
+        log('❌ Clear scoring stats error:', error.message);
         ws.send(JSON.stringify({
             type: 'error',
-            message: 'Vocab miss clear failed'
+            message: 'Clear scoring stats failed'
         }));
     }
 }

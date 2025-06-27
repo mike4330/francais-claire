@@ -392,100 +392,9 @@
             }
         }
 
-        .hamburger-menu {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            z-index: 100;
-        }
-        .hamburger-btn {
-            width: 40px;
-            height: 40px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            border: none;
-            border-radius: 50%;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            transition: box-shadow 0.2s;
-            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
-            padding: 0;
-            position: relative;
-        }
-        .hamburger-btn:focus {
-            outline: 2px solid #764ba2;
-        }
-        .hamburger-btn .bar {
-            display: block;
-            width: 22px;
-            height: 3px;
-            margin: 3px 0;
-            background: #fff;
-            border-radius: 2px;
-            transition: all 0.3s;
-        }
-        .menu-dropdown {
-            display: none;
-            position: absolute;
-            top: 48px;
-            right: 0;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 8px 24px rgba(102, 126, 234, 0.18);
-            min-width: 180px;
-            padding: 10px 0;
-            flex-direction: column;
-            z-index: 200;
-            animation: fadeIn 0.2s;
-        }
-        .menu-dropdown a {
-            display: block;
-            padding: 12px 24px;
-            color: #333;
-            text-decoration: none;
-            font-size: 1.05em;
-            transition: background 0.15s, color 0.15s;
-        }
-        .menu-dropdown a:hover {
-            background: #f3f4fa;
-            color: #764ba2;
-        }
-        .hamburger-menu.open .menu-dropdown {
-            display: flex;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(-10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+        /* Hamburger menu styles moved to styles.css */
 
-        #questionTypeIcon {
-            min-width: 175px;
-            height: 120px;
-            /* border: 4px solid #764ba2; */
-            border-radius: 6px;
-            background: #f8f9fa;
-            
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 4.5em;
-            color: #764ba2;
-            margin-bottom: 8px;
-            margin-right: 0;
-            box-sizing: border-box;
-            box-shadow: 0 6px 24px rgba(102, 126, 234, 0.18), 0 1.5px 6px rgba(0,0,0,0.07);
-            padding-left: 18px;
-            padding-right: 18px;
-        }
-        @media (max-width: 768px) {
-            #questionTypeIcon {
-                width: 80px;
-                height: 80px;
-                font-size: 2.5em;
-            }
-        }
+
     </style>
 </head>
 <body>
@@ -504,7 +413,8 @@
         </div>
         
         <div class="header">
-            <h1>🇫🇷 French Listening Practice</h1>
+            <img src="res/frenchapp.svg" alt="francais claire logo" style="height: 128px; width: 128px; margin-bottom: 10px;">
+            <h1>🇫🇷 Français Clair</h1>
             <p>Improve your French listening skills with interactive exercises</p>
         </div>
 
@@ -601,6 +511,31 @@
             </div>
         </div>
 
+        <!-- Scoring Statistics -->
+        <div class="aws-config" style="border-left-color: #28a745;">
+            <div class="config-header" onclick="toggleScoringStats()">
+                <h3>📊 Success Rate by Level</h3>
+                <button class="config-toggle-btn" id="scoringToggleBtn">🔽</button>
+            </div>
+            <div class="config-summary" id="scoringSummary">
+                Overall performance across CEFR levels
+            </div>
+            <div class="config-content collapsed" id="scoringContent">
+                <div id="scoringStatsContainer" style="margin-bottom: 15px;">
+                    <!-- Scoring stats will be populated by JavaScript -->
+                </div>
+                <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+                    <button class="btn btn-secondary" onclick="refreshScoringStats()" style="font-size: 0.9em; padding: 8px 15px;">
+                        🔄 Refresh Stats
+                    </button>
+                    <button class="btn btn-secondary" onclick="clearScoringStats()" style="font-size: 0.9em; padding: 8px 15px;">
+                        🗑️ Clear All Stats
+                    </button>
+                </div>
+                <small style="color: #666; margin-top: 10px; display: block;">Stats tracked per user • Stored in Redis • Persistent across sessions</small>
+            </div>
+        </div>
+
         <div class="progress">
             <div class="progress-bar" id="progressBar"></div>
         </div>
@@ -655,26 +590,7 @@
 
     <script>
         // --- User UUID Cookie Logic ---
-        function getCookie(name) {
-            const value = `; ${document.cookie}`;
-            const parts = value.split(`; ${name}=`);
-            if (parts.length === 2) return parts.pop().split(';').shift();
-        }
-        function setCookie(name, value, days) {
-            let expires = '';
-            if (days) {
-                const date = new Date();
-                date.setTime(date.getTime() + (days*24*60*60*1000));
-                expires = "; expires=" + date.toUTCString();
-            }
-            document.cookie = name + "=" + (value || "")  + expires + "; path=/";
-        }
-        function generateUUIDv4() {
-            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
-                const r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
-                return v.toString(16);
-            });
-        }
+        // Utility functions now in function.js: getCookie, setCookie, generateUUIDv4
         // Set UUID cookie if not present
         let userUUID = getCookie('french_listening_uuid');
         if (!userUUID) {
@@ -747,6 +663,12 @@
         const difficultyContent = document.getElementById('difficultyContent');
         const difficultySummary = document.getElementById('difficultySummary');
         const difficultyButtons = document.getElementById('difficultyButtons');
+
+        // Scoring stats elements
+        const scoringToggleBtn = document.getElementById('scoringToggleBtn');
+        const scoringContent = document.getElementById('scoringContent');
+        const scoringSummary = document.getElementById('scoringSummary');
+        const scoringStatsContainer = document.getElementById('scoringStatsContainer');
 
         // Hamburger menu toggle logic
         const hamburgerBtn = document.getElementById('hamburgerBtn');
@@ -1144,7 +1066,10 @@
                     (type === 'cache_store_result' && message.action === 'store_cache') ||
                     (type === 'stats_result' && message.action === 'get_stats') ||
                     (type === 'clear_cache_result' && message.action === 'clear_cache') ||
-                    (type === 'evict_cache_result' && message.action === 'evict_cache')) {
+                    (type === 'evict_cache_result' && message.action === 'evict_cache') ||
+                    (type === 'scoring_stats_result' && message.action === 'get_scoring_stats') ||
+                    (type === 'question_result_tracked' && message.action === 'track_question_result') ||
+                    (type === 'scoring_stats_cleared' && message.action === 'clear_scoring_stats')) {
                     matchingKey = key;
                     break;
                 }
@@ -1536,6 +1461,120 @@
             }
         }
 
+        // Scoring Statistics Functions
+        function toggleScoringStats() {
+            const isCollapsed = scoringContent.classList.contains('collapsed');
+            
+            if (isCollapsed) {
+                scoringContent.classList.remove('collapsed');
+                scoringToggleBtn.classList.remove('collapsed');
+                scoringToggleBtn.textContent = '🔽';
+                scoringSummary.classList.remove('show');
+                // Auto-load stats when opened
+                refreshScoringStats();
+            } else {
+                scoringContent.classList.add('collapsed');
+                scoringToggleBtn.classList.add('collapsed');
+                scoringToggleBtn.textContent = '▶️';
+                scoringSummary.classList.add('show');
+            }
+        }
+
+        function refreshScoringStats() {
+            if (!userUUID) {
+                console.warn('No user UUID for scoring stats');
+                return;
+            }
+
+            sendCacheMessage({ action: 'get_scoring_stats', uuid: userUUID })
+                .then(response => {
+                    if (response.type === 'scoring_stats_result') {
+                        displayScoringStats(response.stats);
+                    }
+                })
+                .catch(err => {
+                    console.warn('Failed to get scoring stats:', err);
+                    scoringStatsContainer.innerHTML = '<div style="color: #dc3545; padding: 10px;">Failed to load scoring statistics</div>';
+                });
+        }
+
+        function displayScoringStats(stats) {
+            let statsHTML = '';
+            let totalAttempts = 0;
+            let totalCorrect = 0;
+
+            // Calculate overall stats
+            Object.values(stats).forEach(levelStats => {
+                totalAttempts += levelStats.attempts;
+                totalCorrect += levelStats.correct;
+            });
+
+            const overallSuccessRate = totalAttempts > 0 ? Math.round((totalCorrect / totalAttempts) * 100) : 0;
+
+            // Update summary
+            scoringSummary.textContent = `Overall: ${overallSuccessRate}% success (${totalCorrect}/${totalAttempts})`;
+
+            // Display individual level stats
+            Object.keys(DIFFICULTY_LEVELS).forEach(level => {
+                const levelInfo = DIFFICULTY_LEVELS[level];
+                const levelStats = stats[level];
+                const attempts = levelStats.attempts || 0;
+                const correct = levelStats.correct || 0;
+                const successRate = levelStats.successRate || 0;
+
+                const progressBar = attempts > 0 ? 
+                    `<div style="background: #e9ecef; border-radius: 4px; height: 20px; overflow: hidden; margin-top: 5px;">
+                        <div style="background: ${levelInfo.color}; height: 100%; width: ${successRate}%; transition: width 0.3s ease;"></div>
+                    </div>` : 
+                    '<div style="color: #6c757d; font-style: italic; margin-top: 5px;">No attempts yet</div>';
+
+                statsHTML += `
+                    <div style="border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; background: ${attempts > 0 ? '#f8f9fa' : '#fff'};">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+                            <strong style="color: ${levelInfo.color};">${level} - ${levelInfo.name}</strong>
+                            <span style="font-weight: bold; color: ${successRate >= 80 ? '#28a745' : successRate >= 60 ? '#fd7e14' : '#dc3545'};">
+                                ${attempts > 0 ? `${successRate}%` : 'N/A'}
+                            </span>
+                        </div>
+                        <div style="font-size: 0.9em; color: #666; margin-bottom: 5px;">
+                            ${attempts > 0 ? `${correct}/${attempts} correct` : 'No questions attempted'}
+                        </div>
+                        ${progressBar}
+                    </div>
+                `;
+            });
+
+            if (totalAttempts === 0) {
+                statsHTML = '<div style="text-align: center; color: #6c757d; padding: 20px;">No statistics yet. Answer some questions to see your progress!</div>';
+            }
+
+            scoringStatsContainer.innerHTML = statsHTML;
+        }
+
+        function clearScoringStats() {
+            if (!userUUID) {
+                console.warn('No user UUID for clearing scoring stats');
+                return;
+            }
+
+            if (!confirm('Are you sure you want to clear all your scoring statistics? This cannot be undone.')) {
+                return;
+            }
+
+            sendCacheMessage({ action: 'clear_scoring_stats', uuid: userUUID })
+                .then(response => {
+                    if (response.type === 'scoring_stats_cleared') {
+                        console.log(`Cleared ${response.deletedCount} scoring records`);
+                        displayScoringStats({}); // Display empty stats
+                        scoringSummary.textContent = 'Overall performance across CEFR levels';
+                    }
+                })
+                .catch(err => {
+                    console.warn('Failed to clear scoring stats:', err);
+                    alert('Failed to clear scoring statistics. Please try again.');
+                });
+        }
+
         // Helper function to add new questions (for manual addition via console)
         function addQuestion(questionData) {
             // Validate required fields
@@ -1620,26 +1659,7 @@
             return generatedText;
         }
 
-        function weightedRandomSelect(options, weights) {
-            // Create cumulative weight array
-            const cumulativeWeights = [];
-            let sum = 0;
-            for (let i = 0; i < weights.length; i++) {
-                sum += weights[i];
-                cumulativeWeights[i] = sum;
-            }
-            
-            // Generate random number and find corresponding option
-            const random = Math.random() * sum;
-            for (let i = 0; i < cumulativeWeights.length; i++) {
-                if (random <= cumulativeWeights[i]) {
-                    return options[i];
-                }
-            }
-            
-            // Fallback to first option
-            return options[0];
-        }
+
 
         // Generate template-aware audio text for a question
         function getAudioTextForQuestion(question) {
@@ -1758,10 +1778,25 @@
         }
 
         function selectOption(index) {
-            if (answered) return;
+            console.log('🖱️ USER CLICKED ANSWER BUTTON - Index:', index);
+            if (answered) {
+                console.log('⚠️ Question already answered, ignoring click');
+                return;
+            }
+            
             selectedAnswer = index;
             const question = questions[currentQuestion];
             const correctIndex = question._shuffledCorrect !== undefined ? question._shuffledCorrect : question.correct;
+            const isCorrect = index === correctIndex;
+            
+            console.log('🔍 ANSWER CHECK:', {
+                selectedIndex: index,
+                correctIndex: correctIndex,
+                isCorrect: isCorrect,
+                questionId: question.id,
+                difficulty: question.difficulty
+            });
+            
             // Update option styling
             document.querySelectorAll('.option').forEach((el, i) => {
                 el.classList.remove('selected');
@@ -1769,51 +1804,14 @@
                     el.classList.add('selected');
                 }
             });
-            if (index === correctIndex) {
-                submitAnswer(); // Instantly submit if correct
-            } else {
-                // Immediately treat as final answer if incorrect
-                answered = true;
-                userAnswers[currentQuestion] = {
-                    selected: selectedAnswer,
-                    correct: false
-                };
-                // Show feedback and highlight correct/incorrect
-                showFeedback(question, false);
-                document.querySelectorAll('.option').forEach((el, i) => {
-                    if (i === correctIndex) {
-                        el.classList.add('correct');
-                    } else if (i === selectedAnswer) {
-                        el.classList.add('incorrect');
-                    }
-                    // Disable further clicks
-                    el.style.pointerEvents = 'none';
-                });
-                submitBtn.disabled = true;
-                nextBtn.disabled = true;
-                updateScore();
-                // Track vocabulary misses for listening questions on incorrect answer
-                if (question.questionType === 'listening') {
-                    const correctText = question.options[question.correct].toLowerCase().replace(/[^0-\w\sàâçéèêëîïôûùüÿñæœ-]/g, '');
-                    const selectedText = question.options[selectedAnswer].toLowerCase().replace(/[^-\w\sàâçéèêëîïôûùüÿñæœ-]/g, '');
-                    const correctWords = new Set(correctText.split(/\s+/));
-                    const selectedWords = new Set(selectedText.split(/\s+/));
-                    const missedWords = [...correctWords].filter(word => word && !selectedWords.has(word));
-                    if (missedWords.length > 0) {
-                        console.log('Vocab miss debug | UUID:', userUUID, '| Correct:', correctText, '| Selected:', selectedText, '| Missed:', missedWords);
-                        sendCacheMessage({ action: 'track_vocab_miss', words: missedWords, uuid: userUUID })
-                            .then(() => console.log('Tracked vocab misses for UUID', userUUID, ':', missedWords))
-                            .catch(err => console.warn('Failed to track vocab misses:', err));
-                    }
-                }
-                // Auto-advance after 1.5s
-                setTimeout(() => {
-                    nextQuestion();
-                }, 3000);
-            }
+            
+            // Always call submitAnswer for both correct and incorrect answers
+            console.log('🎯 About to call submitAnswer() for:', isCorrect ? 'CORRECT' : 'INCORRECT', 'answer');
+            submitAnswer();
         }
 
         function submitAnswer() {
+            console.log('🚀 SUBMIT ANSWER CALLED');
             if (selectedAnswer === null || answered) return;
             
             answered = true;
@@ -1848,27 +1846,63 @@
             
             updateScore();
             
-            // Auto-advance if correct (after showing feedback briefly)
-            if (isCorrect && currentQuestion < questions.length - 1) {
-                setTimeout(() => {
-                    nextQuestion();
-                }, 1500); // Show success feedback for 1.5 seconds before advancing
+            // DEBUGGING: Always log entry to this section
+            console.log('🔍 ENTERED scoring tracking section - Answer was:', isCorrect ? 'CORRECT' : 'INCORRECT');
+            console.log('🔍 Debug values check:', {
+                hasDifficulty: !!question.difficulty,
+                difficulty: question.difficulty,
+                hasUUID: !!userUUID,
+                userUUID: userUUID
+            });
+            
+            // Track question result in Redis scoring system
+            try {
+                if (question.difficulty && userUUID) {
+                    console.log('📊 Tracking question result:', question.difficulty, isCorrect ? 'CORRECT' : 'INCORRECT');
+                    console.log('🔍 About to send tracking message...');
+                    sendCacheMessage({ 
+                        action: 'track_question_result', 
+                        uuid: userUUID, 
+                        difficulty: question.difficulty, 
+                        isCorrect: isCorrect 
+                    })
+                    .then(() => {
+                        console.log('✅ Question result tracked successfully');
+                        // Refresh scoreboard after successful tracking if section is expanded
+                        if (scoringContent && !scoringContent.classList.contains('collapsed')) {
+                            setTimeout(() => refreshScoringStats(), 500); // Small delay to ensure data is saved
+                        }
+                    })
+                    .catch(err => console.error('❌ Failed to track question result:', err));
+                } else {
+                    console.warn('⚠️ Scoring tracking skipped - missing difficulty or UUID');
+                    console.warn('⚠️ Debug values:', {
+                        hasDifficulty: !!question.difficulty,
+                        difficulty: question.difficulty,
+                        hasUUID: !!userUUID
+                    });
+                }
+            } catch (error) {
+                console.error('🚨 JavaScript error in scoring tracking:', error);
             }
-
-            // Track vocabulary misses for listening questions on incorrect answer
-            if (question.questionType === 'listening' && !isCorrect) {
-                const correctText = question.options[question.correct].toLowerCase().replace(/[^0-\w\sàâçéèêëîïôûùüÿñæœ-]/g, '');
-                const selectedText = question.options[selectedAnswer].toLowerCase().replace(/[^-\w\sàâçéèêëîïôûùüÿñæœ-]/g, '');
-                const correctWords = new Set(correctText.split(/\s+/));
-                const selectedWords = new Set(selectedText.split(/\s+/));
-                const missedWords = [...correctWords].filter(word => word && !selectedWords.has(word));
-                if (missedWords.length > 0) {
-                    console.log('Vocab miss debug | UUID:', userUUID, '| Correct:', correctText, '| Selected:', selectedText, '| Missed:', missedWords);
-                    sendCacheMessage({ action: 'track_vocab_miss', words: missedWords, uuid: userUUID })
-                        .then(() => console.log('Tracked vocab misses for UUID', userUUID, ':', missedWords))
-                        .catch(err => console.warn('Failed to track vocab misses:', err));
+            console.log('🔍 Finished scoring tracking section');
+            
+            // Auto-advance logic with different delays for correct vs incorrect
+            if (currentQuestion < questions.length - 1) {
+                if (isCorrect) {
+                    // Correct answers: advance after 1.5 seconds
+                    setTimeout(() => {
+                        nextQuestion();
+                    }, 1500);
+                } else {
+                    // Incorrect answers: advance after 2.5 seconds (longer delay to read explanation)
+                    setTimeout(() => {
+                        nextQuestion();
+                    }, 2500);
                 }
             }
+
+
         }
 
         function showFeedback(question, isCorrect) {
@@ -1885,6 +1919,11 @@
                 currentQuestion++;
                 loadQuestion();
                 updateProgress();
+                
+                // Refresh scoreboard if the section is expanded
+                if (scoringContent && !scoringContent.classList.contains('collapsed')) {
+                    refreshScoringStats();
+                }
             } else {
                 showFinalResults();
             }
@@ -1895,6 +1934,11 @@
                 currentQuestion--;
                 loadQuestion();
                 updateProgress();
+                
+                // Refresh scoreboard if the section is expanded
+                if (scoringContent && !scoringContent.classList.contains('collapsed')) {
+                    refreshScoringStats();
+                }
             }
         }
 
@@ -1999,6 +2043,11 @@
             submitBtn.style.display = 'none';
             nextBtn.style.display = 'none';
             skipBtn.style.display = 'none';
+            
+            // Refresh scoreboard to show updated stats after quiz completion
+            if (scoringContent && !scoringContent.classList.contains('collapsed')) {
+                refreshScoringStats();
+            }
         }
 
         function restartQuiz() {
@@ -2013,6 +2062,11 @@
             nextBtn.style.display = 'inline-block';
             
             init();
+            
+            // Refresh scoreboard when restarting
+            if (scoringContent && !scoringContent.classList.contains('collapsed')) {
+                refreshScoringStats();
+            }
         }
 
         // Event listeners
