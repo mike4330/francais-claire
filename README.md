@@ -1,3 +1,4 @@
+![francais claire logo](res/frenchapp.svg){ width=256 height=256 }
 # 🇫🇷 French Listening Practice App
 
 A sophisticated French news listening training system designed to bridge the gap between high school French and understanding authentic French media. Features professional-quality audio synthesis, difficulty-graded content, and intelligent caching for scalable learning.

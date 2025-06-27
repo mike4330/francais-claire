@@ -1,3 +1,4 @@
+![francais claire logo](res/frenchapp.svg){ width=256 height=256 }
 # francais claire
 ## CEFR-Based Audio Learning Framework
 
