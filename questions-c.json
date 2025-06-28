@@ -241,6 +241,92 @@
       "difficulty": "C2",
       "source": "French summary of US Supreme Court news, June 2024",
       "tags": ["law", "politics", "us", "judiciary", "supreme-court", "listening", "exact-comprehension", "news"]
+    },
+    {
+      "id": 114,
+      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+      "question": "What is Sophie Bauer's reaction to the proposed penalties for doctors regarding medical deserts?",
+      "questionType": "comprehension",
+      "options": [
+        "She was extremely shocked that penalties would be associated if doctors feel unable to reinforce in the most complicated areas.",
+        "She supports the penalties as a way to encourage doctors to work in difficult areas.",
+        "She believes the penalties are not strict enough to solve the problem of medical deserts.",
+        "She thinks the penalties should only apply to new doctors, not experienced ones."
+      ],
+      "correct": 0,
+      "explanation": "Sophie Bauer says she was 'extrêmement choquée' (extremely shocked) to see that penalties would be associated in cases where doctors consider themselves unable to reinforce in the most complicated areas. She does not support the penalties, but rather expresses surprise and disapproval.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Medical Deserts",
+      "tags": ["healthcare", "policy", "medical-deserts", "penalties", "doctors", "reaction", "C1"]
+    },
+    {
+      "id": 115,
+      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+      "parentQuestion": 114,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des récompenses au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne veulent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.' Les distracteurs modifient soit l'adjectif clé (choqués/surpris), le mot 'pénalités' (pénalités/récompenses), ou le verbe (ne peuvent pas/ne veulent pas).",
+      "difficulty": "B2",
+      "source": "French Healthcare Policy - Medical Deserts - Listening",
+      "tags": ["healthcare", "policy", "medical-deserts", "penalties", "doctors", "listening", "exact-comprehension", "B2"]
+    },
+    {
+      "id": 116,
+      "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
+      "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
+      "questionType": "comprehension",
+      "options": [
+        "To completely ban American technology companies from operating in France",
+        "To strengthen digital sovereignty through new regulatory safeguards for data protection",
+        "To force American companies to relocate their headquarters to Europe",
+        "To create French alternatives to replace all American digital platforms"
+      ],
+      "correct": 1,
+      "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
+      "difficulty": "C2",
+      "source": "French Digital Policy",
+      "tags": ["digital-sovereignty", "technology", "regulation", "data-protection", "policy", "european-union", "algorithms", "privacy"]
+    },
+    {
+      "id": 117,
+      "audioText": "Alban Gervaise a été tué de plusieurs coups de couteaux devant une école à Marseille, en mai 2022. Ce mercredi 25 juin, son meurtrier vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison.",
+      "question": "What happened to the person who killed Alban Gervaise?",
+      "questionType": "comprehension",
+      "options": [
+        "He was declared criminally irresponsible and will not serve prison time",
+        "He was sentenced to life imprisonment",
+        "He was released immediately after the trial",
+        "He was transferred to another jurisdiction"
+      ],
+      "correct": 0,
+      "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
+      "difficulty": "C1",
+      "source": "French Legal News",
+      "tags": ["crime", "legal-system", "criminal-responsibility", "mental-health", "justice"]
+    },
+    {
+      "id": 118,
+      "audioText": "Le tunnel de Tende, projet lancé en 2007, a connu de longs retards à cause d'un vol de métaux chez une société italienne et de la tempête Alex en 2020. Son ouverture, après des années d'isolement et de scandales, est vécue comme une bouffée d'oxygène pour les habitants de la vallée de la Roya et de l'Italie.",
+      "question": "What factors contributed to the delays and challenges in the Tende tunnel project, and what does its opening represent for local residents?",
+      "questionType": "comprehension",
+      "options": [
+        "Theft of metals, storm damage, and scandals delayed the project; its opening is a relief after years of isolation.",
+        "A lack of funding and political disagreements delayed the project; its opening is mainly a tourist attraction.",
+        "Environmental protests and technical errors delayed the project; its opening is controversial among residents.",
+        "The project was completed on time but was delayed for ceremonial reasons; its opening is largely symbolic."
+      ],
+      "correct": 0,
+      "explanation": "The text explains that the Tende tunnel project was delayed by a major theft of metals, the storm Alex, and scandals. Its opening is described as 'une bouffée d'oxygène' (a breath of fresh air) for residents who suffered years of isolation and frustration.",
+      "difficulty": "C1",
+      "source": "French Infrastructure News - Tende Tunnel",
+      "tags": ["infrastructure", "tunnel", "France", "Italy", "delays", "storm", "scandal", "relief", "C1"]
     }
   ]
 }

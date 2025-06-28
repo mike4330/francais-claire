@@ -225,20 +225,21 @@
     },
     {
       "id": 212,
-      "audioText": "Pour obtenir ce poste, Marie doit réussir un entretien d'embauche avec le directeur des ressources humaines.",
-      "question": "Pour obtenir ce poste, Marie doit réussir un ______ d'embauche avec le directeur des ressources humaines.",
-      "questionType": "fill-in-the-blank",
+      "audioText": "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
+      "parentQuestion": 208,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
       "options": [
-        "entretien",
-        "examen",
-        "test",
-        "questionnaire"
+        "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
+        "Avec ce port dans les terres, il y a une âme musicale. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
+        "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade culturelle à quinze kilomètres de la mer.",
+        "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à cinq kilomètres de la mer."
       ],
       "correct": 0,
-      "explanation": "Le mot manquant est 'entretien'. La phrase complète est 'Pour obtenir ce poste, Marie doit réussir un entretien d'embauche avec le directeur des ressources humaines.' - To get this position, Marie must succeed in a job interview with the human resources director. 'Entretien d'embauche' is the standard term for job interview.",
+      "explanation": "La phrase exacte était 'Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.' - With this port inland, there is a maritime soul. Caen continues to celebrate its Millennium with a naval parade fifteen kilometers from the sea.",
       "difficulty": "B2",
-      "source": "Human Resources",
-      "tags": ["employment", "job-interview", "recruitment", "human-resources", "career", "fill-in-the-blank", "B2"]
+      "source": "Caen Millennium News - Listening",
+      "tags": ["culture", "celebration", "maritime", "soul", "vocabulary", "millennium", "listening", "exact-comprehension", "poetry"]
     },
     {
       "id": 213,
@@ -427,6 +428,24 @@
       "difficulty": "B2",
       "source": "French summary of US Supreme Court news, June 2024 (simplified)",
       "tags": ["law", "politics", "us", "judiciary", "supreme-court", "comprehension", "news"]
+    },
+    {
+      "id": 224,
+      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+      "parentQuestion": 114,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des récompenses au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne veulent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.' Les distracteurs modifient soit l'adjectif clé (choqués/surpris), le mot 'pénalités' (pénalités/récompenses), ou le verbe (ne peuvent pas/ne veulent pas).",
+      "difficulty": "B2",
+      "source": "French Healthcare Policy - Medical Deserts - Listening",
+      "tags": ["healthcare", "policy", "medical-deserts", "penalties", "doctors", "listening", "exact-comprehension", "B2"]
     }
   ]
 }

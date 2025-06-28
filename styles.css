@@ -125,4 +125,392 @@
         height: 80px;
         font-size: 2.5em;
     }
-} 
+}
+
+/* --- Begin moved from french_listening_app.html --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.container {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    padding: 40px;
+    max-width: 1040px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+.header {
+    margin-bottom: 30px;
+}
+
+.header h1 {
+    color: #333;
+    font-size: 2.2em;
+    margin-bottom: 10px;
+    background: linear-gradient(45deg, #667eea, #764ba2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.header p {
+    color: #666;
+    font-size: 1.1em;
+}
+
+.aws-config {
+    background: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 3px solid #ff9500;
+}
+
+.config-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.config-header h3 {
+    color: #333;
+    font-size: 1.1em;
+    margin: 0;
+}
+
+.config-toggle-btn {
+    background: none;
+    border: none;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    color: #667eea;
+}
+
+.config-toggle-btn.collapsed {
+    transform: rotate(-90deg);
+}
+
+.config-content {
+    max-height: 500px;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.config-content.collapsed {
+    max-height: 0;
+}
+
+.config-summary {
+    display: none;
+    font-size: 0.9em;
+    color: #666;
+    font-style: italic;
+}
+
+.config-summary.show {
+    display: block;
+}
+
+.config-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.config-row input, .config-row select {
+    flex: 1;
+    padding: 8px 12px;
+    border: 2px solid #e9ecef;
+    border-radius: 6px;
+    font-size: 0.9em;
+}
+
+.config-row label {
+    min-width: 80px;
+    text-align: left;
+    font-weight: 500;
+    color: #555;
+}
+
+.config-toggle {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.config-status {
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.config-status.ready {
+    background: #d4edda;
+    color: #155724;
+}
+
+.config-status.not-ready {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.question-container {
+    background: #f8f9fa;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 20px 0;
+    border-left: 5px solid #667eea;
+}
+
+.question-number {
+    color: #667eea;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.question-id {
+    font-size: 0.75em;
+    color: #999;
+    font-weight: normal;
+    opacity: 0.7;
+}
+
+.audio-controls {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    align-items: center;
+}
+
+.play-btn {
+    background: linear-gradient(45deg, #667eea, #764ba2);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 12px 25px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.play-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+}
+
+.play-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.speed-control {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: white;
+    padding: 8px 15px;
+    border-radius: 25px;
+    border: 2px solid #e9ecef;
+}
+
+.speed-control select {
+    border: none;
+    background: transparent;
+    font-size: 0.9em;
+    cursor: pointer;
+}
+
+.question-text {
+    font-size: 1.2em;
+    color: #333;
+    margin: 20px 0;
+    font-weight: 500;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 25px 0;
+    text-align: left;
+}
+
+.option {
+    background: white;
+    border: 2px solid #e9ecef;
+    border-radius: 12px;
+    padding: 15px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.option:hover {
+    border-color: #667eea;
+    background: #f8f9ff;
+}
+
+.option.selected {
+    border-color: #667eea;
+    background: linear-gradient(45deg, #667eea0a, #764ba20a);
+}
+
+.option.correct {
+    border-color: #28a745;
+    background: #d4edda;
+}
+
+.option.incorrect {
+    border-color: #dc3545;
+    background: #f8d7da;
+}
+
+.option-letter {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background: #667eea;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 25px;
+    font-weight: bold;
+    margin-right: 12px;
+    font-size: 0.9em;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    gap: 15px;
+}
+
+.btn {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.btn-primary {
+    background: linear-gradient(45deg, #667eea, #764ba2);
+    color: white;
+}
+
+.btn-secondary {
+    background: #6c757d;
+    color: white;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+
+.btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.progress {
+    background: #e9ecef;
+    border-radius: 10px;
+    height: 8px;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+.progress-bar {
+    background: linear-gradient(45deg, #667eea, #764ba2);
+    height: 100%;
+    transition: width 0.3s ease;
+    border-radius: 10px;
+}
+
+.score {
+    margin-top: 20px;
+    font-size: 1.1em;
+    color: #333;
+}
+
+.feedback {
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.feedback.correct {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.feedback.incorrect {
+    background: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 25px;
+        margin: 10px;
+    }
+    
+    .controls {
+        flex-direction: column;
+    }
+    
+    .audio-controls {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .config-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .config-row label {
+        min-width: auto;
+        margin-bottom: 5px;
+    }
+}
+/* --- End moved from french_listening_app.html --- */ 

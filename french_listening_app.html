@@ -5,397 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>French Listening Practice</title>
     <link rel="stylesheet" href="styles.css">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-        }
-
-        .container {
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
-            padding: 40px;
-            max-width: 1040px;
-            width: 100%;
-            text-align: center;
-            position: relative;
-        }
-
-        .header {
-            margin-bottom: 30px;
-        }
-
-        .header h1 {
-            color: #333;
-            font-size: 2.2em;
-            margin-bottom: 10px;
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-
-        .header p {
-            color: #666;
-            font-size: 1.1em;
-        }
-
-        .aws-config {
-            background: #f8f9fa;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-left: 3px solid #ff9500;
-        }
-
-        .config-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            cursor: pointer;
-            margin-bottom: 15px;
-        }
-
-        .config-header h3 {
-            color: #333;
-            font-size: 1.1em;
-            margin: 0;
-        }
-
-        .config-toggle-btn {
-            background: none;
-            border: none;
-            font-size: 1.2em;
-            cursor: pointer;
-            transition: transform 0.3s ease;
-            color: #667eea;
-        }
-
-        .config-toggle-btn.collapsed {
-            transform: rotate(-90deg);
-        }
-
-        .config-content {
-            max-height: 500px;
-            overflow: hidden;
-            transition: max-height 0.3s ease;
-        }
-
-        .config-content.collapsed {
-            max-height: 0;
-        }
-
-        .config-summary {
-            display: none;
-            font-size: 0.9em;
-            color: #666;
-            font-style: italic;
-        }
-
-        .config-summary.show {
-            display: block;
-        }
-
-        .config-row {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 10px;
-            align-items: center;
-        }
-
-        .config-row input, .config-row select {
-            flex: 1;
-            padding: 8px 12px;
-            border: 2px solid #e9ecef;
-            border-radius: 6px;
-            font-size: 0.9em;
-        }
-
-        .config-row label {
-            min-width: 80px;
-            text-align: left;
-            font-weight: 500;
-            color: #555;
-        }
-
-        .config-toggle {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 15px;
-        }
-
-        .config-status {
-            padding: 8px 12px;
-            border-radius: 6px;
-            font-size: 0.9em;
-            font-weight: 500;
-        }
-
-        .config-status.ready {
-            background: #d4edda;
-            color: #155724;
-        }
-
-        .config-status.not-ready {
-            background: #f8d7da;
-            color: #721c24;
-        }
-
-        .question-container {
-            background: #f8f9fa;
-            border-radius: 15px;
-            padding: 30px;
-            margin: 20px 0;
-            border-left: 5px solid #667eea;
-        }
-
-        .question-number {
-            color: #667eea;
-            font-weight: bold;
-            font-size: 1.1em;
-            margin-bottom: 15px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .question-id {
-            font-size: 0.75em;
-            color: #999;
-            font-weight: normal;
-            opacity: 0.7;
-        }
-
-        .audio-controls {
-            margin: 20px 0;
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            align-items: center;
-        }
-
-        .play-btn {
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white;
-            border: none;
-            border-radius: 50px;
-            padding: 12px 25px;
-            font-size: 1em;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .play-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
-        }
-
-        .play-btn:disabled {
-            opacity: 0.6;
-            cursor: not-allowed;
-            transform: none;
-        }
-
-        .speed-control {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            background: white;
-            padding: 8px 15px;
-            border-radius: 25px;
-            border: 2px solid #e9ecef;
-        }
-
-        .speed-control select {
-            border: none;
-            background: transparent;
-            font-size: 0.9em;
-            cursor: pointer;
-        }
-
-        .question-text {
-            font-size: 1.2em;
-            color: #333;
-            margin: 20px 0;
-            font-weight: 500;
-        }
-
-        .options {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            margin: 25px 0;
-            text-align: left;
-        }
-
-        .option {
-            background: white;
-            border: 2px solid #e9ecef;
-            border-radius: 12px;
-            padding: 15px 20px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            position: relative;
-        }
-
-        .option:hover {
-            border-color: #667eea;
-            background: #f8f9ff;
-        }
-
-        .option.selected {
-            border-color: #667eea;
-            background: linear-gradient(45deg, #667eea0a, #764ba20a);
-        }
-
-        .option.correct {
-            border-color: #28a745;
-            background: #d4edda;
-        }
-
-        .option.incorrect {
-            border-color: #dc3545;
-            background: #f8d7da;
-        }
-
-        .option-letter {
-            display: inline-block;
-            width: 25px;
-            height: 25px;
-            background: #667eea;
-            color: white;
-            border-radius: 50%;
-            text-align: center;
-            line-height: 25px;
-            font-weight: bold;
-            margin-right: 12px;
-            font-size: 0.9em;
-        }
-
-        .controls {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 30px;
-            gap: 15px;
-        }
-
-        .btn {
-            padding: 12px 25px;
-            border: none;
-            border-radius: 8px;
-            font-size: 1em;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            font-weight: 500;
-        }
-
-        .btn-primary {
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            color: white;
-        }
-
-        .btn-secondary {
-            background: #6c757d;
-            color: white;
-        }
-
-        .btn:hover {
-            transform: translateY(-2px);
-            opacity: 0.9;
-        }
-
-        .btn:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-            transform: none;
-        }
-
-        .progress {
-            background: #e9ecef;
-            border-radius: 10px;
-            height: 8px;
-            margin: 20px 0;
-            overflow: hidden;
-        }
-
-        .progress-bar {
-            background: linear-gradient(45deg, #667eea, #764ba2);
-            height: 100%;
-            transition: width 0.3s ease;
-            border-radius: 10px;
-        }
-
-        .score {
-            margin-top: 20px;
-            font-size: 1.1em;
-            color: #333;
-        }
-
-        .feedback {
-            margin-top: 15px;
-            padding: 15px;
-            border-radius: 8px;
-            font-weight: 500;
-        }
-
-        .feedback.correct {
-            background: #d4edda;
-            color: #155724;
-            border: 1px solid #c3e6cb;
-        }
-
-        .feedback.incorrect {
-            background: #f8d7da;
-            color: #721c24;
-            border: 1px solid #f5c6cb;
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                padding: 25px;
-                margin: 10px;
-            }
-            
-            .controls {
-                flex-direction: column;
-            }
-            
-            .audio-controls {
-                flex-direction: column;
-                gap: 10px;
-            }
-            
-            .config-row {
-                flex-direction: column;
-                align-items: stretch;
-            }
-            
-            .config-row label {
-                min-width: auto;
-                margin-bottom: 5px;
-            }
-        }
-
-        /* Hamburger menu styles moved to styles.css */
-
-
-    </style>
 </head>
 <body>
     <div class="container">
@@ -1101,7 +710,7 @@
                 
                 cachePromises.set(promiseKey, { resolve, reject, message });
                 
-                console.log('📤 Sending cache message:', message);
+                debugLog(5, '📤 Sending cache message:', message);
                 cacheSocket.send(JSON.stringify(message));
                 
                 // Timeout after 10 seconds
@@ -1112,12 +721,6 @@
                     }
                 }, 10000);
             });
-        }
-
-        // Generate cache key for audio files
-        function generateCacheKey(text, voiceId) {
-            // Use same MD5 approach as server
-            return btoa(text + '_' + voiceId).replace(/[^a-zA-Z0-9]/g, '').substring(0, 16);
         }
 
         // Check if cached audio exists in Redis
@@ -1199,7 +802,7 @@
             }
 
             // Cache miss - synthesize with Polly
-            console.log(`🔊 Synthesizing with Polly (${textType}): ${text.substring(0, 30)}...`);
+            debugLog(4, `🔊 Synthesizing with Polly (${textType}): ${text.substring(0, 30)}...`);
             const params = {
                 Text: audioContent,
                 TextType: textType,
@@ -1299,13 +902,54 @@
             }
         }
 
+        // Global configuration object
+        let appConfig = {
+            debugLevel: 2 // Default fallback value
+        };
+
+        // Load application configuration
+        async function loadConfig() {
+            try {
+                const response = await fetch('config.json');
+                if (response.ok) {
+                    const config = await response.json();
+                    appConfig = { ...appConfig, ...config }; // Merge with defaults
+                    console.log(`🔧 Config loaded: debugLevel=${appConfig.debugLevel}`);
+                } else {
+                    console.warn(`⚠️ Could not load config.json (${response.status}), using defaults`);
+                }
+            } catch (error) {
+                console.warn('⚠️ Config loading failed, using defaults:', error.message);
+            }
+        }
+
+        // Debug logging utility that respects debugLevel config
+        function debugLog(level, message, ...args) {
+            if (appConfig.debugLevel >= level) {
+                const levelNames = { 0: 'SILENT', 1: 'ERROR', 2: 'WARN', 3: 'INFO', 4: 'DEBUG', 5: 'VERBOSE' };
+                const levelName = levelNames[level] || 'UNKNOWN';
+                console.log(`[${levelName}] ${message}`, ...args);
+            }
+        }
+
         // Initialize app
         async function init() {
+            await loadConfig(); // Load configuration first
             await loadQuestionBankMulti(); // Load questions from multiple JSON files
             setupDifficultyButtons();
             filterQuestionsByDifficulty();
             loadSettings(); // Load saved settings first
-            loadQuestion();
+            
+            // Check for URL parameter to start with a specific question
+            const urlParams = new URLSearchParams(window.location.search);
+            const startQuestionId = urlParams.get('start');
+            
+            if (startQuestionId) {
+                startWithSpecificQuestion(parseInt(startQuestionId));
+            } else {
+                loadQuestion();
+            }
+            
             updateProgress();
             updateScore();
             // initializePolly() is called by loadSettings()
@@ -1314,7 +958,7 @@
         // Question bank management
         async function loadQuestionBankMulti(files = ['questions.json', 'questions-a.json', 'questions-b.json', 'questions-c.json']) {
             try {
-                console.log('Loading question files:', files);
+                debugLog(3, 'Loading question files:', files);
                 
                 // Fetch all files in parallel
                 const responses = await Promise.all(files.map(f => fetch(f)));
@@ -1323,21 +967,21 @@
                         try {
                             const data = await r.json();
                             const questionCount = data.questions ? data.questions.length : 0;
-                            console.log(`✅ ${files[index]}: ${questionCount} questions loaded`);
+                            debugLog(3, `✅ ${files[index]}: ${questionCount} questions loaded`);
                             return data;
                         } catch (error) {
-                            console.warn(`❌ ${files[index]}: JSON parse error -`, error);
+                            debugLog(2, `❌ ${files[index]}: JSON parse error -`, error);
                             return { questions: [] };
                         }
                     } else {
-                        console.warn(`❌ ${files[index]}: HTTP ${r.status} - ${r.statusText}`);
+                        debugLog(2, `❌ ${files[index]}: HTTP ${r.status} - ${r.statusText}`);
                         return { questions: [] };
                     }
                 }));
                 
                 // Merge all questions arrays
                 questionBank = datas.flatMap(d => d.questions || []);
-                console.log(`📚 Total questions loaded: ${questionBank.length}`);
+                debugLog(3, `📚 Total questions loaded: ${questionBank.length}`);
                 
                 // Merge with any saved custom questions from localStorage
                 if (window.localStorage) {
@@ -1348,13 +992,13 @@
                         const existingIds = questionBank.map(q => q.id);
                         const newQuestions = savedBank.filter(q => !existingIds.includes(q.id));
                         questionBank = [...questionBank, ...newQuestions];
-                        console.log(`📂 Added ${newQuestions.length} custom questions from localStorage`);
+                        debugLog(4, `📂 Added ${newQuestions.length} custom questions from localStorage`);
                     }
                 }
                 
-                console.log(`🎯 Final question bank size: ${questionBank.length}`);
+                debugLog(3, `🎯 Final question bank size: ${questionBank.length}`);
             } catch (error) {
-                console.error('❌ Could not load question bank:', error);
+                debugLog(1, '❌ Could not load question bank:', error);
                 questionBank = [];
             }
         }
@@ -1439,6 +1083,75 @@
             };
         }
 
+        // Start with a specific question ID
+        function startWithSpecificQuestion(questionId) {
+            // Find the question in the question bank
+            const targetQuestion = questionBank.find(q => q.id === questionId);
+            
+            if (!targetQuestion) {
+                debugLog(2, `Question ID ${questionId} not found. Starting with default.`);
+                loadQuestion();
+                return;
+            }
+            
+            debugLog(3, `🎯 Starting with question ID ${questionId}: "${targetQuestion.audioText || targetQuestion.audioTemplate}"`);
+            
+            // Set the difficulty to match the target question
+            if (targetQuestion.difficulty !== currentDifficulty) {
+                currentDifficulty = targetQuestion.difficulty;
+                filterQuestionsByDifficulty();
+                setupDifficultyButtons();
+                updateDifficultySummary();
+            }
+            
+            // Find the index of this question in the filtered questions array
+            const questionIndex = questions.findIndex(q => q.id === questionId);
+            
+            if (questionIndex !== -1) {
+                // Set the current question to this index
+                currentQuestion = questionIndex;
+                debugLog(4, `✅ Found question at index ${questionIndex} in ${currentDifficulty} questions`);
+            } else {
+                // If not found in filtered questions, add it to the beginning
+                questions.unshift(targetQuestion);
+                currentQuestion = 0;
+                debugLog(4, `➕ Added question to beginning of ${currentDifficulty} questions`);
+            }
+            
+            // Reset quiz state
+            score = 0;
+            answered = false;
+            userAnswers = [];
+            
+            // Load the question
+            loadQuestion();
+            
+            // Show a notification that we started with a specific question
+            const notification = document.createElement('div');
+            notification.style.cssText = `
+                position: fixed;
+                top: 20px;
+                right: 20px;
+                background: linear-gradient(45deg, #667eea, #764ba2);
+                color: white;
+                padding: 12px 20px;
+                border-radius: 8px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                z-index: 1000;
+                font-size: 0.9em;
+                max-width: 300px;
+            `;
+            notification.innerHTML = `🚀 Started with Question #${questionId}<br><small>Difficulty: ${targetQuestion.difficulty}</small>`;
+            document.body.appendChild(notification);
+            
+            // Remove notification after 3 seconds
+            setTimeout(() => {
+                if (notification.parentNode) {
+                    notification.parentNode.removeChild(notification);
+                }
+            }, 3000);
+        }
+
         function updateDifficultySummary() {
             const levelInfo = DIFFICULTY_LEVELS[currentDifficulty];
             const count = questions.length;
@@ -1499,7 +1212,6 @@
         }
 
         function displayScoringStats(stats) {
-            let statsHTML = '';
             let totalAttempts = 0;
             let totalCorrect = 0;
 
@@ -1514,35 +1226,70 @@
             // Update summary
             scoringSummary.textContent = `Overall: ${overallSuccessRate}% success (${totalCorrect}/${totalAttempts})`;
 
-            // Display individual level stats
-            Object.keys(DIFFICULTY_LEVELS).forEach(level => {
-                const levelInfo = DIFFICULTY_LEVELS[level];
-                const levelStats = stats[level];
-                const attempts = levelStats.attempts || 0;
-                const correct = levelStats.correct || 0;
-                const successRate = levelStats.successRate || 0;
+            // Generate 10-step color gradient function
+            function getColorForScore(score) {
+                if (score === null || score === undefined) return '#f8f9fa'; // Light gray for no data
+                if (score >= 90) return '#006400'; // Dark green
+                if (score >= 80) return '#228B22'; // Forest green  
+                if (score >= 70) return '#32CD32'; // Lime green
+                if (score >= 60) return '#9ACD32'; // Yellow green
+                if (score >= 50) return '#FFFF00'; // Yellow
+                if (score >= 40) return '#FFD700'; // Gold
+                if (score >= 30) return '#FFA500'; // Orange
+                if (score >= 20) return '#FF6347'; // Tomato
+                if (score >= 10) return '#FF4500'; // Orange red
+                return '#FF0000'; // Red
+            }
 
-                const progressBar = attempts > 0 ? 
-                    `<div style="background: #e9ecef; border-radius: 4px; height: 20px; overflow: hidden; margin-top: 5px;">
-                        <div style="background: ${levelInfo.color}; height: 100%; width: ${successRate}%; transition: width 0.3s ease;"></div>
-                    </div>` : 
-                    '<div style="color: #6c757d; font-style: italic; margin-top: 5px;">No attempts yet</div>';
+            // Create matrix table
+            const columns = ['A', 'B', 'C'];
+            const rows = ['1', '2'];
+            
+            let statsHTML = `
+                <table style="width: 66%; border-collapse: collapse; margin: 10px auto;">
+                    <thead>
+                        <tr>
+                            <th style="padding: 8px; border: 1px solid #ccc; background: #f5f5f5; font-weight: bold;"></th>
+                            ${columns.map(col => `<th style="padding: 8px; border: 1px solid #ccc; background: #f5f5f5; font-weight: bold; text-align: center;">${col}</th>`).join('')}
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
 
-                statsHTML += `
-                    <div style="border: 1px solid #e9ecef; border-radius: 8px; padding: 15px; margin-bottom: 10px; background: ${attempts > 0 ? '#f8f9fa' : '#fff'};">
-                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
-                            <strong style="color: ${levelInfo.color};">${level} - ${levelInfo.name}</strong>
-                            <span style="font-weight: bold; color: ${successRate >= 80 ? '#28a745' : successRate >= 60 ? '#fd7e14' : '#dc3545'};">
-                                ${attempts > 0 ? `${successRate}%` : 'N/A'}
-                            </span>
-                        </div>
-                        <div style="font-size: 0.9em; color: #666; margin-bottom: 5px;">
-                            ${attempts > 0 ? `${correct}/${attempts} correct` : 'No questions attempted'}
-                        </div>
-                        ${progressBar}
-                    </div>
-                `;
+            rows.forEach((row, rowIndex) => {
+                statsHTML += '<tr>';
+                statsHTML += `<td style="padding: 8px; border: 1px solid #ccc; background: #f5f5f5; font-weight: bold; text-align: center;">${row}</td>`;
+                
+                columns.forEach(col => {
+                    // Map column and row to CEFR level: A1, A2, B1, B2, C1, C2
+                    const level = col + row;
+                    const levelStats = stats[level];
+                    const attempts = levelStats?.attempts || 0;
+                    const successRate = levelStats?.successRate || 0;
+                    
+                    const displayScore = attempts > 0 ? successRate : null;
+                    const backgroundColor = getColorForScore(displayScore);
+                    const textColor = displayScore !== null && displayScore < 50 ? '#fff' : '#333';
+                    
+                    statsHTML += `
+                        <td style="
+                            padding: 12px 8px; 
+                            border: 1px solid #ccc; 
+                            background-color: ${backgroundColor}; 
+                            color: ${textColor}; 
+                            text-align: center; 
+                            font-weight: bold; 
+                            font-size: 1.1em;
+                        ">
+                            ${displayScore !== null ? displayScore : '-'}
+                        </td>
+                    `;
+                });
+                
+                statsHTML += '</tr>';
             });
+
+            statsHTML += '</tbody></table>';
 
             if (totalAttempts === 0) {
                 statsHTML = '<div style="text-align: center; color: #6c757d; padding: 20px;">No statistics yet. Answer some questions to see your progress!</div>';

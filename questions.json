@@ -354,20 +354,38 @@
         },
         {
             "id": 22,
-            "audioText": "En vingt ans, ces céréales ont perdu la moitié de leur sucre.",
-            "question": "What happened to these cereals over twenty years?",
+            "audioTemplate": "En {timeperiod}, ces {fooditem} ont perdu {amount} de leur {nutrient}.",
+            "templateVariables": {
+                "timeperiod": {
+                    "options": ["vingt ans", "dix ans", "quinze ans", "cinq ans"],
+                    "weights": [0.4, 0.3, 0.2, 0.1]
+                },
+                "fooditem": {
+                    "options": ["céréales", "biscuits", "yaourts", "sodas"],
+                    "weights": [0.4, 0.25, 0.25, 0.1]
+                },
+                "amount": {
+                    "options": ["la moitié", "un tiers", "un quart", "les trois quarts"],
+                    "weights": [0.4, 0.3, 0.2, 0.1]
+                },
+                "nutrient": {
+                    "options": ["sucre", "sel", "gras", "calories"],
+                    "weights": [0.5, 0.2, 0.2, 0.1]
+                }
+            },
+            "question": "What happened to these food products over the specified time period?",
             "questionType": "comprehension",
             "options": [
-                "They lost half their sugar.",
-                "They doubled their sugar.",
-                "They lost all their sugar.",
-                "They became more expensive."
+                "They lost half their sugar over twenty years.",
+                "They doubled their salt content over ten years.",
+                "They lost a third of their fat over fifteen years.",
+                "They gained more calories over five years."
             ],
             "correct": 0,
-            "explanation": "The sentence says 'ont perdu la moitié de leur sucre' – they lost half their sugar over twenty years.",
+            "explanation": "The sentence says 'En vingt ans, ces céréales ont perdu la moitié de leur sucre' – Over twenty years, these cereals lost half their sugar.",
             "difficulty": "A2",
             "source": "Nutrition News",
-            "tags": ["food", "nutrition", "change", "cereals"]
+            "tags": ["food", "nutrition", "change", "cereals", "template-enabled", "A2"]
         },
         {
             "id": 23,
@@ -540,26 +558,9 @@
             "tags": ["healthcare", "policy", "prevention", "listening", "exact-comprehension", "simplified"]
         },
         {
-            "id": 32,
-            "audioText": "Alban Gervaise a été tué de plusieurs coups de couteaux devant une école à Marseille, en mai 2022. Ce mercredi 25 juin, son meurtrier vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison.",
-            "question": "What happened to the person who killed Alban Gervaise?",
-            "questionType": "comprehension",
-            "options": [
-                "He was declared criminally irresponsible and will not serve prison time",
-                "He was sentenced to life imprisonment",
-                "He was released immediately after the trial",
-                "He was transferred to another jurisdiction"
-            ],
-            "correct": 0,
-            "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
-            "difficulty": "C1",
-            "source": "French Legal News",
-            "tags": ["crime", "legal-system", "criminal-responsibility", "mental-health", "justice"]
-        },
-        {
             "id": 33,
             "audioText": "Un homme a tué quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il n'ira pas en prison.",
-            "parentQuestion": 32,
+            "parentQuestion": 117,
             "question": "Qu'est-ce que vous avez entendu?",
             "questionType": "listening",
             "options": [
@@ -575,21 +576,21 @@
             "tags": ["crime", "legal-system", "mental-health", "listening", "exact-comprehension", "simplified"]
         },
         {
-            "id": 34,
-            "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
-            "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
+            "id": 35,
+            "audioText": "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
+            "question": "According to the text, what exists because of the port inland?",
             "questionType": "comprehension",
             "options": [
-                "To completely ban American technology companies from operating in France",
-                "To strengthen digital sovereignty through new regulatory safeguards for data protection",
-                "To force American companies to relocate their headquarters to Europe",
-                "To create French alternatives to replace all American digital platforms"
+                "A maritime soul",
+                "A new commercial district", 
+                "A tourist attraction",
+                "A military base"
             ],
-            "correct": 1,
-            "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
-            "difficulty": "C2",
-            "source": "French Digital Policy",
-            "tags": ["digital-sovereignty", "technology", "regulation", "data-protection", "policy", "european-union", "algorithms", "privacy"]
+            "correct": 0,
+            "explanation": "The text states 'il y a une âme maritime' - there is a maritime soul. This poetic expression describes the spiritual connection to the sea that Caen maintains despite being inland, thanks to its port.",
+            "difficulty": "B2",
+            "source": "Caen Millennium News",
+            "tags": ["culture", "celebration", "maritime", "soul", "vocabulary", "millennium", "poetry"]
         }
     ]
 } 

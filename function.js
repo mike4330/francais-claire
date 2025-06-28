@@ -52,4 +52,10 @@ function weightedRandomSelect(options, weights) {
     
     // Fallback to first option
     return options[0];
+}
+
+// Generate cache key for audio files
+function generateCacheKey(text, voiceId) {
+    // Use same MD5 approach as server (here, base64 and string manipulation)
+    return btoa(text + '_' + voiceId).replace(/[^a-zA-Z0-9]/g, '').substring(0, 16);
 } 

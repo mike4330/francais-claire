@@ -157,6 +157,23 @@
             background: #f8f9ff;
         }
 
+        .question-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            padding: 4px 8px;
+            border-radius: 6px;
+            display: inline-block;
+        }
+
+        .question-link:hover {
+            color: #764ba2;
+            background: #f0f3ff;
+            transform: translateX(2px);
+            text-decoration: none;
+        }
+
         .difficulty-badge {
             padding: 4px 8px;
             border-radius: 12px;
@@ -404,7 +421,7 @@
             <table id="questionsTable">
                 <thead>
                     <tr>
-                        <th class="sortable" data-sort="id">ID</th>
+                        <th class="sortable" data-sort="id">ID 🚀</th>
                         <th class="sortable" data-sort="difficulty">Difficulty</th>
                         <th class="sortable" data-sort="type" style="width: 110px;">Type</th>
                         <th>Audio Text</th>
@@ -470,7 +487,7 @@
         };
 
         // Load questions from multiple JSON files
-        async function loadQuestions(files = ['questions-a.json', 'questions-b.json', 'questions-c.json']) {
+        async function loadQuestions(files = ['questions.json', 'questions-a.json', 'questions-b.json', 'questions-c.json']) {
             try {
                 console.log('Loading question files for planning:', files);
                 
@@ -499,7 +516,8 @@
                 
                 if (questionBank.length > 0) {
                     setupSorting();
-                    populateTable();
+                    // Default sort by id, numeric ascending
+                    sortTable('id');
                     updateStats();
                 } else {
                     document.getElementById('questionsTableBody').innerHTML = 
@@ -666,7 +684,7 @@
                 }
                 
                 row.innerHTML = `
-                    <td><strong>#${question.id}</strong></td>
+                    <td><a href="french_listening_app.html?start=${question.id}" class="question-link" title="Start quiz with this question"><strong>#${question.id} 🚀</strong></a></td>
                     <td><span class="difficulty-badge" style="background-color: ${difficultyColor}">${question.difficulty}</span></td>
                     <td><span class="type-badge">${question.questionType === 'listening' ? '👂' : question.questionType === 'fill-in-the-blank' ? '✏️' : '📚'}${question.audioTemplate ? ' <span class="template-badge">T</span>' : ''}</span></td>
                     <td class="audio-text" title="${audioText}">${audioText}</td>
