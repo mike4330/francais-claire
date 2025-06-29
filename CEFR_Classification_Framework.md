@@ -231,7 +231,7 @@ Listening Exercise
 ### Technical Architecture:
 - **Frontend:** HTML5 + JavaScript with AWS SDK
 - **Audio Cache:** Redis + WebSocket (Node.js)
-- **Voice Synthesis:** Amazon Polly (Neural voices: Céline, Mathieu, Léa)
+- **Voice Synthesis:** Amazon Polly (Neural voices: Léa, Rémi)
 - **Data Storage:** JSON file + localStorage for custom additions
 - **Management Interface:** Planning dashboard with statistics
 

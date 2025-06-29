@@ -18,6 +18,14 @@ This directory contains analyzer and utility scripts for managing the French que
 - Provides priority targets for new questions
 - Usage: `python3 analyze-conjugations.py`
 
+### `analyze-adjectives.py`
+**Adjective coverage analyzer**
+- Analyzes coverage of French adjectives (all forms: m/f/s/p)
+- Shows missing adjectives from top 30 most frequent adjectives
+- Identifies high-frequency adjectives completely missing from question bank
+- Provides priority targets for adjective-focused questions
+- Usage: `python3 analyze-adjectives.py`
+
 ## 🛠️ Utility Scripts
 
 ### `getid`
@@ -49,6 +57,9 @@ bash util/analyze-questions.sh
 # Analyze verb conjugations  
 python3 util/analyze-conjugations.py
 
+# Analyze adjective coverage
+python3 util/analyze-adjectives.py
+
 # Get next ID for A2 level question
 ./util/getid a
 
@@ -71,5 +82,6 @@ These utilities integrate with the main question files:
 
 - **jq** - JSON processing (for most scripts)
 - **bc** - Basic calculator (for statistics)
-- **python3** - For conjugation analysis
+- **python3** - For conjugation and adjective analysis
+- **res/adj.csv** - Adjective frequency data (for adjective analysis)
 - **Standard Unix tools** - awk, sed, grep, sort, etc. 
