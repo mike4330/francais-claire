@@ -40,8 +40,7 @@
       "tags": [
         "food",
         "lunch",
-        "salad",
-        "listening"
+        "salad"
       ]
     },
     {
@@ -62,8 +61,7 @@
       "tags": [
         "weather",
         "storm",
-        "nature",
-        "listening"
+        "nature"
       ]
     },
     {
@@ -109,7 +107,6 @@
         "family",
         "storage",
         "memories",
-        "listening",
         "grenier",
         "attic",
         "household-vocabulary"
@@ -156,7 +153,6 @@
         "weather",
         "snow",
         "chile",
-        "listening",
         "rare-events"
       ]
     },
@@ -179,7 +175,6 @@
         "weather",
         "france",
         "heat",
-        "listening",
         "alert"
       ]
     },
@@ -202,7 +197,6 @@
         "restaurant",
         "service",
         "conditional",
-        "listening",
         "politeness"
       ]
     },
@@ -224,7 +218,6 @@
       "tags": [
         "cinema",
         "film",
-        "listening",
         "impression"
       ]
     },
@@ -291,7 +284,6 @@
         "travel",
         "provence",
         "landscape",
-        "listening",
         "tourism"
       ]
     },
@@ -314,7 +306,6 @@
         "cinema",
         "film",
         "conditional",
-        "listening",
         "romantic"
       ]
     },
@@ -380,8 +371,7 @@
       "tags": [
         "games",
         "rules",
-        "team-sports",
-        "listening"
+        "team-sports"
       ]
     },
     {
@@ -650,7 +640,7 @@
     },
     {
       "id": 64,
-      "audioText": "Tu ______ cette chose rouge ?",
+      "audioText": "Tu aimes cette chose rouge ?",
       "question": "Tu ______ cette chose rouge ?",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -672,7 +662,7 @@
     },
     {
       "id": 65,
-      "audioText": "Mon chien ______ aux autres animaux du parc.",
+      "audioText": "Mon chien parle aux autres animaux du parc.",
       "question": "Mon chien ______ aux autres animaux du parc.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -697,7 +687,7 @@
     },
     {
       "id": 66,
-      "audioText": "Vous ______ toujours la télévision ensemble le soir.",
+      "audioText": "Vous regardiez toujours la télévision ensemble le soir.",
       "question": "Vous ______ toujours la télévision ensemble le soir.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -722,7 +712,7 @@
     },
     {
       "id": 67,
-      "audioText": "Les oiseaux ______ chanter le matin.",
+      "audioText": "Les oiseaux aiment chanter le matin.",
       "question": "Les oiseaux ______ chanter le matin.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -746,7 +736,7 @@
     },
     {
       "id": 68,
-      "audioText": "Macron ______ souvent à la télévision française.",
+      "audioText": "Macron passe souvent à la télévision française.",
       "question": "Macron ______ souvent à la télévision française.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -767,6 +757,136 @@
         "current-events",
         "government",
         "president"
+      ]
+    },
+    {
+      "id": 69,
+      "audioText": "Mes amis seront très contents demain soir.",
+      "question": "Complete the sentence with the correct form of \"être\"",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "seront",
+        "sont",
+        "étaient",
+        "seraient"
+      ],
+      "correct": 0,
+      "explanation": "\"Seront\" is the future tense of \"être\" (to be) for third person plural. The phrase \"demain soir\" (tomorrow evening) indicates future time, requiring the future tense.",
+      "difficulty": "A2",
+      "source": "Future tense practice with common emotions",
+      "tags": ["future-plans", "emotions", "friends"]
+    },
+    {
+      "id": 70,
+      "audioText": "Marie est allée au marché ce matin.",
+      "question": "Complete the sentence with the correct past participle of \"aller\"",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "allée",
+        "allé",
+        "aller",
+        "va"
+      ],
+      "correct": 0,
+      "explanation": "\"Allée\" is the feminine past participle of \"aller\" (to go). Since Marie is feminine, the past participle agrees in gender, becoming \"allée\" when used with être.",
+      "difficulty": "A2",
+      "source": "Past participle agreement with feminine subjects",
+      "tags": ["shopping", "morning-routine", "past-activities"]
+    },
+    {
+      "id": 71,
+      "audioText": "Cette chose rouge sur la table est très importante pour mon travail.",
+      "question": "Cette ______ rouge sur la table est très importante pour mon travail.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "chose",
+        "choses",
+        "quelque chose",
+        "rien"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'chose'. La phrase complète est 'Cette chose rouge sur la table est très importante pour mon travail.' - This red thing on the table is very important for my work. 'Chose' (thing) is feminine singular, agreeing with 'cette'.",
+      "difficulty": "A2",
+      "source": "Workplace Objects",
+      "tags": [
+        "objects",
+        "work",
+        "colors",
+        "demonstrative-adjectives",
+        "chose"
+      ]
+    },
+    {
+      "id": 72,
+      "audioText": "Mon père travaille dans un bureau depuis vingt ans et il aime beaucoup son métier.",
+      "question": "What does the speaker say about their father?",
+      "questionType": "comprehension",
+      "options": [
+        "He has worked in an office for twenty years and loves his job",
+        "He is looking for a new job after twenty years",
+        "He works at home and enjoys the flexibility",
+        "He recently retired from his office job"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Mon père travaille dans un bureau depuis vingt ans et il aime beaucoup son métier' - My father works in an office for twenty years and he loves his job very much. 'Père' means father, and 'depuis' indicates duration.",
+      "difficulty": "A2",
+      "source": "Family Work Discussion",
+      "tags": [
+        "family",
+        "work",
+        "office",
+        "career",
+        "father",
+        "père"
+      ]
+    },
+    {
+      "id": 73,
+      "audioText": "Ma chambre est petite mais très confortable avec un lit, un bureau et une grande fenêtre.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Ma chambre est petite mais très confortable avec un lit, un bureau et une grande fenêtre.",
+        "Ma chambre est petite mais très confortable avec un lit, un bureau et une petite fenêtre.",
+        "Ma maison est petite mais très confortable avec un lit, un bureau et une grande fenêtre.",
+        "Ma chambre est grande mais très confortable avec un lit, un bureau et une grande fenêtre."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Ma chambre est petite mais très confortable avec un lit, un bureau et une grande fenêtre.' - My room is small but very comfortable with a bed, a desk, and a large window. 'Chambre' refers to a bedroom or room.",
+      "difficulty": "A2",
+      "source": "Home Description",
+      "tags": [
+        "home",
+        "bedroom",
+        "furniture",
+        "description",
+        "chambre",
+        "living-spaces"
+      ]
+    },
+    {
+      "id": 74,
+      "audioText": "Cette voiture rouge appartient à mon oncle qui habite en Bretagne depuis dix ans.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette voiture rouge appartient à mon oncle qui habite en Bretagne depuis dix ans.",
+        "Cette voiture rouge appartient à mon oncle qui habite en Normandie depuis dix ans.",
+        "Cette voiture bleue appartient à mon oncle qui habite en Bretagne depuis dix ans.",
+        "Cette voiture rouge appartient à ma tante qui habite en Bretagne depuis dix ans."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Cette voiture rouge appartient à mon oncle qui habite en Bretagne depuis dix ans.' - This red car belongs to my uncle who has lived in Brittany for ten years. 'Voiture' means car, and 'appartient' means belongs.",
+      "difficulty": "A2",
+      "source": "Family and Transportation",
+      "tags": [
+        "transportation",
+        "family",
+        "cars",
+        "colors",
+        "regions",
+        "voiture",
+        "possessions"
       ]
     }
   ]

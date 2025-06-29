@@ -43,7 +43,6 @@
         "education",
         "support",
         "politics",
-        "listening",
         "soutenir"
       ]
     },
@@ -88,8 +87,7 @@
       "tags": [
         "food",
         "restaurant",
-        "salad",
-        "listening"
+        "salad"
       ]
     },
     {
@@ -133,8 +131,7 @@
       "tags": [
         "food",
         "lunch",
-        "salad",
-        "listening"
+        "salad"
       ]
     },
     {
@@ -178,8 +175,7 @@
       "tags": [
         "food",
         "dinner",
-        "seafood",
-        "listening"
+        "seafood"
       ]
     },
     {
@@ -263,7 +259,6 @@
         "food",
         "restaurant",
         "chicken",
-        "listening",
         "decision",
         "template-enabled"
       ]
@@ -338,7 +333,6 @@
         "soul",
         "vocabulary",
         "millennium",
-        "listening",
         "poetry"
       ]
     },
@@ -437,7 +431,6 @@
         "digital-transformation",
         "strategy",
         "challenges",
-        "listening",
         "professional"
       ]
     },
@@ -483,7 +476,6 @@
       "tags": [
         "international-news",
         "drugs",
-        "listening",
         "authorities"
       ]
     },
@@ -624,8 +616,7 @@
         "policy",
         "medical-deserts",
         "penalties",
-        "doctors",
-        "listening"
+        "doctors"
       ]
     },
     {
@@ -667,7 +658,6 @@
       "tags": [
         "travel",
         "prendrai",
-        "listening",
         "trains",
         "planning"
       ]
@@ -712,7 +702,6 @@
       "source": "Summer Plans",
       "tags": [
         "vacation",
-        "listening",
         "plans",
         "work"
       ]
@@ -735,7 +724,6 @@
       "tags": [
         "travel",
         "conditional-tense",
-        "listening",
         "money",
         "japan"
       ]
@@ -807,7 +795,6 @@
         "gifts",
         "conditional-tense",
         "donnerais",
-        "listening",
         "family",
         "jewelry"
       ]
@@ -831,7 +818,6 @@
         "computers",
         "office",
         "software",
-        "listening",
         "technology",
         "installation"
       ]
@@ -857,8 +843,7 @@
         "work",
         "presentation",
         "promotion",
-        "subjunctive",
-        "listening"
+        "subjunctive"
       ]
     },
     {
@@ -879,8 +864,7 @@
       "tags": [
         "dating",
         "relationships",
-        "communication",
-        "listening"
+        "communication"
       ]
     },
     {
@@ -1077,7 +1061,7 @@
     },
     {
       "id": 243,
-      "audioText": "Les chercheurs de cinq universités européennes ______ collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
+      "audioText": "Les chercheurs de cinq universités européennes viennent collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
       "question": "Les chercheurs de cinq universités européennes ______ collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -1130,7 +1114,7 @@
     },
     {
       "id": 245,
-      "audioText": "En tant qu'agriculteurs biologiques, vous ______ attention aux cycles naturels et aux méthodes durables pour préserver la biodiversité.",
+      "audioText": "En tant qu'agriculteurs biologiques, vous faites attention aux cycles naturels et aux méthodes durables pour préserver la biodiversité.",
       "question": "En tant qu'agriculteurs biologiques, vous ______ attention aux cycles naturels et aux méthodes durables pour préserver la biodiversité.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -1156,7 +1140,7 @@
     },
     {
       "id": 246,
-      "audioText": "Quand j'étais enfant, je ______ toujours aider ma grand-mère à préparer les confitures maison avec les fruits de son jardin potager, apprenant ainsi les techniques traditionnelles de conservation culinaire transmises de génération en génération.",
+      "audioText": "Quand j'étais enfant, je voulais toujours aider ma grand-mère à préparer les confitures maison avec les fruits de son jardin potager, apprenant ainsi les techniques traditionnelles de conservation culinaire transmises de génération en génération.",
       "question": "Quand j'étais enfant, je ______ toujours aider ma grand-mère à préparer les confitures maison avec les fruits de son jardin potager, apprenant ainsi les techniques traditionnelles de conservation culinaire transmises de génération en génération.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -1180,6 +1164,345 @@
         "fruits",
         "garden",
         "heritage"
+      ]
+    },
+    {
+      "id": 247,
+      "audioText": "Auriez-vous du temps libre ce weekend pour m'aider ?",
+      "question": "Complete the polite question with the correct form of \"avoir\"",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "auriez",
+        "avez",
+        "aviez",
+        "ayez"
+      ],
+      "correct": 0,
+      "explanation": "\"Auriez\" is the conditional form of \"avoir\" used in polite questions. The conditional tense makes requests more courteous in French.",
+      "difficulty": "B1",
+      "source": "Conditional politeness in social requests",
+      "tags": ["politeness", "time-management", "helping-others"]
+    },
+    {
+      "id": 248,
+      "audioText": "Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense.",
+      "question": "What did the speakers think about the films they watched last night?",
+      "questionType": "comprehension",
+      "options": [
+        "They were really captivating and full of suspense",
+        "They were boring and predictable",
+        "They were too long and confusing",
+        "They were funny but not very interesting"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense' - The films we watched last night were really captivating and full of suspense. Note 'regardés' agrees with the masculine plural 'films'.",
+      "difficulty": "B1",
+      "source": "Movie Discussion",
+      "tags": [
+        "movies",
+        "entertainment",
+        "past-participle-agreement",
+        "regarder",
+        "suspense"
+      ]
+    },
+    {
+      "id": 249,
+      "audioText": "Vous donnerez vos réponses au professeur avant la fin du cours pour qu'il puisse les corriger ce soir.",
+      "question": "Vous ______ vos réponses au professeur avant la fin du cours pour qu'il puisse les corriger ce soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "donnerez",
+        "donnez",
+        "donniez",
+        "avez donné"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'donnerez'. La phrase complète est 'Vous donnerez vos réponses au professeur avant la fin du cours pour qu'il puisse les corriger ce soir.' - You will give your answers to the teacher before the end of class so he can correct them tonight. 'Donnerez' is the future tense of 'donner' with 'vous'.",
+      "difficulty": "B1",
+      "source": "Classroom Instructions",
+      "tags": [
+        "education",
+        "classroom",
+        "future-tense",
+        "donner",
+        "homework"
+      ]
+    },
+    {
+      "id": 250,
+      "audioText": "Pendant les vacances d'été, mes cousins arrivaient toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.",
+      "question": "Pendant les vacances d'été, mes cousins ______ toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "arrivaient",
+        "arrivent",
+        "arriveront",
+        "sont arrivés"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'arrivaient'. La phrase complète est 'Pendant les vacances d'été, mes cousins arrivaient toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.' - During summer vacation, my cousins always used to arrive at our house on Sunday morning with their suitcases and gifts. 'Arrivaient' is the imperfect tense expressing repeated past actions.",
+      "difficulty": "B1",
+      "source": "Family Summer Memories",
+      "tags": [
+        "family",
+        "summer",
+        "vacation",
+        "memories",
+        "imperfect-tense",
+        "arriver",
+        "routine"
+      ]
+    },
+    {
+      "id": 251,
+      "audioText": "Combien de fois par semaine allez-vous à la salle de sport pour maintenir votre forme physique?",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Combien de fois par semaine allez-vous à la salle de sport pour maintenir votre forme physique?",
+        "Combien de temps par semaine allez-vous à la salle de sport pour maintenir votre forme physique?",
+        "Combien de fois par mois allez-vous à la salle de sport pour maintenir votre forme physique?",
+        "Combien de fois par semaine voulez-vous aller à la salle de sport pour maintenir votre forme physique?"
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Combien de fois par semaine allez-vous à la salle de sport pour maintenir votre forme physique?' - How many times per week do you go to the gym to maintain your physical fitness? Note the distinction between 'fois' (times) and 'temps' (time).",
+      "difficulty": "B1",
+      "source": "Fitness and Health Discussion",
+      "tags": [
+        "health",
+        "fitness",
+        "exercise",
+        "frequency",
+        "gym",
+        "fois"
+      ]
+    },
+    {
+      "id": 252,
+      "audioText": "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+      "question": "What does the speaker say about modern life?",
+      "questionType": "comprehension",
+      "options": [
+        "It often forces us to make difficult choices between our professional career and personal fulfillment",
+        "It provides many opportunities for both career and personal development",
+        "It makes it easier to balance work and personal life than before",
+        "It eliminates the need to choose between work and personal interests"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel' - Modern life often forces us to make difficult choices between our professional career and personal fulfillment. 'Vie' means life, and this explores life's complexities.",
+      "difficulty": "B2",
+      "source": "Modern Life Philosophy",
+      "tags": [
+        "modern-life",
+        "career",
+        "personal-development",
+        "choices",
+        "work-life-balance",
+        "vie",
+        "philosophy"
+      ]
+    },
+    {
+      "id": 253,
+      "audioText": "Son visage exprimait une profonde tristesse quand elle a appris la nouvelle de son licenciement inattendu.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Son visage exprimait une profonde tristesse quand elle a appris la nouvelle de son licenciement inattendu.",
+        "Son visage exprimait une profonde tristesse quand elle a appris la nouvelle de son divorce inattendu.",
+        "Son courage exprimait une profonde tristesse quand elle a appris la nouvelle de son licenciement inattendu.",
+        "Son visage exprimait une grande tristesse quand elle a appris la nouvelle de son licenciement inattendu."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Son visage exprimait une profonde tristesse quand elle a appris la nouvelle de son licenciement inattendu.' - Her face expressed deep sadness when she learned the news of her unexpected dismissal. 'Visage' means face, and this shows emotional expression.",
+      "difficulty": "B1",
+      "source": "Workplace Emotions",
+      "tags": [
+        "emotions",
+        "facial-expressions",
+        "workplace",
+        "sadness",
+        "dismissal",
+        "visage",
+        "body-language"
+      ]
+    },
+    {
+      "id": 254,
+      "audioText": "L'amour que nous partageons depuis quinze ans continue de grandir malgré les difficultés de la vie quotidienne.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'amour que nous partageons depuis quinze ans continue de grandir malgré les difficultés de la vie quotidienne.",
+        "L'amour que nous partageons depuis quinze ans continue de grandir malgré les difficultés de la vie moderne.",
+        "L'amitié que nous partageons depuis quinze ans continue de grandir malgré les difficultés de la vie quotidienne.",
+        "L'amour que nous partageons depuis quatorze ans continue de grandir malgré les difficultés de la vie quotidienne."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'L'amour que nous partageons depuis quinze ans continue de grandir malgré les difficultés de la vie quotidienne.' - The love we have shared for fifteen years continues to grow despite the difficulties of daily life. 'Amour' means love, expressing enduring romantic relationships.",
+      "difficulty": "B2",
+      "source": "Relationship Reflection",
+      "tags": [
+        "love",
+        "relationships",
+        "marriage",
+        "endurance",
+        "daily-life",
+        "amour",
+        "emotions",
+        "long-term-commitment"
+      ]
+    },
+    {
+      "id": 255,
+      "audioText": "Mon collègue et moi avons eu un petit désaccord hier sur la méthode de présentation, mais nous avons trouvé un compromis constructif ce matin.",
+      "question": "What happened between the speaker and their colleague?",
+      "questionType": "comprehension",
+      "options": [
+        "They had a small disagreement about presentation method but found a constructive compromise",
+        "They had a major argument that couldn't be resolved",
+        "They agreed completely on all presentation methods",
+        "They decided to work separately on different projects"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Mon collègue et moi avons eu un petit désaccord hier sur la méthode de présentation, mais nous avons trouvé un compromis constructif ce matin' - My colleague and I had a small disagreement yesterday about the presentation method, but we found a constructive compromise this morning. This shows healthy conflict resolution.",
+      "difficulty": "B1",
+      "source": "Workplace Collaboration",
+      "tags": [
+        "workplace",
+        "interpersonal-conflict",
+        "conflict-resolution",
+        "collaboration",
+        "compromise",
+        "professional-relationships"
+      ]
+    },
+    {
+      "id": 256,
+      "audioText": "Les réseaux sociaux créent parfois des débats passionnés entre les générations sur les questions environnementales et les nouvelles technologies.",
+      "question": "Les réseaux sociaux créent parfois des débats ______ entre les générations sur les questions environnementales et les nouvelles technologies.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "passionnés",
+        "passionnées",
+        "passionné",
+        "passion"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'passionnés'. La phrase complète est 'Les réseaux sociaux créent parfois des débats passionnés entre les générations sur les questions environnementales et les nouvelles technologies.' - Social media sometimes creates passionate debates between generations about environmental issues and new technologies. 'Passionnés' agrees with masculine plural 'débats'.",
+      "difficulty": "B2",
+      "source": "Social Media and Generational Differences",
+      "tags": [
+        "social-media",
+        "generational-differences",
+        "social-controversy",
+        "environment",
+        "technology",
+        "debate",
+        "adjective-agreement"
+      ]
+    },
+    {
+      "id": 257,
+      "audioText": "Pour réussir cette recette traditionnelle, il faut faire mijoter les légumes à feu doux pendant une heure en remuant délicatement de temps en temps.",
+      "question": "What cooking technique does this traditional recipe require?",
+      "questionType": "comprehension",
+      "options": [
+        "Simmering vegetables on low heat for an hour while stirring gently from time to time",
+        "Boiling vegetables rapidly for a short time with constant stirring",
+        "Roasting vegetables in the oven at high temperature",
+        "Steaming vegetables without any stirring or timing requirements"
+      ],
+      "correct": 0,
+      "explanation": "The text describes 'faire mijoter les légumes à feu doux pendant une heure en remuant délicatement de temps en temps' - simmering vegetables on low heat for an hour while stirring gently from time to time. This explains a precise French cooking technique (mijoter = to simmer).",
+      "difficulty": "B1",
+      "source": "Traditional French Cooking Techniques",
+      "tags": [
+        "cooking",
+        "french-cuisine",
+        "traditional-recipes",
+        "cooking-techniques",
+        "culinary-vocabulary",
+        "time-management",
+        "food-preparation"
+      ]
+    },
+    {
+      "id": 258,
+      "audioText": "Les réunions de famille deviennent parfois compliquées quand plusieurs générations ont des opinions différentes sur l'éducation des enfants.",
+      "question": "Les réunions de famille deviennent parfois ______ quand plusieurs générations ont des opinions différentes sur l'éducation des enfants.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "compliquées",
+        "compliqué",
+        "complique",
+        "compliquer"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'compliquées'. La phrase complète est 'Les réunions de famille deviennent parfois compliquées quand plusieurs générations ont des opinions différentes sur l'éducation des enfants.' - Family gatherings sometimes become complicated when several generations have different opinions about child education. 'Compliquées' agrees with feminine plural 'réunions'.",
+      "difficulty": "B2",
+      "source": "Family Dynamics and Generational Differences",
+      "tags": [
+        "famille",
+        "family-dynamics",
+        "generational-differences",
+        "education",
+        "parenting",
+        "family-gatherings",
+        "opinions",
+        "adjective-agreement"
+      ]
+    },
+    {
+      "id": 259,
+      "audioText": "Ma voiture est tombée en panne sur l'autoroute, alors j'ai dû appeler le service de dépannage et attendre une heure sous la pluie.",
+      "question": "What happened to the speaker on the highway?",
+      "questionType": "comprehension",
+      "options": [
+        "Their car broke down, so they had to call roadside assistance and wait an hour in the rain",
+        "They got a flat tire and changed it themselves in the rain",
+        "They ran out of gas and walked to the nearest station",
+        "They had an accident but everyone was safe"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Ma voiture est tombée en panne sur l'autoroute, alors j'ai dû appeler le service de dépannage et attendre une heure sous la pluie' - My car broke down on the highway, so I had to call roadside assistance and wait an hour in the rain. This shows car troubles and emergency services.",
+      "difficulty": "B1",
+      "source": "Car Breakdown Emergency",
+      "tags": [
+        "voiture",
+        "car-troubles",
+        "highway",
+        "emergency-services",
+        "roadside-assistance",
+        "weather",
+        "transportation-problems"
+      ]
+    },
+    {
+      "id": 260,
+      "audioText": "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
+        "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique économique française.",
+        "Le journaliste a annoncé la retraite de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
+        "Le journaliste a critiqué l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.' - The journalist announced the death of the former minister with respect, highlighting his important contributions to French environmental policy. This shows death in news context.",
+      "difficulty": "B2",
+      "source": "Political News and Obituary",
+      "tags": [
+        "mort",
+        "news",
+        "politics",
+        "journalism",
+        "obituary",
+        "environmental-policy",
+        "respect",
+        "public-figures"
       ]
     }
   ]

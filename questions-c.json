@@ -66,7 +66,6 @@
       "tags": [
         "culture",
         "society",
-        "listening",
         "gentrification"
       ]
     },
@@ -114,7 +113,6 @@
         "social-issues",
         "riots",
         "banlieues",
-        "listening",
         "has-comprehension-version"
       ]
     },
@@ -163,7 +161,6 @@
         "politics",
         "extremism",
         "legal",
-        "listening",
         "has-comprehension-version"
       ]
     },
@@ -304,8 +301,7 @@
       "source": "France24 Economics - Listening",
       "tags": [
         "politics",
-        "economy",
-        "listening"
+        "economy"
       ]
     },
     {
@@ -329,7 +325,6 @@
         "us",
         "judiciary",
         "supreme-court",
-        "listening",
         "news"
       ]
     },
@@ -378,8 +373,7 @@
         "policy",
         "medical-deserts",
         "penalties",
-        "doctors",
-        "listening"
+        "doctors"
       ]
     },
     {
@@ -459,7 +453,7 @@
     },
     {
       "id": 119,
-      "audioText": "Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
+      "audioText": "Les résultats de l'enquête ont été reçus par la commission indépendante hier soir.",
       "question": "Complétez avec le participe passé du verbe 'recevoir' : Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -767,7 +761,7 @@
     },
     {
       "id": 130,
-      "audioText": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
+      "audioText": "L'analyse psychanalytique révèle que son père faisait preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
       "question": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -793,7 +787,7 @@
     },
     {
       "id": 131,
-      "audioText": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
+      "audioText": "Les déléguées diplomatiques, arrivées hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
       "question": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -819,7 +813,7 @@
     },
     {
       "id": 132,
-      "audioText": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
+      "audioText": "Maîtres boulangers, sauriez-vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
       "question": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -845,7 +839,7 @@
     },
     {
       "id": 133,
-      "audioText": "Les sociologues contemporains ______ que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
+      "audioText": "Les sociologues contemporains croient que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
       "question": "Les sociologues contemporains ______ que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
       "questionType": "fill-in-the-blank",
       "options": [
