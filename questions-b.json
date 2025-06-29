@@ -1181,7 +1181,11 @@
       "explanation": "\"Auriez\" is the conditional form of \"avoir\" used in polite questions. The conditional tense makes requests more courteous in French.",
       "difficulty": "B1",
       "source": "Conditional politeness in social requests",
-      "tags": ["politeness", "time-management", "helping-others"]
+      "tags": [
+        "politeness",
+        "time-management",
+        "helping-others"
+      ]
     },
     {
       "id": 248,
@@ -1349,7 +1353,6 @@
         "marriage",
         "endurance",
         "daily-life",
-        "amour",
         "emotions",
         "long-term-commitment"
       ]
@@ -1504,6 +1507,433 @@
         "respect",
         "public-figures"
       ]
+    },
+    {
+      "id": 261,
+      "audioText": "Il faudrait plus d'argent pour acheter cette belle voiture que nous voulons depuis des années.",
+      "question": "What would be needed to buy the car?",
+      "questionType": "comprehension",
+      "options": [
+        "More money",
+        "Better weather",
+        "More time",
+        "A bigger garage"
+      ],
+      "correct": 0,
+      "explanation": "The French text says 'Il faudrait plus d'argent pour acheter cette belle voiture' which means 'It would be necessary to have more money to buy this beautiful car.' The conjugate 'faudrait' is the conditional form of falloir (to be necessary).",
+      "difficulty": "B2",
+      "source": "Conditional mood practice with falloir",
+      "tags": [
+        "conditional",
+        "voiture",
+        "necessity",
+        "conjugation",
+        "purchases"
+      ],
+      "timeCreated": 1735489320
+    },
+    {
+      "id": 262,
+      "audioText": "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
+      "ssml": "<speak>Ce don agace certains internautes qui reprennent l'expression <break time=\"250ms\"/>«C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</speak>",
+      "parentQuestion": 135,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
+        "Ce don agace quelques internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
+        "Ce don agace certains internautes qui utilisent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
+        "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», populaire sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.' Les distracteurs modifient des mots clés : 'certains/quelques', 'reprennent/utilisent', et 'en vogue/populaire', testant l'écoute précise du vocabulaire politique et d'internet.",
+      "difficulty": "B2",
+      "source": "French Political Media Commentary - Listening",
+      "tags": [
+        "politics",
+        "taxation",
+        "internet-culture",
+        "public-spending",
+        "social-commentary",
+        "media",
+        "has-comprehension-version"
+      ],
+      "timeCreated": 1735500049
+    },
+    {
+      "id": 263,
+      "audioText": "Le tunnel de Tende a eu des retards à cause d'un vol de métaux et de la tempête Alex. Son ouverture est une grande joie pour les habitants qui étaient isolés depuis des années.",
+      "parentQuestion": 118,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le tunnel de Tende a eu des retards à cause d'un vol de métaux et de la tempête Alex. Son ouverture est une grande joie pour les habitants qui étaient isolés depuis des années.",
+        "Le tunnel de Tende a eu des retards à cause d'un vol de métaux et d'une grosse tempête. Son ouverture est une grande joie pour les habitants qui étaient isolés depuis des années.",
+        "Le tunnel de Tende a eu des retards à cause d'un vol de métaux et de la tempête Alex. Son ouverture est un grand soulagement pour les habitants qui étaient isolés depuis des années.",
+        "Le tunnel de Tende a eu des problèmes à cause d'un vol de métaux et de la tempête Alex. Son ouverture est une grande joie pour les habitants qui étaient isolés depuis des années."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le tunnel de Tende a eu des retards à cause d'un vol de métaux et de la tempête Alex. Son ouverture est une grande joie pour les habitants qui étaient isolés depuis des années.' Les distracteurs modifient des détails : 'tempête Alex/grosse tempête', 'joie/soulagement', et 'retards/problèmes', testant l'écoute précise des termes spécifiques et du vocabulaire émotionnel.",
+      "difficulty": "B2",
+      "source": "French Infrastructure News - Simplified Listening",
+      "tags": [
+        "infrastructure",
+        "tunnel",
+        "france",
+        "italy",
+        "delays",
+        "storm",
+        "relief",
+        "has-comprehension-version"
+      ],
+      "timeCreated": 1735500592
+    },
+    {
+      "id": 264,
+      "audioText": "Si Marie avait plus de temps libre, elle ne laisserait jamais sa petite fille seule à la maison le soir.",
+      "question": "What would Marie never do if she had more free time?",
+      "questionType": "comprehension",
+      "options": [
+        "She would never leave her little girl alone at home in the evening",
+        "She would never work late at the office on weekdays",
+        "She would never forget to call her mother on Sundays",
+        "She would never miss her daughter's school activities"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'elle ne laisserait jamais sa petite fille seule à la maison le soir' - she would never leave her little girl alone at home in the evening. 'Laisserait' is the conditional form of 'laisser' (to leave), and 'fille' means girl/daughter.",
+      "difficulty": "B1",
+      "source": "Parenting and Work-Life Balance",
+      "tags": [
+        "parenting",
+        "work-life-balance",
+        "fille",
+        "children",
+        "family-care",
+        "conditional",
+        "laisser"
+      ],
+      "timeCreated": 1735500648
+    },
+    {
+      "id": 265,
+      "audioText": "Si vous avez des problèmes respiratoires, vous donneriez plus d'attention à la qualité de l'air dans votre ville.",
+      "question": "Si vous avez des problèmes respiratoires, vous ______ plus d'attention à la qualité de l'air dans votre ville.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "donneriez",
+        "donner",
+        "donnez",
+        "donnent"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'donneriez' - the conditional form of 'donner' (to give) with 'vous'. The sentence means 'If you have respiratory problems, you would give more attention to air quality in your city.' 'Air' refers to air quality.",
+      "difficulty": "B2",
+      "source": "Health and Environmental Awareness",
+      "tags": [
+        "health",
+        "respiratory",
+        "air-quality",
+        "air",
+        "environment",
+        "conditional",
+        "donner"
+      ],
+      "timeCreated": 1735500648
+    },
+    {
+      "id": 266,
+      "audioText": "Vous pouvez regarder dans mon oeil gauche pour voir si quelque chose ne va pas.",
+      "question": "Where can the person look to check for problems?",
+      "questionType": "comprehension",
+      "options": [
+        "In the speaker's left eye",
+        "At the speaker's right hand",
+        "Through the speaker's glasses",
+        "Behind the speaker's ear"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Vous pouvez regarder dans mon oeil gauche pour voir si quelque chose ne va pas' - You can look in my left eye to see if something is wrong. 'Pouvez' is the second person plural form of 'pouvoir' (can), and 'oeil' means eye.",
+      "difficulty": "B1",
+      "source": "Medical Examination and Health",
+      "tags": [
+        "health",
+        "medical",
+        "oeil",
+        "body-parts",
+        "examination",
+        "eyes",
+        "pouvoir"
+      ],
+      "timeCreated": 1735500702
+    },
+    {
+      "id": 267,
+      "audioText": "Marie fera tout ce qu'elle peut pour répondre à votre besoin d'aide avec ce projet important.",
+      "question": "Marie ______ tout ce qu'elle peut pour répondre à votre besoin d'aide avec ce projet important.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "fera",
+        "fait",
+        "faisait",
+        "ferait"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'fera' - the third person singular future form of 'faire' (to do/make). The sentence means 'Marie will do everything she can to respond to your need for help with this important project.' 'Besoin' means need.",
+      "difficulty": "B2",
+      "source": "Professional Help and Project Assistance",
+      "tags": [
+        "help",
+        "projects",
+        "besoin",
+        "professional",
+        "assistance",
+        "future-tense",
+        "faire"
+      ],
+      "timeCreated": 1735500702
+    },
+    {
+      "id": 268,
+      "audioText": "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+      "parentQuestion": 252,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+        "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre développement personnel.",
+        "La vie moderne nous permet souvent de faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+        "La vie moderne nous oblige parfois à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.' Les distracteurs testent 'développement' vs 'épanouissement', 'permet' vs 'oblige', et 'parfois' vs 'souvent'.",
+      "difficulty": "B1",
+      "source": "Modern Life Philosophy",
+      "tags": [
+        "modern-life",
+        "career",
+        "personal-development",
+        "choices",
+        "work-life-balance",
+        "vie",
+        "listening-comprehension"
+      ],
+      "timeCreated": 1751216829
+    },
+    {
+      "id": 269,
+      "audioText": "J'attends une réponse de ma collègue depuis trois jours pour résoudre ce conflit professionnel ensemble.",
+      "question": "J'______ une réponse de ma collègue depuis trois jours pour résoudre ce conflit professionnel ensemble.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "attends",
+        "attend",
+        "attendez",
+        "attendons"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'attends' - the first person singular form of 'attendre' (to wait). With 'je' (I), we use 'attends'. The sentence means 'I have been waiting for a response from my colleague for three days to resolve this professional conflict together.' This shows workplace interpersonal relationship dynamics and introduces 'côté' context of working together.",
+      "difficulty": "B1",
+      "source": "Workplace Interpersonal Relationships",
+      "tags": [
+        "interpersonal-relationships",
+        "workplace",
+        "côté",
+        "conflict-resolution",
+        "communication",
+        "professional-relationships",
+        "present-tense",
+        "attendre"
+      ],
+      "timeCreated": 1751217041
+    },
+    {
+      "id": 270,
+      "audioText": "Tu prends trop de temps pour expliquer les règles à ta fille, mais c'est important pour son éducation.",
+      "question": "What does the speaker say about explaining rules to the daughter?",
+      "questionType": "comprehension",
+      "options": [
+        "You take too much time explaining rules to your daughter, but it's important for her education",
+        "You don't spend enough time explaining rules to your daughter for her education",
+        "You explain rules too quickly to your daughter without proper educational context",
+        "You should stop explaining rules to your daughter and focus on other educational aspects"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Tu prends trop de temps pour expliquer les règles à ta fille, mais c'est important pour son éducation' - You take too much time explaining rules to your daughter, but it's important for her education. 'Prends' is the second person singular form of 'prendre' (to take), showing this essential parenting conjugate.",
+      "difficulty": "B2",
+      "source": "Parenting and Education Philosophy",
+      "tags": [
+        "parenting",
+        "education",
+        "fille",
+        "rules",
+        "time-management",
+        "parent-child-relationship",
+        "patience",
+        "prendre"
+      ],
+      "timeCreated": 1751217041
+    },
+    {
+      "id": 271,
+      "audioText": "Je savais que tu viendrais aujourd'hui.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Je savais que tu viendrais aujourd'hui.",
+        "Je sais que tu viendrais aujourd'hui.",
+        "Je savais que tu viendras aujourd'hui.",
+        "Je saurai que tu viendrais aujourd'hui."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'je savais' - first person singular imperfect of 'savoir' (I knew). This highly frequent form was missing from our conjugation coverage and is essential for expressing past knowledge.",
+      "difficulty": "B1",
+      "source": "Conversation about prior knowledge and expectations",
+      "tags": ["listening", "savoir", "past-knowledge", "conditional", "exact-comprehension"],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 272,
+      "audioText": "La semaine est passée très rapidement cette fois.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "La semaine est passée très rapidement cette fois.",
+        "La semaine a passé très rapidement cette fois.",
+        "La semaine est passé très rapidement cette fois.",
+        "La semaine est passer très rapidement cette fois."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'est passée' - feminine past participle agreement with 'la semaine'. The form 'passée' was identified as missing from our coverage despite being very common in time expressions.",
+      "difficulty": "B2",
+      "source": "Time perception and weekly reflection",
+      "tags": ["listening", "passer", "time", "past-participle", "agreement", "exact-comprehension"],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 273,
+      "audioText": "J'ai beaucoup pensé à notre conversation d'hier soir.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "J'ai beaucoup pensé à notre conversation d'hier soir.",
+        "J'ai beaucoup penser à notre conversation d'hier soir.",
+        "J'ai beaucoup pensée à notre conversation d'hier soir.",
+        "Je pense beaucoup à notre conversation d'hier soir."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'j'ai pensé' - past participle of 'penser' in passé composé (I thought about). The form 'pensé' was missing from our coverage despite being essential for expressing completed mental actions.",
+      "difficulty": "B2",
+      "source": "Reflection on past conversations",
+      "tags": ["listening", "penser", "reflection", "past-participle", "conversation", "exact-comprehension"],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 274,
+      "audioText": "Nous avons exactement la même voiture que nos voisins.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Nous avons exactement la même voiture que nos voisins.",
+        "Nous avons exactement la mème voiture que nos voisins.",
+        "Nous avons exactement la mem voiture que nos voisins.",
+        "Nous avons exactement la mime voiture que nos voisins."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'même' (same) - a very high-frequency adjective that was completely missing from our question bank. Note the circumflex accent on the 'e'.",
+      "difficulty": "B1",
+      "source": "Comparison with neighbors and possessions",
+      "tags": ["listening", "même", "comparison", "neighbors", "possessions", "exact-comprehension"],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 275,
+      "audioText": "Votre analyse est très juste et pertinente pour notre projet.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Votre analyse est très juste et pertinente pour notre projet.",
+        "Votre analyse est très joste et pertinente pour notre projet.",
+        "Votre analyse est très juse et pertinente pour notre projet.",
+        "Votre analyse est très jusse et pertinente pour notre projet."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'juste' (just/fair/accurate) - a high-frequency adjective missing from our coverage. Here it means 'accurate' or 'correct' in the context of an analysis.",
+      "difficulty": "B2",
+      "source": "Professional feedback and evaluation",
+      "tags": ["listening", "juste", "analysis", "professional", "evaluation", "exact-comprehension"],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 276,
+      "audioText": "C'est la première fois que je visite cette région magnifique.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "C'est la première fois que je visite cette région magnifique.",
+        "C'est la premier fois que je visite cette région magnifique.",
+        "C'est la primière fois que je visite cette région magnifique.",
+        "C'est la premierre fois que je visite cette région magnifique."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'première' (first) - feminine form agreeing with 'fois' (time). The adjective 'premier/première' was completely missing from our question bank despite being very frequent.",
+      "difficulty": "B1",
+      "source": "Travel experience and discovery",
+      "tags": ["listening", "premier", "première", "travel", "experience", "gender-agreement", "exact-comprehension"],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 277,
+      "audioText": "Je dois traverser la rue principale pour aller au supermarché acheter des légumes frais.",
+      "question": "Je dois traverser la ______ principale pour aller au supermarché acheter des légumes frais.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "rue",
+        "route",
+        "place",
+        "avenue"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'rue' (street). The sentence means 'I need to cross the main street to go to the supermarket to buy fresh vegetables.' This introduces the high-frequency noun 'rue' and grocery shopping vocabulary.",
+      "difficulty": "B1",
+      "source": "Grocery Shopping and Navigation",
+      "tags": [
+        "shopping",
+        "grocery",
+        "rue",
+        "street",
+        "navigation",
+        "supermarket",
+        "vegetables",
+        "daily-errands"
+      ],
+      "timeCreated": 1751219400
+    },
+    {
+      "id": 278,
+      "audioText": "L'air dans cette boulangerie sent merveilleusement bon grâce au pain chaud.",
+      "question": "L'______ dans cette boulangerie sent merveilleusement bon grâce au pain chaud.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "air",
+        "eau",
+        "espace",
+        "ambiance"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'air' (air). The sentence means 'The air in this bakery smells wonderfully good thanks to the warm bread.' This introduces the high-frequency noun 'air' and sensory vocabulary related to food shopping.",
+      "difficulty": "B2",
+      "source": "Bakery Experience and Senses",
+      "tags": [
+        "shopping",
+        "bakery",
+        "air",
+        "senses",
+        "smell",
+        "bread",
+        "food-shopping",
+        "atmosphere"
+      ],
+      "timeCreated": 1751219400
     }
   ]
 }

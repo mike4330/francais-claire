@@ -774,7 +774,11 @@
       "explanation": "\"Seront\" is the future tense of \"être\" (to be) for third person plural. The phrase \"demain soir\" (tomorrow evening) indicates future time, requiring the future tense.",
       "difficulty": "A2",
       "source": "Future tense practice with common emotions",
-      "tags": ["future-plans", "emotions", "friends"]
+      "tags": [
+        "future-plans",
+        "emotions",
+        "friends"
+      ]
     },
     {
       "id": 70,
@@ -791,7 +795,11 @@
       "explanation": "\"Allée\" is the feminine past participle of \"aller\" (to go). Since Marie is feminine, the past participle agrees in gender, becoming \"allée\" when used with être.",
       "difficulty": "A2",
       "source": "Past participle agreement with feminine subjects",
-      "tags": ["shopping", "morning-routine", "past-activities"]
+      "tags": [
+        "shopping",
+        "morning-routine",
+        "past-activities"
+      ]
     },
     {
       "id": 71,
@@ -888,6 +896,488 @@
         "voiture",
         "possessions"
       ]
+    },
+    {
+      "id": 75,
+      "audioText": "Nous sommes près de la main droite.",
+      "question": "What are they near?",
+      "questionType": "comprehension",
+      "options": [
+        "The right hand",
+        "The left foot",
+        "The small door",
+        "The big house"
+      ],
+      "correct": 0,
+      "explanation": "The French text says 'Nous sommes près de la main droite' which means 'We are near the right hand.' The conjugate 'sommes' is the first person plural form of être (to be).",
+      "difficulty": "A1",
+      "source": "Conjugation practice with être",
+      "tags": [
+        "body-parts",
+        "position",
+        "conjugation",
+        "etre",
+        "main"
+      ],
+      "timeCreated": 1735489200
+    },
+    {
+      "id": 76,
+      "audioText": "Tu iras en ville la nuit prochaine.",
+      "question": "When will the person go to town?",
+      "questionType": "comprehension",
+      "options": [
+        "Next night",
+        "This morning",
+        "Last week",
+        "Tomorrow afternoon"
+      ],
+      "correct": 0,
+      "explanation": "The French text says 'Tu iras en ville la nuit prochaine' which means 'You will go to town next night.' The conjugate 'iras' is the second person singular future form of aller (to go).",
+      "difficulty": "A2",
+      "source": "Future tense practice with aller",
+      "tags": [
+        "future-tense",
+        "ville",
+        "nuit",
+        "travel",
+        "conjugation"
+      ],
+      "timeCreated": 1735489260
+    },
+    {
+      "id": 77,
+      "audioText": "Nous trouvons ce jour très important pour notre famille.",
+      "question": "Nous ______ ce jour très important pour notre famille.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "trouvons",
+        "trouve",
+        "trouvez",
+        "trouvent"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'trouvons' - the first person plural form of 'trouver' (to find). With 'nous' (we), we use 'trouvons'. The sentence means 'We find this day very important for our family.' 'Jour' means day.",
+      "difficulty": "A1",
+      "source": "Family Important Days",
+      "tags": [
+        "family",
+        "time",
+        "jour",
+        "importance",
+        "present-tense",
+        "conjugation",
+        "trouver"
+      ],
+      "timeCreated": 1735500648
+    },
+    {
+      "id": 78,
+      "audioText": "Demain, tu regarderas ma tête pour voir si j'ai bien dormi cette nuit.",
+      "question": "What will the person look at tomorrow?",
+      "questionType": "comprehension",
+      "options": [
+        "The speaker's head to see if they slept well",
+        "The weather outside the window",
+        "A new television program together",
+        "Some important homework assignments"
+      ],
+      "correct": 0,
+      "explanation": "The text says 'tu regarderas ma tête pour voir si j'ai bien dormi' - you will look at my head to see if I slept well. 'Regarderas' is the future tense of 'regarder' (to look), and 'tête' means head.",
+      "difficulty": "A2",
+      "source": "Morning Routine and Sleep",
+      "tags": [
+        "morning",
+        "sleep",
+        "tête",
+        "health",
+        "daily-life",
+        "future-tense",
+        "regarder"
+      ],
+      "timeCreated": 1735500648
+    },
+    {
+      "id": 79,
+      "audioText": "Tu vas acheter un peu de pain pour le dîner ce soir.",
+      "question": "Tu ______ acheter un peu de pain pour le dîner ce soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "vas",
+        "va",
+        "vont",
+        "allez"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'vas' - the second person singular form of 'aller' (to go). With 'tu' (you), we use 'vas'. The sentence means 'You are going to buy a little bread for dinner tonight.' 'Peu' means little/a bit.",
+      "difficulty": "A1",
+      "source": "Daily Shopping and Meals",
+      "tags": [
+        "shopping",
+        "food",
+        "peu",
+        "bread",
+        "dinner",
+        "daily-life"
+      ],
+      "timeCreated": 1735500702
+    },
+    {
+      "id": 80,
+      "audioText": "Il faut que tu sois gentil avec ton petit frère cette année.",
+      "question": "What does the speaker want the person to be like with their little brother this year?",
+      "questionType": "comprehension",
+      "options": [
+        "Kind and gentle",
+        "Strict and demanding",
+        "Playful but competitive",
+        "Distant and independent"
+      ],
+      "correct": 0,
+      "explanation": "The text says 'Il faut que tu sois gentil avec ton petit frère cette année' - You need to be kind with your little brother this year. 'Sois' is the subjunctive form of 'être' (to be), and 'an' means year.",
+      "difficulty": "A2",
+      "source": "Family Relationships and Behavior",
+      "tags": [
+        "family",
+        "siblings",
+        "an",
+        "behavior",
+        "kindness",
+        "year",
+        "etre"
+      ],
+      "timeCreated": 1735500702
+    },
+    {
+      "id": 81,
+      "audioText": "Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant une heure.",
+      "parentQuestion": 257,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant une heure.",
+        "Pour réussir cette recette, il faut faire cuire les légumes à feu doux pendant une heure.",
+        "Pour réussir cette recette, il faut faire mijoter les légumes à feu fort pendant une heure.",
+        "Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant deux heures."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant une heure.' Les distracteurs testent 'mijoter' vs 'cuire', 'feu doux' vs 'feu fort', et 'une heure' vs 'deux heures'.",
+      "difficulty": "A2",
+      "source": "Traditional French Cooking Techniques",
+      "tags": [
+        "cooking",
+        "french-cuisine",
+        "recette",
+        "cooking-techniques",
+        "culinary-vocabulary",
+        "time-management",
+        "listening-comprehension"
+      ],
+      "timeCreated": 1751216829
+    },
+    {
+      "id": 82,
+      "audioText": "Tu regardes ta petite amie avec beaucoup d'amour dans tes yeux.",
+      "question": "Tu ______ ta petite amie avec beaucoup d'amour dans tes yeux.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "regardes",
+        "regarde",
+        "regardons",
+        "regardez"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'regardes' - the second person singular form of 'regarder' (to look). With 'tu' (you), we use 'regardes'. The sentence means 'You look at your girlfriend with a lot of love in your eyes.' This introduces 'amour' (love) vocabulary.",
+      "difficulty": "A1",
+      "source": "Dating and Romantic Relationships",
+      "tags": [
+        "dating",
+        "romance",
+        "relationships",
+        "emotions",
+        "love",
+        "present-tense",
+        "regarder"
+      ],
+      "timeCreated": 1751217041
+    },
+    {
+      "id": 83,
+      "audioText": "Je dois aider mon fils avec ses devoirs chaque soir après le dîner.",
+      "question": "Je ______ aider mon fils avec ses devoirs chaque soir après le dîner.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "dois",
+        "doit",
+        "devez",
+        "devons"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'dois' - the first person singular form of 'devoir' (must/have to). With 'je' (I), we use 'dois'. The sentence means 'I must help my son with his homework every evening after dinner.' This shows parenting responsibilities and introduces 'fils' (son).",
+      "difficulty": "A1",
+      "source": "Parenting and Family Duties",
+      "tags": [
+        "parenting",
+        "family",
+        "fils",
+        "homework",
+        "education",
+        "daily-routine",
+        "obligation",
+        "devoir"
+      ],
+      "timeCreated": 1751217041
+    },
+    {
+      "id": 84,
+      "audioText": "Nous allons écouter de la musique ensemble pour passer un bon moment.",
+      "question": "Nous ______ écouter de la musique ensemble pour passer un bon moment.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "allons",
+        "allez",
+        "vont",
+        "va"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'allons' - the first person plural form of 'aller' (to go). With 'nous' (we), we use 'allons'. The sentence means 'We are going to listen to music together to have a good time.' This shows shared music activities and introduces 'moment' (moment).",
+      "difficulty": "A2",
+      "source": "Music and Social Activities",
+      "tags": [
+        "music",
+        "entertainment",
+        "moment",
+        "friendship",
+        "shared-activities",
+        "listening",
+        "near-future"
+      ],
+      "timeCreated": 1751217041
+    },
+    {
+      "id": 85,
+      "audioText": "Tu penses souvent à ta famille ?",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Tu penses souvent à ta famille ?",
+        "Tu panses souvent à ta famille ?",
+        "Tu penses souvent à tes amis ?",
+        "Tu pensez souvent à ta famille ?"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'tu penses' (you think) - second person singular present of 'penser'. This form was identified as missing from our question bank despite being very frequent in French.",
+      "difficulty": "A2",
+      "source": "Daily conversation about family thoughts",
+      "tags": [
+        "listening",
+        "penser",
+        "family",
+        "daily-life",
+        "exact-comprehension"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 86,
+      "audioText": "Mon père parlait français très bien.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Mon père parlait français très bien.",
+        "Mon père parle français très bien.",
+        "Mon père parlera français très bien.",
+        "Mon père parlons français très bien."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'parlait' - imperfect tense of 'parler' (was speaking/used to speak). This conjugation was identified as missing despite being highly frequent in storytelling and past descriptions.",
+      "difficulty": "A2",
+      "source": "Family description and past abilities",
+      "tags": [
+        "listening",
+        "parler",
+        "family",
+        "past-tense",
+        "imperfect",
+        "exact-comprehension"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 87,
+      "audioText": "Quand j'étais petit, j'aimais beaucoup les gâteaux.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Quand j'étais petit, j'aimais beaucoup les gâteaux.",
+        "Quand j'étais petit, j'aime beaucoup les gâteaux.",
+        "Quand j'étais petit, j'aimerais beaucoup les gâteaux.",
+        "Quand j'étais petit, j'aimé beaucoup les gâteaux."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'j'aimais' - first person singular imperfect of 'aimer' (I used to like). This form was missing from our conjugation coverage despite being essential for past descriptions.",
+      "difficulty": "A2",
+      "source": "Childhood memories and preferences",
+      "tags": [
+        "listening",
+        "aimer",
+        "childhood",
+        "food",
+        "past-tense",
+        "imperfect",
+        "exact-comprehension"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 88,
+      "audioText": "Tu es sûr de cette réponse ?",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Tu es sûr de cette réponse ?",
+        "Tu es sur de cette réponse ?",
+        "Tu es sour de cette réponse ?",
+        "Tu es sourd de cette réponse ?"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'sûr' (sure/certain) - a high-frequency adjective that was completely missing from our question bank. Note the circumflex accent on the 'u'.",
+      "difficulty": "A2",
+      "source": "Daily conversation about certainty",
+      "tags": [
+        "listening",
+        "sûr",
+        "certainty",
+        "exact-comprehension",
+        "accent-marks"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 89,
+      "audioText": "C'est vrai, il fait beau aujourd'hui.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "C'est vrai, il fait beau aujourd'hui.",
+        "C'est vraie, il fait beau aujourd'hui.",
+        "C'est vré, il fait beau aujourd'hui.",
+        "C'est vras, il fait beau aujourd'hui."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'vrai' (true/real) - a very high-frequency adjective missing from our coverage. This sentence also introduces 'beau' (beautiful), another missing adjective.",
+      "difficulty": "A2",
+      "source": "Weather conversation and agreement",
+      "tags": [
+        "listening",
+        "vrai",
+        "beau",
+        "weather",
+        "agreement",
+        "exact-comprehension"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 90,
+      "audioText": "Mon frère est seul à la maison ce soir.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Mon frère est seul à la maison ce soir.",
+        "Mon frère est sel à la maison ce soir.",
+        "Mon frère est seule à la maison ce soir.",
+        "Mon frère est soul à la maison ce soir."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'seul' (alone/only) - masculine form agreeing with 'mon frère' (my brother). This high-frequency adjective was completely missing from our question bank.",
+      "difficulty": "A2",
+      "source": "Family and home situation",
+      "tags": [
+        "listening",
+        "seul",
+        "family",
+        "home",
+        "gender-agreement",
+        "exact-comprehension"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 91,
+      "audioText": "J'aime jouer au tennis avec mes amis.",
+      "question": "J'aime ______ au tennis avec mes amis.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "jouer",
+        "joue",
+        "jouons",
+        "jouez"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'jouer' - the infinitive form after 'aimer' (to like). The sentence means 'I like to play tennis with my friends.' This introduces hobby vocabulary and the construction 'aimer + infinitive'.",
+      "difficulty": "A1",
+      "source": "Hobbies and Sports",
+      "tags": [
+        "hobbies",
+        "sports",
+        "tennis",
+        "friendship",
+        "infinitive",
+        "jouer"
+      ],
+      "timeCreated": 1751219400
+    },
+    {
+      "id": 92,
+      "audioText": "Je vais acheter du pain avec mon argent.",
+      "question": "Je vais acheter du pain avec mon ______.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "argent",
+        "temps",
+        "ami",
+        "livre"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'argent' (money). The sentence means 'I'm going to buy bread with my money.' This introduces the high-frequency noun 'argent' and basic grocery shopping vocabulary.",
+      "difficulty": "A1",
+      "source": "Grocery Shopping",
+      "tags": [
+        "shopping",
+        "grocery",
+        "argent",
+        "money",
+        "food",
+        "bread",
+        "daily-life"
+      ],
+      "timeCreated": 1751219400
+    },
+    {
+      "id": 93,
+      "audioText": "Le weekend, je fais de la musique avec ma guitare.",
+      "question": "Le weekend, je fais de la ______ avec ma guitare.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "musique",
+        "cuisine",
+        "lecture",
+        "peinture"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'musique' (music). The sentence means 'On weekends, I make music with my guitar.' This introduces musical hobby vocabulary and the expression 'faire de la musique'.",
+      "difficulty": "A2",
+      "source": "Musical Hobbies",
+      "tags": [
+        "hobbies",
+        "music",
+        "guitar",
+        "weekend",
+        "leisure",
+        "musical-instruments"
+      ],
+      "timeCreated": 1751219400
     }
   ]
 }
