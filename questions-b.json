@@ -7,7 +7,7 @@
       "questionType": "comprehension",
       "options": [
         "To support their professor who was fired after criticizing the government",
-        "To protest against high university fees", 
+        "To protest against high university fees",
         "To demand better facilities and resources",
         "To celebrate their graduation ceremony"
       ],
@@ -15,7 +15,14 @@
       "explanation": "The students demonstrated 'pour soutenir leur professeur licencié après ses critiques du gouvernement' - to support their professor who was fired after his criticisms of the government. The verb 'soutenir' means to support or back someone.",
       "difficulty": "B2",
       "source": "University News",
-      "tags": ["education", "protest", "politics", "academic-freedom", "soutenir", "verb-conjugation"]
+      "tags": [
+        "education",
+        "protest",
+        "politics",
+        "academic-freedom",
+        "soutenir",
+        "verb-conjugation"
+      ]
     },
     {
       "id": 201,
@@ -33,7 +40,15 @@
       "explanation": "La phrase exacte était 'Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.' - The students support their professor who lost his job because of his political opinions.",
       "difficulty": "B1",
       "source": "University News - Listening",
-      "tags": ["education", "support", "politics", "listening", "exact-comprehension", "simplified", "soutenir"]
+      "tags": [
+        "education",
+        "support",
+        "politics",
+        "listening",
+        "exact-comprehension",
+        "simplified",
+        "soutenir"
+      ]
     },
     {
       "id": 202,
@@ -50,7 +65,12 @@
       "explanation": "The speaker ordered 'une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar' - a Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce.",
       "difficulty": "B1",
       "source": "Restaurant Menu",
-      "tags": ["food", "restaurant", "salad", "menu"]
+      "tags": [
+        "food",
+        "restaurant",
+        "salad",
+        "menu"
+      ]
     },
     {
       "id": 203,
@@ -68,7 +88,13 @@
       "explanation": "La phrase exacte était 'Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.' - At the restaurant, I ordered a Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce.",
       "difficulty": "B1",
       "source": "Restaurant Menu - Listening",
-      "tags": ["food", "restaurant", "salad", "listening", "exact-comprehension"]
+      "tags": [
+        "food",
+        "restaurant",
+        "salad",
+        "listening",
+        "exact-comprehension"
+      ]
     },
     {
       "id": 204,
@@ -85,7 +111,12 @@
       "explanation": "The speaker had 'une salade Bergère avec du chèvre pané et des lardons' - a Bergère salad with breaded goat cheese and bacon bits for lunch.",
       "difficulty": "B1",
       "source": "Lunch Menu",
-      "tags": ["food", "lunch", "salad", "menu"]
+      "tags": [
+        "food",
+        "lunch",
+        "salad",
+        "menu"
+      ]
     },
     {
       "id": 205,
@@ -103,7 +134,13 @@
       "explanation": "La phrase exacte était 'Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.' - For lunch, I had a Bergère salad with breaded goat cheese and bacon bits.",
       "difficulty": "B1",
       "source": "Lunch Menu - Listening",
-      "tags": ["food", "lunch", "salad", "listening", "exact-comprehension"]
+      "tags": [
+        "food",
+        "lunch",
+        "salad",
+        "listening",
+        "exact-comprehension"
+      ]
     },
     {
       "id": 206,
@@ -120,7 +157,12 @@
       "explanation": "The speaker ate 'une poêlée de seiche avec du gingembre, du piment doux et de la persillade' - a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, described as very tasty.",
       "difficulty": "B2",
       "source": "Dinner Menu",
-      "tags": ["food", "dinner", "seafood", "menu"]
+      "tags": [
+        "food",
+        "dinner",
+        "seafood",
+        "menu"
+      ]
     },
     {
       "id": 207,
@@ -138,7 +180,13 @@
       "explanation": "La phrase exacte était 'Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.' - Last night, I enjoyed a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, a really tasty dish.",
       "difficulty": "B2",
       "source": "Dinner Menu - Listening",
-      "tags": ["food", "dinner", "seafood", "listening", "exact-comprehension"]
+      "tags": [
+        "food",
+        "dinner",
+        "seafood",
+        "listening",
+        "exact-comprehension"
+      ]
     },
     {
       "id": 208,
@@ -155,23 +203,53 @@
       "explanation": "The speaker finally chose 'un émincé de poulet à la moutarde parfumée' - a sliced chicken dish with fragrant mustard sauce, after hesitating between a flank steak and duck breast skewers.",
       "difficulty": "B2",
       "source": "Restaurant Choice",
-      "tags": ["food", "restaurant", "chicken", "menu", "decision"]
+      "tags": [
+        "food",
+        "restaurant",
+        "chicken",
+        "menu",
+        "decision"
+      ]
     },
     {
       "id": 209,
       "audioTemplate": "Au restaurant, j'ai hésité entre {dish1} et {dish2}, mais j'ai finalement choisi {final_choice}.",
       "templateVariables": {
         "dish1": {
-          "options": ["une bavette d'aloyau", "une poêlée de seiche", "un burger au bacon"],
-          "weights": [0.5, 0.3, 0.2]
+          "options": [
+            "une bavette d'aloyau",
+            "une poêlée de seiche",
+            "un burger au bacon"
+          ],
+          "weights": [
+            0.5,
+            0.3,
+            0.2
+          ]
         },
         "dish2": {
-          "options": ["des brochettes de magret de canard", "un steak tartare au couteau", "un gratin dauphinois"],
-          "weights": [0.5, 0.3, 0.2]
+          "options": [
+            "des brochettes de magret de canard",
+            "un steak tartare au couteau",
+            "un gratin dauphinois"
+          ],
+          "weights": [
+            0.5,
+            0.3,
+            0.2
+          ]
         },
         "final_choice": {
-          "options": ["un émincé de poulet à la moutarde parfumée", "un steak tartare au couteau", "un gratin dauphinois"],
-          "weights": [0.6, 0.2, 0.2]
+          "options": [
+            "un émincé de poulet à la moutarde parfumée",
+            "un steak tartare au couteau",
+            "un gratin dauphinois"
+          ],
+          "weights": [
+            0.6,
+            0.2,
+            0.2
+          ]
         }
       },
       "parentQuestion": 208,
@@ -187,7 +265,15 @@
       "explanation": "La phrase exacte était générée à partir du modèle. Exemple : 'Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.' - At the restaurant, I hesitated between a flank steak and duck breast skewers, but I finally chose a sliced chicken dish with fragrant mustard sauce.",
       "difficulty": "B2",
       "source": "Restaurant Choice - Listening (Template)",
-      "tags": ["food", "restaurant", "chicken", "listening", "exact-comprehension", "decision", "template-enabled"]
+      "tags": [
+        "food",
+        "restaurant",
+        "chicken",
+        "listening",
+        "exact-comprehension",
+        "decision",
+        "template-enabled"
+      ]
     },
     {
       "id": 210,
@@ -204,7 +290,15 @@
       "explanation": "Le mot manquant est 'grève'. La phrase complète est 'Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine.' - SNCF employees announced a three-day strike next week. 'Grève' means strike, which is the logical action when transportation workers make such announcements.",
       "difficulty": "B1",
       "source": "Transportation News",
-      "tags": ["transportation", "labor", "strikes", "SNCF", "news", "fill-in-the-blank", "B1"]
+      "tags": [
+        "transportation",
+        "labor",
+        "strikes",
+        "SNCF",
+        "news",
+        "fill-in-the-blank",
+        "B1"
+      ]
     },
     {
       "id": 211,
@@ -214,14 +308,21 @@
       "options": [
         "chômage",
         "croissance",
-        "inflation", 
+        "inflation",
         "productivité"
       ],
       "correct": 0,
       "explanation": "Le mot manquant est 'chômage'. La phrase complète est 'Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.' - The unemployment rate fell by 0.2 percentage points in the last quarter, reaching 7.3% of the active population. 'Chômage' means unemployment, a key economic indicator.",
       "difficulty": "B2",
       "source": "French Economic News",
-      "tags": ["economy", "unemployment", "statistics", "employment", "economic-indicators", "fill-in-the-blank", "B2"]
+      "tags": [
+        "economy",
+        "unemployment",
+        "statistics",
+        "employment",
+        "economic-indicators",
+        "fill-in-the-blank"
+      ]
     },
     {
       "id": 212,
@@ -239,7 +340,17 @@
       "explanation": "La phrase exacte était 'Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.' - With this port inland, there is a maritime soul. Caen continues to celebrate its Millennium with a naval parade fifteen kilometers from the sea.",
       "difficulty": "B2",
       "source": "Caen Millennium News - Listening",
-      "tags": ["culture", "celebration", "maritime", "soul", "vocabulary", "millennium", "listening", "exact-comprehension", "poetry"]
+      "tags": [
+        "culture",
+        "celebration",
+        "maritime",
+        "soul",
+        "vocabulary",
+        "millennium",
+        "listening",
+        "exact-comprehension",
+        "poetry"
+      ]
     },
     {
       "id": 213,
@@ -256,7 +367,16 @@
       "explanation": "Le mot manquant est 'moyens'. La phrase complète est 'Cette famille n'a pas les moyens financiers de partir en vacances cette année à cause de la crise économique.' - This family doesn't have the financial means to go on vacation this year because of the economic crisis. 'Avoir les moyens' is a common expression meaning to have the resources/ability to afford something.",
       "difficulty": "B1",
       "source": "Family Economics",
-      "tags": ["finances", "family", "vacation", "economic-crisis", "resources", "expressions", "fill-in-the-blank", "B1"]
+      "tags": [
+        "finances",
+        "family",
+        "vacation",
+        "economic-crisis",
+        "resources",
+        "expressions",
+        "fill-in-the-blank",
+        "B1"
+      ]
     },
     {
       "id": 214,
@@ -273,7 +393,16 @@
       "explanation": "Le mot manquant est 'comble'. La phrase complète est 'Il pleut pendant nos vacances à la plage ! C'est vraiment le comble de la malchance.' - It's raining during our beach vacation! That's really the height of bad luck. 'Le comble de' is a French expression meaning 'the height/peak of something' or 'the last straw'.",
       "difficulty": "B1",
       "source": "Vacation Troubles",
-      "tags": ["weather", "vacation", "expressions", "bad-luck", "emotions", "idiomatic", "fill-in-the-blank", "B1"]
+      "tags": [
+        "weather",
+        "vacation",
+        "expressions",
+        "bad-luck",
+        "emotions",
+        "idiomatic",
+        "fill-in-the-blank",
+        "B1"
+      ]
     },
     {
       "id": 215,
@@ -290,7 +419,15 @@
       "explanation": "Thomas experienced a series of unfortunate events: 'a raté son train' (missed his train), 'perdu son portefeuille' (lost his wallet), 'et il pleut maintenant' (and now it's raining). The speaker concludes with 'Quelle malchance !' (What bad luck!), showing that 'malchance' refers to a string of unlucky events.",
       "difficulty": "B1",
       "source": "Daily Misfortunes",
-      "tags": ["bad-luck", "daily-life", "misfortunes", "emotions", "malchance", "vocabulary", "comprehension", "B1"]
+      "tags": [
+        "bad-luck",
+        "daily-life",
+        "misfortunes",
+        "emotions",
+        "vocabulary",
+        "comprehension",
+        "B1"
+      ]
     },
     {
       "id": 216,
@@ -307,7 +444,15 @@
       "explanation": "La phrase exacte était 'Pour notre entreprise, s'adapter au marché numérique représente un véritable défi stratégique.' - For our company, adapting to the digital market represents a real strategic challenge. 'Défi' means challenge or obstacle to overcome, which fits perfectly in this business context about digital transformation.",
       "difficulty": "B2",
       "source": "Business Strategy",
-      "tags": ["business", "digital-transformation", "strategy", "challenges", "défi", "listening", "professional", "B2"]
+      "tags": [
+        "business",
+        "digital-transformation",
+        "strategy",
+        "challenges",
+        "défi",
+        "listening",
+        "professional"
+      ]
     },
     {
       "id": 217,
@@ -316,7 +461,7 @@
       "questionType": "comprehension",
       "options": [
         "They sold them to international buyers",
-        "They stored them in government warehouses", 
+        "They stored them in government warehouses",
         "They burned them in public ceremonies",
         "They distributed them to medical facilities"
       ],
@@ -324,14 +469,20 @@
       "explanation": "The junta 'a brûlé des stupéfiants saisis' - burned seized narcotics. The ceremonies took place in Rangoon, Mandalay, and Taunggyi. The value was estimated at about 300 million dollars.",
       "difficulty": "B2",
       "source": "Myanmar Drug Destruction News",
-      "tags": ["international-news", "drugs", "politics", "myanmar", "authorities"]
+      "tags": [
+        "international-news",
+        "drugs",
+        "politics",
+        "myanmar",
+        "authorities"
+      ]
     },
     {
       "id": 218,
       "audioText": "Les autorités de Birmanie ont détruit pour 300 millions de dollars de drogue dans trois villes.",
       "parentQuestion": 217,
       "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening", 
+      "questionType": "listening",
       "options": [
         "Les autorités de Birmanie ont détruit pour 300 millions de dollars de drogue dans trois villes.",
         "Les autorités de Birmanie ont trouvé pour 300 millions de dollars de drogue dans trois villes.",
@@ -342,7 +493,13 @@
       "explanation": "La phrase simplifiée était 'Les autorités de Birmanie ont détruit pour 300 millions de dollars de drogue dans trois villes.' - The Myanmar authorities destroyed 300 million dollars worth of drugs in three cities.",
       "difficulty": "B1",
       "source": "Myanmar Drug News - Simplified",
-      "tags": ["international-news", "drugs", "listening", "simplified", "authorities"]
+      "tags": [
+        "international-news",
+        "drugs",
+        "listening",
+        "simplified",
+        "authorities"
+      ]
     },
     {
       "id": 219,
@@ -359,7 +516,13 @@
       "explanation": "Le mot manquant est 'stupéfiants'. La phrase complète est 'La junte au pouvoir en Birmanie a brûlé des stupéfiants saisis par les autorités d'une valeur estimée à quelque 300 millions de dollars.' - The ruling junta in Myanmar burned narcotics seized by authorities worth an estimated 300 million dollars.",
       "difficulty": "B2",
       "source": "Myanmar Drug News - Fill-in-blank",
-      "tags": ["international-news", "drugs", "fill-in-the-blank", "vocabulary", "authorities"]
+      "tags": [
+        "international-news",
+        "drugs",
+        "fill-in-the-blank",
+        "vocabulary",
+        "authorities"
+      ]
     },
     {
       "id": 220,
@@ -376,7 +539,14 @@
       "explanation": "According to the text, 'Cet enneigement soudain est un phénomène qui n'avait pas été vu depuis dix ans selon le centre astronomique ALMA' - this sudden snowfall is a phenomenon that hadn't been seen for ten years according to the ALMA astronomical center.",
       "difficulty": "B2",
       "source": "Chile Weather Phenomenon",
-      "tags": ["weather", "chile", "desert", "snow", "climate", "rare-events"]
+      "tags": [
+        "weather",
+        "chile",
+        "desert",
+        "snow",
+        "climate",
+        "rare-events"
+      ]
     },
     {
       "id": 221,
@@ -393,7 +563,13 @@
       "explanation": "Météo France 'a placé treize départements en vigilance orange canicule' - has placed thirteen departments under orange heat wave warning. The condensed version focuses on the essential information about the heat wave affecting southern and eastern France.",
       "difficulty": "B1",
       "source": "French Weather Alert - Condensed",
-      "tags": ["weather", "france", "heat-wave", "alert", "departments"]
+      "tags": [
+        "weather",
+        "france",
+        "heat-wave",
+        "alert",
+        "departments"
+      ]
     },
     {
       "id": 222,
@@ -410,7 +586,13 @@
       "explanation": "Le mot manquant est 'orange'. La phrase complète est 'Météo France a placé treize départements en vigilance orange canicule pour le weekend.' - Météo France has placed thirteen departments under orange heat wave warning for the weekend. Orange is the second-highest level of weather alert in France.",
       "difficulty": "B1",
       "source": "French Weather Alert - Fill-in-blank",
-      "tags": ["weather", "france", "alert-levels", "fill-in-the-blank", "heat-wave"]
+      "tags": [
+        "weather",
+        "france",
+        "alert-levels",
+        "fill-in-the-blank",
+        "heat-wave"
+      ]
     },
     {
       "id": 223,
@@ -427,7 +609,15 @@
       "explanation": "The audio says 'les juges fédéraux ne peuvent plus suspendre partout dans le pays des décisions prises par le président' – federal judges can no longer block presidential decisions nationwide. Donald Trump welcomed this as a victory. The other options either reverse the decision, misstate the relationship, or are factually incorrect.",
       "difficulty": "B2",
       "source": "French summary of US Supreme Court news, June 2024 (simplified)",
-      "tags": ["law", "politics", "us", "judiciary", "supreme-court", "comprehension", "news"]
+      "tags": [
+        "law",
+        "politics",
+        "us",
+        "judiciary",
+        "supreme-court",
+        "comprehension",
+        "news"
+      ]
     },
     {
       "id": 224,
@@ -445,7 +635,231 @@
       "explanation": "La phrase exacte était 'Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.' Les distracteurs modifient soit l'adjectif clé (choqués/surpris), le mot 'pénalités' (pénalités/récompenses), ou le verbe (ne peuvent pas/ne veulent pas).",
       "difficulty": "B2",
       "source": "French Healthcare Policy - Medical Deserts - Listening",
-      "tags": ["healthcare", "policy", "medical-deserts", "penalties", "doctors", "listening", "exact-comprehension", "B2"]
+      "tags": [
+        "healthcare",
+        "policy",
+        "medical-deserts",
+        "penalties",
+        "doctors",
+        "listening",
+        "exact-comprehension"
+      ]
+    },
+    {
+      "id": 122,
+      "audioText": "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit suffisant. Je crois qu'il vaut mieux continuer à étudier.'",
+      "question": "What is the difference between what Marie knows and what she believes?",
+      "questionType": "comprehension",
+      "options": [
+        "She knows the competition is strong and believes she speaks three languages",
+        "She knows she speaks three languages and believes the competition is strong",
+        "She believes she speaks three languages and knows it's not enough",
+        "She knows nothing for certain, everything is just her belief"
+      ],
+      "correct": 1,
+      "explanation": "Marie uses 'Je sais' (I know) for facts she's certain about - speaking three languages. She uses 'je crois' (I believe/think) for her opinions and judgments - that it might not be enough and that it's better to keep studying. This shows the key difference: 'savoir' = definite knowledge, 'croire' = beliefs/opinions.",
+      "difficulty": "B1",
+      "source": "Savoir vs Croire Grammar",
+      "tags": [
+        "grammar",
+        "job-interview",
+        "verbs",
+        "certainty"
+      ]
+    },
+    {
+      "id": 225,
+      "audioText": "Demain matin, je prendrai le train de 8h30 pour aller à Lyon. Je prendrai aussi quelques livres pour lire pendant le voyage.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Demain matin, je prendrai le train de 8h30 pour aller à Lyon. Je prendrai aussi quelques livres pour lire pendant le voyage.",
+        "Demain matin, je prendrais le train de 8h30 pour aller à Lyon. Je prendrai aussi quelques livres pour lire pendant le voyage.",
+        "Demain matin, je prendrai le train de 8h30 pour aller à Paris. Je prendrai aussi quelques livres pour lire pendant le voyage.",
+        "Demain matin, je prendrai le train de 8h30 pour aller à Lyon. Je prendrais aussi quelques livres pour lire pendant le voyage."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Demain matin, je prendrai le train de 8h30 pour aller à Lyon. Je prendrai aussi quelques livres pour lire pendant le voyage.' Les distracteurs modifient soit le temps du verbe (prendrai/prendrais), soit la destination (Lyon/Paris), testant l'écoute précise du futur simple.",
+      "difficulty": "B1",
+      "source": "Travel Plans",
+      "tags": [
+        "travel",
+        "prendrai",
+        "listening",
+        "exact-comprehension",
+        "trains",
+        "planning"
+      ]
+    },
+    {
+      "id": 226,
+      "audioText": "Marie explique : 'Je suis un cours de français en ligne depuis trois mois. C'est très pratique parce que je peux étudier à mon rythme.'",
+      "question": "What does Marie say about her French course?",
+      "questionType": "comprehension",
+      "options": [
+        "She is following an online French course for three months and finds it practical",
+        "She finished an online French course three months ago",
+        "She is planning to start an online French course in three months",
+        "She teaches online French courses and has done so for three months"
+      ],
+      "correct": 0,
+      "explanation": "Marie says 'Je suis un cours de français en ligne depuis trois mois' - I'm following/taking an online French course for three months. She finds it practical because she can study at her own pace. Here 'suis' comes from 'suivre' (to follow/take a course), not 'être' (to be).",
+      "difficulty": "B1",
+      "source": "Online Learning",
+      "tags": [
+        "education",
+        "online-learning",
+        "suivre",
+        "verb-distinction",
+        "duration"
+      ]
+    },
+    {
+      "id": 227,
+      "audioText": "Je pensais partir en vacances cet été, mais finalement je reste à Paris pour travailler.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Je pensais partir en vacances cet été, mais finalement je reste à Paris pour travailler.",
+        "Je pense partir en vacances cet été, mais finalement je reste à Paris pour travailler.",
+        "Je pensais partir en vacances cet été, mais finalement je rentre à Paris pour travailler.",
+        "Je pensais repartir en vacances cet été, mais finalement je reste à Paris pour travailler."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Je pensais partir en vacances cet été, mais finalement je reste à Paris pour travailler.' Les distracteurs testent la distinction entre imparfait (pensais) et présent (pense), ainsi que des variations de verbes similaires (partir/repartir, rester/rentrer).",
+      "difficulty": "B1",
+      "source": "Summer Plans",
+      "tags": [
+        "vacation",
+        "pensais",
+        "imperfect-tense",
+        "listening",
+        "exact-comprehension",
+        "plans",
+        "work"
+      ]
+    },
+    {
+      "id": 228,
+      "audioText": "J'aimerais beaucoup visiter le Japon l'année prochaine si j'ai assez d'argent.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "J'aimerais beaucoup visiter le Japon l'année prochaine si j'ai assez d'argent.",
+        "J'aime beaucoup visiter le Japon l'année prochaine si j'ai assez d'argent.",
+        "J'aimerais beaucoup visiter le Japon l'année prochaine si j'avais assez d'argent.",
+        "J'aimerais beaucoup visiter la Chine l'année prochaine si j'ai assez d'argent."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'J'aimerais beaucoup visiter le Japon l'année prochaine si j'ai assez d'argent.' Les distracteurs testent la distinction entre conditionnel (aimerais) et présent (aime), le temps de la condition (ai/avais), et la destination (Japon/Chine).",
+      "difficulty": "B1",
+      "source": "Travel Dreams",
+      "tags": [
+        "travel",
+        "conditional-tense",
+        "listening",
+        "exact-comprehension",
+        "money",
+        "japan"
+      ]
+    },
+    {
+      "id": 229,
+      "audioText": "Cette réglementation européenne impose des standards si stricts qu'il fallût réviser entièrement notre processus de production pour nous conformer aux nouvelles exigences environnementales.",
+      "question": "What impact did the European regulation have on the production process?",
+      "questionType": "comprehension",
+      "options": [
+        "It required minor adjustments to meet basic environmental standards",
+        "It necessitated a complete revision of the production process to meet strict environmental requirements",
+        "It eliminated the need for environmental compliance in production",
+        "It simplified the production process by reducing regulatory requirements"
+      ],
+      "correct": 1,
+      "explanation": "The text explains 'il fallût réviser entièrement notre processus de production' - it was necessary to completely revise the production process. The subjunctive 'fallût' expresses the strong necessity imposed by the strict European standards for environmental compliance.",
+      "difficulty": "B2",
+      "source": "European Regulatory Compliance",
+      "tags": [
+        "regulation",
+        "environment",
+        "subjunctive",
+        "production",
+        "compliance",
+        "european-union"
+      ]
+    },
+    {
+      "id": 230,
+      "audioText": "Quand j'aurai terminé ce projet, je laisserai tomber mon travail actuel pour me consacrer entièrement à l'entrepreneuriat social. Cette décision représente un tournant majeur dans ma carrière professionnelle.",
+      "question": "What does the speaker plan to do after finishing their current project?",
+      "questionType": "comprehension",
+      "options": [
+        "Continue working on similar projects while developing social entrepreneurship as a hobby",
+        "Drop their current job completely to dedicate themselves entirely to social entrepreneurship",
+        "Negotiate with their employer to reduce their workload gradually",
+        "Start a new company while maintaining their current professional position"
+      ],
+      "correct": 1,
+      "explanation": "The speaker says 'je laisserai tomber mon travail actuel pour me consacrer entièrement à l'entrepreneuriat social' - I will drop my current work to dedicate myself entirely to social entrepreneurship. This represents a major turning point in their professional career.",
+      "difficulty": "B2",
+      "source": "Career Transition",
+      "tags": [
+        "career-change",
+        "entrepreneurship",
+        "social-business",
+        "professional-decisions",
+        "life-transitions"
+      ]
+    },
+    {
+      "id": 231,
+      "audioText": "Si j'avais plus d'argent, je donnerais ce collier à ma sœur pour son anniversaire.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Si j'avais plus d'argent, je donnerais ce collier à ma sœur pour son anniversaire.",
+        "Si j'avais plus d'argent, je donnais ce collier à ma sœur pour son anniversaire.",
+        "Si j'avais plus d'argent, je donnerais ce bracelet à ma sœur pour son anniversaire.",
+        "Si j'avais plus d'argent, je donnerais ce collier à ma mère pour son anniversaire."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Si j'avais plus d'argent, je donnerais ce collier à ma sœur pour son anniversaire.' Les distracteurs testent la distinction entre conditionnel (donnerais) et imparfait (donnais), ainsi que des variations d'objets (collier/bracelet) et de personnes (sœur/mère).",
+      "difficulty": "B1",
+      "source": "Shopping Gifts",
+      "tags": [
+        "shopping",
+        "gifts",
+        "conditional-tense",
+        "donnerais",
+        "listening",
+        "exact-comprehension",
+        "family",
+        "jewelry"
+      ]
+    },
+    {
+      "id": 232,
+      "audioText": "J'arriverai au bureau vers neuf heures pour installer le nouveau logiciel sur tous les ordinateurs.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "J'arriverai au bureau vers neuf heures pour installer le nouveau logiciel sur tous les ordinateurs.",
+        "J'arrivais au bureau vers neuf heures pour installer le nouveau logiciel sur tous les ordinateurs.",
+        "J'arriverai au bureau vers huit heures pour installer le nouveau logiciel sur tous les ordinateurs.",
+        "J'arriverai au bureau vers neuf heures pour désinstaller le nouveau logiciel sur tous les ordinateurs."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'J'arriverai au bureau vers neuf heures pour installer le nouveau logiciel sur tous les ordinateurs.' Les distracteurs testent la distinction entre futur (arriverai) et imparfait (arrivais), l'heure (neuf/huit), et l'action (installer/désinstaller).",
+      "difficulty": "B1",
+      "source": "Office IT Work",
+      "tags": [
+        "computers",
+        "office",
+        "software",
+        "listening",
+        "exact-comprehension",
+        "technology",
+        "installation"
+      ]
     }
   ]
 }

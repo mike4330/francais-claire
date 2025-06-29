@@ -15,7 +15,12 @@
       "explanation": "The sentence says 'ont perdu la moitié de leur sucre' – they lost half their sugar over twenty years.",
       "difficulty": "A2",
       "source": "Nutrition News",
-      "tags": ["food", "nutrition", "change", "cereals"]
+      "tags": [
+        "food",
+        "nutrition",
+        "change",
+        "cereals"
+      ]
     },
     {
       "id": 35,
@@ -32,7 +37,13 @@
       "explanation": "Le mot manquant est 'poulet'. La phrase complète est 'Pour le déjeuner, j'ai mangé une salade avec du poulet croustillant et des croutôns.' - For lunch, I ate a salad with crispy chicken and croutons.",
       "difficulty": "A2",
       "source": "Lunch Description",
-      "tags": ["food", "lunch", "salad", "listening", "fill-in-the-blank"]
+      "tags": [
+        "food",
+        "lunch",
+        "salad",
+        "listening",
+        "fill-in-the-blank"
+      ]
     },
     {
       "id": 36,
@@ -49,7 +60,13 @@
       "explanation": "Le mot manquant est 'seiche'. La phrase complète est 'Ce soir, je vais préparer une poêlée de seiche avec du gingembre.' - Tonight, I am going to prepare a pan-fried cuttlefish dish with ginger.",
       "difficulty": "A2",
       "source": "Dinner Plan",
-      "tags": ["food", "dinner", "seafood", "listening", "fill-in-the-blank"]
+      "tags": [
+        "food",
+        "dinner",
+        "seafood",
+        "listening",
+        "fill-in-the-blank"
+      ]
     },
     {
       "id": 37,
@@ -66,7 +83,13 @@
       "explanation": "Le mot manquant est 'orage'. La phrase complète est 'Hier soir, il y a eu un gros orage avec beaucoup de pluie et de vent.' - Last night, there was a big thunderstorm with lots of rain and wind.",
       "difficulty": "A2",
       "source": "Weather Report",
-      "tags": ["weather", "storm", "nature", "listening", "fill-in-the-blank"]
+      "tags": [
+        "weather",
+        "storm",
+        "nature",
+        "listening",
+        "fill-in-the-blank"
+      ]
     },
     {
       "id": 38,
@@ -83,7 +106,14 @@
       "explanation": "Le mot manquant est 'policière'. La phrase complète est 'La nouvelle policière de notre quartier est très sympathique et aide toujours les habitants.' - The new (female) police officer in our neighborhood is very friendly and always helps the residents. Since the article is 'la' and the adjective is 'nouvelle' (feminine), the noun must also be feminine: 'policière'.",
       "difficulty": "A2",
       "source": "Neighborhood News",
-      "tags": ["profession", "gender-agreement", "grammar", "police", "community", "fill-in-the-blank", "feminine"]
+      "tags": [
+        "profession",
+        "gender-agreement",
+        "grammar",
+        "police",
+        "community",
+        "fill-in-the-blank"
+      ]
     },
     {
       "id": 39,
@@ -100,7 +130,16 @@
       "explanation": "La phrase exacte était 'Nous avons trouvé de vieux jouets et des photos de famille dans le grenier de la maison.' - We found old toys and family photos in the attic of the house. Le grenier is the common French word for attic, where families often store old belongings.",
       "difficulty": "A2",
       "source": "House Exploration",
-      "tags": ["house", "family", "storage", "memories", "listening", "grenier", "attic", "household-vocabulary"]
+      "tags": [
+        "house",
+        "family",
+        "storage",
+        "memories",
+        "listening",
+        "grenier",
+        "attic",
+        "household-vocabulary"
+      ]
     },
     {
       "id": 40,
@@ -117,7 +156,13 @@
       "explanation": "Le mot manquant est 'neige'. La phrase complète est 'Une couche de neige a recouvert une partie du désert d'Atacama au Chili.' - A layer of snow covered part of Chile's Atacama Desert. This is a rare event in one of the world's driest places.",
       "difficulty": "A2",
       "source": "Chile Weather - Simple",
-      "tags": ["weather", "snow", "chile", "fill-in-the-blank", "nature"]
+      "tags": [
+        "weather",
+        "snow",
+        "chile",
+        "fill-in-the-blank",
+        "nature"
+      ]
     },
     {
       "id": 41,
@@ -134,7 +179,14 @@
       "explanation": "La phrase simplifiée était 'Il a neigé dans le désert le plus sec du monde au Chili. C'est très rare, cela n'était pas arrivé depuis dix ans.' - It snowed in the world's driest desert in Chile. It's very rare, it hadn't happened for ten years.",
       "difficulty": "A2",
       "source": "Chile Weather - Simplified Listening",
-      "tags": ["weather", "snow", "chile", "listening", "simplified", "rare-events"]
+      "tags": [
+        "weather",
+        "snow",
+        "chile",
+        "listening",
+        "simplified",
+        "rare-events"
+      ]
     },
     {
       "id": 42,
@@ -151,7 +203,126 @@
       "explanation": "La phrase simplifiée était 'Il fait très chaud dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange.' - It's very hot in southern and eastern France this weekend. Thirteen departments are under orange alert.",
       "difficulty": "A2",
       "source": "French Weather - Simple Listening",
-      "tags": ["weather", "france", "heat", "listening", "simplified", "alert"]
+      "tags": [
+        "weather",
+        "france",
+        "heat",
+        "listening",
+        "simplified",
+        "alert"
+      ]
+    },
+    {
+      "id": 43,
+      "audioText": "Je donnerais un pourboire au serveur s'il était gentil.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Je donnerais un pourboire au serveur s'il était gentil.",
+        "Je donnerais un pourboire au serveur s'il était poli.",
+        "Je donnerai un pourboire au serveur s'il était gentil.",
+        "Je donnais un pourboire au serveur s'il était gentil."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Je donnerais un pourboire au serveur s'il était gentil.' - I would give a tip to the waiter if he were nice. Note the conditional 'donnerais' and the subjunctive 'était' in this hypothetical situation.",
+      "difficulty": "A2",
+      "source": "Restaurant Experience",
+      "tags": [
+        "restaurant",
+        "service",
+        "conditional",
+        "listening",
+        "politeness"
+      ]
+    },
+    {
+      "id": 44,
+      "audioText": "Le film laissera une impression durable au public.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le film laissera une impression durable au public.",
+        "Le film laissera une impression terrible au public.",
+        "Le film laisse une impression durable au public.",
+        "Le film laissait une impression durable au public."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le film laissera une impression durable au public.' - The film will leave a lasting impression on the audience. Note the future tense 'laissera' indicating the film's future impact.",
+      "difficulty": "A2",
+      "source": "Cinema Review",
+      "tags": [
+        "cinema",
+        "film",
+        "listening",
+        "impression"
+      ]
+    },
+    {
+      "id": 45,
+      "audioText": "Tu trouveras cette chanson très émouvante et belle.",
+      "question": "What will you find about this song?",
+      "questionType": "comprehension",
+      "options": [
+        "You will find it very moving and beautiful.",
+        "You will find it very boring and ugly.",
+        "You will find it very loud and fast.",
+        "You will find it very short and simple."
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Tu trouveras cette chanson très émouvante et belle' - You will find this song very moving and beautiful. 'Émouvante' means moving/touching emotionally, and 'belle' means beautiful.",
+      "difficulty": "A2",
+      "source": "Music Recommendation",
+      "tags": [
+        "music",
+        "song",
+        "emotions",
+        "beauty"
+      ]
+    },
+    {
+      "id": 46,
+      "audioText": "Elle saura parler français couramment après six mois d'études.",
+      "question": "When will she be able to speak French fluently?",
+      "questionType": "comprehension",
+      "options": [
+        "After six months of studies.",
+        "After six years of studies.",
+        "After six weeks of studies.",
+        "After sixteen months of studies."
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Elle saura parler français couramment après six mois d'études' - She will know how to speak French fluently after six months of studies. 'Saura' is the future tense of 'savoir' (to know/be able to).",
+      "difficulty": "A2",
+      "source": "Language Learning Progress",
+      "tags": [
+        "education",
+        "language-learning",
+        "french-language",
+        "fluency"
+      ]
+    },
+    {
+      "id": 47,
+      "audioText": "Tu verras de beaux paysages pendant ton voyage en Provence.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Tu verras de beaux paysages pendant ton voyage en Provence.",
+        "Tu verras de beaux paysages pendant ton voyage en Bretagne.",
+        "Tu verras de belles maisons pendant ton voyage en Provence.",
+        "Tu verras de beaux paysages pendant ton séjour en Provence."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Tu verras de beaux paysages pendant ton voyage en Provence.' - You will see beautiful landscapes during your trip to Provence. Note the future tense 'verras' and the distinction between 'voyage' (trip) and 'séjour' (stay).",
+      "difficulty": "A2",
+      "source": "Travel Planning",
+      "tags": [
+        "travel",
+        "provence",
+        "landscape",
+        "listening",
+        "tourism"
+      ]
     }
   ]
 }

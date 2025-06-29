@@ -15,7 +15,13 @@
       "explanation": "The text states 'l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant' - the Elysée has not yet deigned/bothered to designate a successor to the previous CEO. The verb 'daigner' suggests disdain or reluctance from the presidential palace.",
       "difficulty": "C1",
       "source": "French Political/Corporate News",
-      "tags": ["politics", "corporate", "leadership", "public-enterprise", "elysee"]
+      "tags": [
+        "politics",
+        "corporate",
+        "leadership",
+        "public-enterprise",
+        "elysee"
+      ]
     },
     {
       "id": 101,
@@ -32,7 +38,15 @@
       "explanation": "The speaker says 'C'est un comble, ils ont un avenir sans les chauffeurs routiers' - It's ironic/absurd that they have a future without truck drivers. The restaurants now 'attirent les bobos en quête d'authenticité' - attract bourgeois bohemians (urban professionals) seeking authenticity, replacing their original clientele.",
       "difficulty": "C1",
       "source": "French Cultural Commentary",
-      "tags": ["culture", "society", "irony", "gentrification", "nostalgia", "bobos", "authentic-french"]
+      "tags": [
+        "culture",
+        "society",
+        "irony",
+        "gentrification",
+        "nostalgia",
+        "bobos",
+        "authentic-french"
+      ]
     },
     {
       "id": 102,
@@ -50,7 +64,14 @@
       "explanation": "La phrase exacte était 'Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.' - The old roadside restaurants now survive thanks to city dwellers seeking authenticity, not thanks to the original truckers.",
       "difficulty": "B2",
       "source": "French Cultural Commentary - Listening",
-      "tags": ["culture", "society", "listening", "exact-comprehension", "simplified", "gentrification"]
+      "tags": [
+        "culture",
+        "society",
+        "listening",
+        "exact-comprehension",
+        "simplified",
+        "gentrification"
+      ]
     },
     {
       "id": 103,
@@ -67,7 +88,13 @@
       "explanation": "The text states 'Le député, ciblé durant les violences urbaines' - the deputy was targeted during urban violence. This personal experience during recent riots ('après les émeutes de l'année dernière') provides the context for his twenty proposals to 'restore the Republic' in popular neighborhoods.",
       "difficulty": "C1",
       "source": "French Political News",
-      "tags": ["politics", "social-issues", "riots", "banlieues", "urban-policy"]
+      "tags": [
+        "politics",
+        "social-issues",
+        "riots",
+        "banlieues",
+        "urban-policy"
+      ]
     },
     {
       "id": 104,
@@ -85,7 +112,15 @@
       "explanation": "La phrase exacte était 'Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires.' - After last year's riots, a deputy reveals his 'suburbs plan'. The deputy, targeted during urban violence, presents twenty proposals to 'restore the Republic' in popular neighborhoods.",
       "difficulty": "B2",
       "source": "French Political News - Listening",
-      "tags": ["politics", "social-issues", "riots", "banlieues", "listening", "exact-comprehension", "has-comprehension-version"]
+      "tags": [
+        "politics",
+        "social-issues",
+        "riots",
+        "banlieues",
+        "listening",
+        "exact-comprehension",
+        "has-comprehension-version"
+      ]
     },
     {
       "id": 105,
@@ -102,7 +137,15 @@
       "explanation": "The irony lies in the fact that someone from 'l'extrême droite radicale' (radical far-right) violently attacked someone at 'une projection contre le fascisme' (an anti-fascism screening), yet now claims to want to distance himself from this 'milieu nocif' (toxic environment). The contradiction between his violent ideological actions and his stated desire to reform creates the ironic situation.",
       "difficulty": "C1",
       "source": "French Legal/Political News",
-      "tags": ["politics", "extremism", "legal", "irony", "radicalization", "violence", "prison"]
+      "tags": [
+        "politics",
+        "extremism",
+        "legal",
+        "irony",
+        "radicalization",
+        "violence",
+        "prison"
+      ]
     },
     {
       "id": 106,
@@ -120,7 +163,15 @@
       "explanation": "La phrase exacte était '« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.' - 'I'm going to distance myself from this dangerous environment': a young man, member of a far-right group, gets out of prison.",
       "difficulty": "B2",
       "source": "French Legal/Political News - Listening",
-      "tags": ["politics", "extremism", "legal", "listening", "exact-comprehension", "simplified", "has-comprehension-version"]
+      "tags": [
+        "politics",
+        "extremism",
+        "legal",
+        "listening",
+        "exact-comprehension",
+        "simplified",
+        "has-comprehension-version"
+      ]
     },
     {
       "id": 107,
@@ -137,7 +188,13 @@
       "explanation": "The phrase 'portant à plus de vingt le nombre de personnes contaminées' means 'bringing to more than twenty the number of contaminated people.' This construction indicates that the new case increases the running total to more than twenty affected individuals.",
       "difficulty": "C1",
       "source": "French Health News",
-      "tags": ["health", "medical", "administrative", "syntax", "numbers", "contamination"]
+      "tags": [
+        "health",
+        "medical",
+        "administrative",
+        "numbers",
+        "contamination"
+      ]
     },
     {
       "id": 108,
@@ -147,14 +204,21 @@
       "options": [
         "It increased by 0.2 percentage points due to job losses in services",
         "It decreased by 0.2 percentage points, reaching 7.3% of the active population",
-        "It remained stable at 7.3% despite job creation in services", 
+        "It remained stable at 7.3% despite job creation in services",
         "It reached a historic low of 0.2% thanks to government policies"
       ],
       "correct": 1,
       "explanation": "The text states 'Le taux de chômage a baissé de 0,2 point... atteignant 7,3% de la population active' - the unemployment rate fell by 0.2 percentage points, reaching 7.3% of the active population. This improvement is explained by job creation in the service sector.",
       "difficulty": "B2",
       "source": "French Economic News",
-      "tags": ["economy", "unemployment", "statistics", "employment", "services", "economic-indicators"]
+      "tags": [
+        "economy",
+        "unemployment",
+        "statistics",
+        "employment",
+        "services",
+        "economic-indicators"
+      ]
     },
     {
       "id": 109,
@@ -171,7 +235,14 @@
       "explanation": "The text states 'Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport' - travelers are invited to postpone their trips or use other means of transportation due to the three-day SNCF strike.",
       "difficulty": "B1",
       "source": "French Transportation News",
-      "tags": ["strikes", "transportation", "SNCF", "travel", "labor", "social-movements"]
+      "tags": [
+        "strikes",
+        "transportation",
+        "SNCF",
+        "travel",
+        "labor",
+        "social-movements"
+      ]
     },
     {
       "id": 110,
@@ -188,7 +259,16 @@
       "explanation": "The municipal council 'a voté pour interdire... invoquant le principe de laïcité' - voted to ban conspicuous religious symbols by invoking the principle of laïcité. This uniquely French concept of active secularism goes beyond separation of church and state to actively maintain religious neutrality in public spaces.",
       "difficulty": "C1",
       "source": "French Educational Policy",
-      "tags": ["laicite", "religion", "education", "french-values", "secularism", "municipal", "policy", "controversy"]
+      "tags": [
+        "laicite",
+        "religion",
+        "education",
+        "french-values",
+        "secularism",
+        "municipal",
+        "policy",
+        "controversy"
+      ]
     },
     {
       "id": 111,
@@ -198,14 +278,19 @@
       "options": [
         "New health measures for hospitals",
         "New economic measures to support businesses",
-        "New educational reforms for schools", 
+        "New educational reforms for schools",
         "New environmental regulations"
       ],
       "correct": 1,
       "explanation": "The government announced 'nouvelles mesures économiques pour soutenir les entreprises' - new economic measures to support businesses affected by the crisis.",
       "difficulty": "C1",
       "source": "France24 Economics",
-      "tags": ["politics", "economy", "government", "crisis"]
+      "tags": [
+        "politics",
+        "economy",
+        "government",
+        "crisis"
+      ]
     },
     {
       "id": 112,
@@ -223,7 +308,12 @@
       "explanation": "La phrase exacte était 'Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.'",
       "difficulty": "C1",
       "source": "France24 Economics - Listening",
-      "tags": ["politics", "economy", "listening", "exact-comprehension"]
+      "tags": [
+        "politics",
+        "economy",
+        "listening",
+        "exact-comprehension"
+      ]
     },
     {
       "id": 113,
@@ -240,7 +330,16 @@
       "explanation": "La phrase exacte était : 'La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.' Les distracteurs modifient soit le verbe clé (limite/étend), le président mentionné (Trump/Biden), ou la justification de la Cour (excèdent/justifiées/nécessaires).",
       "difficulty": "C2",
       "source": "French summary of US Supreme Court news, June 2024",
-      "tags": ["law", "politics", "us", "judiciary", "supreme-court", "listening", "exact-comprehension", "news"]
+      "tags": [
+        "law",
+        "politics",
+        "us",
+        "judiciary",
+        "supreme-court",
+        "listening",
+        "exact-comprehension",
+        "news"
+      ]
     },
     {
       "id": 114,
@@ -257,7 +356,15 @@
       "explanation": "Sophie Bauer says she was 'extrêmement choquée' (extremely shocked) to see that penalties would be associated in cases where doctors consider themselves unable to reinforce in the most complicated areas. She does not support the penalties, but rather expresses surprise and disapproval.",
       "difficulty": "C1",
       "source": "French Healthcare Policy - Medical Deserts",
-      "tags": ["healthcare", "policy", "medical-deserts", "penalties", "doctors", "reaction", "C1"]
+      "tags": [
+        "healthcare",
+        "policy",
+        "medical-deserts",
+        "penalties",
+        "doctors",
+        "reaction",
+        "C1"
+      ]
     },
     {
       "id": 115,
@@ -275,7 +382,15 @@
       "explanation": "La phrase exacte était 'Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.' Les distracteurs modifient soit l'adjectif clé (choqués/surpris), le mot 'pénalités' (pénalités/récompenses), ou le verbe (ne peuvent pas/ne veulent pas).",
       "difficulty": "B2",
       "source": "French Healthcare Policy - Medical Deserts - Listening",
-      "tags": ["healthcare", "policy", "medical-deserts", "penalties", "doctors", "listening", "exact-comprehension", "B2"]
+      "tags": [
+        "healthcare",
+        "policy",
+        "medical-deserts",
+        "penalties",
+        "doctors",
+        "listening",
+        "exact-comprehension"
+      ]
     },
     {
       "id": 116,
@@ -292,7 +407,16 @@
       "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
       "difficulty": "C2",
       "source": "French Digital Policy",
-      "tags": ["digital-sovereignty", "technology", "regulation", "data-protection", "policy", "european-union", "algorithms", "privacy"]
+      "tags": [
+        "digital-sovereignty",
+        "technology",
+        "regulation",
+        "data-protection",
+        "policy",
+        "european-union",
+        "algorithms",
+        "privacy"
+      ]
     },
     {
       "id": 117,
@@ -309,7 +433,13 @@
       "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
       "difficulty": "C1",
       "source": "French Legal News",
-      "tags": ["crime", "legal-system", "criminal-responsibility", "mental-health", "justice"]
+      "tags": [
+        "crime",
+        "legal-system",
+        "criminal-responsibility",
+        "mental-health",
+        "justice"
+      ]
     },
     {
       "id": 118,
@@ -326,7 +456,184 @@
       "explanation": "The text explains that the Tende tunnel project was delayed by a major theft of metals, the storm Alex, and scandals. Its opening is described as 'une bouffée d'oxygène' (a breath of fresh air) for residents who suffered years of isolation and frustration.",
       "difficulty": "C1",
       "source": "French Infrastructure News - Tende Tunnel",
-      "tags": ["infrastructure", "tunnel", "France", "Italy", "delays", "storm", "scandal", "relief", "C1"]
+      "tags": [
+        "infrastructure",
+        "tunnel",
+        "France",
+        "Italy",
+        "delays",
+        "storm",
+        "scandal",
+        "relief",
+        "C1"
+      ]
+    },
+    {
+      "id": 119,
+      "audioText": "Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
+      "question": "Complétez avec le participe passé du verbe 'recevoir' : Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "reçus",
+        "reçu",
+        "recevés",
+        "recevoir"
+      ],
+      "correct": 0,
+      "explanation": "La bonne réponse est 'reçus'. Accord avec 'les résultats' (masculin pluriel). Le participe passé de 'recevoir' est 'reçu', qui s'accorde ici en nombre et en genre.",
+      "difficulty": "C1",
+      "source": "Formal News - Investigation Results",
+      "tags": [
+        "fill-in-the-blank",
+        "recevoir",
+        "participe-passé",
+        "news",
+        "investigation",
+        "C1"
+      ]
+    },
+    {
+      "id": 120,
+      "audioText": "L'exécution provisoire des peines d'inéligibilité a été prononcée 50 fois plus souvent l'an dernier qu'il y a six ans, touchant de nombreux élus de façon indéterminée. Selon un expert, cela représente une déviance profonde de l'État de droit.",
+      "question": "What concern is raised about the recent increase in provisional ineligibility sentences?",
+      "questionType": "comprehension",
+      "options": [
+        "It represents a serious deviation from the rule of law, affecting many elected officials in an indefinite manner.",
+        "It has made the legal process more efficient and transparent.",
+        "It has reduced the number of appeals by convicted officials.",
+        "It is welcomed by all political parties as a necessary reform."
+      ],
+      "correct": 0,
+      "explanation": "The text highlights that the sharp rise in provisional ineligibility sentences is seen as a profound deviation from the rule of law, with many elected officials affected in an indefinite way. This is presented as a negative development, not a positive reform.",
+      "difficulty": "C1",
+      "source": "Legal News - Points de Vue",
+      "tags": [
+        "law",
+        "ineligibility",
+        "rule-of-law",
+        "politics",
+        "justice",
+        "trend"
+      ]
+    },
+    {
+      "id": 121,
+      "audioText": "Si Marie avait plus de temps libre, elle mettrait ses affaires en ordre et rangerait enfin sa chambre. Elle dit toujours qu'elle le ferait si elle n'était pas si occupée au travail.",
+      "question": "What would Marie do if she had more free time?",
+      "questionType": "comprehension",
+      "options": [
+        "She would organize her belongings and finally tidy her room",
+        "She would spend more time at work to earn extra money",
+        "She would travel and visit her family more often",
+        "She would look for a new job with better hours"
+      ],
+      "correct": 0,
+      "explanation": "Marie 'mettrait ses affaires en ordre et rangerait enfin sa chambre' - would organize her belongings and finally tidy her room. The conditional 'mettrait' (would put/organize) shows what she would do in a hypothetical situation with more time. The verb 'mettre en ordre' means to organize or put in order.",
+      "difficulty": "B1",
+      "source": "Daily Life Scenarios",
+      "tags": [
+        "daily-life",
+        "conditional",
+        "household-vocabulary",
+        "verb-conjugation",
+        "planning"
+      ]
+    },
+    {
+      "id": 120,
+      "audioText": "Cette réforme du système de retraites pourrait transformer radicalement l'équilibre entre vie professionnelle et vieillesse. Selon l'expert en politiques sociales, elle pourrait également créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires.",
+      "question": "According to the social policy expert, what potential risks does the pension reform pose?",
+      "questionType": "comprehension",
+      "options": [
+        "It could guarantee equal pensions for all workers regardless of their career path",
+        "It could create major intergenerational inequalities without adequate compensatory measures for precarious workers",
+        "It could eliminate all forms of workplace discrimination and improve working conditions",
+        "It could reduce government spending while maintaining current benefit levels"
+      ],
+      "correct": 1,
+      "explanation": "The expert warns that the reform 'pourrait créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires' - could create major intergenerational inequalities if not accompanied by adequate compensatory measures for precarious workers. The conditional 'pourrait' expresses potential negative consequences that need to be addressed.",
+      "difficulty": "C1",
+      "source": "French Social Policy Analysis",
+      "tags": [
+        "pension-reform",
+        "social-policy",
+        "intergenerational-equity",
+        "precarious-work",
+        "conditional-tense",
+        "policy-analysis"
+      ]
+    },
+    {
+      "id": 121,
+      "audioText": "L'expertise judiciaire révèle que la contamination chimique du site industriel s'étend sur plusieurs hectares. Le rapport officiel viendra corroborer les témoignages des riverains qui dénoncent depuis des années les négligences environnementales de l'entreprise multinationale impliquée dans ce scandale sanitaire.",
+      "question": "What role will the official report play in this environmental scandal?",
+      "questionType": "comprehension",
+      "options": [
+        "It will contradict the residents' testimonies about the multinational company",
+        "It will corroborate residents' testimonies who have been denouncing environmental negligence for years",
+        "It will minimize the extent of chemical contamination discovered at the site",
+        "It will exonerate the multinational company from any environmental responsibility"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'Le rapport officiel viendra corroborer les témoignages des riverains' - the official report will come to corroborate the residents' testimonies. These residents have been denouncing the multinational company's environmental negligence for years, and the report will support their claims in this health scandal.",
+      "difficulty": "C1",
+      "source": "Environmental Scandal Investigation",
+      "tags": [
+        "environmental-law",
+        "industrial-contamination",
+        "viendra",
+        "judicial-expertise",
+        "corporate-responsibility",
+        "health-scandal"
+      ]
+    },
+    {
+      "id": 122,
+      "audioText": "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la canonisation de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement national de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par Rome consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était avec 'béatification' (pas canonisation), 'Vatican' (pas Rome), et 'rayonnement international' (pas national). Les distracteurs testent la précision de l'écoute sur les termes techniques religieux et les nuances institutionnelles.",
+      "difficulty": "C1",
+      "source": "Vatican Religious Affairs",
+      "tags": [
+        "religion",
+        "monasticism",
+        "vatican",
+        "beatification",
+        "spiritual-heritage",
+        "contemplative-orders"
+      ]
+    },
+    {
+      "id": 123,
+      "audioText": "Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme. Cette œuvre révèle comment les représentations littéraires occidentales ont façonné notre compréhension de l'Autre et perpétué des hiérarchies culturelles héritées de l'empire colonial.",
+      "question": "What literary approach is the speaker taking and what do they expect to find?",
+      "questionType": "comprehension",
+      "options": [
+        "A postcolonial analysis that will reveal echoes of Said's orientalism theories and show how Western representations shaped understanding of the Other",
+        "A feminist literary critique examining how women authors challenged colonial narratives",
+        "A structuralist approach that will uncover hidden meanings in colonial-era texts",
+        "A biographical study of Edward Said's influence on contemporary Middle Eastern writers"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme' - in this postcolonial analysis, I will certainly find echoes of Said's theories on orientalism. They expect to reveal how Western literary representations shaped understanding of the Other and perpetuated cultural hierarchies inherited from the colonial empire.",
+      "difficulty": "C1",
+      "source": "Literary Criticism",
+      "tags": [
+        "literature",
+        "postcolonialism",
+        "orientalism",
+        "literary-theory",
+        "cultural-analysis",
+        "edward-said"
+      ]
     }
   ]
 }
