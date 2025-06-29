@@ -10,7 +10,11 @@ import re
 import os
 from collections import defaultdict, Counter
 
-LEXIQUE_DB_PATH = "database/lexique-experiments/lexique.sqlite3"
+# Determine database path based on current directory
+if os.path.exists("database/lexique-experiments/lexique.sqlite3"):
+    LEXIQUE_DB_PATH = "database/lexique-experiments/lexique.sqlite3"
+else:
+    LEXIQUE_DB_PATH = "../database/lexique-experiments/lexique.sqlite3"
 
 def connect_to_lexique():
     """Connect to the Lexique database"""
@@ -83,7 +87,14 @@ def get_all_conjugated_forms(verb_infinitive):
 
 def load_question_files():
     """Load and combine all question files"""
-    question_files = ['questions.json', 'questions-a.json', 'questions-b.json', 'questions-c.json']
+    # Determine path based on current directory
+    if os.path.exists("questions.json"):
+        path_prefix = ""
+    else:
+        path_prefix = "../"
+    
+    question_files = [f'{path_prefix}questions.json', f'{path_prefix}questions-a.json', 
+                     f'{path_prefix}questions-b.json', f'{path_prefix}questions-c.json']
     all_questions = []
     
     for filename in question_files:

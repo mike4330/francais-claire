@@ -46,6 +46,13 @@ if ! command -v jq &> /dev/null; then
     exit 1
 fi
 
+# Determine path based on current directory
+if [ -f "questions.json" ]; then
+    PATH_PREFIX=""
+else
+    PATH_PREFIX="../"
+fi
+
 # Set files to process
 if [ -n "$SPECIFIC_FILE" ]; then
     if [ ! -f "$SPECIFIC_FILE" ]; then
@@ -54,7 +61,7 @@ if [ -n "$SPECIFIC_FILE" ]; then
     fi
     QUESTION_FILES=("$SPECIFIC_FILE")
 else
-    QUESTION_FILES=("questions.json" "questions-a.json" "questions-b.json" "questions-c.json")
+    QUESTION_FILES=("${PATH_PREFIX}questions.json" "${PATH_PREFIX}questions-a.json" "${PATH_PREFIX}questions-b.json" "${PATH_PREFIX}questions-c.json")
 fi
 
 echo "🏷️  Tag Analysis Report"

@@ -16,19 +16,26 @@ fi
 
 level="$1"
 
+# Determine path based on current directory
+if [ -f "questions-a.json" ]; then
+    PATH_PREFIX=""
+else
+    PATH_PREFIX="../"
+fi
+
 case "$level" in
     a|A)
-        file="questions-a.json"
+        file="${PATH_PREFIX}questions-a.json"
         min_id=34
         max_id=99
         ;;
     b|B)
-        file="questions-b.json"
+        file="${PATH_PREFIX}questions-b.json"
         min_id=200
         max_id=299
         ;;
     c|C)
-        file="questions-c.json"
+        file="${PATH_PREFIX}questions-c.json"
         min_id=100
         max_id=199
         ;;

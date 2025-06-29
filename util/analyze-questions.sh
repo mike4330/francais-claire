@@ -6,8 +6,14 @@
 echo "🇫🇷 French Question Bank Analyzer"
 echo "=================================="
 
-# Check if question files exist
-if ! ls question*.json 1> /dev/null 2>&1; then
+# Determine the correct path to question files based on current directory
+if ls question*.json 1> /dev/null 2>&1; then
+    # Running from root directory
+    QUESTION_PATH=""
+elif ls ../question*.json 1> /dev/null 2>&1; then
+    # Running from util directory
+    QUESTION_PATH="../"
+else
     echo "❌ Error: No question*.json files found"
     exit 1
 fi
@@ -29,7 +35,7 @@ echo "Extracting French vocabulary from audioText fields..."
 TEMP_WORDS=$(mktemp)
 
 # Extract audioText content from all question files, clean and split into words
-jq -r '.questions[].audioText' question*.json | \
+jq -r '.questions[].audioText' ${QUESTION_PATH}question*.json | \
     # Convert to lowercase
     tr '[:upper:]' '[:lower:]' | \
     # Remove punctuation and special characters
@@ -51,9 +57,18 @@ echo ""
     echo "📊 Top 50 Priority French Nouns - Coverage Report:"
     echo "=================================================="
 
+# Determine database path
+if [ -f "database/nouns.csv" ]; then
+    DATABASE_PATH=""
+elif [ -f "../database/nouns.csv" ]; then
+    DATABASE_PATH="../"
+else
+    DATABASE_PATH=""
+fi
+
 # Check if Lexique noun frequency file exists
-if [ ! -f "database/nouns.csv" ]; then
-    echo "❌ Error: Lexique noun frequency file not found at database/nouns.csv"
+if [ ! -f "${DATABASE_PATH}database/nouns.csv" ]; then
+    echo "❌ Error: Lexique noun frequency file not found at ${DATABASE_PATH}database/nouns.csv"
     echo "Falling back to simple word frequency..."
     sort $TEMP_WORDS | uniq -c | sort -nr | head -50 | \
         awk '{printf "%2d. %-20s (%d occurrences)\n", NR, $2, $1}'
@@ -67,7 +82,7 @@ else
     TEMP_COVERAGE=$(mktemp)
     
     # Extract all nouns from Lexique data (skip header, get lemme column)
-    tail -n +2 database/nouns.csv | cut -d',' -f1 | \
+    tail -n +2 ${DATABASE_PATH}database/nouns.csv | cut -d',' -f1 | \
         # Remove quotes if present
         sed 's/"//g' | \
         # Convert to lowercase for matching
@@ -124,9 +139,9 @@ else
         if ! grep -qx "$noun" $TEMP_WORDS; then
             MISSING_COUNT=$((MISSING_COUNT + 1))
                          # Get frequency info from CSV (take only first match)
-             FREQ=$(tail -n +2 database/nouns.csv | grep "^$noun," | head -1 | cut -d',' -f7 | tr -d '\n\r')
+             FREQ=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "^$noun," | head -1 | cut -d',' -f7 | tr -d '\n\r')
              if [ -z "$FREQ" ]; then
-                 FREQ=$(tail -n +2 database/nouns.csv | grep "\"$noun\"," | head -1 | cut -d',' -f7 | tr -d '\n\r')
+                 FREQ=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "\"$noun\"," | head -1 | cut -d',' -f7 | tr -d '\n\r')
              fi
              # Ensure FREQ is a valid number before printf
              if [ -n "$FREQ" ] && [ "$FREQ" != "" ]; then
@@ -150,9 +165,9 @@ else
     while IFS= read -r noun; do
         if grep -qx "$noun" $TEMP_WORDS; then
             # Get gender from CSV
-            GENDER=$(tail -n +2 database/nouns.csv | grep "^$noun," | cut -d',' -f3)
+            GENDER=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "^$noun," | cut -d',' -f3)
             if [ -z "$GENDER" ]; then
-                GENDER=$(tail -n +2 database/nouns.csv | grep "\"$noun\"," | cut -d',' -f3)
+                GENDER=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "\"$noun\"," | cut -d',' -f3)
             fi
             
             case "$GENDER" in
@@ -195,7 +210,7 @@ echo "Analyzing content tags..."
 TEMP_TAGS=$(mktemp)
 
 # Extract all tags from all question files
-jq -r '.questions[].tags[]' question*.json > $TEMP_TAGS
+jq -r '.questions[].tags[]' ${QUESTION_PATH}question*.json > $TEMP_TAGS
 
 # Count tag frequency
 echo ""
@@ -232,7 +247,7 @@ echo ""
 echo "📈 Tag Statistics:"
 echo "  Total tag instances: $TOTAL_TAGS"
 echo "  Unique tags: $UNIQUE_TAGS"
-echo "  Average tags per question: $(echo "scale=1; $TOTAL_TAGS / $(jq '.questions | length' question*.json | paste -sd+ | bc)" | bc)"
+echo "  Average tags per question: $(echo "scale=1; $TOTAL_TAGS / $(jq '.questions | length' ${QUESTION_PATH}question*.json | paste -sd+ | bc)" | bc)"
 
 # Clean up temp file
 rm $TEMP_TAGS
@@ -244,7 +259,7 @@ echo "=========================="
 # Count questions by difficulty level
 echo "Questions by CEFR Level:"
 echo "------------------------"
-jq -r '.questions[].difficulty' question*.json | sort | uniq -c | sort -k2 | \
+jq -r '.questions[].difficulty' ${QUESTION_PATH}question*.json | sort | uniq -c | sort -k2 | \
     awk '{
         level = $2
         count = $1
@@ -265,7 +280,7 @@ echo "============================="
 # Count questions by type
 echo "Questions by Type:"
 echo "------------------"
-jq -r '.questions[].questionType' question*.json | sort | uniq -c | sort -nr | \
+jq -r '.questions[].questionType' ${QUESTION_PATH}question*.json | sort | uniq -c | sort -nr | \
     awk '{
         type = $2
         count = $1

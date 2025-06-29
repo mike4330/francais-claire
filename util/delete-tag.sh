@@ -12,8 +12,15 @@ if [ $# -eq 0 ]; then
     exit 1
 fi
 
+# Determine path based on current directory
+if [ -f "questions.json" ]; then
+    PATH_PREFIX=""
+else
+    PATH_PREFIX="../"
+fi
+
 TAGS_TO_REMOVE=("$@")
-QUESTION_FILES=("questions.json" "questions-a.json" "questions-b.json" "questions-c.json")
+QUESTION_FILES=("${PATH_PREFIX}questions.json" "${PATH_PREFIX}questions-a.json" "${PATH_PREFIX}questions-b.json" "${PATH_PREFIX}questions-c.json")
 TOTAL_REMOVED=0
 TAGS_PROCESSED=()
 TAGS_FOUND=()
