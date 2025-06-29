@@ -1,0 +1,63 @@
+#!/bin/bash
+
+# Get next available ID for CEFR level groups
+# Usage: ./getid [a|b|c]
+# a = A1/A2 levels (questions-a.json, ID range 34-99)
+# b = B1/B2 levels (questions-b.json, ID range 200-299)  
+# c = C1/C2 levels (questions-c.json, ID range 100-199)
+
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 [a|b|c]"
+    echo "  a = A1/A2 levels (questions-a.json, ID range 34-99)"
+    echo "  b = B1/B2 levels (questions-b.json, ID range 200-299)"
+    echo "  c = C1/C2 levels (questions-c.json, ID range 100-199)"
+    exit 1
+fi
+
+level="$1"
+
+case "$level" in
+    a|A)
+        file="questions-a.json"
+        min_id=34
+        max_id=99
+        ;;
+    b|B)
+        file="questions-b.json"
+        min_id=200
+        max_id=299
+        ;;
+    c|C)
+        file="questions-c.json"
+        min_id=100
+        max_id=199
+        ;;
+    *)
+        echo "Error: Invalid level '$level'. Use 'a', 'b', or 'c'."
+        exit 1
+        ;;
+esac
+
+if [ ! -f "$file" ]; then
+    echo "Error: File $file not found."
+    exit 1
+fi
+
+# Extract all IDs from the file and find the highest one
+highest_id=$(grep '"id":' "$file" | sed 's/.*"id": *\([0-9]*\).*/\1/' | sort -n | tail -1)
+
+if [ -z "$highest_id" ]; then
+    echo "Error: No IDs found in $file."
+    exit 1
+fi
+
+next_id=$((highest_id + 1))
+
+# Validate that the next ID is within the allowed range
+if [ "$next_id" -gt "$max_id" ]; then
+    echo "Error: Next ID ($next_id) would exceed maximum allowed ID ($max_id) for level $level."
+    echo "Current highest ID: $highest_id"
+    exit 1
+fi
+
+echo "$next_id" 

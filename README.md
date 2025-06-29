@@ -99,10 +99,20 @@ Questions can include semantic variations to prevent memorization:
 language/
 ├── french_listening_app.html    # Main application
 ├── planning.html               # Question management interface
-├── questions.json              # Question database (legacy, do not modify; see new files for current questions)
+├── questions.json              # Question database (legacy, do not modify)
+├── questions-a.json            # A1/A2 level questions 
+├── questions-b.json            # B1/B2 level questions
+├── questions-c.json            # C1/C2 level questions
 ├── redis-cache-server.js       # WebSocket cache server
 ├── start-cache-server.sh       # Cache server startup script
 ├── cache-monitor.html          # Cache monitoring dashboard
+├── util/                       # Utility scripts directory
+│   ├── analyze-questions.sh    # Question bank analyzer
+│   ├── analyze-conjugations.py # Verb conjugation analyzer
+│   ├── getid                   # ID generator utility
+│   ├── delete-tag.sh           # Tag deletion tool
+│   ├── list-tags.sh            # Tag listing utility
+│   └── README.md              # Utilities documentation
 ├── package.json               # Node.js dependencies
 ├── CEFR_Classification_Framework.md  # Content guidelines
 └── README.md                  # This file

@@ -241,4 +241,22 @@ Listening Exercise
 - ✅ Automatic audio caching with Redis
 - ✅ Auto-play and auto-advance functionality
 - ✅ Live cache statistics and monitoring
-- ✅ Settings persistence across sessions 
+- ✅ Settings persistence across sessions
+
+### Development Tools:
+- ✅ **ID Assignment Tool (`util/getid`)**: Automatically determines next available ID for each CEFR level
+- `./util/getid a` → Next ID for A1/A2 levels (questions-a.json, range 34-99)
+- `./util/getid b` → Next ID for B1/B2 levels (questions-b.json, range 200-299)
+- `./util/getid c` → Next ID for C1/C2 levels (questions-c.json, range 100-199)
+- ✅ **Question Analysis (`analyze-questions.sh`)**: Validates question structure and distribution
+
+### Question Creation Workflow:
+1. **Determine CEFR level** based on content complexity and word count limits
+2. **Get next available ID**: `./util/getid [a|b|c]` based on target level
+3. **Choose target file**: 
+   - A1/A2 → `questions-a.json`
+   - B1/B2 → `questions-b.json`
+   - C1/C2 → `questions-c.json`
+4. **Create question** following the JSON structure template
+5. **Validate**: Run `bash analyze-questions.sh` to check for errors
+6. **Test**: Verify question appears correctly in the learning interface 
