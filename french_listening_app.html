@@ -56,7 +56,7 @@
                 <button class="config-toggle-btn" id="configToggleBtn">🔽</button>
             </div>
             <div class="config-summary" id="configSummary">
-                Using Polly with Céline voice in us-east-1
+                Using Polly with Léa voice in us-east-1
             </div>
             <div class="config-content collapsed" id="configContent">
                 <div class="config-toggle">
@@ -85,9 +85,8 @@
                     <div class="config-row">
                         <label>Voice:</label>
                         <select id="pollyVoice">
-                            <option value="Celine">Céline (Female, French)</option>
-                            <option value="Mathieu">Mathieu (Male, French)</option>
-                            <option value="Lea">Léa (Female, French)</option>
+                            <option value="Lea">Léa (Female, French - Neural)</option>
+                            <option value="Remi">Rémi (Male, French - Neural)</option>
                         </select>
                     </div>
                     <div class="config-status" id="configStatus">
@@ -411,7 +410,7 @@
                 awsAccessKeyInput.value = '';
                 awsSecretKeyInput.value = '';
                 awsRegionSelect.value = 'us-east-1';
-                pollyVoiceSelect.value = 'Celine';
+                pollyVoiceSelect.value = 'Lea';
                 
                 // Expand config panel
                 configContent.classList.remove('collapsed');
@@ -906,7 +905,12 @@
 
         // Global configuration object
         let appConfig = {
-            debugLevel: 2 // Default fallback value
+            debugLevel: 2, // Default fallback value
+            interQuestionDelays: {
+                correct: 1500,
+                incorrect: 2500,
+                skipped: 1000
+            }
         };
 
         // Load application configuration
@@ -916,7 +920,7 @@
                 if (response.ok) {
                     const config = await response.json();
                     appConfig = { ...appConfig, ...config }; // Merge with defaults
-                    console.log(`🔧 Config loaded: debugLevel=${appConfig.debugLevel}`);
+                    console.log(`🔧 Config loaded: debugLevel=${appConfig.debugLevel}, delays=[${appConfig.interQuestionDelays.correct}/${appConfig.interQuestionDelays.incorrect}/${appConfig.interQuestionDelays.skipped}]ms`);
                 } else {
                     console.warn(`⚠️ Could not load config.json (${response.status}), using defaults`);
                 }
@@ -1657,15 +1661,15 @@
             // Auto-advance logic with different delays for correct vs incorrect
             if (currentQuestion < questions.length - 1) {
                 if (isCorrect) {
-                    // Correct answers: advance after 1.5 seconds
+                    // Correct answers: advance after configured delay
                     setTimeout(() => {
                         nextQuestion();
-                    }, 1500);
+                    }, appConfig.interQuestionDelays.correct);
                 } else {
-                    // Incorrect answers: advance after 2.5 seconds (longer delay to read explanation)
+                    // Incorrect answers: advance after configured delay (longer to read explanation)
                     setTimeout(() => {
                         nextQuestion();
-                    }, 2500);
+                    }, appConfig.interQuestionDelays.incorrect);
                 }
             }
 
@@ -1754,7 +1758,7 @@
             // Auto-advance after showing skip message briefly
             setTimeout(() => {
                 nextQuestion();
-            }, 1000);
+            }, appConfig.interQuestionDelays.skipped);
         }
 
         function updateProgress() {

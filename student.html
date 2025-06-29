@@ -216,6 +216,204 @@
             to { opacity: 1; transform: translateY(0); }
         }
         
+        /* Collapsible container styles */
+        .collapsible-container {
+            border: 1px solid #e9ecef;
+            border-radius: 10px;
+            margin: 20px 0;
+            overflow: hidden;
+            background: white;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        
+        .collapsible-header {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            padding: 18px 20px;
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #e9ecef;
+            transition: all 0.3s ease;
+        }
+        
+        .collapsible-header:hover {
+            background: linear-gradient(135deg, #e9ecef 0%, #dee2e6 100%);
+        }
+        
+        .collapsible-title {
+            font-size: 1.4em;
+            color: #333;
+            font-weight: 600;
+            margin: 0;
+        }
+        
+        .collapsible-toggle {
+            font-size: 1.2em;
+            color: #667eea;
+            transition: transform 0.3s ease;
+        }
+        
+        .collapsible-container.collapsed .collapsible-toggle {
+            transform: rotate(-90deg);
+        }
+        
+        .collapsible-content {
+            padding: 20px;
+            transition: all 0.3s ease;
+            overflow: hidden;
+        }
+        
+        .collapsible-container.collapsed .collapsible-content {
+            max-height: 0;
+            padding: 0 20px;
+            opacity: 0;
+        }
+        
+        /* CEFR Level Progress Styles */
+        .level-progress-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .level-card {
+            background: linear-gradient(135deg, #f8f9fa 0%, #fff 100%);
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .level-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.15);
+        }
+        
+        .level-card.completed {
+            border-color: #28a745;
+            background: linear-gradient(135deg, #d4edda 0%, #fff 100%);
+        }
+        
+        .level-title {
+            font-size: 1.8em;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            display: inline-block;
+            min-width: 80px;
+        }
+        
+        .level-A1 { background: #28a745; }
+        .level-A2 { background: #20c997; }
+        .level-B1 { background: #fd7e14; }
+        .level-B2 { background: #e83e8c; }
+        .level-C1 { background: #6f42c1; }
+        .level-C2 { background: #dc3545; }
+        
+        .level-stats {
+            margin: 15px 0;
+            font-size: 1.1em;
+            color: #495057;
+        }
+        
+        .progress-bar-container {
+            background: #e9ecef;
+            border-radius: 10px;
+            height: 20px;
+            margin: 15px 0;
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .progress-bar {
+            height: 100%;
+            border-radius: 10px;
+            transition: width 0.8s ease;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            position: relative;
+        }
+        
+        .progress-bar.completed {
+            background: linear-gradient(90deg, #28a745 0%, #20c997 100%);
+        }
+        
+        .progress-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-weight: bold;
+            font-size: 0.9em;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+        }
+        
+        .level-details {
+            font-size: 0.95em;
+            color: #6c757d;
+            margin-top: 10px;
+        }
+        
+        .mastery-badge {
+            position: absolute;
+            top: -5px;
+            right: -5px;
+            background: #ffd700;
+            color: #333;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2em;
+            box-shadow: 0 2px 8px rgba(255, 215, 0, 0.3);
+        }
+        
+        .overall-progress {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        
+        .overall-progress h3 {
+            margin: 0 0 10px;
+            font-size: 1.4em;
+        }
+        
+        .overall-stats {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .overall-stat {
+            text-align: center;
+        }
+        
+        .overall-stat .number {
+            font-size: 1.8em;
+            font-weight: bold;
+            display: block;
+        }
+        
+        .overall-stat .label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+        
         /* Responsive spacing adjustments */
         @media (max-width: 768px) {
             .container {
@@ -246,6 +444,28 @@
                 padding: 12px 20px;
                 font-size: 1em;
             }
+            
+            .level-progress-grid {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+            
+            .level-card {
+                padding: 15px;
+            }
+            
+            .level-title {
+                font-size: 1.5em;
+            }
+            
+            .overall-stats {
+                flex-direction: column;
+                gap: 10px;
+            }
+            
+            .overall-stat .number {
+                font-size: 1.5em;
+            }
         }
     </style>
 </head>
@@ -265,11 +485,49 @@
         <h1>👤 Student Dashboard</h1>
         <div id="userIdDisplay" style="margin-bottom:35px; color:#764ba2; font-size:1.15em; word-break:break-all;"></div>
         
+        <!-- CEFR Level Progress Section -->
+        <div class="collapsible-container" id="levelProgressCollapsible">
+            <div class="collapsible-header" onclick="toggleCollapsible('levelProgressCollapsible')">
+                <h2 class="collapsible-title">🎯 CEFR Level Progress</h2>
+                <span class="collapsible-toggle">▼</span>
+            </div>
+            <div class="collapsible-content">
+                <div class="overall-progress" id="overallProgressSummary" style="display: none;">
+                    <h3>🏆 Overall Progress Summary</h3>
+                    <div class="overall-stats">
+                        <div class="overall-stat">
+                            <span class="number" id="totalLevelsCompleted">0</span>
+                            <span class="label">Levels Mastered</span>
+                        </div>
+                        <div class="overall-stat">
+                            <span class="number" id="totalQuestionsCompleted">0</span>
+                            <span class="label">Questions Mastered</span>
+                        </div>
+                        <div class="overall-stat">
+                            <span class="number" id="overallProgressPercent">0%</span>
+                            <span class="label">Overall Progress</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="level-progress-grid" id="levelProgressGrid">
+                    <!-- Level cards will be populated by JavaScript -->
+                </div>
+                <button class="refresh-btn" onclick="fetchLevelProgress()">🔄 Refresh Progress</button>
+            </div>
+        </div>
+        
         <!-- Per-Question Success Rate Section -->
-        <h2 style="font-size:1.4em; color:#333; margin:40px 0 20px; font-weight:600;">📊 Question Performance</h2>
-        <button class="refresh-btn" onclick="fetchQuestionPerformance()">🔄 Refresh Performance</button>
-        <button class="clear-btn" onclick="clearQuestionPerformance()">🗑️ Clear Performance</button>
-        <div id="questionPerformanceContainer"></div>
+        <div class="collapsible-container" id="performanceCollapsible">
+            <div class="collapsible-header" onclick="toggleCollapsible('performanceCollapsible')">
+                <h2 class="collapsible-title">📊 Question Performance</h2>
+                <span class="collapsible-toggle">▼</span>
+            </div>
+            <div class="collapsible-content">
+                <button class="refresh-btn" onclick="fetchQuestionPerformance()">🔄 Refresh Performance</button>
+                <button class="clear-btn" onclick="clearQuestionPerformance()">🗑️ Clear Performance</button>
+                <div id="questionPerformanceContainer"></div>
+            </div>
+        </div>
         
         <a href="french_listening_app.html" class="back-link">← Back to Main Page</a>
     </div>
@@ -283,11 +541,13 @@
             cacheSocket = new WebSocket('ws://localhost:8080');
             cacheSocket.onopen = () => {
                 fetchQuestionPerformance();
+                fetchLevelProgress();
             };
             cacheSocket.onmessage = (event) => {
                 const data = JSON.parse(event.data);
                 if (data.type === 'user_question_performance_result') {
                     renderQuestionPerformanceTable(data.questionPerformances);
+                    calculateAndRenderLevelProgress(data.questionPerformances);
                 }
             };
             cacheSocket.onclose = () => {
@@ -521,6 +781,156 @@
                 }
             }
         }
+        // Global variables for all questions data
+        let allQuestionsData = {};
+
+        // Fetch level progress - loads all question data to calculate progress
+        async function fetchLevelProgress() {
+            try {
+                // Load all question files to get total counts per level
+                const [questionsAData, questionsBData, questionsCData] = await Promise.all([
+                    fetch('questions-a.json').then(r => r.json()),
+                    fetch('questions-b.json').then(r => r.json()),
+                    fetch('questions-c.json').then(r => r.json())
+                ]);
+
+                // Extract questions arrays from the JSON structure
+                const questionsA = questionsAData.questions || [];
+                const questionsB = questionsBData.questions || [];
+                const questionsC = questionsCData.questions || [];
+
+                // Combine all questions and organize by difficulty level
+                const allQuestions = [...questionsA, ...questionsB, ...questionsC];
+                allQuestionsData = {
+                    'A1': allQuestions.filter(q => q.difficulty === 'A1'),
+                    'A2': allQuestions.filter(q => q.difficulty === 'A2'),
+                    'B1': allQuestions.filter(q => q.difficulty === 'B1'),
+                    'B2': allQuestions.filter(q => q.difficulty === 'B2'),
+                    'C1': allQuestions.filter(q => q.difficulty === 'C1'),
+                    'C2': allQuestions.filter(q => q.difficulty === 'C2')
+                };
+
+                // Fetch user performance data
+                if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
+                    cacheSocket.send(JSON.stringify({ action: 'get_user_question_performance', uuid: userUUID }));
+                }
+            } catch (error) {
+                console.error('Error loading questions:', error);
+                document.getElementById('levelProgressGrid').innerHTML = '<div class="empty">Error loading question data</div>';
+            }
+        }
+
+        // Calculate and render level progress based on user performance
+        function calculateAndRenderLevelProgress(questionPerformances) {
+            if (!allQuestionsData || Object.keys(allQuestionsData).length === 0) {
+                return; // Questions data not loaded yet
+            }
+
+            const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+            const levelProgress = {};
+            
+            // Calculate progress for each level
+            levels.forEach(level => {
+                const questionsInLevel = allQuestionsData[level] || [];
+                const totalQuestions = questionsInLevel.length;
+                
+                // Find user performance for questions in this level
+                const masteredQuestions = questionsInLevel.filter(question => {
+                    const performance = questionPerformances.find(p => p.questionId === question.id);
+                    return performance && performance.successRate >= 70; // 70% threshold for mastery
+                }).length;
+
+                levelProgress[level] = {
+                    total: totalQuestions,
+                    mastered: masteredQuestions,
+                    percentage: totalQuestions > 0 ? Math.round((masteredQuestions / totalQuestions) * 100) : 0,
+                    isCompleted: totalQuestions > 0 && masteredQuestions === totalQuestions
+                };
+            });
+
+            renderLevelProgressCards(levelProgress);
+            renderOverallProgressSummary(levelProgress);
+        }
+
+        function renderLevelProgressCards(levelProgress) {
+            const grid = document.getElementById('levelProgressGrid');
+            const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+            
+            const levelDescriptions = {
+                'A1': 'Beginner',
+                'A2': 'Elementary', 
+                'B1': 'Intermediate',
+                'B2': 'Upper-Intermediate',
+                'C1': 'Advanced',
+                'C2': 'Proficiency'
+            };
+
+            let html = '';
+            
+            levels.forEach(level => {
+                const progress = levelProgress[level];
+                const progressPercentage = progress.percentage;
+                const masteryBadge = progress.isCompleted ? '<div class="mastery-badge">🏆</div>' : '';
+                const completedClass = progress.isCompleted ? 'completed' : '';
+                const progressBarClass = progress.isCompleted ? 'completed' : '';
+
+                html += `
+                    <div class="level-card ${completedClass}">
+                        ${masteryBadge}
+                        <div class="level-title level-${level}">${level}</div>
+                        <div style="font-size: 1.1em; color: #6c757d; margin-bottom: 10px;">
+                            ${levelDescriptions[level]}
+                        </div>
+                        <div class="level-stats">
+                            <strong>${progress.mastered} / ${progress.total}</strong> questions mastered
+                        </div>
+                        <div class="progress-bar-container">
+                            <div class="progress-bar ${progressBarClass}" style="width: ${progressPercentage}%">
+                                <div class="progress-text">${progressPercentage}%</div>
+                            </div>
+                        </div>
+                        <div class="level-details">
+                            ${progress.total > 0 ? 
+                                `Need 70%+ success rate on all questions` : 
+                                'No questions available yet'
+                            }
+                        </div>
+                    </div>
+                `;
+            });
+
+            grid.innerHTML = html;
+        }
+
+        function renderOverallProgressSummary(levelProgress) {
+            const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+            
+            // Calculate overall statistics
+            const completedLevels = levels.filter(level => levelProgress[level].isCompleted).length;
+            const totalMasteredQuestions = levels.reduce((sum, level) => sum + levelProgress[level].mastered, 0);
+            const totalQuestions = levels.reduce((sum, level) => sum + levelProgress[level].total, 0);
+            const overallPercentage = totalQuestions > 0 ? Math.round((totalMasteredQuestions / totalQuestions) * 100) : 0;
+
+            // Update summary display
+            document.getElementById('totalLevelsCompleted').textContent = completedLevels;
+            document.getElementById('totalQuestionsCompleted').textContent = totalMasteredQuestions;
+            document.getElementById('overallProgressPercent').textContent = `${overallPercentage}%`;
+
+            // Show the summary if there's any progress
+            const summaryElement = document.getElementById('overallProgressSummary');
+            if (totalMasteredQuestions > 0) {
+                summaryElement.style.display = 'block';
+            } else {
+                summaryElement.style.display = 'none';
+            }
+        }
+
+        // Collapsible container toggle function
+        function toggleCollapsible(containerId) {
+            const container = document.getElementById(containerId);
+            container.classList.toggle('collapsed');
+        }
+
         // Hamburger menu toggle logic
         const hamburgerBtn = document.getElementById('hamburgerBtn');
         const menuDropdown = document.getElementById('menuDropdown');
