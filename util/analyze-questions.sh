@@ -152,35 +152,35 @@ else
         fi
     done < $TEMP_TOP_NOUNS
     
-    # Show gender distribution of covered nouns
-    echo ""
-    echo "🚻 Gender Distribution of Covered Nouns:"
-    echo "---------------------------------------"
+    # Show gender distribution of covered nouns - DISABLED
+    # echo ""
+    # echo "🚻 Gender Distribution of Covered Nouns:"
+    # echo "---------------------------------------"
     
-    # Get gender info for covered nouns
-    MASCULINE=0
-    FEMININE=0
-    UNKNOWN=0
+    # # Get gender info for covered nouns
+    # MASCULINE=0
+    # FEMININE=0
+    # UNKNOWN=0
     
-    while IFS= read -r noun; do
-        if grep -qx "$noun" $TEMP_WORDS; then
-            # Get gender from CSV
-            GENDER=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "^$noun," | cut -d',' -f3)
-            if [ -z "$GENDER" ]; then
-                GENDER=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "\"$noun\"," | cut -d',' -f3)
-            fi
+    # while IFS= read -r noun; do
+    #     if grep -qx "$noun" $TEMP_WORDS; then
+    #         # Get gender from CSV
+    #         GENDER=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "^$noun," | cut -d',' -f3)
+    #         if [ -z "$GENDER" ]; then
+    #             GENDER=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "\"$noun\"," | cut -d',' -f3)
+    #         fi
             
-            case "$GENDER" in
-                "m") MASCULINE=$((MASCULINE + 1)) ;;
-                "f") FEMININE=$((FEMININE + 1)) ;;
-                *) UNKNOWN=$((UNKNOWN + 1)) ;;
-            esac
-        fi
-    done < $TEMP_TOP_NOUNS
+    #         case "$GENDER" in
+    #             "m") MASCULINE=$((MASCULINE + 1)) ;;
+    #             "f") FEMININE=$((FEMININE + 1)) ;;
+    #             *) UNKNOWN=$((UNKNOWN + 1)) ;;
+    #         esac
+    #     fi
+    # done < $TEMP_TOP_NOUNS
     
-    echo "  Masculine: $MASCULINE nouns"
-    echo "  Feminine:  $FEMININE nouns" 
-    echo "  Unknown:   $UNKNOWN nouns"
+    # echo "  Masculine: $MASCULINE nouns"
+    # echo "  Feminine:  $FEMININE nouns" 
+    # echo "  Unknown:   $UNKNOWN nouns"
     
     # Clean up temp files
     rm $TEMP_TOP_NOUNS $TEMP_COVERAGE
