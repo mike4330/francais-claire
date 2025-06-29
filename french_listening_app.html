@@ -232,6 +232,7 @@
         let score = 0;
         let answered = false;
         let userAnswers = [];
+        let questionStartTime = null;
 
         // AWS Polly configuration
         let polly = null;
@@ -678,6 +679,7 @@
                     (type === 'evict_cache_result' && message.action === 'evict_cache') ||
                     (type === 'scoring_stats_result' && message.action === 'get_scoring_stats') ||
                     (type === 'question_result_tracked' && message.action === 'track_question_result') ||
+                    (type === 'detailed_response_tracked' && message.action === 'track_detailed_question_response') ||
                     (type === 'scoring_stats_cleared' && message.action === 'clear_scoring_stats')) {
                     matchingKey = key;
                     break;
@@ -1462,6 +1464,7 @@
             const question = questions[currentQuestion];
             answered = false;
             selectedAnswer = null;
+            questionStartTime = Date.now(); // Track when question starts for response time
             
             // Generate template variation if applicable
             const audioText = getAudioTextForQuestion(question);
@@ -1606,7 +1609,9 @@
             try {
                 if (question.difficulty && userUUID) {
                     console.log('📊 Tracking question result:', question.difficulty, isCorrect ? 'CORRECT' : 'INCORRECT');
-                    console.log('🔍 About to send tracking message...');
+                    console.log('🔍 About to send tracking messages...');
+                    
+                    // Track difficulty-level stats (for the matrix)
                     sendCacheMessage({ 
                         action: 'track_question_result', 
                         uuid: userUUID, 
@@ -1614,13 +1619,28 @@
                         isCorrect: isCorrect 
                     })
                     .then(() => {
-                        console.log('✅ Question result tracked successfully');
+                        console.log('✅ Difficulty-level tracking successful');
                         // Refresh scoreboard after successful tracking if section is expanded
                         if (scoringContent && !scoringContent.classList.contains('collapsed')) {
                             setTimeout(() => refreshScoringStats(), 500); // Small delay to ensure data is saved
                         }
                     })
-                    .catch(err => console.error('❌ Failed to track question result:', err));
+                    .catch(err => console.error('❌ Failed to track difficulty result:', err));
+                    
+                    // Also track detailed per-question statistics
+                    sendCacheMessage({ 
+                        action: 'track_detailed_question_response', 
+                        uuid: userUUID, 
+                        questionId: question.id,
+                        isCorrect: isCorrect,
+                        responseTime: questionStartTime ? Date.now() - questionStartTime : null,
+                        difficulty: question.difficulty,
+                        questionType: question.questionType || 'comprehension'
+                    })
+                    .then((response) => {
+                        console.log('✅ Detailed question tracking successful:', response);
+                    })
+                    .catch(err => console.error('❌ Failed to track detailed question result:', err));
                 } else {
                     console.warn('⚠️ Scoring tracking skipped - missing difficulty or UUID');
                     console.warn('⚠️ Debug values:', {

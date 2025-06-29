@@ -18,28 +18,57 @@
             background: white;
             border-radius: 20px;
             box-shadow: 0 20px 40px rgba(0,0,0,0.1);
-            padding: 40px;
-            max-width: 600px;
+            padding: 60px 50px;
+            max-width: 900px;
             width: 100%;
             text-align: center;
+            margin: 40px 20px;
         }
         h1 {
             color: #333;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
+            font-size: 2.2em;
         }
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-top: 20px;
+            margin-top: 30px;
+            margin-bottom: 30px;
         }
         th, td {
-            padding: 12px 8px;
+            padding: 18px 15px;
             border-bottom: 1px solid #e9ecef;
+            text-align: center;
         }
         th {
             background: #f8f9fa;
             color: #667eea;
             font-size: 1.1em;
+            cursor: pointer;
+            user-select: none;
+            position: relative;
+            padding-right: 25px;
+            transition: background-color 0.2s;
+        }
+        th:hover {
+            background: #e9ecef;
+        }
+        th.sortable::after {
+            content: "↕️";
+            position: absolute;
+            right: 8px;
+            opacity: 0.5;
+            font-size: 0.8em;
+        }
+        th.sort-asc::after {
+            content: "↑";
+            opacity: 1;
+            color: #667eea;
+        }
+        th.sort-desc::after {
+            content: "↓";
+            opacity: 1;
+            color: #667eea;
         }
         tr:last-child td {
             border-bottom: none;
@@ -48,37 +77,76 @@
             font-weight: bold;
             color: #764ba2;
         }
+        .success-rate {
+            font-weight: bold;
+            padding: 4px 8px;
+            border-radius: 4px;
+            color: white;
+            text-align: center;
+        }
+        .success-excellent { background: #28a745; }
+        .success-good { background: #20c997; }
+        .success-okay { background: #fd7e14; }
+        .success-poor { background: #dc3545; }
+        .difficulty-badge {
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 0.8em;
+            font-weight: bold;
+            color: white;
+        }
+        .diff-A1 { background: #28a745; }
+        .diff-A2 { background: #20c997; }
+        .diff-B1 { background: #fd7e14; }
+        .diff-B2 { background: #e83e8c; }
+        .diff-C1 { background: #6f42c1; }
+        .diff-C2 { background: #dc3545; }
         .refresh-btn, .clear-btn {
-            margin-top: 20px;
-            padding: 10px 20px;
+            margin: 25px 15px 0;
+            padding: 14px 28px;
             background: linear-gradient(45deg, #667eea, #764ba2);
             color: white;
             border: none;
             border-radius: 8px;
-            font-size: 1em;
+            font-size: 1.1em;
             cursor: pointer;
             transition: all 0.3s ease;
-            margin-right: 10px;
         }
         .refresh-btn:hover, .clear-btn:hover {
             opacity: 0.9;
         }
         .empty {
             color: #888;
-            margin-top: 30px;
+            margin: 50px 0;
+            font-size: 1.1em;
         }
         .back-link {
             display: inline-block;
-            margin-top: 25px;
+            margin-top: 40px;
             color: #667eea;
             text-decoration: none;
             font-weight: 500;
-            font-size: 1.05em;
+            font-size: 1.15em;
             transition: color 0.2s;
         }
         .back-link:hover {
             color: #764ba2;
             text-decoration: underline;
+        }
+        .question-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            padding: 4px 8px;
+            border-radius: 6px;
+            display: inline-block;
+        }
+        .question-link:hover {
+            color: #764ba2;
+            background: #f0f3ff;
+            transform: translateX(2px);
+            text-decoration: none;
         }
         .hamburger-menu {
             position: absolute;
@@ -147,6 +215,38 @@
             from { opacity: 0; transform: translateY(-10px); }
             to { opacity: 1; transform: translateY(0); }
         }
+        
+        /* Responsive spacing adjustments */
+        @media (max-width: 768px) {
+            .container {
+                padding: 40px 30px;
+                margin: 20px 15px;
+                max-width: 100%;
+            }
+            
+            h1 {
+                font-size: 1.8em;
+                margin-bottom: 25px;
+            }
+            
+            h2 {
+                font-size: 1.2em !important;
+                margin: 30px 0 15px !important;
+            }
+            
+            th, td {
+                padding: 14px 10px;
+                font-size: 0.9em;
+            }
+            
+            .refresh-btn, .clear-btn {
+                display: block;
+                width: 100%;
+                margin: 15px 0;
+                padding: 12px 20px;
+                font-size: 1em;
+            }
+        }
     </style>
 </head>
 <body>
@@ -163,11 +263,14 @@
     </div>
     <div class="container">
         <h1>👤 Student Dashboard</h1>
-        <div id="userIdDisplay" style="margin-bottom:18px; color:#764ba2; font-size:1.05em; word-break:break-all;"></div>
-        <h2 style="font-size:1.2em; color:#333; margin-bottom:10px;">📚 Vocabulary Misses</h2>
-        <button class="refresh-btn" onclick="fetchVocabMisses()">🔄 Refresh</button>
-        <button class="clear-btn" onclick="clearVocabMisses()">🗑️ Clear Stats</button>
-        <div id="missTableContainer"></div>
+        <div id="userIdDisplay" style="margin-bottom:35px; color:#764ba2; font-size:1.15em; word-break:break-all;"></div>
+        
+        <!-- Per-Question Success Rate Section -->
+        <h2 style="font-size:1.4em; color:#333; margin:40px 0 20px; font-weight:600;">📊 Question Performance</h2>
+        <button class="refresh-btn" onclick="fetchQuestionPerformance()">🔄 Refresh Performance</button>
+        <button class="clear-btn" onclick="clearQuestionPerformance()">🗑️ Clear Performance</button>
+        <div id="questionPerformanceContainer"></div>
+        
         <a href="french_listening_app.html" class="back-link">← Back to Main Page</a>
     </div>
     <script src="function.js"></script>
@@ -179,14 +282,12 @@
         function connectSocket() {
             cacheSocket = new WebSocket('ws://localhost:8080');
             cacheSocket.onopen = () => {
-                fetchVocabMisses();
+                fetchQuestionPerformance();
             };
             cacheSocket.onmessage = (event) => {
                 const data = JSON.parse(event.data);
-                if (data.type === 'vocab_miss_stats') {
-                    renderMissTable(data.stats);
-                } else if (data.type === 'clear_vocab_miss_result') {
-                    fetchVocabMisses();
+                if (data.type === 'user_question_performance_result') {
+                    renderQuestionPerformanceTable(data.questionPerformances);
                 }
             };
             cacheSocket.onclose = () => {
@@ -194,31 +295,231 @@
             };
         }
         connectSocket();
-        function fetchVocabMisses() {
-            if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN) {
-                cacheSocket.send(JSON.stringify({ action: 'get_vocab_miss_stats', uuid: userUUID }));
+
+        function fetchQuestionPerformance() {
+            if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
+                cacheSocket.send(JSON.stringify({ action: 'get_user_question_performance', uuid: userUUID }));
             }
         }
-        function clearVocabMisses() {
-            if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN) {
-                if (confirm('Clear all vocabulary miss stats? This cannot be undone.')) {
-                    cacheSocket.send(JSON.stringify({ action: 'clear_vocab_miss', uuid: userUUID }));
+
+        function clearQuestionPerformance() {
+            if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
+                if (confirm('Clear all question performance stats? This cannot be undone.')) {
+                    // Note: This would need a backend implementation to clear user question stats
+                    alert('Question performance clearing not yet implemented in backend');
                 }
             }
         }
-        function renderMissTable(stats) {
-            const container = document.getElementById('missTableContainer');
-            const words = Object.keys(stats).sort((a, b) => stats[b] - stats[a]);
-            if (words.length === 0) {
-                container.innerHTML = '<div class="empty">No vocabulary misses recorded yet! 🎉</div>';
+
+        function renderQuestionPerformanceTable(questionPerformances) {
+            const container = document.getElementById('questionPerformanceContainer');
+            
+            if (!questionPerformances || questionPerformances.length === 0) {
+                container.innerHTML = '<div class="empty">No questions attempted yet! Start practicing to see your progress! 📚</div>';
                 return;
             }
-            let html = '<table><tr><th>Word</th><th>Miss Count</th></tr>';
-            for (const word of words) {
-                html += `<tr><td>${word}</td><td class="count">${stats[word]}</td></tr>`;
+
+            // Sort by question ID
+            questionPerformances.sort((a, b) => a.questionId - b.questionId);
+
+            let html = `
+                <table id="performanceTable">
+                    <tr>
+                        <th class="sortable" data-sort="questionId" data-type="number">Question ID</th>
+                        <th class="sortable" data-sort="difficulty" data-type="difficulty">Difficulty</th>
+                        <th class="sortable" data-sort="questionType" data-type="string">Type</th>
+                        <th class="sortable" data-sort="attempts" data-type="number">Attempts</th>
+                        <th class="sortable" data-sort="successRate" data-type="number">Success Rate</th>
+                        <th class="sortable" data-sort="lastAttempted" data-type="date">Last Attempted</th>
+                    </tr>
+            `;
+
+            for (const performance of questionPerformances) {
+                const successRateClass = 
+                    performance.successRate >= 80 ? 'success-excellent' :
+                    performance.successRate >= 60 ? 'success-good' :
+                    performance.successRate >= 40 ? 'success-okay' : 'success-poor';
+                
+                const difficultyClass = `diff-${performance.difficulty}`;
+                const typeIcon = performance.questionType === 'listening' ? '👂' : 
+                                performance.questionType === 'fill-in-the-blank' ? '✏️' : '📖';
+                
+                const lastAttempted = new Date(performance.lastAttempted).toLocaleDateString();
+
+                html += `
+                    <tr>
+                        <td><a href="french_listening_app.html?start=${performance.questionId}" class="question-link" title="Start quiz with question ${performance.questionId}"><strong>Q${performance.questionId} 🚀</strong></a></td>
+                        <td><span class="difficulty-badge ${difficultyClass}">${performance.difficulty}</span></td>
+                        <td>${typeIcon} ${performance.questionType}</td>
+                        <td class="count">${performance.attempts}</td>
+                        <td><span class="success-rate ${successRateClass}">${performance.successRate}%</span></td>
+                        <td style="font-size: 0.9em; color: #666;">${lastAttempted}</td>
+                    </tr>
+                `;
             }
+
             html += '</table>';
+            
+            // Add summary stats
+            const totalAttempts = questionPerformances.reduce((sum, p) => sum + p.attempts, 0);
+            const totalCorrect = questionPerformances.reduce((sum, p) => sum + (p.attempts * p.successRate / 100), 0);
+            const overallSuccessRate = totalAttempts > 0 ? Math.round((totalCorrect / totalAttempts) * 100) : 0;
+            
+            html += `
+                <div style="margin-top: 15px; padding: 10px; background: #f8f9fa; border-radius: 8px; text-align: center;">
+                    <strong>Overall Performance:</strong> 
+                    ${questionPerformances.length} questions attempted • 
+                    ${totalAttempts} total attempts • 
+                    <span class="success-rate ${overallSuccessRate >= 80 ? 'success-excellent' : overallSuccessRate >= 60 ? 'success-good' : overallSuccessRate >= 40 ? 'success-okay' : 'success-poor'}">${overallSuccessRate}% success rate</span>
+                </div>
+            `;
+
             container.innerHTML = html;
+            
+            // Add sorting functionality
+            addTableSorting(questionPerformances);
+        }
+
+        // Global variables for sorting state
+        let currentSort = { column: null, direction: 'asc' };
+        let currentData = [];
+
+        function addTableSorting(data) {
+            currentData = data;
+            const table = document.getElementById('performanceTable');
+            const headers = table.querySelectorAll('th.sortable');
+            
+            headers.forEach(header => {
+                header.addEventListener('click', () => {
+                    const sortColumn = header.dataset.sort;
+                    const sortType = header.dataset.type;
+                    
+                    // Update sort direction
+                    if (currentSort.column === sortColumn) {
+                        currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+                    } else {
+                        currentSort.column = sortColumn;
+                        currentSort.direction = 'asc';
+                    }
+                    
+                    // Remove sort classes from all headers
+                    headers.forEach(h => {
+                        h.classList.remove('sort-asc', 'sort-desc');
+                    });
+                    
+                    // Add sort class to current header
+                    header.classList.add(currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
+                    
+                    // Sort and re-render table
+                    const sortedData = sortData(currentData, sortColumn, sortType, currentSort.direction);
+                    renderSortedTable(sortedData);
+                });
+            });
+        }
+
+        function sortData(data, column, type, direction) {
+            const sortedData = [...data].sort((a, b) => {
+                let aVal, bVal;
+                
+                switch(type) {
+                    case 'number':
+                        aVal = a[column];
+                        bVal = b[column];
+                        break;
+                    case 'string':
+                        aVal = a[column].toLowerCase();
+                        bVal = b[column].toLowerCase();
+                        break;
+                    case 'date':
+                        aVal = new Date(a[column]);
+                        bVal = new Date(b[column]);
+                        break;
+                    case 'difficulty':
+                        const difficultyOrder = { 'A1': 1, 'A2': 2, 'B1': 3, 'B2': 4, 'C1': 5, 'C2': 6 };
+                        aVal = difficultyOrder[a[column]] || 0;
+                        bVal = difficultyOrder[b[column]] || 0;
+                        break;
+                    default:
+                        aVal = a[column];
+                        bVal = b[column];
+                }
+                
+                if (aVal < bVal) return direction === 'asc' ? -1 : 1;
+                if (aVal > bVal) return direction === 'asc' ? 1 : -1;
+                return 0;
+            });
+            
+            return sortedData;
+        }
+
+        function renderSortedTable(questionPerformances) {
+            const container = document.getElementById('questionPerformanceContainer');
+            
+            let html = `
+                <table id="performanceTable">
+                    <tr>
+                        <th class="sortable" data-sort="questionId" data-type="number">Question ID</th>
+                        <th class="sortable" data-sort="difficulty" data-type="difficulty">Difficulty</th>
+                        <th class="sortable" data-sort="questionType" data-type="string">Type</th>
+                        <th class="sortable" data-sort="attempts" data-type="number">Attempts</th>
+                        <th class="sortable" data-sort="successRate" data-type="number">Success Rate</th>
+                        <th class="sortable" data-sort="lastAttempted" data-type="date">Last Attempted</th>
+                    </tr>
+            `;
+
+            for (const performance of questionPerformances) {
+                const successRateClass = 
+                    performance.successRate >= 80 ? 'success-excellent' :
+                    performance.successRate >= 60 ? 'success-good' :
+                    performance.successRate >= 40 ? 'success-okay' : 'success-poor';
+                
+                const difficultyClass = `diff-${performance.difficulty}`;
+                const typeIcon = performance.questionType === 'listening' ? '👂' : 
+                                performance.questionType === 'fill-in-the-blank' ? '✏️' : '📖';
+                
+                const lastAttempted = new Date(performance.lastAttempted).toLocaleDateString();
+
+                html += `
+                    <tr>
+                        <td><a href="french_listening_app.html?start=${performance.questionId}" class="question-link" title="Start quiz with question ${performance.questionId}"><strong>Q${performance.questionId} 🚀</strong></a></td>
+                        <td><span class="difficulty-badge ${difficultyClass}">${performance.difficulty}</span></td>
+                        <td>${typeIcon} ${performance.questionType}</td>
+                        <td class="count">${performance.attempts}</td>
+                        <td><span class="success-rate ${successRateClass}">${performance.successRate}%</span></td>
+                        <td style="font-size: 0.9em; color: #666;">${lastAttempted}</td>
+                    </tr>
+                `;
+            }
+
+            html += '</table>';
+            
+            // Add summary stats
+            const totalAttempts = questionPerformances.reduce((sum, p) => sum + p.attempts, 0);
+            const totalCorrect = questionPerformances.reduce((sum, p) => sum + (p.attempts * p.successRate / 100), 0);
+            const overallSuccessRate = totalAttempts > 0 ? Math.round((totalCorrect / totalAttempts) * 100) : 0;
+            
+            html += `
+                <div style="margin-top: 15px; padding: 10px; background: #f8f9fa; border-radius: 8px; text-align: center;">
+                    <strong>Overall Performance:</strong> 
+                    ${questionPerformances.length} questions attempted • 
+                    ${totalAttempts} total attempts • 
+                    <span class="success-rate ${overallSuccessRate >= 80 ? 'success-excellent' : overallSuccessRate >= 60 ? 'success-good' : overallSuccessRate >= 40 ? 'success-okay' : 'success-poor'}">${overallSuccessRate}% success rate</span>
+                </div>
+            `;
+
+            container.innerHTML = html;
+            
+            // Re-add sorting functionality and restore sort state
+            addTableSorting(questionPerformances);
+            
+            // Restore current sort indicator
+            if (currentSort.column) {
+                const table = document.getElementById('performanceTable');
+                const header = table.querySelector(`th[data-sort="${currentSort.column}"]`);
+                if (header) {
+                    header.classList.add(currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
+                }
+            }
         }
         // Hamburger menu toggle logic
         const hamburgerBtn = document.getElementById('hamburgerBtn');
