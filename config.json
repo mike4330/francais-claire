@@ -1,3 +1,8 @@
 {
-    "debugLevel": 2
+    "debugLevel": 2,
+    "interQuestionDelays": {
+        "correct": 3800,
+        "incorrect": 4500,
+        "skipped": 1000
+    }
 } 
