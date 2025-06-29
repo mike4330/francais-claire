@@ -41,31 +41,7 @@
         "food",
         "lunch",
         "salad",
-        "listening",
-        "fill-in-the-blank"
-      ]
-    },
-    {
-      "id": 36,
-      "audioText": "Ce soir, je vais préparer une poêlée de seiche avec du gingembre.",
-      "question": "Ce soir, je vais préparer une poêlée de ______ avec du gingembre.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "boeuf",
-        "seiche",
-        "poulet",
-        "porc"
-      ],
-      "correct": 1,
-      "explanation": "Le mot manquant est 'seiche'. La phrase complète est 'Ce soir, je vais préparer une poêlée de seiche avec du gingembre.' - Tonight, I am going to prepare a pan-fried cuttlefish dish with ginger.",
-      "difficulty": "A2",
-      "source": "Dinner Plan",
-      "tags": [
-        "food",
-        "dinner",
-        "seafood",
-        "listening",
-        "fill-in-the-blank"
+        "listening"
       ]
     },
     {
@@ -87,8 +63,7 @@
         "weather",
         "storm",
         "nature",
-        "listening",
-        "fill-in-the-blank"
+        "listening"
       ]
     },
     {
@@ -111,8 +86,7 @@
         "gender-agreement",
         "grammar",
         "police",
-        "community",
-        "fill-in-the-blank"
+        "community"
       ]
     },
     {
@@ -160,7 +134,6 @@
         "weather",
         "snow",
         "chile",
-        "fill-in-the-blank",
         "nature"
       ]
     },
@@ -184,7 +157,6 @@
         "snow",
         "chile",
         "listening",
-        "simplified",
         "rare-events"
       ]
     },
@@ -208,7 +180,6 @@
         "france",
         "heat",
         "listening",
-        "simplified",
         "alert"
       ]
     },
@@ -322,6 +293,480 @@
         "landscape",
         "listening",
         "tourism"
+      ]
+    },
+    {
+      "id": 48,
+      "audioText": "Ce film serait parfait pour une soirée romantique au cinéma.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Ce film serait parfait pour une soirée romantique au cinéma.",
+        "Ce film serait parfait pour une soirée amusante au cinéma.",
+        "Ce film sera parfait pour une soirée romantique au cinéma.",
+        "Ce film était parfait pour une soirée romantique au cinéma."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Ce film serait parfait pour une soirée romantique au cinéma.' - This film would be perfect for a romantic evening at the cinema. Note the conditional 'serait' expressing a hypothetical or polite suggestion.",
+      "difficulty": "A2",
+      "source": "Cinema Recommendation",
+      "tags": [
+        "cinema",
+        "film",
+        "conditional",
+        "listening",
+        "romantic"
+      ]
+    },
+    {
+      "id": 49,
+      "audioText": "Quand j'avais quinze ans, j'écoutais beaucoup de musique classique avec mes parents.",
+      "question": "What did the speaker do when they were fifteen?",
+      "questionType": "comprehension",
+      "options": [
+        "They listened to a lot of classical music with their parents.",
+        "They played classical music in concerts with their family.",
+        "They studied classical music theory at school.",
+        "They bought many classical music albums for their collection."
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Quand j'avais quinze ans, j'écoutais beaucoup de musique classique avec mes parents' - When I was fifteen, I listened to a lot of classical music with my parents. 'Avais' is the imperfect tense showing a past state or condition.",
+      "difficulty": "A2",
+      "source": "Musical Memories",
+      "tags": [
+        "music",
+        "classical-music",
+        "family",
+        "memories"
+      ]
+    },
+    {
+      "id": 50,
+      "audioText": "Nous avions cours de français tous les matins à huit heures.",
+      "question": "When did the speakers have French class?",
+      "questionType": "comprehension",
+      "options": [
+        "Every morning at eight o'clock.",
+        "Every afternoon at eight o'clock.",
+        "Every evening at six o'clock.",
+        "Every morning at nine o'clock."
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Nous avions cours de français tous les matins à huit heures' - We had French class every morning at eight o'clock. 'Avions' is the imperfect tense of 'avoir' showing a repeated past action or routine.",
+      "difficulty": "A2",
+      "source": "School Schedule",
+      "tags": [
+        "education",
+        "french-class",
+        "schedule",
+        "morning"
+      ]
+    },
+    {
+      "id": 51,
+      "audioText": "L'équipe rouge suivra les règles du jeu très attentivement.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'équipe rouge suivra les règles du jeu très attentivement.",
+        "L'équipe rouge suivra les règles du jeu très rapidement.",
+        "L'équipe bleue suivra les règles du jeu très attentivement.",
+        "L'équipe rouge suivait les règles du jeu très attentivement."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'L'équipe rouge suivra les règles du jeu très attentivement.' - The red team will follow the game rules very carefully. Note the future tense 'suivra' and the distinction between 'attentivement' (carefully) and 'rapidement' (quickly).",
+      "difficulty": "A2",
+      "source": "Game Instructions",
+      "tags": [
+        "games",
+        "rules",
+        "team-sports",
+        "listening"
+      ]
+    },
+    {
+      "id": 52,
+      "audioText": "Les conseils donnés par ma grand-mère m'ont aidé à choisir ma robe de mariage.",
+      "question": "Les conseils donnés par ma grand-mère m'ont aidé à ______ ma robe de mariage.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "choisir",
+        "porter",
+        "acheter",
+        "coudre"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'choisir'. La phrase complète est 'Les conseils donnés par ma grand-mère m'ont aidé à choisir ma robe de mariage.' - The advice given by my grandmother helped me choose my wedding dress. The past participle 'donnés' agrees with 'conseils' (masculine plural).",
+      "difficulty": "A2",
+      "source": "Wedding Preparation",
+      "tags": [
+        "clothing",
+        "wedding",
+        "family",
+        "advice"
+      ]
+    },
+    {
+      "id": 53,
+      "audioText": "Il regardait les oiseaux dans le jardin tous les matins avant le travail.",
+      "question": "What did he do every morning before work?",
+      "questionType": "comprehension",
+      "options": [
+        "He watched the birds in the garden.",
+        "He watered the plants in the garden.",
+        "He fed the cats in the neighborhood.",
+        "He read the newspaper on the balcony."
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Il regardait les oiseaux dans le jardin tous les matins avant le travail' - He watched the birds in the garden every morning before work. The imperfect tense 'regardait' shows a repeated past action or habit.",
+      "difficulty": "A2",
+      "source": "Morning Routine",
+      "tags": [
+        "nature",
+        "birds",
+        "garden",
+        "morning-routine",
+        "daily-habits"
+      ]
+    },
+    {
+      "id": 54,
+      "audioText": "J'irai à la piscine demain matin pour nager une heure.",
+      "question": "What will the speaker do tomorrow morning?",
+      "questionType": "comprehension",
+      "options": [
+        "Go to the pool to swim for an hour.",
+        "Go to the gym to exercise for an hour.",
+        "Go to the park to run for an hour.",
+        "Go to the library to study for an hour."
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'J'irai à la piscine demain matin pour nager une heure' - I will go to the pool tomorrow morning to swim for an hour. 'Irai' is the future tense of 'aller' (to go), and 'piscine' means swimming pool.",
+      "difficulty": "A2",
+      "source": "Exercise Planning",
+      "tags": [
+        "hobbies",
+        "swimming",
+        "sports",
+        "exercise"
+      ]
+    },
+    {
+      "id": 55,
+      "audioText": "Demain, je serai en vacances et très content de me reposer.",
+      "question": "Demain, je ______ en vacances et très content de me reposer.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "serai",
+        "suis",
+        "étais",
+        "serais"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'serai'. La phrase complète est 'Demain, je serai en vacances et très content de me reposer.' - Tomorrow, I will be on vacation and very happy to rest. 'Serai' is the future tense of 'être' (to be).",
+      "difficulty": "A2",
+      "source": "Vacation Planning",
+      "tags": [
+        "vacation",
+        "rest"
+      ]
+    },
+    {
+      "id": 56,
+      "audioText": "Tu dis bonjour à ta mère tous les matins.",
+      "question": "Tu ______ bonjour à ta mère tous les matins.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "dis",
+        "dit",
+        "dites",
+        "disent"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'dis'. La phrase complète est 'Tu dis bonjour à ta mère tous les matins.' - You say hello to your mother every morning. 'Dis' is the second person singular (tu) form of 'dire' (to say).",
+      "difficulty": "A1",
+      "source": "Daily Greetings",
+      "tags": [
+        "greeting",
+        "family",
+        "daily-routine",
+        "dire"
+      ]
+    },
+    {
+      "id": 57,
+      "audioText": "Je vois un chat noir dans le jardin.",
+      "question": "Je ______ un chat noir dans le jardin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "vois",
+        "voit",
+        "voyons",
+        "voient"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'vois'. La phrase complète est 'Je vois un chat noir dans le jardin.' - I see a black cat in the garden. 'Vois' is the first person singular (je) form of 'voir' (to see).",
+      "difficulty": "A1",
+      "source": "Garden Observation",
+      "tags": [
+        "animals",
+        "colors",
+        "garden",
+        "voir"
+      ]
+    },
+    {
+      "id": 58,
+      "audioText": "En été, nous prenons toujours nos vacances en juillet ou en août.",
+      "question": "En été, nous ______ toujours nos vacances en juillet ou en août.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "prenons",
+        "prendrons",
+        "avons pris",
+        "prendrions"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'prenons'. La phrase complète est 'En été, nous prenons toujours nos vacances en juillet ou en août.' - In summer, we always take our vacation in July or August. 'Prenons' is the first person plural present tense of 'prendre'.",
+      "difficulty": "A2",
+      "source": "Vacation Planning",
+      "tags": [
+        "vacation",
+        "summer",
+        "travel",
+        "prendre"
+      ]
+    },
+    {
+      "id": 59,
+      "audioText": "Nous regardons un film français avec des sous-titres pour améliorer notre compréhension.",
+      "question": "Nous ______ un film français avec des sous-titres pour améliorer notre compréhension.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "regardons",
+        "regardions",
+        "regarderons",
+        "avons regardé"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'regardons'. La phrase complète est 'Nous regardons un film français avec des sous-titres pour améliorer notre compréhension.' - We watch a French film with subtitles to improve our understanding. 'Regardons' is the first person plural present tense of 'regarder'.",
+      "difficulty": "A2",
+      "source": "Language Learning",
+      "tags": [
+        "language-learning",
+        "film",
+        "regarder",
+        "education"
+      ]
+    },
+    {
+      "id": 60,
+      "audioText": "Vous arrivez toujours à l'heure à vos rendez-vous professionnels.",
+      "question": "Vous ______ toujours à l'heure à vos rendez-vous professionnels.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "arrivez",
+        "arriviez",
+        "arriverez",
+        "êtes arrivés"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'arrivez'. La phrase complète est 'Vous arrivez toujours à l'heure à vos rendez-vous professionnels.' - You always arrive on time for your professional appointments. 'Arrivez' is the second person plural present tense of 'arriver'.",
+      "difficulty": "A2",
+      "source": "Professional Context",
+      "tags": [
+        "professional",
+        "punctuality",
+        "arriver",
+        "work"
+      ]
+    },
+    {
+      "id": 61,
+      "audioText": "Tu donneras ton cadeau d'anniversaire à ta sœur demain matin.",
+      "question": "Tu ______ ton cadeau d'anniversaire à ta sœur demain matin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "donneras",
+        "donnes",
+        "donnais",
+        "donnerais"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'donneras'. La phrase complète est 'Tu donneras ton cadeau d'anniversaire à ta sœur demain matin.' - You will give your birthday gift to your sister tomorrow morning. 'Donneras' is the second person singular future tense of 'donner'.",
+      "difficulty": "A2",
+      "source": "Family Gift Giving",
+      "tags": [
+        "family",
+        "gifts",
+        "birthday",
+        "donner"
+      ]
+    },
+    {
+      "id": 62,
+      "audioText": "Tu arriveras à la gare à huit heures pour prendre le train.",
+      "question": "Tu ______ à la gare à huit heures pour prendre le train.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "arriveras",
+        "arrives",
+        "arrivais",
+        "arriverais"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'arriveras'. La phrase complète est 'Tu arriveras à la gare à huit heures pour prendre le train.' - You will arrive at the station at eight o'clock to take the train. 'Arriveras' is the second person singular future tense of 'arriver'.",
+      "difficulty": "A2",
+      "source": "Travel Planning",
+      "tags": [
+        "transportation",
+        "trains",
+        "travel",
+        "arriver"
+      ]
+    },
+    {
+      "id": 63,
+      "audioText": "Nous attendons la récolte des pommes et des poires de Normandie en septembre.",
+      "question": "Nous ______ la récolte des pommes et des poires de Normandie en septembre.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "attendons",
+        "attendions",
+        "attendrons",
+        "avons attendu"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'attendons'. La phrase complète est 'Nous attendons la récolte des pommes et des poires de Normandie en septembre.' - We are waiting for the harvest of apples and pears from Normandy in September. 'Attendons' is the first person plural present tense of 'attendre'.",
+      "difficulty": "A2",
+      "source": "French Agriculture",
+      "tags": [
+        "agriculture",
+        "french-agriculture",
+        "normandy",
+        "harvest",
+        "fruits"
+      ]
+    },
+    {
+      "id": 64,
+      "audioText": "Tu ______ cette chose rouge ?",
+      "question": "Tu ______ cette chose rouge ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aimes",
+        "aimer",
+        "aimez",
+        "aimons"
+      ],
+      "correct": 0,
+      "explanation": "With 'tu' (you), we use 'aimes' - the second person singular form of 'aimer'. The phrase 'cette chose rouge' means 'this red thing'. This tests the conjugation of 'aimer' (to like/love) with the important noun 'chose' (thing).",
+      "difficulty": "A1",
+      "source": "Basic preference expression with color adjective",
+      "tags": [
+        "basic-vocabulary",
+        "colors",
+        "preferences",
+        "daily-life"
+      ]
+    },
+    {
+      "id": 65,
+      "audioText": "Mon chien ______ aux autres animaux du parc.",
+      "question": "Mon chien ______ aux autres animaux du parc.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "parle",
+        "parles",
+        "parlons",
+        "parlez"
+      ],
+      "correct": 0,
+      "explanation": "With 'mon chien' (my dog), we use 'parle' - the third person singular form of 'parler' (to talk/speak). The phrase means 'My dog talks to the other animals in the park.' This tests the conjugation of 'parler' with animal vocabulary.",
+      "difficulty": "A2",
+      "source": "Basic animal behavior description with anthropomorphism",
+      "tags": [
+        "parler",
+        "verb-conjugation",
+        "animals",
+        "daily-life",
+        "pets",
+        "park",
+        "basic-vocabulary"
+      ]
+    },
+    {
+      "id": 66,
+      "audioText": "Vous ______ toujours la télévision ensemble le soir.",
+      "question": "Vous ______ toujours la télévision ensemble le soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "regardiez",
+        "regardez",
+        "regardions",
+        "regardaient"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'regardiez' (you used to watch). This is the imperfect form used with 'vous' to describe a habitual action in the past. The sentence means 'You always used to watch television together in the evening.'",
+      "difficulty": "A2",
+      "source": "Family evening routine memories",
+      "tags": [
+        "family",
+        "television",
+        "evening",
+        "memories",
+        "routine",
+        "nostalgia",
+        "entertainment"
+      ]
+    },
+    {
+      "id": 67,
+      "audioText": "Les oiseaux ______ chanter le matin.",
+      "question": "Les oiseaux ______ chanter le matin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aiment",
+        "aime",
+        "aimez",
+        "aimons"
+      ],
+      "correct": 0,
+      "explanation": "With 'les oiseaux' (the birds), we use 'aiment' - the third person plural form of 'aimer' (to like/love). The sentence means 'The birds like to sing in the morning.'",
+      "difficulty": "A1",
+      "source": "Basic nature observation about bird behavior",
+      "tags": [
+        "birds",
+        "nature",
+        "morning",
+        "animals",
+        "singing",
+        "daily-life"
+      ]
+    },
+    {
+      "id": 68,
+      "audioText": "Macron ______ souvent à la télévision française.",
+      "question": "Macron ______ souvent à la télévision française.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "passe",
+        "passes",
+        "passez",
+        "passons"
+      ],
+      "correct": 0,
+      "explanation": "With 'Macron' (third person singular), we use 'passe' - the third person singular form of 'passer' (to appear/to be on). The sentence means 'Macron often appears on French television.'",
+      "difficulty": "A1",
+      "source": "Contemporary French political media coverage",
+      "tags": [
+        "france",
+        "television",
+        "media",
+        "politics",
+        "current-events",
+        "government",
+        "president"
       ]
     }
   ]

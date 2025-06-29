@@ -199,7 +199,6 @@
         "healthcare",
         "policy",
         "listening",
-        "exact-comprehension",
         "has-simplified-version"
       ]
     },
@@ -269,8 +268,7 @@
         "weather",
         "geography",
         "forecast",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -295,8 +293,7 @@
         "venice",
         "money",
         "PR",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -435,8 +432,6 @@
         "elections",
         "participation",
         "listening",
-        "exact-comprehension",
-        "simplified",
         "template-enabled"
       ]
     },
@@ -483,9 +478,7 @@
         "reality-tv",
         "separation",
         "internet",
-        "listening",
-        "exact-comprehension",
-        "simplified"
+        "listening"
       ]
     },
     {
@@ -509,81 +502,73 @@
         "geography",
         "forecast",
         "listening",
-        "exact-comprehension",
         "basic-vocabulary"
       ]
     },
     {
       "id": 22,
-      "audioTemplate": "En {timeperiod}, ces {fooditem} ont perdu {amount} de leur {nutrient}.",
+      "audioText": "En vingt ans, ces céréales ont perdu la moitié de leur sucre.",
+      "audioTemplate": "En {timeperiod}, ces {fooditem} ont {loss_verb} {amount} de leur sucre.",
       "templateVariables": {
         "timeperiod": {
           "options": [
             "vingt ans",
-            "dix ans",
-            "quinze ans",
-            "cinq ans"
+            "deux décennies",
+            "20 années"
           ],
           "weights": [
-            0.4,
-            0.3,
-            0.2,
-            0.1
+            0.6,
+            0.25,
+            0.15
           ]
         },
         "fooditem": {
           "options": [
             "céréales",
-            "biscuits",
-            "yaourts",
-            "sodas"
+            "produits céréaliers",
+            "aliments transformés"
           ],
           "weights": [
-            0.4,
+            0.6,
             0.25,
+            0.15
+          ]
+        },
+        "loss_verb": {
+          "options": [
+            "ont perdu",
+            "ont fait perdre",
+            "se sont vus retirer"
+          ],
+          "weights": [
+            0.6,
             0.25,
-            0.1
+            0.15
           ]
         },
         "amount": {
           "options": [
             "la moitié",
-            "un tiers",
-            "un quart",
-            "les trois quarts"
+            "50%",
+            "une grande partie"
           ],
           "weights": [
-            0.4,
-            0.3,
-            0.2,
-            0.1
-          ]
-        },
-        "nutrient": {
-          "options": [
-            "sucre",
-            "sel",
-            "gras",
-            "calories"
-          ],
-          "weights": [
-            0.5,
-            0.2,
-            0.2,
-            0.1
+            0.6,
+            0.25,
+            0.15
           ]
         }
       },
-      "question": "What happened to these food products over the specified time period?",
+      "question": "What happened to these cereals over twenty years?",
       "questionType": "comprehension",
       "options": [
-        "They lost half their sugar over twenty years.",
-        "They doubled their salt content over ten years.",
-        "They lost a third of their fat over fifteen years.",
-        "They gained more calories over five years."
+        "They lost half their sugar.",
+        "They lost half their salt.",
+        "They lost all their sugar.",
+        "They doubled their sugar content."
       ],
       "correct": 0,
-      "explanation": "The sentence says 'En vingt ans, ces céréales ont perdu la moitié de leur sucre' – Over twenty years, these cereals lost half their sugar.",
+      "explanation": "The sentence describes how cereals 'ont perdu la moitié de leur sucre' – lost half their sugar over a twenty-year period. All template variations maintain this core meaning with different wordings.",
       "difficulty": "A2",
       "source": "Nutrition News",
       "tags": [
@@ -639,8 +624,7 @@
         "law",
         "punishment",
         "fraud",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -688,7 +672,6 @@
         "daily-life",
         "transportation",
         "prendre",
-        "verb-conjugation",
         "study-strategies"
       ]
     },
@@ -826,8 +809,7 @@
         "planning",
         "prévoir",
         "future-perfect",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -850,9 +832,7 @@
         "healthcare",
         "policy",
         "prevention",
-        "listening",
-        "exact-comprehension",
-        "simplified"
+        "listening"
       ]
     },
     {
@@ -875,9 +855,7 @@
         "crime",
         "legal-system",
         "mental-health",
-        "listening",
-        "exact-comprehension",
-        "simplified"
+        "listening"
       ]
     },
     {

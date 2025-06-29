@@ -44,8 +44,7 @@
         "irony",
         "gentrification",
         "nostalgia",
-        "bobos",
-        "authentic-french"
+        "bobos"
       ]
     },
     {
@@ -68,8 +67,6 @@
         "culture",
         "society",
         "listening",
-        "exact-comprehension",
-        "simplified",
         "gentrification"
       ]
     },
@@ -118,7 +115,6 @@
         "riots",
         "banlieues",
         "listening",
-        "exact-comprehension",
         "has-comprehension-version"
       ]
     },
@@ -168,8 +164,6 @@
         "extremism",
         "legal",
         "listening",
-        "exact-comprehension",
-        "simplified",
         "has-comprehension-version"
       ]
     },
@@ -311,8 +305,7 @@
       "tags": [
         "politics",
         "economy",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -337,7 +330,6 @@
         "judiciary",
         "supreme-court",
         "listening",
-        "exact-comprehension",
         "news"
       ]
     },
@@ -362,8 +354,7 @@
         "medical-deserts",
         "penalties",
         "doctors",
-        "reaction",
-        "C1"
+        "reaction"
       ]
     },
     {
@@ -388,8 +379,7 @@
         "medical-deserts",
         "penalties",
         "doctors",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -464,8 +454,7 @@
         "delays",
         "storm",
         "scandal",
-        "relief",
-        "C1"
+        "relief"
       ]
     },
     {
@@ -484,12 +473,10 @@
       "difficulty": "C1",
       "source": "Formal News - Investigation Results",
       "tags": [
-        "fill-in-the-blank",
         "recevoir",
         "participe-passé",
         "news",
-        "investigation",
-        "C1"
+        "investigation"
       ]
     },
     {
@@ -535,7 +522,6 @@
         "daily-life",
         "conditional",
         "household-vocabulary",
-        "verb-conjugation",
         "planning"
       ]
     },
@@ -581,7 +567,6 @@
       "tags": [
         "environmental-law",
         "industrial-contamination",
-        "viendra",
         "judicial-expertise",
         "corporate-responsibility",
         "health-scandal"
@@ -633,6 +618,257 @@
         "literary-theory",
         "cultural-analysis",
         "edward-said"
+      ]
+    },
+    {
+      "id": 124,
+      "audioText": "Quand je regardais ces archives napoléoniennes au musée, je réalisais combien les propagandes d'époque avaient façonné la perception publique. Ces documents révèlent l'écart entre la réalité historique et les mythes patriotiques construits par le régime impérial pour légitimer ses ambitions expansionnistes en Europe.",
+      "question": "What realization did the speaker have while examining the Napoleonic archives?",
+      "questionType": "comprehension",
+      "options": [
+        "They realized how period propaganda had shaped public perception and the gap between historical reality and patriotic myths",
+        "They discovered that Napoleon's military strategies were more sophisticated than previously thought",
+        "They found evidence that contradicted established historical timelines of the imperial period",
+        "They understood that French museums had been deliberately hiding controversial documents"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'je réalisais combien les propagandes d'époque avaient façonné la perception publique' - they realized how much period propaganda had shaped public perception. The archives revealed 'l'écart entre la réalité historique et les mythes patriotiques' - the gap between historical reality and patriotic myths constructed by the imperial regime to legitimize its expansionist ambitions.",
+      "difficulty": "C1",
+      "source": "Museum Historical Research",
+      "tags": [
+        "history",
+        "napoleon",
+        "propaganda",
+        "archives",
+        "museum",
+        "imperial-period",
+        "historical-analysis"
+      ]
+    },
+    {
+      "id": 125,
+      "audioText": "Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens. L'analyse stylistique révèle des influences clairement méditerranéennes dans les progressions d'accords, particulièrement dans les mouvements lents où la mélodie adopte des ornementations typiques de l'école napolitaine.",
+      "question": "What would a musicologist never believe about Bach's composition according to this analysis?",
+      "questionType": "comprehension",
+      "options": [
+        "That Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries",
+        "That Bach deliberately avoided Italian influences in his compositional style",
+        "That Bach was the first composer to use Mediterranean harmonic progressions",
+        "That Bach's slow movements were inferior to those of the Neapolitan school"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens' - A musicologist would never believe that Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries. The stylistic analysis reveals clear Mediterranean influences.",
+      "difficulty": "C1",
+      "source": "Academic Music History",
+      "tags": [
+        "music-history",
+        "bach",
+        "musicology",
+        "italian-influences",
+        "harmonic-analysis",
+        "academic-discourse"
+      ]
+    },
+    {
+      "id": 126,
+      "audioText": "Il est essentiel que j'aie terminé cette présentation stratégique avant la réunion avec le conseil d'administration. Cette analyse comparative des marchés émergents déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives.",
+      "question": "Why is it essential for the speaker to complete their strategic presentation?",
+      "questionType": "comprehension",
+      "options": [
+        "It will determine competitive positioning for the next three years and directly influence investment decisions in disruptive technologies",
+        "It contains confidential information that must be presented to government regulators",
+        "It will help them secure a promotion to a senior management position",
+        "It includes financial projections that are required for the annual audit"
+      ],
+      "correct": 0,
+      "explanation": "The speaker states that this comparative analysis of emerging markets 'déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives' - will determine our competitive positioning for the next three years and directly influence our investment decisions in disruptive technologies. Note the subjunctive 'aie' in 'il est essentiel que j'aie terminé' expressing necessity.",
+      "difficulty": "C1",
+      "source": "Corporate Strategy Meeting",
+      "tags": [
+        "career",
+        "business-strategy",
+        "board-meeting",
+        "competitive-analysis",
+        "subjunctive",
+        "corporate-presentation"
+      ]
+    },
+    {
+      "id": 127,
+      "audioText": "L'ambassadeur croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels entre nos nations. Il arguait que cette bureaucratie excessive entravait non seulement le tourisme mais également les collaborations académiques et scientifiques essentielles au développement de partenariats diplomatiques durables.",
+      "question": "What was the ambassador's belief about current visa restrictions and their broader impact?",
+      "questionType": "comprehension",
+      "options": [
+        "They seriously compromised intercultural exchanges and hindered tourism, academic collaborations, and diplomatic partnerships",
+        "They were necessary for national security despite some inconvenience to international travelers",
+        "They primarily affected business travelers while having minimal impact on cultural and academic exchanges",
+        "They should be further strengthened to prevent illegal immigration and protect domestic interests"
+      ],
+      "correct": 0,
+      "explanation": "The ambassador 'croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels' - firmly believed that current visa restrictions seriously compromised intercultural exchanges. He argued that this excessive bureaucracy hindered not only tourism but also academic and scientific collaborations essential for developing lasting diplomatic partnerships.",
+      "difficulty": "C1",
+      "source": "Diplomatic Relations",
+      "tags": [
+        "international-travel",
+        "diplomacy",
+        "visa-policy",
+        "intercultural-exchange",
+        "academic-collaboration",
+        "bureaucracy"
+      ]
+    },
+    {
+      "id": 128,
+      "audioText": "Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse poststructuraliste particulièrement percutante. Cette méthodologie épistémologique révolutionnaire interroge fondamentalement les présupposés idéologiques sous-jacents aux dispositifs de gouvernance supranationaux et aux mécanismes d'hégémonie culturelle perpétués par les institutions académiques traditionnelles.",
+      "question": "What methodological approach was used to challenge neoliberal economic paradigms at this interdisciplinary conference?",
+      "questionType": "comprehension",
+      "options": [
+        "A revolutionary epistemological methodology using poststructuralist analysis that fundamentally questions ideological assumptions",
+        "A classical Marxist framework analyzing class struggles within contemporary capitalism",
+        "A phenomenological approach examining lived experiences of economic inequality",
+        "A quantitative econometric model demonstrating the inefficiency of neoliberal policies"
+      ],
+      "correct": 0,
+      "explanation": "The text describes 'une méthodologie épistémologique révolutionnaire' using 'une analyse poststructuraliste' - a revolutionary epistemological methodology using poststructuralist analysis. This approach 'interroge fondamentalement les présupposés idéologiques' - fundamentally questions ideological assumptions underlying supranational governance and cultural hegemony. Note 'viens' in 'tu viens d'assister' indicates recent completion.",
+      "difficulty": "C2",
+      "source": "Academic Conference on Geopolitics",
+      "tags": [
+        "academic-discourse",
+        "geopolitics",
+        "poststructuralism",
+        "epistemology",
+        "neoliberalism",
+        "cultural-hegemony",
+        "interdisciplinary-research"
+      ]
+    },
+    {
+      "id": 129,
+      "audioText": "Ce soir, je vais préparer une poêlée de seiche avec du gingembre.",
+      "question": "Ce soir, je vais préparer une poêlée de ______ avec du gingembre.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "boeuf",
+        "seiche",
+        "poulet",
+        "porc"
+      ],
+      "correct": 1,
+      "explanation": "Le mot manquant est 'seiche'. La phrase complète est 'Ce soir, je vais préparer une poêlée de seiche avec du gingembre.' - Tonight, I am going to prepare a pan-fried cuttlefish dish with ginger. This question tests advanced culinary vocabulary: 'seiche' (cuttlefish) is specialized marine terminology, 'poêlée' refers to a sophisticated pan-frying cooking technique, and 'gingembre' (ginger) is advanced spice vocabulary appropriate for C1-level learners.",
+      "difficulty": "C1",
+      "source": "Advanced Culinary Vocabulary",
+      "tags": [
+        "food",
+        "culinary-techniques",
+        "seafood",
+        "advanced-vocabulary",
+        "gourmet-cooking"
+      ]
+    },
+    {
+      "id": 130,
+      "audioText": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
+      "question": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "faisait",
+        "ferait",
+        "avait fait",
+        "fait"
+      ],
+      "correct": 0,
+      "explanation": "In this complex psychological analysis, 'faisait' (imperfect of 'faire') is correct because it describes a habitual or ongoing state in the past. The expression 'faire preuve de' means 'to show/demonstrate'. The imperfect captures the enduring nature of the father's emotional rigidity as part of his character, rather than a single action.",
+      "difficulty": "C2",
+      "source": "Academic psychoanalytic discourse on intergenerational trauma",
+      "tags": [
+        "faire",
+        "psychoanalysis",
+        "family",
+        "academic-discourse",
+        "advanced-vocabulary",
+        "intergenerational-trauma",
+        "emotions",
+        "historical-analysis"
+      ]
+    },
+    {
+      "id": 131,
+      "audioText": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
+      "question": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "arrivées",
+        "arrivée",
+        "arrivés",
+        "arrivé"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'arrivées' - the feminine plural past participle agreeing with 'les déléguées diplomatiques' (the female diplomatic delegates). The past participle must agree in gender and number with the subject when used with être or in absolute constructions.",
+      "difficulty": "C2",
+      "source": "High-level diplomatic summit coverage",
+      "tags": [
+        "diplomacy",
+        "negotiations",
+        "geopolitics",
+        "international-relations",
+        "balkans",
+        "geneva",
+        "summit",
+        "politics"
+      ]
+    },
+    {
+      "id": 132,
+      "audioText": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
+      "question": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sauriez",
+        "savez",
+        "saviez",
+        "saurez"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question. This form expresses a courteous inquiry about capability or knowledge. The question asks master bakers if they could analyze the organoleptic subtleties of naturally fermented sourdough.",
+      "difficulty": "C2",
+      "source": "Advanced artisanal bakery master class discourse",
+      "tags": [
+        "bread",
+        "culinary-arts",
+        "artisanal",
+        "french-heritage",
+        "gastronomy",
+        "professional",
+        "traditional-crafts",
+        "cultural-heritage"
+      ]
+    },
+    {
+      "id": 133,
+      "audioText": "Les sociologues contemporains ______ que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
+      "question": "Les sociologues contemporains ______ que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "croient",
+        "croit",
+        "croyez",
+        "croyons"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'croient' - the third person plural form of 'croire' (to believe). This form agrees with 'les sociologues contemporains' (contemporary sociologists). The sentence discusses sociological analysis of socioeconomic inequality and structural changes in French society.",
+      "difficulty": "C2",
+      "source": "Advanced sociological analysis of contemporary French social dynamics",
+      "tags": [
+        "social-issues",
+        "sociology",
+        "inequality",
+        "economics",
+        "digitalization",
+        "employment",
+        "society",
+        "academia",
+        "analysis",
+        "france"
       ]
     }
   ]

@@ -20,8 +20,7 @@
         "protest",
         "politics",
         "academic-freedom",
-        "soutenir",
-        "verb-conjugation"
+        "soutenir"
       ]
     },
     {
@@ -45,8 +44,6 @@
         "support",
         "politics",
         "listening",
-        "exact-comprehension",
-        "simplified",
         "soutenir"
       ]
     },
@@ -92,8 +89,7 @@
         "food",
         "restaurant",
         "salad",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -138,8 +134,7 @@
         "food",
         "lunch",
         "salad",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -184,8 +179,7 @@
         "food",
         "dinner",
         "seafood",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -270,7 +264,6 @@
         "restaurant",
         "chicken",
         "listening",
-        "exact-comprehension",
         "decision",
         "template-enabled"
       ]
@@ -296,7 +289,6 @@
         "strikes",
         "SNCF",
         "news",
-        "fill-in-the-blank",
         "B1"
       ]
     },
@@ -320,8 +312,7 @@
         "unemployment",
         "statistics",
         "employment",
-        "economic-indicators",
-        "fill-in-the-blank"
+        "economic-indicators"
       ]
     },
     {
@@ -348,7 +339,6 @@
         "vocabulary",
         "millennium",
         "listening",
-        "exact-comprehension",
         "poetry"
       ]
     },
@@ -374,7 +364,6 @@
         "economic-crisis",
         "resources",
         "expressions",
-        "fill-in-the-blank",
         "B1"
       ]
     },
@@ -400,7 +389,6 @@
         "bad-luck",
         "emotions",
         "idiomatic",
-        "fill-in-the-blank",
         "B1"
       ]
     },
@@ -449,7 +437,6 @@
         "digital-transformation",
         "strategy",
         "challenges",
-        "défi",
         "listening",
         "professional"
       ]
@@ -497,7 +484,6 @@
         "international-news",
         "drugs",
         "listening",
-        "simplified",
         "authorities"
       ]
     },
@@ -519,7 +505,6 @@
       "tags": [
         "international-news",
         "drugs",
-        "fill-in-the-blank",
         "vocabulary",
         "authorities"
       ]
@@ -590,7 +575,6 @@
         "weather",
         "france",
         "alert-levels",
-        "fill-in-the-blank",
         "heat-wave"
       ]
     },
@@ -641,8 +625,7 @@
         "medical-deserts",
         "penalties",
         "doctors",
-        "listening",
-        "exact-comprehension"
+        "listening"
       ]
     },
     {
@@ -663,7 +646,6 @@
       "tags": [
         "grammar",
         "job-interview",
-        "verbs",
         "certainty"
       ]
     },
@@ -686,7 +668,6 @@
         "travel",
         "prendrai",
         "listening",
-        "exact-comprehension",
         "trains",
         "planning"
       ]
@@ -731,10 +712,7 @@
       "source": "Summer Plans",
       "tags": [
         "vacation",
-        "pensais",
-        "imperfect-tense",
         "listening",
-        "exact-comprehension",
         "plans",
         "work"
       ]
@@ -758,7 +736,6 @@
         "travel",
         "conditional-tense",
         "listening",
-        "exact-comprehension",
         "money",
         "japan"
       ]
@@ -831,7 +808,6 @@
         "conditional-tense",
         "donnerais",
         "listening",
-        "exact-comprehension",
         "family",
         "jewelry"
       ]
@@ -856,9 +832,354 @@
         "office",
         "software",
         "listening",
-        "exact-comprehension",
         "technology",
         "installation"
+      ]
+    },
+    {
+      "id": 233,
+      "audioText": "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.",
+      "parentQuestion": 126,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.",
+        "Il faut que j'ai terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.",
+        "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain soir. Cette présentation déterminera ma promotion cette année.",
+        "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion l'année prochaine."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.' Les distracteurs testent la conjugaison du subjonctif (aie/ai), le moment (matin/soir) et la période (cette année/l'année prochaine). Noter l'usage du subjonctif passé 'aie terminé' après 'il faut que'.",
+      "difficulty": "B2",
+      "source": "Work Presentation - Listening",
+      "tags": [
+        "career",
+        "work",
+        "presentation",
+        "promotion",
+        "subjunctive",
+        "listening"
+      ]
+    },
+    {
+      "id": 234,
+      "audioText": "Ma copine trouvait que notre relation manquait de communication depuis quelques mois. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Ma copine trouvait que notre relation manquait de communication depuis quelques mois. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.",
+        "Ma copine trouvait que notre relation manquait de communication depuis quelques semaines. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.",
+        "Ma copine trouvait que notre relation manquait de communication depuis quelques mois. Elle pensait qu'on devait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.",
+        "Ma copine trouvait que notre relation manquait de confiance depuis quelques mois. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Ma copine trouvait que notre relation manquait de communication depuis quelques mois. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.' Les distracteurs testent la durée (mois/semaines), le mode (devrait/devait), et le concept (communication/confiance).",
+      "difficulty": "B2",
+      "source": "Relationship Discussion",
+      "tags": [
+        "dating",
+        "relationships",
+        "communication",
+        "listening"
+      ]
+    },
+    {
+      "id": 235,
+      "audioText": "Nous suivons actuellement un cours d'histoire sur la Révolution française. Le professeur explique les causes économiques et sociales de cette période importante.",
+      "question": "Nous ______ actuellement un cours d'histoire sur la Révolution française.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "suivons",
+        "suivrons",
+        "suivions",
+        "suivrions"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'suivons'. La phrase complète est 'Nous suivons actuellement un cours d'histoire sur la Révolution française.' - We are currently following/taking a history course on the French Revolution. Le présent 'suivons' indique une action en cours, renforcé par 'actuellement'.",
+      "difficulty": "B1",
+      "source": "University History Course",
+      "tags": [
+        "history",
+        "education",
+        "french-revolution",
+        "suivre"
+      ]
+    },
+    {
+      "id": 236,
+      "audioText": "Quand tu es en voyage en Italie, tu découvres toujours de nouveaux endroits magnifiques et des spécialités locales authentiques. Les petites villes historiques offrent une expérience culturelle unique que tu n'oublies jamais.",
+      "question": "What does the speaker say about traveling in Italy?",
+      "questionType": "comprehension",
+      "options": [
+        "When you travel there, you always discover magnificent new places and authentic local specialties in historic towns",
+        "When you travel there, you should stick to the main tourist attractions to avoid getting lost",
+        "When you travel there, you mainly visit modern cities and contemporary art galleries",
+        "When you travel there, you prefer staying in large hotels rather than exploring small towns"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Quand tu es en voyage en Italie, tu découvres toujours de nouveaux endroits magnifiques et des spécialités locales authentiques' - When you are traveling in Italy, you always discover magnificent new places and authentic local specialties. The historic small towns offer a unique cultural experience that you never forget. Note the use of 'es' (second person singular of être) in the travel context.",
+      "difficulty": "B1",
+      "source": "Italian Travel Experience",
+      "tags": [
+        "travel",
+        "italy",
+        "cultural-experience",
+        "historic-towns",
+        "local-cuisine",
+        "tourism"
+      ]
+    },
+    {
+      "id": 237,
+      "audioText": "Quand tu auras visité tous les pays scandinaves, tu comprendras mieux les différences géopolitiques entre la Suède, la Norvège et le Danemark. Ces nations nordiques partagent des héritages culturels similaires mais maintiennent des politiques économiques distinctes au sein de l'Union européenne.",
+      "question": "What will the addressee understand after visiting all Scandinavian countries?",
+      "questionType": "comprehension",
+      "options": [
+        "The geopolitical differences between Sweden, Norway, and Denmark, despite their shared cultural heritage",
+        "The similarities in economic policies among all Nordic nations within the European Union",
+        "The reasons why all Scandinavian countries use the same currency and trade agreements",
+        "The historical conflicts that continue to divide these three nations politically today"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Quand tu auras visité tous les pays scandinaves, tu comprendras mieux les différences géopolitiques entre la Suède, la Norvège et le Danemark' - When you will have visited all Scandinavian countries, you will better understand the geopolitical differences between Sweden, Norway, and Denmark. Despite sharing similar cultural heritage, they maintain distinct economic policies within the European Union. Note the future perfect 'auras' indicating completion before understanding occurs.",
+      "difficulty": "B2",
+      "source": "Scandinavian Geopolitics",
+      "tags": [
+        "european-geography",
+        "scandinavia",
+        "geopolitics",
+        "cultural-heritage",
+        "economic-policy",
+        "future-perfect"
+      ]
+    },
+    {
+      "id": 238,
+      "audioText": "En donnant des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.",
+      "question": "En ______ des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "donnant",
+        "donnait",
+        "donne",
+        "donnerait"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'donnant'. La phrase complète est 'En donnant des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.' - By giving French lessons to refugees, she discovers the importance of intercultural education. 'Donnant' is the present participle of 'donner', used after 'en' to express simultaneity or manner of action.",
+      "difficulty": "B1",
+      "source": "Social Education",
+      "tags": [
+        "education",
+        "social-issues",
+        "refugees",
+        "donner",
+        "present-participle",
+        "intercultural-exchange"
+      ]
+    },
+    {
+      "id": 239,
+      "audioText": "Les touristes regardaient les monuments historiques avec leurs guides pendant la visite de la vieille ville.",
+      "question": "Les touristes ______ les monuments historiques avec leurs guides pendant la visite de la vieille ville.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "regardaient",
+        "regardent",
+        "regarderont",
+        "ont regardé"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'regardaient'. La phrase complète est 'Les touristes regardaient les monuments historiques avec leurs guides pendant la visite de la vieille ville.' - The tourists were looking at the historical monuments with their guides during the visit of the old town. 'Regardaient' is the third person plural imperfect tense of 'regarder', expressing an ongoing past action.",
+      "difficulty": "B1",
+      "source": "Tourism",
+      "tags": [
+        "tourism",
+        "travel",
+        "history",
+        "monuments",
+        "regarder"
+      ]
+    },
+    {
+      "id": 240,
+      "audioText": "Si tu avais plus de temps libre, tu laisserais ton travail pour voyager autour du monde.",
+      "question": "Si tu avais plus de temps libre, tu ______ ton travail pour voyager autour du monde.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "laisserais",
+        "laisses",
+        "laissais",
+        "as laissé"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'laisserais'. La phrase complète est 'Si tu avais plus de temps libre, tu laisserais ton travail pour voyager autour du monde.' - If you had more free time, you would leave your job to travel around the world. 'Laisserais' is the second person singular conditional tense of 'laisser', used in hypothetical situations.",
+      "difficulty": "B1",
+      "source": "Career Dreams",
+      "tags": [
+        "career",
+        "travel",
+        "work",
+        "dreams",
+        "laisser",
+        "conditional-tense"
+      ]
+    },
+    {
+      "id": 241,
+      "audioText": "Quand je visitais Tokyo l'année dernière, je trouvais les jardins japonais absolument magnifiques et très apaisants.",
+      "question": "Quand je visitais Tokyo l'année dernière, je ______ les jardins japonais absolument magnifiques et très apaisants.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "trouvais",
+        "trouve",
+        "trouverai",
+        "ai trouvé"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'trouvais'. La phrase complète est 'Quand je visitais Tokyo l'année dernière, je trouvais les jardins japonais absolument magnifiques et très apaisants.' - When I was visiting Tokyo last year, I found the Japanese gardens absolutely magnificent and very soothing. 'Trouvais' is the first person singular imperfect tense of 'trouver', expressing a repeated or ongoing past sentiment.",
+      "difficulty": "B1",
+      "source": "Tokyo Travel Experience",
+      "tags": [
+        "travel",
+        "travel-experiences",
+        "tokyo",
+        "japan",
+        "gardens",
+        "cultural-experience",
+        "trouver"
+      ]
+    },
+    {
+      "id": 242,
+      "audioText": "Le moment magique arriva quand la violoniste joua sa première mélodie sur son Stradivarius dans la salle de concert.",
+      "question": "Le moment magique ______ quand la violoniste joua sa première mélodie sur son Stradivarius dans la salle de concert.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "arriva",
+        "arrive",
+        "arrivait",
+        "est arrivé"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'arriva'. La phrase complète est 'Le moment magique arriva quand la violoniste joua sa première mélodie sur son Stradivarius dans la salle de concert.' - The magical moment arrived when the violinist played her first melody on her Stradivarius in the concert hall. 'Arriva' is the passé simple (literary past tense) of 'arriver', used for completed actions in formal or literary contexts.",
+      "difficulty": "B1",
+      "source": "Classical Music Concert",
+      "tags": [
+        "music",
+        "musical-instruments",
+        "violin",
+        "stradivarius",
+        "concert",
+        "classical-music",
+        "arriver",
+        "passé-simple"
+      ]
+    },
+    {
+      "id": 243,
+      "audioText": "Les chercheurs de cinq universités européennes ______ collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
+      "question": "Les chercheurs de cinq universités européennes ______ collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "viennent",
+        "venez",
+        "viens",
+        "venons"
+      ],
+      "correct": 0,
+      "explanation": "With 'les chercheurs' (the researchers), we use 'viennent' - the third person plural form of 'venir'. The expression 'venir collaborer' means 'to come to collaborate' or 'are coming to collaborate'. This tests the conjugation of 'venir' in an academic collaboration context.",
+      "difficulty": "B1",
+      "source": "International academic research collaboration announcement",
+      "tags": [
+        "venir",
+        "verb-conjugation",
+        "academic-collaboration",
+        "university",
+        "research",
+        "international",
+        "technology",
+        "interdisciplinary-research",
+        "europe"
+      ]
+    },
+    {
+      "id": 244,
+      "audioText": "Les collectivités locales donneront plus de moyens aux écoles rurales pour réduire les inégalités éducatives dans notre région.",
+      "question": "What will local authorities do to address educational inequality?",
+      "questionType": "comprehension",
+      "options": [
+        "Provide more resources to rural schools",
+        "Close small village schools",
+        "Increase transportation to urban schools",
+        "Reduce funding for city schools"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Les collectivités locales donneront plus de moyens aux écoles rurales' (Local authorities will give more resources to rural schools) to reduce educational inequalities in the region.",
+      "difficulty": "B1",
+      "source": "Regional education policy announcement",
+      "tags": [
+        "education",
+        "rural",
+        "policy",
+        "equality",
+        "government",
+        "community",
+        "schools",
+        "resources"
+      ]
+    },
+    {
+      "id": 245,
+      "audioText": "En tant qu'agriculteurs biologiques, vous ______ attention aux cycles naturels et aux méthodes durables pour préserver la biodiversité.",
+      "question": "En tant qu'agriculteurs biologiques, vous ______ attention aux cycles naturels et aux méthodes durables pour préserver la biodiversité.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "faites",
+        "fait",
+        "font",
+        "fais"
+      ],
+      "correct": 0,
+      "explanation": "With 'vous' (you), we use 'faites' - the second person plural form of 'faire'. The expression 'faire attention' means 'to pay attention'. The sentence discusses organic farming practices and environmental sustainability.",
+      "difficulty": "B1",
+      "source": "Sustainable agriculture and environmental farming practices",
+      "tags": [
+        "agriculture",
+        "environment",
+        "sustainability",
+        "biodiversity",
+        "farming",
+        "organic",
+        "nature",
+        "professional"
+      ]
+    },
+    {
+      "id": 246,
+      "audioText": "Quand j'étais enfant, je ______ toujours aider ma grand-mère à préparer les confitures maison avec les fruits de son jardin potager, apprenant ainsi les techniques traditionnelles de conservation culinaire transmises de génération en génération.",
+      "question": "Quand j'étais enfant, je ______ toujours aider ma grand-mère à préparer les confitures maison avec les fruits de son jardin potager, apprenant ainsi les techniques traditionnelles de conservation culinaire transmises de génération en génération.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "voulais",
+        "veux",
+        "voulez",
+        "voulons"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'voulais' - the first person singular imperfect form of 'vouloir' (to want). The imperfect is used because this describes a repeated desire or habit in the past ('always wanted'). The sentence recalls childhood memories of wanting to help grandmother make homemade jams.",
+      "difficulty": "B2",
+      "source": "Childhood memories of traditional French home cooking",
+      "tags": [
+        "cooking",
+        "family",
+        "childhood",
+        "traditions",
+        "grandmother",
+        "memories",
+        "homemade",
+        "fruits",
+        "garden",
+        "heritage"
       ]
     }
   ]
