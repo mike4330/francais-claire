@@ -1532,7 +1532,7 @@
         }
 
         function selectOption(index) {
-            console.log('🖱️ USER CLICKED ANSWER BUTTON - Index:', index);
+            debugLog(3, '🖱️ USER CLICKED ANSWER BUTTON - Index:', index);
             if (answered) {
                 console.log('⚠️ Question already answered, ignoring click');
                 return;
@@ -1560,12 +1560,12 @@
             });
             
             // Always call submitAnswer for both correct and incorrect answers
-            console.log('🎯 About to call submitAnswer() for:', isCorrect ? 'CORRECT' : 'INCORRECT', 'answer');
+            debugLog(3, '🎯 About to call submitAnswer() for:', isCorrect ? 'CORRECT' : 'INCORRECT', 'answer');
             submitAnswer();
         }
 
         function submitAnswer() {
-            console.log('🚀 SUBMIT ANSWER CALLED');
+            debugLog(3, '🚀 SUBMIT ANSWER CALLED');
             if (selectedAnswer === null || answered) return;
             
             answered = true;

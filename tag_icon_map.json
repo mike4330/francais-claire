@@ -1,8 +1,13 @@
 {
   "weather": "🌦️",
-  "food": "🍽️",
+  "food": "🍞",
   "crime": "👮",
   "religion": "⛪",
   "education": "🎓",
-  "vacation": "🏖️"
+  "vacation": "🏖️",
+  "travel": "✈️",
+  "family": "👨‍👩‍👧‍👦",
+  "news": "📰",
+  "healthcare": "🏥",
+  "restaurant": "🍴"
 } 

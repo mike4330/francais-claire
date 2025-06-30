@@ -18,7 +18,7 @@ This app bridges the gap between classroom French and the linguistic reality of 
 ## ✨ Features
 
 ### 🎧 Professional Audio Synthesis
-- **AWS Polly Integration**: High-quality neural French voices (Céline, Mathieu, Léa)
+- **AWS Polly Integration**: High-quality neural French voices (Léa, Rémi)
 - **Browser TTS Fallback**: Works without AWS credentials
 - **Variable Speed Control**: 0.75x, 1x, 1.25x playback speeds
 - **SSML Support**: Enhanced speech synthesis for supported content
@@ -153,6 +153,30 @@ Questions with `audioTemplate` field generate semantic variations:
 - Storage: Base64-encoded MP3 data in Redis
 - Expiration: 30 days for audio files, 60 minutes for template variations
 - Fallback: Direct Polly synthesis on cache miss
+
+### Question Tracking & Data Retention
+The app tracks detailed performance analytics with automatic expiration:
+
+#### Individual Question Responses
+- **Retention**: 90 days
+- **Purpose**: Detailed response tracking (response time, correctness, timestamps)
+- **Key Format**: `response:{uuid}:{questionId}:{timestamp}`
+
+#### User Question Performance
+- **Retention**: 1 year
+- **Purpose**: Per-user, per-question statistics for CEFR level progress
+- **Key Format**: `user_question:{uuid}:{questionId}`
+- **Used For**: 70% mastery threshold calculations in student dashboard
+
+#### Global Question Statistics
+- **Retention**: 1 year
+- **Purpose**: Overall question analytics (success rates, average response times)
+- **Key Format**: `question_stats:{questionId}`
+
+#### Template Variations
+- **Retention**: 60 minutes (in-memory cache)
+- **Purpose**: Generated content variations during study sessions
+- **Behavior**: Auto-regenerates after expiry for content freshness
 
 ### Question Bank Format
 ```json

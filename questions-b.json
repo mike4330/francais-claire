@@ -1245,7 +1245,7 @@
         "sont arrivés"
       ],
       "correct": 0,
-      "explanation": "Le mot manquant est 'arrivaient'. La phrase complète est 'Pendant les vacances d'été, mes cousins arrivaient toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.' - During summer vacation, my cousins always used to arrive at our house on Sunday morning with their suitcases and gifts. 'Arrivaient' is the imperfect tense expressing repeated past actions.",
+      "explanation": "Le mot manquant est 'arrivaient' (imperfect tense). Several clues indicate this: 1) 'Pendant les vacances d'été' sets a recurring past timeframe, 2) 'toujours' (always) signals habitual action, and 3) 'le dimanche matin' describes a weekly routine. The imperfect tense expresses ongoing, repeated, or habitual past actions - perfect for childhood memories and family traditions. Why other options fail: 'arrivent' (present) doesn't match the past context, 'arriveront' (future) is wrong timeframe, and 'sont arrivés' (passé composé) indicates completed actions, which sounds unnatural with 'toujours' for repeated events. The complete sentence: 'Pendant les vacances d'été, mes cousins arrivaient toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.' - During summer vacations, my cousins always used to arrive at our house on Sunday morning with their suitcases and gifts.",
       "difficulty": "B1",
       "source": "Family Summer Memories",
       "tags": [
@@ -1741,8 +1741,7 @@
         "conflict-resolution",
         "communication",
         "professional-relationships",
-        "present-tense",
-        "attendre"
+        "present-tense"
       ],
       "timeCreated": 1751217041
     },
@@ -1788,7 +1787,13 @@
       "explanation": "The correct form is 'je savais' - first person singular imperfect of 'savoir' (I knew). This highly frequent form was missing from our conjugation coverage and is essential for expressing past knowledge.",
       "difficulty": "B1",
       "source": "Conversation about prior knowledge and expectations",
-      "tags": ["listening", "savoir", "past-knowledge", "conditional", "exact-comprehension"],
+      "tags": [
+        "listening",
+        "savoir",
+        "past-knowledge",
+        "conditional",
+        "exact-comprehension"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1806,7 +1811,14 @@
       "explanation": "The correct form is 'est passée' - feminine past participle agreement with 'la semaine'. The form 'passée' was identified as missing from our coverage despite being very common in time expressions.",
       "difficulty": "B2",
       "source": "Time perception and weekly reflection",
-      "tags": ["listening", "passer", "time", "past-participle", "agreement", "exact-comprehension"],
+      "tags": [
+        "listening",
+        "passer",
+        "time",
+        "past-participle",
+        "agreement",
+        "exact-comprehension"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1824,7 +1836,14 @@
       "explanation": "The correct form is 'j'ai pensé' - past participle of 'penser' in passé composé (I thought about). The form 'pensé' was missing from our coverage despite being essential for expressing completed mental actions.",
       "difficulty": "B2",
       "source": "Reflection on past conversations",
-      "tags": ["listening", "penser", "reflection", "past-participle", "conversation", "exact-comprehension"],
+      "tags": [
+        "listening",
+        "penser",
+        "reflection",
+        "past-participle",
+        "conversation",
+        "exact-comprehension"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1842,7 +1861,14 @@
       "explanation": "The correct form is 'même' (same) - a very high-frequency adjective that was completely missing from our question bank. Note the circumflex accent on the 'e'.",
       "difficulty": "B1",
       "source": "Comparison with neighbors and possessions",
-      "tags": ["listening", "même", "comparison", "neighbors", "possessions", "exact-comprehension"],
+      "tags": [
+        "listening",
+        "même",
+        "comparison",
+        "neighbors",
+        "possessions",
+        "exact-comprehension"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1860,7 +1886,14 @@
       "explanation": "The correct form is 'juste' (just/fair/accurate) - a high-frequency adjective missing from our coverage. Here it means 'accurate' or 'correct' in the context of an analysis.",
       "difficulty": "B2",
       "source": "Professional feedback and evaluation",
-      "tags": ["listening", "juste", "analysis", "professional", "evaluation", "exact-comprehension"],
+      "tags": [
+        "listening",
+        "juste",
+        "analysis",
+        "professional",
+        "evaluation",
+        "exact-comprehension"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1878,7 +1911,15 @@
       "explanation": "The correct form is 'première' (first) - feminine form agreeing with 'fois' (time). The adjective 'premier/première' was completely missing from our question bank despite being very frequent.",
       "difficulty": "B1",
       "source": "Travel experience and discovery",
-      "tags": ["listening", "premier", "première", "travel", "experience", "gender-agreement", "exact-comprehension"],
+      "tags": [
+        "listening",
+        "premier",
+        "première",
+        "travel",
+        "experience",
+        "gender-agreement",
+        "exact-comprehension"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1934,6 +1975,80 @@
         "atmosphere"
       ],
       "timeCreated": 1751219400
+    },
+    {
+      "id": 279,
+      "audioText": "D'importants feux de forêt se sont déclenchés dimanche 29 juin 2025 dans l'Aude. Un massif montagneux des Corbières est en proie aux flammes et un camping a été évacué par précaution à Bizanet.",
+      "question": "What happened in the Aude region on Sunday, June 29th, 2025?",
+      "questionType": "comprehension",
+      "options": [
+        "Major forest fires broke out and a camping site was evacuated as a precaution",
+        "A mountain rescue operation was conducted in the Corbières",
+        "A camping festival was canceled due to bad weather",
+        "An archaeological discovery was made in the mountainous region"
+      ],
+      "correct": 0,
+      "explanation": "The text states that 'D'importants feux de forêt se sont déclenchés' (major forest fires broke out) in Aude, affecting the mountainous Corbières region, and 'un camping a été évacué par précaution' (a camping site was evacuated as a precaution) in Bizanet.",
+      "difficulty": "B2",
+      "source": "News Report - Forest Fires",
+      "tags": [
+        "news",
+        "forest-fires",
+        "emergency",
+        "evacuation",
+        "natural-disasters"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 280,
+      "audioText": "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau.",
+      "question": "What is significant about the new Nice-Marseille train service?",
+      "questionType": "comprehension",
+      "options": [
+        "It is France's first private TER service operated by a Franco-German company",
+        "It is the fastest train connection ever built in southern France",
+        "It is the first international train service between France and Germany",
+        "It is a new high-speed rail line replacing older infrastructure"
+      ],
+      "correct": 0,
+      "explanation": "The text states this is 'le premier TER privé en France' (France's first private TER service) operated by 'la compagnie franco-allemande Transdev' (the Franco-German company Transdev), representing a significant change from traditional public rail services.",
+      "difficulty": "B2",
+      "source": "Transportation News",
+      "tags": [
+        "transportation",
+        "news",
+        "train-service",
+        "privatization",
+        "regional-transport"
+      ],
+      "timeCreated": 1704067260
+    },
+    {
+      "id": 281,
+      "audioText": "La politique du nouveau gouvernement américain a \"réveillé l'Europe\", estime le ministre français de l'Économie. Il a évoqué, dans une interview, les conséquences des mesures hostiles en matière d'armement, de défense et de protection des intérêts commerciaux.",
+      "question": "According to the French Economy Minister, what effect has the new American government's policy had?",
+      "questionType": "comprehension",
+      "options": [
+        "It has \"awakened Europe\" and led to discussions about hostile measures affecting defense and trade",
+        "It has strengthened the economic partnership between Europe and America",
+        "It has caused European markets to collapse due to trade uncertainty",
+        "It has encouraged greater military cooperation between European nations"
+      ],
+      "correct": 0,
+      "explanation": "The minister states that American policy has 'réveillé l'Europe' (awakened Europe) and discusses 'les conséquences des mesures hostiles' (consequences of hostile measures) affecting 'armement, de défense et de protection des intérêts commerciaux' (armament, defense, and protection of commercial interests). This indicates a wake-up call for Europe to address American policies affecting their strategic and economic interests.",
+      "difficulty": "B2",
+      "source": "Political News - European-American Relations",
+      "tags": [
+        "politics",
+        "international-relations",
+        "economics",
+        "european-union",
+        "trade-policy",
+        "defense",
+        "government"
+      ],
+      "timeCreated": 1704067320
     }
   ]
 }

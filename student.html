@@ -288,16 +288,23 @@
             transition: all 0.3s ease;
             position: relative;
             overflow: hidden;
+            cursor: pointer;
         }
         
         .level-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.15);
+            transform: translateY(-5px);
+            box-shadow: 0 12px 35px rgba(102, 126, 234, 0.25);
+            border-color: #667eea;
         }
         
         .level-card.completed {
             border-color: #28a745;
             background: linear-gradient(135deg, #d4edda 0%, #fff 100%);
+        }
+        
+        .level-card.completed:hover {
+            border-color: #20c997;
+            box-shadow: 0 12px 35px rgba(40, 167, 69, 0.25);
         }
         
         .level-title {
@@ -874,8 +881,14 @@
                 const completedClass = progress.isCompleted ? 'completed' : '';
                 const progressBarClass = progress.isCompleted ? 'completed' : '';
 
+                // Find the best question to start with for this level
+                const nextQuestionId = findBestQuestionForLevel(level);
+                const clickAction = nextQuestionId ? `launchQuizWithLevel('${level}', ${nextQuestionId})` : '';
+                const clickableClass = nextQuestionId ? 'clickable' : '';
+                const clickHint = nextQuestionId ? `<div style="font-size: 0.9em; color: #667eea; margin-top: 8px; font-weight: 500;">🚀 Click to practice!</div>` : '';
+
                 html += `
-                    <div class="level-card ${completedClass}">
+                    <div class="level-card ${completedClass} ${clickableClass}" ${clickAction ? `onclick="${clickAction}"` : ''} ${clickAction ? `title="Click to start practicing ${level} level questions"` : ''}>
                         ${masteryBadge}
                         <div class="level-title level-${level}">${level}</div>
                         <div style="font-size: 1.1em; color: #6c757d; margin-bottom: 10px;">
@@ -894,12 +907,127 @@
                                 `Need 70%+ success rate on all questions` : 
                                 'No questions available yet'
                             }
+                            ${clickHint}
                         </div>
                     </div>
                 `;
             });
 
             grid.innerHTML = html;
+        }
+
+        // Find the best question to start practicing for a given level
+        function findBestQuestionForLevel(level) {
+            const questionsInLevel = allQuestionsData[level] || [];
+            if (questionsInLevel.length === 0) {
+                console.log(`[DEBUG-2] 🚫 No questions available for level ${level}`);
+                return null;
+            }
+
+            // Get current user performance data
+            const currentPerformanceData = currentData || [];
+            
+            console.log(`[DEBUG-2] 🎯 Finding best question for level ${level}:`);
+            console.log(`[DEBUG-2]    📊 Total questions in level: ${questionsInLevel.length}`);
+            console.log(`[DEBUG-2]    📈 User has performance data for: ${currentPerformanceData.length} questions`);
+            
+            // Priority 1: Find questions never attempted
+            const unattemptedQuestions = questionsInLevel.filter(question => {
+                return !currentPerformanceData.find(p => p.questionId === question.id);
+            });
+            
+            if (unattemptedQuestions.length > 0) {
+                const selectedQuestionId = Math.min(...unattemptedQuestions.map(q => q.id));
+                console.log(`[DEBUG-2] ✨ PRIORITY 1: Found ${unattemptedQuestions.length} unattempted questions`);
+                console.log(`[DEBUG-2]    🎲 Selected question ${selectedQuestionId} (lowest ID of unattempted)`);
+                console.log(`[DEBUG-2]    📝 Reason: Student has never attempted this question - perfect for new learning`);
+                return selectedQuestionId;
+            }
+            
+            // Priority 2: Find questions with success rate below 70%
+            const needsPracticeQuestions = questionsInLevel.filter(question => {
+                const performance = currentPerformanceData.find(p => p.questionId === question.id);
+                return performance && performance.successRate < 70;
+            }).sort((a, b) => {
+                // Sort by lowest success rate first, then by question ID
+                const perfA = currentPerformanceData.find(p => p.questionId === a.id);
+                const perfB = currentPerformanceData.find(p => p.questionId === b.id);
+                const rateA = perfA ? perfA.successRate : 0;
+                const rateB = perfB ? perfB.successRate : 0;
+                
+                if (rateA !== rateB) {
+                    return rateA - rateB; // Lowest success rate first
+                }
+                return a.id - b.id; // Then by ID
+            });
+            
+            if (needsPracticeQuestions.length > 0) {
+                const selectedQuestion = needsPracticeQuestions[0];
+                const performance = currentPerformanceData.find(p => p.questionId === selectedQuestion.id);
+                console.log(`[DEBUG-2] 📈 PRIORITY 2: Found ${needsPracticeQuestions.length} questions needing practice (<70% success)`);
+                console.log(`[DEBUG-2]    📉 Selected question ${selectedQuestion.id} with ${performance.successRate}% success rate`);
+                console.log(`[DEBUG-2]    💪 Reason: Student struggling with this question - targeted practice needed`);
+                console.log(`[DEBUG-2]    📋 Attempts: ${performance.attempts}, Last tried: ${new Date(performance.lastAttempted).toLocaleDateString()}`);
+                return selectedQuestion.id;
+            }
+            
+            // Priority 3: If all questions are mastered, return the first question for review
+            const selectedQuestionId = Math.min(...questionsInLevel.map(q => q.id));
+            const masteredCount = questionsInLevel.filter(question => {
+                const performance = currentPerformanceData.find(p => p.questionId === question.id);
+                return performance && performance.successRate >= 70;
+            }).length;
+            
+            console.log(`[DEBUG-2] 🏆 PRIORITY 3: All questions mastered or attempted with good success rates`);
+            console.log(`[DEBUG-2]    ✅ ${masteredCount}/${questionsInLevel.length} questions mastered (≥70% success)`);
+            console.log(`[DEBUG-2]    🔄 Selected question ${selectedQuestionId} (lowest ID) for review practice`);
+            console.log(`[DEBUG-2]    📚 Reason: Maintaining mastery through spaced repetition`);
+            
+            return selectedQuestionId;
+        }
+
+        // Launch the quiz with a specific level and question
+        function launchQuizWithLevel(level, questionId) {
+            console.log(`[DEBUG-2] 🚀 Launching practice session for level ${level} with question ${questionId}`);
+            
+            // Create a nice visual feedback
+            const levelCard = event.currentTarget;
+            levelCard.style.transform = 'scale(0.95)';
+            levelCard.style.opacity = '0.8';
+            
+            setTimeout(() => {
+                // Show a brief notification
+                const notification = document.createElement('div');
+                notification.innerHTML = `🚀 Launching ${level} practice session...`;
+                notification.style.cssText = `
+                    position: fixed;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    background: linear-gradient(45deg, #667eea, #764ba2);
+                    color: white;
+                    padding: 20px 30px;
+                    border-radius: 12px;
+                    font-size: 1.2em;
+                    font-weight: bold;
+                    z-index: 1000;
+                    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+                    text-align: center;
+                `;
+                document.body.appendChild(notification);
+                
+                console.log(`[DEBUG-2] 🎯 Redirecting to main app: french_listening_app.html?start=${questionId}`);
+                console.log(`[DEBUG-2] 📖 Student will start with an intelligently selected question for optimal learning`);
+                
+                setTimeout(() => {
+                    // Navigate to the main app with the specific question
+                    window.location.href = `french_listening_app.html?start=${questionId}`;
+                }, 800);
+                
+                setTimeout(() => {
+                    document.body.removeChild(notification);
+                }, 1500);
+            }, 150);
         }
 
         function renderOverallProgressSummary(levelProgress) {
