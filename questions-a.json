@@ -1378,6 +1378,78 @@
         "musical-instruments"
       ],
       "timeCreated": 1751219400
+    },
+    {
+      "id": 94,
+      "audioText": "L'examen sera facile demain.",
+      "question": "L'examen sera ______ demain.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "facile",
+        "difficile", 
+        "long",
+        "court"
+      ],
+      "correct": 0,
+      "explanation": "The sentence means 'The exam will be easy tomorrow.' The adjective 'facile' (easy) fits the context perfectly. Note the future tense 'sera' (will be) from the verb être.",
+      "difficulty": "A1",
+      "source": "School Life",
+      "tags": [
+        "education",
+        "future-tense",
+        "adjectives",
+        "exams",
+        "school"
+      ],
+      "timeCreated": 1751300456
+    },
+    {
+      "id": 95,
+      "audioText": "Le café est de ce côté.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le café est de ce côté.",
+        "Le café est de ce coté.",
+        "Le café est de se côté.",
+        "Le café est du ce côté."
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase heard was 'Le café est de ce côté.' - The café is on this side. Note the pronunciation of 'côté' (side) and the preposition 'de ce' (on this).",
+      "difficulty": "A1",
+      "source": "Directions - Daily Life",
+      "tags": [
+        "directions",
+        "location",
+        "daily-life",
+        "prepositions",
+        "listening"
+      ],
+      "timeCreated": 1751301025
+    },
+    {
+      "id": 96,
+      "audioText": "Il mange très peu le matin.",
+      "question": "What does the text say about his morning eating habits?",
+      "questionType": "comprehension",
+      "options": [
+        "He eats very little in the morning",
+        "He eats a lot in the morning",
+        "He never eats in the morning",
+        "He eats normally in the morning"
+      ],
+      "correct": 0,
+      "explanation": "The sentence states 'Il mange très peu le matin' - He eats very little in the morning. The word 'peu' means 'little' or 'few', and 'très peu' means 'very little'.",
+      "difficulty": "A2",
+      "source": "Daily Habits",
+      "tags": [
+        "daily-life",
+        "food",
+        "habits",
+        "quantity",
+        "adverbs"
+      ],
+      "timeCreated": 1751301366
     }
   ]
 }

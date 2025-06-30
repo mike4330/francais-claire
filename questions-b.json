@@ -2049,6 +2049,55 @@
         "government"
       ],
       "timeCreated": 1704067320
+    },
+    {
+      "id": 282,
+      "audioText": "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours respectées.",
+      "question": "Why are French hairdressers protesting in Paris today?",
+      "questionType": "comprehension",
+      "options": [
+        "To denounce unfair competition from certain barbers with cut-rate prices and disregarded regulations",
+        "To demand higher wages and better working conditions for salon employees",
+        "To protest against new government regulations on hair salon licensing",
+        "To support their union's strike for reduced working hours"
+      ],
+      "correct": 0,
+      "explanation": "The hairdressers are protesting 'pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers' (to denounce the unfair competition exercised, according to them, by certain barbers). The issues cited are 'des prix coupés au rasoir' (razor-cut prices/cut-rate prices) and 'des règles pas toujours respectées' (rules not always respected).",
+      "difficulty": "B2",
+      "source": "Professional Trade News",
+      "tags": [
+        "business",
+        "protest",
+        "professional-services",
+        "competition",
+        "regulations",
+        "trade-disputes"
+      ],
+      "timeCreated": 1751299778
+    },
+    {
+      "id": 283,
+      "audioText": "Les deux parties ont signé un accord commercial important.",
+      "question": "Les deux parties ont signé un ______ commercial important.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "accord",
+        "accès",
+        "accueil",
+        "accès"
+      ],
+      "correct": 0,
+      "explanation": "The sentence means 'The two parties signed an important commercial agreement.' The word 'accord' means agreement or accord. This is a common term in business and political contexts.",
+      "difficulty": "B1",
+      "source": "Business News",
+      "tags": [
+        "business",
+        "agreements",
+        "commerce",
+        "negotiations",
+        "formal-language"
+      ],
+      "timeCreated": 1751301389
     }
   ]
 }
