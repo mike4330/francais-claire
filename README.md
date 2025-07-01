@@ -61,6 +61,27 @@ Questions can include semantic variations to prevent memorization:
 - **Answer Randomization**: Fisher-Yates shuffle prevents pattern memorization
 - **Settings Persistence**: localStorage for user preferences
 
+### 🎯 Intelligent Question Selection
+The student dashboard (`student.html`) implements a sophisticated algorithm to select optimal practice questions:
+
+#### **3-Tier Priority System**
+1. **Priority 1 - New Learning**: Selects unattempted questions (lowest ID first)
+   - Reasoning: "Student has never attempted this question - perfect for new learning"
+
+2. **Priority 2 - Targeted Practice**: Focuses on questions with <70% success rate
+   - Sorts by lowest success rate first, then by question ID
+   - Reasoning: "Student struggling with this question - targeted practice needed"
+
+3. **Priority 3 - Mastery Review**: When all questions are mastered (≥70% success)
+   - Returns lowest ID for spaced repetition review
+   - Reasoning: "Maintaining mastery through spaced repetition"
+
+#### **CEFR Level Launch**
+- **Clickable Level Cards**: Each CEFR level (A1-C2) launches with intelligently selected question
+- **Performance Analysis**: Real-time evaluation of user success rates and attempt history
+- **URL Parameter Passing**: Launches main app with `?start={questionId}` for seamless transitions
+- **Visual Feedback**: Animated level cards with progress indicators and launch hints
+
 ## 🚀 Quick Start
 
 ### Prerequisites
