@@ -196,7 +196,6 @@
       "tags": [
         "restaurant",
         "service",
-        "conditional",
         "politeness"
       ]
     },
@@ -305,7 +304,6 @@
       "tags": [
         "cinema",
         "film",
-        "conditional",
         "romantic"
       ]
     },
@@ -1015,7 +1013,6 @@
       "tags": [
         "shopping",
         "food",
-        "peu",
         "bread",
         "dinner",
         "daily-life"
@@ -1040,7 +1037,6 @@
       "tags": [
         "family",
         "siblings",
-        "an",
         "behavior",
         "kindness",
         "year",
@@ -1149,7 +1145,6 @@
         "moment",
         "friendship",
         "shared-activities",
-        "listening",
         "near-future"
       ],
       "timeCreated": 1751217041
@@ -1170,11 +1165,9 @@
       "difficulty": "A2",
       "source": "Daily conversation about family thoughts",
       "tags": [
-        "listening",
         "penser",
         "family",
-        "daily-life",
-        "exact-comprehension"
+        "daily-life"
       ],
       "timeCreated": 1704067200
     },
@@ -1190,16 +1183,14 @@
         "Mon père parlons français très bien."
       ],
       "correct": 0,
-      "explanation": "The correct form is 'parlait' - imperfect tense of 'parler' (was speaking/used to speak). This conjugation was identified as missing despite being highly frequent in storytelling and past descriptions.",
+      "explanation": "The correct sentence is 'Mon père parlait français très bien.' - My father spoke French very well. The correct form is 'parlait' - imperfect tense of 'parler' (was speaking/used to speak). This conjugation was identified as missing despite being highly frequent in storytelling and past descriptions.",
       "difficulty": "A2",
       "source": "Family description and past abilities",
       "tags": [
-        "listening",
         "parler",
         "family",
         "past-tense",
-        "imperfect",
-        "exact-comprehension"
+        "imperfect"
       ],
       "timeCreated": 1704067200
     },
@@ -1219,13 +1210,11 @@
       "difficulty": "A2",
       "source": "Childhood memories and preferences",
       "tags": [
-        "listening",
         "aimer",
         "childhood",
         "food",
         "past-tense",
-        "imperfect",
-        "exact-comprehension"
+        "imperfect"
       ],
       "timeCreated": 1704067200
     },
@@ -1245,11 +1234,8 @@
       "difficulty": "A2",
       "source": "Daily conversation about certainty",
       "tags": [
-        "listening",
         "sûr",
-        "certainty",
-        "exact-comprehension",
-        "accent-marks"
+        "certainty"
       ],
       "timeCreated": 1704067200
     },
@@ -1269,12 +1255,10 @@
       "difficulty": "A2",
       "source": "Weather conversation and agreement",
       "tags": [
-        "listening",
         "vrai",
         "beau",
         "weather",
-        "agreement",
-        "exact-comprehension"
+        "agreement"
       ],
       "timeCreated": 1704067200
     },
@@ -1290,16 +1274,14 @@
         "Mon frère est soul à la maison ce soir."
       ],
       "correct": 0,
-      "explanation": "The correct form is 'seul' (alone/only) - masculine form agreeing with 'mon frère' (my brother). This high-frequency adjective was completely missing from our question bank.",
+      "explanation": "The correct sentence is 'Mon frère est seul à la maison ce soir.' - My brother is alone at home tonight. The adjective 'seul' means alone or by himself, and it takes the masculine form to agree with 'mon frère' (my brother).",
       "difficulty": "A2",
       "source": "Family and home situation",
       "tags": [
-        "listening",
         "seul",
         "family",
         "home",
-        "gender-agreement",
-        "exact-comprehension"
+        "gender-agreement"
       ],
       "timeCreated": 1704067200
     },
@@ -1346,7 +1328,6 @@
       "tags": [
         "shopping",
         "grocery",
-        "argent",
         "money",
         "food",
         "bread",
@@ -1386,7 +1367,7 @@
       "questionType": "fill-in-the-blank",
       "options": [
         "facile",
-        "difficile", 
+        "difficile",
         "long",
         "court"
       ],
@@ -1422,8 +1403,7 @@
         "directions",
         "location",
         "daily-life",
-        "prepositions",
-        "listening"
+        "prepositions"
       ],
       "timeCreated": 1751301025
     },
@@ -1446,10 +1426,154 @@
         "daily-life",
         "food",
         "habits",
-        "quantity",
-        "adverbs"
+        "quantity"
       ],
       "timeCreated": 1751301366
+    },
+    {
+      "id": 97,
+      "audioText": "Quoi ? Tu as mal à la tête ?",
+      "question": "What is the person asking about?",
+      "questionType": "comprehension",
+      "options": [
+        "If someone has a headache",
+        "If someone is tired",
+        "If someone is hungry",
+        "If someone is cold"
+      ],
+      "correct": 0,
+      "explanation": "The person says 'Quoi ? Tu as mal à la tête ?' - What? You have a headache? The word 'quoi' is an exclamation meaning 'what?' and 'mal à la tête' means headache.",
+      "difficulty": "A2",
+      "source": "Health - Daily Conversation",
+      "tags": [
+        "healthcare",
+        "symptoms",
+        "body-parts",
+        "daily-conversation",
+        "exclamations"
+      ],
+      "timeCreated": 1751325549
+    },
+    {
+      "id": 98,
+      "audioText": "Il est fou de football.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Il est fou de football.",
+        "Il est fou du football.",
+        "Il est faux de football.",
+        "Il est fou de foot-ball."
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Il est fou de football.' - He is crazy about football. The expression 'être fou de' means to be crazy about or passionate about something.",
+      "difficulty": "A1",
+      "source": "Sports - Personal Interests",
+      "tags": [
+        "sports",
+        "football",
+        "hobbies",
+        "emotions",
+        "expressions"
+      ],
+      "timeCreated": 1751325597
+    },
+    {
+      "id": 99,
+      "audioText": "Vous alliez souvent au parc avec vos amis.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Vous alliez souvent au parc avec vos amis.",
+        "Vous allez souvent au parc avec vos amis.",
+        "Vous aimez souvent au parc avec vos amis.",
+        "Vous alliez souvent au park avec vos amis."
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Vous alliez souvent au parc avec vos amis.' - You used to go often to the park with your friends. The imperfect 'alliez' indicates a repeated past action.",
+      "difficulty": "A2",
+      "source": "Leisure Activities",
+      "tags": [
+        "leisure",
+        "friendship",
+        "parks",
+        "imperfect-tense",
+        "past-habits"
+      ],
+      "timeCreated": 1751325911
+    },
+    {
+      "id": 100,
+      "audioText": "J'ai mal au dos.",
+      "question": "J'ai ______ au dos.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "mal",
+        "bien",
+        "froid",
+        "chaud"
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'J'ai mal au dos' means 'I have back pain' or 'My back hurts.' The noun 'mal' means pain or ache when used with 'avoir mal à'.",
+      "difficulty": "A1",
+      "source": "Health - Body Pain",
+      "tags": [
+        "healthcare",
+        "body-parts",
+        "pain",
+        "symptoms",
+        "back"
+      ],
+      "timeCreated": 1751326234
+    },
+    {
+      "id": 101,
+      "audioText": "Je veux ma part du gâteau.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Je veux ma part du gâteau.",
+        "Je veux ma par du gâteau.",
+        "Je veux ma parte du gâteau.",
+        "Je veux ma parte de gâteau."
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Je veux ma part du gâteau.' - I want my share/piece of the cake. The word 'part' means share or portion, and 'du' is the contraction of 'de le'.",
+      "difficulty": "A2",
+      "source": "Food Sharing",
+      "tags": [
+        "food",
+        "sharing",
+        "cake",
+        "possession",
+        "portions"
+      ],
+      "timeCreated": 1751326308
+    },
+    {
+      "id": 102,
+      "audioText": "La lune brille dans le ciel nocturne.",
+      "question": "What does the text say about the moon?",
+      "questionType": "comprehension",
+      "options": [
+        "The moon shines in the night sky",
+        "The moon is hiding behind clouds",
+        "The moon is very far from Earth",
+        "The moon appears during the day"
+      ],
+      "correct": 0,
+      "explanation": "The sentence 'La lune brille dans le ciel nocturne' means 'The moon shines in the night sky.' This introduces basic astronomy vocabulary: 'lune' (moon), 'brille' (shines), 'ciel' (sky), and 'nocturne' (night/nighttime).",
+      "difficulty": "A2",
+      "source": "Popular Science - Astronomy",
+      "tags": [
+        "astronomy",
+        "space",
+        "moon",
+        "night",
+        "sky",
+        "science"
+      ],
+      "timeCreated": 1751331355
     }
   ]
 }

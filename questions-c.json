@@ -514,7 +514,6 @@
       "source": "Daily Life Scenarios",
       "tags": [
         "daily-life",
-        "conditional",
         "household-vocabulary",
         "planning"
       ]
@@ -965,7 +964,6 @@
         "international-relations",
         "multilateral-negotiations",
         "regional-stability",
-        "conditional",
         "arriver",
         "crisis-analysis"
       ],
@@ -992,7 +990,6 @@
         "coup",
         "digital-infrastructure",
         "national-security",
-        "conditional",
         "dire"
       ],
       "timeCreated": 1735500702
@@ -1091,7 +1088,13 @@
       "explanation": "The correct form is 'elle aimait' - third person singular imperfect of 'aimer' (she loved/used to love). This form was missing from our conjugation coverage despite being frequent in literary and biographical contexts.",
       "difficulty": "C1",
       "source": "Literary discussion and cultural preferences",
-      "tags": ["listening", "aimer", "literature", "culture", "19th-century", "authors", "exact-comprehension"],
+      "tags": [
+        "aimer",
+        "literature",
+        "culture",
+        "19th-century",
+        "authors"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1109,7 +1112,13 @@
       "explanation": "The correct form is 'vous voyez' - second person plural present of 'voir' (you see). This form was identified as missing from our coverage despite being highly frequent in formal discourse and academic discussions.",
       "difficulty": "C2",
       "source": "Academic discussion on social and economic policy",
-      "tags": ["listening", "voir", "socio-economics", "policy", "academic", "formal-discourse", "exact-comprehension"],
+      "tags": [
+        "voir",
+        "socio-economics",
+        "policy",
+        "academic",
+        "formal-discourse"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1127,7 +1136,15 @@
       "explanation": "The text states that the happiest populations ('heureuses') are not those with material wealth, but those who benefit from strong social bonds, collective security, and deep cultural harmony. The adjective 'heureux/heureuses' was completely missing from our question bank.",
       "difficulty": "C1",
       "source": "Sociological research on happiness and well-being",
-      "tags": ["comprehension", "heureux", "sociology", "happiness", "social-bonds", "well-being", "materialism"],
+      "tags": [
+        "comprehension",
+        "heureux",
+        "sociology",
+        "happiness",
+        "social-bonds",
+        "well-being",
+        "materialism"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1145,7 +1162,15 @@
       "explanation": "The economist argues that austerity policies imposed on the poorest nations ('pauvres') are a deliberate neoliberal strategy to maintain structural inequalities and economic dependence. The adjective 'pauvre/pauvres' was missing from our question bank despite being high-frequency.",
       "difficulty": "C2",
       "source": "Economic theory and global policy analysis",
-      "tags": ["comprehension", "pauvre", "economics", "austerity", "neoliberalism", "inequality", "policy-analysis"],
+      "tags": [
+        "comprehension",
+        "pauvre",
+        "economics",
+        "austerity",
+        "neoliberalism",
+        "inequality",
+        "policy-analysis"
+      ],
       "timeCreated": 1704067200
     },
     {
@@ -1226,6 +1251,56 @@
         "epistemology"
       ],
       "timeCreated": 1751300995
+    },
+    {
+      "id": 149,
+      "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+      "question": "What criticism is being made in this statement?",
+      "questionType": "comprehension",
+      "options": [
+        "The person always said economic reforms were necessary but never proposed concrete solutions",
+        "The person never supported economic reforms and blocked all proposed changes",
+        "The person only focused on theoretical solutions without considering practical implications",
+        "The person changed their opinion about economic reforms too frequently"
+      ],
+      "correct": 0,
+      "explanation": "The statement criticizes someone who 'disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes' (always said that economic reforms were necessary, but never proposed concrete solutions). This highlights a gap between rhetoric and action.",
+      "difficulty": "C1",
+      "source": "Political Discourse",
+      "tags": [
+        "politics",
+        "economics",
+        "criticism",
+        "rhetoric",
+        "policy-analysis",
+        "contradictions"
+      ],
+      "timeCreated": 1751325934
+    },
+    {
+      "id": 150,
+      "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+      "question": "What are the consequences of this economic war according to the text?",
+      "questionType": "comprehension",
+      "options": [
+        "It has major geopolitical repercussions that transform global balance and redefine traditional strategic alliances",
+        "It primarily affects bilateral trade relationships without broader international impact",
+        "It strengthens existing military partnerships and reinforces current power structures",
+        "It leads to increased cooperation and diplomatic dialogue between the nations"
+      ],
+      "correct": 0,
+      "explanation": "The text describes an economic 'guerre' (war) that has 'répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles' (major geopolitical repercussions that transform the global balance and redefine traditional strategic alliances).",
+      "difficulty": "C1",
+      "source": "International Relations Analysis",
+      "tags": [
+        "politics",
+        "international-relations",
+        "economics",
+        "geopolitics",
+        "global-affairs",
+        "strategic-alliances"
+      ],
+      "timeCreated": 1751326285
     }
   ]
 }

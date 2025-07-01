@@ -811,7 +811,7 @@
         "J'arriverai au bureau vers neuf heures pour désinstaller le nouveau logiciel sur tous les ordinateurs."
       ],
       "correct": 0,
-      "explanation": "La phrase exacte était 'J'arriverai au bureau vers neuf heures pour installer le nouveau logiciel sur tous les ordinateurs.' Les distracteurs testent la distinction entre futur (arriverai) et imparfait (arrivais), l'heure (neuf/huit), et l'action (installer/désinstaller).",
+      "explanation": "The exact sentence was 'J'arriverai au bureau vers neuf heures pour installer le nouveau logiciel sur tous les ordinateurs.' - I will arrive at the office around nine o'clock to install the new software on all the computers. Note the future tense 'arriverai' (will arrive) and the workplace technology vocabulary.",
       "difficulty": "B1",
       "source": "Office IT Work",
       "tags": [
@@ -1524,7 +1524,6 @@
       "difficulty": "B2",
       "source": "Conditional mood practice with falloir",
       "tags": [
-        "conditional",
         "voiture",
         "necessity",
         "conjugation",
@@ -1609,7 +1608,6 @@
         "fille",
         "children",
         "family-care",
-        "conditional",
         "laisser"
       ],
       "timeCreated": 1735500648
@@ -1635,7 +1633,6 @@
         "air-quality",
         "air",
         "environment",
-        "conditional",
         "donner"
       ],
       "timeCreated": 1735500648
@@ -1788,11 +1785,8 @@
       "difficulty": "B1",
       "source": "Conversation about prior knowledge and expectations",
       "tags": [
-        "listening",
         "savoir",
-        "past-knowledge",
-        "conditional",
-        "exact-comprehension"
+        "past-knowledge"
       ],
       "timeCreated": 1704067200
     },
@@ -1812,12 +1806,10 @@
       "difficulty": "B2",
       "source": "Time perception and weekly reflection",
       "tags": [
-        "listening",
         "passer",
         "time",
         "past-participle",
-        "agreement",
-        "exact-comprehension"
+        "agreement"
       ],
       "timeCreated": 1704067200
     },
@@ -1837,12 +1829,10 @@
       "difficulty": "B2",
       "source": "Reflection on past conversations",
       "tags": [
-        "listening",
         "penser",
         "reflection",
         "past-participle",
-        "conversation",
-        "exact-comprehension"
+        "conversation"
       ],
       "timeCreated": 1704067200
     },
@@ -1862,12 +1852,10 @@
       "difficulty": "B1",
       "source": "Comparison with neighbors and possessions",
       "tags": [
-        "listening",
         "même",
         "comparison",
         "neighbors",
-        "possessions",
-        "exact-comprehension"
+        "possessions"
       ],
       "timeCreated": 1704067200
     },
@@ -1887,12 +1875,10 @@
       "difficulty": "B2",
       "source": "Professional feedback and evaluation",
       "tags": [
-        "listening",
         "juste",
         "analysis",
         "professional",
-        "evaluation",
-        "exact-comprehension"
+        "evaluation"
       ],
       "timeCreated": 1704067200
     },
@@ -1912,13 +1898,11 @@
       "difficulty": "B1",
       "source": "Travel experience and discovery",
       "tags": [
-        "listening",
         "premier",
         "première",
         "travel",
         "experience",
-        "gender-agreement",
-        "exact-comprehension"
+        "gender-agreement"
       ],
       "timeCreated": 1704067200
     },
@@ -2098,6 +2082,202 @@
         "formal-language"
       ],
       "timeCreated": 1751301389
+    },
+    {
+      "id": 284,
+      "audioText": "Mon téléphone est plein de photos et applications inutiles.",
+      "question": "Mon téléphone est ______ de photos et applications inutiles.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "plein",
+        "vide",
+        "libre",
+        "neuf"
+      ],
+      "correct": 0,
+      "explanation": "The sentence means 'My phone is full of useless photos and apps.' The adjective 'plein' means full or filled with. This is common when talking about digital storage and smartphone management.",
+      "difficulty": "B1",
+      "source": "Technology - Digital Life",
+      "tags": [
+        "technology",
+        "smartphones",
+        "digital-storage",
+        "modern-life",
+        "adjectives"
+      ],
+      "timeCreated": 1751325573
+    },
+    {
+      "id": 285,
+      "audioText": "La ville investit dans les énergies propres pour réduire la pollution et protéger l'environnement urbain.",
+      "question": "What is the city's environmental initiative focused on?",
+      "questionType": "comprehension",
+      "options": [
+        "Investing in clean energy to reduce pollution and protect the urban environment",
+        "Building more parks and green spaces throughout the city",
+        "Implementing stricter recycling programs for residents",
+        "Reducing traffic congestion through public transportation"
+      ],
+      "correct": 0,
+      "explanation": "The text states the city 'investit dans les énergies propres pour réduire la pollution et protéger l'environnement urbain' (invests in clean energy to reduce pollution and protect the urban environment). 'Énergies propres' means clean/renewable energy.",
+      "difficulty": "B2",
+      "source": "Environmental Policy",
+      "tags": [
+        "environment",
+        "clean-energy",
+        "pollution",
+        "urban-planning",
+        "sustainability",
+        "government-policy"
+      ],
+      "timeCreated": 1751325620
+    },
+    {
+      "id": 286,
+      "audioText": "Quand vous étiez enfants, vous aimiez les vacances d'été.",
+      "question": "Quand vous ______ enfants, vous aimiez les vacances d'été.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "étiez",
+        "êtes",
+        "aviez",
+        "serez"
+      ],
+      "correct": 0,
+      "explanation": "The sentence means 'When you were children, you loved summer vacations.' The imperfect form 'étiez' (you were) is used for ongoing past states or habitual actions in the past.",
+      "difficulty": "B1",
+      "source": "Childhood Memories",
+      "tags": [
+        "childhood",
+        "memories",
+        "imperfect-tense",
+        "vacation",
+        "past-habits"
+      ],
+      "timeCreated": 1751325867
+    },
+    {
+      "id": 287,
+      "audioText": "J'aurais aimé avoir plus de temps pour finir ce projet important.",
+      "question": "What does the speaker express about the project?",
+      "questionType": "comprehension",
+      "options": [
+        "They would have liked to have more time to finish this important project",
+        "They are happy they had enough time to complete the project successfully",
+        "They think the project was too difficult and should be cancelled",
+        "They believe they need to start the project over from the beginning"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'J'aurais aimé avoir plus de temps' - I would have liked to have more time. The conditional 'aurais' expresses a wish or regret about the past, indicating they didn't have enough time.",
+      "difficulty": "B2",
+      "source": "Work - Project Management",
+      "tags": [
+        "work",
+        "projects",
+        "conditional-mood",
+        "regret",
+        "time-management",
+        "professional"
+      ],
+      "timeCreated": 1751325892
+    },
+    {
+      "id": 288,
+      "audioText": "Le médecin a fait une analyse de sang pour vérifier sa santé.",
+      "question": "What did the doctor do to check the patient's health?",
+      "questionType": "comprehension",
+      "options": [
+        "Performed a blood test to verify their health",
+        "Took their blood pressure and heart rate",
+        "Ordered an X-ray to examine their bones",
+        "Prescribed medication for their symptoms"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Le médecin a fait une analyse de sang pour vérifier sa santé' - The doctor performed a blood analysis/test to verify their health. 'Sang' means blood and 'analyse de sang' is a blood test.",
+      "difficulty": "B1",
+      "source": "Medical Care",
+      "tags": [
+        "healthcare",
+        "medical-tests",
+        "blood",
+        "doctor-visit",
+        "health-check"
+      ],
+      "timeCreated": 1751326258
+    },
+    {
+      "id": 289,
+      "audioText": "Il s'est cassé le bras en faisant du sport.",
+      "question": "Il s'est cassé le ______ en faisant du sport.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "bras",
+        "pied",
+        "cou",
+        "genou"
+      ],
+      "correct": 0,
+      "explanation": "The sentence means 'He broke his arm while playing sports.' The word 'bras' means arm. The expression 'se casser le bras' means to break one's arm.",
+      "difficulty": "B1",
+      "source": "Sports Injuries",
+      "tags": [
+        "sports",
+        "injuries",
+        "body-parts",
+        "accidents",
+        "healthcare"
+      ],
+      "timeCreated": 1751326331
+    },
+    {
+      "id": 290,
+      "audioText": "Pour quelle raison avez-vous changé d'avis sur cette proposition importante ?",
+      "question": "What is the speaker asking about?",
+      "questionType": "comprehension",
+      "options": [
+        "For what reason they changed their mind about this important proposal",
+        "When they first heard about this important proposal",
+        "How they plan to implement this important proposal",
+        "Whether they support this important proposal"
+      ],
+      "correct": 0,
+      "explanation": "The question asks 'Pour quelle raison avez-vous changé d'avis sur cette proposition importante ?' - For what reason did you change your mind about this important proposal? The word 'raison' means reason or cause.",
+      "difficulty": "B2",
+      "source": "Decision Making",
+      "tags": [
+        "decision-making",
+        "opinions",
+        "reasoning",
+        "proposals",
+        "change-of-mind"
+      ],
+      "timeCreated": 1751326354
+    },
+    {
+      "id": 291,
+      "audioText": "La mission spatiale vers Mars a été reportée en raison de conditions météorologiques défavorables au centre de lancement spatial.",
+      "question": "Why was the Mars mission postponed?",
+      "questionType": "comprehension",
+      "options": [
+        "Due to unfavorable weather conditions at the space launch center",
+        "Because of technical problems with the spacecraft's navigation system",
+        "Due to budget cuts in the space exploration program",
+        "Because the astronauts needed additional training time"
+      ],
+      "correct": 0,
+      "explanation": "The text states the space mission to Mars 'a été reportée en raison de conditions météorologiques défavorables au centre de lancement spatial' - was postponed due to unfavorable weather conditions at the space launch center. This is typical French media coverage of space exploration.",
+      "difficulty": "B2",
+      "source": "Space News - Mission Updates",
+      "tags": [
+        "space-exploration",
+        "mars",
+        "astronomy",
+        "science",
+        "news",
+        "weather",
+        "space-missions"
+      ],
+      "timeCreated": 1751331401
     }
   ]
 }
