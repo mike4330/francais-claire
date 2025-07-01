@@ -81,7 +81,6 @@
       "source": "Neighborhood News",
       "tags": [
         "profession",
-        "gender-agreement",
         "grammar",
         "police",
         "community"
@@ -499,8 +498,7 @@
       "tags": [
         "animals",
         "colors",
-        "garden",
-        "voir"
+        "garden"
       ]
     },
     {
@@ -521,8 +519,7 @@
       "tags": [
         "vacation",
         "summer",
-        "travel",
-        "prendre"
+        "travel"
       ]
     },
     {
@@ -543,7 +540,6 @@
       "tags": [
         "language-learning",
         "film",
-        "regarder",
         "education"
       ]
     },
@@ -565,7 +561,6 @@
       "tags": [
         "professional",
         "punctuality",
-        "arriver",
         "work"
       ]
     },
@@ -587,8 +582,7 @@
       "tags": [
         "family",
         "gifts",
-        "birthday",
-        "donner"
+        "birthday"
       ]
     },
     {
@@ -609,8 +603,7 @@
       "tags": [
         "transportation",
         "trains",
-        "travel",
-        "arriver"
+        "travel"
       ]
     },
     {
@@ -674,8 +667,6 @@
       "difficulty": "A2",
       "source": "Basic animal behavior description with anthropomorphism",
       "tags": [
-        "parler",
-        "verb-conjugation",
         "animals",
         "daily-life",
         "pets",
@@ -842,8 +833,7 @@
         "work",
         "office",
         "career",
-        "father",
-        "père"
+        "father"
       ]
     },
     {
@@ -891,7 +881,6 @@
         "cars",
         "colors",
         "regions",
-        "voiture",
         "possessions"
       ]
     },
@@ -912,10 +901,7 @@
       "source": "Conjugation practice with être",
       "tags": [
         "body-parts",
-        "position",
-        "conjugation",
-        "etre",
-        "main"
+        "position"
       ],
       "timeCreated": 1735489200
     },
@@ -935,11 +921,7 @@
       "difficulty": "A2",
       "source": "Future tense practice with aller",
       "tags": [
-        "future-tense",
-        "ville",
-        "nuit",
-        "travel",
-        "conjugation"
+        "travel"
       ],
       "timeCreated": 1735489260
     },
@@ -961,10 +943,8 @@
       "tags": [
         "family",
         "time",
-        "jour",
         "importance",
         "present-tense",
-        "conjugation",
         "trouver"
       ],
       "timeCreated": 1735500648
@@ -987,11 +967,8 @@
       "tags": [
         "morning",
         "sleep",
-        "tête",
         "health",
-        "daily-life",
-        "future-tense",
-        "regarder"
+        "daily-life"
       ],
       "timeCreated": 1735500648
     },
@@ -1039,8 +1016,7 @@
         "siblings",
         "behavior",
         "kindness",
-        "year",
-        "etre"
+        "year"
       ],
       "timeCreated": 1735500702
     },
@@ -1063,7 +1039,6 @@
       "tags": [
         "cooking",
         "french-cuisine",
-        "recette",
         "cooking-techniques",
         "culinary-vocabulary",
         "time-management",
@@ -1092,8 +1067,7 @@
         "relationships",
         "emotions",
         "love",
-        "present-tense",
-        "regarder"
+        "present-tense"
       ],
       "timeCreated": 1751217041
     },
@@ -1187,7 +1161,6 @@
       "difficulty": "A2",
       "source": "Family description and past abilities",
       "tags": [
-        "parler",
         "family",
         "past-tense",
         "imperfect"
@@ -1210,7 +1183,6 @@
       "difficulty": "A2",
       "source": "Childhood memories and preferences",
       "tags": [
-        "aimer",
         "childhood",
         "food",
         "past-tense",
@@ -1234,7 +1206,6 @@
       "difficulty": "A2",
       "source": "Daily conversation about certainty",
       "tags": [
-        "sûr",
         "certainty"
       ],
       "timeCreated": 1704067200
@@ -1255,7 +1226,6 @@
       "difficulty": "A2",
       "source": "Weather conversation and agreement",
       "tags": [
-        "vrai",
         "beau",
         "weather",
         "agreement"
@@ -1278,10 +1248,8 @@
       "difficulty": "A2",
       "source": "Family and home situation",
       "tags": [
-        "seul",
         "family",
-        "home",
-        "gender-agreement"
+        "home"
       ],
       "timeCreated": 1704067200
     },
@@ -1305,8 +1273,7 @@
         "sports",
         "tennis",
         "friendship",
-        "infinitive",
-        "jouer"
+        "infinitive"
       ],
       "timeCreated": 1751219400
     },
@@ -1377,7 +1344,6 @@
       "source": "School Life",
       "tags": [
         "education",
-        "future-tense",
         "adjectives",
         "exams",
         "school"
@@ -1402,8 +1368,7 @@
       "tags": [
         "directions",
         "location",
-        "daily-life",
-        "prepositions"
+        "daily-life"
       ],
       "timeCreated": 1751301025
     },

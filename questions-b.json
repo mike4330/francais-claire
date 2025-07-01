@@ -259,8 +259,7 @@
         "food",
         "restaurant",
         "chicken",
-        "decision",
-        "template-enabled"
+        "decision"
       ]
     },
     {
@@ -657,7 +656,6 @@
       "source": "Travel Plans",
       "tags": [
         "travel",
-        "prendrai",
         "trains",
         "planning"
       ]
@@ -680,8 +678,6 @@
       "tags": [
         "education",
         "online-learning",
-        "suivre",
-        "verb-distinction",
         "duration"
       ]
     },
@@ -723,7 +719,6 @@
       "source": "Travel Dreams",
       "tags": [
         "travel",
-        "conditional-tense",
         "money",
         "japan"
       ]
@@ -746,7 +741,6 @@
       "tags": [
         "regulation",
         "environment",
-        "subjunctive",
         "production",
         "compliance",
         "european-union"
@@ -793,7 +787,6 @@
       "tags": [
         "shopping",
         "gifts",
-        "conditional-tense",
         "donnerais",
         "family",
         "jewelry"
@@ -842,8 +835,7 @@
         "career",
         "work",
         "presentation",
-        "promotion",
-        "subjunctive"
+        "promotion"
       ]
     },
     {
@@ -885,8 +877,7 @@
       "tags": [
         "history",
         "education",
-        "french-revolution",
-        "suivre"
+        "french-revolution"
       ]
     },
     {
@@ -956,8 +947,6 @@
         "education",
         "social-issues",
         "refugees",
-        "donner",
-        "present-participle",
         "intercultural-exchange"
       ]
     },
@@ -980,8 +969,7 @@
         "tourism",
         "travel",
         "history",
-        "monuments",
-        "regarder"
+        "monuments"
       ]
     },
     {
@@ -1004,8 +992,7 @@
         "travel",
         "work",
         "dreams",
-        "laisser",
-        "conditional-tense"
+        "laisser"
       ]
     },
     {
@@ -1054,9 +1041,7 @@
         "violin",
         "stradivarius",
         "concert",
-        "classical-music",
-        "arriver",
-        "passé-simple"
+        "classical-music"
       ]
     },
     {
@@ -1075,8 +1060,6 @@
       "difficulty": "B1",
       "source": "International academic research collaboration announcement",
       "tags": [
-        "venir",
-        "verb-conjugation",
         "academic-collaboration",
         "university",
         "research",
@@ -1205,8 +1188,6 @@
       "tags": [
         "movies",
         "entertainment",
-        "past-participle-agreement",
-        "regarder",
         "suspense"
       ]
     },
@@ -1228,8 +1209,6 @@
       "tags": [
         "education",
         "classroom",
-        "future-tense",
-        "donner",
         "homework"
       ]
     },
@@ -1254,7 +1233,6 @@
         "vacation",
         "memories",
         "imperfect-tense",
-        "arriver",
         "routine"
       ]
     },
@@ -1328,7 +1306,6 @@
         "workplace",
         "sadness",
         "dismissal",
-        "visage",
         "body-language"
       ]
     },
@@ -1473,7 +1450,6 @@
       "difficulty": "B1",
       "source": "Car Breakdown Emergency",
       "tags": [
-        "voiture",
         "car-troubles",
         "highway",
         "emergency-services",
@@ -1498,7 +1474,6 @@
       "difficulty": "B2",
       "source": "Political News and Obituary",
       "tags": [
-        "mort",
         "news",
         "politics",
         "journalism",
@@ -1524,9 +1499,7 @@
       "difficulty": "B2",
       "source": "Conditional mood practice with falloir",
       "tags": [
-        "voiture",
         "necessity",
-        "conjugation",
         "purchases"
       ],
       "timeCreated": 1735489320
@@ -1605,7 +1578,6 @@
       "tags": [
         "parenting",
         "work-life-balance",
-        "fille",
         "children",
         "family-care",
         "laisser"
@@ -1632,8 +1604,7 @@
         "respiratory",
         "air-quality",
         "air",
-        "environment",
-        "donner"
+        "environment"
       ],
       "timeCreated": 1735500648
     },
@@ -1655,7 +1626,6 @@
       "tags": [
         "health",
         "medical",
-        "oeil",
         "body-parts",
         "examination",
         "eyes",
@@ -1683,9 +1653,7 @@
         "projects",
         "besoin",
         "professional",
-        "assistance",
-        "future-tense",
-        "faire"
+        "assistance"
       ],
       "timeCreated": 1735500702
     },
@@ -1760,12 +1728,10 @@
       "tags": [
         "parenting",
         "education",
-        "fille",
         "rules",
         "time-management",
         "parent-child-relationship",
-        "patience",
-        "prendre"
+        "patience"
       ],
       "timeCreated": 1751217041
     },
@@ -1785,7 +1751,6 @@
       "difficulty": "B1",
       "source": "Conversation about prior knowledge and expectations",
       "tags": [
-        "savoir",
         "past-knowledge"
       ],
       "timeCreated": 1704067200
@@ -1806,7 +1771,6 @@
       "difficulty": "B2",
       "source": "Time perception and weekly reflection",
       "tags": [
-        "passer",
         "time",
         "past-participle",
         "agreement"
@@ -1852,7 +1816,6 @@
       "difficulty": "B1",
       "source": "Comparison with neighbors and possessions",
       "tags": [
-        "même",
         "comparison",
         "neighbors",
         "possessions"
@@ -1875,7 +1838,6 @@
       "difficulty": "B2",
       "source": "Professional feedback and evaluation",
       "tags": [
-        "juste",
         "analysis",
         "professional",
         "evaluation"
@@ -1901,8 +1863,7 @@
         "premier",
         "première",
         "travel",
-        "experience",
-        "gender-agreement"
+        "experience"
       ],
       "timeCreated": 1704067200
     },
@@ -1924,7 +1885,6 @@
       "tags": [
         "shopping",
         "grocery",
-        "rue",
         "street",
         "navigation",
         "supermarket",
