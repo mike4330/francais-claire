@@ -927,9 +927,14 @@
             // Get current user performance data
             const currentPerformanceData = currentData || [];
             
+            // Count performance data specific to this level
+            const performanceDataForLevel = questionsInLevel.filter(question => {
+                return currentPerformanceData.find(p => p.questionId === question.id);
+            }).length;
+            
             console.log(`[DEBUG-2] 🎯 Finding best question for level ${level}:`);
             console.log(`[DEBUG-2]    📊 Total questions in level: ${questionsInLevel.length}`);
-            console.log(`[DEBUG-2]    📈 User has performance data for: ${currentPerformanceData.length} questions`);
+            console.log(`[DEBUG-2]    📈 User has performance data for: ${performanceDataForLevel} questions in ${level} level (${currentPerformanceData.length} total across all levels)`);
             
             // Priority 1: Find questions never attempted
             const unattemptedQuestions = questionsInLevel.filter(question => {

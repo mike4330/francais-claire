@@ -679,14 +679,22 @@
                     (type === 'scoring_stats_result' && message.action === 'get_scoring_stats') ||
                     (type === 'question_result_tracked' && message.action === 'track_question_result') ||
                     (type === 'detailed_response_tracked' && message.action === 'track_detailed_question_response') ||
-                    (type === 'scoring_stats_cleared' && message.action === 'clear_scoring_stats')) {
+                    (type === 'scoring_stats_cleared' && message.action === 'clear_scoring_stats') ||
+                    (type === 'user_question_performance_result' && message.action === 'get_user_question_performance')) {
                     matchingKey = key;
                     break;
                 }
             }
             
             if (matchingKey) {
-                const { resolve } = cachePromises.get(matchingKey);
+                const { message, resolve } = cachePromises.get(matchingKey);
+                
+                // Special handling for user performance data
+                if (type === 'user_question_performance_result' && message.action === 'get_user_question_performance') {
+                    userPerformanceData = data.performances || [];
+                    console.log(`[DEBUG-2] 📊 Loaded ${userPerformanceData.length} user performance records for intelligent selection`);
+                }
+                
                 resolve(data);
                 cachePromises.delete(matchingKey);
             } else {
@@ -946,6 +954,12 @@
             filterQuestionsByDifficulty();
             loadSettings(); // Load saved settings first
             
+            // Load user performance data for intelligent question selection
+            // Wait a bit for cache socket to be ready, then load performance data
+            setTimeout(() => {
+                loadUserPerformanceData();
+            }, 1000);
+            
             // Check for URL parameter to start with a specific question
             const urlParams = new URLSearchParams(window.location.search);
             const startQuestionId = urlParams.get('start');
@@ -1043,7 +1057,6 @@
 
         function selectDifficulty(level) {
             currentDifficulty = level;
-            filterQuestionsByDifficulty();
             setupDifficultyButtons();
             updateDifficultySummary();
             
@@ -1053,7 +1066,17 @@
             answered = false;
             userAnswers = [];
             
-            loadQuestion();
+            // Use intelligent question selection to find the best starting question
+            const bestQuestionId = findBestQuestionForLevel(level);
+            if (bestQuestionId) {
+                console.log(`[DEBUG-2] 🎯 Intelligent selection chose question ${bestQuestionId} for level ${level}`);
+                startWithSpecificQuestion(bestQuestionId);
+            } else {
+                // Fallback to regular filtering if no intelligent selection possible
+                filterQuestionsByDifficulty();
+                loadQuestion();
+            }
+            
             updateProgress();
             updateScore();
         }
@@ -1064,6 +1087,92 @@
             // Randomize order if there are multiple questions
             if (questions.length > 1) {
                 shuffleArray(questions);
+            }
+        }
+
+        // Global variable to store user performance data for intelligent selection
+        let userPerformanceData = [];
+
+        // Find the best question to start with for a given difficulty level
+        function findBestQuestionForLevel(level) {
+            const questionsInLevel = questionBank.filter(q => q.difficulty === level);
+            if (questionsInLevel.length === 0) {
+                console.log(`[DEBUG-2] 🚫 No questions available for level ${level}`);
+                return null;
+            }
+
+            // Count performance data specific to this level
+            const performanceDataForLevel = questionsInLevel.filter(question => {
+                return userPerformanceData.find(p => p.questionId === question.id);
+            }).length;
+            
+            console.log(`[DEBUG-2] 🎯 Finding best question for level ${level}:`);
+            console.log(`[DEBUG-2]    📊 Total questions in level: ${questionsInLevel.length}`);
+            console.log(`[DEBUG-2]    📈 User has performance data for: ${performanceDataForLevel} questions in ${level} level (${userPerformanceData.length} total across all levels)`);
+            
+            // Priority 1: Find questions never attempted
+            const unattemptedQuestions = questionsInLevel.filter(question => {
+                return !userPerformanceData.find(p => p.questionId === question.id);
+            });
+            
+            if (unattemptedQuestions.length > 0) {
+                const selectedQuestionId = Math.min(...unattemptedQuestions.map(q => q.id));
+                console.log(`[DEBUG-2] ✨ PRIORITY 1: Found ${unattemptedQuestions.length} unattempted questions`);
+                console.log(`[DEBUG-2]    🎲 Selected question ${selectedQuestionId} (lowest ID of unattempted)`);
+                console.log(`[DEBUG-2]    📝 Reason: Student has never attempted this question - perfect for new learning`);
+                return selectedQuestionId;
+            }
+            
+            // Priority 2: Find questions with success rate below 70%
+            const needsPracticeQuestions = questionsInLevel.filter(question => {
+                const performance = userPerformanceData.find(p => p.questionId === question.id);
+                return performance && performance.successRate < 70;
+            }).sort((a, b) => {
+                // Sort by lowest success rate first, then by question ID
+                const perfA = userPerformanceData.find(p => p.questionId === a.id);
+                const perfB = userPerformanceData.find(p => p.questionId === b.id);
+                const rateA = perfA ? perfA.successRate : 0;
+                const rateB = perfB ? perfB.successRate : 0;
+                
+                if (rateA !== rateB) {
+                    return rateA - rateB; // Lowest success rate first
+                }
+                return a.id - b.id; // Then by ID
+            });
+            
+            if (needsPracticeQuestions.length > 0) {
+                const selectedQuestion = needsPracticeQuestions[0];
+                const performance = userPerformanceData.find(p => p.questionId === selectedQuestion.id);
+                console.log(`[DEBUG-2] 📈 PRIORITY 2: Found ${needsPracticeQuestions.length} questions needing practice (<70% success)`);
+                console.log(`[DEBUG-2]    📉 Selected question ${selectedQuestion.id} with ${performance.successRate}% success rate`);
+                console.log(`[DEBUG-2]    💪 Reason: Student struggling with this question - targeted practice needed`);
+                console.log(`[DEBUG-2]    📋 Attempts: ${performance.attempts}, Last tried: ${new Date(performance.lastAttempted).toLocaleDateString()}`);
+                return selectedQuestion.id;
+            }
+            
+            // Priority 3: If all questions are mastered, return the first question for review
+            const selectedQuestionId = Math.min(...questionsInLevel.map(q => q.id));
+            const masteredCount = questionsInLevel.filter(question => {
+                const performance = userPerformanceData.find(p => p.questionId === question.id);
+                return performance && performance.successRate >= 70;
+            }).length;
+            
+            console.log(`[DEBUG-2] 🏆 PRIORITY 3: All questions mastered or attempted with good success rates`);
+            console.log(`[DEBUG-2]    ✅ ${masteredCount}/${questionsInLevel.length} questions mastered (≥70% success)`);
+            console.log(`[DEBUG-2]    🔄 Selected question ${selectedQuestionId} (lowest ID) for review practice`);
+            console.log(`[DEBUG-2]    📚 Reason: Maintaining mastery through spaced repetition`);
+            
+            return selectedQuestionId;
+        }
+
+        // Load user performance data for intelligent question selection
+        function loadUserPerformanceData() {
+            if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
+                console.log(`[DEBUG-2] 📊 Loading user performance data for intelligent question selection...`);
+                sendCacheMessage({ action: 'get_user_question_performance', uuid: userUUID });
+            } else {
+                console.log(`[DEBUG-2] ⚠️ Cannot load performance data: WebSocket not ready or no user UUID`);
+                userPerformanceData = [];
             }
         }
 
