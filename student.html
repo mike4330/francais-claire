@@ -794,20 +794,19 @@
         // Fetch level progress - loads all question data to calculate progress
         async function fetchLevelProgress() {
             try {
-                // Load all question files to get total counts per level
-                const [questionsAData, questionsBData, questionsCData] = await Promise.all([
-                    fetch('questions-a.json').then(r => r.json()),
-                    fetch('questions-b.json').then(r => r.json()),
-                    fetch('questions-c.json').then(r => r.json())
-                ]);
+                // Use the centralized question loader from function.js
+                const result = await loadQuestionBank({
+                    useCompiled: true,
+                    enableLogging: true,
+                    logLevel: 2
+                });
 
-                // Extract questions arrays from the JSON structure
-                const questionsA = questionsAData.questions || [];
-                const questionsB = questionsBData.questions || [];
-                const questionsC = questionsCData.questions || [];
+                if (!result.success) {
+                    throw new Error(result.error || 'Failed to load questions');
+                }
 
                 // Combine all questions and organize by difficulty level
-                const allQuestions = [...questionsA, ...questionsB, ...questionsC];
+                const allQuestions = result.questions;
                 allQuestionsData = {
                     'A1': allQuestions.filter(q => q.difficulty === 'A1'),
                     'A2': allQuestions.filter(q => q.difficulty === 'A2'),

@@ -976,17 +976,28 @@
         }
 
         // Question bank management
-        async function loadQuestionBankMulti(files = ['questions.json', 'questions-a.json', 'questions-b.json', 'questions-c.json']) {
+        async function loadQuestionBankMulti(files = null, useCompiled = true) {
             try {
-                // Use centralized loading function
-                const result = await loadQuestionBank({
-                    files: files,
+                // Use centralized loading function with compiled files by default
+                const options = {
+                    useCompiled: useCompiled,
                     enableLogging: appConfig.debugLevel >= 3,
                     logLevel: appConfig.debugLevel
-                });
+                };
+                
+                // Only include files parameter if it's not null (to use defaults)
+                if (files !== null) {
+                    options.files = files;
+                }
+                
+                const result = await loadQuestionBank(options);
                 
                 if (result.success) {
                     questionBank = result.questions;
+                    debugLog(2, `📚 Loaded ${result.totalCount} questions from ${result.compiledMode ? 'compiled' : 'original'} files`);
+                    if (result.compiledMode) {
+                        debugLog(3, '✨ Using compiled question files for optimal performance');
+                    }
                 } else {
                     debugLog(1, '❌ Question loading failed:', result.error);
                     questionBank = [];

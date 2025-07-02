@@ -61,10 +61,12 @@ function generateCacheKey(text, voiceId) {
 }
 
 // Centralized question loading function
-// Handles current file structure and future splitting scenarios
+// Handles compiled question files with fallback to original files
 async function loadQuestionBank(options = {}) {
     const defaultOptions = {
-        files: ['questions/questions.json', 'questions/questions-a.json', 'questions/questions-b.json', 'questions/questions-c.json'],
+        files: ['questions/q-compiled-a.json', 'questions/q-compiled-b.json', 'questions/q-compiled-c.json'],
+        fallbackFiles: ['questions/questions-a.json', 'questions/questions-b.json', 'questions/questions-c.json'],
+        useCompiled: true, // Set to false to use original files
         levels: null, // null = all levels, or array like ['A1', 'A2', 'B1']
         enableLogging: false,
         logLevel: 3 // 1=error, 2=warn, 3=info
@@ -80,11 +82,12 @@ async function loadQuestionBank(options = {}) {
     }
     
     try {
-        log(3, 'Loading question files:', config.files);
+        const filesToLoad = config.useCompiled ? config.files : config.fallbackFiles;
+        log(3, 'Loading question files:', filesToLoad, config.useCompiled ? '(compiled)' : '(original)');
         
         // Fetch all files in parallel with error handling
         const responses = await Promise.all(
-            config.files.map(async (filename) => {
+            filesToLoad.map(async (filename) => {
                 try {
                     const response = await fetch(filename);
                     return { filename, response, error: null };
@@ -109,7 +112,19 @@ async function loadQuestionBank(options = {}) {
                 
                 try {
                     const data = await response.json();
-                    const questions = data.questions || [];
+                    
+                    // Handle both old format {questions: [...]} and new compiled format with metadata
+                    let questions = [];
+                    if (data.questions && Array.isArray(data.questions)) {
+                        questions = data.questions;
+                    } else if (Array.isArray(data)) {
+                        // Handle direct array format
+                        questions = data;
+                    } else {
+                        log(2, `Unexpected data format in ${filename}:`, Object.keys(data));
+                        questions = [];
+                    }
+                    
                     log(3, `✅ ${filename}: ${questions.length} questions loaded`);
                     return { filename, questions, error: null };
                 } catch (parseError) {
@@ -136,12 +151,14 @@ async function loadQuestionBank(options = {}) {
         return {
             success: true,
             questions: allQuestions,
-            fileStats: questionData.map(({ filename, questions, error }) => ({
+            fileStats: questionData ? questionData.map(({ filename, questions, error }) => ({
                 filename,
-                count: questions.length,
+                count: questions ? questions.length : 0,
                 error
-            })),
-            totalCount: allQuestions.length
+            })) : [],
+            totalCount: allQuestions.length,
+            compiledMode: config.useCompiled,
+            loadedFrom: filesToLoad
         };
         
     } catch (error) {

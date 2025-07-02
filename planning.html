@@ -461,6 +461,7 @@
         </div>
     </div>
 
+    <script src="function.js"></script>
     <script>
         // Question analysis and display
         let questionBank = [];
@@ -486,32 +487,23 @@
             'C2': 6
         };
 
-        // Load questions from multiple JSON files
-        async function loadQuestions(files = ['questions.json', 'questions-a.json', 'questions-b.json', 'questions-c.json']) {
+        // Load questions using centralized loader
+        async function loadQuestions() {
             try {
-                console.log('Loading question files for planning:', files);
+                console.log('Loading question files for planning using compiled files...');
                 
-                // Fetch all files in parallel
-                const responses = await Promise.all(files.map(f => fetch(f)));
-                const datas = await Promise.all(responses.map(async (r, index) => {
-                    if (r.ok) {
-                        try {
-                            const data = await r.json();
-                            const questionCount = data.questions ? data.questions.length : 0;
-                            console.log(`✅ Planning: ${files[index]}: ${questionCount} questions loaded`);
-                            return data;
-                        } catch (error) {
-                            console.warn(`❌ Planning: ${files[index]}: JSON parse error -`, error);
-                            return { questions: [] };
-                        }
-                    } else {
-                        console.warn(`❌ Planning: ${files[index]}: HTTP ${r.status} - ${r.statusText}`);
-                        return { questions: [] };
-                    }
-                }));
-                
-                // Merge all questions arrays
-                questionBank = datas.flatMap(d => d.questions || []);
+                // Use the centralized question loader from function.js
+                const result = await loadQuestionBank({
+                    useCompiled: true,
+                    enableLogging: true,
+                    logLevel: 3
+                });
+
+                if (!result.success) {
+                    throw new Error(result.error || 'Failed to load questions');
+                }
+
+                questionBank = result.questions;
                 console.log(`📚 Planning: Total questions loaded: ${questionBank.length}`);
                 
                 if (questionBank.length > 0) {
@@ -715,6 +707,5 @@
             }
         });
     </script>
-    <script src="function.js"></script>
 </body>
 </html> 
