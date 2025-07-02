@@ -1,0 +1,5161 @@
+{
+  "nodes": [
+    {
+      "id": "health",
+      "size": 9,
+      "group": "health-medical"
+    },
+    {
+      "id": "employment",
+      "size": 3,
+      "group": "work-business"
+    },
+    {
+      "id": "vie",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "policy",
+      "size": 7,
+      "group": "politics-government"
+    },
+    {
+      "id": "generational-differences",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "childhood",
+      "size": 5,
+      "group": "daily-life"
+    },
+    {
+      "id": "leadership",
+      "size": 3,
+      "group": "politics-government"
+    },
+    {
+      "id": "advanced-vocabulary",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "language-learning",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "culture",
+      "size": 5,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "academic-discourse",
+      "size": 4,
+      "group": "education-learning"
+    },
+    {
+      "id": "policy-analysis",
+      "size": 3,
+      "group": "politics-government"
+    },
+    {
+      "id": "storm",
+      "size": 3,
+      "group": "geography-places"
+    },
+    {
+      "id": "politeness",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "imperfect",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "justice",
+      "size": 2,
+      "group": "legal-crime"
+    },
+    {
+      "id": "musical-instruments",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "morning",
+      "size": 3,
+      "group": "daily-life"
+    },
+    {
+      "id": "science",
+      "size": 4,
+      "group": "science-research"
+    },
+    {
+      "id": "media",
+      "size": 3,
+      "group": "technology-digital"
+    },
+    {
+      "id": "resources",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "epistemology",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "community",
+      "size": 3,
+      "group": "social-relationships"
+    },
+    {
+      "id": "bad-luck",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "irony",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "opinions",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "penser",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "tunnel",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "colors",
+      "size": 4,
+      "group": "other"
+    },
+    {
+      "id": "economics",
+      "size": 5,
+      "group": "work-business"
+    },
+    {
+      "id": "academic",
+      "size": 3,
+      "group": "education-learning"
+    },
+    {
+      "id": "animals",
+      "size": 3,
+      "group": "daily-life"
+    },
+    {
+      "id": "public-spending",
+      "size": 2,
+      "group": "politics-government"
+    },
+    {
+      "id": "research",
+      "size": 3,
+      "group": "education-learning"
+    },
+    {
+      "id": "television",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "geopolitics",
+      "size": 7,
+      "group": "politics-government"
+    },
+    {
+      "id": "menu",
+      "size": 4,
+      "group": "other"
+    },
+    {
+      "id": "conflict-resolution",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "neoliberalism",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "religion",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "relationships",
+      "size": 4,
+      "group": "social-relationships"
+    },
+    {
+      "id": "sustainable-development",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "news",
+      "size": 10,
+      "group": "other"
+    },
+    {
+      "id": "sleep",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "diplomacy",
+      "size": 3,
+      "group": "education-learning"
+    },
+    {
+      "id": "us",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "listening-comprehension",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "international-relations",
+      "size": 5,
+      "group": "other"
+    },
+    {
+      "id": "intercultural-exchange",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "garden",
+      "size": 3,
+      "group": "daily-life"
+    },
+    {
+      "id": "nostalgia",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "classical-music",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "possessions",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "memories",
+      "size": 7,
+      "group": "other"
+    },
+    {
+      "id": "strategic-alliances",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "dire",
+      "size": 2,
+      "group": "geography-places"
+    },
+    {
+      "id": "lunch",
+      "size": 3,
+      "group": "daily-life"
+    },
+    {
+      "id": "healthcare",
+      "size": 8,
+      "group": "health-medical"
+    },
+    {
+      "id": "professional-relationships",
+      "size": 2,
+      "group": "work-business"
+    },
+    {
+      "id": "summer",
+      "size": 2,
+      "group": "time-calendar"
+    },
+    {
+      "id": "rare-events",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "vocabulary",
+      "size": 3,
+      "group": "education-learning"
+    },
+    {
+      "id": "choices",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "music",
+      "size": 7,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "weather",
+      "size": 11,
+      "group": "geography-places"
+    },
+    {
+      "id": "shopping",
+      "size": 7,
+      "group": "daily-life"
+    },
+    {
+      "id": "household-vocabulary",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "exams",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "nature",
+      "size": 7,
+      "group": "science-research"
+    },
+    {
+      "id": "cooking-techniques",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "interpersonal-relationships",
+      "size": 2,
+      "group": "social-relationships"
+    },
+    {
+      "id": "plans",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "food",
+      "size": 17,
+      "group": "daily-life"
+    },
+    {
+      "id": "snow",
+      "size": 3,
+      "group": "geography-places"
+    },
+    {
+      "id": "body-parts",
+      "size": 5,
+      "group": "culture-arts"
+    },
+    {
+      "id": "cars",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "international-news",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "taxation",
+      "size": 2,
+      "group": "politics-government"
+    },
+    {
+      "id": "negotiations",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "medical-deserts",
+      "size": 3,
+      "group": "health-medical"
+    },
+    {
+      "id": "seafood",
+      "size": 3,
+      "group": "daily-life"
+    },
+    {
+      "id": "traditions",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "relief",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "environment",
+      "size": 7,
+      "group": "science-research"
+    },
+    {
+      "id": "authorities",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "agriculture",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "marriage",
+      "size": 2,
+      "group": "social-relationships"
+    },
+    {
+      "id": "schedule",
+      "size": 3,
+      "group": "time-calendar"
+    },
+    {
+      "id": "economy",
+      "size": 4,
+      "group": "work-business"
+    },
+    {
+      "id": "money",
+      "size": 3,
+      "group": "work-business"
+    },
+    {
+      "id": "emotions",
+      "size": 10,
+      "group": "emotions-psychology"
+    },
+    {
+      "id": "SNCF",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "riots",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "history",
+      "size": 3,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "bread",
+      "size": 4,
+      "group": "daily-life"
+    },
+    {
+      "id": "family",
+      "size": 25,
+      "group": "daily-life"
+    },
+    {
+      "id": "cinema",
+      "size": 3,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "travel",
+      "size": 14,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "laisser",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "astronomy",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "controversy",
+      "size": 2,
+      "group": "social-relationships"
+    },
+    {
+      "id": "hobbies",
+      "size": 5,
+      "group": "other"
+    },
+    {
+      "id": "adjective-agreement",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "deadlines",
+      "size": 2,
+      "group": "work-business"
+    },
+    {
+      "id": "planning",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "social-issues",
+      "size": 5,
+      "group": "social-relationships"
+    },
+    {
+      "id": "cultural-heritage",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "economic-indicators",
+      "size": 2,
+      "group": "work-business"
+    },
+    {
+      "id": "banlieues",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "certainty",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "france",
+      "size": 6,
+      "group": "geography-places"
+    },
+    {
+      "id": "judiciary",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "technology",
+      "size": 7,
+      "group": "technology-digital"
+    },
+    {
+      "id": "present-tense",
+      "size": 3,
+      "group": "time-calendar"
+    },
+    {
+      "id": "work",
+      "size": 9,
+      "group": "work-business"
+    },
+    {
+      "id": "fruits",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "french-cuisine",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "education",
+      "size": 21,
+      "group": "education-learning"
+    },
+    {
+      "id": "government",
+      "size": 6,
+      "group": "politics-government"
+    },
+    {
+      "id": "unemployment",
+      "size": 2,
+      "group": "work-business"
+    },
+    {
+      "id": "gentrification",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "personal-development",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "chicken",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "labor",
+      "size": 2,
+      "group": "science-research"
+    },
+    {
+      "id": "european-union",
+      "size": 3,
+      "group": "geography-places"
+    },
+    {
+      "id": "cooking",
+      "size": 5,
+      "group": "daily-life"
+    },
+    {
+      "id": "italy",
+      "size": 2,
+      "group": "geography-places"
+    },
+    {
+      "id": "grandmother",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "dinner",
+      "size": 3,
+      "group": "daily-life"
+    },
+    {
+      "id": "philosophy",
+      "size": 4,
+      "group": "other"
+    },
+    {
+      "id": "academic-collaboration",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "historical-analysis",
+      "size": 2,
+      "group": "science-research"
+    },
+    {
+      "id": "routine",
+      "size": 3,
+      "group": "daily-life"
+    },
+    {
+      "id": "grammar",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "government-policy",
+      "size": 2,
+      "group": "politics-government"
+    },
+    {
+      "id": "salad",
+      "size": 5,
+      "group": "other"
+    },
+    {
+      "id": "sociology",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "adjectives",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "heat-wave",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "entertainment",
+      "size": 4,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "future-time",
+      "size": 5,
+      "group": "time-calendar"
+    },
+    {
+      "id": "protest",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "soutenir",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "penalties",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "time-management",
+      "size": 6,
+      "group": "time-calendar"
+    },
+    {
+      "id": "time",
+      "size": 3,
+      "group": "time-calendar"
+    },
+    {
+      "id": "strikes",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "delays",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "child-development",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "crime",
+      "size": 4,
+      "group": "legal-crime"
+    },
+    {
+      "id": "past-habits",
+      "size": 2,
+      "group": "time-calendar"
+    },
+    {
+      "id": "decision",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "expressions",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "birds",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "statistics",
+      "size": 2,
+      "group": "science-research"
+    },
+    {
+      "id": "work-life-balance",
+      "size": 4,
+      "group": "work-business"
+    },
+    {
+      "id": "modern-life",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "daily-routine",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "drugs",
+      "size": 3,
+      "group": "health-medical"
+    },
+    {
+      "id": "agreement",
+      "size": 2,
+      "group": "politics-government"
+    },
+    {
+      "id": "legal",
+      "size": 2,
+      "group": "politics-government"
+    },
+    {
+      "id": "morning-routine",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "literature",
+      "size": 4,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "infrastructure",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "proposals",
+      "size": 2,
+      "group": "politics-government"
+    },
+    {
+      "id": "rules",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "behavior",
+      "size": 2,
+      "group": "emotions-psychology"
+    },
+    {
+      "id": "gifts",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "parenting",
+      "size": 7,
+      "group": "daily-life"
+    },
+    {
+      "id": "medical",
+      "size": 2,
+      "group": "health-medical"
+    },
+    {
+      "id": "culinary-vocabulary",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "transportation",
+      "size": 7,
+      "group": "transportation-travel"
+    },
+    {
+      "id": "workplace",
+      "size": 5,
+      "group": "work-business"
+    },
+    {
+      "id": "love",
+      "size": 2,
+      "group": "social-relationships"
+    },
+    {
+      "id": "leisure",
+      "size": 3,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "interdisciplinary-research",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "vacation",
+      "size": 8,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "law",
+      "size": 3,
+      "group": "politics-government"
+    },
+    {
+      "id": "analysis",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "friendship",
+      "size": 3,
+      "group": "social-relationships"
+    },
+    {
+      "id": "social-commentary",
+      "size": 2,
+      "group": "social-relationships"
+    },
+    {
+      "id": "restaurant",
+      "size": 5,
+      "group": "daily-life"
+    },
+    {
+      "id": "formal-discourse",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "projects",
+      "size": 4,
+      "group": "work-business"
+    },
+    {
+      "id": "extremism",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "daily-life",
+      "size": 16,
+      "group": "daily-life"
+    },
+    {
+      "id": "trains",
+      "size": 2,
+      "group": "transportation-travel"
+    },
+    {
+      "id": "pollution",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "career",
+      "size": 6,
+      "group": "work-business"
+    },
+    {
+      "id": "politics",
+      "size": 25,
+      "group": "politics-government"
+    },
+    {
+      "id": "internet-culture",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "fraud",
+      "size": 2,
+      "group": "legal-crime"
+    },
+    {
+      "id": "sustainability",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "inequality",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "grocery",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "alert",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "online-learning",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "homework",
+      "size": 2,
+      "group": "daily-life"
+    },
+    {
+      "id": "romance",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "office",
+      "size": 2,
+      "group": "work-business"
+    },
+    {
+      "id": "supreme-court",
+      "size": 2,
+      "group": "legal-crime"
+    },
+    {
+      "id": "air",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "society",
+      "size": 3,
+      "group": "social-relationships"
+    },
+    {
+      "id": "cultural-experience",
+      "size": 2,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "japan",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "professional",
+      "size": 9,
+      "group": "work-business"
+    },
+    {
+      "id": "tourism",
+      "size": 3,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "doctors",
+      "size": 3,
+      "group": "health-medical"
+    },
+    {
+      "id": "communication",
+      "size": 4,
+      "group": "technology-digital"
+    },
+    {
+      "id": "dating",
+      "size": 3,
+      "group": "social-relationships"
+    },
+    {
+      "id": "business",
+      "size": 5,
+      "group": "work-business"
+    },
+    {
+      "id": "exercise",
+      "size": 2,
+      "group": "health-medical"
+    },
+    {
+      "id": "regulation",
+      "size": 2,
+      "group": "politics-government"
+    },
+    {
+      "id": "symptoms",
+      "size": 2,
+      "group": "health-medical"
+    },
+    {
+      "id": "sports",
+      "size": 6,
+      "group": "leisure-entertainment"
+    },
+    {
+      "id": "pouvoir",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "chile",
+      "size": 3,
+      "group": "other"
+    },
+    {
+      "id": "trouver",
+      "size": 2,
+      "group": "other"
+    },
+    {
+      "id": "basic-vocabulary",
+      "size": 2,
+      "group": "education-learning"
+    },
+    {
+      "id": "home",
+      "size": 5,
+      "group": "daily-life"
+    }
+  ],
+  "links": [
+    {
+      "source": "food",
+      "target": "lunch",
+      "weight": 3
+    },
+    {
+      "source": "food",
+      "target": "salad",
+      "weight": 5
+    },
+    {
+      "source": "lunch",
+      "target": "salad",
+      "weight": 3
+    },
+    {
+      "source": "nature",
+      "target": "storm",
+      "weight": 1
+    },
+    {
+      "source": "nature",
+      "target": "weather",
+      "weight": 2
+    },
+    {
+      "source": "storm",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "community",
+      "target": "grammar",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "household-vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "memories",
+      "weight": 6
+    },
+    {
+      "source": "household-vocabulary",
+      "target": "memories",
+      "weight": 1
+    },
+    {
+      "source": "chile",
+      "target": "nature",
+      "weight": 1
+    },
+    {
+      "source": "chile",
+      "target": "snow",
+      "weight": 3
+    },
+    {
+      "source": "chile",
+      "target": "weather",
+      "weight": 3
+    },
+    {
+      "source": "nature",
+      "target": "snow",
+      "weight": 1
+    },
+    {
+      "source": "snow",
+      "target": "weather",
+      "weight": 3
+    },
+    {
+      "source": "chile",
+      "target": "rare-events",
+      "weight": 2
+    },
+    {
+      "source": "rare-events",
+      "target": "snow",
+      "weight": 2
+    },
+    {
+      "source": "rare-events",
+      "target": "weather",
+      "weight": 2
+    },
+    {
+      "source": "alert",
+      "target": "france",
+      "weight": 2
+    },
+    {
+      "source": "alert",
+      "target": "weather",
+      "weight": 2
+    },
+    {
+      "source": "france",
+      "target": "weather",
+      "weight": 3
+    },
+    {
+      "source": "politeness",
+      "target": "restaurant",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "music",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "language-learning",
+      "weight": 2
+    },
+    {
+      "source": "tourism",
+      "target": "travel",
+      "weight": 3
+    },
+    {
+      "source": "classical-music",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "classical-music",
+      "target": "memories",
+      "weight": 1
+    },
+    {
+      "source": "classical-music",
+      "target": "music",
+      "weight": 2
+    },
+    {
+      "source": "family",
+      "target": "music",
+      "weight": 1
+    },
+    {
+      "source": "memories",
+      "target": "music",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "morning",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "schedule",
+      "weight": 2
+    },
+    {
+      "source": "morning",
+      "target": "schedule",
+      "weight": 1
+    },
+    {
+      "source": "birds",
+      "target": "garden",
+      "weight": 1
+    },
+    {
+      "source": "birds",
+      "target": "morning-routine",
+      "weight": 1
+    },
+    {
+      "source": "birds",
+      "target": "nature",
+      "weight": 2
+    },
+    {
+      "source": "garden",
+      "target": "morning-routine",
+      "weight": 1
+    },
+    {
+      "source": "garden",
+      "target": "nature",
+      "weight": 1
+    },
+    {
+      "source": "morning-routine",
+      "target": "nature",
+      "weight": 1
+    },
+    {
+      "source": "exercise",
+      "target": "hobbies",
+      "weight": 1
+    },
+    {
+      "source": "exercise",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "hobbies",
+      "target": "sports",
+      "weight": 3
+    },
+    {
+      "source": "daily-routine",
+      "target": "dire",
+      "weight": 1
+    },
+    {
+      "source": "daily-routine",
+      "target": "family",
+      "weight": 2
+    },
+    {
+      "source": "dire",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "animals",
+      "target": "colors",
+      "weight": 1
+    },
+    {
+      "source": "animals",
+      "target": "garden",
+      "weight": 1
+    },
+    {
+      "source": "colors",
+      "target": "garden",
+      "weight": 1
+    },
+    {
+      "source": "summer",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "summer",
+      "target": "vacation",
+      "weight": 2
+    },
+    {
+      "source": "travel",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "cinema",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "cinema",
+      "target": "language-learning",
+      "weight": 1
+    },
+    {
+      "source": "professional",
+      "target": "work",
+      "weight": 3
+    },
+    {
+      "source": "family",
+      "target": "gifts",
+      "weight": 2
+    },
+    {
+      "source": "trains",
+      "target": "transportation",
+      "weight": 1
+    },
+    {
+      "source": "trains",
+      "target": "travel",
+      "weight": 2
+    },
+    {
+      "source": "transportation",
+      "target": "travel",
+      "weight": 3
+    },
+    {
+      "source": "agriculture",
+      "target": "fruits",
+      "weight": 1
+    },
+    {
+      "source": "basic-vocabulary",
+      "target": "colors",
+      "weight": 1
+    },
+    {
+      "source": "basic-vocabulary",
+      "target": "daily-life",
+      "weight": 2
+    },
+    {
+      "source": "colors",
+      "target": "daily-life",
+      "weight": 1
+    },
+    {
+      "source": "animals",
+      "target": "basic-vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "animals",
+      "target": "daily-life",
+      "weight": 2
+    },
+    {
+      "source": "entertainment",
+      "target": "family",
+      "weight": 2
+    },
+    {
+      "source": "entertainment",
+      "target": "memories",
+      "weight": 1
+    },
+    {
+      "source": "entertainment",
+      "target": "nostalgia",
+      "weight": 1
+    },
+    {
+      "source": "entertainment",
+      "target": "routine",
+      "weight": 1
+    },
+    {
+      "source": "entertainment",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "nostalgia",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "routine",
+      "weight": 3
+    },
+    {
+      "source": "family",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "memories",
+      "target": "nostalgia",
+      "weight": 1
+    },
+    {
+      "source": "memories",
+      "target": "routine",
+      "weight": 2
+    },
+    {
+      "source": "memories",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "nostalgia",
+      "target": "routine",
+      "weight": 1
+    },
+    {
+      "source": "nostalgia",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "routine",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "animals",
+      "target": "birds",
+      "weight": 1
+    },
+    {
+      "source": "animals",
+      "target": "morning",
+      "weight": 1
+    },
+    {
+      "source": "animals",
+      "target": "nature",
+      "weight": 1
+    },
+    {
+      "source": "birds",
+      "target": "daily-life",
+      "weight": 1
+    },
+    {
+      "source": "birds",
+      "target": "morning",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "morning",
+      "weight": 2
+    },
+    {
+      "source": "daily-life",
+      "target": "nature",
+      "weight": 2
+    },
+    {
+      "source": "morning",
+      "target": "nature",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "government",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "media",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "government",
+      "target": "media",
+      "weight": 1
+    },
+    {
+      "source": "government",
+      "target": "politics",
+      "weight": 4
+    },
+    {
+      "source": "government",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "media",
+      "target": "politics",
+      "weight": 3
+    },
+    {
+      "source": "media",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "politics",
+      "target": "television",
+      "weight": 1
+    },
+    {
+      "source": "morning-routine",
+      "target": "shopping",
+      "weight": 1
+    },
+    {
+      "source": "colors",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "career",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "career",
+      "target": "office",
+      "weight": 1
+    },
+    {
+      "source": "career",
+      "target": "work",
+      "weight": 3
+    },
+    {
+      "source": "family",
+      "target": "office",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "office",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "cars",
+      "target": "colors",
+      "weight": 1
+    },
+    {
+      "source": "cars",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "cars",
+      "target": "possessions",
+      "weight": 1
+    },
+    {
+      "source": "cars",
+      "target": "transportation",
+      "weight": 2
+    },
+    {
+      "source": "colors",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "colors",
+      "target": "possessions",
+      "weight": 1
+    },
+    {
+      "source": "colors",
+      "target": "transportation",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "possessions",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "transportation",
+      "weight": 1
+    },
+    {
+      "source": "possessions",
+      "target": "transportation",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "present-tense",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "trouver",
+      "weight": 1
+    },
+    {
+      "source": "present-tense",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "present-tense",
+      "target": "trouver",
+      "weight": 1
+    },
+    {
+      "source": "time",
+      "target": "trouver",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "health",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "sleep",
+      "weight": 2
+    },
+    {
+      "source": "health",
+      "target": "morning",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "sleep",
+      "weight": 1
+    },
+    {
+      "source": "morning",
+      "target": "sleep",
+      "weight": 1
+    },
+    {
+      "source": "bread",
+      "target": "daily-life",
+      "weight": 2
+    },
+    {
+      "source": "bread",
+      "target": "dinner",
+      "weight": 1
+    },
+    {
+      "source": "bread",
+      "target": "food",
+      "weight": 2
+    },
+    {
+      "source": "bread",
+      "target": "shopping",
+      "weight": 3
+    },
+    {
+      "source": "daily-life",
+      "target": "dinner",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "food",
+      "weight": 3
+    },
+    {
+      "source": "daily-life",
+      "target": "shopping",
+      "weight": 2
+    },
+    {
+      "source": "dinner",
+      "target": "food",
+      "weight": 3
+    },
+    {
+      "source": "dinner",
+      "target": "shopping",
+      "weight": 1
+    },
+    {
+      "source": "food",
+      "target": "shopping",
+      "weight": 3
+    },
+    {
+      "source": "behavior",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "cooking-techniques",
+      "weight": 2
+    },
+    {
+      "source": "cooking",
+      "target": "culinary-vocabulary",
+      "weight": 2
+    },
+    {
+      "source": "cooking",
+      "target": "french-cuisine",
+      "weight": 2
+    },
+    {
+      "source": "cooking",
+      "target": "listening-comprehension",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "time-management",
+      "weight": 2
+    },
+    {
+      "source": "cooking-techniques",
+      "target": "culinary-vocabulary",
+      "weight": 2
+    },
+    {
+      "source": "cooking-techniques",
+      "target": "french-cuisine",
+      "weight": 2
+    },
+    {
+      "source": "cooking-techniques",
+      "target": "listening-comprehension",
+      "weight": 1
+    },
+    {
+      "source": "cooking-techniques",
+      "target": "time-management",
+      "weight": 2
+    },
+    {
+      "source": "culinary-vocabulary",
+      "target": "french-cuisine",
+      "weight": 2
+    },
+    {
+      "source": "culinary-vocabulary",
+      "target": "listening-comprehension",
+      "weight": 1
+    },
+    {
+      "source": "culinary-vocabulary",
+      "target": "time-management",
+      "weight": 2
+    },
+    {
+      "source": "french-cuisine",
+      "target": "listening-comprehension",
+      "weight": 1
+    },
+    {
+      "source": "french-cuisine",
+      "target": "time-management",
+      "weight": 2
+    },
+    {
+      "source": "listening-comprehension",
+      "target": "time-management",
+      "weight": 1
+    },
+    {
+      "source": "dating",
+      "target": "emotions",
+      "weight": 1
+    },
+    {
+      "source": "dating",
+      "target": "love",
+      "weight": 1
+    },
+    {
+      "source": "dating",
+      "target": "present-tense",
+      "weight": 1
+    },
+    {
+      "source": "dating",
+      "target": "relationships",
+      "weight": 2
+    },
+    {
+      "source": "dating",
+      "target": "romance",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "love",
+      "weight": 2
+    },
+    {
+      "source": "emotions",
+      "target": "present-tense",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "relationships",
+      "weight": 2
+    },
+    {
+      "source": "emotions",
+      "target": "romance",
+      "weight": 1
+    },
+    {
+      "source": "love",
+      "target": "present-tense",
+      "weight": 1
+    },
+    {
+      "source": "love",
+      "target": "relationships",
+      "weight": 2
+    },
+    {
+      "source": "love",
+      "target": "romance",
+      "weight": 1
+    },
+    {
+      "source": "present-tense",
+      "target": "relationships",
+      "weight": 1
+    },
+    {
+      "source": "present-tense",
+      "target": "romance",
+      "weight": 1
+    },
+    {
+      "source": "relationships",
+      "target": "romance",
+      "weight": 2
+    },
+    {
+      "source": "daily-routine",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "daily-routine",
+      "target": "homework",
+      "weight": 1
+    },
+    {
+      "source": "daily-routine",
+      "target": "parenting",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "homework",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "parenting",
+      "weight": 4
+    },
+    {
+      "source": "family",
+      "target": "homework",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "parenting",
+      "weight": 2
+    },
+    {
+      "source": "homework",
+      "target": "parenting",
+      "weight": 1
+    },
+    {
+      "source": "entertainment",
+      "target": "friendship",
+      "weight": 1
+    },
+    {
+      "source": "entertainment",
+      "target": "music",
+      "weight": 1
+    },
+    {
+      "source": "friendship",
+      "target": "music",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "family",
+      "weight": 2
+    },
+    {
+      "source": "daily-life",
+      "target": "penser",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "penser",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "imperfect",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "food",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "imperfect",
+      "weight": 1
+    },
+    {
+      "source": "food",
+      "target": "imperfect",
+      "weight": 1
+    },
+    {
+      "source": "agreement",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "home",
+      "weight": 2
+    },
+    {
+      "source": "friendship",
+      "target": "hobbies",
+      "weight": 1
+    },
+    {
+      "source": "friendship",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "bread",
+      "target": "grocery",
+      "weight": 1
+    },
+    {
+      "source": "bread",
+      "target": "money",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "grocery",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "money",
+      "weight": 1
+    },
+    {
+      "source": "food",
+      "target": "grocery",
+      "weight": 1
+    },
+    {
+      "source": "food",
+      "target": "money",
+      "weight": 1
+    },
+    {
+      "source": "grocery",
+      "target": "money",
+      "weight": 1
+    },
+    {
+      "source": "grocery",
+      "target": "shopping",
+      "weight": 2
+    },
+    {
+      "source": "money",
+      "target": "shopping",
+      "weight": 1
+    },
+    {
+      "source": "hobbies",
+      "target": "leisure",
+      "weight": 2
+    },
+    {
+      "source": "hobbies",
+      "target": "music",
+      "weight": 1
+    },
+    {
+      "source": "hobbies",
+      "target": "musical-instruments",
+      "weight": 1
+    },
+    {
+      "source": "leisure",
+      "target": "music",
+      "weight": 1
+    },
+    {
+      "source": "leisure",
+      "target": "musical-instruments",
+      "weight": 1
+    },
+    {
+      "source": "music",
+      "target": "musical-instruments",
+      "weight": 2
+    },
+    {
+      "source": "adjectives",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "adjectives",
+      "target": "exams",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "exams",
+      "weight": 2
+    },
+    {
+      "source": "body-parts",
+      "target": "healthcare",
+      "weight": 3
+    },
+    {
+      "source": "body-parts",
+      "target": "symptoms",
+      "weight": 2
+    },
+    {
+      "source": "healthcare",
+      "target": "symptoms",
+      "weight": 2
+    },
+    {
+      "source": "emotions",
+      "target": "expressions",
+      "weight": 2
+    },
+    {
+      "source": "emotions",
+      "target": "hobbies",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "expressions",
+      "target": "hobbies",
+      "weight": 1
+    },
+    {
+      "source": "expressions",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "friendship",
+      "target": "leisure",
+      "weight": 1
+    },
+    {
+      "source": "friendship",
+      "target": "past-habits",
+      "weight": 1
+    },
+    {
+      "source": "leisure",
+      "target": "past-habits",
+      "weight": 1
+    },
+    {
+      "source": "astronomy",
+      "target": "science",
+      "weight": 2
+    },
+    {
+      "source": "entertainment",
+      "target": "grandmother",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "grandmother",
+      "weight": 2
+    },
+    {
+      "source": "cooking",
+      "target": "daily-life",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "family",
+      "weight": 2
+    },
+    {
+      "source": "cooking",
+      "target": "home",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "routine",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "home",
+      "weight": 2
+    },
+    {
+      "source": "daily-life",
+      "target": "routine",
+      "weight": 1
+    },
+    {
+      "source": "home",
+      "target": "routine",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "future-time",
+      "weight": 1
+    },
+    {
+      "source": "exams",
+      "target": "future-time",
+      "weight": 1
+    },
+    {
+      "source": "exams",
+      "target": "schedule",
+      "weight": 1
+    },
+    {
+      "source": "future-time",
+      "target": "schedule",
+      "weight": 1
+    },
+    {
+      "source": "future-time",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "future-time",
+      "target": "transportation",
+      "weight": 1
+    },
+    {
+      "source": "future-time",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "planning",
+      "target": "transportation",
+      "weight": 1
+    },
+    {
+      "source": "planning",
+      "target": "travel",
+      "weight": 2
+    },
+    {
+      "source": "family",
+      "target": "schedule",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "schedule",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "food",
+      "target": "future-time",
+      "weight": 1
+    },
+    {
+      "source": "food",
+      "target": "plans",
+      "weight": 1
+    },
+    {
+      "source": "future-time",
+      "target": "plans",
+      "weight": 1
+    },
+    {
+      "source": "future-time",
+      "target": "shopping",
+      "weight": 1
+    },
+    {
+      "source": "plans",
+      "target": "shopping",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "future-time",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "politics",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "protest",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "soutenir",
+      "weight": 2
+    },
+    {
+      "source": "politics",
+      "target": "protest",
+      "weight": 1
+    },
+    {
+      "source": "politics",
+      "target": "soutenir",
+      "weight": 2
+    },
+    {
+      "source": "protest",
+      "target": "soutenir",
+      "weight": 1
+    },
+    {
+      "source": "food",
+      "target": "menu",
+      "weight": 4
+    },
+    {
+      "source": "food",
+      "target": "restaurant",
+      "weight": 4
+    },
+    {
+      "source": "menu",
+      "target": "restaurant",
+      "weight": 2
+    },
+    {
+      "source": "menu",
+      "target": "salad",
+      "weight": 2
+    },
+    {
+      "source": "restaurant",
+      "target": "salad",
+      "weight": 2
+    },
+    {
+      "source": "lunch",
+      "target": "menu",
+      "weight": 1
+    },
+    {
+      "source": "dinner",
+      "target": "menu",
+      "weight": 1
+    },
+    {
+      "source": "dinner",
+      "target": "seafood",
+      "weight": 2
+    },
+    {
+      "source": "food",
+      "target": "seafood",
+      "weight": 3
+    },
+    {
+      "source": "menu",
+      "target": "seafood",
+      "weight": 1
+    },
+    {
+      "source": "chicken",
+      "target": "decision",
+      "weight": 2
+    },
+    {
+      "source": "chicken",
+      "target": "food",
+      "weight": 2
+    },
+    {
+      "source": "chicken",
+      "target": "menu",
+      "weight": 1
+    },
+    {
+      "source": "chicken",
+      "target": "restaurant",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "food",
+      "weight": 2
+    },
+    {
+      "source": "decision",
+      "target": "menu",
+      "weight": 1
+    },
+    {
+      "source": "decision",
+      "target": "restaurant",
+      "weight": 2
+    },
+    {
+      "source": "SNCF",
+      "target": "labor",
+      "weight": 2
+    },
+    {
+      "source": "SNCF",
+      "target": "news",
+      "weight": 1
+    },
+    {
+      "source": "SNCF",
+      "target": "strikes",
+      "weight": 2
+    },
+    {
+      "source": "SNCF",
+      "target": "transportation",
+      "weight": 2
+    },
+    {
+      "source": "labor",
+      "target": "news",
+      "weight": 1
+    },
+    {
+      "source": "labor",
+      "target": "strikes",
+      "weight": 2
+    },
+    {
+      "source": "labor",
+      "target": "transportation",
+      "weight": 2
+    },
+    {
+      "source": "news",
+      "target": "strikes",
+      "weight": 1
+    },
+    {
+      "source": "news",
+      "target": "transportation",
+      "weight": 2
+    },
+    {
+      "source": "strikes",
+      "target": "transportation",
+      "weight": 2
+    },
+    {
+      "source": "economic-indicators",
+      "target": "economy",
+      "weight": 2
+    },
+    {
+      "source": "economic-indicators",
+      "target": "employment",
+      "weight": 2
+    },
+    {
+      "source": "economic-indicators",
+      "target": "statistics",
+      "weight": 2
+    },
+    {
+      "source": "economic-indicators",
+      "target": "unemployment",
+      "weight": 2
+    },
+    {
+      "source": "economy",
+      "target": "employment",
+      "weight": 2
+    },
+    {
+      "source": "economy",
+      "target": "statistics",
+      "weight": 2
+    },
+    {
+      "source": "economy",
+      "target": "unemployment",
+      "weight": 2
+    },
+    {
+      "source": "employment",
+      "target": "statistics",
+      "weight": 2
+    },
+    {
+      "source": "employment",
+      "target": "unemployment",
+      "weight": 2
+    },
+    {
+      "source": "statistics",
+      "target": "unemployment",
+      "weight": 2
+    },
+    {
+      "source": "culture",
+      "target": "vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "expressions",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "expressions",
+      "target": "resources",
+      "weight": 1
+    },
+    {
+      "source": "expressions",
+      "target": "vacation",
+      "weight": 2
+    },
+    {
+      "source": "family",
+      "target": "resources",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "vacation",
+      "weight": 2
+    },
+    {
+      "source": "resources",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "bad-luck",
+      "target": "emotions",
+      "weight": 2
+    },
+    {
+      "source": "bad-luck",
+      "target": "expressions",
+      "weight": 1
+    },
+    {
+      "source": "bad-luck",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "bad-luck",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "expressions",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "vacation",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "bad-luck",
+      "target": "daily-life",
+      "weight": 1
+    },
+    {
+      "source": "bad-luck",
+      "target": "vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "emotions",
+      "weight": 2
+    },
+    {
+      "source": "daily-life",
+      "target": "vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "business",
+      "target": "professional",
+      "weight": 2
+    },
+    {
+      "source": "authorities",
+      "target": "drugs",
+      "weight": 3
+    },
+    {
+      "source": "authorities",
+      "target": "international-news",
+      "weight": 3
+    },
+    {
+      "source": "authorities",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "drugs",
+      "target": "international-news",
+      "weight": 3
+    },
+    {
+      "source": "drugs",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "international-news",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "authorities",
+      "target": "vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "drugs",
+      "target": "vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "international-news",
+      "target": "vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "alert",
+      "target": "heat-wave",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "heat-wave",
+      "weight": 2
+    },
+    {
+      "source": "heat-wave",
+      "target": "weather",
+      "weight": 2
+    },
+    {
+      "source": "judiciary",
+      "target": "law",
+      "weight": 2
+    },
+    {
+      "source": "judiciary",
+      "target": "news",
+      "weight": 2
+    },
+    {
+      "source": "judiciary",
+      "target": "politics",
+      "weight": 2
+    },
+    {
+      "source": "judiciary",
+      "target": "supreme-court",
+      "weight": 2
+    },
+    {
+      "source": "judiciary",
+      "target": "us",
+      "weight": 2
+    },
+    {
+      "source": "law",
+      "target": "news",
+      "weight": 2
+    },
+    {
+      "source": "law",
+      "target": "politics",
+      "weight": 3
+    },
+    {
+      "source": "law",
+      "target": "supreme-court",
+      "weight": 2
+    },
+    {
+      "source": "law",
+      "target": "us",
+      "weight": 2
+    },
+    {
+      "source": "news",
+      "target": "politics",
+      "weight": 3
+    },
+    {
+      "source": "news",
+      "target": "supreme-court",
+      "weight": 2
+    },
+    {
+      "source": "news",
+      "target": "us",
+      "weight": 2
+    },
+    {
+      "source": "politics",
+      "target": "supreme-court",
+      "weight": 2
+    },
+    {
+      "source": "politics",
+      "target": "us",
+      "weight": 2
+    },
+    {
+      "source": "supreme-court",
+      "target": "us",
+      "weight": 2
+    },
+    {
+      "source": "doctors",
+      "target": "healthcare",
+      "weight": 3
+    },
+    {
+      "source": "doctors",
+      "target": "medical-deserts",
+      "weight": 3
+    },
+    {
+      "source": "doctors",
+      "target": "penalties",
+      "weight": 3
+    },
+    {
+      "source": "doctors",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "healthcare",
+      "target": "medical-deserts",
+      "weight": 3
+    },
+    {
+      "source": "healthcare",
+      "target": "penalties",
+      "weight": 3
+    },
+    {
+      "source": "healthcare",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "medical-deserts",
+      "target": "penalties",
+      "weight": 3
+    },
+    {
+      "source": "medical-deserts",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "penalties",
+      "target": "policy",
+      "weight": 3
+    },
+    {
+      "source": "certainty",
+      "target": "grammar",
+      "weight": 1
+    },
+    {
+      "source": "planning",
+      "target": "trains",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "online-learning",
+      "weight": 2
+    },
+    {
+      "source": "plans",
+      "target": "vacation",
+      "weight": 2
+    },
+    {
+      "source": "plans",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "vacation",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "japan",
+      "target": "money",
+      "weight": 1
+    },
+    {
+      "source": "japan",
+      "target": "travel",
+      "weight": 2
+    },
+    {
+      "source": "money",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "european-union",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "regulation",
+      "weight": 1
+    },
+    {
+      "source": "european-union",
+      "target": "regulation",
+      "weight": 2
+    },
+    {
+      "source": "family",
+      "target": "shopping",
+      "weight": 1
+    },
+    {
+      "source": "gifts",
+      "target": "shopping",
+      "weight": 1
+    },
+    {
+      "source": "office",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "dating",
+      "weight": 2
+    },
+    {
+      "source": "communication",
+      "target": "relationships",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "history",
+      "weight": 1
+    },
+    {
+      "source": "cultural-experience",
+      "target": "italy",
+      "weight": 1
+    },
+    {
+      "source": "cultural-experience",
+      "target": "tourism",
+      "weight": 1
+    },
+    {
+      "source": "cultural-experience",
+      "target": "travel",
+      "weight": 2
+    },
+    {
+      "source": "italy",
+      "target": "tourism",
+      "weight": 1
+    },
+    {
+      "source": "italy",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "cultural-heritage",
+      "target": "geopolitics",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "intercultural-exchange",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "social-issues",
+      "weight": 1
+    },
+    {
+      "source": "intercultural-exchange",
+      "target": "social-issues",
+      "weight": 1
+    },
+    {
+      "source": "history",
+      "target": "tourism",
+      "weight": 1
+    },
+    {
+      "source": "history",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "career",
+      "target": "laisser",
+      "weight": 1
+    },
+    {
+      "source": "career",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "laisser",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "laisser",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "travel",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "cultural-experience",
+      "target": "japan",
+      "weight": 1
+    },
+    {
+      "source": "cultural-experience",
+      "target": "trouver",
+      "weight": 1
+    },
+    {
+      "source": "japan",
+      "target": "trouver",
+      "weight": 1
+    },
+    {
+      "source": "travel",
+      "target": "trouver",
+      "weight": 1
+    },
+    {
+      "source": "classical-music",
+      "target": "musical-instruments",
+      "weight": 1
+    },
+    {
+      "source": "academic-collaboration",
+      "target": "interdisciplinary-research",
+      "weight": 1
+    },
+    {
+      "source": "academic-collaboration",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "academic-collaboration",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "interdisciplinary-research",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "interdisciplinary-research",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "technology",
+      "weight": 2
+    },
+    {
+      "source": "community",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "community",
+      "target": "government",
+      "weight": 1
+    },
+    {
+      "source": "community",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "community",
+      "target": "resources",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "government",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "policy",
+      "weight": 2
+    },
+    {
+      "source": "education",
+      "target": "resources",
+      "weight": 1
+    },
+    {
+      "source": "government",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "government",
+      "target": "resources",
+      "weight": 1
+    },
+    {
+      "source": "policy",
+      "target": "resources",
+      "weight": 1
+    },
+    {
+      "source": "agriculture",
+      "target": "environment",
+      "weight": 1
+    },
+    {
+      "source": "agriculture",
+      "target": "nature",
+      "weight": 1
+    },
+    {
+      "source": "agriculture",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "agriculture",
+      "target": "sustainability",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "nature",
+      "weight": 2
+    },
+    {
+      "source": "environment",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "sustainability",
+      "weight": 2
+    },
+    {
+      "source": "nature",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "nature",
+      "target": "sustainability",
+      "weight": 1
+    },
+    {
+      "source": "professional",
+      "target": "sustainability",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "cooking",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "family",
+      "weight": 2
+    },
+    {
+      "source": "childhood",
+      "target": "fruits",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "garden",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "grandmother",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "memories",
+      "weight": 3
+    },
+    {
+      "source": "childhood",
+      "target": "traditions",
+      "weight": 2
+    },
+    {
+      "source": "cooking",
+      "target": "fruits",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "garden",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "grandmother",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "memories",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "traditions",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "fruits",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "garden",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "traditions",
+      "weight": 2
+    },
+    {
+      "source": "fruits",
+      "target": "garden",
+      "weight": 1
+    },
+    {
+      "source": "fruits",
+      "target": "grandmother",
+      "weight": 1
+    },
+    {
+      "source": "fruits",
+      "target": "memories",
+      "weight": 1
+    },
+    {
+      "source": "fruits",
+      "target": "traditions",
+      "weight": 1
+    },
+    {
+      "source": "garden",
+      "target": "grandmother",
+      "weight": 1
+    },
+    {
+      "source": "garden",
+      "target": "memories",
+      "weight": 1
+    },
+    {
+      "source": "garden",
+      "target": "traditions",
+      "weight": 1
+    },
+    {
+      "source": "grandmother",
+      "target": "memories",
+      "weight": 1
+    },
+    {
+      "source": "grandmother",
+      "target": "traditions",
+      "weight": 1
+    },
+    {
+      "source": "memories",
+      "target": "traditions",
+      "weight": 2
+    },
+    {
+      "source": "politeness",
+      "target": "time-management",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "summer",
+      "weight": 1
+    },
+    {
+      "source": "memories",
+      "target": "summer",
+      "weight": 1
+    },
+    {
+      "source": "memories",
+      "target": "vacation",
+      "weight": 2
+    },
+    {
+      "source": "routine",
+      "target": "summer",
+      "weight": 1
+    },
+    {
+      "source": "routine",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "exercise",
+      "target": "health",
+      "weight": 1
+    },
+    {
+      "source": "career",
+      "target": "choices",
+      "weight": 2
+    },
+    {
+      "source": "career",
+      "target": "modern-life",
+      "weight": 2
+    },
+    {
+      "source": "career",
+      "target": "personal-development",
+      "weight": 2
+    },
+    {
+      "source": "career",
+      "target": "philosophy",
+      "weight": 1
+    },
+    {
+      "source": "career",
+      "target": "vie",
+      "weight": 2
+    },
+    {
+      "source": "career",
+      "target": "work-life-balance",
+      "weight": 2
+    },
+    {
+      "source": "choices",
+      "target": "modern-life",
+      "weight": 2
+    },
+    {
+      "source": "choices",
+      "target": "personal-development",
+      "weight": 2
+    },
+    {
+      "source": "choices",
+      "target": "philosophy",
+      "weight": 1
+    },
+    {
+      "source": "choices",
+      "target": "vie",
+      "weight": 2
+    },
+    {
+      "source": "choices",
+      "target": "work-life-balance",
+      "weight": 2
+    },
+    {
+      "source": "modern-life",
+      "target": "personal-development",
+      "weight": 2
+    },
+    {
+      "source": "modern-life",
+      "target": "philosophy",
+      "weight": 1
+    },
+    {
+      "source": "modern-life",
+      "target": "vie",
+      "weight": 2
+    },
+    {
+      "source": "modern-life",
+      "target": "work-life-balance",
+      "weight": 2
+    },
+    {
+      "source": "personal-development",
+      "target": "philosophy",
+      "weight": 1
+    },
+    {
+      "source": "personal-development",
+      "target": "vie",
+      "weight": 2
+    },
+    {
+      "source": "personal-development",
+      "target": "work-life-balance",
+      "weight": 2
+    },
+    {
+      "source": "philosophy",
+      "target": "vie",
+      "weight": 1
+    },
+    {
+      "source": "philosophy",
+      "target": "work-life-balance",
+      "weight": 1
+    },
+    {
+      "source": "vie",
+      "target": "work-life-balance",
+      "weight": 2
+    },
+    {
+      "source": "emotions",
+      "target": "workplace",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "love",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "marriage",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "relationships",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "marriage",
+      "weight": 1
+    },
+    {
+      "source": "love",
+      "target": "marriage",
+      "weight": 1
+    },
+    {
+      "source": "marriage",
+      "target": "relationships",
+      "weight": 2
+    },
+    {
+      "source": "conflict-resolution",
+      "target": "professional-relationships",
+      "weight": 2
+    },
+    {
+      "source": "conflict-resolution",
+      "target": "workplace",
+      "weight": 2
+    },
+    {
+      "source": "professional-relationships",
+      "target": "workplace",
+      "weight": 2
+    },
+    {
+      "source": "adjective-agreement",
+      "target": "environment",
+      "weight": 1
+    },
+    {
+      "source": "adjective-agreement",
+      "target": "generational-differences",
+      "weight": 2
+    },
+    {
+      "source": "adjective-agreement",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "generational-differences",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "generational-differences",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "adjective-agreement",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "adjective-agreement",
+      "target": "opinions",
+      "weight": 1
+    },
+    {
+      "source": "adjective-agreement",
+      "target": "parenting",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "generational-differences",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "opinions",
+      "weight": 1
+    },
+    {
+      "source": "generational-differences",
+      "target": "opinions",
+      "weight": 1
+    },
+    {
+      "source": "generational-differences",
+      "target": "parenting",
+      "weight": 1
+    },
+    {
+      "source": "opinions",
+      "target": "parenting",
+      "weight": 1
+    },
+    {
+      "source": "internet-culture",
+      "target": "media",
+      "weight": 2
+    },
+    {
+      "source": "internet-culture",
+      "target": "politics",
+      "weight": 2
+    },
+    {
+      "source": "internet-culture",
+      "target": "public-spending",
+      "weight": 2
+    },
+    {
+      "source": "internet-culture",
+      "target": "social-commentary",
+      "weight": 2
+    },
+    {
+      "source": "internet-culture",
+      "target": "taxation",
+      "weight": 2
+    },
+    {
+      "source": "media",
+      "target": "public-spending",
+      "weight": 2
+    },
+    {
+      "source": "media",
+      "target": "social-commentary",
+      "weight": 2
+    },
+    {
+      "source": "media",
+      "target": "taxation",
+      "weight": 2
+    },
+    {
+      "source": "politics",
+      "target": "public-spending",
+      "weight": 2
+    },
+    {
+      "source": "politics",
+      "target": "social-commentary",
+      "weight": 2
+    },
+    {
+      "source": "politics",
+      "target": "taxation",
+      "weight": 2
+    },
+    {
+      "source": "public-spending",
+      "target": "social-commentary",
+      "weight": 2
+    },
+    {
+      "source": "public-spending",
+      "target": "taxation",
+      "weight": 2
+    },
+    {
+      "source": "social-commentary",
+      "target": "taxation",
+      "weight": 2
+    },
+    {
+      "source": "delays",
+      "target": "france",
+      "weight": 1
+    },
+    {
+      "source": "delays",
+      "target": "infrastructure",
+      "weight": 2
+    },
+    {
+      "source": "delays",
+      "target": "italy",
+      "weight": 1
+    },
+    {
+      "source": "delays",
+      "target": "relief",
+      "weight": 2
+    },
+    {
+      "source": "delays",
+      "target": "storm",
+      "weight": 2
+    },
+    {
+      "source": "delays",
+      "target": "tunnel",
+      "weight": 2
+    },
+    {
+      "source": "france",
+      "target": "infrastructure",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "italy",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "relief",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "storm",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "tunnel",
+      "weight": 1
+    },
+    {
+      "source": "infrastructure",
+      "target": "italy",
+      "weight": 1
+    },
+    {
+      "source": "infrastructure",
+      "target": "relief",
+      "weight": 2
+    },
+    {
+      "source": "infrastructure",
+      "target": "storm",
+      "weight": 2
+    },
+    {
+      "source": "infrastructure",
+      "target": "tunnel",
+      "weight": 2
+    },
+    {
+      "source": "italy",
+      "target": "relief",
+      "weight": 1
+    },
+    {
+      "source": "italy",
+      "target": "storm",
+      "weight": 1
+    },
+    {
+      "source": "italy",
+      "target": "tunnel",
+      "weight": 1
+    },
+    {
+      "source": "relief",
+      "target": "storm",
+      "weight": 2
+    },
+    {
+      "source": "relief",
+      "target": "tunnel",
+      "weight": 2
+    },
+    {
+      "source": "storm",
+      "target": "tunnel",
+      "weight": 2
+    },
+    {
+      "source": "laisser",
+      "target": "parenting",
+      "weight": 1
+    },
+    {
+      "source": "laisser",
+      "target": "work-life-balance",
+      "weight": 1
+    },
+    {
+      "source": "parenting",
+      "target": "work-life-balance",
+      "weight": 2
+    },
+    {
+      "source": "air",
+      "target": "environment",
+      "weight": 1
+    },
+    {
+      "source": "air",
+      "target": "health",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "health",
+      "weight": 2
+    },
+    {
+      "source": "body-parts",
+      "target": "health",
+      "weight": 1
+    },
+    {
+      "source": "body-parts",
+      "target": "medical",
+      "weight": 1
+    },
+    {
+      "source": "body-parts",
+      "target": "pouvoir",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "medical",
+      "weight": 2
+    },
+    {
+      "source": "health",
+      "target": "pouvoir",
+      "weight": 1
+    },
+    {
+      "source": "medical",
+      "target": "pouvoir",
+      "weight": 1
+    },
+    {
+      "source": "professional",
+      "target": "projects",
+      "weight": 3
+    },
+    {
+      "source": "career",
+      "target": "listening-comprehension",
+      "weight": 1
+    },
+    {
+      "source": "choices",
+      "target": "listening-comprehension",
+      "weight": 1
+    },
+    {
+      "source": "listening-comprehension",
+      "target": "modern-life",
+      "weight": 1
+    },
+    {
+      "source": "listening-comprehension",
+      "target": "personal-development",
+      "weight": 1
+    },
+    {
+      "source": "listening-comprehension",
+      "target": "vie",
+      "weight": 1
+    },
+    {
+      "source": "listening-comprehension",
+      "target": "work-life-balance",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "conflict-resolution",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "interpersonal-relationships",
+      "weight": 2
+    },
+    {
+      "source": "communication",
+      "target": "present-tense",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "professional-relationships",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "workplace",
+      "weight": 1
+    },
+    {
+      "source": "conflict-resolution",
+      "target": "interpersonal-relationships",
+      "weight": 1
+    },
+    {
+      "source": "conflict-resolution",
+      "target": "present-tense",
+      "weight": 1
+    },
+    {
+      "source": "interpersonal-relationships",
+      "target": "present-tense",
+      "weight": 1
+    },
+    {
+      "source": "interpersonal-relationships",
+      "target": "professional-relationships",
+      "weight": 1
+    },
+    {
+      "source": "interpersonal-relationships",
+      "target": "workplace",
+      "weight": 1
+    },
+    {
+      "source": "present-tense",
+      "target": "professional-relationships",
+      "weight": 1
+    },
+    {
+      "source": "present-tense",
+      "target": "workplace",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "rules",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "time-management",
+      "weight": 1
+    },
+    {
+      "source": "parenting",
+      "target": "rules",
+      "weight": 1
+    },
+    {
+      "source": "parenting",
+      "target": "time-management",
+      "weight": 1
+    },
+    {
+      "source": "rules",
+      "target": "time-management",
+      "weight": 1
+    },
+    {
+      "source": "agreement",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "air",
+      "target": "bread",
+      "weight": 1
+    },
+    {
+      "source": "air",
+      "target": "shopping",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "european-union",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "government",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "international-relations",
+      "weight": 2
+    },
+    {
+      "source": "economics",
+      "target": "politics",
+      "weight": 3
+    },
+    {
+      "source": "european-union",
+      "target": "government",
+      "weight": 1
+    },
+    {
+      "source": "european-union",
+      "target": "international-relations",
+      "weight": 1
+    },
+    {
+      "source": "european-union",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "government",
+      "target": "international-relations",
+      "weight": 1
+    },
+    {
+      "source": "international-relations",
+      "target": "politics",
+      "weight": 3
+    },
+    {
+      "source": "business",
+      "target": "protest",
+      "weight": 1
+    },
+    {
+      "source": "business",
+      "target": "negotiations",
+      "weight": 1
+    },
+    {
+      "source": "adjectives",
+      "target": "modern-life",
+      "weight": 1
+    },
+    {
+      "source": "adjectives",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "modern-life",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "government-policy",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "pollution",
+      "weight": 2
+    },
+    {
+      "source": "government-policy",
+      "target": "pollution",
+      "weight": 1
+    },
+    {
+      "source": "government-policy",
+      "target": "sustainability",
+      "weight": 1
+    },
+    {
+      "source": "pollution",
+      "target": "sustainability",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "past-habits",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "memories",
+      "target": "past-habits",
+      "weight": 1
+    },
+    {
+      "source": "past-habits",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "professional",
+      "target": "time-management",
+      "weight": 1
+    },
+    {
+      "source": "projects",
+      "target": "time-management",
+      "weight": 1
+    },
+    {
+      "source": "projects",
+      "target": "work",
+      "weight": 2
+    },
+    {
+      "source": "time-management",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "body-parts",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "healthcare",
+      "target": "sports",
+      "weight": 1
+    },
+    {
+      "source": "opinions",
+      "target": "proposals",
+      "weight": 1
+    },
+    {
+      "source": "astronomy",
+      "target": "news",
+      "weight": 1
+    },
+    {
+      "source": "astronomy",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "news",
+      "target": "science",
+      "weight": 1
+    },
+    {
+      "source": "news",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "science",
+      "target": "weather",
+      "weight": 1
+    },
+    {
+      "source": "child-development",
+      "target": "health",
+      "weight": 1
+    },
+    {
+      "source": "child-development",
+      "target": "parenting",
+      "weight": 2
+    },
+    {
+      "source": "child-development",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "parenting",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "parenting",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "child-development",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "government-policy",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "government-policy",
+      "target": "social-issues",
+      "weight": 1
+    },
+    {
+      "source": "politics",
+      "target": "social-issues",
+      "weight": 3
+    },
+    {
+      "source": "crime",
+      "target": "fraud",
+      "weight": 2
+    },
+    {
+      "source": "crime",
+      "target": "healthcare",
+      "weight": 1
+    },
+    {
+      "source": "crime",
+      "target": "news",
+      "weight": 2
+    },
+    {
+      "source": "fraud",
+      "target": "healthcare",
+      "weight": 1
+    },
+    {
+      "source": "fraud",
+      "target": "news",
+      "weight": 2
+    },
+    {
+      "source": "healthcare",
+      "target": "news",
+      "weight": 1
+    },
+    {
+      "source": "home",
+      "target": "sleep",
+      "weight": 1
+    },
+    {
+      "source": "community",
+      "target": "culture",
+      "weight": 1
+    },
+    {
+      "source": "community",
+      "target": "religion",
+      "weight": 1
+    },
+    {
+      "source": "culture",
+      "target": "religion",
+      "weight": 1
+    },
+    {
+      "source": "business",
+      "target": "future-time",
+      "weight": 1
+    },
+    {
+      "source": "future-time",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "academic",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "academic",
+      "target": "science",
+      "weight": 1
+    },
+    {
+      "source": "research",
+      "target": "science",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "online-learning",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "plans",
+      "weight": 1
+    },
+    {
+      "source": "cooking",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "plans",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "online-learning",
+      "target": "plans",
+      "weight": 1
+    },
+    {
+      "source": "online-learning",
+      "target": "vacation",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "nature",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "pollution",
+      "weight": 1
+    },
+    {
+      "source": "nature",
+      "target": "pollution",
+      "weight": 1
+    },
+    {
+      "source": "home",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "deadlines",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "projects",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "deadlines",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "deadlines",
+      "target": "projects",
+      "weight": 1
+    },
+    {
+      "source": "deadlines",
+      "target": "work",
+      "weight": 1
+    },
+    {
+      "source": "deadlines",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "crime",
+      "target": "money",
+      "weight": 1
+    },
+    {
+      "source": "fraud",
+      "target": "money",
+      "weight": 1
+    },
+    {
+      "source": "money",
+      "target": "news",
+      "weight": 1
+    },
+    {
+      "source": "marriage",
+      "target": "romance",
+      "weight": 1
+    },
+    {
+      "source": "marriage",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "relationships",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "romance",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "leadership",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "culture",
+      "target": "gentrification",
+      "weight": 2
+    },
+    {
+      "source": "culture",
+      "target": "irony",
+      "weight": 1
+    },
+    {
+      "source": "culture",
+      "target": "nostalgia",
+      "weight": 1
+    },
+    {
+      "source": "culture",
+      "target": "society",
+      "weight": 2
+    },
+    {
+      "source": "gentrification",
+      "target": "irony",
+      "weight": 1
+    },
+    {
+      "source": "gentrification",
+      "target": "nostalgia",
+      "weight": 1
+    },
+    {
+      "source": "gentrification",
+      "target": "society",
+      "weight": 2
+    },
+    {
+      "source": "irony",
+      "target": "nostalgia",
+      "weight": 1
+    },
+    {
+      "source": "irony",
+      "target": "society",
+      "weight": 1
+    },
+    {
+      "source": "nostalgia",
+      "target": "society",
+      "weight": 1
+    },
+    {
+      "source": "banlieues",
+      "target": "politics",
+      "weight": 2
+    },
+    {
+      "source": "banlieues",
+      "target": "riots",
+      "weight": 2
+    },
+    {
+      "source": "banlieues",
+      "target": "social-issues",
+      "weight": 2
+    },
+    {
+      "source": "politics",
+      "target": "riots",
+      "weight": 2
+    },
+    {
+      "source": "riots",
+      "target": "social-issues",
+      "weight": 2
+    },
+    {
+      "source": "extremism",
+      "target": "irony",
+      "weight": 1
+    },
+    {
+      "source": "extremism",
+      "target": "legal",
+      "weight": 2
+    },
+    {
+      "source": "extremism",
+      "target": "politics",
+      "weight": 2
+    },
+    {
+      "source": "irony",
+      "target": "legal",
+      "weight": 1
+    },
+    {
+      "source": "irony",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "legal",
+      "target": "politics",
+      "weight": 2
+    },
+    {
+      "source": "SNCF",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "labor",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "strikes",
+      "target": "travel",
+      "weight": 1
+    },
+    {
+      "source": "controversy",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "controversy",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "controversy",
+      "target": "religion",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "religion",
+      "weight": 1
+    },
+    {
+      "source": "policy",
+      "target": "religion",
+      "weight": 1
+    },
+    {
+      "source": "economy",
+      "target": "government",
+      "weight": 1
+    },
+    {
+      "source": "economy",
+      "target": "politics",
+      "weight": 2
+    },
+    {
+      "source": "european-union",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "european-union",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "policy",
+      "target": "regulation",
+      "weight": 1
+    },
+    {
+      "source": "policy",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "regulation",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "crime",
+      "target": "justice",
+      "weight": 1
+    },
+    {
+      "source": "justice",
+      "target": "law",
+      "weight": 1
+    },
+    {
+      "source": "justice",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "household-vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "daily-life",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "household-vocabulary",
+      "target": "planning",
+      "weight": 1
+    },
+    {
+      "source": "historical-analysis",
+      "target": "history",
+      "weight": 1
+    },
+    {
+      "source": "academic-collaboration",
+      "target": "diplomacy",
+      "weight": 1
+    },
+    {
+      "source": "academic-collaboration",
+      "target": "intercultural-exchange",
+      "weight": 1
+    },
+    {
+      "source": "diplomacy",
+      "target": "intercultural-exchange",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "epistemology",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "geopolitics",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "interdisciplinary-research",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "neoliberalism",
+      "weight": 1
+    },
+    {
+      "source": "epistemology",
+      "target": "geopolitics",
+      "weight": 1
+    },
+    {
+      "source": "epistemology",
+      "target": "interdisciplinary-research",
+      "weight": 1
+    },
+    {
+      "source": "epistemology",
+      "target": "neoliberalism",
+      "weight": 1
+    },
+    {
+      "source": "geopolitics",
+      "target": "interdisciplinary-research",
+      "weight": 1
+    },
+    {
+      "source": "geopolitics",
+      "target": "neoliberalism",
+      "weight": 1
+    },
+    {
+      "source": "interdisciplinary-research",
+      "target": "neoliberalism",
+      "weight": 1
+    },
+    {
+      "source": "advanced-vocabulary",
+      "target": "food",
+      "weight": 1
+    },
+    {
+      "source": "advanced-vocabulary",
+      "target": "seafood",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "advanced-vocabulary",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "emotions",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "historical-analysis",
+      "weight": 1
+    },
+    {
+      "source": "advanced-vocabulary",
+      "target": "emotions",
+      "weight": 1
+    },
+    {
+      "source": "advanced-vocabulary",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "advanced-vocabulary",
+      "target": "historical-analysis",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "family",
+      "weight": 1
+    },
+    {
+      "source": "emotions",
+      "target": "historical-analysis",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "historical-analysis",
+      "weight": 1
+    },
+    {
+      "source": "diplomacy",
+      "target": "geopolitics",
+      "weight": 2
+    },
+    {
+      "source": "diplomacy",
+      "target": "international-relations",
+      "weight": 2
+    },
+    {
+      "source": "diplomacy",
+      "target": "negotiations",
+      "weight": 1
+    },
+    {
+      "source": "diplomacy",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "geopolitics",
+      "target": "international-relations",
+      "weight": 4
+    },
+    {
+      "source": "geopolitics",
+      "target": "negotiations",
+      "weight": 1
+    },
+    {
+      "source": "geopolitics",
+      "target": "politics",
+      "weight": 2
+    },
+    {
+      "source": "international-relations",
+      "target": "negotiations",
+      "weight": 1
+    },
+    {
+      "source": "negotiations",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "bread",
+      "target": "cultural-heritage",
+      "weight": 1
+    },
+    {
+      "source": "bread",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "cultural-heritage",
+      "target": "professional",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "economics",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "employment",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "france",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "inequality",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "social-issues",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "society",
+      "weight": 1
+    },
+    {
+      "source": "analysis",
+      "target": "sociology",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "employment",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "france",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "inequality",
+      "weight": 2
+    },
+    {
+      "source": "economics",
+      "target": "social-issues",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "society",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "sociology",
+      "weight": 1
+    },
+    {
+      "source": "employment",
+      "target": "france",
+      "weight": 1
+    },
+    {
+      "source": "employment",
+      "target": "inequality",
+      "weight": 1
+    },
+    {
+      "source": "employment",
+      "target": "social-issues",
+      "weight": 1
+    },
+    {
+      "source": "employment",
+      "target": "society",
+      "weight": 1
+    },
+    {
+      "source": "employment",
+      "target": "sociology",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "inequality",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "social-issues",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "society",
+      "weight": 1
+    },
+    {
+      "source": "france",
+      "target": "sociology",
+      "weight": 1
+    },
+    {
+      "source": "inequality",
+      "target": "social-issues",
+      "weight": 1
+    },
+    {
+      "source": "inequality",
+      "target": "society",
+      "weight": 1
+    },
+    {
+      "source": "inequality",
+      "target": "sociology",
+      "weight": 1
+    },
+    {
+      "source": "social-issues",
+      "target": "society",
+      "weight": 1
+    },
+    {
+      "source": "social-issues",
+      "target": "sociology",
+      "weight": 1
+    },
+    {
+      "source": "society",
+      "target": "sociology",
+      "weight": 1
+    },
+    {
+      "source": "crime",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "formal-discourse",
+      "target": "geopolitics",
+      "weight": 1
+    },
+    {
+      "source": "formal-discourse",
+      "target": "government",
+      "weight": 1
+    },
+    {
+      "source": "geopolitics",
+      "target": "government",
+      "weight": 1
+    },
+    {
+      "source": "communication",
+      "target": "laisser",
+      "weight": 1
+    },
+    {
+      "source": "dating",
+      "target": "interpersonal-relationships",
+      "weight": 1
+    },
+    {
+      "source": "dating",
+      "target": "laisser",
+      "weight": 1
+    },
+    {
+      "source": "interpersonal-relationships",
+      "target": "laisser",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "music",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "philosophy",
+      "weight": 1
+    },
+    {
+      "source": "academic-discourse",
+      "target": "pouvoir",
+      "weight": 1
+    },
+    {
+      "source": "music",
+      "target": "philosophy",
+      "weight": 1
+    },
+    {
+      "source": "music",
+      "target": "pouvoir",
+      "weight": 1
+    },
+    {
+      "source": "philosophy",
+      "target": "pouvoir",
+      "weight": 1
+    },
+    {
+      "source": "culture",
+      "target": "literature",
+      "weight": 1
+    },
+    {
+      "source": "academic",
+      "target": "formal-discourse",
+      "weight": 1
+    },
+    {
+      "source": "academic",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "formal-discourse",
+      "target": "policy",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "neoliberalism",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "policy-analysis",
+      "weight": 2
+    },
+    {
+      "source": "inequality",
+      "target": "neoliberalism",
+      "weight": 1
+    },
+    {
+      "source": "inequality",
+      "target": "policy-analysis",
+      "weight": 1
+    },
+    {
+      "source": "neoliberalism",
+      "target": "policy-analysis",
+      "weight": 1
+    },
+    {
+      "source": "hobbies",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "leisure",
+      "target": "time",
+      "weight": 1
+    },
+    {
+      "source": "epistemology",
+      "target": "philosophy",
+      "weight": 1
+    },
+    {
+      "source": "epistemology",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "epistemology",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "philosophy",
+      "target": "research",
+      "weight": 1
+    },
+    {
+      "source": "philosophy",
+      "target": "technology",
+      "weight": 1
+    },
+    {
+      "source": "policy-analysis",
+      "target": "politics",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "geopolitics",
+      "weight": 1
+    },
+    {
+      "source": "economics",
+      "target": "strategic-alliances",
+      "weight": 1
+    },
+    {
+      "source": "geopolitics",
+      "target": "strategic-alliances",
+      "weight": 2
+    },
+    {
+      "source": "international-relations",
+      "target": "strategic-alliances",
+      "weight": 2
+    },
+    {
+      "source": "politics",
+      "target": "strategic-alliances",
+      "weight": 1
+    },
+    {
+      "source": "family",
+      "target": "work-life-balance",
+      "weight": 1
+    },
+    {
+      "source": "environment",
+      "target": "science",
+      "weight": 1
+    },
+    {
+      "source": "leadership",
+      "target": "negotiations",
+      "weight": 1
+    },
+    {
+      "source": "projects",
+      "target": "workplace",
+      "weight": 1
+    },
+    {
+      "source": "behavior",
+      "target": "childhood",
+      "weight": 1
+    },
+    {
+      "source": "behavior",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "childhood",
+      "target": "education",
+      "weight": 1
+    },
+    {
+      "source": "time-management",
+      "target": "workplace",
+      "weight": 1
+    },
+    {
+      "source": "business",
+      "target": "proposals",
+      "weight": 1
+    },
+    {
+      "source": "health",
+      "target": "leadership",
+      "weight": 1
+    },
+    {
+      "source": "infrastructure",
+      "target": "sustainable-development",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "literature",
+      "weight": 1
+    },
+    {
+      "source": "education",
+      "target": "philosophy",
+      "weight": 1
+    },
+    {
+      "source": "literature",
+      "target": "philosophy",
+      "weight": 1
+    }
+  ]
+}

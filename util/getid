@@ -2,42 +2,44 @@
 
 # Get next available ID for CEFR level groups
 # Usage: ./getid [a|b|c]
-# a = A1/A2 levels (questions-a.json, ID range 34-99)
-# b = B1/B2 levels (questions-b.json, ID range 200-299)  
-# c = C1/C2 levels (questions-c.json, ID range 100-199)
+# a = A1/A2 levels (questions-a.json, ID range 34-199)
+# b = B1/B2 levels (questions-b.json, ID range 200-399)  
+# c = C1/C2 levels (questions-c.json, ID range 400-499)
 
 if [ $# -eq 0 ]; then
     echo "Usage: $0 [a|b|c]"
-    echo "  a = A1/A2 levels (questions-a.json, ID range 34-99)"
-    echo "  b = B1/B2 levels (questions-b.json, ID range 200-299)"
-    echo "  c = C1/C2 levels (questions-c.json, ID range 100-199)"
+    echo "  a = A1/A2 levels (questions-a.json, ID range 34-199)"
+    echo "  b = B1/B2 levels (questions-b.json, ID range 200-399)"
+    echo "  c = C1/C2 levels (questions-c.json, ID range 400-499)"
     exit 1
 fi
 
 level="$1"
 
 # Determine path based on current directory
-if [ -f "questions-a.json" ]; then
-    PATH_PREFIX=""
+if [ -f "questions/questions-a.json" ]; then
+    PATH_PREFIX="questions/"
+elif [ -f "../questions/questions-a.json" ]; then
+    PATH_PREFIX="../questions/"
 else
-    PATH_PREFIX="../"
+    PATH_PREFIX="questions/"
 fi
 
 case "$level" in
     a|A)
         file="${PATH_PREFIX}questions-a.json"
         min_id=34
-        max_id=99
+        max_id=199
         ;;
     b|B)
         file="${PATH_PREFIX}questions-b.json"
         min_id=200
-        max_id=299
+        max_id=399
         ;;
     c|C)
         file="${PATH_PREFIX}questions-c.json"
-        min_id=100
-        max_id=199
+        min_id=400
+        max_id=499
         ;;
     *)
         echo "Error: Invalid level '$level'. Use 'a', 'b', or 'c'."

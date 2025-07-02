@@ -7,12 +7,12 @@ echo "🇫🇷 French Question Bank Analyzer"
 echo "=================================="
 
 # Determine the correct path to question files based on current directory
-if ls question*.json 1> /dev/null 2>&1; then
+if ls questions/question*.json 1> /dev/null 2>&1; then
     # Running from root directory
-    QUESTION_PATH=""
-elif ls ../question*.json 1> /dev/null 2>&1; then
+    QUESTION_PATH="questions/"
+elif ls ../questions/question*.json 1> /dev/null 2>&1; then
     # Running from util directory
-    QUESTION_PATH="../"
+    QUESTION_PATH="../questions/"
 else
     echo "❌ Error: No question*.json files found"
     exit 1
@@ -74,7 +74,7 @@ if [ ! -f "${DATABASE_PATH}database/nouns.csv" ]; then
         awk '{printf "%2d. %-20s (%d occurrences)\n", NR, $2, $1}'
 else
     echo "Using Lexique frequency data - showing 50 nouns that need attention..."
-    echo "(Filtering out well-represented nouns with >0.1% frequency)"
+    echo "(Filtering out well-represented nouns with >0.07% frequency)"
     echo ""
     
     # Create temporary files
@@ -106,8 +106,8 @@ else
              COUNT=$(grep -cx "$noun" $TEMP_WORDS)
              FREQUENCY=$(echo "scale=2; $COUNT * 100 / $TOTAL_WORD_INSTANCES" | bc)
              
-             # Skip if frequency > 0.1%
-             if (( $(echo "$FREQUENCY > 0.1" | bc -l) )); then
+             # Skip if frequency > 0.07%
+             if (( $(echo "$FREQUENCY > 0.07" | bc -l) )); then
                  continue
              fi
              

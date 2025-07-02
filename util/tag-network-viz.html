@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Question Bank - Tag Network Analysis</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #7f8c8d;
+            font-size: 16px;
+        }
+        
+        .container {
+            display: flex;
+            gap: 20px;
+            height: calc(100vh - 180px); /* Use most of viewport height */
+        }
+        
+        .main-viz {
+            flex: 1;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+            min-height: 600px; /* Ensure minimum height */
+            overflow: hidden; /* Prevent scrollbars */
+        }
+        
+        .sidebar {
+            width: 300px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+            height: fit-content;
+        }
+        
+        .controls {
+            margin-bottom: 20px;
+        }
+        
+        .control-group {
+            margin-bottom: 15px;
+        }
+        
+        .control-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        .control-group input, .control-group select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        
+        .legend {
+            margin-top: 20px;
+        }
+        
+        .legend h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 8px;
+        }
+        
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+        
+        .stats {
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+        
+        .stats h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        
+        .stat-item {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+        
+        .tooltip {
+            position: absolute;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 12px;
+            pointer-events: none;
+            z-index: 1000;
+        }
+        
+        .search-highlight {
+            stroke: #e74c3c !important;
+            stroke-width: 3px !important;
+        }
+        
+        .connected-highlight {
+            stroke: #f39c12 !important;
+            stroke-width: 2px !important;
+        }
+        
+        /* Ensure proper layering */
+        .links {
+            z-index: 1;
+        }
+        
+        .nodes {
+            z-index: 2;
+        }
+        
+        .labels {
+            z-index: 3;
+        }
+        
+        .link {
+            stroke: #999;
+            stroke-opacity: 0.6;
+        }
+        
+        .node {
+            cursor: grab;
+        }
+        
+        .node:active {
+            cursor: grabbing;
+        }
+        
+        .label {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: 500;
+            text-shadow: 1px 1px 2px rgba(255,255,255,0.8), -1px -1px 2px rgba(255,255,255,0.8);
+            transition: opacity 0.3s ease, font-size 0.3s ease;
+        }
+        
+        .zoom-group {
+            cursor: move;
+        }
+        
+        .interaction-help {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 10px;
+            margin-bottom: 15px;
+            font-size: 12px;
+            color: #6c757d;
+        }
+        
+        .interaction-help strong {
+            color: #495057;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏷️ French Question Bank - Tag Network Analysis</h1>
+        <p>Interactive visualization of topic relationships and content gaps</p>
+    </div>
+    
+    <div class="container">
+        <div class="main-viz">
+            <svg id="network"></svg>
+        </div>
+        
+        <div class="sidebar">
+            <div class="interaction-help">
+                <strong>🖱️ Interactions:</strong><br>
+                • <strong>Mouse wheel:</strong> Zoom in/out<br>
+                • <strong>Click & drag canvas:</strong> Pan view<br>
+                • <strong>Drag nodes:</strong> Pin in place (red border)<br>
+                • <strong>Double-click node:</strong> Unpin<br>
+                • <strong>Click node:</strong> Highlight connections
+            </div>
+            
+            <div class="controls">
+                <div class="control-group">
+                    <label for="search">Search Tags:</label>
+                    <input type="text" id="search" placeholder="Type to search tags...">
+                </div>
+                
+                <div class="control-group">
+                    <label for="minSize">Min Tag Frequency:</label>
+                    <input type="range" id="minSize" min="1" max="10" value="2">
+                    <span id="minSizeValue">2</span>
+                </div>
+                
+                <div class="control-group">
+                    <label for="categoryFilter">Filter by Category:</label>
+                    <select id="categoryFilter">
+                        <option value="all">All Categories</option>
+                        <option value="daily-life">Daily Life</option>
+                        <option value="politics-government">Politics & Government</option>
+                        <option value="education-learning">Education & Learning</option>
+                        <option value="technology-digital">Technology & Digital</option>
+                        <option value="health-medical">Health & Medical</option>
+                        <option value="science-research">Science & Research</option>
+                        <option value="work-business">Work & Business</option>
+                        <option value="leisure-entertainment">Leisure & Entertainment</option>
+                        <option value="social-relationships">Social & Relationships</option>
+                        <option value="emotions-psychology">Emotions & Psychology</option>
+                        <option value="geography-places">Geography & Places</option>
+                        <option value="transportation-travel">Transportation & Travel</option>
+                        <option value="time-calendar">Time & Calendar</option>
+                        <option value="legal-crime">Legal & Crime</option>
+                        <option value="culture-arts">Culture & Arts</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                
+                <div class="control-group">
+                    <button id="resetBtn" style="width: 100%; padding: 10px; background: #3498db; color: white; border: none; border-radius: 4px; cursor: pointer;">
+                        🔄 Reset Layout
+                    </button>
+                </div>
+            </div>
+            
+            <div class="legend">
+                <h3>Categories</h3>
+                <div id="legend-items"></div>
+            </div>
+            
+            <div class="stats">
+                <h3>Network Stats</h3>
+                <div class="stat-item">
+                    <span>Total Tags:</span>
+                    <span id="total-nodes">-</span>
+                </div>
+                <div class="stat-item">
+                    <span>Connections:</span>
+                    <span id="total-links">-</span>
+                </div>
+                <div class="stat-item">
+                    <span>Isolated Tags:</span>
+                    <span id="isolated-nodes">-</span>
+                </div>
+                <div class="stat-item">
+                    <span>Avg Connections:</span>
+                    <span id="avg-degree">-</span>
+                </div>
+                <div class="stat-item">
+                    <span>Zoom Level:</span>
+                    <span id="zoom-level">1.0x</span>
+                </div>
+                <div class="stat-item">
+                    <span>Visible Labels:</span>
+                    <span id="visible-labels">-</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="tooltip" id="tooltip" style="display: none;"></div>
+
+    <script>
+        // Color scheme for categories
+        const categoryColors = {
+            'daily-life': '#3498db',
+            'politics-government': '#e74c3c', 
+            'education-learning': '#2ecc71',
+            'technology-digital': '#9b59b6',
+            'health-medical': '#e67e22',
+            'science-research': '#1abc9c',
+            'work-business': '#34495e',
+            'leisure-entertainment': '#f39c12',
+            'social-relationships': '#e91e63',
+            'emotions-psychology': '#8e44ad',
+            'geography-places': '#16a085',
+            'transportation-travel': '#d35400',
+            'time-calendar': '#7f8c8d',
+            'legal-crime': '#c0392b',
+            'culture-arts': '#f1c40f',
+            'other': '#bdc3c7'
+        };
+        
+        // Set up SVG - make it responsive and larger
+        const container = document.querySelector('.main-viz');
+        const width = container.clientWidth - 40; // Account for padding
+        const height = Math.max(800, window.innerHeight - 200); // Minimum 800px, or viewport height
+        
+        const svg = d3.select("#network")
+            .attr("width", width)
+            .attr("height", height)
+            .style("border", "1px solid #eee"); // Add subtle border to see bounds
+        
+        // Create zoom behavior
+        const zoom = d3.zoom()
+            .scaleExtent([0.1, 10])
+            .on("zoom", function(event) {
+                zoomGroup.attr("transform", event.transform);
+                updateLabelsBasedOnZoom(event.transform);
+            });
+        
+        // Apply zoom to SVG
+        svg.call(zoom);
+        
+        // Create a group for all zoomable content
+        const zoomGroup = svg.append("g").attr("class", "zoom-group");
+        
+        let data, nodes, links, simulation, link, node;
+        let selectedNode = null;
+        
+        // Load and initialize
+        d3.json("tag-network-data.json").then(function(networkData) {
+            data = networkData;
+            initializeVisualization();
+            setupControls();
+            updateStats();
+        });
+        
+        // Handle window resize
+        window.addEventListener('resize', function() {
+            const newWidth = container.clientWidth - 40;
+            const newHeight = Math.max(800, window.innerHeight - 200);
+            
+            svg.attr("width", newWidth).attr("height", newHeight);
+            
+            // Update simulation center
+            if (simulation) {
+                simulation.force("center", d3.forceCenter(newWidth / 2, newHeight / 2));
+                simulation.alpha(0.3).restart();
+            }
+        });
+        
+        function initializeVisualization() {
+            // Filter data based on controls
+            const minSize = parseInt(document.getElementById('minSize').value);
+            const categoryFilter = document.getElementById('categoryFilter').value;
+            
+            // Preserve existing node positions if they exist
+            const existingPositions = new Map();
+            if (nodes) {
+                nodes.forEach(d => {
+                    if (d.x !== undefined && d.y !== undefined) {
+                        existingPositions.set(d.id, {x: d.x, y: d.y, vx: d.vx || 0, vy: d.vy || 0});
+                    }
+                });
+            }
+            
+            nodes = data.nodes.filter(d => {
+                return d.size >= minSize && 
+                       (categoryFilter === 'all' || d.group === categoryFilter);
+            }).map(d => {
+                // Restore previous position if it exists
+                const existing = existingPositions.get(d.id);
+                if (existing) {
+                    return {...d, x: existing.x, y: existing.y, vx: existing.vx, vy: existing.vy};
+                }
+                return {...d}; // Create copy to avoid mutation
+            });
+            
+            const nodeIds = new Set(nodes.map(d => d.id));
+            // Create fresh copies of links to avoid D3 mutation issues
+            links = data.links.filter(d => 
+                nodeIds.has(d.source) && nodeIds.has(d.target)
+            ).map(d => ({...d})); // Create fresh copies
+            
+            // Clear previous visualization (but keep zoom group)
+            zoomGroup.selectAll("*").remove();
+            
+            // Stop existing simulation
+            if (simulation) {
+                simulation.stop();
+            }
+            
+            // Create simulation with proper force strengths
+            simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.id)
+                    .strength(0.1)
+                    .distance(30))
+                .force("charge", d3.forceManyBody()
+                    .strength(-200)
+                    .distanceMax(200))
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .force("collision", d3.forceCollide()
+                    .radius(d => Math.sqrt(d.size) * 2 + 8)
+                    .strength(0.7));
+            
+            // Create links
+            console.log(`Creating ${links.length} links for ${nodes.length} nodes`);
+            
+            const linkGroup = zoomGroup.append("g").attr("class", "links");
+            link = linkGroup
+                .selectAll("line")
+                .data(links)
+                .enter().append("line")
+                .attr("stroke", "#999")
+                .attr("stroke-opacity", 0.6)
+                .attr("stroke-width", d => Math.max(1, Math.sqrt(d.weight)))
+                .attr("class", "link");
+            
+            // Create nodes
+            const nodeGroup = zoomGroup.append("g").attr("class", "nodes");
+            node = nodeGroup
+                .selectAll("circle")
+                .data(nodes)
+                .enter().append("circle")
+                .attr("r", d => Math.sqrt(d.size) * 2 + 3)
+                .attr("fill", d => categoryColors[d.group] || categoryColors.other)
+                .attr("stroke", "#fff")
+                .attr("stroke-width", 1.5)
+                .attr("class", "node")
+                .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended))
+                .on("mouseover", showTooltip)
+                .on("mouseout", hideTooltip)
+                .on("click", selectNode)
+                .on("dblclick", unpinNode);
+            
+            // Add labels for all nodes (but control visibility dynamically)
+            const labelGroup = zoomGroup.append("g").attr("class", "labels");
+            const labels = labelGroup
+                .selectAll("text")
+                .data(nodes)
+                .enter().append("text")
+                .text(d => d.id)
+                .attr("font-size", d => Math.max(8, Math.min(14, 8 + d.size / 5)) + "px")
+                .attr("text-anchor", "middle")
+                .attr("dy", 3)
+                .attr("pointer-events", "none")
+                .attr("fill", "#333")
+                .attr("class", "label")
+                .style("opacity", 0) // Start hidden
+                .each(function(d) {
+                    // Store priority for label display
+                    d.labelPriority = d.size * 10 + (d.group === 'politics' ? 5 : 0);
+                });
+            
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+                
+                node
+                    .attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+                
+                labels
+                    .attr("x", d => d.x)
+                    .attr("y", d => d.y);
+            });
+            
+            // Initial label update
+            setTimeout(() => updateLabelsBasedOnZoom(d3.zoomTransform(svg.node())), 1000);
+        }
+        
+        function updateLabelsBasedOnZoom(transform) {
+            if (!nodes || !node) return;
+            
+            const scale = transform.k;
+            const currentViewport = {
+                x: -transform.x / scale,
+                y: -transform.y / scale,
+                width: width / scale,
+                height: height / scale
+            };
+            
+            // Calculate density and visibility parameters
+            const baseNodeDistance = 50; // Minimum distance between labeled nodes
+            const scaledDistance = baseNodeDistance / scale;
+            const maxLabels = Math.floor(50 + scale * 30); // More labels when zoomed in
+            
+            // Calculate which nodes are in viewport
+            const visibleNodes = nodes.filter(d => {
+                return d.x >= currentViewport.x - 50 &&
+                       d.x <= currentViewport.x + currentViewport.width + 50 &&
+                       d.y >= currentViewport.y - 50 &&
+                       d.y <= currentViewport.y + currentViewport.height + 50;
+            });
+            
+            // Sort by priority (size + category bonus)
+            visibleNodes.sort((a, b) => b.labelPriority - a.labelPriority);
+            
+            // Apply density filtering to prevent overcrowding
+            const selectedNodes = [];
+            for (let node of visibleNodes) {
+                if (selectedNodes.length >= maxLabels) break;
+                
+                // Check if this node is too close to already selected nodes
+                const tooClose = selectedNodes.some(selected => {
+                    const dx = node.x - selected.x;
+                    const dy = node.y - selected.y;
+                    return Math.sqrt(dx * dx + dy * dy) < scaledDistance;
+                });
+                
+                if (!tooClose) {
+                    selectedNodes.push(node);
+                }
+            }
+            
+            // Update label visibility with smooth transitions
+            d3.selectAll('.label')
+                .transition()
+                .duration(300)
+                .style("opacity", d => {
+                    const shouldShow = selectedNodes.includes(d);
+                    return shouldShow ? 1 : 0;
+                })
+                .attr("font-size", d => {
+                    const baseSize = Math.max(8, Math.min(16, 8 + d.size / 5));
+                    const scaledSize = Math.min(20, baseSize * Math.sqrt(scale));
+                    return scaledSize + "px";
+                });
+            
+            // Update debug stats
+            document.getElementById('zoom-level').textContent = scale.toFixed(1) + 'x';
+            document.getElementById('visible-labels').textContent = selectedNodes.length;
+        }
+        
+        function setupControls() {
+            // Search functionality
+            document.getElementById('search').addEventListener('input', function(e) {
+                const searchTerm = e.target.value.toLowerCase();
+                
+                node.classed('search-highlight', d => 
+                    d.id.toLowerCase().includes(searchTerm) && searchTerm.length > 0
+                );
+            });
+            
+            // Size filter with gentler restart
+            document.getElementById('minSize').addEventListener('input', function(e) {
+                document.getElementById('minSizeValue').textContent = e.target.value;
+                initializeVisualization();
+                updateStats();
+                
+                // Gentle restart to maintain stability
+                if (simulation) {
+                    simulation.alpha(0.3).restart();
+                }
+                
+                // Update labels after a short delay
+                setTimeout(() => updateLabelsBasedOnZoom(d3.zoomTransform(svg.node())), 500);
+            });
+            
+            // Category filter
+            document.getElementById('categoryFilter').addEventListener('change', function() {
+                initializeVisualization();
+                updateStats();
+                
+                // Update labels after a short delay
+                setTimeout(() => updateLabelsBasedOnZoom(d3.zoomTransform(svg.node())), 500);
+            });
+            
+            // Reset button
+            document.getElementById('resetBtn').addEventListener('click', function() {
+                // Reset all controls to defaults
+                document.getElementById('minSize').value = 2;
+                document.getElementById('minSizeValue').textContent = '2';
+                document.getElementById('categoryFilter').value = 'all';
+                document.getElementById('search').value = '';
+                
+                // Clear any highlights
+                selectedNode = null;
+                
+                // Force complete restart without position preservation
+                nodes = null; // This will prevent position preservation
+                initializeVisualization();
+                updateStats();
+                
+                // Reheat the simulation to get a fresh layout
+                if (simulation) {
+                    simulation.alpha(1).restart();
+                }
+            });
+            
+            // Create legend
+            const legendContainer = document.getElementById('legend-items');
+            Object.entries(categoryColors).forEach(([category, color]) => {
+                const item = document.createElement('div');
+                item.className = 'legend-item';
+                item.innerHTML = `
+                    <div class="legend-color" style="background-color: ${color}"></div>
+                    <span>${category.replace('-', ' ').replace(/\b\w/g, l => l.toUpperCase())}</span>
+                `;
+                legendContainer.appendChild(item);
+            });
+        }
+        
+        function updateStats() {
+            const isolated = nodes.filter(n => {
+                return !links.some(l => l.source.id === n.id || l.target.id === n.id);
+            }).length;
+            
+            const avgDegree = links.length * 2 / nodes.length;
+            
+            document.getElementById('total-nodes').textContent = nodes.length;
+            document.getElementById('total-links').textContent = links.length;
+            document.getElementById('isolated-nodes').textContent = isolated;
+            document.getElementById('avg-degree').textContent = avgDegree.toFixed(1);
+        }
+        
+        function selectNode(event, d) {
+            // Clear previous highlights
+            node.classed('connected-highlight', false);
+            link.classed('connected-highlight', false);
+            
+            if (selectedNode === d) {
+                selectedNode = null;
+                return;
+            }
+            
+            selectedNode = d;
+            
+            // Highlight connected nodes and links
+            const connectedNodes = new Set();
+            links.forEach((l, i) => {
+                const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                
+                if (sourceId === d.id) {
+                    connectedNodes.add(targetId);
+                    d3.select(link.nodes()[i]).classed('connected-highlight', true);
+                } else if (targetId === d.id) {
+                    connectedNodes.add(sourceId);
+                    d3.select(link.nodes()[i]).classed('connected-highlight', true);
+                }
+            });
+            
+            node.classed('connected-highlight', n => connectedNodes.has(n.id));
+        }
+        
+        function showTooltip(event, d) {
+            const tooltip = document.getElementById('tooltip');
+            const connectedCount = links.filter(l => {
+                const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
+                const targetId = typeof l.target === 'object' ? l.target.id : l.target;
+                return sourceId === d.id || targetId === d.id;
+            }).length;
+            
+            tooltip.innerHTML = `
+                <strong>${d.id}</strong><br>
+                Questions: ${d.size}<br>
+                Category: ${d.group}<br>
+                Connections: ${connectedCount}
+            `;
+            tooltip.style.display = 'block';
+            tooltip.style.left = (event.pageX + 10) + 'px';
+            tooltip.style.top = (event.pageY - 10) + 'px';
+        }
+        
+        function hideTooltip() {
+            document.getElementById('tooltip').style.display = 'none';
+        }
+        
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+        
+        function dragged(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+        
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            // Keep nodes pinned where user drops them
+            // Add visual indicator for pinned nodes
+            d3.select(event.sourceEvent.target)
+                .attr("stroke", "#e74c3c")
+                .attr("stroke-width", 3);
+        }
+        
+        function unpinNode(event, d) {
+            // Unpin node and restore original appearance
+            d.fx = null;
+            d.fy = null;
+            
+            d3.select(event.target)
+                .attr("stroke", "#fff")
+                .attr("stroke-width", 1.5);
+            
+            // Restart simulation briefly to allow node to move
+            simulation.alpha(0.1).restart();
+            
+            // Prevent click event from firing
+            event.stopPropagation();
+        }
+    </script>
+</body>
+</html>

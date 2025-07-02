@@ -10,6 +10,19 @@ import re
 import os
 from collections import defaultdict, Counter
 
+# ANSI Color codes
+class Colors:
+    RED = '\033[91m'
+    GREEN = '\033[92m'
+    YELLOW = '\033[93m'
+    BLUE = '\033[94m'
+    MAGENTA = '\033[95m'
+    CYAN = '\033[96m'
+    WHITE = '\033[97m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+    END = '\033[0m'
+
 # Determine database path based on current directory
 if os.path.exists("database/lexique-experiments/lexique.sqlite3"):
     LEXIQUE_DB_PATH = "database/lexique-experiments/lexique.sqlite3"
@@ -19,14 +32,14 @@ else:
 def connect_to_lexique():
     """Connect to the Lexique database"""
     if not os.path.exists(LEXIQUE_DB_PATH):
-        print(f"❌ Lexique database not found at {LEXIQUE_DB_PATH}")
+        print(f"{Colors.RED}❌ Lexique database not found at {LEXIQUE_DB_PATH}{Colors.END}")
         return None
     
     try:
         conn = sqlite3.connect(LEXIQUE_DB_PATH)
         return conn
     except Exception as e:
-        print(f"❌ Error connecting to database: {e}")
+        print(f"{Colors.RED}❌ Error connecting to database: {e}{Colors.END}")
         return None
 
 def get_top_verbs(limit=20):
@@ -48,9 +61,9 @@ def get_top_verbs(limit=20):
         top_verbs = cursor.fetchall()
         conn.close()
         
-        print(f"🎯 TOP {limit} MOST FREQUENT VERBS:")
+        print(f"{Colors.CYAN}{Colors.BOLD}🎯 TOP {limit} MOST FREQUENT VERBS:{Colors.END}")
         for i, (verb, freq) in enumerate(top_verbs, 1):
-            print(f"  {i:2d}. {verb:12} - {freq:8.1f}")
+            print(f"  {Colors.YELLOW}{i:2d}.{Colors.END} {Colors.GREEN}{verb:12}{Colors.END} - {Colors.WHITE}{freq:8.1f}{Colors.END}")
         
         return [verb for verb, freq in top_verbs]
         
@@ -88,10 +101,12 @@ def get_all_conjugated_forms(verb_infinitive):
 def load_question_files():
     """Load and combine all question files"""
     # Determine path based on current directory
-    if os.path.exists("questions.json"):
-        path_prefix = ""
+    if os.path.exists("questions/questions.json"):
+        path_prefix = "questions/"
+    elif os.path.exists("../questions/questions.json"):
+        path_prefix = "../questions/"
     else:
-        path_prefix = "../"
+        path_prefix = "questions/"
     
     question_files = [f'{path_prefix}questions.json', f'{path_prefix}questions-a.json', 
                      f'{path_prefix}questions-b.json', f'{path_prefix}questions-c.json']
@@ -110,9 +125,9 @@ def load_question_files():
                         continue
                     
                     all_questions.extend(questions)
-                    print(f"✅ Loaded {len(questions)} questions from {filename}")
+                    print(f"{Colors.GREEN}✅ Loaded {len(questions)} questions from {filename}{Colors.END}")
             except Exception as e:
-                print(f"❌ Error loading {filename}: {e}")
+                print(f"{Colors.RED}❌ Error loading {filename}: {e}{Colors.END}")
     
     return all_questions
 
@@ -138,21 +153,21 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
     words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç]+\b', question_text)
     word_counts = Counter(words)
     
-    print(f"\n" + "="*80)
+    print(f"\n{Colors.BOLD}{Colors.CYAN}" + "="*80)
     print("📊 CONJUGATION COVERAGE ANALYSIS")
-    print("="*80)
+    print("="*80 + f"{Colors.END}")
     
     total_coverage = {}
     
     for i, verb in enumerate(top_verbs, 1):
-        print(f"\n🔍 {i:2d}. {verb.upper()} (Rank #{i})")
+        print(f"\n{Colors.BOLD}{Colors.BLUE}🔍 {i:2d}. {verb.upper()} (Rank #{i}){Colors.END}")
         print("-" * 50)
         
         # Get all conjugated forms
         conjugated_forms = get_all_conjugated_forms(verb)
         
         if not conjugated_forms:
-            print(f"   ❌ No conjugated forms found in database")
+            print(f"   {Colors.RED}❌ No conjugated forms found in database{Colors.END}")
             continue
         
         # Check which forms appear in questions
@@ -174,7 +189,7 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
         found_forms.sort(key=lambda x: x[2], reverse=True)
         
         # Report findings
-        print(f"   ✅ FOUND FORMS: {len(found_forms)} forms found in questions")
+        print(f"   {Colors.GREEN}✅ FOUND FORMS: {len(found_forms)} forms found in questions{Colors.END}")
         
         print(f"   ❌ MISSING FORMS ({len(missing_forms)}) - Top by frequency:")
         missing_forms.sort(key=lambda x: x[2], reverse=True)  # Sort by Lexique frequency

@@ -58,4 +58,100 @@ function weightedRandomSelect(options, weights) {
 function generateCacheKey(text, voiceId) {
     // Use same MD5 approach as server (here, base64 and string manipulation)
     return btoa(text + '_' + voiceId).replace(/[^a-zA-Z0-9]/g, '').substring(0, 16);
+}
+
+// Centralized question loading function
+// Handles current file structure and future splitting scenarios
+async function loadQuestionBank(options = {}) {
+    const defaultOptions = {
+        files: ['questions/questions.json', 'questions/questions-a.json', 'questions/questions-b.json', 'questions/questions-c.json'],
+        levels: null, // null = all levels, or array like ['A1', 'A2', 'B1']
+        enableLogging: false,
+        logLevel: 3 // 1=error, 2=warn, 3=info
+    };
+    
+    const config = { ...defaultOptions, ...options };
+    
+    function log(level, ...args) {
+        if (config.enableLogging && level <= config.logLevel) {
+            const prefix = level === 1 ? '❌' : level === 2 ? '⚠️' : '📚';
+            console.log(prefix, 'QuestionLoader:', ...args);
+        }
+    }
+    
+    try {
+        log(3, 'Loading question files:', config.files);
+        
+        // Fetch all files in parallel with error handling
+        const responses = await Promise.all(
+            config.files.map(async (filename) => {
+                try {
+                    const response = await fetch(filename);
+                    return { filename, response, error: null };
+                } catch (error) {
+                    return { filename, response: null, error };
+                }
+            })
+        );
+        
+        // Process responses and extract question data
+        const questionData = await Promise.all(
+            responses.map(async ({ filename, response, error }) => {
+                if (error) {
+                    log(2, `Network error for ${filename}:`, error.message);
+                    return { filename, questions: [], error: error.message };
+                }
+                
+                if (!response.ok) {
+                    log(2, `HTTP ${response.status} for ${filename}: ${response.statusText}`);
+                    return { filename, questions: [], error: `HTTP ${response.status}` };
+                }
+                
+                try {
+                    const data = await response.json();
+                    const questions = data.questions || [];
+                    log(3, `✅ ${filename}: ${questions.length} questions loaded`);
+                    return { filename, questions, error: null };
+                } catch (parseError) {
+                    log(1, `JSON parse error for ${filename}:`, parseError.message);
+                    return { filename, questions: [], error: 'Parse error' };
+                }
+            })
+        );
+        
+        // Flatten and filter questions
+        let allQuestions = questionData.flatMap(data => data.questions);
+        
+        // Apply level filtering if specified
+        if (config.levels && Array.isArray(config.levels)) {
+            const beforeCount = allQuestions.length;
+            allQuestions = allQuestions.filter(q => 
+                config.levels.includes(q.difficulty)
+            );
+            log(3, `Filtered ${beforeCount} → ${allQuestions.length} questions for levels:`, config.levels);
+        }
+        
+        log(3, `Total questions loaded: ${allQuestions.length}`);
+        
+        return {
+            success: true,
+            questions: allQuestions,
+            fileStats: questionData.map(({ filename, questions, error }) => ({
+                filename,
+                count: questions.length,
+                error
+            })),
+            totalCount: allQuestions.length
+        };
+        
+    } catch (error) {
+        log(1, 'Critical loading error:', error);
+        return {
+            success: false,
+            questions: [],
+            fileStats: [],
+            totalCount: 0,
+            error: error.message
+        };
+    }
 } 

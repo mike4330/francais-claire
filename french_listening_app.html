@@ -978,30 +978,19 @@
         // Question bank management
         async function loadQuestionBankMulti(files = ['questions.json', 'questions-a.json', 'questions-b.json', 'questions-c.json']) {
             try {
-                debugLog(3, 'Loading question files:', files);
+                // Use centralized loading function
+                const result = await loadQuestionBank({
+                    files: files,
+                    enableLogging: appConfig.debugLevel >= 3,
+                    logLevel: appConfig.debugLevel
+                });
                 
-                // Fetch all files in parallel
-                const responses = await Promise.all(files.map(f => fetch(f)));
-                const datas = await Promise.all(responses.map(async (r, index) => {
-                    if (r.ok) {
-                        try {
-                            const data = await r.json();
-                            const questionCount = data.questions ? data.questions.length : 0;
-                            debugLog(3, `✅ ${files[index]}: ${questionCount} questions loaded`);
-                            return data;
-                        } catch (error) {
-                            debugLog(2, `❌ ${files[index]}: JSON parse error -`, error);
-                            return { questions: [] };
-                        }
-                    } else {
-                        debugLog(2, `❌ ${files[index]}: HTTP ${r.status} - ${r.statusText}`);
-                        return { questions: [] };
-                    }
-                }));
-                
-                // Merge all questions arrays
-                questionBank = datas.flatMap(d => d.questions || []);
-                debugLog(3, `📚 Total questions loaded: ${questionBank.length}`);
+                if (result.success) {
+                    questionBank = result.questions;
+                } else {
+                    debugLog(1, '❌ Question loading failed:', result.error);
+                    questionBank = [];
+                }
                 
                 // Merge with any saved custom questions from localStorage
                 if (window.localStorage) {

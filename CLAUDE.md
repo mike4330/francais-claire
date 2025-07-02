@@ -22,9 +22,9 @@
 **DO NOT add new questions to `questions.json` - this is the original/legacy file and should not be modified.**
 
 ### File Structure for New Questions:
-- **`questions-a.json`** → A1 & A2 levels (ID range: 34-99)
-- **`questions-b.json`** → B1 & B2 levels (ID range: 200-299)  
-- **`questions-c.json`** → C1 & C2 levels (ID range: 100-199)
+- **`questions-a.json`** → A1 & A2 levels (ID range: 34-199)
+- **`questions-b.json`** → B1 & B2 levels (ID range: 200-399)  
+- **`questions-c.json`** → C1 & C2 levels (ID range: 400-499)
 
 ## 📋 Adding New Questions
 
@@ -51,9 +51,9 @@
 ```
 
 **Manual fallback** - Check existing IDs in target file and assign next available ID:
-- **questions-a.json**: ID range 34-99
-- **questions-b.json**: ID range 200-299
-- **questions-c.json**: ID range 100-199
+- **questions-a.json**: ID range 34-199
+- **questions-b.json**: ID range 200-399
+- **questions-c.json**: ID range 400-499
 
 ### Step 3: Question Structure Template
 
