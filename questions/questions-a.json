@@ -215,7 +215,6 @@
       "source": "Cinema Review",
       "tags": [
         "cinema",
-        "film",
         "impression"
       ]
     },
@@ -302,7 +301,6 @@
       "source": "Cinema Recommendation",
       "tags": [
         "cinema",
-        "film",
         "romantic"
       ]
     },
@@ -539,7 +537,7 @@
       "source": "Language Learning",
       "tags": [
         "language-learning",
-        "film",
+        "cinema",
         "education"
       ]
     },
@@ -1162,7 +1160,6 @@
       "source": "Family description and past abilities",
       "tags": [
         "family",
-        "past-tense",
         "imperfect"
       ],
       "timeCreated": 1704067200
@@ -1185,7 +1182,6 @@
       "tags": [
         "childhood",
         "food",
-        "past-tense",
         "imperfect"
       ],
       "timeCreated": 1704067200
@@ -1462,7 +1458,6 @@
         "leisure",
         "friendship",
         "parks",
-        "imperfect-tense",
         "past-habits"
       ],
       "timeCreated": 1751325911
@@ -1539,6 +1534,264 @@
         "science"
       ],
       "timeCreated": 1751331355
+    },
+    {
+      "id": 103,
+      "audioText": "Ma grand-mère raconte une histoire très amusante.",
+      "question": "Ma grand-mère raconte une ______ très amusante.",
+      "questionType": "FIB-reading",
+      "options": [
+        "histoire",
+        "chanson",
+        "photo",
+        "recette"
+      ],
+      "correct": 0,
+      "explanation": "The sentence means 'My grandmother tells a very funny story.' The word 'histoire' (story) fits perfectly in this context. Other options: 'chanson' (song), 'photo' (photo), 'recette' (recipe) don't make sense with the verb 'raconte' (tells/narrates).",
+      "difficulty": "A2",
+      "source": "Family storytelling context",
+      "tags": [
+        "family",
+        "storytelling",
+        "grandmother",
+        "entertainment",
+        "oral-tradition"
+      ],
+      "timeCreated": 1751331900
+    },
+    {
+      "id": 104,
+      "audioText": "Il lève la tête pour regarder le ciel.",
+      "question": "What does the person do?",
+      "questionType": "comprehension",
+      "options": [
+        "He looks up at the sky",
+        "He closes his eyes",
+        "He shakes his head",
+        "He turns around"
+      ],
+      "correct": 0,
+      "explanation": "The text says 'il lève la tête pour regarder le ciel' which means 'he lifts his head to look at the sky'. This describes a physical action of looking upward.",
+      "difficulty": "A2",
+      "source": "Description of physical movement",
+      "tags": [
+        "movement",
+        "observation",
+        "nature",
+        "daily-life"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 105,
+      "audioText": "Maman prépare le dîner dans la cuisine.",
+      "question": "What is mom doing?",
+      "questionType": "comprehension",
+      "options": [
+        "She is preparing dinner in the kitchen",
+        "She is reading a book in the living room",
+        "She is working in the garden",
+        "She is watching TV with the family"
+      ],
+      "correct": 0,
+      "explanation": "The text says 'Maman prépare le dîner dans la cuisine' which means 'Mom is preparing dinner in the kitchen'. This describes a common family activity.",
+      "difficulty": "A1",
+      "source": "Family daily routine description",
+      "tags": [
+        "family",
+        "cooking",
+        "daily-life",
+        "home",
+        "routine"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 106,
+      "audioText": "Demain vous aurez votre examen de français à neuf heures.",
+      "question": "Demain vous ______ votre examen de français à neuf heures.",
+      "questionType": "FIB-reading",
+      "options": [
+        "aurez",
+        "avez",
+        "aviez",
+        "ayez"
+      ],
+      "correct": 0,
+      "explanation": "The future tense 'aurez' (you will have) is used because the sentence refers to tomorrow ('demain'), indicating a future action.",
+      "difficulty": "A2",
+      "source": "School schedule using future tense",
+      "tags": [
+        "education",
+        "schedule",
+        "future-time",
+        "exams"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 107,
+      "audioText": "Vous prendrez le bus ou le train ?",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Vous prendrez le bus ou le train ?",
+        "Vous prenez le bus ou le train ?",
+        "Vous avez pris le bus ou le train ?",
+        "Vous pourrez prendre le bus ou le train ?"
+      ],
+      "correct": 0,
+      "explanation": "The question uses the future tense 'prendrez' (will you take) to ask about future transportation plans.",
+      "difficulty": "A2",
+      "source": "Transportation planning question",
+      "tags": [
+        "transportation",
+        "planning",
+        "future-time",
+        "travel"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 108,
+      "audioText": "Cette voiture a quinze ans mais elle marche encore très bien.",
+      "question": "How old is the car?",
+      "questionType": "comprehension",
+      "options": [
+        "Fifteen years old",
+        "Five years old",
+        "Fifty years old",
+        "Ten years old"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'cette voiture a quinze ans' which means 'this car is fifteen years old'. Despite its age, it still works very well.",
+      "difficulty": "A2",
+      "source": "Description of an older but functional car",
+      "tags": [
+        "cars",
+        "age",
+        "transportation",
+        "condition"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 109,
+      "audioText": "Mon fils joue au football tous les mercredis.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Mon fils joue au football tous les mercredis.",
+        "Mon fils joue au football tous les samedis.",
+        "Ma fille joue au football tous les mercredis.",
+        "Mon fils joue au tennis tous les mercredis."
+      ],
+      "correct": 0,
+      "explanation": "The sentence states 'mon fils joue au football tous les mercredis' - my son plays football every Wednesday.",
+      "difficulty": "A2",
+      "source": "Weekly sports activity schedule for family member",
+      "tags": [
+        "family",
+        "sports",
+        "schedule",
+        "activities",
+        "weekly-routine"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 110,
+      "audioText": "Demain nous irons au marché pour acheter des fruits frais.",
+      "question": "Demain nous ______ au marché pour acheter des fruits frais.",
+      "questionType": "FIB-reading",
+      "options": [
+        "irons",
+        "allons",
+        "sommes allés",
+        "irions"
+      ],
+      "correct": 0,
+      "explanation": "The future tense 'irons' (we will go) is used because the action will happen tomorrow ('demain'), indicating a future time.",
+      "difficulty": "A2",
+      "source": "Shopping plan for tomorrow",
+      "tags": [
+        "shopping",
+        "market",
+        "future-time",
+        "food",
+        "plans"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 111,
+      "audioText": "Tu pourras venir à la fête samedi soir si tes parents sont d'accord.",
+      "question": "Tu ______ venir à la fête samedi soir si tes parents sont d'accord.",
+      "questionType": "FIB-reading",
+      "options": [
+        "pourras",
+        "peux",
+        "pouvais",
+        "pourrais"
+      ],
+      "correct": 0,
+      "explanation": "The future tense 'pourras' (you will be able to) is used to express future possibility dependent on parental permission.",
+      "difficulty": "A2",
+      "source": "Invitation to party with parental permission condition",
+      "tags": [
+        "social-events",
+        "permission",
+        "family",
+        "parties",
+        "future-time"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 112,
+      "audioText": "Le sport est bon pour le corps et l'esprit.",
+      "question": "What is good for the body and mind?",
+      "questionType": "comprehension",
+      "options": [
+        "Sport",
+        "Reading",
+        "Sleeping",
+        "Eating"
+      ],
+      "correct": 0,
+      "explanation": "According to the text, 'le sport est bon pour le corps et l'esprit' - sport is good for the body and mind. The word 'corps' means body, and 'esprit' means mind or spirit.",
+      "difficulty": "A2",
+      "source": "Health Advice",
+      "tags": [
+        "health",
+        "sports",
+        "wellness",
+        "lifestyle"
+      ],
+      "timeCreated": 1751465035
+    },
+    {
+      "id": 113,
+      "audioText": "J'ai peu de temps aujourd'hui.",
+      "question": "How much time does the speaker have today?",
+      "questionType": "comprehension",
+      "options": [
+        "Little time",
+        "A lot of time",
+        "No time",
+        "Some time"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'J'ai peu de temps' which means 'I have little time'. The word 'peu' means 'little' or 'not much'.",
+      "difficulty": "A1",
+      "source": "Daily Schedule",
+      "tags": [
+        "daily-life",
+        "time",
+        "schedule",
+        "busy"
+      ],
+      "timeCreated": 1751465314
     }
   ]
 }
