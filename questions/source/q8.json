@@ -1,0 +1,23 @@
+{
+  "id": 8,
+  "audioText": "Économies sur les dépenses de santé : \"Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible\"",
+  "question": "What approach does the speaker suggest for healthcare sustainability?",
+  "questionType": "comprehension",
+  "options": [
+    "Reduce the number of hospitals and medical staff",
+    "Focus on prevention to reduce illness",
+    "Increase healthcare prices for patients",
+    "Limit access to expensive medical treatments"
+  ],
+  "correct": 1,
+  "explanation": "The speaker says 'il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - we need to ensure people get sick as late and as little as possible. This describes a prevention-focused approach to make healthcare sustainable.",
+  "difficulty": "C1",
+  "source": "French Healthcare Policy",
+  "tags": [
+    "healthcare",
+    "policy",
+    "prevention",
+    "sustainability",
+    "economics"
+  ]
+}

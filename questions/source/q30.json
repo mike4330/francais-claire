@@ -1,0 +1,24 @@
+{
+  "id": 30,
+  "audioText": "Le règlement aura prévu des exceptions pour les cas particuliers.",
+  "parentQuestion": 29,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le règlement aura prévu des exceptions pour les cas particuliers.",
+    "Le règlement aura interdit des exceptions pour les cas particuliers.",
+    "Le règlement aura prévu des exceptions pour tous les cas.",
+    "Le règlement aura ignoré les cas particuliers."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Le règlement aura prévu des exceptions pour les cas particuliers.' - The regulation will have provided exceptions for special cases.",
+  "difficulty": "B2",
+  "source": "Synthetic Legal/Administrative - Listening",
+  "tags": [
+    "regulation",
+    "exceptions",
+    "planning",
+    "prévoir",
+    "future-perfect"
+  ]
+}

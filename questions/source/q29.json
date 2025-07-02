@@ -1,0 +1,23 @@
+{
+  "id": 29,
+  "audioText": "Le règlement aura prévu des exceptions pour les cas particuliers.",
+  "question": "What will the regulation have done for special cases?",
+  "questionType": "comprehension",
+  "options": [
+    "Provided exceptions for special cases.",
+    "Banned all exceptions.",
+    "Ignored special cases.",
+    "Delayed the implementation."
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'aura prévu des exceptions' – will have provided exceptions for special cases.",
+  "difficulty": "B2",
+  "source": "Synthetic Legal/Administrative",
+  "tags": [
+    "regulation",
+    "exceptions",
+    "planning",
+    "prévoir",
+    "future-perfect"
+  ]
+}
