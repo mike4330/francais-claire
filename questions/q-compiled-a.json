@@ -1,6 +1,144 @@
 {
   "questions": [
     {
+      "id": 1,
+      "audioText": "Bonjour, comment allez-vous?",
+      "question": "What greeting did you hear?",
+      "questionType": "listening",
+      "options": [
+        "Bonjour, comment allez-vous?",
+        "Bonsoir, comment allez-vous?",
+        "Au revoir, à bientôt",
+        "Bonjour, comment vous appelez-vous?"
+      ],
+      "correct": 0,
+      "explanation": "The speaker said 'Bonjour, comment allez-vous?' which means 'Hello, how are you?'",
+      "difficulty": "A1",
+      "source": "Basic greeting",
+      "tags": [
+        "greeting",
+        "politeness"
+      ]
+    },
+    {
+      "id": 21,
+      "audioText": "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
+      "parentQuestion": 320,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
+        "Demain il va pleuvoir dans le sud et il y aura du soleil dans le nord.",
+        "Demain il va neiger dans le nord et il y aura du soleil dans le sud.",
+        "Demain il va pleuvoir dans le nord et il y aura des nuages dans le sud."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.' - Tomorrow it will rain in the north and there will be sun in the south.",
+      "difficulty": "A2",
+      "source": "Weather Report - Listening",
+      "tags": [
+        "weather",
+        "geography",
+        "forecast",
+        "basic-vocabulary"
+      ]
+    },
+    {
+      "id": 22,
+      "audioText": "En vingt ans, ces céréales ont perdu la moitié de leur sucre.",
+      "audioTemplate": "En {timeperiod}, ces {fooditem} ont {loss_verb} {amount} de leur sucre.",
+      "templateVariables": {
+        "timeperiod": {
+          "options": [
+            "vingt ans",
+            "deux décennies",
+            "20 années"
+          ],
+          "weights": [
+            0.6,
+            0.25,
+            0.15
+          ]
+        },
+        "fooditem": {
+          "options": [
+            "céréales",
+            "produits céréaliers",
+            "aliments transformés"
+          ],
+          "weights": [
+            0.6,
+            0.25,
+            0.15
+          ]
+        },
+        "loss_verb": {
+          "options": [
+            "ont perdu",
+            "ont fait perdre",
+            "se sont vus retirer"
+          ],
+          "weights": [
+            0.6,
+            0.25,
+            0.15
+          ]
+        },
+        "amount": {
+          "options": [
+            "la moitié",
+            "50%",
+            "une grande partie"
+          ],
+          "weights": [
+            0.6,
+            0.25,
+            0.15
+          ]
+        }
+      },
+      "question": "What happened to these cereals over twenty years?",
+      "questionType": "comprehension",
+      "options": [
+        "They lost half their sugar.",
+        "They lost half their salt.",
+        "They lost all their sugar.",
+        "They doubled their sugar content."
+      ],
+      "correct": 0,
+      "explanation": "The sentence describes how cereals 'ont perdu la moitié de leur sucre' – lost half their sugar over a twenty-year period. All template variations maintain this core meaning with different wordings.",
+      "difficulty": "A2",
+      "source": "Nutrition News",
+      "tags": [
+        "food",
+        "nutrition",
+        "change",
+        "cereals"
+      ]
+    },
+    {
+      "id": 27,
+      "audioText": "Je voudrais une baguette, s'il vous plaît.",
+      "question": "What does the speaker want to buy?",
+      "questionType": "comprehension",
+      "options": [
+        "A baguette",
+        "A croissant",
+        "A coffee",
+        "A newspaper"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Je voudrais une baguette' – I would like a baguette.",
+      "difficulty": "A1",
+      "source": "Synthetic Daily Life",
+      "tags": [
+        "shopping",
+        "food",
+        "bread",
+        "politeness"
+      ]
+    },
+    {
       "id": 28,
       "audioTemplate": "La météo prévoit {weather} pour {event} {day}.",
       "templateVariables": {
@@ -1859,13 +1997,219 @@
         "neighborhood"
       ],
       "timeCreated": 1751469347
+    },
+    {
+      "id": 115,
+      "audioText": "J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez elle.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez elle.",
+        "J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez lui.",
+        "J'ai voulu parler à ma grand-mère hier, mais elle n'était pas chez elle.",
+        "J'ai voulu aider ma grand-mère hier, mais elle n'était pas chez elle."
+      ],
+      "correct": 0,
+      "explanation": "The correct sentence is 'J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez elle' - I wanted to call my grandmother yesterday, but she wasn't at home. 'Voulu' is the past participle of 'vouloir' used with 'avoir' to form the passé composé.",
+      "difficulty": "A2",
+      "source": "Family Communication",
+      "tags": [
+        "family",
+        "communication",
+        "daily-life",
+        "telephone"
+      ],
+      "timeCreated": 1751492641
+    },
+    {
+      "id": 116,
+      "audioText": "Ma chambre est très propre maintenant, j'ai tout rangé hier soir.",
+      "question": "Ma chambre est très ______ maintenant, j'ai tout rangé hier soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "propre",
+        "sale",
+        "grande",
+        "petite"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'propre' (clean). The context 'j'ai tout rangé hier soir' (I tidied everything up last night) indicates that the room is now clean. 'Propre' means clean, while 'sale' means dirty - the opposite.",
+      "difficulty": "A2",
+      "source": "Household Tasks",
+      "tags": [
+        "home",
+        "cleaning",
+        "daily-life",
+        "bedroom"
+      ],
+      "timeCreated": 1751494921
+    },
+    {
+      "id": 117,
+      "audioText": "Es-tu prêt pour l'examen de demain? J'ai étudié toute la semaine.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Es-tu prêt pour l'examen de demain? J'ai étudié toute la semaine.",
+        "Es-tu prêt pour l'examen de demain? J'ai étudié toute la soirée.",
+        "Es-tu près pour l'examen de demain? J'ai étudié toute la semaine.",
+        "Es-tu prêt pour l'exercice de demain? J'ai étudié toute la semaine."
+      ],
+      "correct": 0,
+      "explanation": "The correct sentence is 'Es-tu prêt pour l'examen de demain? J'ai étudié toute la semaine' - Are you ready for tomorrow's exam? I've studied all week. 'Prêt' means ready/prepared, and note the spelling vs. 'près' (near).",
+      "difficulty": "A2",
+      "source": "School Preparation",
+      "tags": [
+        "education",
+        "exam",
+        "preparation",
+        "school"
+      ],
+      "timeCreated": 1751495018
+    },
+    {
+      "id": 118,
+      "audioText": "Maman m'appelle pour le dîner.",
+      "question": "Maman m'______ pour le dîner.",
+      "questionType": "FIB-reading",
+      "options": [
+        "appelle",
+        "appelé",
+        "appelez",
+        "appeler"
+      ],
+      "correct": 0,
+      "explanation": "The verb 'appeler' in the third person singular is 'appelle'. Maman (she) calls me for dinner.",
+      "difficulty": "A1",
+      "source": "Family Communication",
+      "tags": [
+        "family",
+        "daily-life",
+        "meals"
+      ],
+      "timeCreated": 1719962000
+    },
+    {
+      "id": 119,
+      "audioText": "Ma maman fait des crêpes pour le goûter cet après-midi.",
+      "question": "What is the speaker's mother making for the afternoon snack?",
+      "questionType": "comprehension",
+      "options": [
+        "Crepes for the afternoon snack",
+        "Cookies for breakfast",
+        "Cake for dinner",
+        "Bread for lunch"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Ma maman fait des crêpes pour le goûter' - My mother is making crepes for the afternoon snack.",
+      "difficulty": "A1",
+      "source": "Family Kitchen",
+      "tags": [
+        "family",
+        "food",
+        "daily-life",
+        "cooking"
+      ],
+      "timeCreated": 1719962500
+    },
+    {
+      "id": 120,
+      "audioText": "Je traverse la rue pour aller à la boulangerie.",
+      "question": "Je traverse la ______ pour aller à la boulangerie.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "rue",
+        "route",
+        "place",
+        "avenue"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Je traverse la rue' - I cross the street. 'Rue' is the correct word for a street in French.",
+      "difficulty": "A2",
+      "source": "Street Navigation",
+      "tags": [
+        "transportation",
+        "daily-life",
+        "shopping",
+        "directions"
+      ],
+      "timeCreated": 1719962600
+    },
+    {
+      "id": 121,
+      "audioText": "J'ai envie de manger une glace au chocolat.",
+      "question": "What does the speaker want to do?",
+      "questionType": "comprehension",
+      "options": [
+        "Eat a chocolate ice cream",
+        "Buy some chocolate",
+        "Drink hot chocolate",
+        "Make a chocolate cake"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'J'ai envie de manger une glace au chocolat' - I want to eat a chocolate ice cream. 'Envie' means desire or craving.",
+      "difficulty": "A2",
+      "source": "Daily Desires",
+      "tags": [
+        "food",
+        "desires",
+        "daily-life",
+        "treats"
+      ],
+      "timeCreated": 1719962900
+    },
+    {
+      "id": 122,
+      "audioText": "Ma chambre est au deuxième étage de la maison.",
+      "question": "Ma ______ est au deuxième étage de la maison.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "chambre",
+        "cuisine",
+        "salle",
+        "bureau"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Ma chambre est au deuxième étage' - My bedroom is on the second floor. 'Chambre' means bedroom in French.",
+      "difficulty": "A1",
+      "source": "Home Description",
+      "tags": [
+        "home",
+        "family",
+        "daily-life",
+        "housing"
+      ],
+      "timeCreated": 1719963200
+    },
+    {
+      "id": 123,
+      "audioText": "Comment tu t'appelles ?",
+      "question": "Comment tu t'______ ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "appelles",
+        "appeler",
+        "appelé",
+        "appelons"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'appelles' (second person singular of 'appeler'). 'Comment tu t'appelles ?' means 'What is your name?'",
+      "difficulty": "A1",
+      "source": "Basic Introductions",
+      "tags": [
+        "greeting",
+        "introduction",
+        "name",
+        "daily-life"
+      ],
+      "timeCreated": 1719963300
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-02T18:37:56.848Z",
-    "totalQuestions": 80,
-    "originalQuestions": 78,
-    "sourceQuestions": 2,
+    "compiledAt": "2025-07-03T01:36:52.111Z",
+    "totalQuestions": 93,
+    "originalQuestions": 56,
+    "sourceQuestions": 37,
     "level": "A",
     "idRange": "1-199",
     "difficulties": [

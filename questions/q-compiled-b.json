@@ -725,13 +725,13 @@
       "question": "What does the speaker plan to do after finishing their current project?",
       "questionType": "comprehension",
       "options": [
-        "Continue working on similar projects while developing social entrepreneurship as a hobby",
-        "Drop their current job completely to dedicate themselves entirely to social entrepreneurship",
-        "Negotiate with their employer to reduce their workload gradually",
-        "Start a new company while maintaining their current professional position"
+        "Continue working on similar projects while pursuing social entrepreneurship as a side interest",
+        "Quit their current job completely to focus entirely on social entrepreneurship",
+        "Negotiate with their employer to gradually reduce their workload",
+        "Start a new company while keeping their current professional role"
       ],
       "correct": 1,
-      "explanation": "The speaker says 'je laisserai tomber mon travail actuel pour me consacrer entièrement à l'entrepreneuriat social' - I will drop my current work to dedicate myself entirely to social entrepreneurship. This represents a major turning point in their professional career.",
+      "explanation": "The speaker says 'je laisserai tomber mon travail actuel pour me consacrer entièrement à l'entrepreneuriat social' - I will quit my current job to focus entirely on social entrepreneurship. This represents a major career change.",
       "difficulty": "B2",
       "source": "Career Transition",
       "tags": [
@@ -1532,51 +1532,50 @@
     },
     {
       "id": 264,
-      "audioText": "Si Marie avait plus de temps libre, elle ne laisserait jamais sa petite fille seule à la maison le soir.",
-      "question": "What would Marie never do if she had more free time?",
+      "audioText": "Mon père veut acheter une nouvelle voiture électrique parce qu'il pense que c'est important pour l'environnement.",
+      "question": "What does the speaker's father want to do?",
       "questionType": "comprehension",
       "options": [
-        "She would never leave her little girl alone at home in the evening",
-        "She would never work late at the office on weekdays",
-        "She would never forget to call her mother on Sundays",
-        "She would never miss her daughter's school activities"
+        "Buy a new electric car",
+        "Sell his current car",
+        "Repair his old car",
+        "Rent a car for vacation"
       ],
       "correct": 0,
-      "explanation": "The text states 'elle ne laisserait jamais sa petite fille seule à la maison le soir' - she would never leave her little girl alone at home in the evening. 'Laisserait' is the conditional form of 'laisser' (to leave), and 'fille' means girl/daughter.",
+      "explanation": "The father 'veut acheter une nouvelle voiture électrique' (wants to buy a new electric car) because he thinks it's important for the environment. 'Veut' is the 3rd person singular present form of 'vouloir' (to want).",
       "difficulty": "B1",
-      "source": "Parenting and Work-Life Balance",
+      "source": "Family Decision",
       "tags": [
-        "parenting",
-        "work-life-balance",
-        "children",
-        "family-care",
-        "laisser"
+        "family",
+        "environment",
+        "transportation",
+        "decision-making"
       ],
-      "timeCreated": 1735500648
+      "timeCreated": 1751492507
     },
     {
       "id": 265,
-      "audioText": "Si vous avez des problèmes respiratoires, vous donneriez plus d'attention à la qualité de l'air dans votre ville.",
-      "question": "Si vous avez des problèmes respiratoires, vous ______ plus d'attention à la qualité de l'air dans votre ville.",
+      "audioText": "Quand elle était petite, Marie voulait toujours devenir médecin, mais ses parents préféraient qu'elle étudie le droit.",
+      "question": "Quand elle était petite, Marie ______ toujours devenir médecin, mais ses parents préféraient qu'elle étudie le droit.",
       "questionType": "fill-in-the-blank",
       "options": [
-        "donneriez",
-        "donner",
-        "donnez",
-        "donnent"
+        "voulait",
+        "veut",
+        "voudrait",
+        "a voulu"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'donneriez' - the conditional form of 'donner' (to give) with 'vous'. The sentence means 'If you have respiratory problems, you would give more attention to air quality in your city.' 'Air' refers to air quality.",
+      "explanation": "The correct answer is 'voulait' (imperfect tense of vouloir). The context 'Quand elle était petite' (When she was little) indicates a past habitual action, requiring the imperfect tense. 'Voulait' expresses that Marie repeatedly or consistently wanted to become a doctor during her childhood.",
       "difficulty": "B2",
-      "source": "Health and Environmental Awareness",
+      "source": "Childhood Dreams",
       "tags": [
-        "health",
-        "respiratory",
-        "air-quality",
-        "air",
-        "environment"
+        "childhood",
+        "career",
+        "family",
+        "education",
+        "personal-history"
       ],
-      "timeCreated": 1735500648
+      "timeCreated": 1751492559
     },
     {
       "id": 266,
@@ -2729,13 +2728,697 @@
         "self-assessment",
         "personal-development"
       ]
+    },
+    {
+      "id": 314,
+      "audioText": "Désormais conseiller spécial de la pépite ASML, l'ex-ministre plaide pour une consolidation du secteur ainsi que pour des investissements massifs afin de rivaliser avec les géants américains et asiatiques.",
+      "question": "What does the former minister advocate for in his new role?",
+      "questionType": "comprehension",
+      "options": [
+        "Industry consolidation and massive investments to compete with American and Asian giants",
+        "Reducing investments to focus on European markets only",
+        "Selling the company to American or Asian competitors",
+        "Maintaining the current structure without any changes"
+      ],
+      "correct": 0,
+      "explanation": "The former minister, now a special advisor to ASML, advocates for 'une consolidation du secteur ainsi que pour des investissements massifs afin de rivaliser avec les géants américains et asiatiques' - industry consolidation and massive investments in order to compete with American and Asian giants.",
+      "difficulty": "B2",
+      "source": "Business Interview",
+      "tags": [
+        "business",
+        "technology",
+        "competition",
+        "international-markets",
+        "strategy"
+      ],
+      "timeCreated": 1751494264
+    },
+    {
+      "id": 315,
+      "audioText": "Le temps est vraiment mauvais aujourd'hui, il pleut et il fait très froid dehors.",
+      "question": "How does the speaker describe the weather today?",
+      "questionType": "comprehension",
+      "options": [
+        "Really bad - it's raining and very cold outside",
+        "Perfect - sunny and warm",
+        "Acceptable - a bit cloudy but mild",
+        "Changing - sometimes good, sometimes not"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Le temps est vraiment mauvais aujourd'hui' (the weather is really bad today) and explains why: 'il pleut et il fait très froid dehors' (it's raining and it's very cold outside). 'Mauvais' means bad/awful.",
+      "difficulty": "B1",
+      "source": "Weather Discussion",
+      "tags": [
+        "weather",
+        "daily-life",
+        "conversation",
+        "temperature"
+      ],
+      "timeCreated": 1751494967
+    },
+    {
+      "id": 316,
+      "audioText": "L'hiver passera vite si nous restons occupés avec nos projets.",
+      "question": "What will happen to winter according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "It will pass quickly if they stay busy with projects.",
+        "It will be very long and difficult.",
+        "It will bring many new opportunities.",
+        "It will be the coldest winter ever."
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'passera' (future tense of passer) meaning 'will pass'. The speaker says winter will pass quickly if they stay busy with their projects.",
+      "difficulty": "B1",
+      "source": "Seasonal Planning",
+      "tags": [
+        "time-management",
+        "weather",
+        "planning"
+      ],
+      "timeCreated": 1719962100
+    },
+    {
+      "id": 317,
+      "audioText": "Sophie aimerait visiter Paris cet été mais elle n'a pas assez d'argent.",
+      "question": "Sophie ______ visiter Paris cet été mais elle n'a pas assez d'argent.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aimerait",
+        "aimera",
+        "aimait",
+        "aime"
+      ],
+      "correct": 0,
+      "explanation": "The conditional 'aimerait' (would like) expresses a polite wish or hypothetical desire. Sophie would like to visit Paris but doesn't have enough money.",
+      "difficulty": "B2",
+      "source": "Travel Dreams",
+      "tags": [
+        "travel",
+        "finance",
+        "wishes"
+      ],
+      "timeCreated": 1719962200
+    },
+    {
+      "id": 318,
+      "audioText": "Le peu qu'elle possède lui suffit amplement pour être heureuse.",
+      "question": "What does the speaker say about what she owns?",
+      "questionType": "comprehension",
+      "options": [
+        "The little that she owns is more than enough to make her happy.",
+        "She needs to acquire more possessions to be satisfied.",
+        "She is unhappy because she doesn't own very much.",
+        "She wants to give away everything she owns."
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'Le peu qu'elle possède' uses 'peu' as a noun meaning 'the little (amount)'. The sentence means the small amount she owns is sufficient for her happiness.",
+      "difficulty": "B2",
+      "source": "Philosophy of Contentment",
+      "tags": [
+        "philosophy",
+        "contentment",
+        "materialism",
+        "happiness"
+      ],
+      "timeCreated": 1719962400
+    },
+    {
+      "id": 319,
+      "audioText": "Un politicien français propose de changer le nom de la langue française. \"Il sait être très inventif quand il s'agit de se rendre désagréable\"",
+      "question": "What does the speaker say about the politician's proposal?",
+      "questionType": "comprehension",
+      "options": [
+        "He wants to change the French language grammar",
+        "He proposed changing the name of the French language",
+        "He wants to make French easier to learn",
+        "He suggested creating a new French dialect"
+      ],
+      "correct": 1,
+      "explanation": "The politician 'propose de changer le nom de la langue française' - proposes to change the name of the French language. The quote criticizes him as being 'inventive when it comes to making himself unpleasant.'",
+      "difficulty": "B2",
+      "source": "French Political Commentary",
+      "tags": [
+        "politics",
+        "language",
+        "controversy",
+        "criticism"
+      ]
+    },
+    {
+      "id": 320,
+      "audioText": "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+      "question": "What does tomorrow's weather forecast predict?",
+      "questionType": "comprehension",
+      "options": [
+        "Rain everywhere in France",
+        "Sun everywhere in France",
+        "Showers in the north, sun in the south",
+        "Snow in the mountains only"
+      ],
+      "correct": 2,
+      "explanation": "'Averses dans le nord et du soleil dans le sud' means showers in the north and sun in the south of France.",
+      "difficulty": "B1",
+      "source": "Weather Report",
+      "tags": [
+        "weather",
+        "geography",
+        "forecast"
+      ]
+    },
+    {
+      "id": 321,
+      "audioText": "Le parti socialiste veut critiquer le gouvernement, mais refuse de travailler avec l'autre parti de gauche à cause du passé.",
+      "question": "What does the socialist party want to do?",
+      "questionType": "comprehension",
+      "options": [
+        "Work together with the other left-wing party",
+        "Support the current government",
+        "Criticize the government but work independently",
+        "Forget about past political disagreements"
+      ],
+      "correct": 2,
+      "explanation": "The socialists 'veut critiquer le gouvernement, mais refuse de travailler avec l'autre parti' - want to criticize the government, but refuse to work with the other party due to past issues. This shows they want to act independently.",
+      "difficulty": "B1",
+      "source": "Simplified Political News",
+      "tags": [
+        "politics",
+        "disagreement",
+        "cooperation",
+        "government",
+        "criticism"
+      ]
+    },
+    {
+      "id": 322,
+      "audioText": "Ce mercredi, aux alentours de 21 heures, la capitale a subi un orage aussi intense que bref. Une pluie violente et un vent tout aussi puissant ont causé des dégâts, pour l'heure légers.",
+      "question": "What characterized the storm that hit the capital?",
+      "questionType": "comprehension",
+      "options": [
+        "It lasted several hours with moderate intensity",
+        "It was very intense but short-lived",
+        "It caused major damage throughout the city",
+        "It brought only light rain and gentle winds"
+      ],
+      "correct": 1,
+      "explanation": "The storm was described as 'aussi intense que bref' - as intense as it was brief. Despite violent rain and powerful wind, it was short-lived, and damage was 'pour l'heure légers' - so far minor.",
+      "difficulty": "B2",
+      "source": "Weather News Report",
+      "tags": [
+        "weather",
+        "storm",
+        "news",
+        "capital",
+        "damage"
+      ]
+    },
+    {
+      "id": 323,
+      "audioText": "Le pape confirme le célibat sacerdotal. Comment le pape Léon XIV entend relever le défi de la crise des vocations chez les jeunes catholiques",
+      "question": "What challenge is Pope Leo XIV addressing?",
+      "questionType": "comprehension",
+      "options": [
+        "The challenge of modernizing Catholic liturgy",
+        "The crisis of religious vocations among young Catholics",
+        "The problem of declining church attendance",
+        "The issue of financial difficulties in parishes"
+      ],
+      "correct": 1,
+      "explanation": "The Pope is addressing 'le défi de la crise des vocations chez les jeunes catholiques' - the challenge of the vocations crisis among young Catholics. This refers to fewer young people choosing religious life as priests, nuns, etc.",
+      "difficulty": "B2",
+      "source": "Vatican News",
+      "tags": [
+        "religion",
+        "catholic-church",
+        "pope",
+        "vocations",
+        "youth"
+      ]
+    },
+    {
+      "id": 324,
+      "audioText": "Plusieurs associations portent plainte contre une entreprise pour pollution de l'environnement",
+      "question": "What are the associations doing?",
+      "questionType": "comprehension",
+      "options": [
+        "They are protesting in the streets",
+        "They are filing a legal complaint against a company",
+        "They are negotiating with the government",
+        "They are organizing environmental campaigns"
+      ],
+      "correct": 1,
+      "explanation": "The associations are 'portent plainte contre une entreprise' - filing a complaint against a company for environmental pollution. 'Porter plainte' means to file a legal complaint or lawsuit.",
+      "difficulty": "B2",
+      "source": "Environmental News",
+      "tags": [
+        "environment",
+        "legal-action",
+        "pollution",
+        "associations",
+        "company"
+      ]
+    },
+    {
+      "id": 325,
+      "audioText": "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+      "parentQuestion": 320,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+        "La météo de demain prévoit des averses dans le sud et du soleil dans le nord de la France.",
+        "La météo de demain prévoit de la pluie dans le nord et des nuages dans le sud de la France.",
+        "La météo de demain prévoit des orages dans le nord et du soleil dans le sud de la France."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.' - Tomorrow's weather forecast predicts showers in the north and sun in the south of France.",
+      "difficulty": "B1",
+      "source": "Weather Report - Listening",
+      "tags": [
+        "weather",
+        "geography",
+        "forecast"
+      ]
+    },
+    {
+      "id": 326,
+      "audioText": "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.",
+      "parentQuestion": 469,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.",
+        "Le milliardaire va donner un million d'euros à des associations italiennes pour calmer les critiques de son mariage dans la cité des Doges.",
+        "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son divorce dans la cité des Doges.",
+        "Le milliardaire va donner deux millions d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.' - The billionaire will give one million euros to Venetian associations to calm criticism of his wedding in the city of Doges.",
+      "difficulty": "B2",
+      "source": "Celebrity News - Listening",
+      "tags": [
+        "celebrity",
+        "marriage",
+        "venice",
+        "money"
+      ]
+    },
+    {
+      "id": 327,
+      "audioText": "Un agent des routes de 24 ans a été victime d'un accident alors qu'il portait assistance à un véhicule en panne dans l'Eure.",
+      "question": "What happened to the road worker?",
+      "questionType": "comprehension",
+      "options": [
+        "He was helping repair a broken vehicle in Eure",
+        "He was involved in an accident while assisting a broken-down vehicle",
+        "He caused an accident while working on the roads",
+        "He was directing traffic around a vehicle breakdown"
+      ],
+      "correct": 1,
+      "explanation": "The road worker 'a été victime d'un accident alors qu'il portait assistance à un véhicule en panne' - was the victim of an accident while assisting a broken-down vehicle. The text indicates he was helping someone with a breakdown when the incident occurred.",
+      "difficulty": "B2",
+      "source": "French Traffic News",
+      "tags": [
+        "news",
+        "accident",
+        "road-worker",
+        "assistance",
+        "eure",
+        "traffic"
+      ]
+    },
+    {
+      "id": 328,
+      "audioText": "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.",
+      "parentQuestion": 472,
+      "audioTemplate": "Une {political_person} a {reporting_verb} qu'elle pense {uncertainty} ne pas pouvoir {action_verb} aux {event_type}.",
+      "templateVariables": {
+        "political_person": {
+          "options": [
+            "femme politique",
+            "députée",
+            "candidate",
+            "élue"
+          ],
+          "weights": [
+            0.4,
+            0.3,
+            0.2,
+            0.1
+          ]
+        },
+        "reporting_verb": {
+          "options": [
+            "dit",
+            "déclaré",
+            "affirmé",
+            "expliqué"
+          ],
+          "weights": [
+            0.4,
+            0.3,
+            0.2,
+            0.1
+          ]
+        },
+        "uncertainty": {
+          "options": [
+            "peut-être",
+            "probablement",
+            "sans doute"
+          ],
+          "weights": [
+            0.5,
+            0.3,
+            0.2
+          ]
+        },
+        "action_verb": {
+          "options": [
+            "participer",
+            "se présenter",
+            "concourir"
+          ],
+          "weights": [
+            0.5,
+            0.3,
+            0.2
+          ]
+        },
+        "event_type": {
+          "options": [
+            "élections",
+            "prochaines élections",
+            "élections locales"
+          ],
+          "weights": [
+            0.5,
+            0.3,
+            0.2
+          ]
+        }
+      },
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.",
+        "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir gagner aux élections.",
+        "Une femme politique a dit qu'elle pense peut-être ne pas vouloir participer aux élections.",
+        "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir organiser aux élections."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.' - A female politician said she thinks she might not be able to participate in the elections.",
+      "difficulty": "B1",
+      "source": "Political News - Listening",
+      "tags": [
+        "politics",
+        "elections",
+        "participation"
+      ]
+    },
+    {
+      "id": 329,
+      "audioText": "Clémence et Malik donnent des explications après leur séparation difficile suite à l'émission de télé-réalité. Le couple de cette saison a annoncé une rupture qui a provoqué de nombreuses réactions sur les réseaux sociaux.",
+      "question": "What happened with Clémence and Malik after the reality TV show?",
+      "questionType": "comprehension",
+      "options": [
+        "They got married and are planning their honeymoon",
+        "They explained their difficult separation and the public reaction",
+        "They announced they are staying together despite problems",
+        "They decided to participate in another reality show"
+      ],
+      "correct": 1,
+      "explanation": "Clémence and Malik 'donnent des explications après leur séparation difficile' - give explanations after their difficult separation. Their breakup announcement 'a provoqué de nombreuses réactions sur les réseaux sociaux' - provoked many reactions on social media.",
+      "difficulty": "B2",
+      "source": "French Reality TV News",
+      "tags": [
+        "reality-tv",
+        "celebrity",
+        "separation",
+        "social-media",
+        "entertainment"
+      ]
+    },
+    {
+      "id": 330,
+      "audioText": "Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.",
+      "parentQuestion": 329,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.",
+        "Clémence et Malik ont expliqué leur mariage après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.",
+        "Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur succès sur internet.",
+        "Clémence et Malik ont expliqué leur séparation avant l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.' - Clémence and Malik explained their separation after the TV show. Many people talked about their breakup on the internet.",
+      "difficulty": "B1",
+      "source": "Reality TV News - Listening",
+      "tags": [
+        "reality-tv",
+        "separation",
+        "internet"
+      ]
+    },
+    {
+      "id": 331,
+      "audioText": "Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.",
+      "question": "Why was the businesswoman sentenced to death?",
+      "questionType": "comprehension",
+      "options": [
+        "For orchestrating the country's largest fraud.",
+        "For helping the government fight corruption.",
+        "For starting a successful business.",
+        "For organizing a charity event."
+      ],
+      "correct": 0,
+      "explanation": "She was sentenced to death for orchestrating the country's largest fraud ('la plus importante fraude du pays').",
+      "difficulty": "B1",
+      "source": "Legal News",
+      "tags": [
+        "crime",
+        "business",
+        "law",
+        "punishment",
+        "fraud"
+      ]
+    },
+    {
+      "id": 332,
+      "audioText": "Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.",
+      "parentQuestion": 331,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.",
+        "Une femme d'affaires a été condamnée à mort pour avoir organisé un événement caritatif.",
+        "Une femme d'affaires a été condamnée à mort pour avoir aidé le gouvernement à lutter contre la corruption.",
+        "Une femme d'affaires a été condamnée à mort pour avoir créé une entreprise prospère."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.' - A businesswoman was sentenced to death for orchestrating the country's largest fraud.",
+      "difficulty": "B1",
+      "source": "Legal News - Listening",
+      "tags": [
+        "crime",
+        "business",
+        "law",
+        "punishment",
+        "fraud"
+      ]
+    },
+    {
+      "id": 333,
+      "audioText": "Un épisode venteux et pluvieux impressionnant, les pompiers ont reçu un très grand nombre d'appels.",
+      "question": "What happened during the impressive windy and rainy episode?",
+      "questionType": "comprehension",
+      "options": [
+        "The firefighters received a very large number of calls.",
+        "The firefighters closed all the roads.",
+        "The firefighters organized a parade.",
+        "The firefighters went on strike."
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'les pompiers ont reçu un très grand nombre d'appels' – the firefighters received a very large number of calls during the event.",
+      "difficulty": "B1",
+      "source": "Weather News",
+      "tags": [
+        "weather",
+        "emergency",
+        "firefighters",
+        "calls",
+        "rain",
+        "wind"
+      ]
+    },
+    {
+      "id": 334,
+      "audioText": "Marie veut apprendre le français plus rapidement. Elle prend des cours le soir et écoute des podcasts pendant qu'elle va au travail en métro.",
+      "question": "How is Marie trying to improve her French learning?",
+      "questionType": "comprehension",
+      "options": [
+        "She takes evening classes and listens to podcasts during her metro commute to work",
+        "She only studies with private tutors on weekends",
+        "She watches French movies with English subtitles",
+        "She practices speaking with her colleagues at the office"
+      ],
+      "correct": 0,
+      "explanation": "Marie 'prend des cours le soir et écoute des podcasts pendant qu'elle va au travail en métro' - takes evening classes and listens to podcasts while going to work by metro. This shows two common learning strategies: formal classes ('prend des cours') and using commute time productively. Note the useful phrase 'aller au travail' (to go to work).",
+      "difficulty": "B1",
+      "source": "Language Learning Scenarios",
+      "tags": [
+        "education",
+        "language",
+        "daily-life",
+        "transportation",
+        "study-strategies"
+      ]
+    },
+    {
+      "id": 335,
+      "audioText": "La fin du film était très émouvante, beaucoup de spectateurs pleuraient dans la salle.",
+      "question": "What does the speaker say about the end of the movie?",
+      "questionType": "comprehension",
+      "options": [
+        "It was very moving and many viewers were crying in the theater",
+        "It was confusing and people didn't understand it",
+        "It was too loud and disturbed the audience",
+        "It was boring and people left early"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'La fin du film était très émouvante' - The end of the movie was very moving. Many spectators were crying in the theater.",
+      "difficulty": "B1",
+      "source": "Cinema Experience",
+      "tags": [
+        "entertainment",
+        "emotions",
+        "cinema",
+        "reactions"
+      ],
+      "timeCreated": 1719962700
+    },
+    {
+      "id": 336,
+      "audioText": "Cette façon de résoudre le problème me semble très efficace et créative.",
+      "question": "What does the speaker think about this way of solving the problem?",
+      "questionType": "comprehension",
+      "options": [
+        "It seems very effective and creative",
+        "It is too complicated and confusing",
+        "It takes too much time to implement",
+        "It is outdated and needs improvement"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Cette façon de résoudre le problème me semble très efficace et créative' - This way of solving the problem seems very effective and creative to me.",
+      "difficulty": "B2",
+      "source": "Problem Solving",
+      "tags": [
+        "work",
+        "problem-solving",
+        "efficiency",
+        "creativity"
+      ],
+      "timeCreated": 1719963000
+    },
+    {
+      "id": 337,
+      "audioText": "À la suite de l'incident, la direction a décidé de renforcer les mesures de sécurité dans tous les bureaux.",
+      "question": "What happened following the incident?",
+      "questionType": "comprehension",
+      "options": [
+        "Management decided to strengthen security measures in all offices",
+        "The company reduced working hours for all employees",
+        "All employees received additional safety training",
+        "The incident was ignored and no changes were made"
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'À la suite de l'incident' means 'Following the incident'. Management decided to strengthen security measures in all offices.",
+      "difficulty": "B1",
+      "source": "Workplace Safety",
+      "tags": [
+        "workplace",
+        "safety",
+        "management",
+        "security"
+      ],
+      "timeCreated": 1719963100
+    },
+    {
+      "id": 338,
+      "audioText": "Marc ira en vacances en Espagne cet été avec sa famille.",
+      "question": "What will Marc do this summer?",
+      "questionType": "comprehension",
+      "options": [
+        "He will go on vacation to Spain with his family",
+        "He will work in Spain for the summer",
+        "He will study Spanish language this summer",
+        "He will visit friends in Spain for a weekend"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'ira' (future tense of aller - to go). Marc will go on vacation to Spain this summer with his family.",
+      "difficulty": "B1",
+      "source": "Summer Plans",
+      "tags": [
+        "vacation",
+        "travel",
+        "family",
+        "future-plans"
+      ],
+      "timeCreated": 1719963400
+    },
+    {
+      "id": 339,
+      "audioText": "Quand j'étais petit, je faisais du vélo tous les jours après l'école.",
+      "question": "What did the speaker do when they were little?",
+      "questionType": "comprehension",
+      "options": [
+        "They rode their bike every day after school",
+        "They played soccer with friends every afternoon",
+        "They did homework immediately after school",
+        "They watched TV every evening after dinner"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'faisais' (imperfect tense of faire). The speaker rode their bike every day after school when they were little.",
+      "difficulty": "B2",
+      "source": "Childhood Memories",
+      "tags": [
+        "childhood",
+        "daily-life",
+        "sports",
+        "routine"
+      ],
+      "timeCreated": 1719963500
+    },
+    {
+      "id": 340,
+      "audioText": "Tu disais toujours que tu voulais devenir médecin quand tu étais au lycée.",
+      "question": "Tu ______ toujours que tu voulais devenir médecin quand tu étais au lycée.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "disais",
+        "dis",
+        "diras",
+        "dirais"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'disais' (imperfect tense of dire - to say). The sentence refers to something the person used to say regularly in the past.",
+      "difficulty": "B2",
+      "source": "Career Dreams",
+      "tags": [
+        "education",
+        "career",
+        "dreams",
+        "past-habits"
+      ],
+      "timeCreated": 1719963600
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-02T18:37:56.851Z",
-    "totalQuestions": 114,
-    "originalQuestions": 112,
-    "sourceQuestions": 2,
+    "compiledAt": "2025-07-03T01:36:52.114Z",
+    "totalQuestions": 141,
+    "originalQuestions": 40,
+    "sourceQuestions": 101,
     "level": "B",
     "idRange": "200-399",
     "difficulties": [

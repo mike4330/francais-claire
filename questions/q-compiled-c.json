@@ -49,70 +49,47 @@
     },
     {
       "id": 402,
-      "audioText": "Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.",
-      "parentQuestion": 401,
-      "question": "Qu'est-ce que vous avez entendu?",
+      "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+      "parentQuestion": 8,
+      "question": "What did you hear?",
       "questionType": "listening",
       "options": [
-        "Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.",
-        "Les vieux restaurants de route survivent maintenant grâce aux touristes qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.",
-        "Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux conducteurs d'origine.",
-        "Les nouveaux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine."
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+        "Pour que le système de santé soit durable, il faut qu'on fasse en sorte que les gens soient malades le plus tôt et le moins possible",
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le plus possible",
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient guéris le plus tard et le moins possible"
       ],
       "correct": 0,
-      "explanation": "La phrase exacte était 'Les vieux restaurants de route survivent maintenant grâce aux citadins qui cherchent de l'authenticité, pas grâce aux camionneurs d'origine.' - The old roadside restaurants now survive thanks to city dwellers seeking authenticity, not thanks to the original truckers.",
-      "difficulty": "B2",
-      "source": "French Cultural Commentary - Listening",
+      "explanation": "The exact phrase was 'Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - for the health system to be sustainable, we must ensure people get sick as late and as little as possible.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Listening",
       "tags": [
-        "culture",
-        "society",
-        "gentrification"
+        "healthcare",
+        "policy",
+        "has-simplified-version"
       ]
     },
     {
       "id": 403,
-      "audioText": "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
-      "question": "What is the context behind the deputy's proposals?",
+      "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
+      "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
       "questionType": "comprehension",
       "options": [
-        "He was elected to represent suburban districts last year",
-        "He was personally targeted during urban violence after recent riots",
-        "He was appointed by the government to study suburban issues",
-        "He represents a left-wing party focused on social issues"
+        "She confirmed she will definitely run for election",
+        "She has considered the possibility that she might not be able to run",
+        "She announced her withdrawal from the electoral race",
+        "She criticized the election process in her region"
       ],
       "correct": 1,
-      "explanation": "The text states 'Le député, ciblé durant les violences urbaines' - the deputy was targeted during urban violence. This personal experience during recent riots ('après les émeutes de l'année dernière') provides the context for his twenty proposals to 'restore the Republic' in popular neighborhoods.",
+      "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
       "difficulty": "C1",
-      "source": "French Political News",
+      "source": "French Political Interview",
       "tags": [
         "politics",
-        "social-issues",
-        "riots",
-        "banlieues",
-        "urban-policy"
-      ]
-    },
-    {
-      "id": 404,
-      "audioText": "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
-      "parentQuestion": 403,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
-        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une dizaine de propositions pour «rétablir la République» dans les quartiers populaires",
-        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir l'ordre» dans les quartiers populaires",
-        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, visé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires"
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires.' - After last year's riots, a deputy reveals his 'suburbs plan'. The deputy, targeted during urban violence, presents twenty proposals to 'restore the Republic' in popular neighborhoods.",
-      "difficulty": "B2",
-      "source": "French Political News - Listening",
-      "tags": [
-        "politics",
-        "social-issues",
-        "riots",
-        "banlieues"
+        "elections",
+        "deputy",
+        "candidacy",
+        "interview"
       ]
     },
     {
@@ -141,28 +118,6 @@
       ]
     },
     {
-      "id": 406,
-      "audioText": "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
-      "parentQuestion": 405,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
-        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et sept autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
-        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 40 ans qui assistait à un événement contre le fascisme, dans Paris.",
-        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement pour la démocratie, dans Paris."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était '« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.' - 'I'm going to distance myself from this dangerous environment': a young man, member of a far-right group, gets out of prison.",
-      "difficulty": "B2",
-      "source": "French Legal/Political News - Listening",
-      "tags": [
-        "politics",
-        "extremism",
-        "legal"
-      ]
-    },
-    {
       "id": 407,
       "audioText": "Un nouveau cas d'intoxication à la bactérie Escherichia coli a été annoncé par la préfecture, portant à plus de vingt le nombre de personnes contaminées jusqu'à présent.",
       "question": "What does the phrase 'portant à plus de vingt' indicate?",
@@ -183,54 +138,6 @@
         "administrative",
         "numbers",
         "contamination"
-      ]
-    },
-    {
-      "id": 408,
-      "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active. Cette amélioration s'explique principalement par la création d'emplois dans le secteur des services.",
-      "question": "What does the speaker say about the unemployment rate?",
-      "questionType": "comprehension",
-      "options": [
-        "It increased by 0.2 percentage points due to job losses in services",
-        "It decreased by 0.2 percentage points, reaching 7.3% of the active population",
-        "It remained stable at 7.3% despite job creation in services",
-        "It reached a historic low of 0.2% thanks to government policies"
-      ],
-      "correct": 1,
-      "explanation": "The text states 'Le taux de chômage a baissé de 0,2 point... atteignant 7,3% de la population active' - the unemployment rate fell by 0.2 percentage points, reaching 7.3% of the active population. This improvement is explained by job creation in the service sector.",
-      "difficulty": "B2",
-      "source": "French Economic News",
-      "tags": [
-        "economy",
-        "unemployment",
-        "statistics",
-        "employment",
-        "services",
-        "economic-indicators"
-      ]
-    },
-    {
-      "id": 409,
-      "audioText": "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine. Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport.",
-      "question": "What advice is given to travelers?",
-      "questionType": "comprehension",
-      "options": [
-        "To buy their train tickets in advance to avoid problems",
-        "To postpone their trips or use other means of transportation",
-        "To arrive at the station early because trains will be delayed",
-        "To contact SNCF customer service for more information"
-      ],
-      "correct": 1,
-      "explanation": "The text states 'Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport' - travelers are invited to postpone their trips or use other means of transportation due to the three-day SNCF strike.",
-      "difficulty": "B1",
-      "source": "French Transportation News",
-      "tags": [
-        "strikes",
-        "transportation",
-        "SNCF",
-        "travel",
-        "labor",
-        "social-movements"
       ]
     },
     {
@@ -1608,13 +1515,175 @@
         "classical-works"
       ],
       "timeCreated": 1719937060
+    },
+    {
+      "id": 467,
+      "audioText": "L'historiographie contemporaine révèle que cette histoire officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque, remettant ainsi en question les paradigmes établis par plusieurs générations d'érudits.",
+      "question": "L'historiographie contemporaine révèle que cette ______ officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque.",
+      "questionType": "FIB-reading",
+      "options": [
+        "histoire",
+        "théorie",
+        "doctrine",
+        "version"
+      ],
+      "correct": 0,
+      "explanation": "The word 'histoire' (history/narrative) is correct here. The text discusses how contemporary historiography reveals that the 'official history' (histoire officielle) concealed underlying complexities. While 'version' could seem plausible, 'histoire officielle' is the established term for official historical narratives that are later questioned by revisionist scholarship.",
+      "difficulty": "C2",
+      "source": "Academic Historiography",
+      "tags": [
+        "academia",
+        "historiography",
+        "research",
+        "scholarship",
+        "critical-analysis"
+      ],
+      "timeCreated": 1751488532
+    },
+    {
+      "id": 468,
+      "audioText": "Quand j'étais jeune, je croyais que tous les adultes savaient exactement quoi faire dans la vie.",
+      "question": "What did the narrator believe when they were young?",
+      "questionType": "comprehension",
+      "options": [
+        "That all adults knew exactly what to do in life.",
+        "That life would become easier as they got older.",
+        "That adults never made mistakes or had doubts.",
+        "That everyone had a clear plan for their future."
+      ],
+      "correct": 0,
+      "explanation": "The narrator uses 'croyais' (imperfect of croire - I used to believe) to describe a past belief from childhood: that all adults knew exactly what to do in life.",
+      "difficulty": "C1",
+      "source": "Childhood Reflections",
+      "tags": [
+        "childhood",
+        "maturity",
+        "perspective",
+        "philosophy"
+      ],
+      "timeCreated": 1719962300
+    },
+    {
+      "id": 469,
+      "audioText": "Le mariage du milliardaire et de l'ancienne journaliste Lauren Sanchez doit se tenir dans la cité des Doges. Il aurait décidé de donner un million d'euros à une association de protection de la lagune, ainsi qu'à deux autres organisations locales, pour calmer les esprits.",
+      "question": "Why is the billionaire giving money to local organizations?",
+      "questionType": "comprehension",
+      "options": [
+        "To fund his wedding celebration in Venice",
+        "To support his fiancée's journalism career",
+        "To calm public opinion about the wedding location",
+        "To invest in lagoon tourism development"
+      ],
+      "correct": 2,
+      "explanation": "He gives money 'pour calmer les esprits' - to calm spirits/public opinion. The donations to the lagoon protection association and local organizations are meant to appease concerns about the high-profile wedding in Venice ('la cité des Doges').",
+      "difficulty": "C1",
+      "source": "Celebrity News",
+      "tags": [
+        "celebrity",
+        "marriage",
+        "venice",
+        "environment"
+      ]
+    },
+    {
+      "id": 470,
+      "audioText": "Le PS renoue avec la censure, mais pas avec LFI : « Les socialistes sont revenus à la maison, mais tout n'est pas oublié. C'est à cause d'eux que le gouvernement a pu adopter le pire budget depuis des années »",
+      "question": "What is the relationship between PS and LFI regarding the censure motion?",
+      "questionType": "comprehension",
+      "options": [
+        "PS and LFI are working together on the censure motion",
+        "PS supports censure but is not cooperating with LFI",
+        "LFI has convinced PS to abandon the censure motion",
+        "Both parties oppose any censure motion"
+      ],
+      "correct": 1,
+      "explanation": "'Le PS renoue avec la censure, mais pas avec LFI' - PS reconnects with censure, but not with LFI. The quote suggests PS has 'returned home' (to opposition politics) but hasn't forgiven LFI's role in allowing 'the worst budget in years' to pass.",
+      "difficulty": "C2",
+      "source": "French Parliamentary Politics",
+      "tags": [
+        "politics",
+        "parliament",
+        "censure",
+        "socialist-party",
+        "coalition",
+        "budget"
+      ]
+    },
+    {
+      "id": 471,
+      "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+      "parentQuestion": 8,
+      "question": "What did you hear?",
+      "questionType": "listening",
+      "options": [
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+        "Pour que le système de santé soit durable, il faut qu'on fasse en sorte que les gens soient malades le plus tôt et le moins possible",
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le plus possible",
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient guéris le plus tard et le moins possible"
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - for the health system to be sustainable, we must ensure people get sick as late and as little as possible.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Listening",
+      "tags": [
+        "healthcare",
+        "policy",
+        "has-simplified-version"
+      ]
+    },
+    {
+      "id": 472,
+      "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
+      "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
+      "questionType": "comprehension",
+      "options": [
+        "She confirmed she will definitely run for election",
+        "She has considered the possibility that she might not be able to run",
+        "She announced her withdrawal from the electoral race",
+        "She criticized the election process in her region"
+      ],
+      "correct": 1,
+      "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
+      "difficulty": "C1",
+      "source": "French Political Interview",
+      "tags": [
+        "politics",
+        "elections",
+        "deputy",
+        "candidacy",
+        "interview"
+      ]
+    },
+    {
+      "id": 473,
+      "audioText": "Au fond, cette réforme éducative ne changera rien aux inégalités sociales profondes qui persistent dans notre système scolaire depuis des décennies.",
+      "question": "What is the speaker's opinion about the educational reform?",
+      "questionType": "comprehension",
+      "options": [
+        "Fundamentally, it will not change the deep social inequalities in the school system",
+        "It will completely revolutionize the educational approach",
+        "It will solve all the problems in education within a few years",
+        "It focuses too much on superficial changes rather than real issues"
+      ],
+      "correct": 0,
+      "explanation": "The speaker uses 'Au fond' (fundamentally/basically) to express that the reform won't change deep social inequalities that have persisted for decades in the school system.",
+      "difficulty": "C1",
+      "source": "Educational Policy Analysis",
+      "tags": [
+        "education",
+        "politics",
+        "social-issues",
+        "reform",
+        "inequality"
+      ],
+      "timeCreated": 1719962800
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-02T18:37:56.854Z",
-    "totalQuestions": 67,
-    "originalQuestions": 69,
-    "sourceQuestions": 0,
+    "compiledAt": "2025-07-03T01:36:52.117Z",
+    "totalQuestions": 70,
+    "originalQuestions": 46,
+    "sourceQuestions": 26,
     "level": "C",
     "idRange": "400-499",
     "difficulties": [
