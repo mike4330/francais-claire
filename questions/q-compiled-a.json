@@ -2203,13 +2203,450 @@
         "daily-life"
       ],
       "timeCreated": 1719963300
+    },
+    {
+      "id": 124,
+      "audioText": "Cet exercice de maths est très dur pour moi.",
+      "question": "What does the speaker say about the math exercise?",
+      "questionType": "comprehension",
+      "options": [
+        "It is very hard for them",
+        "It is very easy for them",
+        "It is very interesting for them",
+        "It is very boring for them"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Cet exercice de maths est très dur pour moi' - This math exercise is very hard for me. 'Dur' means hard or difficult.",
+      "difficulty": "A2",
+      "source": "School Subjects",
+      "tags": [
+        "education",
+        "difficulty",
+        "mathematics",
+        "school"
+      ],
+      "timeCreated": 1719963700
+    },
+    {
+      "id": 125,
+      "audioText": "Ce film était vraiment drôle, j'ai beaucoup ri.",
+      "question": "Ce film était vraiment ______, j'ai beaucoup ri.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "drôle",
+        "triste",
+        "ennuyeux",
+        "difficile"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says they laughed a lot, so the film was 'drôle' (funny). The context clue 'j'ai beaucoup ri' (I laughed a lot) indicates it was funny.",
+      "difficulty": "A2",
+      "source": "Entertainment Review",
+      "tags": [
+        "entertainment",
+        "emotions",
+        "cinema",
+        "humor"
+      ],
+      "timeCreated": 1719963800
+    },
+    {
+      "id": 126,
+      "audioText": "Je suis malade aujourd'hui, je reste à la maison.",
+      "question": "Why is the speaker staying home today?",
+      "questionType": "comprehension",
+      "options": [
+        "Because they are sick",
+        "Because they are tired",
+        "Because they are busy",
+        "Because it's raining"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Je suis malade aujourd'hui' - I am sick today. That's why they are staying home.",
+      "difficulty": "A1",
+      "source": "Health and Daily Life",
+      "tags": [
+        "health",
+        "daily-life",
+        "illness",
+        "home"
+      ],
+      "timeCreated": 1719963900
+    },
+    {
+      "id": 127,
+      "audioText": "Je suis désolé d'être en retard à notre rendez-vous.",
+      "question": "Je suis ______ d'être en retard à notre rendez-vous.",
+      "questionType": "FIB-reading",
+      "options": [
+        "désolé",
+        "content",
+        "fier",
+        "surpris"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'désolé' (sorry). The speaker is apologizing for being late to their appointment. 'Je suis désolé' means 'I am sorry.'",
+      "difficulty": "A2",
+      "source": "Polite Apologies",
+      "tags": [
+        "politeness",
+        "apology",
+        "appointments",
+        "daily-life"
+      ],
+      "timeCreated": 1719964100
+    },
+    {
+      "id": 128,
+      "audioText": "Le bus passait tous les matins à huit heures devant ma maison.",
+      "question": "When did the bus pass by the speaker's house?",
+      "questionType": "comprehension",
+      "options": [
+        "Every morning at eight o'clock",
+        "Every evening at eight o'clock",
+        "Only on weekdays at eight o'clock",
+        "Every afternoon at eight o'clock"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Le bus passait tous les matins à huit heures' - The bus used to pass every morning at eight o'clock. 'Passait' is the imperfect tense indicating a repeated past action.",
+      "difficulty": "A2",
+      "source": "Daily Routine",
+      "tags": [
+        "transportation",
+        "daily-life",
+        "routine",
+        "time"
+      ],
+      "timeCreated": 1719964400
+    },
+    {
+      "id": 129,
+      "audioText": "Nous faisons les courses ensemble tous les samedis matin.",
+      "question": "Nous ______ les courses ensemble tous les samedis matin.",
+      "questionType": "FIB-reading",
+      "options": [
+        "faisons",
+        "fais",
+        "fait",
+        "font"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'faisons' (first person plural of 'faire'). 'Nous faisons' means 'we do/make'. The sentence means 'We do the shopping together every Saturday morning.'",
+      "difficulty": "A2",
+      "source": "Weekly Routine",
+      "tags": [
+        "shopping",
+        "routine",
+        "family",
+        "weekend"
+      ],
+      "timeCreated": 1719964800
+    },
+    {
+      "id": 130,
+      "audioText": "Puis-je vous aider à porter ces sacs lourds ?",
+      "question": "What is the speaker offering to do?",
+      "questionType": "comprehension",
+      "options": [
+        "Help carry the heavy bags",
+        "Show the way to the store",
+        "Open the door for someone",
+        "Call a taxi for assistance"
+      ],
+      "correct": 0,
+      "explanation": "The speaker asks 'Puis-je vous aider à porter ces sacs lourds ?' - May I help you carry these heavy bags? 'Puis' is a polite form of 'peux' (can/may).",
+      "difficulty": "A2",
+      "source": "Polite Assistance",
+      "tags": [
+        "politeness",
+        "helping",
+        "shopping",
+        "courtesy"
+      ],
+      "timeCreated": 1719965000
+    },
+    {
+      "id": 131,
+      "audioText": "Mon petit frère ne pouvait pas dormir à cause du bruit.",
+      "question": "Mon petit frère ne ______ pas dormir à cause du bruit.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pouvait",
+        "peut",
+        "pourra",
+        "pu"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'pouvait' (imperfect tense of 'pouvoir'). It describes a past state - the little brother could not sleep because of the noise.",
+      "difficulty": "A2",
+      "source": "Sleep Problems",
+      "tags": [
+        "family",
+        "sleep",
+        "noise",
+        "problems"
+      ],
+      "timeCreated": 1719965100
+    },
+    {
+      "id": 132,
+      "audioText": "Mon grand-père savait réparer toutes sortes d'objets cassés.",
+      "question": "What could the speaker's grandfather do?",
+      "questionType": "comprehension",
+      "options": [
+        "He knew how to repair all kinds of broken objects",
+        "He liked to collect old broken furniture",
+        "He taught people how to fix their cars",
+        "He worked in a repair shop downtown"
+      ],
+      "correct": 0,
+      "explanation": "The grandfather 'savait réparer toutes sortes d'objets cassés' - knew how to repair all kinds of broken objects. 'Savait' is the imperfect tense of 'savoir' indicating a past ability.",
+      "difficulty": "A2",
+      "source": "Family Skills",
+      "tags": [
+        "family",
+        "skills",
+        "repair",
+        "grandfather"
+      ],
+      "timeCreated": 1719965400
+    },
+    {
+      "id": 133,
+      "audioText": "Ce nouveau smartphone est trop cher pour mon budget.",
+      "question": "Ce nouveau smartphone est trop ______ pour mon budget.",
+      "questionType": "FIB-reading",
+      "options": [
+        "cher",
+        "bon",
+        "grand",
+        "rapide"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'cher' (expensive). The sentence means 'This new smartphone is too expensive for my budget.' 'Cher' is used to describe something that costs a lot of money.",
+      "difficulty": "A1",
+      "source": "Technology Shopping",
+      "tags": [
+        "technology",
+        "shopping",
+        "budget",
+        "prices"
+      ],
+      "timeCreated": 1720052520
+    },
+    {
+      "id": 134,
+      "audioText": "Es-tu sûr de vouloir supprimer tous tes fichiers ?",
+      "question": "What is the person asking about?",
+      "questionType": "comprehension",
+      "options": [
+        "Whether they're sure about deleting all their files",
+        "Whether they want to download new files",
+        "Whether they need to backup their files",
+        "Whether they can share their files"
+      ],
+      "correct": 0,
+      "explanation": "The question asks 'Es-tu sûr de vouloir supprimer tous tes fichiers ?' - Are you sure you want to delete all your files? 'Sûr' means sure/certain, asking for confirmation about a potentially destructive action.",
+      "difficulty": "A1",
+      "source": "Technology Safety",
+      "tags": [
+        "technology",
+        "data",
+        "safety",
+        "confirmation"
+      ],
+      "timeCreated": 1720052580
+    },
+    {
+      "id": 135,
+      "audioText": "Cette décision me semble juste et équitable pour tous.",
+      "question": "Cette décision me semble ______ et équitable pour tous.",
+      "questionType": "FIB-reading",
+      "options": [
+        "juste",
+        "difficile",
+        "rapide",
+        "étrange"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'juste' (fair/just). The sentence means 'This decision seems fair and equitable to everyone.' 'Juste' expresses fairness and righteousness in decision-making.",
+      "difficulty": "A1",
+      "source": "Business Fairness",
+      "tags": [
+        "business",
+        "fairness",
+        "decisions",
+        "equity"
+      ],
+      "timeCreated": 1720052640
+    },
+    {
+      "id": 136,
+      "audioText": "Cette entreprise a signé un gros contrat avec une multinationale.",
+      "question": "What kind of contract did the company sign?",
+      "questionType": "comprehension",
+      "options": [
+        "A big contract with a multinational company",
+        "A small contract with a local business",
+        "A temporary contract with suppliers",
+        "A research contract with universities"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Cette entreprise a signé un gros contrat avec une multinationale' - This company signed a big contract with a multinational. 'Gros' means big/large, indicating the significant size or value of the contract.",
+      "difficulty": "A2",
+      "source": "Business Contracts",
+      "tags": [
+        "business",
+        "contracts",
+        "multinational",
+        "agreements"
+      ],
+      "timeCreated": 1720052700
+    },
+    {
+      "id": 137,
+      "audioText": "Ce stade est plein de supporters enthousiastes ce soir.",
+      "question": "Ce stade est ______ de supporters enthousiastes ce soir.",
+      "questionType": "FIB-reading",
+      "options": [
+        "plein",
+        "vide",
+        "loin",
+        "proche"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'plein' (full). The sentence means 'This stadium is full of enthusiastic supporters tonight.' 'Plein de' is a common expression meaning 'full of' or 'filled with.'",
+      "difficulty": "A1",
+      "source": "Sports Event",
+      "tags": [
+        "sports",
+        "stadium",
+        "supporters",
+        "events"
+      ],
+      "timeCreated": 1720052760
+    },
+    {
+      "id": 138,
+      "audioText": "Son nouveau téléphone a un écran noir très élégant.",
+      "question": "Son nouveau téléphone a un écran ______ très élégant.",
+      "questionType": "FIB-reading",
+      "options": [
+        "noir",
+        "blanc",
+        "rouge",
+        "bleu"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'noir' (black). The sentence means 'His new phone has a very elegant black screen.' 'Noir' is a basic color adjective describing the appearance of the phone's display.",
+      "difficulty": "A1",
+      "source": "Technology Design",
+      "tags": [
+        "technology",
+        "design",
+        "colors",
+        "phones"
+      ],
+      "timeCreated": 1720052820
+    },
+    {
+      "id": 139,
+      "audioText": "Cette application est la meilleure pour apprendre les langues.",
+      "question": "Cette application est la ______ pour apprendre les langues.",
+      "questionType": "FIB-reading",
+      "options": [
+        "meilleure",
+        "plus grande",
+        "plus chère",
+        "plus rapide"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'meilleure' (best/better). The sentence means 'This application is the best for learning languages.' 'Meilleure' is the feminine form of 'meilleur' agreeing with 'application.'",
+      "difficulty": "A1",
+      "source": "Language Learning",
+      "tags": [
+        "technology",
+        "education",
+        "language-learning",
+        "apps"
+      ],
+      "timeCreated": 1720052880
+    },
+    {
+      "id": 140,
+      "audioText": "Le joueur a marqué un but avec son pied gauche.",
+      "question": "How did the player score the goal?",
+      "questionType": "comprehension",
+      "options": [
+        "With his left foot",
+        "With his right foot",
+        "With his head",
+        "With his chest"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Le joueur a marqué un but avec son pied gauche' - The player scored a goal with his left foot. 'Gauche' means left (direction), referring to the left foot used to score.",
+      "difficulty": "A2",
+      "source": "Football Match",
+      "tags": [
+        "sports",
+        "football",
+        "goals",
+        "body-parts"
+      ],
+      "timeCreated": 1720052940
+    },
+    {
+      "id": 141,
+      "audioText": "Cette connexion internet est vraiment mauvaise aujourd'hui.",
+      "question": "Cette connexion internet est vraiment ______ aujourd'hui.",
+      "questionType": "FIB-reading",
+      "options": [
+        "mauvaise",
+        "excellente",
+        "rapide",
+        "gratuite"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'mauvaise' (bad). The sentence means 'This internet connection is really bad today.' 'Mauvaise' is the feminine form of 'mauvais' agreeing with 'connexion.'",
+      "difficulty": "A1",
+      "source": "Internet Problems",
+      "tags": [
+        "technology",
+        "internet",
+        "problems",
+        "connectivity"
+      ],
+      "timeCreated": 1720053000
+    },
+    {
+      "id": 142,
+      "audioText": "Cette startup n'a pas la moindre chance de réussir dans ce marché très compétitif.",
+      "question": "What does the sentence say about the startup's chances?",
+      "questionType": "comprehension",
+      "options": [
+        "It doesn't have the slightest chance of succeeding in this very competitive market",
+        "It has excellent chances of succeeding in this competitive market",
+        "It has some chance of succeeding if the market changes",
+        "It will definitely succeed despite the competitive market"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Cette startup n'a pas la moindre chance de réussir dans ce marché très compétitif' - This startup doesn't have the slightest chance of succeeding in this very competitive market. 'Moindre' means slightest/least, emphasizing complete lack of chance.",
+      "difficulty": "A2",
+      "source": "Startup Business",
+      "tags": [
+        "business",
+        "startups",
+        "competition",
+        "market"
+      ],
+      "timeCreated": 1720053060
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-03T01:36:52.111Z",
-    "totalQuestions": 93,
+    "compiledAt": "2025-07-03T03:27:47.153Z",
+    "totalQuestions": 112,
     "originalQuestions": 56,
-    "sourceQuestions": 37,
+    "sourceQuestions": 56,
     "level": "A",
     "idRange": "1-199",
     "difficulties": [

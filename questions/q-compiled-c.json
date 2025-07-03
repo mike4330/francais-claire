@@ -258,30 +258,6 @@
       ]
     },
     {
-      "id": 415,
-      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-      "parentQuestion": 414,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-        "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des récompenses au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne veulent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.' Les distracteurs modifient soit l'adjectif clé (choqués/surpris), le mot 'pénalités' (pénalités/récompenses), ou le verbe (ne peuvent pas/ne veulent pas).",
-      "difficulty": "B2",
-      "source": "French Healthcare Policy - Medical Deserts - Listening",
-      "tags": [
-        "healthcare",
-        "policy",
-        "medical-deserts",
-        "penalties",
-        "doctors"
-      ]
-    },
-    {
       "id": 416,
       "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
       "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
@@ -378,25 +354,26 @@
     },
     {
       "id": 420,
-      "audioText": "Cette réforme du système de retraites pourrait transformer radicalement l'équilibre entre vie professionnelle et vieillesse. Selon l'expert en politiques sociales, elle pourrait également créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires.",
-      "question": "According to the social policy expert, what potential risks does the pension reform pose?",
+      "audioText": "L'exécution provisoire des peines d'inéligibilité a été prononcée 50 fois plus souvent l'an dernier qu'il y a six ans, touchant de nombreux élus de façon indéterminée. Selon un expert, cela représente une déviance profonde de l'État de droit.",
+      "question": "What concern is raised about the recent increase in provisional ineligibility sentences?",
       "questionType": "comprehension",
       "options": [
-        "It could guarantee equal pensions for all workers regardless of their career path",
-        "It could create major intergenerational inequalities without adequate compensatory measures for precarious workers",
-        "It could eliminate all forms of workplace discrimination and improve working conditions",
-        "It could reduce government spending while maintaining current benefit levels"
+        "It represents a serious deviation from the rule of law, affecting many elected officials in an indefinite manner.",
+        "It has made the legal process more efficient and transparent.",
+        "It has reduced the number of appeals by convicted officials.",
+        "It is welcomed by all political parties as a necessary reform."
       ],
-      "correct": 1,
-      "explanation": "The expert warns that the reform 'pourrait créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires' - could create major intergenerational inequalities if not accompanied by adequate compensatory measures for precarious workers. The conditional 'pourrait' expresses potential negative consequences that need to be addressed.",
+      "correct": 0,
+      "explanation": "The text highlights that the sharp rise in provisional ineligibility sentences is seen as a profound deviation from the rule of law, with many elected officials affected in an indefinite way. This is presented as a negative development, not a positive reform.",
       "difficulty": "C1",
-      "source": "French Social Policy Analysis",
+      "source": "Legal News - Points de Vue",
       "tags": [
-        "pension-reform",
-        "social-policy",
-        "intergenerational-equity",
-        "precarious-work",
-        "policy-analysis"
+        "law",
+        "ineligibility",
+        "rule-of-law",
+        "politics",
+        "justice",
+        "trend"
       ]
     },
     {
@@ -1677,13 +1654,59 @@
         "inequality"
       ],
       "timeCreated": 1719962800
+    },
+    {
+      "id": 474,
+      "audioText": "La réaction qu'elle a eue face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion.",
+      "question": "La réaction qu'elle a ______ face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion.",
+      "questionType": "FIB-reading",
+      "options": [
+        "eue",
+        "eu",
+        "avoir",
+        "ayant"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'eue' (feminine past participle of 'avoir'). It agrees with 'la réaction' (feminine). The construction is 'la réaction qu'elle a eue' - the reaction that she had.",
+      "difficulty": "C1",
+      "source": "Professional Meeting",
+      "tags": [
+        "workplace",
+        "reactions",
+        "meetings",
+        "unexpected-news"
+      ],
+      "timeCreated": 1719964500
+    },
+    {
+      "id": 480,
+      "audioText": "Dès que j'eus terminé mon travail, je partis rejoindre mes amis au café.",
+      "question": "What did the speaker do after finishing work?",
+      "questionType": "comprehension",
+      "options": [
+        "Left to join friends at the café",
+        "Called friends to meet at home",
+        "Went directly home to rest",
+        "Started working on another project"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Dès que j'eus terminé mon travail, je partis rejoindre mes amis au café' - As soon as I had finished my work, I left to join my friends at the café. 'Eus' is the passé simple of 'avoir', used in formal/literary contexts.",
+      "difficulty": "C1",
+      "source": "After Work Social",
+      "tags": [
+        "work",
+        "social",
+        "friends",
+        "café"
+      ],
+      "timeCreated": 1720051500
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-03T01:36:52.117Z",
-    "totalQuestions": 70,
-    "originalQuestions": 46,
-    "sourceQuestions": 26,
+    "compiledAt": "2025-07-03T03:27:47.158Z",
+    "totalQuestions": 71,
+    "originalQuestions": 7,
+    "sourceQuestions": 65,
     "level": "C",
     "idRange": "400-499",
     "difficulties": [

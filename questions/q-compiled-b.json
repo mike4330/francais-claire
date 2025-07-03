@@ -1176,7 +1176,7 @@
         "avez donné"
       ],
       "correct": 0,
-      "explanation": "Le mot manquant est 'donnerez'. La phrase complète est 'Vous donnerez vos réponses au professeur avant la fin du cours pour qu'il puisse les corriger ce soir.' - You will give your answers to the teacher before the end of class so he can correct them tonight. 'Donnerez' is the future tense of 'donner' with 'vous'.",
+      "explanation": "The missing word is 'donnerez' (future tense of 'donner' with 'vous'). You will give your answers to the teacher before the end of class so he can correct them tonight.",
       "difficulty": "B1",
       "source": "Classroom Instructions",
       "tags": [
@@ -1408,27 +1408,26 @@
     },
     {
       "id": 259,
-      "audioText": "Ma voiture est tombée en panne sur l'autoroute, alors j'ai dû appeler le service de dépannage et attendre une heure sous la pluie.",
-      "question": "What happened to the speaker on the highway?",
-      "questionType": "comprehension",
+      "audioText": "C'est vrai que les réseaux sociaux changent notre façon de communiquer.",
+      "question": "C'est ______ que les réseaux sociaux changent notre façon de communiquer.",
+      "questionType": "FIB-reading",
       "options": [
-        "Their car broke down, so they had to call roadside assistance and wait an hour in the rain",
-        "They got a flat tire and changed it themselves in the rain",
-        "They ran out of gas and walked to the nearest station",
-        "They had an accident but everyone was safe"
+        "vrai",
+        "faux",
+        "possible",
+        "douteux"
       ],
       "correct": 0,
-      "explanation": "The text states 'Ma voiture est tombée en panne sur l'autoroute, alors j'ai dû appeler le service de dépannage et attendre une heure sous la pluie' - My car broke down on the highway, so I had to call roadside assistance and wait an hour in the rain. This shows car troubles and emergency services.",
+      "explanation": "The correct word is 'vrai' (true). The sentence means 'It's true that social networks are changing the way we communicate.' This acknowledges the real impact of social media on communication.",
       "difficulty": "B1",
-      "source": "Car Breakdown Emergency",
+      "source": "Social Media Impact",
       "tags": [
-        "car-troubles",
-        "highway",
-        "emergency-services",
-        "roadside-assistance",
-        "weather",
-        "transportation-problems"
-      ]
+        "technology",
+        "social-media",
+        "communication",
+        "change"
+      ],
+      "timeCreated": 1720052400
     },
     {
       "id": 260,
@@ -1490,7 +1489,7 @@
         "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», populaire sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics."
       ],
       "correct": 0,
-      "explanation": "La phrase exacte était 'Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.' Les distracteurs modifient des mots clés : 'certains/quelques', 'reprennent/utilisent', et 'en vogue/populaire', testant l'écoute précise du vocabulaire politique et d'internet.",
+      "explanation": "The exact phrase was 'Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.' The distractors modify key words: 'certains/quelques', 'reprennent/utilisent', and 'en vogue/populaire', testing precise listening of political and internet vocabulary.",
       "difficulty": "B2",
       "source": "French Political Media Commentary - Listening",
       "tags": [
@@ -3412,13 +3411,266 @@
         "past-habits"
       ],
       "timeCreated": 1719963600
+    },
+    {
+      "id": 341,
+      "audioText": "Cette solution ne marche pas, il faut essayer une autre approche pour résoudre ce problème.",
+      "question": "What does the speaker suggest?",
+      "questionType": "comprehension",
+      "options": [
+        "They need to try a different approach to solve the problem",
+        "They should give up on solving this problem completely",
+        "The current solution is working perfectly fine",
+        "They need more time to make the solution work"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says the current solution doesn't work and suggests 'essayer une autre approche' - trying another/different approach to solve the problem.",
+      "difficulty": "B1",
+      "source": "Problem Solving Strategy",
+      "tags": [
+        "work",
+        "problem-solving",
+        "strategy",
+        "alternatives"
+      ],
+      "timeCreated": 1719964000
+    },
+    {
+      "id": 342,
+      "audioText": "Quand j'étais enfant, ma grand-mère m'appelait toujours mon petit trésor.",
+      "question": "Quand j'étais enfant, ma grand-mère m'______ toujours mon petit trésor.",
+      "questionType": "FIB-reading",
+      "options": [
+        "appelait",
+        "appelle",
+        "appellera",
+        "a appelé"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'appelait' (imperfect tense of 'appeler'). The imperfect is used for repeated actions in the past - grandmother used to call them 'my little treasure' regularly.",
+      "difficulty": "B1",
+      "source": "Family Memories",
+      "tags": [
+        "family",
+        "childhood",
+        "grandparents",
+        "affection"
+      ],
+      "timeCreated": 1719964200
+    },
+    {
+      "id": 343,
+      "audioText": "J'ai longtemps cru que cette histoire était vraie, mais j'ai découvert que c'était un mensonge.",
+      "question": "What did the speaker believe for a long time?",
+      "questionType": "comprehension",
+      "options": [
+        "That this story was true, but discovered it was a lie",
+        "That this story was false, but discovered it was true",
+        "That this story was interesting but boring in reality",
+        "That this story was short but it was actually very long"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'J'ai longtemps cru que cette histoire était vraie' - I believed for a long time that this story was true. 'Cru' is the past participle of 'croire' (to believe).",
+      "difficulty": "B2",
+      "source": "Personal Discovery",
+      "tags": [
+        "beliefs",
+        "truth",
+        "discovery",
+        "deception"
+      ],
+      "timeCreated": 1719964300
+    },
+    {
+      "id": 344,
+      "audioText": "Il faut que tu aies plus de confiance en toi pour réussir dans cette nouvelle entreprise.",
+      "question": "What does the speaker say is necessary for success?",
+      "questionType": "comprehension",
+      "options": [
+        "You need to have more confidence in yourself",
+        "You need to work harder than everyone else",
+        "You need to ask for help from colleagues",
+        "You need to change your working methods"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Il faut que tu aies plus de confiance en toi' - You need to have more confidence in yourself. 'Aies' is the subjunctive form of 'avoir' used after 'il faut que'.",
+      "difficulty": "B2",
+      "source": "Career Advice",
+      "tags": [
+        "confidence",
+        "career",
+        "success",
+        "advice"
+      ],
+      "timeCreated": 1719964600
+    },
+    {
+      "id": 345,
+      "audioText": "Je doute qu'elle aille à la fête ce soir parce qu'elle est très fatiguée.",
+      "question": "Je doute qu'elle ______ à la fête ce soir parce qu'elle est très fatiguée.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aille",
+        "va",
+        "ira",
+        "allait"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'aille' (subjunctive of 'aller'). After expressions of doubt like 'je doute que', French requires the subjunctive mood.",
+      "difficulty": "B2",
+      "source": "Social Plans",
+      "tags": [
+        "social-events",
+        "doubt",
+        "fatigue",
+        "evening-plans"
+      ],
+      "timeCreated": 1719964700
+    },
+    {
+      "id": 346,
+      "audioText": "Je te dirai la vérité quand tu seras prêt à l'entendre.",
+      "question": "When will the speaker tell the truth?",
+      "questionType": "comprehension",
+      "options": [
+        "When the listener is ready to hear it",
+        "When they find the right moment tomorrow",
+        "When they have more evidence to support it",
+        "When other people are not around to listen"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Je te dirai la vérité quand tu seras prêt à l'entendre' - I will tell you the truth when you are ready to hear it. 'Dirai' is the future tense of 'dire'.",
+      "difficulty": "B1",
+      "source": "Personal Revelation",
+      "tags": [
+        "truth",
+        "timing",
+        "readiness",
+        "personal-relationships"
+      ],
+      "timeCreated": 1719964900
+    },
+    {
+      "id": 347,
+      "audioText": "J'ai su la nouvelle par mon collègue qui était présent à la réunion.",
+      "question": "J'ai ______ la nouvelle par mon collègue qui était présent à la réunion.",
+      "questionType": "FIB-reading",
+      "options": [
+        "su",
+        "savoir",
+        "sais",
+        "savais"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'su' (past participle of 'savoir'). 'J'ai su' means 'I learned/found out'. The construction is passé composé: 'avoir' + past participle.",
+      "difficulty": "B1",
+      "source": "Workplace Information",
+      "tags": [
+        "workplace",
+        "information",
+        "colleagues",
+        "meetings"
+      ],
+      "timeCreated": 1719965200
+    },
+    {
+      "id": 348,
+      "audioText": "Pourriez-vous me dire où se trouve la station de métro la plus proche ?",
+      "question": "______-vous me dire où se trouve la station de métro la plus proche ?",
+      "questionType": "FIB-reading",
+      "options": [
+        "Pourriez",
+        "Pouvez",
+        "Pourrez",
+        "Pouviez"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'Pourriez' (conditional of 'pouvoir'). This is the most polite way to ask for help: 'Could you tell me where the nearest metro station is?'",
+      "difficulty": "B1",
+      "source": "Polite Directions",
+      "tags": [
+        "politeness",
+        "directions",
+        "transportation",
+        "courtesy"
+      ],
+      "timeCreated": 1719965300
+    },
+    {
+      "id": 349,
+      "audioText": "Elle verra les résultats de ses examens la semaine prochaine.",
+      "question": "When will she see her exam results?",
+      "questionType": "comprehension",
+      "options": [
+        "Next week",
+        "Tomorrow morning",
+        "This afternoon",
+        "In two weeks"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Elle verra les résultats... la semaine prochaine' - She will see the results next week. 'Verra' is the future tense of 'voir' (to see).",
+      "difficulty": "B1",
+      "source": "Exam Results",
+      "tags": [
+        "education",
+        "exams",
+        "results",
+        "future-events"
+      ],
+      "timeCreated": 1719965500
+    },
+    {
+      "id": 350,
+      "audioText": "Je devrais peut-être prendre des cours de cuisine pour améliorer mes compétences.",
+      "question": "Je ______ peut-être prendre des cours de cuisine pour améliorer mes compétences.",
+      "questionType": "FIB-reading",
+      "options": [
+        "devrais",
+        "devais",
+        "devrai",
+        "dois"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'devrais' (conditional of 'devoir'). It expresses a suggestion or advice: 'I should maybe take cooking classes to improve my skills.'",
+      "difficulty": "B2",
+      "source": "Self-Improvement",
+      "tags": [
+        "self-improvement",
+        "cooking",
+        "skills",
+        "advice"
+      ],
+      "timeCreated": 1719965600
+    },
+    {
+      "id": 351,
+      "audioText": "Il est étrange que cette nouvelle application consomme autant de batterie.",
+      "question": "What is strange about the new application?",
+      "questionType": "comprehension",
+      "options": [
+        "It consumes so much battery",
+        "It costs too much money",
+        "It has too many features",
+        "It runs too slowly"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Il est étrange que cette nouvelle application consomme autant de batterie' - It's strange that this new application consumes so much battery. 'Étrange' means strange/odd, expressing surprise about the high battery consumption.",
+      "difficulty": "B1",
+      "source": "Technology Issues",
+      "tags": [
+        "technology",
+        "mobile-apps",
+        "battery",
+        "problems"
+      ],
+      "timeCreated": 1720052460
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-03T01:36:52.114Z",
-    "totalQuestions": 141,
-    "originalQuestions": 40,
-    "sourceQuestions": 101,
+    "compiledAt": "2025-07-03T03:27:47.155Z",
+    "totalQuestions": 152,
+    "originalQuestions": 10,
+    "sourceQuestions": 142,
     "level": "B",
     "idRange": "200-399",
     "difficulties": [
