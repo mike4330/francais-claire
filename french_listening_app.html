@@ -221,12 +221,10 @@
         // Question bank loaded from external JSON file
         let questionBank = [];
 
-        // Current session questions (filtered by difficulty)
-        let questions = [];
         let currentDifficulty = 'A1';
 
-        // App state
-        let currentQuestion = 0;
+        // App state - current question now loaded directly by ID
+        let currentQuestionData = null;
         let selectedAnswer = null;
         let score = 0;
         let answered = false;
@@ -691,8 +689,16 @@
                 
                 // Special handling for user performance data
                 if (type === 'user_question_performance_result' && message.action === 'get_user_question_performance') {
-                    userPerformanceData = data.performances || [];
+                    userPerformanceData = data.questionPerformances || [];
                     console.log(`[DEBUG-2] 📊 Loaded ${userPerformanceData.length} user performance records for intelligent selection`);
+                    
+                    // If we have a pending level start, trigger it now that data is loaded
+                    if (window.pendingLevelStart) {
+                        const level = window.pendingLevelStart;
+                        window.pendingLevelStart = null;
+                        console.log(`[DEBUG-2] 🚀 Triggering delayed level start for ${level} now that performance data is loaded`);
+                        startWithLevelAfterDataLoad(level);
+                    }
                 }
                 
                 resolve(data);
@@ -859,7 +865,11 @@
 
         // Play audio function
         async function playAudio() {
-            const question = questions[currentQuestion];
+            const question = currentQuestionData;
+            if (!question) {
+                console.error('No current question data available for audio playback');
+                return;
+            }
             const speed = parseFloat(speedSelect.value);
             
             // Get the appropriate audio text (template variation or static)
@@ -951,7 +961,6 @@
             await loadConfig(); // Load configuration first
             await loadQuestionBankMulti(); // Load questions from multiple JSON files
             setupDifficultyButtons();
-            filterQuestionsByDifficulty();
             loadSettings(); // Load saved settings first
             
             // Load user performance data for intelligent question selection
@@ -1066,49 +1075,112 @@
             answered = false;
             userAnswers = [];
             
-            // Use intelligent question selection to find the best starting question
+            // Load performance data first, then use intelligent question selection
+            loadUserPerformanceDataThenStart(level);
+            
+            updateProgress();
+            updateScore();
+        }
+        
+        // Load performance data and then start with intelligent question selection
+        function loadUserPerformanceDataThenStart(level) {
+            // Debug WebSocket and UUID status
+            console.log(`[DEBUG-2] 🔍 Checking performance data prerequisites for level ${level}:`);
+            console.log(`[DEBUG-2]    📡 WebSocket exists: ${!!cacheSocket}`);
+            console.log(`[DEBUG-2]    📡 WebSocket ready: ${cacheSocket ? cacheSocket.readyState === WebSocket.OPEN : 'N/A'}`);
+            console.log(`[DEBUG-2]    👤 User UUID: ${userUUID ? 'Set' : 'Missing'}`);
+            
+            if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
+                console.log(`[DEBUG-2] 📊 Loading user performance data for level ${level} selection...`);
+                
+                // Store a callback to execute after performance data loads
+                window.pendingLevelStart = level;
+                
+                sendCacheMessage({ action: 'get_user_question_performance', uuid: userUUID });
+            } else {
+                console.log(`[DEBUG-2] ⚠️ Cannot load performance data: WebSocket not ready or no user UUID, using fallback`);
+                console.log(`[DEBUG-2] 🔄 Attempting to retry in 1 second...`);
+                
+                // Try to wait a bit for WebSocket to be ready
+                setTimeout(() => {
+                    if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
+                        console.log(`[DEBUG-2] ✅ Retry successful! Loading performance data for level ${level}`);
+                        window.pendingLevelStart = level;
+                        sendCacheMessage({ action: 'get_user_question_performance', uuid: userUUID });
+                    } else {
+                        console.log(`[DEBUG-2] ⚠️ Retry failed. Proceeding with fallback (no performance data)`);
+                        userPerformanceData = [];
+                        startWithLevelAfterDataLoad(level);
+                    }
+                }, 1000);
+            }
+        }
+        
+        // Start the quiz after performance data is loaded
+        function startWithLevelAfterDataLoad(level) {
+            // Reset recently answered questions when starting a new level
+            window.recentlyAnsweredQuestions = [];
+            
             const bestQuestionId = findBestQuestionForLevel(level);
             if (bestQuestionId) {
                 console.log(`[DEBUG-2] 🎯 Intelligent selection chose question ${bestQuestionId} for level ${level}`);
                 startWithSpecificQuestion(bestQuestionId);
             } else {
-                // Fallback to regular filtering if no intelligent selection possible
-                filterQuestionsByDifficulty();
-                loadQuestion();
+                // No intelligent selection possible for this level
+                console.log(`[DEBUG-2] ⚠️ No questions available for level ${level}`);
+                loadQuestion(); // Will show empty state
             }
-            
-            updateProgress();
-            updateScore();
         }
 
-        function filterQuestionsByDifficulty() {
-            questions = questionBank.filter(q => q.difficulty === currentDifficulty);
-            
-            // Randomize order if there are multiple questions
-            if (questions.length > 1) {
-                shuffleArray(questions);
-            }
-        }
+        // Removed filterQuestionsByDifficulty() - now using direct intelligent selection
 
         // Global variable to store user performance data for intelligent selection
         let userPerformanceData = [];
 
-        // Find the best question to start with for a given difficulty level
+        // Find the best question to start with for a given difficulty level using timestamp-based exclusion
         function findBestQuestionForLevel(level) {
-            const questionsInLevel = questionBank.filter(q => q.difficulty === level);
+            let questionsInLevel = questionBank.filter(q => q.difficulty === level);
+            
+            // Apply timestamp-based exclusion to avoid recently answered questions
+            const recentThresholdMs = (appConfig.intelligentSelection?.recentAnswerThresholdMinutes || 10) * 60 * 1000;
+            const now = Date.now();
+            let excludedCount = 0;
+            
+            questionsInLevel = questionsInLevel.filter(question => {
+                const performance = userPerformanceData.find(p => p.questionId === question.id);
+                
+                // Include if never answered
+                if (!performance || !performance.lastAnswered) return true;
+                
+                // Check if answered too recently
+                const timeSinceAnswered = now - performance.lastAnswered;
+                if (timeSinceAnswered < recentThresholdMs) {
+                    excludedCount++;
+                    const minutesAgo = Math.round(timeSinceAnswered / (60 * 1000));
+                    console.log(`[DEBUG-2] ⏰ Excluding question ${question.id} (answered ${minutesAgo} minutes ago)`);
+                    return false;
+                }
+                
+                return true;
+            });
+            
+            if (excludedCount > 0) {
+                const thresholdMinutes = Math.round(recentThresholdMs / (60 * 1000));
+                console.log(`[DEBUG-2] 🚫 Excluded ${excludedCount} questions answered within ${thresholdMinutes} minutes`);
+            }
+            
             if (questionsInLevel.length === 0) {
-                console.log(`[DEBUG-2] 🚫 No questions available for level ${level}`);
+                console.log(`[DEBUG-2] 🚫 No questions available for level ${level} after timestamp exclusions`);
                 return null;
             }
 
             // Count performance data specific to this level
-            const performanceDataForLevel = questionsInLevel.filter(question => {
-                return userPerformanceData.find(p => p.questionId === question.id);
-            }).length;
+            const performanceDataForLevel = userPerformanceData.filter(p => p.difficulty === level).length;
             
             console.log(`[DEBUG-2] 🎯 Finding best question for level ${level}:`);
             console.log(`[DEBUG-2]    📊 Total questions in level: ${questionsInLevel.length}`);
             console.log(`[DEBUG-2]    📈 User has performance data for: ${performanceDataForLevel} questions in ${level} level (${userPerformanceData.length} total across all levels)`);
+            console.log(`[DEBUG-2] 🔍 Performance data details:`, userPerformanceData.map(p => `Q${p.questionId}(${p.difficulty || 'unknown'})`).join(', '));
             
             // Priority 1: Find questions never attempted
             const unattemptedQuestions = questionsInLevel.filter(question => {
@@ -1214,23 +1286,8 @@
             // Set the difficulty to match the target question
             if (targetQuestion.difficulty !== currentDifficulty) {
                 currentDifficulty = targetQuestion.difficulty;
-                filterQuestionsByDifficulty();
                 setupDifficultyButtons();
                 updateDifficultySummary();
-            }
-            
-            // Find the index of this question in the filtered questions array
-            const questionIndex = questions.findIndex(q => q.id === questionId);
-            
-            if (questionIndex !== -1) {
-                // Set the current question to this index
-                currentQuestion = questionIndex;
-                debugLog(4, `✅ Found question at index ${questionIndex} in ${currentDifficulty} questions`);
-            } else {
-                // If not found in filtered questions, add it to the beginning
-                questions.unshift(targetQuestion);
-                currentQuestion = 0;
-                debugLog(4, `➕ Added question to beginning of ${currentDifficulty} questions`);
             }
             
             // Reset quiz state
@@ -1238,8 +1295,8 @@
             answered = false;
             userAnswers = [];
             
-            // Load the question
-            loadQuestion();
+            // Load the specific question directly by ID
+            loadQuestion(questionId);
             
             // Show a notification that we started with a specific question
             const notification = document.createElement('div');
@@ -1269,7 +1326,7 @@
 
         function updateDifficultySummary() {
             const levelInfo = DIFFICULTY_LEVELS[currentDifficulty];
-            const count = questions.length;
+            const count = questionBank.filter(q => q.difficulty === currentDifficulty).length;
             difficultySummary.textContent = `Current: ${currentDifficulty} ${levelInfo.name} (${count} questions available)`;
         }
 
@@ -1562,19 +1619,30 @@
             }
         }
 
-        function loadQuestion() {
-            if (questions.length === 0) {
-                // No questions for this difficulty level
-                optionsContainer.innerHTML = `
-                    <div style="text-align: center; padding: 20px; color: #666;">
-                        <h3>No questions available for ${DIFFICULTY_LEVELS[currentDifficulty].name} level</h3>
-                        <p>Send some French content to your AI assistant for this level!</p>
-                    </div>
-                `;
-                return;
+        function loadQuestion(questionId = null) {
+            // If no specific question ID provided, use intelligent selection to get one
+            if (questionId === null) {
+                questionId = findBestQuestionForLevel(currentDifficulty);
+                if (!questionId) {
+                    // No questions available
+                    optionsContainer.innerHTML = `
+                        <div style="text-align: center; padding: 20px; color: #666;">
+                            <h3>No questions available for ${DIFFICULTY_LEVELS[currentDifficulty].name} level</h3>
+                            <p>Try a different difficulty level or add more questions!</p>
+                        </div>
+                    `;
+                    return;
+                }
             }
 
-            const question = questions[currentQuestion];
+            // Find the question in questionBank by ID
+            const question = questionBank.find(q => q.id === questionId);
+            if (!question) {
+                console.error(`Question ${questionId} not found in question bank`);
+                return;
+            }
+            
+            currentQuestionData = question;
             answered = false;
             selectedAnswer = null;
             questionStartTime = Date.now(); // Track when question starts for response time
@@ -1585,7 +1653,7 @@
             // Update listening options if this is a template-enabled listening question
             updateListeningOptionsForVariation(question, audioText);
             
-            questionNumberEl.querySelector('span:first-child').textContent = `Question ${currentQuestion + 1} of ${questions.length}`;
+            questionNumberEl.querySelector('span:first-child').textContent = `Question #${question.id}`;
             document.getElementById('questionId').textContent = `ID: #${question.id}`;
             // Set question type icon in the left box
             const typeIcon = question.questionType === 'listening' ? '👂' : question.questionType === 'fill-in-the-blank' ? '✏️' : '📖';
@@ -1626,13 +1694,13 @@
             // Reset buttons
             submitBtn.disabled = true;
             nextBtn.disabled = true;
-            prevBtn.disabled = currentQuestion === 0;
+            prevBtn.disabled = true; // Previous button disabled with intelligent selection
             
             // Hide feedback
             feedback.style.display = 'none';
             
-            // Update submit button text
-            submitBtn.textContent = currentQuestion === questions.length - 1 ? 'Finish Quiz' : 'Submit Answer';
+            // Update submit button text - with intelligent selection, always show "Submit Answer"
+            submitBtn.textContent = 'Submit Answer';
             
             // Auto-play audio after a short delay (for smooth UX)
             setTimeout(() => {
@@ -1648,7 +1716,11 @@
             }
             
             selectedAnswer = index;
-            const question = questions[currentQuestion];
+            const question = currentQuestionData;
+            if (!question) {
+                console.error('No current question data available for answer selection');
+                return;
+            }
             const correctIndex = question._shuffledCorrect !== undefined ? question._shuffledCorrect : question.correct;
             const isCorrect = index === correctIndex;
             
@@ -1678,14 +1750,19 @@
             if (selectedAnswer === null || answered) return;
             
             answered = true;
-            const question = questions[currentQuestion];
+            const question = currentQuestionData;
+            if (!question) {
+                console.error('No current question data available for answer submission');
+                return;
+            }
             const correctIndex = question._shuffledCorrect !== undefined ? question._shuffledCorrect : question.correct;
             const isCorrect = selectedAnswer === correctIndex;
             
-            userAnswers[currentQuestion] = {
+            userAnswers.push({
+                questionId: question.id,
                 selected: selectedAnswer,
                 correct: isCorrect
-            };
+            });
             
             if (isCorrect) {
                 score++;
@@ -1748,7 +1825,8 @@
                         isCorrect: isCorrect,
                         responseTime: questionStartTime ? Date.now() - questionStartTime : null,
                         difficulty: question.difficulty,
-                        questionType: question.questionType || 'comprehension'
+                        questionType: question.questionType || 'comprehension',
+                        lastAnswered: Date.now()
                     })
                     .then((response) => {
                         console.log('✅ Detailed question tracking successful:', response);
@@ -1768,18 +1846,17 @@
             console.log('🔍 Finished scoring tracking section');
             
             // Auto-advance logic with different delays for correct vs incorrect
-            if (currentQuestion < questions.length - 1) {
-                if (isCorrect) {
-                    // Correct answers: advance after configured delay
-                    setTimeout(() => {
-                        nextQuestion();
-                    }, appConfig.interQuestionDelays.correct);
-                } else {
-                    // Incorrect answers: advance after configured delay (longer to read explanation)
-                    setTimeout(() => {
-                        nextQuestion();
-                    }, appConfig.interQuestionDelays.incorrect);
-                }
+            // With intelligent selection, always advance to next optimal question
+            if (isCorrect) {
+                // Correct answers: advance after configured delay
+                setTimeout(() => {
+                    nextQuestion();
+                }, appConfig.interQuestionDelays.correct);
+            } else {
+                // Incorrect answers: advance after configured delay (longer to read explanation)
+                setTimeout(() => {
+                    nextQuestion();
+                }, appConfig.interQuestionDelays.incorrect);
             }
 
 
@@ -1795,31 +1872,70 @@
         }
 
         function nextQuestion() {
-            if (currentQuestion < questions.length - 1) {
-                currentQuestion++;
-                loadQuestion();
-                updateProgress();
-                
-                // Refresh scoreboard if the section is expanded
-                if (scoringContent && !scoringContent.classList.contains('collapsed')) {
-                    refreshScoringStats();
-                }
-            } else {
-                showFinalResults();
-            }
+            // Reload performance data before intelligent selection to ensure latest data
+            console.log('[DEBUG-2] 🔄 Reloading performance data before next question selection');
+            sendCacheMessage({ action: 'get_user_question_performance', uuid: userUUID })
+                .then(() => {
+                    console.log('[DEBUG-2] ✅ Performance data reloaded, now selecting next question');
+                    // Use intelligent selection with timestamp-based exclusion
+                    const nextQuestionId = findBestQuestionForLevel(currentDifficulty);
+                    
+                    if (nextQuestionId) {
+                        console.log(`[DEBUG-2] 🎯 Intelligent selection chose next question ${nextQuestionId} for level ${currentDifficulty}`);
+                        
+                        // Check when this question was last answered
+                        const questionPerformance = userPerformanceData.find(p => p.questionId === nextQuestionId);
+                        if (questionPerformance && questionPerformance.lastAnswered) {
+                            const now = Date.now();
+                            const timeDiff = now - questionPerformance.lastAnswered;
+                            const days = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+                            const hours = Math.floor((timeDiff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                            const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
+                            
+                            if (days > 0) {
+                                console.log(`[DEBUG-2] ⏰ Question ${nextQuestionId} last answered ${days} days ${hours} hours ago`);
+                            } else if (hours > 0) {
+                                console.log(`[DEBUG-2] ⏰ Question ${nextQuestionId} last answered ${hours} hours ${minutes} minutes ago`);
+                            } else {
+                                console.log(`[DEBUG-2] ⏰ Question ${nextQuestionId} last answered ${minutes} minutes ago`);
+                            }
+                        } else {
+                            console.log(`[DEBUG-2] ⏰ Question ${nextQuestionId} never answered before`);
+                        }
+                        
+                        // Load the question directly by ID
+                        loadQuestion(nextQuestionId);
+                        updateProgress();
+                        
+                        // Refresh scoreboard if the section is expanded
+                        if (scoringContent && !scoringContent.classList.contains('collapsed')) {
+                            refreshScoringStats();
+                        }
+                    } else {
+                        // No intelligent selection possible
+                        console.log(`[DEBUG-2] ⚠️ No questions available for intelligent selection in level ${currentDifficulty}`);
+                        // Show empty state - loadQuestion() will handle this
+                        loadQuestion(null);
+                    }
+                })
+                .catch(err => {
+                    console.error('❌ Failed to reload performance data, proceeding with cached data:', err);
+                    // Fallback to cached data
+                    const nextQuestionId = findBestQuestionForLevel(currentDifficulty);
+                    if (nextQuestionId) {
+                        loadQuestion(nextQuestionId);
+                        updateProgress();
+                    } else {
+                        loadQuestion(null);
+                    }
+                });
         }
+        
+        // Removed nextQuestionSequential() - now using pure intelligent selection
 
         function prevQuestion() {
-            if (currentQuestion > 0) {
-                currentQuestion--;
-                loadQuestion();
-                updateProgress();
-                
-                // Refresh scoreboard if the section is expanded
-                if (scoringContent && !scoringContent.classList.contains('collapsed')) {
-                    refreshScoringStats();
-                }
-            }
+            // Previous question functionality removed - now using intelligent selection only
+            console.log('⚠️ Previous question not available with intelligent selection mode');
         }
 
         function skipQuestion() {
@@ -1871,25 +1987,17 @@
         }
 
         function updateProgress() {
-            if (questions.length === 0) {
-                progressBar.style.width = '0%';
-                return;
-            }
-            const progress = ((currentQuestion) / questions.length) * 100;
-            progressBar.style.width = `${progress}%`;
+            // Progress bar removed - intelligent selection doesn't have fixed sequence
+            progressBar.style.width = '100%'; // Always show as "in progress"
         }
 
         function updateScore() {
-            if (questions.length === 0) {
-                scoreDisplay.textContent = 'Score: 0/0';
-                return;
-            }
-            scoreDisplay.textContent = `Score: ${score}/${currentQuestion + (answered ? 1 : 0)}`;
+            scoreDisplay.textContent = `Score: ${score}/${userAnswers.length}`;
         }
 
         function showFinalResults() {
             const skipped = userAnswers.filter(answer => answer && answer.skipped).length;
-            const attempted = questions.length - skipped;
+            const attempted = userAnswers.length - skipped;
             const percentage = attempted > 0 ? Math.round((score / attempted) * 100) : 0;
             
             let message = '';

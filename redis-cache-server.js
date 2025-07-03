@@ -657,7 +657,8 @@ async function handleGetUserQuestionPerformance(ws, uuid) {
                         attempts,
                         correct,
                         successRate,
-                        lastAttempted,
+                        lastAnswered: parseInt(stats.last_attempted || '0'), // Map to lastAnswered for client
+                        lastAttempted, // Keep for backward compatibility
                         difficulty: stats.difficulty || 'unknown',
                         questionType: stats.question_type || 'unknown'
                     });
@@ -675,6 +676,7 @@ async function handleGetUserQuestionPerformance(ws, uuid) {
 
         ws.send(JSON.stringify({
             type: 'user_question_performance_result',
+            action: 'get_user_question_performance',
             uuid,
             questionPerformances,
             totalQuestionsAttempted: questionPerformances.length

@@ -4,5 +4,29 @@
         "correct": 3800,
         "incorrect": 4500,
         "skipped": 1000
+    },
+    "intelligentSelection": {
+        "recentAnswerThresholdMinutes": 10,
+        "description": "Avoid questions answered within this many minutes"
+    },
+    "levelRanges": {
+        "a": {
+            "levels": ["A1", "A2"],
+            "minId": 1,
+            "maxId": 199,
+            "description": "Beginner/Elementary"
+        },
+        "b": {
+            "levels": ["B1", "B2"],
+            "minId": 200,
+            "maxId": 399,
+            "description": "Intermediate/Upper-Intermediate"
+        },
+        "c": {
+            "levels": ["C1", "C2"],
+            "minId": 400,
+            "maxId": 510,
+            "description": "Advanced/Proficiency"
+        }
     }
 } 

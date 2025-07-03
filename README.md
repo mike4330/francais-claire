@@ -62,9 +62,31 @@ Questions can include semantic variations to prevent memorization:
 - **Settings Persistence**: localStorage for user preferences
 
 ### 🎯 Intelligent Question Selection
-The student dashboard (`student.html`) implements a sophisticated algorithm to select optimal practice questions:
+The app uses a revolutionary **pure intelligent selection** system that eliminates traditional question sequences in favor of adaptive, performance-driven question delivery.
 
-#### **3-Tier Priority System**
+#### **Pure Intelligent Selection Architecture** (July 2025 Redesign)
+
+**Key Innovation**: Every question request goes through intelligent selection - no more filtered arrays or sequential navigation.
+
+**How It Works**:
+- **No Question Arrays**: Removed the problematic `questions` array filtering system
+- **Direct ID-based Loading**: `loadQuestion(questionId)` finds questions directly in `questionBank`
+- **Every Question Optimized**: Each question request uses `findBestQuestionForLevel()` 
+- **No Sequence Dependency**: Questions selected purely on learning objectives and performance
+
+#### **Two UI Paths for Intelligent Selection**
+
+**Path 1: Main Page Level Buttons** (`french_listening_app.html`)
+- **Trigger**: User clicks difficulty level buttons (A1, A2, B1, B2, C1, C2)
+- **Process**: Asynchronously loads performance data via WebSocket, then applies intelligent selection
+- **Flow**: `selectDifficulty()` → `loadUserPerformanceDataThenStart()` → `findBestQuestionForLevel()`
+
+**Path 2: Student Dashboard Level Cards** (`student.html`)
+- **Trigger**: User clicks pre-calculated level progress cards  
+- **Process**: Performance data already loaded, best question pre-calculated during card rendering
+- **Flow**: `launchQuizWithLevel()` → redirects to main app with `?start={questionId}`
+
+#### **3-Tier Priority Algorithm** (Used by Both Paths)
 1. **Priority 1 - New Learning**: Selects unattempted questions (lowest ID first)
    - Reasoning: "Student has never attempted this question - perfect for new learning"
 
@@ -76,11 +98,28 @@ The student dashboard (`student.html`) implements a sophisticated algorithm to s
    - Returns lowest ID for spaced repetition review
    - Reasoning: "Maintaining mastery through spaced repetition"
 
-#### **CEFR Level Launch**
-- **Clickable Level Cards**: Each CEFR level (A1-C2) launches with intelligently selected question
-- **Performance Analysis**: Real-time evaluation of user success rates and attempt history
-- **URL Parameter Passing**: Launches main app with `?start={questionId}` for seamless transitions
-- **Visual Feedback**: Animated level cards with progress indicators and launch hints
+#### **Performance Tracking with Timestamps**
+- **`lastAnswered` Field**: Every performance record includes when question was last answered
+- **Time-Aware Debug Logs**: Console shows "Question 403 last answered 2 days 3 hours ago"
+- **Anti-Repetition Logic**: Uses timestamps to avoid recently answered questions
+- **Future-Ready**: Enables spaced repetition and forgetting curve algorithms
+
+#### **Technical Implementation**
+- **Performance Data Source**: Redis WebSocket connection with real-time user statistics
+- **Data Structure**: `questionPerformances` array with success rates, attempt counts, timestamps
+- **Direct Question Loading**: `loadQuestion(questionId)` bypasses array indexing entirely
+- **Dynamic User Answers**: `userAnswers.push()` tracks questions by ID, not array position
+- **Async Loading**: WebSocket retry logic for connection delays
+- **Debug Visibility**: Comprehensive console logging for selection process and timing
+
+#### **Major Architectural Changes** (July 2025)
+- **🚫 Removed Question Filtering**: Eliminated `filterQuestionsByDifficulty()` and `questions[]` array
+- **🚫 Removed Sequential Navigation**: No more `currentQuestion` index or `nextQuestionSequential()`
+- **✅ Pure Intelligent Selection**: Every question request uses performance-driven algorithms
+- **✅ ID-Based Architecture**: Questions loaded directly by ID from `questionBank`
+- **✅ Timestamp Tracking**: Added `lastAnswered` field to performance data
+- **✅ Simplified Flow**: Removed 100+ lines of array management code
+- **✅ Enhanced Debugging**: Time-aware console logs for question selection analysis
 
 ## 🚀 Quick Start
 
@@ -176,28 +215,39 @@ Questions with `audioTemplate` field generate semantic variations:
 - Fallback: Direct Polly synthesis on cache miss
 
 ### Question Tracking & Data Retention
-The app tracks detailed performance analytics with automatic expiration:
+The app tracks detailed performance analytics with automatic Redis expiration configured in `redis-cache-server.js`:
 
 #### Individual Question Responses
-- **Retention**: 90 days
+- **Retention**: 90 days (7,776,000 seconds)
 - **Purpose**: Detailed response tracking (response time, correctness, timestamps)
 - **Key Format**: `response:{uuid}:{questionId}:{timestamp}`
+- **Implementation**: `redis-cache-server.js:463` - `setEx(responseKey, 7776000, ...)`
 
 #### User Question Performance
-- **Retention**: 1 year
+- **Retention**: 1 year (31,536,000 seconds)
 - **Purpose**: Per-user, per-question statistics for CEFR level progress
 - **Key Format**: `user_question:{uuid}:{questionId}`
 - **Used For**: 70% mastery threshold calculations in student dashboard
+- **Implementation**: `redis-cache-server.js:518` - `expire(userQuestionKey, 31536000)`
 
 #### Global Question Statistics
-- **Retention**: 1 year
+- **Retention**: 1 year (31,536,000 seconds)
 - **Purpose**: Overall question analytics (success rates, average response times)
 - **Key Format**: `question_stats:{questionId}`
+- **Implementation**: `redis-cache-server.js:488` - `expire(questionStatsKey, 31536000)`
+
+#### Audio Cache
+- **Retention**: 30 days (2,592,000 seconds)
+- **Purpose**: TTS/Polly generated audio files
+- **Key Format**: `audio:{cacheKey}`
+- **Implementation**: Automatic Redis TTL on audio storage
 
 #### Template Variations
 - **Retention**: 60 minutes (in-memory cache)
 - **Purpose**: Generated content variations during study sessions
 - **Behavior**: Auto-regenerates after expiry for content freshness
+
+**Note**: All expiration timers reset when data is updated, keeping active users' data fresh while automatically cleaning up inactive data.
 
 ### Question Bank Format
 ```json
