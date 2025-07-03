@@ -2,6 +2,7 @@
 """
 French Adjective Coverage Analyzer
 Analyzes coverage of top frequent adjectives in ALL their forms (masculine, feminine, singular, plural)
+Uses compiled question files (q-compiled-*.json) for most accurate analysis
 """
 
 import json
@@ -121,16 +122,22 @@ def load_adjectives_from_csv(limit=50, question_text=None):
     return result
 
 def load_question_files():
-    """Load and combine all question files"""
+    """Load and combine all compiled question files"""
     # Determine path based on current directory
-    if os.path.exists("questions.json"):
-        path_prefix = ""
+    if os.path.exists("questions/q-compiled-a.json"):
+        path_prefix = "questions/"
+    elif os.path.exists("../questions/q-compiled-a.json"):
+        path_prefix = "../questions/"
     else:
-        path_prefix = "../"
+        path_prefix = "questions/"
     
-    question_files = [f'{path_prefix}questions.json', f'{path_prefix}questions-a.json', 
-                     f'{path_prefix}questions-b.json', f'{path_prefix}questions-c.json']
+    # Use compiled question files for better coverage and accuracy
+    question_files = [f'{path_prefix}q-compiled-a.json', 
+                     f'{path_prefix}q-compiled-b.json', 
+                     f'{path_prefix}q-compiled-c.json']
     all_questions = []
+    
+    print("📁 Using compiled question files for adjective analysis...")
     
     for filename in question_files:
         if os.path.exists(filename):
@@ -139,13 +146,22 @@ def load_question_files():
                     data = json.load(f)
                     if isinstance(data, dict) and 'questions' in data:
                         questions = data['questions']
+                        # Show metadata if available
+                        if 'metadata' in data:
+                            meta = data['metadata']
+                            print(f"✅ Loaded {len(questions)} questions from {filename}")
+                            print(f"   📊 Compiled: {meta.get('compiledAt', 'unknown')}")
+                            print(f"   📈 Sources: {meta.get('originalQuestions', 0)} original + {meta.get('sourceQuestions', 0)} individual")
+                        else:
+                            print(f"✅ Loaded {len(questions)} questions from {filename}")
                     elif isinstance(data, list):
                         questions = data
+                        print(f"✅ Loaded {len(questions)} questions from {filename}")
                     else:
+                        print(f"⚠️  Unexpected format in {filename}")
                         continue
                     
                     all_questions.extend(questions)
-                    print(f"✅ Loaded {len(questions)} questions from {filename}")
             except Exception as e:
                 print(f"❌ Error loading {filename}: {e}")
     

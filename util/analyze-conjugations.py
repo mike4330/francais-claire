@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """
 French Conjugation Coverage Analyzer
-Analyzes coverage of top 20 verbs in ALL their conjugated forms
+Analyzes coverage of top 25 verbs in ALL their conjugated forms
+Uses compiled question files (q-compiled-*.json) for most accurate analysis
+Filters out well-covered verbs (>70%) to focus on verbs needing attention
 """
 
 import json
@@ -42,8 +44,8 @@ def connect_to_lexique():
         print(f"{Colors.RED}❌ Error connecting to database: {e}{Colors.END}")
         return None
 
-def get_top_verbs(limit=20):
-    """Get the top N most frequent verbs"""
+def get_top_verbs(limit=50):
+    """Get the top N most frequent verbs (extended list for filtering)"""
     conn = connect_to_lexique()
     if not conn:
         return []
@@ -61,7 +63,7 @@ def get_top_verbs(limit=20):
         top_verbs = cursor.fetchall()
         conn.close()
         
-        print(f"{Colors.CYAN}{Colors.BOLD}🎯 TOP {limit} MOST FREQUENT VERBS:{Colors.END}")
+        print(f"{Colors.CYAN}{Colors.BOLD}🎯 TOP {limit} MOST FREQUENT VERBS (for filtering):{Colors.END}")
         for i, (verb, freq) in enumerate(top_verbs, 1):
             print(f"  {Colors.YELLOW}{i:2d}.{Colors.END} {Colors.GREEN}{verb:12}{Colors.END} - {Colors.WHITE}{freq:8.1f}{Colors.END}")
         
@@ -99,18 +101,22 @@ def get_all_conjugated_forms(verb_infinitive):
         return []
 
 def load_question_files():
-    """Load and combine all question files"""
+    """Load and combine all compiled question files"""
     # Determine path based on current directory
-    if os.path.exists("questions/questions.json"):
+    if os.path.exists("questions/q-compiled-a.json"):
         path_prefix = "questions/"
-    elif os.path.exists("../questions/questions.json"):
+    elif os.path.exists("../questions/q-compiled-a.json"):
         path_prefix = "../questions/"
     else:
         path_prefix = "questions/"
     
-    question_files = [f'{path_prefix}questions.json', f'{path_prefix}questions-a.json', 
-                     f'{path_prefix}questions-b.json', f'{path_prefix}questions-c.json']
+    # Use compiled question files for better coverage and accuracy
+    question_files = [f'{path_prefix}q-compiled-a.json', 
+                     f'{path_prefix}q-compiled-b.json', 
+                     f'{path_prefix}q-compiled-c.json']
     all_questions = []
+    
+    print(f"{Colors.CYAN}📁 Using compiled question files for analysis...{Colors.END}")
     
     for filename in question_files:
         if os.path.exists(filename):
@@ -119,13 +125,22 @@ def load_question_files():
                     data = json.load(f)
                     if isinstance(data, dict) and 'questions' in data:
                         questions = data['questions']
+                        # Show metadata if available
+                        if 'metadata' in data:
+                            meta = data['metadata']
+                            print(f"{Colors.GREEN}✅ Loaded {len(questions)} questions from {filename}{Colors.END}")
+                            print(f"   📊 Compiled: {meta.get('compiledAt', 'unknown')}")
+                            print(f"   📈 Sources: {meta.get('originalQuestions', 0)} original + {meta.get('sourceQuestions', 0)} individual")
+                        else:
+                            print(f"{Colors.GREEN}✅ Loaded {len(questions)} questions from {filename}{Colors.END}")
                     elif isinstance(data, list):
                         questions = data
+                        print(f"{Colors.GREEN}✅ Loaded {len(questions)} questions from {filename}{Colors.END}")
                     else:
+                        print(f"{Colors.YELLOW}⚠️  Unexpected format in {filename}{Colors.END}")
                         continue
                     
                     all_questions.extend(questions)
-                    print(f"{Colors.GREEN}✅ Loaded {len(questions)} questions from {filename}{Colors.END}")
             except Exception as e:
                 print(f"{Colors.RED}❌ Error loading {filename}: {e}{Colors.END}")
     
@@ -158,9 +173,61 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
     print("="*80 + f"{Colors.END}")
     
     total_coverage = {}
+    skipped_verbs = []
+    
+    # First pass: calculate coverage for all verbs to identify well-covered ones
+    print(f"{Colors.YELLOW}🔍 Quick coverage assessment for filtering...{Colors.END}")
     
     for i, verb in enumerate(top_verbs, 1):
-        print(f"\n{Colors.BOLD}{Colors.BLUE}🔍 {i:2d}. {verb.upper()} (Rank #{i}){Colors.END}")
+        # Get all conjugated forms
+        conjugated_forms = get_all_conjugated_forms(verb)
+        
+        if not conjugated_forms:
+            continue
+        
+        # Check which forms appear in questions
+        found_forms = []
+        
+        # Include infinitive
+        if verb in word_counts:
+            found_forms.append((verb, "infinitive", word_counts[verb]))
+        
+        # Check conjugated forms
+        for form, grammar, freq in conjugated_forms:
+            if form in word_counts:
+                found_forms.append((form, grammar, word_counts[form]))
+        
+        # Coverage statistics
+        total_forms = len(conjugated_forms) + 1  # +1 for infinitive
+        coverage_pct = len(found_forms) / total_forms * 100 if total_forms > 0 else 0
+        
+        total_coverage[verb] = {
+            'found': len(found_forms),
+            'total': total_forms,
+            'coverage': coverage_pct
+        }
+        
+        # Skip verbs with >70% coverage
+        if coverage_pct > 70:
+            skipped_verbs.append((verb, coverage_pct))
+    
+    # Filter out well-covered verbs and select exactly 25 that need attention
+    verbs_needing_attention = [verb for verb in top_verbs if total_coverage.get(verb, {}).get('coverage', 0) <= 70]
+    verbs_to_analyze = verbs_needing_attention[:25]  # Take first 25 that need attention
+    
+    print(f"\n{Colors.GREEN}✅ Skipping {len(skipped_verbs)} well-covered verbs (>70% coverage):{Colors.END}")
+    for verb, coverage in skipped_verbs:
+        rank = top_verbs.index(verb) + 1
+        print(f"   🟢 #{rank:2d} {verb:12} - {coverage:5.1f}% coverage (well covered)")
+    
+    print(f"\n{Colors.CYAN}📋 Analyzing top 25 verbs needing attention (≤70% coverage):{Colors.END}")
+    if len(verbs_needing_attention) > 25:
+        print(f"{Colors.YELLOW}   (Selected first 25 from {len(verbs_needing_attention)} candidates needing attention){Colors.END}")
+    
+    # Second pass: detailed analysis for verbs needing attention
+    for verb in verbs_to_analyze:
+        rank = top_verbs.index(verb) + 1
+        print(f"\n{Colors.BOLD}{Colors.BLUE}🔍 {rank:2d}. {verb.upper()} (Rank #{rank}){Colors.END}")
         print("-" * 50)
         
         # Get all conjugated forms
@@ -200,43 +267,52 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
             print(f"      ... and {len(missing_forms) - 8} more missing forms")
         
         # Coverage statistics
-        total_forms = len(conjugated_forms) + 1  # +1 for infinitive
-        coverage_pct = len(found_forms) / total_forms * 100 if total_forms > 0 else 0
-        
-        total_coverage[verb] = {
-            'found': len(found_forms),
-            'total': total_forms,
-            'coverage': coverage_pct
-        }
-        
-        print(f"   📈 Coverage: {len(found_forms)}/{total_forms} forms ({coverage_pct:.1f}%)")
+        coverage_pct = total_coverage[verb]['coverage']
+        print(f"   📈 Coverage: {total_coverage[verb]['found']}/{total_coverage[verb]['total']} forms ({coverage_pct:.1f}%)")
     
     # Summary
     print(f"\n" + "="*80)
     print("📊 OVERALL CONJUGATION COVERAGE SUMMARY")
     print("="*80)
     
-    avg_coverage = sum(data['coverage'] for data in total_coverage.values()) / len(total_coverage)
-    print(f"Average coverage across top {len(top_verbs)} verbs: {avg_coverage:.1f}%")
+    # Calculate statistics for analyzed verbs only
+    analyzed_coverage = sum(total_coverage[verb]['coverage'] for verb in verbs_to_analyze) / len(verbs_to_analyze)
+    total_candidates = len(skipped_verbs) + len(verbs_needing_attention)
     
-    print(f"\n🎯 COVERAGE BY VERB:")
-    for verb, data in total_coverage.items():
-        status = "🟢" if data['coverage'] > 50 else "🟡" if data['coverage'] > 20 else "🔴"
-        print(f"  {status} {verb:12} {data['found']:2d}/{data['total']:2d} ({data['coverage']:5.1f}%)")
+    print(f"Total verb candidates examined: {total_candidates}")
+    print(f"Well-covered verbs (>70%): {len(skipped_verbs)} skipped")
+    print(f"Verbs analyzed (≤70%): {len(verbs_to_analyze)} (top 25 needing attention)")
+    print(f"Average coverage of analyzed verbs: {analyzed_coverage:.1f}%")
     
-    # Priority recommendations
-    low_coverage = [(v, d) for v, d in total_coverage.items() if d['coverage'] < 30]
-    if low_coverage:
-        print(f"\n🚨 PRIORITY VERBS NEEDING MORE CONJUGATIONS:")
-        for verb, data in sorted(low_coverage, key=lambda x: x[1]['coverage']):
-            print(f"   {verb:12} - only {data['coverage']:4.1f}% coverage")
+    print(f"\n🎯 TOP 25 VERBS NEEDING ATTENTION (≤70% coverage):")
+    for verb in verbs_to_analyze:
+        data = total_coverage[verb]
+        status = "🟡" if data['coverage'] > 40 else "🟠" if data['coverage'] > 20 else "🔴"
+        rank = top_verbs.index(verb) + 1
+        print(f"  {status} #{rank:2d} {verb:12} {data['found']:2d}/{data['total']:2d} ({data['coverage']:5.1f}%)")
+    
+    if skipped_verbs:
+        print(f"\n✅ WELL-COVERED VERBS SKIPPED (>70% coverage):")
+        for verb, coverage in skipped_verbs:
+            rank = top_verbs.index(verb) + 1
+            data = total_coverage[verb]
+            print(f"  🟢 #{rank:2d} {verb:12} {data['found']:2d}/{data['total']:2d} ({coverage:5.1f}%)")
+    
+    # Priority recommendations - focus on lowest coverage
+    priority_verbs = sorted(verbs_to_analyze, key=lambda v: total_coverage[v]['coverage'])[:5]
+    if priority_verbs:
+        print(f"\n🚨 TOP 5 PRIORITY VERBS (lowest coverage):")
+        for verb in priority_verbs:
+            data = total_coverage[verb]
+            rank = top_verbs.index(verb) + 1
+            print(f"   🔴 #{rank:2d} {verb:12} - only {data['coverage']:4.1f}% coverage")
 
 def main():
     print("🔍 French Conjugation Coverage Analyzer")
     print("="*50)
     
-    # Get top 25 verbs
-    top_verbs = get_top_verbs(25)
+    # Get top 50 verbs (to ensure we have 25 after filtering)
+    top_verbs = get_top_verbs(50)
     
     if not top_verbs:
         print("❌ Cannot proceed without verb data")

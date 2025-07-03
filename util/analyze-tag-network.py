@@ -12,7 +12,7 @@ import os
 def load_questions():
     """Load all questions from JSON files"""
     questions = []
-    question_files = ['questions.json', 'questions/questions-a.json', 'questions/questions-b.json', 'questions/questions-c.json']
+    question_files = ['questions.json', 'questions/q-compiled-a.json', 'questions/q-compiled-b.json', 'questions/q-compiled-c.json']
     
     for filename in question_files:
         if os.path.exists(filename):
