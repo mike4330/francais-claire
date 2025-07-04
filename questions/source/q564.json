@@ -1,0 +1,19 @@
+
+{
+    "id": 564,
+    "audioText": "Mon fils est étudiant à l'université.",
+    "question": "What is his son's occupation?",
+    "questionType": "comprehension",
+    "options": [
+        "Student",
+        "Teacher",
+        "Doctor",
+        "Engineer"
+    ],
+    "correct": 0,
+    "explanation": "'Fils' means 'son'. The sentence states his son is a university student.",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["family", "education"],
+    "timeCreated": 1720134000
+}

@@ -1,0 +1,18 @@
+{
+    "id": 542,
+    "audioText": "Cette chemise blanche est devenue sale après avoir travaillé dans le jardin.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cette chemise blanche est devenue sale après avoir travaillé dans le jardin.",
+        "Cette chemise blanche est devenue propre après avoir travaillé dans le jardin.",
+        "Cette chemise noire est devenue sale après avoir travaillé dans le jardin.",
+        "Cette chemise blanche est devenue sale après avoir travaillé dans la cuisine."
+    ],
+    "correct": 0,
+    "explanation": "The speaker used 'sale' meaning 'dirty'. The white shirt became dirty after working in the garden. The other options change 'sale' to 'propre' (clean), 'blanche' to 'noire' (black), or 'jardin' to 'cuisine' (kitchen).",
+    "difficulty": "B1",
+    "source": "Gardening activity",
+    "tags": ["clothing", "gardening", "cleanliness"],
+    "timeCreated": 1720077400
+}

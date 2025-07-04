@@ -1,0 +1,19 @@
+
+{
+    "id": 511,
+    "audioText": "Quand les feuilles des arbres meurent, l'automne arrive.",
+    "question": "Quand les feuilles des arbres ______, l'automne arrive.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "meurent",
+        "meurt",
+        "mourir",
+        "mort"
+    ],
+    "correct": 0,
+    "explanation": "The subject 'les feuilles' (the leaves) is third-person plural, so the verb 'mourir' must be conjugated as 'meurent'. 'Meurt' is the third-person singular form.",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["nature", "seasons", "verbs"],
+    "timeCreated": 1720134000
+}

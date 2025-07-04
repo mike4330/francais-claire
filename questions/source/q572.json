@@ -1,0 +1,18 @@
+{
+    "id": 572,
+    "audioText": "Son visage exprimait une profonde tristesse après avoir reçu cette mauvaise nouvelle.",
+    "question": "Son ______ exprimait une profonde tristesse après avoir reçu cette mauvaise nouvelle.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "visage",
+        "regard",
+        "expression",
+        "attitude"
+    ],
+    "correct": 0,
+    "explanation": "Le mot manquant est 'visage'. La phrase complète est 'Son visage exprimait une profonde tristesse après avoir reçu cette mauvaise nouvelle.' - Her face expressed deep sadness after receiving this bad news. 'Visage' refers to the face as the seat of expression and emotion.",
+    "difficulty": "B1",
+    "source": "Emotional expression and facial communication",
+    "tags": ["emotions", "facial-expression", "communication", "sadness"],
+    "timeCreated": 1735947600
+}

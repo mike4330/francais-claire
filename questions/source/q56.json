@@ -1,0 +1,22 @@
+{
+  "id": 56,
+  "audioText": "Tu dis bonjour à ta mère tous les matins.",
+  "question": "Tu ______ bonjour à ta mère tous les matins.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "dis",
+    "dit",
+    "dites",
+    "disent"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'dis'. La phrase complète est 'Tu dis bonjour à ta mère tous les matins.' - You say hello to your mother every morning. 'Dis' is the second person singular (tu) form of 'dire' (to say).",
+  "difficulty": "A1",
+  "source": "Daily Greetings",
+  "tags": [
+    "greeting",
+    "family",
+    "daily-routine",
+    "dire"
+  ]
+}

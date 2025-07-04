@@ -1,24 +1,19 @@
+
 {
-  "id": 533,
-  "audioText": "L'analyse socio-économique révèle que les populations les plus pauvre subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "L'analyse socio-économique révèle que les populations les plus pauvre subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
-    "L'analyse socio-économique révèle que les populations les plus pauvres subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
-    "L'analyse socio-économique révèle que les populations les plus pauvre subissent de manière disproportionnée les conséquences du réchauffement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
-    "L'analyse socio-économique révèle que les populations les plus vulnérables subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte contenait l'erreur d'accord 'pauvre' (singulier) au lieu de 'pauvres' (pluriel) pour s'accorder avec 'populations' (pluriel). Cette question de niveau C2 teste l'écoute précise des erreurs grammaticales subtiles dans un contexte académique complexe sur les inégalités socio-économiques et le changement climatique.",
-  "difficulty": "C2",
-  "source": "Academic - Socio-economic Analysis - Grammar Detection",
-  "tags": [
-    "socio-economics",
-    "climate-change",
-    "inequality",
-    "academic-discourse",
-    "grammar-errors"
-  ],
-  "timeCreated": 1720026680
+    "id": 533,
+    "audioText": "Évidemment, il faut étudier pour réussir l'examen.",
+    "question": "What is obvious about passing the exam?",
+    "questionType": "comprehension",
+    "options": [
+        "Studying is required.",
+        "It's easy to pass.",
+        "Luck is important.",
+        "Exams are difficult."
+    ],
+    "correct": 0,
+    "explanation": "'Évidemment' means 'obviously' or 'evidently'. The sentence states that it is obvious one must study to pass the exam.",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["education", "common-sense"],
+    "timeCreated": 1720134000
 }

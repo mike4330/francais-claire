@@ -1,0 +1,23 @@
+{
+  "id": 596,
+  "audioText": "Elle a été appelée pour un entretien demain matin.",
+  "question": "What happened to her regarding tomorrow morning?",
+  "questionType": "comprehension",
+  "options": [
+    "She was called for an interview tomorrow morning",
+    "She has to call someone tomorrow morning",
+    "She will call her boss tomorrow morning",
+    "She missed a call from work yesterday"
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Elle a été appelée pour un entretien demain matin' - She was called for an interview tomorrow morning. 'Appelée' is the feminine past participle of 'appeler' (to call), used here in the passive voice.",
+  "difficulty": "B1",
+  "source": "Job Interview",
+  "tags": [
+    "job-interview",
+    "work",
+    "appointments",
+    "phone-calls"
+  ],
+  "timeCreated": 1720051380
+}

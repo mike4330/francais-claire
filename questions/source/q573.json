@@ -1,0 +1,18 @@
+{
+    "id": 573,
+    "audioText": "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles.",
+    "question": "What does the speaker think about this method of solving environmental problems?",
+    "questionType": "comprehension",
+    "options": [
+        "It seems more effective than traditional methods.",
+        "It's the same as traditional methods.", 
+        "It's less effective than traditional methods.",
+        "It's too complicated to understand."
+    ],
+    "correct": 0,
+    "explanation": "The speaker states 'Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles' - This way of solving environmental problems seems more effective than traditional methods. 'Façon' means 'way' or 'method'.",
+    "difficulty": "B2",
+    "source": "Environmental problem-solving discussion",
+    "tags": ["environment", "problem-solving", "methods", "effectiveness"],
+    "timeCreated": 1735947660
+}

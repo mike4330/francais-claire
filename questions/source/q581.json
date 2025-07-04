@@ -1,0 +1,18 @@
+{
+    "id": 581,
+    "audioText": "Malgré les années qui passent, son visage garde encore cette expression de jeunesse et de vitalité.",
+    "question": "Malgré les années qui passent, son ______ garde encore cette expression de jeunesse et de vitalité.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "visage",
+        "regard",
+        "sourire",
+        "comportement"
+    ],
+    "correct": 0,
+    "explanation": "Le mot manquant est 'visage'. La phrase complète est 'Malgré les années qui passent, son visage garde encore cette expression de jeunesse et de vitalité.' - Despite the passing years, his/her face still keeps this expression of youth and vitality. 'Visage' refers to the overall facial appearance that can show age or preserve youthfulness.",
+    "difficulty": "B1",
+    "source": "Aging and youthful appearance",
+    "tags": ["aging", "appearance", "youth", "time"],
+    "timeCreated": 1735948140
+}

@@ -1,0 +1,19 @@
+
+{
+    "id": 534,
+    "audioText": "Elle parle français et également espagnol.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Elle parle français et également espagnol.",
+        "Elle parle français mais pas espagnol.",
+        "Elle parle seulement espagnol.",
+        "Elle ne parle aucune langue."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is 'Elle parle français et également espagnol.', which means 'She speaks French and also Spanish.'",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["languages", "communication"],
+    "timeCreated": 1720134000
+}

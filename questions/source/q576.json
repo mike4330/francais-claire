@@ -1,0 +1,18 @@
+{
+    "id": 576,
+    "audioText": "Sa voix tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.",
+    "question": "Sa ______ tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "voix",
+        "main",
+        "respiration",
+        "présentation"
+    ],
+    "correct": 0,
+    "explanation": "Le mot manquant est 'voix'. La phrase complète est 'Sa voix tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.' - Her voice was trembling with emotion when she announced her resignation during the meeting. 'Voix' refers to the vocal expression that can convey emotion.",
+    "difficulty": "B1",
+    "source": "Workplace resignation announcement",
+    "tags": ["workplace", "emotions", "resignation", "voice", "communication"],
+    "timeCreated": 1735947840
+}

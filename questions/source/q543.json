@@ -1,0 +1,18 @@
+{
+    "id": 543,
+    "audioText": "J'ai mangé le gâteau entier parce qu'il était délicieux.",
+    "question": "What did the speaker do with the cake?",
+    "questionType": "comprehension",
+    "options": [
+        "Ate the entire cake because it was delicious",
+        "Ate half the cake because it was delicious",
+        "Shared the entire cake because it was delicious",
+        "Bought the entire cake because it was delicious"
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'J'ai mangé le gâteau entier parce qu'il était délicieux' - I ate the entire cake because it was delicious. 'Entier' means 'entire' or 'whole'.",
+    "difficulty": "B2",
+    "source": "Food enjoyment",
+    "tags": ["food", "eating", "completeness"],
+    "timeCreated": 1720077400
+}

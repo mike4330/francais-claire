@@ -1,0 +1,19 @@
+
+{
+    "id": 523,
+    "audioText": "Mettons que nous ayons un problème, comment le résoudrions-nous?",
+    "question": "What is the speaker suggesting?",
+    "questionType": "comprehension",
+    "options": [
+        "They have a problem and need to solve it.",
+        "They should imagine a problem and how to solve it.",
+        "They are putting a problem aside.",
+        "They are solving a problem right now."
+    ],
+    "correct": 1,
+    "explanation": "'Mettons que' is used to introduce a hypothetical situation or assumption.",
+    "difficulty": "B2",
+    "source": "Gemini-generated",
+    "tags": ["problem-solving", "hypothetical-situations"],
+    "timeCreated": 1720134000
+}

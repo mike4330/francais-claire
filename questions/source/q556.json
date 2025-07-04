@@ -1,0 +1,24 @@
+{
+  "id": 556,
+  "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+  "parentQuestion": 629,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+    "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+    "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des récompenses au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+    "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne veulent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.' Les distracteurs modifient soit l'adjectif clé (choqués/surpris), le mot 'pénalités' (pénalités/récompenses), ou le verbe (ne peuvent pas/ne veulent pas).",
+  "difficulty": "B2",
+  "source": "French Healthcare Policy - Medical Deserts - Listening",
+  "tags": [
+    "healthcare",
+    "policy",
+    "medical-deserts",
+    "penalties",
+    "doctors"
+  ]
+}

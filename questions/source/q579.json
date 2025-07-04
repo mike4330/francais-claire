@@ -1,0 +1,18 @@
+{
+    "id": 579,
+    "audioText": "Son nom figure désormais sur la liste des candidats sélectionnés pour le poste de directeur.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Son nom figure désormais sur la liste des candidats sélectionnés pour le poste de directeur.",
+        "Son nom figure désormais sur la liste des candidats sélectionnés pour le poste de directrice.",
+        "Son nom figure maintenant sur la liste des candidats sélectionnés pour le poste de directeur.",
+        "Son nom figurait désormais sur la liste des candidats sélectionnés pour le poste de directeur."
+    ],
+    "correct": 0,
+    "explanation": "La phrase exacte était 'Son nom figure désormais sur la liste des candidats sélectionnés pour le poste de directeur.' - His/her name now appears on the list of candidates selected for the director position. Note 'désormais' (now/from now on) vs 'maintenant' (now), 'figure' (appears) vs 'figurait' (appeared), and 'directeur' vs 'directrice'.",
+    "difficulty": "B1",
+    "source": "Job selection and professional advancement",
+    "tags": ["workplace", "job-selection", "career", "advancement"],
+    "timeCreated": 1735948020
+}

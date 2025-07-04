@@ -1,0 +1,19 @@
+
+{
+    "id": 530,
+    "audioText": "J'ai acheté cette voiture récemment.",
+    "question": "J'ai acheté cette voiture ______.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "récemment",
+        "souvent",
+        "toujours",
+        "jamais"
+    ],
+    "correct": 0,
+    "explanation": "'Récemment' means 'recently'. The sentence indicates a recent purchase.",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["shopping", "past-events"],
+    "timeCreated": 1720134000
+}

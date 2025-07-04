@@ -1,0 +1,19 @@
+
+{
+    "id": 532,
+    "audioText": "Il a vécu à Paris auparavant, avant de déménager à Londres.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Il a vécu à Paris auparavant, avant de déménager à Londres.",
+        "Il vit à Paris maintenant, après avoir déménagé de Londres.",
+        "Il vivra à Paris plus tard, après avoir déménagé à Londres.",
+        "Il n'a jamais vécu à Paris."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is 'Il a vécu à Paris auparavant, avant de déménager à Londres.', which means 'He lived in Paris before, before moving to London.'",
+    "difficulty": "B2",
+    "source": "Gemini-generated",
+    "tags": ["travel", "past-events", "city-life"],
+    "timeCreated": 1720134000
+}
