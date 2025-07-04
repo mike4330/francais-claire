@@ -556,7 +556,7 @@
                 const type = q.questionType || 'comprehension';
                 typeCount[type] = (typeCount[type] || 0) + 1;
                 // Count sources (simplified)
-                const source = q.source.split(' ')[0]; // First word only
+                const source = (q.source || 'unknown').split(' ')[0]; // First word only
                 sourceCount[source] = (sourceCount[source] || 0) + 1;
             });
 

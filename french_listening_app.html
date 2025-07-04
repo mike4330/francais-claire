@@ -1182,6 +1182,36 @@
             console.log(`[DEBUG-2]    📈 User has performance data for: ${performanceDataForLevel} questions in ${level} level (${userPerformanceData.length} total across all levels)`);
             console.log(`[DEBUG-2] 🔍 Performance data details:`, userPerformanceData.map(p => `Q${p.questionId}(${p.difficulty || 'unknown'})`).join(', '));
             
+            // Try random selection first if enabled
+            if (appConfig.intelligentSelection?.randomization?.enabled) {
+                const levelRange = appConfig.levelRanges[level.toLowerCase()] || 
+                                 appConfig.levelRanges[Object.keys(appConfig.levelRanges).find(key => 
+                                     appConfig.levelRanges[key].levels.includes(level))];
+                
+                if (levelRange) {
+                    const randomId = Math.floor(Math.random() * (levelRange.maxId - levelRange.minId + 1)) + levelRange.minId;
+                    const randomQuestion = questionBank.find(q => q.id === randomId);
+                    
+                    if (randomQuestion && questionsInLevel.includes(randomQuestion)) {
+                        // Check if this random question was answered recently
+                        const performance = userPerformanceData.find(p => p.questionId === randomId);
+                        const isRecentlyAnswered = performance && performance.lastAnswered && 
+                                                 (now - performance.lastAnswered) < recentThresholdMs;
+                        
+                        if (!isRecentlyAnswered) {
+                            console.log(`[DEBUG-2] 🎲 RANDOM SELECTION: Chose question ${randomId} from ${level} range (${levelRange.minId}-${levelRange.maxId})`);
+                            console.log(`[DEBUG-2]    📝 Reason: Random selection within level constraints`);
+                            return randomId;
+                        } else {
+                            const minutesAgo = Math.round((now - performance.lastAnswered) / (60 * 1000));
+                            console.log(`[DEBUG-2] 🎲 Random selection failed (Q${randomId} answered ${minutesAgo} minutes ago), falling back to intelligent selection`);
+                        }
+                    } else {
+                        console.log(`[DEBUG-2] 🎲 Random selection failed (Q${randomId} not found or wrong level), falling back to intelligent selection`);
+                    }
+                }
+            }
+            
             // Priority 1: Find questions never attempted
             const unattemptedQuestions = questionsInLevel.filter(question => {
                 return !userPerformanceData.find(p => p.questionId === question.id);
