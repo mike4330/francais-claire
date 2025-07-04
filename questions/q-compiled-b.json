@@ -1,6 +1,10 @@
 {
   "questions": [
     {
+      "id": 199,
+      "_comment": "Placeholder to enable getid tool - B-level questions start at 200"
+    },
+    {
       "id": 200,
       "audioText": "Les étudiants ont manifesté devant l'université pour soutenir leur professeur licencié après ses critiques du gouvernement.",
       "question": "Why did the students demonstrate in front of the university?",
@@ -591,7 +595,7 @@
     {
       "id": 224,
       "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-      "parentQuestion": 414,
+      "parentQuestion": 506,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -791,7 +795,7 @@
     {
       "id": 233,
       "audioText": "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.",
-      "parentQuestion": 426,
+      "parentQuestion": 530,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -1505,7 +1509,7 @@
     {
       "id": 263,
       "audioText": "Le tunnel de Tende a eu des retards à cause d'un vol de métaux et de la tempête Alex. Son ouverture est une grande joie pour les habitants qui étaient isolés depuis des années.",
-      "parentQuestion": 418,
+      "parentQuestion": 526,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -2529,7 +2533,7 @@
         "faisait"
       ],
       "correct": 0,
-      "explanation": "The past participle 'faits' agrees with the masculine plural noun 'travaux' in the passé composé construction 'vous avez faits'.",
+      "explanation": "The past participle 'faits' agrees with the masculine plural noun 'travaux' in the passé composé construction 'vous avez faits'. The complete sentence means: 'The work that you have done in the garden is really impressive this year.' The past participle must agree with the direct object 'travaux' (masculine plural) when it precedes the auxiliary verb.",
       "difficulty": "B1",
       "source": "Compliment about garden work accomplished",
       "tags": [
@@ -3664,15 +3668,1721 @@
         "problems"
       ],
       "timeCreated": 1720052460
+    },
+    {
+      "id": 352,
+      "audioText": "Il est important que les étudiants aient accès à toutes les ressources nécessaires pour réussir leurs examens.",
+      "question": "What is important according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "That students have access to all necessary resources to succeed in their exams",
+        "That teachers provide extra help sessions before exams",
+        "That students study harder for their final exams",
+        "That the school library stays open longer during exam period"
+      ],
+      "correct": 0,
+      "explanation": "The speaker states 'Il est important que les étudiants aient accès à toutes les ressources nécessaires pour réussir leurs examens' - It is important that students have access to all necessary resources to succeed in their exams. Note the use of the subjunctive 'aient' (have) after the expression 'il est important que' which requires the subjunctive mood.",
+      "difficulty": "B1",
+      "source": "Education Policy Discussion",
+      "tags": [
+        "education",
+        "student-resources",
+        "academic-success"
+      ],
+      "timeCreated": 1751548800
+    },
+    {
+      "id": 353,
+      "audioText": "Si les entreprises investissaient plus dans la formation, leurs employés auraient de meilleures compétences et seraient plus motivés.",
+      "question": "Si les entreprises investissaient plus dans la formation, leurs employés ______ de meilleures compétences et seraient plus motivés.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "auraient",
+        "avaient",
+        "auront",
+        "ont eu"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'auraient' (would have) - the conditional form of 'avoir'. This sentence uses the classic hypothetical structure: 'Si + imperfect, conditional' expressing what would happen if companies invested more in training. The conditional 'auraient' matches with 'seraient' (would be) later in the sentence, both expressing hypothetical consequences.",
+      "difficulty": "B2",
+      "source": "Business Training Discussion",
+      "tags": [
+        "business",
+        "workplace",
+        "training",
+        "conditional-mood"
+      ],
+      "timeCreated": 1751549100
+    },
+    {
+      "id": 354,
+      "audioText": "Es-tu sûr que cette entreprise investit vraiment dans les énergies renouvelables ?",
+      "question": "Es-tu ______ que cette entreprise investit vraiment dans les énergies renouvelables ?",
+      "questionType": "FIB-reading",
+      "options": [
+        "sûr",
+        "certain",
+        "convaincu",
+        "confiant"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'sûr' (sure/certain). 'Es-tu sûr que...' is a common expression meaning 'Are you sure that...'. Here it asks about certainty regarding a company's investment in renewable energy.",
+      "difficulty": "B1",
+      "source": "Business Environment",
+      "tags": [
+        "business",
+        "environment",
+        "renewable-energy",
+        "certainty"
+      ],
+      "timeCreated": 1720052100
+    },
+    {
+      "id": 355,
+      "audioText": "Il fallait absolument réserver à l'avance pour obtenir une table dans ce restaurant populaire.",
+      "question": "Il ______ absolument réserver à l'avance pour obtenir une table dans ce restaurant populaire.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "fallait",
+        "faut",
+        "faudra",
+        "falloir"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'fallait' (it was necessary) - the imperfect form of the impersonal verb 'falloir'. The sentence means 'It was absolutely necessary to reserve in advance to get a table in this popular restaurant.' The imperfect tense 'fallait' indicates a past necessity or habitual requirement. Other options: 'faut' (present), 'faudra' (future), 'falloir' (infinitive) don't fit the past context.",
+      "difficulty": "B1",
+      "source": "Restaurant Reservation Experience",
+      "tags": [
+        "food",
+        "restaurant",
+        "planning",
+        "necessity"
+      ],
+      "timeCreated": 1751550000
+    },
+    {
+      "id": 356,
+      "audioText": "Cette application mobile offre-t-elle de vrais avantages pour la productivité ?",
+      "question": "What is being questioned about the mobile app?",
+      "questionType": "comprehension",
+      "options": [
+        "Whether it offers real benefits for productivity",
+        "Whether it costs too much money",
+        "Whether it works on all devices",
+        "Whether it has good customer support"
+      ],
+      "correct": 0,
+      "explanation": "The question asks 'Cette application mobile offre-t-elle de vrais avantages pour la productivité ?' - Does this mobile app offer real benefits for productivity? 'Vrais' means 'real/true', questioning the genuine value of the app.",
+      "difficulty": "B1",
+      "source": "Technology Productivity",
+      "tags": [
+        "technology",
+        "productivity",
+        "mobile-apps",
+        "benefits"
+      ],
+      "timeCreated": 1720052160
+    },
+    {
+      "id": 357,
+      "audioText": "Vous devriez consulter un médecin si ces symptômes persistent plus d'une semaine.",
+      "question": "Vous ______ consulter un médecin si ces symptômes persistent plus d'une semaine.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "devriez",
+        "deviez",
+        "devez",
+        "devrez"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'devriez' (you should) - the conditional form of 'devoir'. The conditional expresses polite advice or recommendation. The sentence means 'You should consult a doctor if these symptoms persist for more than a week.' Other options: 'deviez' (imperfect), 'devez' (present), 'devrez' (future) don't convey the same polite advisory tone.",
+      "difficulty": "B1",
+      "source": "Medical Advice",
+      "tags": [
+        "healthcare",
+        "advice",
+        "conditional-mood",
+        "medical"
+      ],
+      "timeCreated": 1751550200
+    },
+    {
+      "id": 358,
+      "audioText": "Il trouve étrange que son équipe favorite perde autant de matchs cette saison.",
+      "question": "Il trouve ______ que son équipe favorite perde autant de matchs cette saison.",
+      "questionType": "FIB-reading",
+      "options": [
+        "étrange",
+        "normal",
+        "évident",
+        "logique"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'étrange' (strange). The sentence means 'He finds it strange that his favorite team is losing so many games this season.' This expresses surprise or confusion about the team's poor performance.",
+      "difficulty": "B1",
+      "source": "Sports Commentary",
+      "tags": [
+        "sports",
+        "teams",
+        "performance",
+        "surprise"
+      ],
+      "timeCreated": 1720052220
+    },
+    {
+      "id": 359,
+      "audioText": "Les médecins ont dit que son état de santé était sérieux et qu'il fallait une intervention chirurgicale immédiate.",
+      "question": "What did the doctors say about his health condition?",
+      "questionType": "comprehension",
+      "options": [
+        "That his health condition was serious and required immediate surgery",
+        "That his health condition was stable but needed monitoring",
+        "That his health condition was improving with medication",
+        "That his health condition was minor and would heal naturally"
+      ],
+      "correct": 0,
+      "explanation": "The doctors said 'son état de santé était sérieux et qu'il fallait une intervention chirurgicale immédiate' - his health condition was serious and required immediate surgery. The adjective 'sérieux' (serious) describes the gravity of the medical situation requiring urgent surgical intervention.",
+      "difficulty": "B1",
+      "source": "Medical Emergency",
+      "tags": [
+        "healthcare",
+        "medical",
+        "emergency",
+        "surgery"
+      ],
+      "timeCreated": 1751550400
+    },
+    {
+      "id": 360,
+      "audioText": "Il accepte le moindre compliment avec un sourire radieux, car il manque vraiment de confiance en lui.",
+      "question": "Il accepte le ______ compliment avec un sourire radieux, car il manque vraiment de confiance en lui.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "moindre",
+        "moins",
+        "petit",
+        "faible"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'moindre' (slightest/least) - used in the expression 'le moindre' meaning 'the slightest'. The complete sentence means: 'He accepts the slightest compliment with a radiant smile, because he really lacks self-confidence.' 'Moindre' is a comparative adjective meaning 'lesser' or 'slightest', often used in expressions like 'le moindre doute' (the slightest doubt) or 'sans la moindre hésitation' (without the slightest hesitation).",
+      "difficulty": "B2",
+      "source": "Personality Description",
+      "tags": [
+        "personality",
+        "emotions",
+        "self-confidence",
+        "psychology"
+      ],
+      "timeCreated": 1751550500
+    },
+    {
+      "id": 361,
+      "audioText": "Le tour de la ville prend deux heures avec ce guide.",
+      "question": "How long does the city tour take?",
+      "questionType": "comprehension",
+      "options": [
+        "One hour",
+        "Two hours",
+        "Three hours",
+        "Half an hour"
+      ],
+      "correct": 1,
+      "explanation": "The French sentence 'Le tour de la ville prend deux heures avec ce guide' means 'The city tour takes two hours with this guide.' The key phrase is 'prend deux heures' (takes two hours).",
+      "difficulty": "B1",
+      "source": "Tourism context - guided city tour information",
+      "tags": [
+        "tourism",
+        "travel",
+        "time",
+        "guided-tour"
+      ],
+      "timeCreated": 1735902000
+    },
+    {
+      "id": 362,
+      "audioText": "J'ai mis mes clés sur la table de la cuisine avant de partir au bureau.",
+      "question": "What did the speaker put on the kitchen table?",
+      "questionType": "comprehension",
+      "options": [
+        "Their keys",
+        "Their phone",
+        "Their wallet",
+        "Their lunch"
+      ],
+      "correct": 0,
+      "explanation": "The speaker said 'J'ai mis mes clés sur la table' - I put my keys on the table. 'Mis' is the past participle of 'mettre' (to put/place), used here with the auxiliary verb 'avoir' to form the passé composé.",
+      "difficulty": "B1",
+      "source": "Daily Activities",
+      "tags": [
+        "daily-life",
+        "home",
+        "routine"
+      ],
+      "timeCreated": 1720021200
+    },
+    {
+      "id": 363,
+      "audioText": "Mes parents savent que je travaille tard ce soir, alors ils ne m'attendent pas pour le dîner.",
+      "question": "What do the speaker's parents know?",
+      "questionType": "comprehension",
+      "options": [
+        "That the speaker is working late tonight",
+        "That the speaker is coming home early",
+        "That the speaker is going out with friends",
+        "That the speaker is cooking dinner"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Mes parents savent que je travaille tard ce soir' - My parents know that I am working late tonight. 'Savent' is the 3rd person plural present tense of 'savoir' (to know), used here to indicate what the parents know.",
+      "difficulty": "B1",
+      "source": "Family Communication",
+      "tags": [
+        "family",
+        "work",
+        "daily-life"
+      ],
+      "timeCreated": 1720021260
+    },
+    {
+      "id": 364,
+      "audioText": "Mon frère est venu me voir hier soir pour me parler de son nouveau travail.",
+      "question": "When did the speaker's brother come to see them?",
+      "questionType": "comprehension",
+      "options": [
+        "Yesterday evening",
+        "This morning",
+        "This afternoon",
+        "Next week"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Mon frère est venu me voir hier soir' - My brother came to see me yesterday evening. 'Venu' is the past participle of 'venir' (to come), used here with the auxiliary verb 'être' to form the passé composé.",
+      "difficulty": "B1",
+      "source": "Family Visit",
+      "tags": [
+        "family",
+        "visit",
+        "daily-life"
+      ],
+      "timeCreated": 1720021320
+    },
+    {
+      "id": 365,
+      "audioText": "Veuillez présenter votre passeport et votre billet d'avion à l'agent de sécurité.",
+      "question": "What should you present to the security agent?",
+      "questionType": "comprehension",
+      "options": [
+        "Your passport and plane ticket",
+        "Your driver's license and boarding pass",
+        "Your ID card and luggage receipt",
+        "Your credit card and phone"
+      ],
+      "correct": 0,
+      "explanation": "The instruction says 'Veuillez présenter votre passeport et votre billet d'avion' - Please present your passport and plane ticket. 'Veuillez' is the formal imperative form of 'vouloir', used for polite requests and official instructions.",
+      "difficulty": "B1",
+      "source": "Airport Security",
+      "tags": [
+        "travel",
+        "airport",
+        "formal-situation"
+      ],
+      "timeCreated": 1720021380
+    },
+    {
+      "id": 366,
+      "audioText": "Quand nous étions enfants, nous pouvions jouer dehors jusqu'à très tard en été.",
+      "question": "What could they do when they were children?",
+      "questionType": "comprehension",
+      "options": [
+        "Play outside until very late in summer",
+        "Stay up watching television",
+        "Go to bed early every night",
+        "Study inside all day"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'nous pouvions jouer dehors jusqu'à très tard en été' - we could play outside until very late in summer. 'Pouvions' is the 1st person plural imperfect tense of 'pouvoir' (to be able to/can), describing a past habitual ability.",
+      "difficulty": "B1",
+      "source": "Childhood Memories",
+      "tags": [
+        "childhood",
+        "memories",
+        "summer"
+      ],
+      "timeCreated": 1720021440
+    },
+    {
+      "id": 367,
+      "audioText": "Sachant que le magasin ferme à dix-huit heures, nous devons nous dépêcher pour y arriver à temps.",
+      "question": "Why do they need to hurry?",
+      "questionType": "comprehension",
+      "options": [
+        "Because the store closes at 6 PM",
+        "Because it's starting to rain",
+        "Because they're late for work",
+        "Because the bus is coming"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Sachant que le magasin ferme à dix-huit heures' - Knowing that the store closes at 6 PM. 'Sachant' is the present participle of 'savoir' (to know), used here to introduce the reason for their urgency.",
+      "difficulty": "B2",
+      "source": "Shopping Planning",
+      "tags": [
+        "shopping",
+        "time-management",
+        "urgency"
+      ],
+      "timeCreated": 1720021500
+    },
+    {
+      "id": 368,
+      "audioText": "Il faut que je doive partir plus tôt demain pour éviter les embouteillages du matin.",
+      "question": "What does the speaker need to do tomorrow?",
+      "questionType": "comprehension",
+      "options": [
+        "Leave earlier to avoid morning traffic",
+        "Stay late at the office",
+        "Take public transportation",
+        "Work from home"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Il faut que je doive partir plus tôt demain pour éviter les embouteillages' - I need to leave earlier tomorrow to avoid traffic jams. 'Doive' is the 1st person singular subjunctive of 'devoir' (must/have to), used after 'il faut que'.",
+      "difficulty": "B2",
+      "source": "Commute Planning",
+      "tags": [
+        "transportation",
+        "work",
+        "time-management"
+      ],
+      "timeCreated": 1720021560
+    },
+    {
+      "id": 369,
+      "audioText": "Je doute qu'elle veuille accepter cette proposition de travail dans une autre ville.",
+      "question": "What does the speaker doubt?",
+      "questionType": "comprehension",
+      "options": [
+        "That she wants to accept the job offer in another city",
+        "That she will finish her current project",
+        "That she knows about the meeting",
+        "That she can speak French fluently"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Je doute qu'elle veuille accepter cette proposition' - I doubt that she wants to accept this offer. 'Veuille' is the 3rd person singular subjunctive of 'vouloir' (to want), used after expressions of doubt like 'je doute que'.",
+      "difficulty": "B2",
+      "source": "Career Discussion",
+      "tags": [
+        "work",
+        "career",
+        "doubt"
+      ],
+      "timeCreated": 1720021620
+    },
+    {
+      "id": 370,
+      "audioText": "Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute.",
+      "question": "According to the speaker, why should they leave earlier?",
+      "questionType": "comprehension",
+      "options": [
+        "To avoid traffic jams on the highway",
+        "To arrive before the store opens",
+        "To pick up someone on the way",
+        "To have time for breakfast"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute' - We should leave earlier to avoid traffic jams on the highway. 'Devrions' is the 1st person plural conditional of 'devoir', expressing what they should do.",
+      "difficulty": "B2",
+      "source": "Travel Planning",
+      "tags": [
+        "transportation",
+        "planning",
+        "traffic"
+      ],
+      "timeCreated": 1720021680
+    },
+    {
+      "id": 371,
+      "audioText": "Marie devra présenter son projet devant le comité directeur la semaine prochaine.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Marie devra présenter son projet devant le comité directeur la semaine prochaine.",
+        "Marie doit présenter son projet devant le comité directeur la semaine prochaine.",
+        "Marie devrait présenter son projet devant le comité directeur la semaine prochaine.",
+        "Marie va présenter son projet devant le comité directeur la semaine prochaine."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Marie devra présenter son projet devant le comité directeur la semaine prochaine.' - Marie will have to present her project to the board next week. 'Devra' is the 3rd person singular future tense of 'devoir'.",
+      "difficulty": "B2",
+      "source": "Business Presentation",
+      "tags": [
+        "work",
+        "presentation",
+        "business"
+      ],
+      "timeCreated": 1720021740
+    },
+    {
+      "id": 372,
+      "audioText": "Vous vouliez me parler de quelque chose d'important, n'est-ce pas?",
+      "question": "Vous ______ me parler de quelque chose d'important, n'est-ce pas?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "vouliez",
+        "voudriez",
+        "voulez",
+        "voudrez"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'vouliez' (imperfect tense of 'vouloir'). The sentence means 'You wanted to talk to me about something important, didn't you?' The imperfect tense is used here to refer to a past intention or desire.",
+      "difficulty": "B1",
+      "source": "Personal Conversation",
+      "tags": [
+        "conversation",
+        "personal",
+        "communication"
+      ],
+      "timeCreated": 1720021800
+    },
+    {
+      "id": 373,
+      "audioText": "Tu devras terminer ce rapport avant vendredi si tu veux prendre tes vacances.",
+      "question": "When must the person finish the report?",
+      "questionType": "comprehension",
+      "options": [
+        "Before Friday if they want to take their vacation",
+        "After Friday when they return from vacation",
+        "Before Monday to meet the deadline",
+        "By the end of the month for the quarterly review"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Tu devras terminer ce rapport avant vendredi si tu veux prendre tes vacances' - You will have to finish this report before Friday if you want to take your vacation. 'Devras' is the 2nd person singular future tense of 'devoir' (must/have to).",
+      "difficulty": "B1",
+      "source": "Workplace Communication",
+      "tags": [
+        "work",
+        "deadline",
+        "vacation"
+      ],
+      "timeCreated": 1720021860
+    },
+    {
+      "id": 374,
+      "audioText": "Les étudiants devront s'inscrire en ligne avant le 15 septembre.",
+      "question": "Les étudiants ______ s'inscrire en ligne avant le 15 septembre.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "devront",
+        "devaient",
+        "doivent",
+        "devraient"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'devront' (future 3rd person plural of 'devoir'). The sentence means 'Students will have to register online before September 15th.' The future tense is used to express a future obligation.",
+      "difficulty": "B1",
+      "source": "University Registration",
+      "tags": [
+        "education",
+        "registration",
+        "deadline"
+      ],
+      "timeCreated": 1720021920
+    },
+    {
+      "id": 375,
+      "audioText": "Le train arrivera à la gare de Lyon vers dix-huit heures.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le train arrivera à la gare de Lyon vers dix-huit heures.",
+        "Le train arrive à la gare de Lyon vers dix-huit heures.",
+        "Le train arriverait à la gare de Lyon vers dix-huit heures.",
+        "Le train est arrivé à la gare de Lyon vers dix-huit heures."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le train arrivera à la gare de Lyon vers dix-huit heures.' - The train will arrive at Lyon station around 6 PM. 'Arrivera' is the 3rd person singular future tense of 'arriver'.",
+      "difficulty": "B1",
+      "source": "Train Schedule",
+      "tags": [
+        "travel",
+        "transportation",
+        "schedule"
+      ],
+      "timeCreated": 1720021980
+    },
+    {
+      "id": 376,
+      "audioText": "Si nous partions maintenant, nous arriverions à temps pour le dîner.",
+      "question": "What would happen if they left now?",
+      "questionType": "comprehension",
+      "options": [
+        "They would arrive in time for dinner",
+        "They would miss the dinner completely",
+        "They would arrive too early for dinner",
+        "They would need to call ahead to reserve"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Si nous partions maintenant, nous arriverions à temps pour le dîner' - If we left now, we would arrive in time for dinner. 'Arriverions' is the 1st person plural conditional tense of 'arriver', used in the conditional clause.",
+      "difficulty": "B2",
+      "source": "Social Planning",
+      "tags": [
+        "social",
+        "planning",
+        "conditional"
+      ],
+      "timeCreated": 1720022040
+    },
+    {
+      "id": 377,
+      "audioText": "Demain je pourrai enfin vous montrer le nouveau bureau.",
+      "question": "Demain je ______ enfin vous montrer le nouveau bureau.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pourrai",
+        "pourrais",
+        "peux",
+        "pouvais"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'pourrai' (future 1st person singular of 'pouvoir'). The sentence means 'Tomorrow I will finally be able to show you the new office.' The future tense expresses a future ability or possibility.",
+      "difficulty": "B1",
+      "source": "Office Tour",
+      "tags": [
+        "work",
+        "office",
+        "future-plans"
+      ],
+      "timeCreated": 1720022100
+    },
+    {
+      "id": 378,
+      "audioText": "Cette start-up n'a pas la moindre expérience dans le domaine de l'intelligence artificielle.",
+      "question": "What does the sentence say about the startup's AI experience?",
+      "questionType": "comprehension",
+      "options": [
+        "It doesn't have the slightest experience in artificial intelligence",
+        "It has some basic experience in artificial intelligence",
+        "It is a leader in artificial intelligence development",
+        "It specializes only in artificial intelligence"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Cette start-up n'a pas la moindre expérience dans le domaine de l'intelligence artificielle' - This startup doesn't have the slightest experience in the field of artificial intelligence. 'Moindre' means 'slightest/least' and emphasizes complete lack of experience.",
+      "difficulty": "B2",
+      "source": "Technology Business",
+      "tags": [
+        "technology",
+        "business",
+        "artificial-intelligence",
+        "experience"
+      ],
+      "timeCreated": 1720052280
+    },
+    {
+      "id": 379,
+      "audioText": "Il faut que le fermier dise la vérité sur l'utilisation des pesticides dans ses champs.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Il faut que le fermier dise la vérité sur l'utilisation des pesticides dans ses champs.",
+        "Il faut que le fermier disc la vérité sur l'utilisation des pesticides dans ses champs.",
+        "Il faut que le fermier dit la vérité sur l'utilisation des pesticides dans ses champs.",
+        "Il faut que le fermier dise la vérité sur l'utilisation des herbicides dans ses champs."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Il faut que le fermier dise la vérité sur l'utilisation des pesticides dans ses champs.' - The farmer must tell the truth about pesticide use in his fields. 'Dise' is the 3rd person singular subjunctive form of 'dire'.",
+      "difficulty": "B2",
+      "source": "Agricultural News",
+      "tags": [
+        "agriculture",
+        "farming",
+        "pesticides"
+      ],
+      "timeCreated": 1720022220
+    },
+    {
+      "id": 380,
+      "audioText": "Ma fille irait bien au cours de danse mais elle préfère la natation.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Ma fille irait bien au cours de danse mais elle préfère la natation.",
+        "Ma fille aimerait bien au cours de danse mais elle préfère la natation.",
+        "Ma fille irait bien au cours de danse mais elle préfère la nation.",
+        "Ma fille irait bien au cours de danse mais elle préfère la notation."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Ma fille irait bien au cours de danse mais elle préfère la natation.' - My daughter would like to go to dance class but she prefers swimming. 'Irait' is the 3rd person singular conditional form of 'aller'.",
+      "difficulty": "B1",
+      "source": "Children's Activities",
+      "tags": [
+        "hobbies",
+        "dance",
+        "swimming"
+      ],
+      "timeCreated": 1720022280
+    },
+    {
+      "id": 381,
+      "audioText": "Tu feras les courses au marché samedi matin avant l'affluence.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Tu feras les courses au marché samedi matin avant l'affluence.",
+        "Tu fais les courses au marché samedi matin avant l'affluence.",
+        "Tu ferais les courses au marché samedi matin avant l'affluence.",
+        "Tu feras les courses au marché samedi matin après l'affluence."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Tu feras les courses au marché samedi matin avant l'affluence.' - You will do the shopping at the market Saturday morning before the rush. 'Feras' is the 2nd person singular future form of 'faire'.",
+      "difficulty": "B1",
+      "source": "Weekend Shopping",
+      "tags": [
+        "shopping",
+        "market",
+        "weekend"
+      ],
+      "timeCreated": 1720022340
+    },
+    {
+      "id": 382,
+      "audioText": "Le public croira que les légumes bio sont plus nutritifs sans preuves scientifiques.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le public croira que les légumes bio sont plus nutritifs sans preuves scientifiques.",
+        "Le public croyait que les légumes bio sont plus nutritifs sans preuves scientifiques.",
+        "Le public croit que les légumes bio sont plus nutritifs sans preuves scientifiques.",
+        "Le public croira que les légumes bio sont plus nutritifs avec preuves scientifiques."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le public croira que les légumes bio sont plus nutritifs sans preuves scientifiques.' - The public will believe that organic vegetables are more nutritious without scientific evidence. 'Croira' is the 3rd person singular future form of 'croire'.",
+      "difficulty": "B2",
+      "source": "Organic Food Study",
+      "tags": [
+        "agriculture",
+        "organic",
+        "nutrition"
+      ],
+      "timeCreated": 1720022400
+    },
+    {
+      "id": 383,
+      "audioText": "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
+      "parentQuestion": 476,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
+        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une dizaine de propositions pour «rétablir la République» dans les quartiers populaires",
+        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir l'ordre» dans les quartiers populaires",
+        "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, visé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires"
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires.' - After last year's riots, a deputy reveals his 'suburbs plan'. The deputy, targeted during urban violence, presents twenty proposals to 'restore the Republic' in popular neighborhoods.",
+      "difficulty": "B2",
+      "source": "French Political News - Listening",
+      "tags": [
+        "politics",
+        "social-issues",
+        "riots",
+        "banlieues"
+      ]
+    },
+    {
+      "id": 384,
+      "audioText": "Restez calme pendant que nous réglons ce problème technique.",
+      "question": "What should people do while they fix the technical problem?",
+      "questionType": "comprehension",
+      "options": [
+        "Stay calm",
+        "Leave immediately",
+        "Call for help",
+        "Wait outside"
+      ],
+      "correct": 0,
+      "explanation": "The instruction says 'Restez calme pendant que nous réglons ce problème technique' - Stay calm while we fix this technical problem. 'Restez' is the 2nd person plural imperative form of 'rester' (to stay/remain).",
+      "difficulty": "B1",
+      "source": "Technical Support",
+      "tags": [
+        "technology",
+        "instructions",
+        "calm"
+      ],
+      "timeCreated": 1720022520
+    },
+    {
+      "id": 385,
+      "audioText": "Tu restes toujours très patient avec les enfants difficiles.",
+      "question": "Tu ______ toujours très patient avec les enfants difficiles.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "restes",
+        "restais",
+        "resteras",
+        "resterais"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'restes' (2nd person singular present tense of 'rester'). The sentence means 'You always remain very patient with difficult children.' The present tense indicates a general, ongoing characteristic.",
+      "difficulty": "B1",
+      "source": "Family Dynamics",
+      "tags": [
+        "family",
+        "children",
+        "patience"
+      ],
+      "timeCreated": 1720022580
+    },
+    {
+      "id": 386,
+      "audioText": "Il est resté trois heures à attendre le médecin.",
+      "question": "How long did he wait for the doctor?",
+      "questionType": "comprehension",
+      "options": [
+        "Three hours",
+        "Two hours",
+        "Four hours",
+        "Half an hour"
+      ],
+      "correct": 0,
+      "explanation": "He 'est resté trois heures à attendre le médecin' - stayed/remained three hours waiting for the doctor. 'Resté' is the past participle of 'rester' used with être to form the passé composé.",
+      "difficulty": "B1",
+      "source": "Medical Appointment",
+      "tags": [
+        "healthcare",
+        "waiting",
+        "appointment"
+      ],
+      "timeCreated": 1720022640
+    },
+    {
+      "id": 387,
+      "audioText": "Mettez votre signature en bas de chaque page du contrat.",
+      "question": "Where should you put your signature?",
+      "questionType": "comprehension",
+      "options": [
+        "At the bottom of each page of the contract",
+        "Only on the first page of the contract",
+        "At the top of each page of the contract",
+        "Only on the last page of the contract"
+      ],
+      "correct": 0,
+      "explanation": "The instruction says 'Mettez votre signature en bas de chaque page du contrat' - Put your signature at the bottom of each page of the contract. 'Mettez' is the 2nd person plural imperative form of 'mettre' (to put).",
+      "difficulty": "B2",
+      "source": "Legal Documents",
+      "tags": [
+        "legal",
+        "contract",
+        "signature"
+      ],
+      "timeCreated": 1720022700
+    },
+    {
+      "id": 388,
+      "audioText": "La proposition a été mise en discussion par le conseil municipal.",
+      "question": "What happened to the proposal?",
+      "questionType": "comprehension",
+      "options": [
+        "It was put up for discussion by the municipal council",
+        "It was rejected by the municipal council",
+        "It was approved by the municipal council",
+        "It was postponed by the municipal council"
+      ],
+      "correct": 0,
+      "explanation": "The proposal 'a été mise en discussion par le conseil municipal' - was put up for discussion by the municipal council. 'Mise' is the feminine past participle of 'mettre', agreeing with 'la proposition'.",
+      "difficulty": "B2",
+      "source": "Municipal Government",
+      "tags": [
+        "politics",
+        "municipal",
+        "discussion"
+      ],
+      "timeCreated": 1720022760
+    },
+    {
+      "id": 389,
+      "audioText": "Les étudiants mettent leurs téléphones en mode silencieux pendant les examens.",
+      "question": "What do students do with their phones during exams?",
+      "questionType": "comprehension",
+      "options": [
+        "Put them in silent mode",
+        "Turn them off completely",
+        "Give them to the teacher",
+        "Leave them at home"
+      ],
+      "correct": 0,
+      "explanation": "Students 'mettent leurs téléphones en mode silencieux pendant les examens' - put their phones in silent mode during exams. 'Mettent' is the 3rd person plural present form of 'mettre'.",
+      "difficulty": "B1",
+      "source": "University Exams",
+      "tags": [
+        "education",
+        "exams",
+        "technology"
+      ],
+      "timeCreated": 1720022820
+    },
+    {
+      "id": 390,
+      "audioText": "Pars maintenant si tu veux éviter les embouteillages de l'heure de pointe.",
+      "question": "Pars maintenant si tu veux ______ les embouteillages de l'heure de pointe.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "éviter",
+        "évites",
+        "évitais",
+        "éviteras"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'éviter' (infinitive). After 'veux' (want), French uses the infinitive form. The sentence means 'Leave now if you want to avoid rush hour traffic.' 'Pars' is the 2nd person singular imperative of 'partir'.",
+      "difficulty": "B1",
+      "source": "Traffic Advice",
+      "tags": [
+        "transportation",
+        "traffic",
+        "advice"
+      ],
+      "timeCreated": 1720022880
+    },
+    {
+      "id": 391,
+      "audioText": "Partez de la gare centrale et prenez le métro ligne 4 direction Porte de Clignancourt.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Partez de la gare centrale et prenez le métro ligne 4 direction Porte de Clignancourt.",
+        "Partez de la gare centrale et prenez le métro ligne 14 direction Porte de Clignancourt.",
+        "Partez de la gare centrale et prenez le bus ligne 4 direction Porte de Clignancourt.",
+        "Partez de la gare Nord et prenez le métro ligne 4 direction Porte de Clignancourt."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Partez de la gare centrale et prenez le métro ligne 4 direction Porte de Clignancourt.' - Leave from central station and take metro line 4 direction Porte de Clignancourt. 'Partez' is the 2nd person plural imperative of 'partir'.",
+      "difficulty": "B1",
+      "source": "Metro Directions",
+      "tags": [
+        "transportation",
+        "metro",
+        "directions"
+      ],
+      "timeCreated": 1720022940
+    },
+    {
+      "id": 392,
+      "audioText": "Bon, disons que nous commençons la réunion à quatorze heures précises.",
+      "question": "What time will the meeting start?",
+      "questionType": "comprehension",
+      "options": [
+        "At exactly 2 PM",
+        "At exactly 3 PM",
+        "Around 2 PM",
+        "Before 2 PM"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'disons que nous commençons la réunion à quatorze heures précises' - let's say we start the meeting at exactly 2 PM (14:00). 'Disons' is the 1st person plural present form of 'dire', used here to mean 'let's say'.",
+      "difficulty": "B1",
+      "source": "Business Meeting",
+      "tags": [
+        "work",
+        "meeting",
+        "time"
+      ],
+      "timeCreated": 1720023000
+    },
+    {
+      "id": 393,
+      "audioText": "Il faut qu'elle sache la vérité sur ce qui s'est passé ce soir-là.",
+      "question": "Il faut qu'elle ______ la vérité sur ce qui s'est passé ce soir-là.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sache",
+        "sait",
+        "savait",
+        "saura"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'sache' (3rd person singular subjunctive of 'savoir'). After 'il faut que' (it's necessary that), French requires the subjunctive mood. The sentence means 'She must know the truth about what happened that evening.'",
+      "difficulty": "B2",
+      "source": "Mystery Investigation",
+      "tags": [
+        "investigation",
+        "truth",
+        "subjunctive"
+      ],
+      "timeCreated": 1720023060
+    },
+    {
+      "id": 394,
+      "audioText": "Tu vis dans ce quartier depuis combien de temps exactement?",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Tu vis dans ce quartier depuis combien de temps exactement?",
+        "Tu viens dans ce quartier depuis combien de temps exactement?",
+        "Tu vis dans ce quartier depuis combien d'années exactement?",
+        "Tu vas dans ce quartier depuis combien de temps exactement?"
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Tu vis dans ce quartier depuis combien de temps exactement?' - How long exactly have you been living in this neighborhood? 'Vis' is the 2nd person singular present form of 'vivre' (to live).",
+      "difficulty": "B1",
+      "source": "Neighborhood Conversation",
+      "tags": [
+        "neighborhood",
+        "time",
+        "residence"
+      ],
+      "timeCreated": 1720023120
+    },
+    {
+      "id": 395,
+      "audioText": "Nous devrons présenter nos résultats au conseil d'administration demain matin.",
+      "question": "When will they present their results?",
+      "questionType": "comprehension",
+      "options": [
+        "Tomorrow morning to the board of directors",
+        "Tomorrow afternoon to the board of directors",
+        "Next week to the board of directors",
+        "Tomorrow morning to the management team"
+      ],
+      "correct": 0,
+      "explanation": "They 'devrons présenter nos résultats au conseil d'administration demain matin' - will have to present our results to the board of directors tomorrow morning. 'Devrons' is the 1st person plural future form of 'devoir' (must/have to).",
+      "difficulty": "B2",
+      "source": "Corporate Presentation",
+      "tags": [
+        "business",
+        "presentation",
+        "board"
+      ],
+      "timeCreated": 1720023180
+    },
+    {
+      "id": 396,
+      "audioText": "Ma grand-mère est venue me rendre visite hier pour mon anniversaire.",
+      "question": "Ma grand-mère est ______ me rendre visite hier pour mon anniversaire.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "venue",
+        "venu",
+        "venues",
+        "venus"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'venue' (feminine singular past participle of 'venir'). It agrees with 'ma grand-mère' (feminine singular). The sentence means 'My grandmother came to visit me yesterday for my birthday.' Past participles with être must agree in gender and number.",
+      "difficulty": "B1",
+      "source": "Family Visit",
+      "tags": [
+        "family",
+        "visit",
+        "birthday"
+      ],
+      "timeCreated": 1720023240
+    },
+    {
+      "id": 397,
+      "audioText": "Suivez les panneaux bleus pour arriver au parking des employés.",
+      "question": "What should you follow to reach the employee parking?",
+      "questionType": "comprehension",
+      "options": [
+        "The blue signs",
+        "The red signs",
+        "The yellow lines",
+        "The green arrows"
+      ],
+      "correct": 0,
+      "explanation": "You should 'suivez les panneaux bleus pour arriver au parking des employés' - follow the blue signs to reach the employee parking. 'Suivez' is the 2nd person plural imperative form of 'suivre' (to follow).",
+      "difficulty": "B1",
+      "source": "Workplace Directions",
+      "tags": [
+        "work",
+        "directions",
+        "parking"
+      ],
+      "timeCreated": 1720023300
+    },
+    {
+      "id": 398,
+      "audioText": "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+      "parentQuestion": 475,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et sept autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 40 ans qui assistait à un événement contre le fascisme, dans Paris.",
+        "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement pour la démocratie, dans Paris."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était '« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.' - 'I'm going to distance myself from this dangerous environment': a young man, member of a far-right group, gets out of prison.",
+      "difficulty": "B2",
+      "source": "French Legal/Political News - Listening",
+      "tags": [
+        "politics",
+        "extremism",
+        "legal"
+      ]
+    },
+    {
+      "id": 399,
+      "audioText": "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau.",
+      "parentQuestion": 280,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau.",
+        "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée par les retards et les annulations, espère un renouveau.",
+        "Nice-Marseille : le premier TER public en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau.",
+        "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la connection. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau."
+      ],
+      "correct": 1,
+      "explanation": "La phrase exacte ne contenait pas l'article 'les' avant 'par retards'. C'était 'particulièrement touchée par les retards' et non 'touchée les par retards'. Cette correction grammaticale teste l'écoute précise des prépositions.",
+      "difficulty": "B2",
+      "source": "Transportation News - Listening",
+      "tags": [
+        "transportation",
+        "news",
+        "train-service",
+        "privatization",
+        "regional-transport"
+      ],
+      "timeCreated": 1720024200
+    },
+    {
+      "id": 400,
+      "audioText": "La politique du nouveau gouvernement américain a \"réveillé l'Europe\", estime le ministre français de l'Économie. Il a évoqué, dans une interview, les conséquences des mesures hostiles en matière d'armement, de défense et de protection des intérêts commerciaux.",
+      "parentQuestion": 281,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La politique du nouveau gouvernement américain a \"réveillé l'Europe\", estime le ministre français de l'Économie. Il a évoqué, dans une interview, les conséquences des mesures hostiles en matière d'armement, de défense et de protection des intérêts commerciaux.",
+        "La politique du nouveau gouvernement américain a \"réveillé l'Europe\", estime le ministre français de l'Économie. Il a évoqué, dans une interview, les conséquences des mesures hostiles en matière d'armement, de défense et de protection des intérêts économiques.",
+        "La politique du nouveau gouvernement américain a \"sensibilisé l'Europe\", estime le ministre français de l'Économie. Il a évoqué, dans une interview, les conséquences des mesures hostiles en matière d'armement, de défense et de protection des intérêts commerciaux.",
+        "La politique du nouveau gouvernement américain a \"réveillé l'Europe\", estime le ministre français de l'Économie. Il a mentionné, dans une interview, les conséquences des mesures hostiles en matière d'armement, de défense et de protection des intérêts commerciaux."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'réveillé' (pas 'sensibilisé'), 'intérêts commerciaux' (pas 'économiques'), et 'évoqué' (pas 'mentionné'). Ces nuances lexicales sont importantes dans le discours politique et diplomatique.",
+      "difficulty": "B2",
+      "source": "Political News - European-American Relations - Listening",
+      "tags": [
+        "politics",
+        "international-relations",
+        "economics",
+        "european-union",
+        "trade-policy",
+        "defense",
+        "government"
+      ],
+      "timeCreated": 1720024260
+    },
+    {
+      "id": 401,
+      "audioText": "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours respectées.",
+      "parentQuestion": 282,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours respectées.",
+        "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours appliquées.",
+        "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains salons. En cause : des prix coupés au rasoir et des règles pas toujours respectées.",
+        "Les coiffeurs de France protestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours respectées."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'manifestent' (pas 'protestent'), 'barbiers' (pas 'salons'), et 'respectées' (pas 'appliquées'). L'expression 'prix coupés au rasoir' est un jeu de mots typique du français parlé dans ce contexte professionnel.",
+      "difficulty": "B2",
+      "source": "Professional Trade News - Listening",
+      "tags": [
+        "business",
+        "protest",
+        "professional-services",
+        "competition",
+        "regulations",
+        "trade-disputes"
+      ],
+      "timeCreated": 1720024320
+    },
+    {
+      "id": 402,
+      "audioText": "La ville investit dans les énergies propres pour réduire la pollution et protéger l'environnement urbain.",
+      "parentQuestion": 285,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La ville investit dans les énergies propres pour réduire la pollution et protéger l'environnement urbain.",
+        "La ville investit dans les énergies renouvelables pour réduire la pollution et protéger l'environnement urbain.",
+        "La ville investit dans les énergies propres pour réduire la pollution et protéger l'environnement naturel.",
+        "La ville investit dans les énergies propres pour diminuer la pollution et protéger l'environnement urbain."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'énergies propres' (pas 'renouvelables'), 'environnement urbain' (pas 'naturel'), et 'réduire' (pas 'diminuer'). Ces termes environnementaux ont des nuances importantes en français.",
+      "difficulty": "B2",
+      "source": "Environmental Policy - Listening",
+      "tags": [
+        "environment",
+        "clean-energy",
+        "pollution",
+        "urban-planning",
+        "sustainability",
+        "government-policy"
+      ],
+      "timeCreated": 1720024380
+    },
+    {
+      "id": 403,
+      "audioText": "J'aurais aimé avoir plus de temps pour finir ce projet important.",
+      "parentQuestion": 287,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "J'aurais aimé avoir plus de temps pour finir ce projet important.",
+        "J'aurais voulu avoir plus de temps pour finir ce projet important.",
+        "J'aurais aimé avoir plus de temps pour terminer ce projet important.",
+        "J'aurais aimé avoir davantage de temps pour finir ce projet important."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'aimé' (pas 'voulu'), 'finir' (pas 'terminer'), et 'plus de' (pas 'davantage de'). Ces nuances du conditionnel et des synonymes testent l'écoute précise en contexte professionnel.",
+      "difficulty": "B2",
+      "source": "Work - Project Management - Listening",
+      "tags": [
+        "work",
+        "projects",
+        "conditional-mood",
+        "regret",
+        "time-management",
+        "professional"
+      ],
+      "timeCreated": 1720024440
+    },
+    {
+      "id": 404,
+      "audioText": "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit suffisant. Je crois qu'il vaut mieux continuer à étudier.'",
+      "parentQuestion": 313,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit suffisant. Je crois qu'il vaut mieux continuer à étudier.'",
+        "Marie dit : 'Je sais parler trois langues, mais je ne pense pas que ce soit suffisant. Je crois qu'il vaut mieux continuer à étudier.'",
+        "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit suffisant. Je pense qu'il vaut mieux continuer à étudier.'",
+        "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit assez. Je crois qu'il vaut mieux continuer à étudier.'"
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'crois' (pas 'pense') dans les deux occurrences, et 'suffisant' (pas 'assez'). Cette distinction entre 'croire' et 'penser' est importante pour exprimer des opinions personnelles en français.",
+      "difficulty": "B1",
+      "source": "Savoir vs Croire Grammar - Listening",
+      "tags": [
+        "education",
+        "language-learning",
+        "self-assessment",
+        "personal-development"
+      ],
+      "timeCreated": 1720024500
+    },
+    {
+      "id": 405,
+      "audioText": "La mort de cet écrivain célèbre a marqué la fin d'une époque littéraire importante en France.",
+      "question": "What significance does the writer's death have?",
+      "questionType": "comprehension",
+      "options": [
+        "It marked the end of an important literary era in France",
+        "It started a new literary movement in European literature",
+        "It caused major political changes in French society",
+        "It led to the creation of new publishing houses"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'La mort de cet écrivain célèbre a marqué la fin d'une époque littéraire importante' - The death of this famous writer marked the end of an important literary era. 'Mort' means death, and 'époque' means era or period.",
+      "difficulty": "B2",
+      "source": "Literary News",
+      "tags": [
+        "literature",
+        "death",
+        "cultural-history",
+        "writers"
+      ],
+      "timeCreated": 1720024920
+    },
+    {
+      "id": 406,
+      "audioText": "Mon fils étudie l'informatique à l'université et il veut devenir programmeur.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Mon fils étudie l'informatique à l'université et il veut devenir programmeur.",
+        "Mon fils étudie l'informatique à l'université et il veut devenir professeur.",
+        "Mon file étudie l'informatique à l'université et il veut devenir programmeur.",
+        "Mon fils étudie l'informatique à l'école et il veut devenir programmeur."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'fils' (pas 'file'), 'université' (pas 'école'), et 'programmeur' (pas 'professeur'). 'Fils' signifie son (male child).",
+      "difficulty": "B1",
+      "source": "Family - Education",
+      "tags": [
+        "family",
+        "education",
+        "career",
+        "technology"
+      ],
+      "timeCreated": 1720024980
+    },
+    {
+      "id": 407,
+      "audioText": "Cette rue piétonne du centre-ville attire de nombreux touristes grâce à ses boutiques traditionnelles et ses cafés authentiques.",
+      "question": "Why does this pedestrian street attract many tourists?",
+      "questionType": "comprehension",
+      "options": [
+        "Because of its traditional shops and authentic cafés",
+        "Because it has the best restaurants in the city",
+        "Because it hosts frequent cultural festivals",
+        "Because it offers the cheapest shopping prices"
+      ],
+      "correct": 0,
+      "explanation": "The text explains that the street 'attire de nombreux touristes grâce à ses boutiques traditionnelles et ses cafés authentiques' - attracts many tourists thanks to its traditional shops and authentic cafés. 'Rue' means street, and 'piétonne' means pedestrian-only.",
+      "difficulty": "B2",
+      "source": "Tourism - Urban Planning",
+      "tags": [
+        "tourism",
+        "city-center",
+        "shopping",
+        "urban-planning",
+        "culture"
+      ],
+      "timeCreated": 1720025160
+    },
+    {
+      "id": 408,
+      "audioText": "Ma maison est maintenant ______ après le grand ménage de printemps.",
+      "question": "Ma maison est maintenant ______ après le grand ménage de printemps.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "propre",
+        "belle",
+        "grande",
+        "nouvelle"
+      ],
+      "correct": 0,
+      "explanation": "After spring cleaning ('grand ménage de printemps'), a house would be 'propre' (clean). 'Propre' means clean/tidy, which is the logical result of thorough cleaning.",
+      "difficulty": "B1",
+      "source": "Household Maintenance",
+      "tags": [
+        "home",
+        "cleaning",
+        "seasonal-activities",
+        "maintenance"
+      ],
+      "timeCreated": 1720025520
+    },
+    {
+      "id": 409,
+      "audioText": "C'est une mauvaise idée de sortir sans parapluie quand il pleut.",
+      "question": "According to the speaker, what is a bad idea?",
+      "questionType": "comprehension",
+      "options": [
+        "Going out without an umbrella when it rains",
+        "Buying an expensive umbrella for occasional use",
+        "Staying inside when the weather is nice",
+        "Forgetting to check the weather forecast"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'C'est une mauvaise idée de sortir sans parapluie quand il pleut' - It's a bad idea to go out without an umbrella when it rains. 'Mauvaise' means bad/poor.",
+      "difficulty": "B1",
+      "source": "Weather Advice",
+      "tags": [
+        "weather",
+        "advice",
+        "practical-tips",
+        "rain"
+      ],
+      "timeCreated": 1720025580
+    },
+    {
+      "id": 410,
+      "audioText": "Je suis désolé d'avoir oublié notre rendez-vous important.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Je suis désolé d'avoir oublié notre rendez-vous important.",
+        "Je suis désolé d'avoir raté notre rendez-vous important.",
+        "Je suis navré d'avoir oublié notre rendez-vous important.",
+        "Je suis désolé d'avoir oublié votre rendez-vous important."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'désolé' (pas 'navré'), 'oublié' (pas 'raté'), et 'notre' (pas 'votre'). 'Désolé' exprime les regrets et les excuses.",
+      "difficulty": "B2",
+      "source": "Apologies - Professional",
+      "tags": [
+        "apology",
+        "appointments",
+        "professional",
+        "regret"
+      ],
+      "timeCreated": 1720025640
+    },
+    {
+      "id": 411,
+      "audioText": "L'immeuble le plus ______ de la ville mesure cinquante étages.",
+      "question": "L'immeuble le plus ______ de la ville mesure cinquante étages.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "haut",
+        "grand",
+        "large",
+        "moderne"
+      ],
+      "correct": 0,
+      "explanation": "A building with fifty floors would be the tallest ('le plus haut') in the city. 'Haut' specifically refers to height/tallness, while 'grand' means big/large in general, 'large' means wide, and 'moderne' means modern.",
+      "difficulty": "B1",
+      "source": "Urban Architecture",
+      "tags": [
+        "architecture",
+        "city",
+        "buildings",
+        "height"
+      ],
+      "timeCreated": 1720026020
+    },
+    {
+      "id": 412,
+      "audioText": "Ce film était vraiment génial ! J'ai adoré l'histoire et les acteurs.",
+      "question": "What did the speaker think of the movie?",
+      "questionType": "comprehension",
+      "options": [
+        "It was really great - they loved the story and actors",
+        "It was boring and they fell asleep during it",
+        "It was too long and the plot was confusing",
+        "It was okay but nothing special or memorable"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Ce film était vraiment génial ! J'ai adoré l'histoire et les acteurs' - This movie was really great! I loved the story and the actors. 'Génial' means great/awesome/brilliant (informal).",
+      "difficulty": "B1",
+      "source": "Entertainment - Movies",
+      "tags": [
+        "entertainment",
+        "movies",
+        "opinions",
+        "reviews"
+      ],
+      "timeCreated": 1720026080
+    },
+    {
+      "id": 413,
+      "audioText": "Ta robe est très joli pour la soirée.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Ta robe est très joli pour la soirée.",
+        "Ta robe est très jolie pour la soirée.",
+        "Ta robe est très belle pour la soirée.",
+        "Sa robe est très joli pour la soirée."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait l'erreur grammaticale 'joli' (masculin) au lieu de 'jolie' (féminin) pour s'accorder avec 'robe'. Cette question teste l'écoute précise même avec des erreurs d'accord.",
+      "difficulty": "B2",
+      "source": "Fashion - Grammar Error Detection",
+      "tags": [
+        "fashion",
+        "clothing",
+        "grammar-errors",
+        "adjective-agreement"
+      ],
+      "timeCreated": 1720026140
+    },
+    {
+      "id": 414,
+      "audioText": "La situation économique devient de plus en plus grave selon les experts financiers.",
+      "question": "How do financial experts describe the economic situation?",
+      "questionType": "comprehension",
+      "options": [
+        "It is becoming increasingly serious/grave",
+        "It is slowly improving with positive indicators",
+        "It remains stable despite global uncertainties",
+        "It is unpredictable and changes frequently"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'La situation économique devient de plus en plus grave selon les experts financiers' - The economic situation is becoming more and more serious according to financial experts. 'Grave' means serious/grave in this context.",
+      "difficulty": "B2",
+      "source": "Economic News",
+      "tags": [
+        "economics",
+        "experts",
+        "financial-analysis",
+        "serious-situation"
+      ],
+      "timeCreated": 1720026200
+    },
+    {
+      "id": 415,
+      "audioText": "Il ne faut jamais prendre de ______ décisions quand on est en colère.",
+      "question": "Il ne faut jamais prendre de ______ décisions quand on est en colère.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "mauvais",
+        "bonnes",
+        "rapides",
+        "importantes"
+      ],
+      "correct": 0,
+      "explanation": "The context suggests you shouldn't make 'bad' decisions when angry. 'Mauvais' means bad/poor, which fits the warning about decision-making while emotional. The other options don't match the cautionary tone.",
+      "difficulty": "B1",
+      "source": "Life Advice - Decision Making",
+      "tags": [
+        "advice",
+        "decision-making",
+        "emotions",
+        "psychology"
+      ],
+      "timeCreated": 1720026260
+    },
+    {
+      "id": 416,
+      "audioText": "Cette petite ville de montagne est vraiment joli avec ses chalets traditionnels.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette petite ville de montagne est vraiment joli avec ses chalets traditionnels.",
+        "Cette petite ville de montagne est vraiment jolie avec ses chalets traditionnels.",
+        "Cette petite ville de montagne est vraiment joli avec ses maisons traditionnelles.",
+        "Cette grande ville de montagne est vraiment jolie avec ses chalets traditionnels."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait l'erreur d'accord 'joli' (masculin) au lieu de 'jolie' (féminin) pour s'accorder avec 'ville' (féminin). Cette question teste l'écoute précise des erreurs grammaticales d'accord des adjectifs.",
+      "difficulty": "B1",
+      "source": "Travel - Mountain Towns - Grammar Detection",
+      "tags": [
+        "travel",
+        "mountain-towns",
+        "traditional-architecture",
+        "grammar-errors"
+      ],
+      "timeCreated": 1720026500
+    },
+    {
+      "id": 417,
+      "audioText": "Il semble impossible de résoudre ce problème technique sans assistance externe spécialisée.",
+      "question": "What seems impossible according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "Solving this technical problem without specialized external assistance",
+        "Finding the right technical documentation for this problem",
+        "Completing the project within the given deadline",
+        "Understanding the complexity of the technical requirements"
+      ],
+      "correct": 0,
+      "explanation": "The speaker states 'Il semble impossible de résoudre ce problème technique sans assistance externe spécialisée' - it seems impossible to solve this technical problem without specialized external assistance. The adjective 'impossible' means impossible/unfeasible.",
+      "difficulty": "B2",
+      "source": "Technical Problem Solving",
+      "tags": [
+        "technology",
+        "problem-solving",
+        "technical-support",
+        "workplace"
+      ],
+      "timeCreated": 1720026560
+    },
+    {
+      "id": 418,
+      "audioText": "Nos situations professionnelles sont très ______ : nous travaillons tous les deux dans l'informatique.",
+      "question": "Nos situations professionnelles sont très ______ : nous travaillons tous les deux dans l'informatique.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pareilles",
+        "pareil",
+        "pareils",
+        "pareille"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'pareilles' (feminine plural) to agree with 'situations' (feminine plural). The adjective 'pareil' means similar/alike, and the context explains they both work in IT, making their professional situations similar.",
+      "difficulty": "B1",
+      "source": "Professional Similarity",
+      "tags": [
+        "workplace",
+        "technology",
+        "professional-comparison",
+        "career"
+      ],
+      "timeCreated": 1720026620
+    },
+    {
+      "id": 419,
+      "audioText": "Ce nouveau logiciel de conception graphique est absolument génial pour les designers professionnels.",
+      "question": "What does the speaker think about the new graphic design software?",
+      "questionType": "comprehension",
+      "options": [
+        "It's absolutely brilliant for professional designers",
+        "It's too complicated for most users",
+        "It's outdated compared to other software",
+        "It's only suitable for beginners"
+      ],
+      "correct": 0,
+      "explanation": "The speaker states 'Ce nouveau logiciel de conception graphique est absolument génial pour les designers professionnels' - this new graphic design software is absolutely brilliant for professional designers. The adjective 'génial' means brilliant/awesome/fantastic.",
+      "difficulty": "B1",
+      "source": "Software Review - Design",
+      "tags": [
+        "technology",
+        "software",
+        "design",
+        "professional-tools"
+      ],
+      "timeCreated": 1720026860
+    },
+    {
+      "id": 420,
+      "audioText": "L'appartement au cinquième étage offre une vue magnifique sur la ville grâce à sa position ______.",
+      "question": "L'appartement au cinquième étage offre une vue magnifique sur la ville grâce à sa position ______.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "haut",
+        "haute",
+        "hauts",
+        "hautes"
+      ],
+      "correct": 1,
+      "explanation": "The correct answer is 'haute' (feminine singular) to agree with 'position' (feminine singular). The adjective 'haut' means high/elevated, and the context explains the apartment's great view is due to its high position.",
+      "difficulty": "B2",
+      "source": "Real Estate - Apartment Features",
+      "tags": [
+        "housing",
+        "real-estate",
+        "location",
+        "city-views"
+      ],
+      "timeCreated": 1720026920
+    },
+    {
+      "id": 421,
+      "audioText": "Les traditions culturelles restent vivant dans cette communauté rurale malgré la modernisation.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Les traditions culturelles restent vivant dans cette communauté rurale malgré la modernisation.",
+        "Les traditions culturelles restent vivantes dans cette communauté rurale malgré la modernisation.",
+        "Les traditions culturelles restent vivant dans cette communauté urbaine malgré la modernisation.",
+        "Les traditions culturelles deviennent vivantes dans cette communauté rurale malgré la modernisation."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait l'erreur d'accord 'vivant' (masculin singulier) au lieu de 'vivantes' (féminin pluriel) pour s'accorder avec 'traditions' (féminin pluriel). Cette question teste l'écoute précise des erreurs grammaticales d'accord des adjectifs.",
+      "difficulty": "B1",
+      "source": "Cultural Traditions - Grammar Detection",
+      "tags": [
+        "culture",
+        "traditions",
+        "rural-communities",
+        "grammar-errors"
+      ],
+      "timeCreated": 1720026980
+    },
+    {
+      "id": 422,
+      "audioText": "Nous habitons très ______ de la gare, nous pouvons y aller à pied.",
+      "question": "Nous habitons très ______ de la gare, nous pouvons y aller à pied.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "proche",
+        "proches",
+        "près",
+        "loin"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'proche' meaning close/near. The context indicates they can walk to the station, confirming proximity. 'Proche' is invariable when used with 'très' before 'de'. The phrase 'très proche de' means very close to.",
+      "difficulty": "B2",
+      "source": "Location Description - Transportation",
+      "tags": [
+        "location",
+        "transportation",
+        "housing",
+        "proximity"
+      ],
+      "timeCreated": 1720027040
+    },
+    {
+      "id": 423,
+      "audioText": "Les négociations diplomatiques ______ aboutir à un accord si les parties acceptaient de faire des compromis.",
+      "question": "Les négociations diplomatiques ______ aboutir à un accord si les parties acceptaient de faire des compromis.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pourraient",
+        "pouvaient",
+        "pourront",
+        "peuvent"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'pourraient' (conditional of 'pouvoir'). The conditional expresses a hypothetical possibility: 'could lead to an agreement if...'. This matches the conditional structure with 'si' + imperfect ('acceptaient') in the if-clause.",
+      "difficulty": "B1",
+      "source": "Diplomatic Negotiations",
+      "tags": [
+        "diplomacy",
+        "negotiations",
+        "international-relations",
+        "compromise"
+      ],
+      "timeCreated": 1720027340
+    },
+    {
+      "id": 424,
+      "audioText": "Quand j'étais petit, mes parents ______ toujours m'emmener au parc le dimanche.",
+      "question": "What did the speaker's parents always do when he was little?",
+      "questionType": "comprehension",
+      "options": [
+        "They could always take him to the park on Sundays",
+        "They would always take him to the park on Sundays",
+        "They had to take him to the park on Sundays",
+        "They wanted to take him to the park on Sundays"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'pouvaient' (imperfect of 'pouvoir') meaning 'could/were able to'. In this context, it expresses past ability or possibility: 'mes parents pouvaient toujours m'emmener' means 'my parents could always take me'. The imperfect here shows a repeated past action.",
+      "difficulty": "B2",
+      "source": "Childhood Memories",
+      "tags": [
+        "childhood",
+        "family",
+        "memories",
+        "weekend-activities"
+      ],
+      "timeCreated": 1720027400
+    },
+    {
+      "id": 425,
+      "audioText": "Le directeur ______ sa réponse demain matin lors de la réunion.",
+      "question": "Le directeur ______ sa réponse demain matin lors de la réunion.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "donnera",
+        "donne",
+        "donnait",
+        "donnerait"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'donnera' (future of 'donner'). The future tense is used because of 'demain matin' (tomorrow morning), indicating a future action. 'Le directeur donnera sa réponse' means 'The director will give his answer.'",
+      "difficulty": "B1",
+      "source": "Business Meeting",
+      "tags": [
+        "business",
+        "meetings",
+        "workplace",
+        "decision-making"
+      ],
+      "timeCreated": 1720027460
+    },
+    {
+      "id": 426,
+      "audioText": "En ______ par la fenêtre, j'ai vu un accident de voiture.",
+      "question": "En ______ par la fenêtre, j'ai vu un accident de voiture.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "regardant",
+        "regarder",
+        "regarde",
+        "regardais"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'regardant' (present participle of 'regarder'). The construction 'en + present participle' expresses simultaneous action: 'En regardant par la fenêtre' means 'while looking out the window'. This shows that seeing the accident happened while looking out.",
+      "difficulty": "B2",
+      "source": "Accident Witness",
+      "tags": [
+        "accidents",
+        "witnessing",
+        "traffic",
+        "observation"
+      ],
+      "timeCreated": 1720027520
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-03T03:27:47.155Z",
-    "totalQuestions": 152,
-    "originalQuestions": 10,
-    "sourceQuestions": 142,
+    "compiledAt": "2025-07-04T03:52:13.216Z",
+    "totalQuestions": 228,
+    "originalQuestions": 1,
+    "sourceQuestions": 227,
     "level": "B",
-    "idRange": "200-399",
+    "idRange": "200-430",
     "difficulties": [
       "B1",
       "B2"

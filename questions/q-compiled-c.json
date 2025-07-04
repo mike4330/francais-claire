@@ -1,622 +1,6 @@
 {
   "questions": [
     {
-      "id": 400,
-      "audioText": "L'une des plus grandes entreprises publiques françaises va devoir se passer de patron parce que l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant.",
-      "question": "Why will one of France's largest public companies have to go without a CEO?",
-      "questionType": "comprehension",
-      "options": [
-        "Because the previous CEO refused to continue in their position",
-        "Because the Elysée has not yet deigned to designate a successor to the previous CEO",
-        "Because the company is facing financial difficulties",
-        "Because there are no qualified candidates available"
-      ],
-      "correct": 1,
-      "explanation": "The text states 'l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant' - the Elysée has not yet deigned/bothered to designate a successor to the previous CEO. The verb 'daigner' suggests disdain or reluctance from the presidential palace.",
-      "difficulty": "C1",
-      "source": "French Political/Corporate News",
-      "tags": [
-        "politics",
-        "corporate",
-        "leadership",
-        "public-enterprise",
-        "elysee"
-      ]
-    },
-    {
-      "id": 401,
-      "audioText": "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
-      "question": "What is ironic about the future of roadside restaurants according to the speaker?",
-      "questionType": "comprehension",
-      "options": [
-        "They have a future without truck drivers, attracting urban professionals seeking authenticity",
-        "They are closing down because truck drivers no longer eat there",
-        "They are becoming too expensive for their traditional clientele",
-        "They are losing their nostalgic charm to modernization"
-      ],
-      "correct": 0,
-      "explanation": "The speaker says 'C'est un comble, ils ont un avenir sans les chauffeurs routiers' - It's ironic/absurd that they have a future without truck drivers. The restaurants now 'attirent les bobos en quête d'authenticité' - attract bourgeois bohemians (urban professionals) seeking authenticity, replacing their original clientele.",
-      "difficulty": "C1",
-      "source": "French Cultural Commentary",
-      "tags": [
-        "culture",
-        "society",
-        "irony",
-        "gentrification",
-        "nostalgia",
-        "bobos"
-      ]
-    },
-    {
-      "id": 402,
-      "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
-      "parentQuestion": 8,
-      "question": "What did you hear?",
-      "questionType": "listening",
-      "options": [
-        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
-        "Pour que le système de santé soit durable, il faut qu'on fasse en sorte que les gens soient malades le plus tôt et le moins possible",
-        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le plus possible",
-        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient guéris le plus tard et le moins possible"
-      ],
-      "correct": 0,
-      "explanation": "The exact phrase was 'Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - for the health system to be sustainable, we must ensure people get sick as late and as little as possible.",
-      "difficulty": "C1",
-      "source": "French Healthcare Policy - Listening",
-      "tags": [
-        "healthcare",
-        "policy",
-        "has-simplified-version"
-      ]
-    },
-    {
-      "id": 403,
-      "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
-      "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
-      "questionType": "comprehension",
-      "options": [
-        "She confirmed she will definitely run for election",
-        "She has considered the possibility that she might not be able to run",
-        "She announced her withdrawal from the electoral race",
-        "She criticized the election process in her region"
-      ],
-      "correct": 1,
-      "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
-      "difficulty": "C1",
-      "source": "French Political Interview",
-      "tags": [
-        "politics",
-        "elections",
-        "deputy",
-        "candidacy",
-        "interview"
-      ]
-    },
-    {
-      "id": 405,
-      "audioText": "« Je vais m'éloigner de ce milieu nocif » : un jeune homme, membre de l'extrême droite radicale, sort de prison. L'homme de 22 ans et huit autres suspects sont soupçonnés d'avoir violemment agressé un trentenaire qui assistait à une projection contre le fascisme, dans un arrondissement parisien.",
-      "question": "What is the irony in this situation?",
-      "questionType": "comprehension",
-      "options": [
-        "A young far-right member attacks someone at an anti-fascism event, then claims to want to leave that toxic environment",
-        "The young man was imprisoned for a crime he didn't commit according to his own testimony",
-        "Nine suspects were arrested but only one was sentenced to prison time",
-        "The victim was attending a far-right meeting but was attacked by fellow extremists"
-      ],
-      "correct": 0,
-      "explanation": "The irony lies in the fact that someone from 'l'extrême droite radicale' (radical far-right) violently attacked someone at 'une projection contre le fascisme' (an anti-fascism screening), yet now claims to want to distance himself from this 'milieu nocif' (toxic environment). The contradiction between his violent ideological actions and his stated desire to reform creates the ironic situation.",
-      "difficulty": "C1",
-      "source": "French Legal/Political News",
-      "tags": [
-        "politics",
-        "extremism",
-        "legal",
-        "irony",
-        "radicalization",
-        "violence",
-        "prison"
-      ]
-    },
-    {
-      "id": 407,
-      "audioText": "Un nouveau cas d'intoxication à la bactérie Escherichia coli a été annoncé par la préfecture, portant à plus de vingt le nombre de personnes contaminées jusqu'à présent.",
-      "question": "What does the phrase 'portant à plus de vingt' indicate?",
-      "questionType": "comprehension",
-      "options": [
-        "The new case brings the total number of contaminated people to more than twenty",
-        "More than twenty people were involved in reporting the new case",
-        "The prefecture is carrying more than twenty investigation files",
-        "More than twenty bacteria strains have been identified in this case"
-      ],
-      "correct": 0,
-      "explanation": "The phrase 'portant à plus de vingt le nombre de personnes contaminées' means 'bringing to more than twenty the number of contaminated people.' This construction indicates that the new case increases the running total to more than twenty affected individuals.",
-      "difficulty": "C1",
-      "source": "French Health News",
-      "tags": [
-        "health",
-        "medical",
-        "administrative",
-        "numbers",
-        "contamination"
-      ]
-    },
-    {
-      "id": 410,
-      "audioText": "Le conseil municipal a voté pour interdire le port de signes religieux ostensibles lors des sorties scolaires, invoquant le principe de laïcité. Cette décision divise les parents d'élèves et relance le débat sur l'application de la laïcité.",
-      "question": "What principle is being invoked by the municipal council?",
-      "questionType": "comprehension",
-      "options": [
-        "The principle of religious freedom and tolerance",
-        "The principle of laïcité (French secularism) to ban conspicuous religious symbols",
-        "The principle of parental choice in educational matters",
-        "The principle of safety during school outings"
-      ],
-      "correct": 1,
-      "explanation": "The municipal council 'a voté pour interdire... invoquant le principe de laïcité' - voted to ban conspicuous religious symbols by invoking the principle of laïcité. This uniquely French concept of active secularism goes beyond separation of church and state to actively maintain religious neutrality in public spaces.",
-      "difficulty": "C1",
-      "source": "French Educational Policy",
-      "tags": [
-        "laicite",
-        "religion",
-        "education",
-        "french-values",
-        "secularism",
-        "municipal",
-        "policy",
-        "controversy"
-      ]
-    },
-    {
-      "id": 411,
-      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-      "question": "What did the French government announce?",
-      "questionType": "comprehension",
-      "options": [
-        "New health measures for hospitals",
-        "New economic measures to support businesses",
-        "New educational reforms for schools",
-        "New environmental regulations"
-      ],
-      "correct": 1,
-      "explanation": "The government announced 'nouvelles mesures économiques pour soutenir les entreprises' - new economic measures to support businesses affected by the crisis.",
-      "difficulty": "C1",
-      "source": "France24 Economics",
-      "tags": [
-        "politics",
-        "economy",
-        "government",
-        "crisis"
-      ]
-    },
-    {
-      "id": 412,
-      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-      "parentQuestion": 411,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-        "Le gouvernement français a annoncé de nouvelles mesures écologiques pour soutenir les entreprises touchées par la crise.",
-        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les étudiants touchés par la crise.",
-        "Le gouvernement français a proposé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.'",
-      "difficulty": "C1",
-      "source": "France24 Economics - Listening",
-      "tags": [
-        "politics",
-        "economy"
-      ]
-    },
-    {
-      "id": 413,
-      "audioText": "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-        "La Cour suprême américaine étend les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"justifiées\".",
-        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Joe Biden crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"nécessaires\"."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était : 'La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.' Les distracteurs modifient soit le verbe clé (limite/étend), le président mentionné (Trump/Biden), ou la justification de la Cour (excèdent/justifiées/nécessaires).",
-      "difficulty": "C2",
-      "source": "French summary of US Supreme Court news, June 2024",
-      "tags": [
-        "law",
-        "politics",
-        "us",
-        "judiciary",
-        "supreme-court",
-        "news"
-      ]
-    },
-    {
-      "id": 414,
-      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-      "question": "What is Sophie Bauer's reaction to the proposed penalties for doctors regarding medical deserts?",
-      "questionType": "comprehension",
-      "options": [
-        "She was extremely shocked that penalties would be associated if doctors feel unable to reinforce in the most complicated areas.",
-        "She supports the penalties as a way to encourage doctors to work in difficult areas.",
-        "She believes the penalties are not strict enough to solve the problem of medical deserts.",
-        "She thinks the penalties should only apply to new doctors, not experienced ones."
-      ],
-      "correct": 0,
-      "explanation": "Sophie Bauer says she was 'extrêmement choquée' (extremely shocked) to see that penalties would be associated in cases where doctors consider themselves unable to reinforce in the most complicated areas. She does not support the penalties, but rather expresses surprise and disapproval.",
-      "difficulty": "C1",
-      "source": "French Healthcare Policy - Medical Deserts",
-      "tags": [
-        "healthcare",
-        "policy",
-        "medical-deserts",
-        "penalties",
-        "doctors",
-        "reaction"
-      ]
-    },
-    {
-      "id": 416,
-      "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
-      "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
-      "questionType": "comprehension",
-      "options": [
-        "To completely ban American technology companies from operating in France",
-        "To strengthen digital sovereignty through new regulatory safeguards for data protection",
-        "To force American companies to relocate their headquarters to Europe",
-        "To create French alternatives to replace all American digital platforms"
-      ],
-      "correct": 1,
-      "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
-      "difficulty": "C2",
-      "source": "French Digital Policy",
-      "tags": [
-        "digital-sovereignty",
-        "technology",
-        "regulation",
-        "data-protection",
-        "policy",
-        "european-union",
-        "algorithms",
-        "privacy"
-      ]
-    },
-    {
-      "id": 417,
-      "audioText": "Alban Gervaise a été tué de plusieurs coups de couteaux devant une école à Marseille, en mai 2022. Ce mercredi 25 juin, son meurtrier vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison.",
-      "question": "What happened to the person who killed Alban Gervaise?",
-      "questionType": "comprehension",
-      "options": [
-        "He was declared criminally irresponsible and will not serve prison time",
-        "He was sentenced to life imprisonment",
-        "He was released immediately after the trial",
-        "He was transferred to another jurisdiction"
-      ],
-      "correct": 0,
-      "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
-      "difficulty": "C1",
-      "source": "French Legal News",
-      "tags": [
-        "crime",
-        "legal-system",
-        "criminal-responsibility",
-        "mental-health",
-        "justice"
-      ]
-    },
-    {
-      "id": 418,
-      "audioText": "Le tunnel de Tende, projet lancé en 2007, a connu de longs retards à cause d'un vol de métaux chez une société italienne et de la tempête Alex en 2020. Son ouverture, après des années d'isolement et de scandales, est vécue comme une bouffée d'oxygène pour les habitants de la vallée de la Roya et de l'Italie.",
-      "question": "What factors contributed to the delays and challenges in the Tende tunnel project, and what does its opening represent for local residents?",
-      "questionType": "comprehension",
-      "options": [
-        "Theft of metals, storm damage, and scandals delayed the project; its opening is a relief after years of isolation.",
-        "A lack of funding and political disagreements delayed the project; its opening is mainly a tourist attraction.",
-        "Environmental protests and technical errors delayed the project; its opening is controversial among residents.",
-        "The project was completed on time but was delayed for ceremonial reasons; its opening is largely symbolic."
-      ],
-      "correct": 0,
-      "explanation": "The text explains that the Tende tunnel project was delayed by a major theft of metals, the storm Alex, and scandals. Its opening is described as 'une bouffée d'oxygène' (a breath of fresh air) for residents who suffered years of isolation and frustration.",
-      "difficulty": "C1",
-      "source": "French Infrastructure News - Tende Tunnel",
-      "tags": [
-        "infrastructure",
-        "tunnel",
-        "France",
-        "Italy",
-        "delays",
-        "storm",
-        "scandal",
-        "relief"
-      ]
-    },
-    {
-      "id": 419,
-      "audioText": "Les résultats de l'enquête ont été reçus par la commission indépendante hier soir.",
-      "question": "Complétez avec le participe passé du verbe 'recevoir' : Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "reçus",
-        "reçu",
-        "recevés",
-        "recevoir"
-      ],
-      "correct": 0,
-      "explanation": "La bonne réponse est 'reçus'. Accord avec 'les résultats' (masculin pluriel). Le participe passé de 'recevoir' est 'reçu', qui s'accorde ici en nombre et en genre.",
-      "difficulty": "C1",
-      "source": "Formal News - Investigation Results",
-      "tags": [
-        "news",
-        "investigation"
-      ]
-    },
-    {
-      "id": 420,
-      "audioText": "L'exécution provisoire des peines d'inéligibilité a été prononcée 50 fois plus souvent l'an dernier qu'il y a six ans, touchant de nombreux élus de façon indéterminée. Selon un expert, cela représente une déviance profonde de l'État de droit.",
-      "question": "What concern is raised about the recent increase in provisional ineligibility sentences?",
-      "questionType": "comprehension",
-      "options": [
-        "It represents a serious deviation from the rule of law, affecting many elected officials in an indefinite manner.",
-        "It has made the legal process more efficient and transparent.",
-        "It has reduced the number of appeals by convicted officials.",
-        "It is welcomed by all political parties as a necessary reform."
-      ],
-      "correct": 0,
-      "explanation": "The text highlights that the sharp rise in provisional ineligibility sentences is seen as a profound deviation from the rule of law, with many elected officials affected in an indefinite way. This is presented as a negative development, not a positive reform.",
-      "difficulty": "C1",
-      "source": "Legal News - Points de Vue",
-      "tags": [
-        "law",
-        "ineligibility",
-        "rule-of-law",
-        "politics",
-        "justice",
-        "trend"
-      ]
-    },
-    {
-      "id": 421,
-      "audioText": "L'expertise judiciaire révèle que la contamination chimique du site industriel s'étend sur plusieurs hectares. Le rapport officiel viendra corroborer les témoignages des riverains qui dénoncent depuis des années les négligences environnementales de l'entreprise multinationale impliquée dans ce scandale sanitaire.",
-      "question": "What role will the official report play in this environmental scandal?",
-      "questionType": "comprehension",
-      "options": [
-        "It will contradict the residents' testimonies about the multinational company",
-        "It will corroborate residents' testimonies who have been denouncing environmental negligence for years",
-        "It will minimize the extent of chemical contamination discovered at the site",
-        "It will exonerate the multinational company from any environmental responsibility"
-      ],
-      "correct": 1,
-      "explanation": "The text states 'Le rapport officiel viendra corroborer les témoignages des riverains' - the official report will come to corroborate the residents' testimonies. These residents have been denouncing the multinational company's environmental negligence for years, and the report will support their claims in this health scandal.",
-      "difficulty": "C1",
-      "source": "Environmental Scandal Investigation",
-      "tags": [
-        "environmental-law",
-        "industrial-contamination",
-        "judicial-expertise",
-        "corporate-responsibility",
-        "health-scandal"
-      ]
-    },
-    {
-      "id": 422,
-      "audioText": "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-        "La communauté monastique attendait depuis des décennies la canonisation de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement national de leur ordre contemplatif.",
-        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par Rome consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était avec 'béatification' (pas canonisation), 'Vatican' (pas Rome), et 'rayonnement international' (pas national). Les distracteurs testent la précision de l'écoute sur les termes techniques religieux et les nuances institutionnelles.",
-      "difficulty": "C1",
-      "source": "Vatican Religious Affairs",
-      "tags": [
-        "religion",
-        "monasticism",
-        "vatican",
-        "beatification",
-        "spiritual-heritage",
-        "contemplative-orders"
-      ]
-    },
-    {
-      "id": 423,
-      "audioText": "Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme. Cette œuvre révèle comment les représentations littéraires occidentales ont façonné notre compréhension de l'Autre et perpétué des hiérarchies culturelles héritées de l'empire colonial.",
-      "question": "What literary approach is the speaker taking and what do they expect to find?",
-      "questionType": "comprehension",
-      "options": [
-        "A postcolonial analysis that will reveal echoes of Said's orientalism theories and show how Western representations shaped understanding of the Other",
-        "A feminist literary critique examining how women authors challenged colonial narratives",
-        "A structuralist approach that will uncover hidden meanings in colonial-era texts",
-        "A biographical study of Edward Said's influence on contemporary Middle Eastern writers"
-      ],
-      "correct": 0,
-      "explanation": "The speaker says 'Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme' - in this postcolonial analysis, I will certainly find echoes of Said's theories on orientalism. They expect to reveal how Western literary representations shaped understanding of the Other and perpetuated cultural hierarchies inherited from the colonial empire.",
-      "difficulty": "C1",
-      "source": "Literary Criticism",
-      "tags": [
-        "literature",
-        "postcolonialism",
-        "orientalism",
-        "literary-theory",
-        "cultural-analysis",
-        "edward-said"
-      ]
-    },
-    {
-      "id": 424,
-      "audioText": "Quand je regardais ces archives napoléoniennes au musée, je réalisais combien les propagandes d'époque avaient façonné la perception publique. Ces documents révèlent l'écart entre la réalité historique et les mythes patriotiques construits par le régime impérial pour légitimer ses ambitions expansionnistes en Europe.",
-      "question": "What realization did the speaker have while examining the Napoleonic archives?",
-      "questionType": "comprehension",
-      "options": [
-        "They realized how period propaganda had shaped public perception and the gap between historical reality and patriotic myths",
-        "They discovered that Napoleon's military strategies were more sophisticated than previously thought",
-        "They found evidence that contradicted established historical timelines of the imperial period",
-        "They understood that French museums had been deliberately hiding controversial documents"
-      ],
-      "correct": 0,
-      "explanation": "The speaker says 'je réalisais combien les propagandes d'époque avaient façonné la perception publique' - they realized how much period propaganda had shaped public perception. The archives revealed 'l'écart entre la réalité historique et les mythes patriotiques' - the gap between historical reality and patriotic myths constructed by the imperial regime to legitimize its expansionist ambitions.",
-      "difficulty": "C1",
-      "source": "Museum Historical Research",
-      "tags": [
-        "history",
-        "napoleon",
-        "propaganda",
-        "archives",
-        "museum",
-        "imperial-period",
-        "historical-analysis"
-      ]
-    },
-    {
-      "id": 425,
-      "audioText": "Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens. L'analyse stylistique révèle des influences clairement méditerranéennes dans les progressions d'accords, particulièrement dans les mouvements lents où la mélodie adopte des ornementations typiques de l'école napolitaine.",
-      "question": "What would a musicologist never believe about Bach's composition according to this analysis?",
-      "questionType": "comprehension",
-      "options": [
-        "That Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries",
-        "That Bach deliberately avoided Italian influences in his compositional style",
-        "That Bach was the first composer to use Mediterranean harmonic progressions",
-        "That Bach's slow movements were inferior to those of the Neapolitan school"
-      ],
-      "correct": 0,
-      "explanation": "The text states 'Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens' - A musicologist would never believe that Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries. The stylistic analysis reveals clear Mediterranean influences.",
-      "difficulty": "C1",
-      "source": "Academic Music History",
-      "tags": [
-        "music-history",
-        "bach",
-        "musicology",
-        "italian-influences",
-        "harmonic-analysis",
-        "academic-discourse"
-      ]
-    },
-    {
-      "id": 426,
-      "audioText": "Il est essentiel que j'aie terminé cette présentation stratégique avant la réunion avec le conseil d'administration. Cette analyse comparative des marchés émergents déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives.",
-      "question": "Why is it essential for the speaker to complete their strategic presentation?",
-      "questionType": "comprehension",
-      "options": [
-        "It will determine competitive positioning for the next three years and directly influence investment decisions in disruptive technologies",
-        "It contains confidential information that must be presented to government regulators",
-        "It will help them secure a promotion to a senior management position",
-        "It includes financial projections that are required for the annual audit"
-      ],
-      "correct": 0,
-      "explanation": "The speaker states that this comparative analysis of emerging markets 'déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives' - will determine our competitive positioning for the next three years and directly influence our investment decisions in disruptive technologies. Note the subjunctive 'aie' in 'il est essentiel que j'aie terminé' expressing necessity.",
-      "difficulty": "C1",
-      "source": "Corporate Strategy Meeting",
-      "tags": [
-        "career",
-        "business-strategy",
-        "board-meeting",
-        "competitive-analysis",
-        "corporate-presentation"
-      ]
-    },
-    {
-      "id": 427,
-      "audioText": "L'ambassadeur croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels entre nos nations. Il arguait que cette bureaucratie excessive entravait non seulement le tourisme mais également les collaborations académiques et scientifiques essentielles au développement de partenariats diplomatiques durables.",
-      "question": "What was the ambassador's belief about current visa restrictions and their broader impact?",
-      "questionType": "comprehension",
-      "options": [
-        "They seriously compromised intercultural exchanges and hindered tourism, academic collaborations, and diplomatic partnerships",
-        "They were necessary for national security despite some inconvenience to international travelers",
-        "They primarily affected business travelers while having minimal impact on cultural and academic exchanges",
-        "They should be further strengthened to prevent illegal immigration and protect domestic interests"
-      ],
-      "correct": 0,
-      "explanation": "The ambassador 'croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels' - firmly believed that current visa restrictions seriously compromised intercultural exchanges. He argued that this excessive bureaucracy hindered not only tourism but also academic and scientific collaborations essential for developing lasting diplomatic partnerships.",
-      "difficulty": "C1",
-      "source": "Diplomatic Relations",
-      "tags": [
-        "international-travel",
-        "diplomacy",
-        "visa-policy",
-        "intercultural-exchange",
-        "academic-collaboration",
-        "bureaucracy"
-      ]
-    },
-    {
-      "id": 428,
-      "audioText": "Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse poststructuraliste particulièrement percutante. Cette méthodologie épistémologique révolutionnaire interroge fondamentalement les présupposés idéologiques sous-jacents aux dispositifs de gouvernance supranationaux et aux mécanismes d'hégémonie culturelle perpétués par les institutions académiques traditionnelles.",
-      "question": "What methodological approach was used to challenge neoliberal economic paradigms at this interdisciplinary conference?",
-      "questionType": "comprehension",
-      "options": [
-        "A revolutionary epistemological methodology using poststructuralist analysis that fundamentally questions ideological assumptions",
-        "A classical Marxist framework analyzing class struggles within contemporary capitalism",
-        "A phenomenological approach examining lived experiences of economic inequality",
-        "A quantitative econometric model demonstrating the inefficiency of neoliberal policies"
-      ],
-      "correct": 0,
-      "explanation": "The text describes 'une méthodologie épistémologique révolutionnaire' using 'une analyse poststructuraliste' - a revolutionary epistemological methodology using poststructuralist analysis. This approach 'interroge fondamentalement les présupposés idéologiques' - fundamentally questions ideological assumptions underlying supranational governance and cultural hegemony. Note 'viens' in 'tu viens d'assister' indicates recent completion.",
-      "difficulty": "C2",
-      "source": "Academic Conference on Geopolitics",
-      "tags": [
-        "academic-discourse",
-        "geopolitics",
-        "poststructuralism",
-        "epistemology",
-        "neoliberalism",
-        "cultural-hegemony",
-        "interdisciplinary-research"
-      ]
-    },
-    {
-      "id": 429,
-      "audioText": "Ce soir, je vais préparer une poêlée de seiche avec du gingembre.",
-      "question": "Ce soir, je vais préparer une poêlée de ______ avec du gingembre.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "boeuf",
-        "seiche",
-        "poulet",
-        "porc"
-      ],
-      "correct": 1,
-      "explanation": "Le mot manquant est 'seiche'. La phrase complète est 'Ce soir, je vais préparer une poêlée de seiche avec du gingembre.' - Tonight, I am going to prepare a pan-fried cuttlefish dish with ginger. This question tests advanced culinary vocabulary: 'seiche' (cuttlefish) is specialized marine terminology, 'poêlée' refers to a sophisticated pan-frying cooking technique, and 'gingembre' (ginger) is advanced spice vocabulary appropriate for C1-level learners.",
-      "difficulty": "C1",
-      "source": "Advanced Culinary Vocabulary",
-      "tags": [
-        "food",
-        "culinary-techniques",
-        "seafood",
-        "advanced-vocabulary",
-        "gourmet-cooking"
-      ]
-    },
-    {
-      "id": 430,
-      "audioText": "L'analyse psychanalytique révèle que son père faisait preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
-      "question": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "faisait",
-        "ferait",
-        "avait fait",
-        "fait"
-      ],
-      "correct": 0,
-      "explanation": "In this complex psychological analysis, 'faisait' (imperfect of 'faire') is correct because it describes a habitual or ongoing state in the past. The expression 'faire preuve de' means 'to show/demonstrate'. The imperfect captures the enduring nature of the father's emotional rigidity as part of his character, rather than a single action.",
-      "difficulty": "C2",
-      "source": "Academic psychoanalytic discourse on intergenerational trauma",
-      "tags": [
-        "psychoanalysis",
-        "family",
-        "academic-discourse",
-        "advanced-vocabulary",
-        "intergenerational-trauma",
-        "emotions",
-        "historical-analysis"
-      ]
-    },
-    {
       "id": 431,
       "audioText": "Les déléguées diplomatiques, arrivées hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
       "question": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
@@ -1679,6 +1063,76 @@
       "timeCreated": 1719964500
     },
     {
+      "id": 475,
+      "audioText": "« Je vais m'éloigner de ce milieu nocif » : un jeune homme, membre de l'extrême droite radicale, sort de prison. L'homme de 22 ans et huit autres suspects sont soupçonnés d'avoir violemment agressé un trentenaire qui assistait à une projection contre le fascisme, dans un arrondissement parisien.",
+      "question": "What is the irony in this situation?",
+      "questionType": "comprehension",
+      "options": [
+        "A young far-right member attacks someone at an anti-fascism event, then claims to want to leave that toxic environment",
+        "The young man was imprisoned for a crime he didn't commit according to his own testimony",
+        "Nine suspects were arrested but only one was sentenced to prison time",
+        "The victim was attending a far-right meeting but was attacked by fellow extremists"
+      ],
+      "correct": 0,
+      "explanation": "The irony lies in the fact that someone from 'l'extrême droite radicale' (radical far-right) violently attacked someone at 'une projection contre le fascisme' (an anti-fascism screening), yet now claims to want to distance himself from this 'milieu nocif' (toxic environment). The contradiction between his violent ideological actions and his stated desire to reform creates the ironic situation.",
+      "difficulty": "C1",
+      "source": "French Legal/Political News",
+      "tags": [
+        "politics",
+        "extremism",
+        "legal",
+        "irony",
+        "radicalization",
+        "violence",
+        "prison"
+      ]
+    },
+    {
+      "id": 476,
+      "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
+      "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
+      "questionType": "comprehension",
+      "options": [
+        "She confirmed she will definitely run for election",
+        "She has considered the possibility that she might not be able to run",
+        "She announced her withdrawal from the electoral race",
+        "She criticized the election process in her region"
+      ],
+      "correct": 1,
+      "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
+      "difficulty": "C1",
+      "source": "French Political Interview",
+      "tags": [
+        "politics",
+        "elections",
+        "deputy",
+        "candidacy",
+        "interview"
+      ]
+    },
+    {
+      "id": 477,
+      "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+      "parentQuestion": 8,
+      "question": "What did you hear?",
+      "questionType": "listening",
+      "options": [
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+        "Pour que le système de santé soit durable, il faut qu'on fasse en sorte que les gens soient malades le plus tôt et le moins possible",
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le plus possible",
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient guéris le plus tard et le moins possible"
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - for the health system to be sustainable, we must ensure people get sick as late and as little as possible.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Listening",
+      "tags": [
+        "healthcare",
+        "policy",
+        "has-simplified-version"
+      ]
+    },
+    {
       "id": 480,
       "audioText": "Dès que j'eus terminé mon travail, je partis rejoindre mes amis au café.",
       "question": "What did the speaker do after finishing work?",
@@ -1700,15 +1154,1045 @@
         "café"
       ],
       "timeCreated": 1720051500
+    },
+    {
+      "id": 495,
+      "audioText": "Cette réforme du système de retraites pourrait transformer radicalement l'équilibre entre vie professionnelle et vieillesse. Selon l'expert en politiques sociales, elle pourrait également créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires.",
+      "question": "According to the social policy expert, what potential risks does the pension reform pose?",
+      "questionType": "comprehension",
+      "options": [
+        "It could guarantee equal pensions for all workers regardless of their career path",
+        "It could create major intergenerational inequalities without adequate compensatory measures for precarious workers",
+        "It could eliminate all forms of workplace discrimination and improve working conditions",
+        "It could reduce government spending while maintaining current benefit levels"
+      ],
+      "correct": 1,
+      "explanation": "The expert warns that the reform 'pourrait créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires' - could create major intergenerational inequalities if not accompanied by adequate compensatory measures for precarious workers. The conditional 'pourrait' expresses potential negative consequences that need to be addressed.",
+      "difficulty": "C1",
+      "source": "French Social Policy Analysis",
+      "tags": [
+        "pension-reform",
+        "social-policy",
+        "intergenerational-equity",
+        "precarious-work",
+        "policy-analysis"
+      ],
+      "timeCreated": 1751550600
+    },
+    {
+      "id": 496,
+      "audioText": "L'expertise judiciaire révèle que la contamination chimique du site industriel s'étend sur plusieurs hectares. Le rapport officiel viendra corroborer les témoignages des riverains qui dénoncent depuis des années les négligences environnementales de l'entreprise multinationale impliquée dans ce scandale sanitaire.",
+      "question": "What role will the official report play in this environmental scandal?",
+      "questionType": "comprehension",
+      "options": [
+        "It will contradict the residents' testimonies about the multinational company",
+        "It will corroborate residents' testimonies who have been denouncing environmental negligence for years",
+        "It will minimize the extent of chemical contamination discovered at the site",
+        "It will exonerate the multinational company from any environmental responsibility"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'Le rapport officiel viendra corroborer les témoignages des riverains' - the official report will come to corroborate the residents' testimonies. These residents have been denouncing the multinational company's environmental negligence for years, and the report will support their claims in this health scandal.",
+      "difficulty": "C1",
+      "source": "Environmental Scandal Investigation",
+      "tags": [
+        "environmental-law",
+        "industrial-contamination",
+        "judicial-expertise",
+        "corporate-responsibility",
+        "health-scandal"
+      ],
+      "timeCreated": 1751550700
+    },
+    {
+      "id": 497,
+      "audioText": "L'une des plus grandes entreprises publiques françaises va devoir se passer de patron parce que l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant.",
+      "question": "Why will one of France's largest public companies have to go without a CEO?",
+      "questionType": "comprehension",
+      "options": [
+        "Because the previous CEO refused to continue in their position",
+        "Because the Elysée has not yet deigned to designate a successor to the previous CEO",
+        "Because the company is facing financial difficulties",
+        "Because there are no qualified candidates available"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant' - the Elysée has not yet deigned/bothered to designate a successor to the previous CEO. The verb 'daigner' suggests disdain or reluctance from the presidential palace.",
+      "difficulty": "C1",
+      "source": "French Political/Corporate News",
+      "tags": [
+        "politics",
+        "corporate",
+        "leadership",
+        "public-enterprise",
+        "elysee"
+      ]
+    },
+    {
+      "id": 498,
+      "audioText": "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
+      "question": "What is ironic about the future of roadside restaurants according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "They have a future without truck drivers, attracting urban professionals seeking authenticity",
+        "They are closing down because truck drivers no longer eat there",
+        "They are becoming too expensive for their traditional clientele",
+        "They are losing their nostalgic charm to modernization"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'C'est un comble, ils ont un avenir sans les chauffeurs routiers' - It's ironic/absurd that they have a future without truck drivers. The restaurants now 'attirent les bobos en quête d'authenticité' - attract bourgeois bohemians (urban professionals) seeking authenticity, replacing their original clientele.",
+      "difficulty": "C1",
+      "source": "French Cultural Commentary",
+      "tags": [
+        "culture",
+        "society",
+        "irony",
+        "gentrification",
+        "nostalgia",
+        "bobos"
+      ]
+    },
+    {
+      "id": 499,
+      "audioText": "Un nouveau cas d'intoxication à la bactérie Escherichia coli a été annoncé par la préfecture, portant à plus de vingt le nombre de personnes contaminées jusqu'à présent.",
+      "question": "What does the phrase 'portant à plus de vingt' indicate?",
+      "questionType": "comprehension",
+      "options": [
+        "The new case brings the total number of contaminated people to more than twenty",
+        "More than twenty people were involved in reporting the new case",
+        "The prefecture is carrying more than twenty investigation files",
+        "More than twenty bacteria strains have been identified in this case"
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'portant à plus de vingt le nombre de personnes contaminées' means 'bringing to more than twenty the number of contaminated people.' This construction indicates that the new case increases the running total to more than twenty affected individuals.",
+      "difficulty": "C1",
+      "source": "French Health News",
+      "tags": [
+        "health",
+        "medical",
+        "administrative",
+        "numbers",
+        "contamination"
+      ]
+    },
+    {
+      "id": 502,
+      "audioText": "Le conseil municipal a voté pour interdire le port de signes religieux ostensibles lors des sorties scolaires, invoquant le principe de laïcité. Cette décision divise les parents d'élèves et relance le débat sur l'application de la laïcité.",
+      "question": "What principle is being invoked by the municipal council?",
+      "questionType": "comprehension",
+      "options": [
+        "The principle of religious freedom and tolerance",
+        "The principle of laïcité (French secularism) to ban conspicuous religious symbols",
+        "The principle of parental choice in educational matters",
+        "The principle of safety during school outings"
+      ],
+      "correct": 1,
+      "explanation": "The municipal council 'a voté pour interdire... invoquant le principe de laïcité' - voted to ban conspicuous religious symbols by invoking the principle of laïcité. This uniquely French concept of active secularism goes beyond separation of church and state to actively maintain religious neutrality in public spaces.",
+      "difficulty": "C1",
+      "source": "French Educational Policy",
+      "tags": [
+        "laicite",
+        "religion",
+        "education",
+        "french-values",
+        "secularism",
+        "municipal",
+        "policy",
+        "controversy"
+      ]
+    },
+    {
+      "id": 503,
+      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+      "question": "What did the French government announce?",
+      "questionType": "comprehension",
+      "options": [
+        "New health measures for hospitals",
+        "New economic measures to support businesses",
+        "New educational reforms for schools",
+        "New environmental regulations"
+      ],
+      "correct": 1,
+      "explanation": "The government announced 'nouvelles mesures économiques pour soutenir les entreprises' - new economic measures to support businesses affected by the crisis.",
+      "difficulty": "C1",
+      "source": "France24 Economics",
+      "tags": [
+        "politics",
+        "economy",
+        "government",
+        "crisis"
+      ]
+    },
+    {
+      "id": 504,
+      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+      "parentQuestion": 503,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures écologiques pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les étudiants touchés par la crise.",
+        "Le gouvernement français a proposé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.'",
+      "difficulty": "C1",
+      "source": "France24 Economics - Listening",
+      "tags": [
+        "politics",
+        "economy"
+      ]
+    },
+    {
+      "id": 505,
+      "audioText": "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+        "La Cour suprême américaine étend les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"justifiées\".",
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Joe Biden crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"nécessaires\"."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était : 'La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.' Les distracteurs modifient soit le verbe clé (limite/étend), le président mentionné (Trump/Biden), ou la justification de la Cour (excèdent/justifiées/nécessaires).",
+      "difficulty": "C2",
+      "source": "French summary of US Supreme Court news, June 2024",
+      "tags": [
+        "law",
+        "politics",
+        "us",
+        "judiciary",
+        "supreme-court",
+        "news"
+      ]
+    },
+    {
+      "id": 506,
+      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+      "question": "What is Sophie Bauer's reaction to the proposed penalties for doctors regarding medical deserts?",
+      "questionType": "comprehension",
+      "options": [
+        "She was extremely shocked that penalties would be associated if doctors feel unable to reinforce in the most complicated areas.",
+        "She supports the penalties as a way to encourage doctors to work in difficult areas.",
+        "She believes the penalties are not strict enough to solve the problem of medical deserts.",
+        "She thinks the penalties should only apply to new doctors, not experienced ones."
+      ],
+      "correct": 0,
+      "explanation": "Sophie Bauer says she was 'extrêmement choquée' (extremely shocked) to see that penalties would be associated in cases where doctors consider themselves unable to reinforce in the most complicated areas. She does not support the penalties, but rather expresses surprise and disapproval.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Medical Deserts",
+      "tags": [
+        "healthcare",
+        "policy",
+        "medical-deserts",
+        "penalties",
+        "doctors",
+        "reaction"
+      ]
+    },
+    {
+      "id": 507,
+      "audioText": "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
+        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre la récession.",
+        "Il serait simple de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
+        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats probants dans la lutte contre l'inflation."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.' - It would be easy to criticize this government policy, but we must acknowledge that it has produced tangible results in the fight against inflation.",
+      "difficulty": "C1",
+      "source": "Economic Policy Analysis",
+      "tags": [
+        "economics",
+        "politics",
+        "policy",
+        "inflation"
+      ],
+      "timeCreated": 1720023360
+    },
+    {
+      "id": 508,
+      "audioText": "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques sérieuses.",
+        "Cette situation est franchement bizarre : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocalisant sa production vers des pays aux normes écologiques dérisoires."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.' - This situation is frankly funny: here's a multinational that preaches environmental sustainability while relocating its production to countries with derisory ecological standards.",
+      "difficulty": "C1",
+      "source": "Corporate Environmental Analysis",
+      "tags": [
+        "environment",
+        "business",
+        "sustainability",
+        "hypocrisy"
+      ],
+      "timeCreated": 1720023420
+    },
+    {
+      "id": 509,
+      "audioText": "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en cours.",
+        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Extérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment calme, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.' - Despite the media agitation around this case, the Interior Minister remains surprisingly quiet, which fuels speculation about possible behind-the-scenes negotiations.",
+      "difficulty": "C1",
+      "source": "Political Media Analysis",
+      "tags": [
+        "politics",
+        "media",
+        "speculation",
+        "negotiations"
+      ],
+      "timeCreated": 1720023480
+    },
+    {
+      "id": 510,
+      "audioText": "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
+        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie visible.",
+        "Les conséquences de cette réforme des retraites sont particulièrement graves pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
+        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions privées, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.' - The consequences of this pension reform are particularly serious for liberal professions, who see their contributions increase substantially without obvious compensation.",
+      "difficulty": "C1",
+      "source": "Pension Reform Analysis",
+      "tags": [
+        "politics",
+        "economy",
+        "pensions",
+        "professions"
+      ],
+      "timeCreated": 1720023540
+    },
+    {
+      "id": 511,
+      "audioText": "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
+        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation scientifique.",
+        "L'impact de l'intelligence artificielle sur l'emploi représente un défi immense pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
+        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs économiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.' - The impact of artificial intelligence on employment represents an enormous challenge for political decision-makers, who must anticipate societal upheavals without slowing technological innovation.",
+      "difficulty": "C1",
+      "source": "AI Policy Discussion",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "employment",
+        "policy"
+      ],
+      "timeCreated": 1720023600
+    },
+    {
+      "id": 512,
+      "audioText": "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
+      "parentQuestion": 445,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
+        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions centrales envers les centres financiers dominants.",
+        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus riches constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
+        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles locales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait 'nations les plus pauvres', 'régions périphériques' et 'inégalités structurelles globales'. Les distracteurs changent des éléments clés : 'pauvres'/'riches', 'périphériques'/'centrales', et 'globales'/'locales'.",
+      "difficulty": "C2",
+      "source": "Economic theory and global policy analysis - Listening",
+      "tags": [
+        "economics",
+        "austerity",
+        "neoliberalism",
+        "inequality",
+        "policy-analysis"
+      ],
+      "timeCreated": 1720023660
+    },
+    {
+      "id": 513,
+      "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+      "parentQuestion": 448,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons méthodologiques.",
+        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer progressivement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+        "Cette idée révolutionnaire, bien qu'elle suscite des polémiques, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait 'controverses' (pas 'polémiques'), 'radicalement' (pas 'progressivement'), et 'épistémologiques' (pas 'méthodologiques'). Ces distinctions subtiles testent l'écoute précise à un niveau C2.",
+      "difficulty": "C2",
+      "source": "Academic Research - Listening",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "philosophy",
+        "research",
+        "innovation",
+        "epistemology"
+      ],
+      "timeCreated": 1720023720
+    },
+    {
+      "id": 514,
+      "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+      "parentQuestion": 449,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+        "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions pratiques.",
+        "Vous pensiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+        "Vous disiez toujours que les réformes sociales étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'disiez' (pas 'pensiez'), 'réformes économiques' (pas 'sociales'), et 'solutions concrètes' (pas 'pratiques'). Ces nuances testent la compréhension précise du discours politique.",
+      "difficulty": "C1",
+      "source": "Political Discourse - Listening",
+      "tags": [
+        "politics",
+        "economics",
+        "criticism",
+        "rhetoric",
+        "policy-analysis",
+        "contradictions"
+      ],
+      "timeCreated": 1720023780
+    },
+    {
+      "id": 515,
+      "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+      "parentQuestion": 450,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances diplomatiques traditionnelles.",
+        "Cette guerre commerciale entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques importantes qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'guerre économique' (pas 'commerciale'), 'répercussions... majeures' (pas 'importantes'), et 'alliances stratégiques' (pas 'diplomatiques'). Ces distinctions lexicales sont cruciales dans l'analyse géopolitique.",
+      "difficulty": "C1",
+      "source": "International Relations Analysis - Listening",
+      "tags": [
+        "politics",
+        "international-relations",
+        "economics",
+        "geopolitics",
+        "global-affairs",
+        "strategic-alliances"
+      ],
+      "timeCreated": 1720023840
+    },
+    {
+      "id": 516,
+      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+      "parentQuestion": 506,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des sanctions au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller travailler dans les zones les plus compliquées\", explique Sophie Bauer."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'choqués' (pas 'surpris'), 'pénalités' (pas 'sanctions'), et 'aller renforcer' (pas 'aller travailler'). Cette citation directe teste la précision de l'écoute dans un contexte de politique de santé.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Medical Deserts - Listening",
+      "tags": [
+        "healthcare",
+        "policy",
+        "medical-deserts",
+        "penalties",
+        "doctors",
+        "reaction"
+      ],
+      "timeCreated": 1720023900
+    },
+    {
+      "id": 517,
+      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+      "parentQuestion": 503,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises affectées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures financières pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a présenté de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'annoncé' (pas 'présenté'), 'mesures économiques' (pas 'financières'), et 'touchées' (pas 'affectées'). Ces nuances lexicales sont importantes dans le discours politique et économique.",
+      "difficulty": "C1",
+      "source": "France24 Economics - Listening",
+      "tags": [
+        "politics",
+        "economy",
+        "government",
+        "crisis"
+      ],
+      "timeCreated": 1720023960
+    },
+    {
+      "id": 518,
+      "audioText": "La suite de cet événement diplomatique sans précédent demeure incertaine, les négociateurs étant confrontés à des divergences fondamentales qui remettent en question l'architecture même des accords internationaux établis depuis plusieurs décennies.",
+      "question": "What makes the continuation of this diplomatic event uncertain?",
+      "questionType": "comprehension",
+      "options": [
+        "Fundamental disagreements that question the very architecture of established international agreements",
+        "Technical difficulties in organizing the meeting venues and logistics",
+        "Language barriers preventing effective communication between delegates",
+        "Budget constraints limiting the scope of potential agreements"
+      ],
+      "correct": 0,
+      "explanation": "The text indicates that 'la suite' (the continuation/what follows) remains uncertain because negotiators face 'des divergences fondamentales qui remettent en question l'architecture même des accords internationaux' - fundamental disagreements that question the very architecture of international agreements. 'Suite' here means continuation or what follows next.",
+      "difficulty": "C2",
+      "source": "International Diplomacy",
+      "tags": [
+        "diplomacy",
+        "international-relations",
+        "negotiations",
+        "political-uncertainty",
+        "global-agreements"
+      ],
+      "timeCreated": 1720025220
+    },
+    {
+      "id": 520,
+      "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
+      "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
+      "questionType": "comprehension",
+      "options": [
+        "To completely ban American technology companies from operating in France",
+        "To strengthen digital sovereignty through new regulatory safeguards for data protection",
+        "To force American companies to relocate their headquarters to Europe",
+        "To create French alternatives to replace all American digital platforms"
+      ],
+      "correct": 1,
+      "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
+      "difficulty": "C2",
+      "source": "French Digital Policy",
+      "tags": [
+        "digital-sovereignty",
+        "technology",
+        "regulation",
+        "data-protection",
+        "policy",
+        "european-union",
+        "algorithms",
+        "privacy"
+      ]
+    },
+    {
+      "id": 521,
+      "audioText": "Alban Gervaise a été tué de plusieurs coups de couteaux devant une école à Marseille, en mai 2022. Ce mercredi 25 juin, son meurtrier vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison.",
+      "question": "What happened to the person who killed Alban Gervaise?",
+      "questionType": "comprehension",
+      "options": [
+        "He was declared criminally irresponsible and will not serve prison time",
+        "He was sentenced to life imprisonment",
+        "He was released immediately after the trial",
+        "He was transferred to another jurisdiction"
+      ],
+      "correct": 0,
+      "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
+      "difficulty": "C1",
+      "source": "French Legal News",
+      "tags": [
+        "crime",
+        "legal-system",
+        "criminal-responsibility",
+        "mental-health",
+        "justice"
+      ]
+    },
+    {
+      "id": 522,
+      "audioText": "Le tunnel de Tende, projet lancé en 2007, a connu de longs retards à cause d'un vol de métaux chez une société italienne et de la tempête Alex en 2020. Son ouverture, après des années d'isolement et de scandales, est vécue comme une bouffée d'oxygène pour les habitants de la vallée de la Roya et de l'Italie.",
+      "question": "What factors contributed to the delays and challenges in the Tende tunnel project, and what does its opening represent for local residents?",
+      "questionType": "comprehension",
+      "options": [
+        "Theft of metals, storm damage, and scandals delayed the project; its opening is a relief after years of isolation.",
+        "A lack of funding and political disagreements delayed the project; its opening is mainly a tourist attraction.",
+        "Environmental protests and technical errors delayed the project; its opening is controversial among residents.",
+        "The project was completed on time but was delayed for ceremonial reasons; its opening is largely symbolic."
+      ],
+      "correct": 0,
+      "explanation": "The text explains that the Tende tunnel project was delayed by a major theft of metals, the storm Alex, and scandals. Its opening is described as 'une bouffée d'oxygène' (a breath of fresh air) for residents who suffered years of isolation and frustration.",
+      "difficulty": "C1",
+      "source": "French Infrastructure News - Tende Tunnel",
+      "tags": [
+        "infrastructure",
+        "tunnel",
+        "France",
+        "Italy",
+        "delays",
+        "storm",
+        "scandal",
+        "relief"
+      ]
+    },
+    {
+      "id": 523,
+      "audioText": "Les résultats de l'enquête ont été reçus par la commission indépendante hier soir.",
+      "question": "Complétez avec le participe passé du verbe 'recevoir' : Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "reçus",
+        "reçu",
+        "recevés",
+        "recevoir"
+      ],
+      "correct": 0,
+      "explanation": "La bonne réponse est 'reçus'. Accord avec 'les résultats' (masculin pluriel). Le participe passé de 'recevoir' est 'reçu', qui s'accorde ici en nombre et en genre.",
+      "difficulty": "C1",
+      "source": "Formal News - Investigation Results",
+      "tags": [
+        "news",
+        "investigation"
+      ]
+    },
+    {
+      "id": 524,
+      "audioText": "L'exécution provisoire des peines d'inéligibilité a été prononcée 50 fois plus souvent l'an dernier qu'il y a six ans, touchant de nombreux élus de façon indéterminée. Selon un expert, cela représente une déviance profonde de l'État de droit.",
+      "question": "What concern is raised about the recent increase in provisional ineligibility sentences?",
+      "questionType": "comprehension",
+      "options": [
+        "It represents a serious deviation from the rule of law, affecting many elected officials in an indefinite manner.",
+        "It has made the legal process more efficient and transparent.",
+        "It has reduced the number of appeals by convicted officials.",
+        "It is welcomed by all political parties as a necessary reform."
+      ],
+      "correct": 0,
+      "explanation": "The text highlights that the sharp rise in provisional ineligibility sentences is seen as a profound deviation from the rule of law, with many elected officials affected in an indefinite way. This is presented as a negative development, not a positive reform.",
+      "difficulty": "C1",
+      "source": "Legal News - Points de Vue",
+      "tags": [
+        "law",
+        "ineligibility",
+        "rule-of-law",
+        "politics",
+        "justice",
+        "trend"
+      ]
+    },
+    {
+      "id": 526,
+      "audioText": "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la canonisation de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement national de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par Rome consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était avec 'béatification' (pas canonisation), 'Vatican' (pas Rome), et 'rayonnement international' (pas national). Les distracteurs testent la précision de l'écoute sur les termes techniques religieux et les nuances institutionnelles.",
+      "difficulty": "C1",
+      "source": "Vatican Religious Affairs",
+      "tags": [
+        "religion",
+        "monasticism",
+        "vatican",
+        "beatification",
+        "spiritual-heritage",
+        "contemplative-orders"
+      ]
+    },
+    {
+      "id": 527,
+      "audioText": "Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme. Cette œuvre révèle comment les représentations littéraires occidentales ont façonné notre compréhension de l'Autre et perpétué des hiérarchies culturelles héritées de l'empire colonial.",
+      "question": "What literary approach is the speaker taking and what do they expect to find?",
+      "questionType": "comprehension",
+      "options": [
+        "A postcolonial analysis that will reveal echoes of Said's orientalism theories and show how Western representations shaped understanding of the Other",
+        "A feminist literary critique examining how women authors challenged colonial narratives",
+        "A structuralist approach that will uncover hidden meanings in colonial-era texts",
+        "A biographical study of Edward Said's influence on contemporary Middle Eastern writers"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme' - in this postcolonial analysis, I will certainly find echoes of Said's theories on orientalism. They expect to reveal how Western literary representations shaped understanding of the Other and perpetuated cultural hierarchies inherited from the colonial empire.",
+      "difficulty": "C1",
+      "source": "Literary Criticism",
+      "tags": [
+        "literature",
+        "postcolonialism",
+        "orientalism",
+        "literary-theory",
+        "cultural-analysis",
+        "edward-said"
+      ]
+    },
+    {
+      "id": 528,
+      "audioText": "Quand je regardais ces archives napoléoniennes au musée, je réalisais combien les propagandes d'époque avaient façonné la perception publique. Ces documents révèlent l'écart entre la réalité historique et les mythes patriotiques construits par le régime impérial pour légitimer ses ambitions expansionnistes en Europe.",
+      "question": "What realization did the speaker have while examining the Napoleonic archives?",
+      "questionType": "comprehension",
+      "options": [
+        "They realized how period propaganda had shaped public perception and the gap between historical reality and patriotic myths",
+        "They discovered that Napoleon's military strategies were more sophisticated than previously thought",
+        "They found evidence that contradicted established historical timelines of the imperial period",
+        "They understood that French museums had been deliberately hiding controversial documents"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says 'je réalisais combien les propagandes d'époque avaient façonné la perception publique' - they realized how much period propaganda had shaped public perception. The archives revealed 'l'écart entre la réalité historique et les mythes patriotiques' - the gap between historical reality and patriotic myths constructed by the imperial regime to legitimize its expansionist ambitions.",
+      "difficulty": "C1",
+      "source": "Museum Historical Research",
+      "tags": [
+        "history",
+        "napoleon",
+        "propaganda",
+        "archives",
+        "museum",
+        "imperial-period",
+        "historical-analysis"
+      ]
+    },
+    {
+      "id": 529,
+      "audioText": "Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens. L'analyse stylistique révèle des influences clairement méditerranéennes dans les progressions d'accords, particulièrement dans les mouvements lents où la mélodie adopte des ornementations typiques de l'école napolitaine.",
+      "question": "What would a musicologist never believe about Bach's composition according to this analysis?",
+      "questionType": "comprehension",
+      "options": [
+        "That Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries",
+        "That Bach deliberately avoided Italian influences in his compositional style",
+        "That Bach was the first composer to use Mediterranean harmonic progressions",
+        "That Bach's slow movements were inferior to those of the Neapolitan school"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens' - A musicologist would never believe that Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries. The stylistic analysis reveals clear Mediterranean influences.",
+      "difficulty": "C1",
+      "source": "Academic Music History",
+      "tags": [
+        "music-history",
+        "bach",
+        "musicology",
+        "italian-influences",
+        "harmonic-analysis",
+        "academic-discourse"
+      ]
+    },
+    {
+      "id": 530,
+      "audioText": "Il est essentiel que j'aie terminé cette présentation stratégique avant la réunion avec le conseil d'administration. Cette analyse comparative des marchés émergents déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives.",
+      "question": "Why is it essential for the speaker to complete their strategic presentation?",
+      "questionType": "comprehension",
+      "options": [
+        "It will determine competitive positioning for the next three years and directly influence investment decisions in disruptive technologies",
+        "It contains confidential information that must be presented to government regulators",
+        "It will help them secure a promotion to a senior management position",
+        "It includes financial projections that are required for the annual audit"
+      ],
+      "correct": 0,
+      "explanation": "The speaker states that this comparative analysis of emerging markets 'déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives' - will determine our competitive positioning for the next three years and directly influence our investment decisions in disruptive technologies. Note the subjunctive 'aie' in 'il est essentiel que j'aie terminé' expressing necessity.",
+      "difficulty": "C1",
+      "source": "Corporate Strategy Meeting",
+      "tags": [
+        "career",
+        "business-strategy",
+        "board-meeting",
+        "competitive-analysis",
+        "corporate-presentation"
+      ]
+    },
+    {
+      "id": 531,
+      "audioText": "Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires et sa vision stratégique à long terme.",
+      "question": "What makes this innovative company remarkable?",
+      "questionType": "comprehension",
+      "options": [
+        "Its ability to radically transform the tech industry through revolutionary AI algorithms and long-term strategic vision",
+        "Its capacity to reduce production costs while maintaining high quality standards",
+        "Its skill in recruiting the most talented engineers from prestigious universities",
+        "Its potential to expand internationally through strategic partnerships and acquisitions"
+      ],
+      "correct": 0,
+      "explanation": "The text states the company 'est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires et sa vision stratégique à long terme' - is capable of radically transforming the tech industry thanks to its revolutionary AI algorithms and long-term strategic vision. 'Capable' means able/capable of doing something.",
+      "difficulty": "C1",
+      "source": "Technology Innovation",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "innovation",
+        "business-strategy",
+        "industry-transformation"
+      ],
+      "timeCreated": 1720025700
+    },
+    {
+      "id": 532,
+      "audioText": "Les explications du professeur étaient parfaitement clair et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Les explications du professeur étaient parfaitement clair et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement.",
+        "Les explications du professeur étaient parfaitement claires et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement.",
+        "Les explications du professeur étaient parfaitement clair et tous les étudiants ont compris les concepts complexes de physique quantique rapidement.",
+        "Les explications du professeur étaient parfaitement précises et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait l'erreur d'accord 'clair' (masculin) au lieu de 'claires' (féminin pluriel) pour s'accorder avec 'explications'. Cette question teste l'écoute précise des erreurs grammaticales subtiles au niveau C1.",
+      "difficulty": "C1",
+      "source": "Academic - Physics Education - Grammar Detection",
+      "tags": [
+        "education",
+        "physics",
+        "academic",
+        "grammar-errors",
+        "adjective-agreement"
+      ],
+      "timeCreated": 1720026320
+    },
+    {
+      "id": 533,
+      "audioText": "L'analyse socio-économique révèle que les populations les plus pauvre subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'analyse socio-économique révèle que les populations les plus pauvre subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
+        "L'analyse socio-économique révèle que les populations les plus pauvres subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
+        "L'analyse socio-économique révèle que les populations les plus pauvre subissent de manière disproportionnée les conséquences du réchauffement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
+        "L'analyse socio-économique révèle que les populations les plus vulnérables subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait l'erreur d'accord 'pauvre' (singulier) au lieu de 'pauvres' (pluriel) pour s'accorder avec 'populations' (pluriel). Cette question de niveau C2 teste l'écoute précise des erreurs grammaticales subtiles dans un contexte académique complexe sur les inégalités socio-économiques et le changement climatique.",
+      "difficulty": "C2",
+      "source": "Academic - Socio-economic Analysis - Grammar Detection",
+      "tags": [
+        "socio-economics",
+        "climate-change",
+        "inequality",
+        "academic-discourse",
+        "grammar-errors"
+      ],
+      "timeCreated": 1720026680
+    },
+    {
+      "id": 534,
+      "audioText": "L'ambassadeur croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels entre nos nations. Il arguait que cette bureaucratie excessive entravait non seulement le tourisme mais également les collaborations académiques et scientifiques essentielles au développement de partenariats diplomatiques durables.",
+      "question": "What was the ambassador's belief about current visa restrictions and their broader impact?",
+      "questionType": "comprehension",
+      "options": [
+        "They seriously compromised intercultural exchanges and hindered tourism, academic collaborations, and diplomatic partnerships",
+        "They were necessary for national security despite some inconvenience to international travelers",
+        "They primarily affected business travelers while having minimal impact on cultural and academic exchanges",
+        "They should be further strengthened to prevent illegal immigration and protect domestic interests"
+      ],
+      "correct": 0,
+      "explanation": "The ambassador 'croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels' - firmly believed that current visa restrictions seriously compromised intercultural exchanges. He argued that this excessive bureaucracy hindered not only tourism but also academic and scientific collaborations essential for developing lasting diplomatic partnerships.",
+      "difficulty": "C1",
+      "source": "Diplomatic Relations",
+      "tags": [
+        "international-travel",
+        "diplomacy",
+        "visa-policy",
+        "intercultural-exchange",
+        "academic-collaboration",
+        "bureaucracy"
+      ]
+    },
+    {
+      "id": 535,
+      "audioText": "Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse poststructuraliste particulièrement percutante. Cette méthodologie épistémologique révolutionnaire interroge fondamentalement les présupposés idéologiques sous-jacents aux dispositifs de gouvernance supranationaux et aux mécanismes d'hégémonie culturelle perpétués par les institutions académiques traditionnelles.",
+      "question": "What methodological approach was used to challenge neoliberal economic paradigms at this interdisciplinary conference?",
+      "questionType": "comprehension",
+      "options": [
+        "A revolutionary epistemological methodology using poststructuralist analysis that fundamentally questions ideological assumptions",
+        "A classical Marxist framework analyzing class struggles within contemporary capitalism",
+        "A phenomenological approach examining lived experiences of economic inequality",
+        "A quantitative econometric model demonstrating the inefficiency of neoliberal policies"
+      ],
+      "correct": 0,
+      "explanation": "The text describes 'une méthodologie épistémologique révolutionnaire' using 'une analyse poststructuraliste' - a revolutionary epistemological methodology using poststructuralist analysis. This approach 'interroge fondamentalement les présupposés idéologiques' - fundamentally questions ideological assumptions underlying supranational governance and cultural hegemony. Note 'viens' in 'tu viens d'assister' indicates recent completion.",
+      "difficulty": "C2",
+      "source": "Academic Conference on Geopolitics",
+      "tags": [
+        "academic-discourse",
+        "geopolitics",
+        "poststructuralism",
+        "epistemology",
+        "neoliberalism",
+        "cultural-hegemony",
+        "interdisciplinary-research"
+      ]
+    },
+    {
+      "id": 536,
+      "audioText": "Ce soir, je vais préparer une poêlée de seiche avec du gingembre.",
+      "question": "Ce soir, je vais préparer une poêlée de ______ avec du gingembre.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "boeuf",
+        "seiche",
+        "poulet",
+        "porc"
+      ],
+      "correct": 1,
+      "explanation": "Le mot manquant est 'seiche'. La phrase complète est 'Ce soir, je vais préparer une poêlée de seiche avec du gingembre.' - Tonight, I am going to prepare a pan-fried cuttlefish dish with ginger. This question tests advanced culinary vocabulary: 'seiche' (cuttlefish) is specialized marine terminology, 'poêlée' refers to a sophisticated pan-frying cooking technique, and 'gingembre' (ginger) is advanced spice vocabulary appropriate for C1-level learners.",
+      "difficulty": "C1",
+      "source": "Advanced Culinary Vocabulary",
+      "tags": [
+        "food",
+        "culinary-techniques",
+        "seafood",
+        "advanced-vocabulary",
+        "gourmet-cooking"
+      ]
+    },
+    {
+      "id": 537,
+      "audioText": "L'analyse psychanalytique révèle que son père faisait preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
+      "question": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "faisait",
+        "ferait",
+        "avait fait",
+        "fait"
+      ],
+      "correct": 0,
+      "explanation": "In this complex psychological analysis, 'faisait' (imperfect of 'faire') is correct because it describes a habitual or ongoing state in the past. The expression 'faire preuve de' means 'to show/demonstrate'. The imperfect captures the enduring nature of the father's emotional rigidity as part of his character, rather than a single action.",
+      "difficulty": "C2",
+      "source": "Academic psychoanalytic discourse on intergenerational trauma",
+      "tags": [
+        "psychoanalysis",
+        "family",
+        "academic-discourse",
+        "advanced-vocabulary",
+        "intergenerational-trauma",
+        "emotions",
+        "historical-analysis"
+      ]
+    },
+    {
+      "id": 538,
+      "audioText": "L'herméneutique phénoménologique révèle que ces zones gris de l'interprétation textuelle nécessitent une approche méthodologique plus nuancée, intégrant les dimensions sociopolitiques et épistémologiques inhérentes aux processus de signification contemporains.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'herméneutique phénoménologique révèle que ces zones gris de l'interprétation textuelle nécessitent une approche méthodologique plus nuancée, intégrant les dimensions sociopolitiques et épistémologiques inhérentes aux processus de signification contemporains.",
+        "L'herméneutique phénoménologique révèle que ces zones grises de l'interprétation textuelle nécessitent une approche méthodologique plus nuancée, intégrant les dimensions sociopolitiques et épistémologiques inhérentes aux processus de signification contemporains.",
+        "L'herméneutique phénoménologique révèle que ces zones gris de l'interprétation contextuelle nécessitent une approche méthodologique plus nuancée, intégrant les dimensions sociopolitiques et épistémologiques inhérentes aux processus de signification contemporains.",
+        "L'herméneutique phénoménologique révèle que ces zones floues de l'interprétation textuelle nécessitent une approche méthodologique plus nuancée, intégrant les dimensions sociopolitiques et épistémologiques inhérentes aux processus de signification contemporains."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait l'erreur d'accord 'gris' (masculin pluriel) au lieu de 'grises' (féminin pluriel) pour s'accorder avec 'zones' (féminin pluriel). Cette question de niveau C2 teste l'écoute précise des erreurs grammaticales subtiles dans un contexte académique très spécialisé sur l'herméneutique et la phénoménologie.",
+      "difficulty": "C2",
+      "source": "Academic - Hermeneutics and Phenomenology - Grammar Detection",
+      "tags": [
+        "philosophy",
+        "hermeneutics",
+        "phenomenology",
+        "academic-discourse",
+        "grammar-errors"
+      ],
+      "timeCreated": 1720027100
+    },
+    {
+      "id": 539,
+      "audioText": "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaire dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaire dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
+        "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaires dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
+        "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaire dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la bipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
+        "L'analyse géostratégique contemporaine souligne l'importance croissante des stratégies militaires dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait l'erreur d'accord 'militaire' (singulier) au lieu de 'militaires' (pluriel) pour s'accorder avec 'alliances' (pluriel). Cette question de niveau C2 teste l'écoute précise des erreurs grammaticales subtiles dans un contexte académique très spécialisé sur l'analyse géostratégique et les relations internationales.",
+      "difficulty": "C2",
+      "source": "Academic - Geostrategy and International Relations - Grammar Detection",
+      "tags": [
+        "geopolitics",
+        "international-relations",
+        "military-strategy",
+        "academic-discourse",
+        "grammar-errors"
+      ],
+      "timeCreated": 1720027160
+    },
+    {
+      "id": 540,
+      "audioText": "La spécialiste en neurosciences cognitives a été ______ à témoigner devant la commission parlementaire sur les implications éthiques de l'intelligence artificielle dans le domaine médical.",
+      "question": "La spécialiste en neurosciences cognitives a été ______ à témoigner devant la commission parlementaire sur les implications éthiques de l'intelligence artificielle dans le domaine médical.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "appelée",
+        "appelé",
+        "appelle",
+        "appelant"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'appelée' (feminine past participle of 'appeler'). The passive construction 'a été appelée' means 'was called/summoned'. The past participle agrees with the feminine subject 'la spécialiste', hence 'appelée' (feminine singular).",
+      "difficulty": "C1",
+      "source": "Parliamentary Commission - AI Ethics",
+      "tags": [
+        "neuroscience",
+        "artificial-intelligence",
+        "medical-ethics",
+        "parliamentary-proceedings",
+        "expert-testimony"
+      ],
+      "timeCreated": 1720027580
+    },
+    {
+      "id": 541,
+      "audioText": "______ ! Tu ne peux pas traverser maintenant, le feu est rouge.",
+      "question": "______ ! Tu ne peux pas traverser maintenant, le feu est rouge.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "Arrête",
+        "Arrêtes",
+        "Arrêter",
+        "Arrêtant"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'Arrête' (2nd person singular imperative of 'arrêter'). The imperative mood is used for commands and instructions. 'Arrête!' means 'Stop!' and is the informal command form used to tell someone to stop doing something immediately.",
+      "difficulty": "C1",
+      "source": "Traffic Safety - Emergency Commands",
+      "tags": [
+        "traffic-safety",
+        "emergency-commands",
+        "pedestrian-safety",
+        "urban-navigation"
+      ],
+      "timeCreated": 1720027640
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-03T03:27:47.158Z",
-    "totalQuestions": 71,
-    "originalQuestions": 7,
-    "sourceQuestions": 65,
+    "compiledAt": "2025-07-04T03:52:13.219Z",
+    "totalQuestions": 91,
+    "originalQuestions": 1,
+    "sourceQuestions": 91,
     "level": "C",
-    "idRange": "400-499",
+    "idRange": "431-603",
     "difficulties": [
       "C1",
       "C2"

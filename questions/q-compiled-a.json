@@ -21,6 +21,212 @@
       ]
     },
     {
+      "id": 2,
+      "audioText": "J'attendais le bus depuis vingt minutes.",
+      "question": "J'______ le bus depuis vingt minutes.",
+      "questionType": "FIB-reading",
+      "options": [
+        "attendais",
+        "attends",
+        "attendrai",
+        "attende"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'attendais' (imperfect tense of 'attendre'). The imperfect expresses a continuous action in the past: 'I was waiting for the bus for twenty minutes.'",
+      "difficulty": "A2",
+      "source": "Public Transportation",
+      "tags": [
+        "transportation",
+        "waiting",
+        "routine"
+      ],
+      "timeCreated": 1720051200
+    },
+    {
+      "id": 3,
+      "audioText": "Mon frère est venu me voir hier après le travail.",
+      "question": "What did the speaker's brother do yesterday?",
+      "questionType": "comprehension",
+      "options": [
+        "He came to see the speaker after work",
+        "He called the speaker after work",
+        "He visited their parents after work",
+        "He went to work with the speaker"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Mon frère est venu me voir hier après le travail' - My brother came to see me yesterday after work. 'Venu' is the past participle of 'venir' (to come), used here in the passé composé.",
+      "difficulty": "A2",
+      "source": "Family Visit",
+      "tags": [
+        "family",
+        "visits",
+        "work",
+        "daily-routine"
+      ],
+      "timeCreated": 1720051260
+    },
+    {
+      "id": 4,
+      "audioText": "Tu trouves que ce restaurant est trop cher ?",
+      "question": "Tu ______ que ce restaurant est trop cher ?",
+      "questionType": "FIB-reading",
+      "options": [
+        "trouves",
+        "trouve",
+        "trouvez",
+        "trouvais"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'trouves' (2nd person singular present of 'trouver'). In French, 'tu trouves' means 'do you think/find'. This is the informal 'you' form asking for someone's opinion about the restaurant being too expensive.",
+      "difficulty": "A2",
+      "source": "Restaurant Opinion",
+      "tags": [
+        "restaurant",
+        "opinion",
+        "prices",
+        "conversation"
+      ],
+      "timeCreated": 1720051320
+    },
+    {
+      "id": 5,
+      "audioText": "Les enfants passent beaucoup de temps devant la télévision.",
+      "question": "Les enfants ______ beaucoup de temps devant la télévision.",
+      "questionType": "FIB-reading",
+      "options": [
+        "passent",
+        "passe",
+        "passez",
+        "passons"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'passent' (3rd person plural present of 'passer'). Since the subject is 'les enfants' (plural), we need the plural form 'passent' meaning 'the children spend a lot of time in front of the television.'",
+      "difficulty": "A2",
+      "source": "Children's Screen Time",
+      "tags": [
+        "children",
+        "television",
+        "screen-time",
+        "family"
+      ],
+      "timeCreated": 1720051440
+    },
+    {
+      "id": 6,
+      "audioText": "Qu'est-ce que tu feras ce weekend ?",
+      "question": "Qu'est-ce que tu ______ ce weekend ?",
+      "questionType": "FIB-reading",
+      "options": [
+        "feras",
+        "fais",
+        "faisais",
+        "ferais"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'feras' (future tense of 'faire'). The question asks 'What will you do this weekend?' The future tense is used because the weekend is a future time period.",
+      "difficulty": "A2",
+      "source": "Weekend Plans",
+      "tags": [
+        "weekend",
+        "plans",
+        "future",
+        "conversation"
+      ],
+      "timeCreated": 1720051680
+    },
+    {
+      "id": 7,
+      "audioText": "Les scientifiques savent que le changement climatique menace notre planète.",
+      "question": "Les scientifiques ______ que le changement climatique menace notre planète.",
+      "questionType": "FIB-reading",
+      "options": [
+        "savent",
+        "sait",
+        "savez",
+        "savons"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'savent' (3rd person plural present of 'savoir'). Since the subject is 'les scientifiques' (plural), we need 'savent': 'Scientists know that climate change threatens our planet.'",
+      "difficulty": "A2",
+      "source": "Climate Science",
+      "tags": [
+        "environment",
+        "science",
+        "climate-change",
+        "research"
+      ],
+      "timeCreated": 1720051920
+    },
+    {
+      "id": 9,
+      "audioText": "Quand tu vis un match de football, tu ressens toujours beaucoup d'émotions.",
+      "question": "What happens when you watch a football match?",
+      "questionType": "comprehension",
+      "options": [
+        "You always feel a lot of emotions",
+        "You usually fall asleep quickly",
+        "You prefer to read a book instead",
+        "You often leave before the end"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Quand tu vis un match de football, tu ressens toujours beaucoup d'émotions' - When you watch a football match, you always feel a lot of emotions. 'Vis' here is the present tense of 'voir' (to see/watch).",
+      "difficulty": "A2",
+      "source": "Sports Viewing",
+      "tags": [
+        "sports",
+        "football",
+        "emotions",
+        "entertainment"
+      ],
+      "timeCreated": 1720051980
+    },
+    {
+      "id": 10,
+      "audioText": "Je pourrai aller au cinéma ce soir si je finis mon travail à temps.",
+      "question": "Je ______ aller au cinéma ce soir si je finis mon travail à temps.",
+      "questionType": "FIB-reading",
+      "options": [
+        "pourrai",
+        "peux",
+        "pouvais",
+        "pourrais"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'pourrai' (future tense of 'pouvoir'). It expresses future possibility: 'I will be able to go to the cinema tonight if I finish my work on time.'",
+      "difficulty": "A2",
+      "source": "Entertainment Plans",
+      "tags": [
+        "entertainment",
+        "cinema",
+        "plans",
+        "work-life-balance"
+      ],
+      "timeCreated": 1720052040
+    },
+    {
+      "id": 11,
+      "audioText": "J'aime me promener dans ce parc tranquille pour me détendre après le travail.",
+      "question": "J'aime me promener dans ce parc ______ pour me détendre après le travail.",
+      "questionType": "FIB-reading",
+      "options": [
+        "tranquille",
+        "bruyant",
+        "animé",
+        "moderne"
+      ],
+      "correct": 0,
+      "explanation": "The correct word is 'tranquille' (calm/quiet). The sentence means 'I like to walk in this quiet park to relax after work.' A tranquil environment is perfect for relaxation and unwinding.",
+      "difficulty": "A2",
+      "source": "Leisure Activities",
+      "tags": [
+        "leisure",
+        "parks",
+        "relaxation",
+        "work-life-balance"
+      ],
+      "timeCreated": 1720052340
+    },
+    {
       "id": 21,
       "audioText": "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
       "parentQuestion": 320,
@@ -2640,13 +2846,483 @@
         "market"
       ],
       "timeCreated": 1720053060
+    },
+    {
+      "id": 143,
+      "audioText": "Ce point sur la carte montre notre hôtel.",
+      "question": "What does the point on the map show?",
+      "questionType": "comprehension",
+      "options": [
+        "The restaurant",
+        "Our hotel",
+        "The train station",
+        "The shopping center"
+      ],
+      "correct": 1,
+      "explanation": "The French sentence 'Ce point sur la carte montre notre hôtel' means 'This point on the map shows our hotel.' The key phrase is 'montre notre hôtel' (shows our hotel).",
+      "difficulty": "A2",
+      "source": "Travel context - map navigation",
+      "tags": [
+        "travel",
+        "navigation",
+        "accommodation",
+        "maps"
+      ],
+      "timeCreated": 1735902100
+    },
+    {
+      "id": 144,
+      "audioText": "Ma fille aime les livres.",
+      "question": "What does my daughter like?",
+      "questionType": "comprehension",
+      "options": [
+        "Movies",
+        "Books",
+        "Music",
+        "Games"
+      ],
+      "correct": 1,
+      "explanation": "The French sentence 'Ma fille aime les livres' means 'My daughter likes books.' The key phrase is 'aime les livres' (likes books).",
+      "difficulty": "A1",
+      "source": "Family context - children's preferences",
+      "tags": [
+        "family",
+        "children",
+        "hobbies",
+        "reading"
+      ],
+      "timeCreated": 1735902200
+    },
+    {
+      "id": 145,
+      "audioText": "Je mets toujours mes gants avant de jardiner pour protéger mes mains.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Je mets toujours mes gants avant de jardiner pour protéger mes mains.",
+        "Je mets toujours mes gants avant de jardiner pour protéger mes pieds.",
+        "Je mets toujours mes chaussures avant de jardiner pour protéger mes mains.",
+        "Je mets toujours mes gants après de jardiner pour protéger mes mains."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Je mets toujours mes gants avant de jardiner pour protéger mes mains.' - I always put on my gloves before gardening to protect my hands. 'Mets' is the 1st person singular present form of 'mettre'.",
+      "difficulty": "A2",
+      "source": "Gardening Activity",
+      "tags": [
+        "hobbies",
+        "gardening",
+        "protection"
+      ],
+      "timeCreated": 1720022460
+    },
+    {
+      "id": 146,
+      "audioText": "Tu pars en vacances demain matin ou tu restes encore quelques jours ici avec nous ?",
+      "question": "Tu ______ en vacances demain matin ou tu restes encore quelques jours ici avec nous ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pars",
+        "parts",
+        "partis",
+        "partir"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'pars' (you leave/go) - the second person singular present tense of 'partir'. The sentence asks 'Are you leaving on vacation tomorrow morning or are you staying a few more days here with us?' Note that 'parts' with 't' is incorrect; the correct form is 'pars' without 't' for the verb 'partir'.",
+      "difficulty": "A2",
+      "source": "Family Vacation Planning",
+      "tags": [
+        "family",
+        "vacation",
+        "travel",
+        "daily-conversation"
+      ],
+      "timeCreated": 1751549400
+    },
+    {
+      "id": 147,
+      "audioText": "Mon frère est venu me rendre visite hier soir avec sa nouvelle voiture.",
+      "question": "Mon frère est ______ me rendre visite hier soir avec sa nouvelle voiture.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "venu",
+        "venue",
+        "venus",
+        "venues"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'venu' - the masculine singular past participle of 'venir' (to come). Since 'mon frère' (my brother) is masculine singular, the past participle agrees accordingly. The sentence means 'My brother came to visit me last night with his new car.' The other options are feminine (venue) or plural (venus/venues) forms.",
+      "difficulty": "A2",
+      "source": "Family Visit",
+      "tags": [
+        "family",
+        "visit",
+        "past-tense",
+        "agreement"
+      ],
+      "timeCreated": 1751550100
+    },
+    {
+      "id": 148,
+      "audioText": "Ce travail est vraiment dur, mais je suis déterminé à le terminer avant la fin de la semaine.",
+      "question": "Ce travail est vraiment ______, mais je suis déterminé à le terminer avant la fin de la semaine.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "dur",
+        "dure",
+        "dures",
+        "durs"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'dur' (hard/difficult) - the masculine singular form agreeing with 'travail' (masculine singular). The complete sentence means: 'This work is really hard, but I am determined to finish it before the end of the week.' The adjective must agree in gender and number with the noun it modifies.",
+      "difficulty": "A2",
+      "source": "Work Challenge",
+      "tags": [
+        "work",
+        "difficulty",
+        "determination",
+        "adjective-agreement"
+      ],
+      "timeCreated": 1751550300
+    },
+    {
+      "id": 149,
+      "audioText": "Restez près de l'entrée pendant que je cherche les produits bio.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Restez près de l'entrée pendant que je cherche les produits bio.",
+        "Restez près de l'entrée pendant que je paie les produits bio.",
+        "Revenez près de l'entrée pendant que je cherche les produits bio.",
+        "Restez près de la sortie pendant que je cherche les produits bio."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Restez près de l'entrée pendant que je cherche les produits bio.' - Stay near the entrance while I look for organic products. 'Restez' is the 2nd person plural imperative form of 'rester'.",
+      "difficulty": "A2",
+      "source": "Grocery Shopping",
+      "tags": [
+        "shopping",
+        "grocery",
+        "organic"
+      ],
+      "timeCreated": 1720022160
+    },
+    {
+      "id": 150,
+      "audioText": "Je dors bien cette nuit.",
+      "question": "When does the person sleep well?",
+      "questionType": "comprehension",
+      "options": [
+        "This night",
+        "Every day",
+        "In the morning",
+        "Last week"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Je dors bien cette nuit' - I sleep well this night. 'Cette nuit' means 'this night'.",
+      "difficulty": "A1",
+      "source": "Daily Life - Sleep",
+      "tags": [
+        "sleep",
+        "daily-routine",
+        "time"
+      ],
+      "timeCreated": 1720024800
+    },
+    {
+      "id": 151,
+      "audioText": "Quelle ______ est-il ?",
+      "question": "Quelle ______ est-il ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "heure",
+        "temps",
+        "moment",
+        "fois"
+      ],
+      "correct": 0,
+      "explanation": "The correct phrase is 'Quelle heure est-il ?' (What time is it?). 'Heure' specifically refers to clock time, while 'temps' means weather or general time, 'moment' means moment, and 'fois' means time as in occurrence.",
+      "difficulty": "A1",
+      "source": "Time Expressions",
+      "tags": [
+        "time",
+        "questions",
+        "daily-expressions"
+      ],
+      "timeCreated": 1720024860
+    },
+    {
+      "id": 152,
+      "audioText": "Maman fait la cuisine.",
+      "question": "What is mom doing?",
+      "questionType": "comprehension",
+      "options": [
+        "Cooking",
+        "Cleaning",
+        "Shopping",
+        "Working"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Maman fait la cuisine' - Mom is cooking/making food. 'Maman' is an affectionate term for mother, and 'faire la cuisine' means to cook.",
+      "difficulty": "A2",
+      "source": "Family Activities",
+      "tags": [
+        "family",
+        "cooking",
+        "daily-activities"
+      ],
+      "timeCreated": 1720025040
+    },
+    {
+      "id": 153,
+      "audioText": "Ma chambre est au deuxième étage.",
+      "question": "Where is the person's room located?",
+      "questionType": "comprehension",
+      "options": [
+        "On the second floor",
+        "In the basement",
+        "On the first floor",
+        "In the attic"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Ma chambre est au deuxième étage' - My room is on the second floor. 'Chambre' means bedroom/room and 'deuxième étage' means second floor.",
+      "difficulty": "A2",
+      "source": "Home Description",
+      "tags": [
+        "home",
+        "rooms",
+        "location",
+        "house-layout"
+      ],
+      "timeCreated": 1720025100
+    },
+    {
+      "id": 154,
+      "audioText": "Quoi ? Tu ne viens pas ?",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Quoi ? Tu ne viens pas ?",
+        "Quoi ? Tu ne veux pas ?",
+        "Quoi ? Tu ne sais pas ?",
+        "Pourquoi ? Tu ne viens pas ?"
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'viens' (pas 'veux' ou 'sais') et 'Quoi ?' (pas 'Pourquoi ?'). 'Quoi ?' exprime la surprise ou l'incompréhension.",
+      "difficulty": "A2",
+      "source": "Casual Conversation",
+      "tags": [
+        "surprise",
+        "conversation",
+        "informal-speech"
+      ],
+      "timeCreated": 1720025400
+    },
+    {
+      "id": 155,
+      "audioText": "Il vit seul dans cette grande maison.",
+      "question": "How does the person live?",
+      "questionType": "comprehension",
+      "options": [
+        "Alone in this big house",
+        "With family in a small apartment",
+        "With roommates in the city",
+        "With his wife in the countryside"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Il vit seul dans cette grande maison' - He lives alone in this big house. 'Seul' means alone/by oneself.",
+      "difficulty": "A1",
+      "source": "Housing Situation",
+      "tags": [
+        "home",
+        "living-situation",
+        "solitude"
+      ],
+      "timeCreated": 1720025460
+    },
+    {
+      "id": 156,
+      "audioText": "Mon grand-père est encore vivant à 95 ans.",
+      "question": "What do we learn about the grandfather?",
+      "questionType": "comprehension",
+      "options": [
+        "He is still alive at 95 years old",
+        "He is very sick and in the hospital",
+        "He celebrated his 95th birthday yesterday",
+        "He is living alone in his old house"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Mon grand-père est encore vivant à 95 ans' - My grandfather is still alive at 95 years old. 'Vivant' means alive/living.",
+      "difficulty": "A2",
+      "source": "Family - Health",
+      "tags": [
+        "family",
+        "health",
+        "age",
+        "elderly"
+      ],
+      "timeCreated": 1720025900
+    },
+    {
+      "id": 157,
+      "audioText": "La forêt était sombre et mystérieuse.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La forêt était sombre et mystérieuse.",
+        "La forêt était claire et mystérieuse.",
+        "La forêt était sombre et silencieuse.",
+        "La route était sombre et mystérieuse."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'sombre' (pas 'claire'), 'mystérieuse' (pas 'silencieuse'), et 'forêt' (pas 'route'). 'Sombre' signifie dark/gloomy.",
+      "difficulty": "A2",
+      "source": "Nature Description",
+      "tags": [
+        "nature",
+        "forest",
+        "atmosphere",
+        "description"
+      ],
+      "timeCreated": 1720025960
+    },
+    {
+      "id": 158,
+      "audioText": "Il fait très froid aujourd'hui.",
+      "question": "What is the weather like today?",
+      "questionType": "comprehension",
+      "options": [
+        "It's very cold today",
+        "It's very hot today",
+        "It's very windy today",
+        "It's very sunny today"
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'Il fait très froid aujourd'hui' means 'It's very cold today.' The adjective 'froid' means cold, and 'il fait' is the standard expression for describing weather.",
+      "difficulty": "A1",
+      "source": "Weather Description",
+      "tags": [
+        "weather",
+        "temperature",
+        "daily-conversation"
+      ],
+      "timeCreated": 1720026380
+    },
+    {
+      "id": 159,
+      "audioText": "Les instructions sont ______ et faciles à suivre.",
+      "question": "Les instructions sont ______ et faciles à suivre.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "clair",
+        "claires",
+        "claire",
+        "clairs"
+      ],
+      "correct": 1,
+      "explanation": "The correct answer is 'claires' (feminine plural) to agree with 'instructions' (feminine plural). The adjective 'clair' means clear/obvious, and must agree in gender and number with the noun it modifies.",
+      "difficulty": "A2",
+      "source": "Instructions - Grammar Agreement",
+      "tags": [
+        "instructions",
+        "clarity",
+        "grammar-practice"
+      ],
+      "timeCreated": 1720026440
+    },
+    {
+      "id": 160,
+      "audioText": "Mon chat est très calme.",
+      "question": "Mon chat est très ______.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "calme",
+        "calmes",
+        "calmer",
+        "calmé"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'calme' (masculine singular) to agree with 'chat' (masculine singular). The adjective 'calme' means calm/peaceful, and remains unchanged in the masculine singular form.",
+      "difficulty": "A1",
+      "source": "Pet Description",
+      "tags": [
+        "pets",
+        "personality",
+        "animals"
+      ],
+      "timeCreated": 1720026740
+    },
+    {
+      "id": 161,
+      "audioText": "C'est un étudiant sérieux.",
+      "question": "What kind of student is he?",
+      "questionType": "comprehension",
+      "options": [
+        "A serious student",
+        "A lazy student",
+        "A funny student",
+        "A young student"
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'C'est un étudiant sérieux' means 'He is a serious student.' The adjective 'sérieux' means serious/studious, describing the student's academic attitude.",
+      "difficulty": "A2",
+      "source": "Student Description",
+      "tags": [
+        "education",
+        "student-life",
+        "personality"
+      ],
+      "timeCreated": 1720026800
+    },
+    {
+      "id": 162,
+      "audioText": "En ______ cela, il a fait une erreur.",
+      "question": "En ______ cela, il a fait une erreur.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "disant",
+        "dites",
+        "dit",
+        "dire"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'disant' (present participle of 'dire'). The construction 'en + present participle' expresses simultaneous action: 'En disant cela' means 'while saying/by saying that'. This form is used to show that the error occurred while he was saying something.",
+      "difficulty": "A2",
+      "source": "Communication - Making Mistakes",
+      "tags": [
+        "communication",
+        "mistakes",
+        "conversation"
+      ],
+      "timeCreated": 1720027220
+    },
+    {
+      "id": 163,
+      "audioText": "Il faut que tu ______ la vérité.",
+      "question": "Il faut que tu ______ la vérité.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "dises",
+        "dis",
+        "dire",
+        "disant"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'dises' (2nd person singular subjunctive of 'dire'). After 'il faut que' (it is necessary that), the subjunctive mood is required. 'Il faut que tu dises la vérité' means 'You must tell the truth.'",
+      "difficulty": "A2",
+      "source": "Truth and Honesty",
+      "tags": [
+        "honesty",
+        "truth",
+        "advice"
+      ],
+      "timeCreated": 1720027280
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-03T03:27:47.153Z",
-    "totalQuestions": 112,
-    "originalQuestions": 56,
-    "sourceQuestions": 56,
+    "compiledAt": "2025-07-04T03:52:13.214Z",
+    "totalQuestions": 142,
+    "originalQuestions": 0,
+    "sourceQuestions": 142,
     "level": "A",
     "idRange": "1-199",
     "difficulties": [
