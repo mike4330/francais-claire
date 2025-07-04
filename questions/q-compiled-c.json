@@ -1,1021 +1,6 @@
 {
   "questions": [
     {
-      "id": 431,
-      "audioText": "Les déléguées diplomatiques, arrivées hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
-      "question": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "arrivées",
-        "arrivée",
-        "arrivés",
-        "arrivé"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'arrivées' - the feminine plural past participle agreeing with 'les déléguées diplomatiques' (the female diplomatic delegates). The past participle must agree in gender and number with the subject when used with être or in absolute constructions.",
-      "difficulty": "C2",
-      "source": "High-level diplomatic summit coverage",
-      "tags": [
-        "diplomacy",
-        "negotiations",
-        "geopolitics",
-        "international-relations",
-        "balkans",
-        "geneva",
-        "summit",
-        "politics"
-      ]
-    },
-    {
-      "id": 432,
-      "audioText": "Maîtres boulangers, sauriez-vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
-      "question": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "sauriez",
-        "savez",
-        "saviez",
-        "saurez"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question. This form expresses a courteous inquiry about capability or knowledge. The question asks master bakers if they could analyze the organoleptic subtleties of naturally fermented sourdough.",
-      "difficulty": "C2",
-      "source": "Advanced artisanal bakery master class discourse",
-      "tags": [
-        "bread",
-        "culinary-arts",
-        "artisanal",
-        "french-heritage",
-        "gastronomy",
-        "professional",
-        "traditional-crafts",
-        "cultural-heritage"
-      ]
-    },
-    {
-      "id": 433,
-      "audioText": "Les sociologues contemporains croient que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
-      "question": "Les sociologues contemporains ______ que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "croient",
-        "croit",
-        "croyez",
-        "croyons"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'croient' - the third person plural form of 'croire' (to believe). This form agrees with 'les sociologues contemporains' (contemporary sociologists). The sentence discusses sociological analysis of socioeconomic inequality and structural changes in French society.",
-      "difficulty": "C2",
-      "source": "Advanced sociological analysis of contemporary French social dynamics",
-      "tags": [
-        "social-issues",
-        "sociology",
-        "inequality",
-        "economics",
-        "digitalization",
-        "employment",
-        "society",
-        "academia",
-        "analysis",
-        "france"
-      ]
-    },
-    {
-      "id": 434,
-      "audioText": "L'écrivain célèbre eut soudain une peur terrible lorsqu'il réalisa que son histoire la plus importante venait d'être perdue à jamais dans l'incendie de sa maison, et que toutes ces années de travail acharné s'envolaient en fumée.",
-      "question": "What did the famous writer suddenly experience?",
-      "questionType": "comprehension",
-      "options": [
-        "Terrible fear upon realizing his most important story was lost forever",
-        "Great joy when he discovered a new manuscript in his attic",
-        "Deep sadness after reading negative reviews of his latest book",
-        "Overwhelming relief when his publisher agreed to extend the deadline"
-      ],
-      "correct": 0,
-      "explanation": "The French text uses the passé simple 'eut' (he had) to describe a sudden realization. 'L'écrivain eut une peur terrible' means 'The writer had/experienced terrible fear.' The passé simple is used in literary French to narrate past events, making this an advanced C2 level structure.",
-      "difficulty": "C2",
-      "source": "Literary French with passé simple",
-      "tags": [
-        "histoire",
-        "literature",
-        "tragedy",
-        "writers"
-      ],
-      "timeCreated": 1735489380
-    },
-    {
-      "id": 435,
-      "audioText": "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
-      "ssml": "<speak>Ce don agace certains internautes qui reprennent l'expression <break time=\"250ms\"/>«C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</speak>",
-      "question": "What does the internet expression «C'est Nicolas qui paie» represent in this context?",
-      "questionType": "comprehension",
-      "options": [
-        "A popular phrase used to designate taxpayers who pay for all public expenses through their taxes",
-        "A charitable donation campaign organized by someone named Nicolas",
-        "A criticism of a specific politician named Nicolas who overspends public money",
-        "An internet meme about online payment systems and digital transactions"
-      ],
-      "correct": 0,
-      "explanation": "The text explains that internet users use the expression «C'est Nicolas qui paie» 'pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics' - to designate taxpayers who pay, through their taxes, all public expenses. The expression is used ironically to criticize the burden on taxpayers for funding government spending.",
-      "difficulty": "C1",
-      "source": "French Political Media Commentary",
-      "tags": [
-        "politics",
-        "taxation",
-        "internet-culture",
-        "public-spending",
-        "social-commentary",
-        "media"
-      ],
-      "timeCreated": 1735496889
-    },
-    {
-      "id": 436,
-      "audioText": "Le maire du 12e arrondissement de Marseille, Sylvain Souvestre a condamné cet incendie, précisant: «les propriétaires sont des gens du quartier, un couple qui n'a rien à voir avec le conflit israélo-palestinien».",
-      "question": "Why did the mayor specifically clarify that the property owners have nothing to do with the Israeli-Palestinian conflict?",
-      "questionType": "comprehension",
-      "options": [
-        "To suggest the arson may have been motivated by Middle East tensions, but the victims were uninvolved local residents",
-        "To announce that the property owners were foreign nationals from the Middle East",
-        "To confirm that the arson was definitely committed by supporters of one side in the conflict",
-        "To reveal that the investigation found evidence of international terrorist involvement"
-      ],
-      "correct": 0,
-      "explanation": "The mayor's clarification that the property owners 'n'ont rien à voir avec le conflit israélo-palestinien' - have nothing to do with the Israeli-Palestinian conflict - implies that the arson incident may have been perceived as or actually motivated by tensions related to that conflict. By emphasizing the victims are just 'des gens du quartier' (local people), the mayor is distancing them from any political motivations behind the attack.",
-      "difficulty": "C1",
-      "source": "French Political News - Marseille Incident",
-      "tags": [
-        "politics",
-        "social-tensions",
-        "middle-east-conflict",
-        "crime",
-        "marseille",
-        "antisemitism",
-        "islamophobia",
-        "political-statement"
-      ],
-      "timeCreated": 1735500536
-    },
-    {
-      "id": 437,
-      "audioText": "Les experts en géopolitique pensent que ces tensions diplomatiques complexes arriveraient à un point de non-retour si les négociations multilatérales échouaient dans les prochains mois, compromettant irrémédiablement l'équilibre géostratégique régional.",
-      "question": "Les experts en géopolitique pensent que ces tensions diplomatiques complexes ______ à un point de non-retour si les négociations multilatérales échouaient dans les prochains mois, compromettant irrémédiablement l'équilibre géostratégique régional.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "arriveraient",
-        "arriveront",
-        "arrivent",
-        "arrivaient"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'arriveraient' - the conditional form of 'arriver' (to arrive/reach). In this complex diplomatic analysis, the conditional expresses a hypothetical consequence: these tensions would reach a point of no return if multilateral negotiations failed. The conditional mood is required after 'si' clauses expressing hypothetical situations in formal diplomatic discourse.",
-      "difficulty": "C2",
-      "source": "Advanced Geopolitical Analysis",
-      "tags": [
-        "geopolitics",
-        "diplomacy",
-        "international-relations",
-        "multilateral-negotiations",
-        "regional-stability",
-        "crisis-analysis"
-      ],
-      "timeCreated": 1735500648
-    },
-    {
-      "id": 438,
-      "audioText": "L'expert en sécurité dirait que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
-      "question": "L'expert en sécurité ______ que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "dirait",
-        "dit",
-        "disait",
-        "dira"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'dirait' - the conditional form of 'dire' (to say). In this cybersecurity context, the conditional expresses what the expert would say about this potential cyber-attack threat. 'Coup' here refers to a cyber-attack strike.",
-      "difficulty": "C1",
-      "source": "Cybersecurity Expert Analysis",
-      "tags": [
-        "cybersecurity",
-        "cyber-attacks",
-        "coup",
-        "digital-infrastructure",
-        "national-security",
-        "dire"
-      ],
-      "timeCreated": 1735500702
-    },
-    {
-      "id": 439,
-      "audioText": "Il est crucial que le gouvernement ait une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
-      "question": "Il est crucial que le gouvernement ______ une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "ait",
-        "a",
-        "avait",
-        "aura"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'ait' - the subjunctive form of 'avoir' (to have). After expressions of necessity like 'il est crucial que' (it is crucial that), French requires the subjunctive mood. This advanced C2 structure tests mastery of subjunctive usage in formal governmental and diplomatic discourse.",
-      "difficulty": "C2",
-      "source": "Advanced Governmental Communication Strategy",
-      "tags": [
-        "government",
-        "communication-strategy",
-        "geopolitics",
-        "diplomatic-challenges",
-        "formal-discourse"
-      ],
-      "timeCreated": 1735500702
-    },
-    {
-      "id": 440,
-      "audioText": "Dans les relations amoureuses modernes, vous laissez souvent vos partenaires exprimer leurs émotions sans jugement, favorisant ainsi une communication authentique et respectueuse.",
-      "question": "What approach do modern romantic relationships take regarding emotional expression?",
-      "questionType": "comprehension",
-      "options": [
-        "You often let your partners express their emotions without judgment, promoting authentic and respectful communication",
-        "You should control your partners' emotional expressions to maintain relationship stability",
-        "You typically discourage emotional expression to avoid conflicts and misunderstandings",
-        "You focus primarily on logical discussions rather than emotional communication"
-      ],
-      "correct": 0,
-      "explanation": "The text states 'vous laissez souvent vos partenaires exprimer leurs émotions sans jugement, favorisant ainsi une communication authentique et respectueuse' - you often let your partners express their emotions without judgment, promoting authentic and respectful communication. 'Laissez' is the second person plural form of 'laisser' (to let/allow), demonstrating this crucial relationship conjugate. This introduces 'porte' context (opening doors to communication).",
-      "difficulty": "C1",
-      "source": "Modern Dating and Relationship Psychology",
-      "tags": [
-        "dating",
-        "interpersonal-relationships",
-        "emotional-intelligence",
-        "communication",
-        "psychology",
-        "romantic-relationships",
-        "laisser"
-      ],
-      "timeCreated": 1751217041
-    },
-    {
-      "id": 441,
-      "audioText": "Si tu étudiais la composition musicale contemporaine, tu pourrais comprendre comment les harmonies dissonantes reflètent l'aliénation existentielle de notre époque postmoderne, créant des résonances émotionnelles qui transcendent les conventions esthétiques traditionnelles.",
-      "question": "According to this analysis, what would studying contemporary musical composition help you understand?",
-      "questionType": "comprehension",
-      "options": [
-        "How dissonant harmonies reflect the existential alienation of our postmodern era, creating emotional resonances that transcend traditional aesthetic conventions",
-        "How classical harmonies provide comfort and stability in uncertain times through familiar musical structures",
-        "How popular music influences have simplified contemporary composition techniques for broader audience appeal",
-        "How digital technology has completely replaced traditional acoustic instruments in modern musical expression"
-      ],
-      "correct": 0,
-      "explanation": "The text explains that studying contemporary musical composition 'tu pourrais comprendre comment les harmonies dissonantes reflètent l'aliénation existentielle de notre époque postmoderne, créant des résonances émotionnelles qui transcendent les conventions esthétiques traditionnelles' - you could understand how dissonant harmonies reflect the existential alienation of our postmodern era, creating emotional resonances that transcend traditional aesthetic conventions. 'Pourrais' is the conditional form of 'pouvoir' (could), showing this essential advanced conjugate. This introduces sophisticated 'voix' (voices) in musical harmony.",
-      "difficulty": "C2",
-      "source": "Advanced Music Theory and Philosophy",
-      "tags": [
-        "music",
-        "music-theory",
-        "philosophy",
-        "postmodernism",
-        "academic-discourse",
-        "aesthetic-theory",
-        "pouvoir"
-      ],
-      "timeCreated": 1751217041
-    },
-    {
-      "id": 442,
-      "audioText": "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
-      "options": [
-        "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
-        "Elle aime passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
-        "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflètent la société bourgeoise de l'époque.",
-        "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétèrent la société bourgeoise de l'époque."
-      ],
-      "correct": 0,
-      "explanation": "The correct form is 'elle aimait' - third person singular imperfect of 'aimer' (she loved/used to love). This form was missing from our conjugation coverage despite being frequent in literary and biographical contexts.",
-      "difficulty": "C1",
-      "source": "Literary discussion and cultural preferences",
-      "tags": [
-        "literature",
-        "culture",
-        "19th-century",
-        "authors"
-      ],
-      "timeCreated": 1704067200
-    },
-    {
-      "id": 443,
-      "audioText": "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
-      "options": [
-        "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
-        "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
-        "Vous voyait bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
-        "Vous voyez bien que cette analyse socio-économique révéla des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable."
-      ],
-      "correct": 0,
-      "explanation": "The correct form is 'vous voyez' - second person plural present of 'voir' (you see). This form was identified as missing from our coverage despite being highly frequent in formal discourse and academic discussions.",
-      "difficulty": "C2",
-      "source": "Academic discussion on social and economic policy",
-      "tags": [
-        "socio-economics",
-        "policy",
-        "academic",
-        "formal-discourse"
-      ],
-      "timeCreated": 1704067200
-    },
-    {
-      "id": 444,
-      "audioText": "Les sociologues observent que les populations les plus heureuses ne sont pas nécessairement celles qui possèdent le plus de richesses matérielles, mais plutôt celles qui bénéficient de liens sociaux solides, d'un sentiment de sécurité collective et d'une harmonie culturelle profonde.",
-      "question": "According to sociologists, what makes populations happiest?",
-      "questionType": "comprehension",
-      "options": [
-        "Strong social bonds, collective security, and deep cultural harmony",
-        "Material wealth, property ownership, and economic prosperity",
-        "Individual achievements, personal freedom, and competitive success",
-        "Urban development, technological advancement, and modern infrastructure"
-      ],
-      "correct": 0,
-      "explanation": "The text states that the happiest populations ('heureuses') are not those with material wealth, but those who benefit from strong social bonds, collective security, and deep cultural harmony. The adjective 'heureux/heureuses' was completely missing from our question bank.",
-      "difficulty": "C1",
-      "source": "Sociological research on happiness and well-being",
-      "tags": [
-        "heureux",
-        "sociology",
-        "happiness",
-        "social-bonds",
-        "well-being",
-        "materialism"
-      ],
-      "timeCreated": 1704067200
-    },
-    {
-      "id": 445,
-      "audioText": "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants, créant ainsi un cercle vicieux d'appauvrissement institutionnalisé.",
-      "question": "What does the distinguished economist argue about austerity policies?",
-      "questionType": "comprehension",
-      "options": [
-        "They are a deliberate neoliberal strategy to maintain global structural inequalities and economic dependence",
-        "They are necessary short-term measures to help poor nations achieve financial independence",
-        "They provide effective solutions for reducing debt and stimulating sustainable economic growth",
-        "They represent compassionate international aid designed to strengthen local democratic institutions"
-      ],
-      "correct": 0,
-      "explanation": "The economist argues that austerity policies imposed on the poorest nations ('pauvres') are a deliberate neoliberal strategy to maintain structural inequalities and economic dependence. The adjective 'pauvre/pauvres' was missing from our question bank despite being high-frequency.",
-      "difficulty": "C2",
-      "source": "Economic theory and global policy analysis",
-      "tags": [
-        "economics",
-        "austerity",
-        "neoliberalism",
-        "inequality",
-        "policy-analysis"
-      ],
-      "timeCreated": 1704067200
-    },
-    {
-      "id": 446,
-      "audioText": "Il faut ouvrir chaque porte métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.",
-      "question": "Il faut ouvrir chaque ______ métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "porte",
-        "fenêtre",
-        "voie",
-        "route"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'porte' (door). The sentence means 'One must open each metaphorical door that leads toward a deep understanding of contemporary sociopolitical mechanisms.' This introduces the high-frequency noun 'porte' in an intellectual/academic context with metaphorical usage.",
-      "difficulty": "C1",
-      "source": "Academic Discourse and Intellectual Access",
-      "tags": [
-        "intellectual-discourse",
-        "academic",
-        "metaphor",
-        "understanding",
-        "sociopolitics",
-        "access-to-knowledge"
-      ],
-      "timeCreated": 1751219400
-    },
-    {
-      "id": 447,
-      "audioText": "Les collectionneurs passionnés de timbres philatéliques consacrent énormément de temps à analyser minutieusement les nuances esthétiques et historiques de chaque spécimen, transformant cette activité de loisir en véritable passion érudite qui révèle des aspects insoupçonnés de l'histoire postale mondiale.",
-      "question": "Les collectionneurs passionnés de timbres philatéliques consacrent énormément de ______ à analyser minutieusement les nuances esthétiques et historiques de chaque spécimen, transformant cette activité de loisir en véritable passion érudite qui révèle des aspects insoupçonnés de l'histoire postale mondiale.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "temps",
-        "argent",
-        "effort",
-        "énergie"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'temps' (time). The sentence means 'Passionate collectors of philatelic stamps devote enormous amounts of time to minutely analyzing the aesthetic and historical nuances of each specimen, transforming this leisure activity into a true erudite passion that reveals unsuspected aspects of world postal history.' This introduces advanced hobby vocabulary and the concept of time dedication to specialized interests.",
-      "difficulty": "C2",
-      "source": "Advanced Hobby Culture and Collecting",
-      "tags": [
-        "hobbies",
-        "collecting",
-        "philately",
-        "stamps",
-        "time",
-        "leisure",
-        "erudition",
-        "specialized-knowledge"
-      ],
-      "timeCreated": 1751219400
-    },
-    {
-      "id": 448,
-      "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
-      "question": "What is the significance of this revolutionary idea according to the text?",
-      "questionType": "comprehension",
-      "options": [
-        "It could radically transform our approach to AI by challenging established paradigms and opening new epistemological horizons",
-        "It provides a simple solution to current technical problems in artificial intelligence development",
-        "It represents a conservative approach to maintaining existing AI research methodologies",
-        "It focuses primarily on commercial applications rather than theoretical advances"
-      ],
-      "correct": 0,
-      "explanation": "The text describes an 'idée révolutionnaire' (revolutionary idea) that could 'transformer radicalement notre approche de l'intelligence artificielle' (radically transform our approach to artificial intelligence) by 'remettant en question les paradigmes établis' (challenging established paradigms) and 'ouvrant de nouveaux horizons épistémologiques' (opening new epistemological horizons).",
-      "difficulty": "C2",
-      "source": "Academic Research",
-      "tags": [
-        "technology",
-        "artificial-intelligence",
-        "philosophy",
-        "research",
-        "innovation",
-        "epistemology"
-      ],
-      "timeCreated": 1751300995
-    },
-    {
-      "id": 449,
-      "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
-      "question": "What criticism is being made in this statement?",
-      "questionType": "comprehension",
-      "options": [
-        "The person always said economic reforms were necessary but never proposed concrete solutions",
-        "The person never supported economic reforms and blocked all proposed changes",
-        "The person only focused on theoretical solutions without considering practical implications",
-        "The person changed their opinion about economic reforms too frequently"
-      ],
-      "correct": 0,
-      "explanation": "The statement criticizes someone who 'disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes' (always said that economic reforms were necessary, but never proposed concrete solutions). This highlights a gap between rhetoric and action.",
-      "difficulty": "C1",
-      "source": "Political Discourse",
-      "tags": [
-        "politics",
-        "economics",
-        "criticism",
-        "rhetoric",
-        "policy-analysis",
-        "contradictions"
-      ],
-      "timeCreated": 1751325934
-    },
-    {
-      "id": 450,
-      "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
-      "question": "What are the consequences of this economic war according to the text?",
-      "questionType": "comprehension",
-      "options": [
-        "It has major geopolitical repercussions that transform global balance and redefine traditional strategic alliances",
-        "It primarily affects bilateral trade relationships without broader international impact",
-        "It strengthens existing military partnerships and reinforces current power structures",
-        "It leads to increased cooperation and diplomatic dialogue between the nations"
-      ],
-      "correct": 0,
-      "explanation": "The text describes an economic 'guerre' (war) that has 'répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles' (major geopolitical repercussions that transform the global balance and redefine traditional strategic alliances).",
-      "difficulty": "C1",
-      "source": "International Relations Analysis",
-      "tags": [
-        "politics",
-        "international-relations",
-        "economics",
-        "geopolitics",
-        "global-affairs",
-        "strategic-alliances"
-      ],
-      "timeCreated": 1751326285
-    },
-    {
-      "id": 451,
-      "audioText": "Ma fille aînée, devenue médecin après des années d'études acharnées, m'a expliqué que l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération contemporaine.",
-      "question": "What challenge does the daughter's generation face according to the text?",
-      "questionType": "comprehension",
-      "options": [
-        "Balancing professional life and parenthood",
-        "Finding affordable housing in cities",
-        "Adapting to new medical technologies",
-        "Managing student loan debt effectively"
-      ],
-      "correct": 0,
-      "explanation": "The daughter explains that 'l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération' - the balance between professional life and parenthood represents one of the most complex challenges of her generation.",
-      "difficulty": "C1",
-      "source": "Family discussion about generational challenges",
-      "tags": [
-        "family",
-        "generational-issues",
-        "work-life-balance",
-        "parenting",
-        "professional-life"
-      ],
-      "timeCreated": 1735689600
-    },
-    {
-      "id": 452,
-      "audioText": "Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre, nécessitant des mesures urgentes pour préserver la biodiversité et les écosystèmes fragiles pour les générations futures qui hériteront de cette planète transformée.",
-      "question": "According to the scientists, what does climate change threaten?",
-      "questionType": "comprehension",
-      "options": [
-        "The ecological balance of our earth",
-        "The economic stability of nations",
-        "The development of new technologies",
-        "The political relationships between countries"
-      ],
-      "correct": 0,
-      "explanation": "The text states that scientists affirm that 'le réchauffement climatique menace l'équilibre écologique de notre terre' - climate warming/change threatens the ecological balance of our earth, requiring urgent measures to preserve biodiversity.",
-      "difficulty": "C1",
-      "source": "Scientific statement on climate change impact",
-      "tags": [
-        "environment",
-        "climate-change",
-        "science",
-        "ecology",
-        "future-generations"
-      ],
-      "timeCreated": 1735689600
-    },
-    {
-      "id": 453,
-      "audioText": "Le directeur général allait annoncer sa démission lors de l'assemblée générale extraordinaire, mais les négociations de dernière minute avec le conseil d'administration ont changé la donne, permettant ainsi d'éviter une crise institutionnelle majeure qui aurait pu déstabiliser l'ensemble de l'organisation.",
-      "question": "What was the CEO going to do before last-minute negotiations changed the situation?",
-      "questionType": "comprehension",
-      "options": [
-        "Announce his resignation at the extraordinary general meeting",
-        "Present the quarterly financial results to shareholders",
-        "Propose a merger with a competing organization",
-        "Restructure the entire management hierarchy"
-      ],
-      "correct": 0,
-      "explanation": "The text states 'Le directeur général allait annoncer sa démission lors de l'assemblée générale extraordinaire' - the CEO was going to announce his resignation at the extraordinary general meeting, but last-minute negotiations with the board changed the situation.",
-      "difficulty": "C1",
-      "source": "Corporate governance crisis and resolution",
-      "tags": [
-        "corporate-governance",
-        "leadership",
-        "crisis-management",
-        "negotiations",
-        "institutional-stability"
-      ],
-      "timeCreated": 1735689600
-    },
-    {
-      "id": 454,
-      "audioText": "Je ferai en sorte que cette réforme constitutionnelle soit adoptée dans les délais impartis, même si cela implique de convaincre les parlementaires les plus récalcitrants et de négocier des compromis substantiels avec l'opposition pour garantir une majorité suffisante lors du vote final.",
-      "question": "Je ______ en sorte que cette réforme constitutionnelle soit adoptée dans les délais impartis, même si cela implique de convaincre les parlementaires les plus récalcitrants.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "ferai",
-        "fais",
-        "ferais",
-        "ai fait"
-      ],
-      "correct": 0,
-      "explanation": "The future tense 'ferai' (I will make sure) expresses a firm commitment to ensure the constitutional reform is adopted within the timeframe, despite potential political obstacles.",
-      "difficulty": "C1",
-      "source": "Political commitment regarding constitutional reform",
-      "tags": [
-        "politics",
-        "constitutional-reform",
-        "parliamentary-process",
-        "political-negotiation",
-        "governance"
-      ],
-      "timeCreated": 1735689600
-    },
-    {
-      "id": 455,
-      "audioText": "Les experts en géopolitique disaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables qui ont finalement transformé les rapports de force bien au-delà des prévisions initiales.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
-      "options": [
-        "Les experts en géopolitique disaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables.",
-        "Les experts en géopolitique pensaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables.",
-        "Les experts en géopolitique disent que cette alliance stratégique bouleversera l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables.",
-        "Les experts en géopolitique ont dit que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables."
-      ],
-      "correct": 0,
-      "explanation": "The listening exercise tests the exact comprehension of 'disaient' (were saying) in the imperfect tense, used to describe what geopolitical experts were saying about a strategic alliance's impact.",
-      "difficulty": "C1",
-      "source": "Geopolitical analysis of strategic alliance consequences",
-      "tags": [
-        "geopolitics",
-        "strategic-alliances",
-        "expert-analysis",
-        "economic-impact",
-        "international-relations"
-      ],
-      "timeCreated": 1735689600
-    },
-    {
-      "id": 456,
-      "audioText": "Si nous mobilisions l'ensemble des ressources disponibles et que nous coordonnions efficacement nos efforts avec les organisations partenaires, nous pourrions réaliser une transformation systémique durable de ce secteur d'activité, créant ainsi un modèle reproductible à l'échelle internationale.",
-      "question": "Nous ______ réaliser une transformation systémique durable de ce secteur d'activité, créant ainsi un modèle reproductible à l'échelle internationale.",
-      "questionType": "FIB-reading",
-      "options": [
-        "pourrions",
-        "pourrons",
-        "pouvons",
-        "avons pu"
-      ],
-      "correct": 0,
-      "explanation": "The conditional 'pourrions' (we could) is used in the main clause of a conditional sentence, expressing what would be possible if the conditions mentioned in the 'si' clause were met.",
-      "difficulty": "C1",
-      "source": "Strategic planning for systemic sector transformation",
-      "tags": [
-        "strategic-planning",
-        "systemic-transformation",
-        "international-cooperation",
-        "resource-mobilization",
-        "sustainable-development"
-      ],
-      "timeCreated": 1735689600
-    },
-    {
-      "id": 457,
-      "audioText": "Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.",
-      "question": "What will happen when the project is finished?",
-      "questionType": "comprehension",
-      "options": [
-        "The person will probably be satisfied",
-        "The project will be cancelled",
-        "More work will be needed",
-        "The result will be disappointing"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'seras' (future tense of être) to indicate the person will probably be satisfied when the ambitious project is completed.",
-      "difficulty": "C1",
-      "source": "Future tense conjugation with être",
-      "tags": [
-        "workplace",
-        "projects",
-        "future-planning"
-      ],
-      "timeCreated": 1719936000
-    },
-    {
-      "id": 458,
-      "audioText": "Le ministre fut contraint de démissionner suite aux révélations sur ses liens avec cette affaire de corruption.",
-      "question": "What happened to the minister?",
-      "questionType": "comprehension",
-      "options": [
-        "He was forced to resign",
-        "He was promoted to a higher position",
-        "He denied all allegations",
-        "He remained in office"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'fut' (past historic of être) to indicate the minister was forced to resign following corruption revelations.",
-      "difficulty": "C2",
-      "source": "Political news with past historic tense",
-      "tags": [
-        "politics",
-        "corruption",
-        "government"
-      ],
-      "timeCreated": 1719936060
-    },
-    {
-      "id": 459,
-      "audioText": "Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bruyants en classe.",
-      "question": "Why were the children often punished?",
-      "questionType": "comprehension",
-      "options": [
-        "They were too noisy in class",
-        "They didn't do their homework",
-        "They arrived late to school",
-        "They fought with other students"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'étions' (imperfect 1st person plural of être) to describe how they were often punished for being too noisy as children.",
-      "difficulty": "C1",
-      "source": "Childhood memories with imperfect tense",
-      "tags": [
-        "education",
-        "childhood",
-        "behavior"
-      ],
-      "timeCreated": 1719936120
-    },
-    {
-      "id": 460,
-      "audioText": "Nous serons certainement en retard si nous ne partons pas maintenant pour rejoindre nos collègues.",
-      "question": "What will happen if they don't leave now?",
-      "questionType": "comprehension",
-      "options": [
-        "They will certainly be late",
-        "They will miss their colleagues entirely",
-        "They will arrive exactly on time",
-        "They will be early for the meeting"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'serons' (future 1st person plural of être) to express certainty that they will be late if they don't leave immediately.",
-      "difficulty": "C1",
-      "source": "Time management and workplace coordination",
-      "tags": [
-        "workplace",
-        "time-management",
-        "colleagues"
-      ],
-      "timeCreated": 1719936180
-    },
-    {
-      "id": 461,
-      "audioText": "Soyons honnêtes sur cette situation complexe qui nécessite une approche nuancée et réfléchie.",
-      "question": "What does the speaker suggest about their approach?",
-      "questionType": "comprehension",
-      "options": [
-        "They should be honest about the complex situation",
-        "They should avoid discussing the situation",
-        "They should simplify the complex problem",
-        "They should postpone making any decisions"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'soyons' (imperative 1st person plural of être) to suggest being honest about a complex situation requiring a nuanced approach.",
-      "difficulty": "C2",
-      "source": "Formal discussion requiring diplomatic approach",
-      "tags": [
-        "formal-discussion",
-        "honesty",
-        "complex-situations"
-      ],
-      "timeCreated": 1719936240
-    },
-    {
-      "id": 462,
-      "audioText": "Vous seriez probablement surpris de découvrir combien de personnes partagent cette opinion controversée sur la question.",
-      "question": "What would happen if people discovered the information?",
-      "questionType": "comprehension",
-      "options": [
-        "They would probably be surprised",
-        "They would completely reject it",
-        "They would be completely unsurprised",
-        "They would become angry about it"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'seriez' (conditional 2nd person plural of être) to express that people would probably be surprised to learn how many share this controversial opinion.",
-      "difficulty": "C1",
-      "source": "Discussion of controversial opinions and public perception",
-      "tags": [
-        "public-opinion",
-        "controversy",
-        "social-attitudes"
-      ],
-      "timeCreated": 1719936300
-    },
-    {
-      "id": 463,
-      "audioText": "Nous serions reconnaissants si vous pouviez nous accorder quelques minutes pour discuter de cette proposition importante.",
-      "question": "What are the speakers requesting?",
-      "questionType": "comprehension",
-      "options": [
-        "A few minutes to discuss an important proposal",
-        "A formal written response to their request",
-        "A complete rejection of their proposal",
-        "An immediate decision on the matter"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'serions' (conditional 1st person plural of être) to politely request a few minutes to discuss an important proposal.",
-      "difficulty": "C1",
-      "source": "Formal business request with conditional politeness",
-      "tags": [
-        "business",
-        "formal-request",
-        "proposals"
-      ],
-      "timeCreated": 1719936360
-    },
-    {
-      "id": 464,
-      "audioText": "Les dirigeants furent unanimement critiqués par la presse internationale pour leur gestion de cette crise sanitaire majeure.",
-      "question": "How did the international press react to the leaders?",
-      "questionType": "comprehension",
-      "options": [
-        "They unanimously criticized them",
-        "They strongly supported their decisions",
-        "They remained neutral about the situation",
-        "They were divided in their opinions"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'furent' (past historic 3rd person plural of être) to indicate the leaders were unanimously criticized by international press for their crisis management.",
-      "difficulty": "C2",
-      "source": "International news coverage of health crisis management",
-      "tags": [
-        "media-coverage",
-        "health",
-        "leadership"
-      ],
-      "timeCreated": 1719936420
-    },
-    {
-      "id": 465,
-      "audioText": "Les investisseurs institutionnels auront bientôt accès à des instruments financiers sophistiqués qui transformeront radicalement les mécanismes de financement des infrastructures publiques européennes, créant de nouvelles opportunités d'investissement durable à long terme.",
-      "question": "What will institutional investors soon have access to?",
-      "questionType": "comprehension",
-      "options": [
-        "Sophisticated financial instruments that will transform public infrastructure financing mechanisms",
-        "Traditional government bonds with guaranteed fixed returns for European projects",
-        "Simple investment portfolios focused exclusively on domestic market opportunities",
-        "Basic financing tools designed only for short-term municipal development projects"
-      ],
-      "correct": 0,
-      "explanation": "The text states that institutional investors 'auront bientôt accès à des instruments financiers sophistiqués' - will soon have access to sophisticated financial instruments. The future tense 'auront' (3rd person plural of avoir) indicates these investors will have access to complex tools that will transform European public infrastructure financing.",
-      "difficulty": "C2",
-      "source": "Advanced Financial Markets and European Infrastructure Policy",
-      "tags": [
-        "finance",
-        "investment",
-        "infrastructure",
-        "european-policy",
-        "institutional-investors",
-        "financial-instruments",
-        "sustainable-development"
-      ],
-      "timeCreated": 1719937000
-    },
-    {
-      "id": 466,
-      "audioText": "Quand j'étais adolescent, j'allais souvent à la bibliothèque municipale pour découvrir des œuvres littéraires classiques qui nourrissaient ma passion grandissante pour la philosophie existentialiste et les grands courants de pensée contemporains.",
-      "question": "Where did the speaker frequently go as a teenager?",
-      "questionType": "comprehension",
-      "options": [
-        "To the municipal library to discover classical literary works",
-        "To university lectures on existentialist philosophy",
-        "To bookstores to purchase contemporary philosophy books",
-        "To literary cafes to discuss philosophical movements with peers"
-      ],
-      "correct": 0,
-      "explanation": "The speaker states 'j'allais souvent à la bibliothèque municipale' - I often went to the municipal library. The imperfect tense 'allais' (1st/2nd person singular of aller) expresses a habitual action in the past, indicating regular visits to discover classical literary works that nourished their growing passion for existentialist philosophy.",
-      "difficulty": "C1",
-      "source": "Personal memoir about intellectual development and literary discovery",
-      "tags": [
-        "literature",
-        "philosophy",
-        "education",
-        "adolescence",
-        "intellectual-development",
-        "libraries",
-        "existentialism",
-        "classical-works"
-      ],
-      "timeCreated": 1719937060
-    },
-    {
-      "id": 467,
-      "audioText": "L'historiographie contemporaine révèle que cette histoire officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque, remettant ainsi en question les paradigmes établis par plusieurs générations d'érudits.",
-      "question": "L'historiographie contemporaine révèle que cette ______ officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque.",
-      "questionType": "FIB-reading",
-      "options": [
-        "histoire",
-        "théorie",
-        "doctrine",
-        "version"
-      ],
-      "correct": 0,
-      "explanation": "The word 'histoire' (history/narrative) is correct here. The text discusses how contemporary historiography reveals that the 'official history' (histoire officielle) concealed underlying complexities. While 'version' could seem plausible, 'histoire officielle' is the established term for official historical narratives that are later questioned by revisionist scholarship.",
-      "difficulty": "C2",
-      "source": "Academic Historiography",
-      "tags": [
-        "academia",
-        "historiography",
-        "research",
-        "scholarship",
-        "critical-analysis"
-      ],
-      "timeCreated": 1751488532
-    },
-    {
-      "id": 468,
-      "audioText": "Quand j'étais jeune, je croyais que tous les adultes savaient exactement quoi faire dans la vie.",
-      "question": "What did the narrator believe when they were young?",
-      "questionType": "comprehension",
-      "options": [
-        "That all adults knew exactly what to do in life.",
-        "That life would become easier as they got older.",
-        "That adults never made mistakes or had doubts.",
-        "That everyone had a clear plan for their future."
-      ],
-      "correct": 0,
-      "explanation": "The narrator uses 'croyais' (imperfect of croire - I used to believe) to describe a past belief from childhood: that all adults knew exactly what to do in life.",
-      "difficulty": "C1",
-      "source": "Childhood Reflections",
-      "tags": [
-        "childhood",
-        "maturity",
-        "perspective",
-        "philosophy"
-      ],
-      "timeCreated": 1719962300
-    },
-    {
-      "id": 469,
-      "audioText": "Le mariage du milliardaire et de l'ancienne journaliste Lauren Sanchez doit se tenir dans la cité des Doges. Il aurait décidé de donner un million d'euros à une association de protection de la lagune, ainsi qu'à deux autres organisations locales, pour calmer les esprits.",
-      "question": "Why is the billionaire giving money to local organizations?",
-      "questionType": "comprehension",
-      "options": [
-        "To fund his wedding celebration in Venice",
-        "To support his fiancée's journalism career",
-        "To calm public opinion about the wedding location",
-        "To invest in lagoon tourism development"
-      ],
-      "correct": 2,
-      "explanation": "He gives money 'pour calmer les esprits' - to calm spirits/public opinion. The donations to the lagoon protection association and local organizations are meant to appease concerns about the high-profile wedding in Venice ('la cité des Doges').",
-      "difficulty": "C1",
-      "source": "Celebrity News",
-      "tags": [
-        "celebrity",
-        "marriage",
-        "venice",
-        "environment"
-      ]
-    },
-    {
-      "id": 470,
-      "audioText": "Le PS renoue avec la censure, mais pas avec LFI : « Les socialistes sont revenus à la maison, mais tout n'est pas oublié. C'est à cause d'eux que le gouvernement a pu adopter le pire budget depuis des années »",
-      "question": "What is the relationship between PS and LFI regarding the censure motion?",
-      "questionType": "comprehension",
-      "options": [
-        "PS and LFI are working together on the censure motion",
-        "PS supports censure but is not cooperating with LFI",
-        "LFI has convinced PS to abandon the censure motion",
-        "Both parties oppose any censure motion"
-      ],
-      "correct": 1,
-      "explanation": "'Le PS renoue avec la censure, mais pas avec LFI' - PS reconnects with censure, but not with LFI. The quote suggests PS has 'returned home' (to opposition politics) but hasn't forgiven LFI's role in allowing 'the worst budget in years' to pass.",
-      "difficulty": "C2",
-      "source": "French Parliamentary Politics",
-      "tags": [
-        "politics",
-        "parliament",
-        "censure",
-        "socialist-party",
-        "coalition",
-        "budget"
-      ]
-    },
-    {
-      "id": 471,
-      "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
-      "parentQuestion": 8,
-      "question": "What did you hear?",
-      "questionType": "listening",
-      "options": [
-        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
-        "Pour que le système de santé soit durable, il faut qu'on fasse en sorte que les gens soient malades le plus tôt et le moins possible",
-        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le plus possible",
-        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient guéris le plus tard et le moins possible"
-      ],
-      "correct": 0,
-      "explanation": "The exact phrase was 'Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - for the health system to be sustainable, we must ensure people get sick as late and as little as possible.",
-      "difficulty": "C1",
-      "source": "French Healthcare Policy - Listening",
-      "tags": [
-        "healthcare",
-        "policy",
-        "has-simplified-version"
-      ]
-    },
-    {
-      "id": 472,
-      "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
-      "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
-      "questionType": "comprehension",
-      "options": [
-        "She confirmed she will definitely run for election",
-        "She has considered the possibility that she might not be able to run",
-        "She announced her withdrawal from the electoral race",
-        "She criticized the election process in her region"
-      ],
-      "correct": 1,
-      "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
-      "difficulty": "C1",
-      "source": "French Political Interview",
-      "tags": [
-        "politics",
-        "elections",
-        "deputy",
-        "candidacy",
-        "interview"
-      ]
-    },
-    {
       "id": 473,
       "audioText": "Au fond, cette réforme éducative ne changera rien aux inégalités sociales profondes qui persistent dans notre système scolaire depuis des décennies.",
       "question": "What is the speaker's opinion about the educational reform?",
@@ -1133,6 +118,33 @@
       ]
     },
     {
+      "id": 479,
+      "audioText": "Le maire du 12e arrondissement de Marseille, Sylvain Souvestre a condamné cet incendie, précisant: «les propriétaires sont des gens du quartier, un couple qui n'a rien à voir avec le conflit israélo-palestinien».",
+      "question": "Why did the mayor specifically clarify that the property owners have nothing to do with the Israeli-Palestinian conflict?",
+      "questionType": "comprehension",
+      "options": [
+        "To suggest the arson may have been motivated by Middle East tensions, but the victims were uninvolved local residents",
+        "To announce that the property owners were foreign nationals from the Middle East",
+        "To confirm that the arson was definitely committed by supporters of one side in the conflict",
+        "To reveal that the investigation found evidence of international terrorist involvement"
+      ],
+      "correct": 0,
+      "explanation": "The mayor's clarification that the property owners 'n'ont rien à voir avec le conflit israélo-palestinien' - have nothing to do with the Israeli-Palestinian conflict - implies that the arson incident may have been perceived as or actually motivated by tensions related to that conflict. By emphasizing the victims are just 'des gens du quartier' (local people), the mayor is distancing them from any political motivations behind the attack.",
+      "difficulty": "C1",
+      "source": "French Political News - Marseille Incident",
+      "tags": [
+        "politics",
+        "social-tensions",
+        "middle-east-conflict",
+        "crime",
+        "marseille",
+        "antisemitism",
+        "islamophobia",
+        "political-statement"
+      ],
+      "timeCreated": 1735500536
+    },
+    {
       "id": 480,
       "audioText": "Dès que j'eus terminé mon travail, je partis rejoindre mes amis au café.",
       "question": "What did the speaker do after finishing work?",
@@ -1154,6 +166,227 @@
         "café"
       ],
       "timeCreated": 1720051500
+    },
+    {
+      "id": 483,
+      "audioText": "Les experts en géopolitique pensent que ces tensions diplomatiques complexes arriveraient à un point de non-retour si les négociations multilatérales échouaient dans les prochains mois, compromettant irrémédiablement l'équilibre géostratégique régional.",
+      "question": "Les experts en géopolitique pensent que ces tensions diplomatiques complexes ______ à un point de non-retour si les négociations multilatérales échouaient dans les prochains mois, compromettant irrémédiablement l'équilibre géostratégique régional.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "arriveraient",
+        "arriveront",
+        "arrivent",
+        "arrivaient"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'arriveraient' - the conditional form of 'arriver' (to arrive/reach). In this complex diplomatic analysis, the conditional expresses a hypothetical consequence: these tensions would reach a point of no return if multilateral negotiations failed. The conditional mood is required after 'si' clauses expressing hypothetical situations in formal diplomatic discourse.",
+      "difficulty": "C2",
+      "source": "Advanced Geopolitical Analysis",
+      "tags": [
+        "geopolitics",
+        "diplomacy",
+        "international-relations",
+        "multilateral-negotiations",
+        "regional-stability",
+        "crisis-analysis"
+      ],
+      "timeCreated": 1735500648
+    },
+    {
+      "id": 487,
+      "audioText": "L'expert en sécurité dirait que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
+      "question": "L'expert en sécurité ______ que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "dirait",
+        "dit",
+        "disait",
+        "dira"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'dirait' - the conditional form of 'dire' (to say). In this cybersecurity context, the conditional expresses what the expert would say about this potential cyber-attack threat. 'Coup' here refers to a cyber-attack strike.",
+      "difficulty": "C1",
+      "source": "Cybersecurity Expert Analysis",
+      "tags": [
+        "cybersecurity",
+        "cyber-attacks",
+        "coup",
+        "digital-infrastructure",
+        "national-security",
+        "dire"
+      ],
+      "timeCreated": 1735500702
+    },
+    {
+      "id": 488,
+      "audioText": "Il est crucial que le gouvernement ait une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
+      "question": "Il est crucial que le gouvernement ______ une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "ait",
+        "a",
+        "avait",
+        "aura"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'ait' - the subjunctive form of 'avoir' (to have). After expressions of necessity like 'il est crucial que' (it is crucial that), French requires the subjunctive mood. This advanced C2 structure tests mastery of subjunctive usage in formal governmental and diplomatic discourse.",
+      "difficulty": "C2",
+      "source": "Advanced Governmental Communication Strategy",
+      "tags": [
+        "government",
+        "communication-strategy",
+        "geopolitics",
+        "diplomatic-challenges",
+        "formal-discourse"
+      ],
+      "timeCreated": 1735500702
+    },
+    {
+      "id": 489,
+      "audioText": "Dans les relations amoureuses modernes, vous laissez souvent vos partenaires exprimer leurs émotions sans jugement, favorisant ainsi une communication authentique et respectueuse.",
+      "question": "What approach do modern romantic relationships take regarding emotional expression?",
+      "questionType": "comprehension",
+      "options": [
+        "You often let your partners express their emotions without judgment, promoting authentic and respectful communication",
+        "You should control your partners' emotional expressions to maintain relationship stability",
+        "You typically discourage emotional expression to avoid conflicts and misunderstandings",
+        "You focus primarily on logical discussions rather than emotional communication"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'vous laissez souvent vos partenaires exprimer leurs émotions sans jugement, favorisant ainsi une communication authentique et respectueuse' - you often let your partners express their emotions without judgment, promoting authentic and respectful communication. 'Laissez' is the second person plural form of 'laisser' (to let/allow), demonstrating this crucial relationship conjugate. This introduces 'porte' context (opening doors to communication).",
+      "difficulty": "C1",
+      "source": "Modern Dating and Relationship Psychology",
+      "tags": [
+        "dating",
+        "interpersonal-relationships",
+        "emotional-intelligence",
+        "communication",
+        "psychology",
+        "romantic-relationships",
+        "laisser"
+      ],
+      "timeCreated": 1751217041
+    },
+    {
+      "id": 490,
+      "audioText": "Si tu étudiais la composition musicale contemporaine, tu pourrais comprendre comment les harmonies dissonantes reflètent l'aliénation existentielle de notre époque postmoderne, créant des résonances émotionnelles qui transcendent les conventions esthétiques traditionnelles.",
+      "question": "According to this analysis, what would studying contemporary musical composition help you understand?",
+      "questionType": "comprehension",
+      "options": [
+        "How dissonant harmonies reflect the existential alienation of our postmodern era, creating emotional resonances that transcend traditional aesthetic conventions",
+        "How classical harmonies provide comfort and stability in uncertain times through familiar musical structures",
+        "How popular music influences have simplified contemporary composition techniques for broader audience appeal",
+        "How digital technology has completely replaced traditional acoustic instruments in modern musical expression"
+      ],
+      "correct": 0,
+      "explanation": "The text explains that studying contemporary musical composition 'tu pourrais comprendre comment les harmonies dissonantes reflètent l'aliénation existentielle de notre époque postmoderne, créant des résonances émotionnelles qui transcendent les conventions esthétiques traditionnelles' - you could understand how dissonant harmonies reflect the existential alienation of our postmodern era, creating emotional resonances that transcend traditional aesthetic conventions. 'Pourrais' is the conditional form of 'pouvoir' (could), showing this essential advanced conjugate. This introduces sophisticated 'voix' (voices) in musical harmony.",
+      "difficulty": "C2",
+      "source": "Advanced Music Theory and Philosophy",
+      "tags": [
+        "music",
+        "music-theory",
+        "philosophy",
+        "postmodernism",
+        "academic-discourse",
+        "aesthetic-theory",
+        "pouvoir"
+      ],
+      "timeCreated": 1751217041
+    },
+    {
+      "id": 491,
+      "audioText": "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
+        "Elle aime passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
+        "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflètent la société bourgeoise de l'époque.",
+        "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétèrent la société bourgeoise de l'époque."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'elle aimait' - third person singular imperfect of 'aimer' (she loved/used to love). This form was missing from our conjugation coverage despite being frequent in literary and biographical contexts.",
+      "difficulty": "C1",
+      "source": "Literary discussion and cultural preferences",
+      "tags": [
+        "literature",
+        "culture",
+        "19th-century",
+        "authors"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 492,
+      "audioText": "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
+        "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
+        "Vous voyait bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
+        "Vous voyez bien que cette analyse socio-économique révéla des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'vous voyez' - second person plural present of 'voir' (you see). This form was identified as missing from our coverage despite being highly frequent in formal discourse and academic discussions.",
+      "difficulty": "C2",
+      "source": "Academic discussion on social and economic policy",
+      "tags": [
+        "socio-economics",
+        "policy",
+        "academic",
+        "formal-discourse"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 493,
+      "audioText": "Les sociologues observent que les populations les plus heureuses ne sont pas nécessairement celles qui possèdent le plus de richesses matérielles, mais plutôt celles qui bénéficient de liens sociaux solides, d'un sentiment de sécurité collective et d'une harmonie culturelle profonde.",
+      "question": "According to sociologists, what makes populations happiest?",
+      "questionType": "comprehension",
+      "options": [
+        "Strong social bonds, collective security, and deep cultural harmony",
+        "Material wealth, property ownership, and economic prosperity",
+        "Individual achievements, personal freedom, and competitive success",
+        "Urban development, technological advancement, and modern infrastructure"
+      ],
+      "correct": 0,
+      "explanation": "The text states that the happiest populations ('heureuses') are not those with material wealth, but those who benefit from strong social bonds, collective security, and deep cultural harmony. The adjective 'heureux/heureuses' was completely missing from our question bank.",
+      "difficulty": "C1",
+      "source": "Sociological research on happiness and well-being",
+      "tags": [
+        "heureux",
+        "sociology",
+        "happiness",
+        "social-bonds",
+        "well-being",
+        "materialism"
+      ],
+      "timeCreated": 1704067200
+    },
+    {
+      "id": 494,
+      "audioText": "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants, créant ainsi un cercle vicieux d'appauvrissement institutionnalisé.",
+      "question": "What does the distinguished economist argue about austerity policies?",
+      "questionType": "comprehension",
+      "options": [
+        "They are a deliberate neoliberal strategy to maintain global structural inequalities and economic dependence",
+        "They are necessary short-term measures to help poor nations achieve financial independence",
+        "They provide effective solutions for reducing debt and stimulating sustainable economic growth",
+        "They represent compassionate international aid designed to strengthen local democratic institutions"
+      ],
+      "correct": 0,
+      "explanation": "The economist argues that austerity policies imposed on the poorest nations ('pauvres') are a deliberate neoliberal strategy to maintain structural inequalities and economic dependence. The adjective 'pauvre/pauvres' was missing from our question bank despite being high-frequency.",
+      "difficulty": "C2",
+      "source": "Economic theory and global policy analysis",
+      "tags": [
+        "economics",
+        "austerity",
+        "neoliberalism",
+        "inequality",
+        "policy-analysis"
+      ],
+      "timeCreated": 1704067200
     },
     {
       "id": 495,
@@ -1508,7 +741,7 @@
     {
       "id": 512,
       "audioText": "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
-      "parentQuestion": 445,
+      "parentQuestion": 494,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -1533,7 +766,7 @@
     {
       "id": 513,
       "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
-      "parentQuestion": 448,
+      "parentQuestion": 549,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -1559,7 +792,7 @@
     {
       "id": 514,
       "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
-      "parentQuestion": 449,
+      "parentQuestion": 550,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -1585,7 +818,7 @@
     {
       "id": 515,
       "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
-      "parentQuestion": 450,
+      "parentQuestion": 555,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -2184,15 +1417,914 @@
         "urban-navigation"
       ],
       "timeCreated": 1720027640
+    },
+    {
+      "id": 542,
+      "audioText": "Les déléguées diplomatiques, arrivées hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
+      "question": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "arrivées",
+        "arrivée",
+        "arrivés",
+        "arrivé"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'arrivées' - the feminine plural past participle agreeing with 'les déléguées diplomatiques' (the female diplomatic delegates). The past participle must agree in gender and number with the subject when used with être or in absolute constructions.",
+      "difficulty": "C2",
+      "source": "High-level diplomatic summit coverage",
+      "tags": [
+        "diplomacy",
+        "negotiations",
+        "geopolitics",
+        "international-relations",
+        "balkans",
+        "geneva",
+        "summit",
+        "politics"
+      ]
+    },
+    {
+      "id": 543,
+      "audioText": "Maîtres boulangers, sauriez-vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
+      "question": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sauriez",
+        "savez",
+        "saviez",
+        "saurez"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question. This form expresses a courteous inquiry about capability or knowledge. The question asks master bakers if they could analyze the organoleptic subtleties of naturally fermented sourdough.",
+      "difficulty": "C2",
+      "source": "Advanced artisanal bakery master class discourse",
+      "tags": [
+        "bread",
+        "culinary-arts",
+        "artisanal",
+        "french-heritage",
+        "gastronomy",
+        "professional",
+        "traditional-crafts",
+        "cultural-heritage"
+      ]
+    },
+    {
+      "id": 544,
+      "audioText": "Les sociologues contemporains croient que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
+      "question": "Les sociologues contemporains ______ que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "croient",
+        "croit",
+        "croyez",
+        "croyons"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'croient' - the third person plural form of 'croire' (to believe). This form agrees with 'les sociologues contemporains' (contemporary sociologists). The sentence discusses sociological analysis of socioeconomic inequality and structural changes in French society.",
+      "difficulty": "C2",
+      "source": "Advanced sociological analysis of contemporary French social dynamics",
+      "tags": [
+        "social-issues",
+        "sociology",
+        "inequality",
+        "economics",
+        "digitalization",
+        "employment",
+        "society",
+        "academia",
+        "analysis",
+        "france"
+      ]
+    },
+    {
+      "id": 545,
+      "audioText": "L'écrivain célèbre eut soudain une peur terrible lorsqu'il réalisa que son histoire la plus importante venait d'être perdue à jamais dans l'incendie de sa maison, et que toutes ces années de travail acharné s'envolaient en fumée.",
+      "question": "What did the famous writer suddenly experience?",
+      "questionType": "comprehension",
+      "options": [
+        "Terrible fear upon realizing his most important story was lost forever",
+        "Great joy when he discovered a new manuscript in his attic",
+        "Deep sadness after reading negative reviews of his latest book",
+        "Overwhelming relief when his publisher agreed to extend the deadline"
+      ],
+      "correct": 0,
+      "explanation": "The French text uses the passé simple 'eut' (he had) to describe a sudden realization. 'L'écrivain eut une peur terrible' means 'The writer had/experienced terrible fear.' The passé simple is used in literary French to narrate past events, making this an advanced C2 level structure.",
+      "difficulty": "C2",
+      "source": "Literary French with passé simple",
+      "tags": [
+        "histoire",
+        "literature",
+        "tragedy",
+        "writers"
+      ],
+      "timeCreated": 1735489380
+    },
+    {
+      "id": 546,
+      "audioText": "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
+      "ssml": "<speak>Ce don agace certains internautes qui reprennent l'expression <break time=\"250ms\"/>«C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</speak>",
+      "question": "What does the internet expression «C'est Nicolas qui paie» represent in this context?",
+      "questionType": "comprehension",
+      "options": [
+        "A popular phrase used to designate taxpayers who pay for all public expenses through their taxes",
+        "A charitable donation campaign organized by someone named Nicolas",
+        "A criticism of a specific politician named Nicolas who overspends public money",
+        "An internet meme about online payment systems and digital transactions"
+      ],
+      "correct": 0,
+      "explanation": "The text explains that internet users use the expression «C'est Nicolas qui paie» 'pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics' - to designate taxpayers who pay, through their taxes, all public expenses. The expression is used ironically to criticize the burden on taxpayers for funding government spending.",
+      "difficulty": "C1",
+      "source": "French Political Media Commentary",
+      "tags": [
+        "politics",
+        "taxation",
+        "internet-culture",
+        "public-spending",
+        "social-commentary",
+        "media"
+      ],
+      "timeCreated": 1735496889
+    },
+    {
+      "id": 547,
+      "audioText": "Il faut ouvrir chaque porte métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.",
+      "question": "Il faut ouvrir chaque ______ métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "porte",
+        "fenêtre",
+        "voie",
+        "route"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'porte' (door). The sentence means 'One must open each metaphorical door that leads toward a deep understanding of contemporary sociopolitical mechanisms.' This introduces the high-frequency noun 'porte' in an intellectual/academic context with metaphorical usage.",
+      "difficulty": "C1",
+      "source": "Academic Discourse and Intellectual Access",
+      "tags": [
+        "intellectual-discourse",
+        "academic",
+        "metaphor",
+        "understanding",
+        "sociopolitics",
+        "access-to-knowledge"
+      ],
+      "timeCreated": 1751219400
+    },
+    {
+      "id": 548,
+      "audioText": "Les collectionneurs passionnés de timbres philatéliques consacrent énormément de temps à analyser minutieusement les nuances esthétiques et historiques de chaque spécimen, transformant cette activité de loisir en véritable passion érudite qui révèle des aspects insoupçonnés de l'histoire postale mondiale.",
+      "question": "Les collectionneurs passionnés de timbres philatéliques consacrent énormément de ______ à analyser minutieusement les nuances esthétiques et historiques de chaque spécimen, transformant cette activité de loisir en véritable passion érudite qui révèle des aspects insoupçonnés de l'histoire postale mondiale.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "temps",
+        "argent",
+        "effort",
+        "énergie"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'temps' (time). The sentence means 'Passionate collectors of philatelic stamps devote enormous amounts of time to minutely analyzing the aesthetic and historical nuances of each specimen, transforming this leisure activity into a true erudite passion that reveals unsuspected aspects of world postal history.' This introduces advanced hobby vocabulary and the concept of time dedication to specialized interests.",
+      "difficulty": "C2",
+      "source": "Advanced Hobby Culture and Collecting",
+      "tags": [
+        "hobbies",
+        "collecting",
+        "philately",
+        "stamps",
+        "time",
+        "leisure",
+        "erudition",
+        "specialized-knowledge"
+      ],
+      "timeCreated": 1751219400
+    },
+    {
+      "id": 549,
+      "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+      "question": "What is the significance of this revolutionary idea according to the text?",
+      "questionType": "comprehension",
+      "options": [
+        "It could radically transform our approach to AI by challenging established paradigms and opening new epistemological horizons",
+        "It provides a simple solution to current technical problems in artificial intelligence development",
+        "It represents a conservative approach to maintaining existing AI research methodologies",
+        "It focuses primarily on commercial applications rather than theoretical advances"
+      ],
+      "correct": 0,
+      "explanation": "The text describes an 'idée révolutionnaire' (revolutionary idea) that could 'transformer radicalement notre approche de l'intelligence artificielle' (radically transform our approach to artificial intelligence) by 'remettant en question les paradigmes établis' (challenging established paradigms) and 'ouvrant de nouveaux horizons épistémologiques' (opening new epistemological horizons).",
+      "difficulty": "C2",
+      "source": "Academic Research",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "philosophy",
+        "research",
+        "innovation",
+        "epistemology"
+      ],
+      "timeCreated": 1751300995
+    },
+    {
+      "id": 550,
+      "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+      "question": "What criticism is being made in this statement?",
+      "questionType": "comprehension",
+      "options": [
+        "The person always said economic reforms were necessary but never proposed concrete solutions",
+        "The person never supported economic reforms and blocked all proposed changes",
+        "The person only focused on theoretical solutions without considering practical implications",
+        "The person changed their opinion about economic reforms too frequently"
+      ],
+      "correct": 0,
+      "explanation": "The statement criticizes someone who 'disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes' (always said that economic reforms were necessary, but never proposed concrete solutions). This highlights a gap between rhetoric and action.",
+      "difficulty": "C1",
+      "source": "Political Discourse",
+      "tags": [
+        "politics",
+        "economics",
+        "criticism",
+        "rhetoric",
+        "policy-analysis",
+        "contradictions"
+      ],
+      "timeCreated": 1751325934
+    },
+    {
+      "id": 551,
+      "audioText": "Il faut que tu puisses comprendre cette situation complexe avant de décider.",
+      "question": "What does the speaker think is necessary?",
+      "questionType": "comprehension",
+      "options": [
+        "That you be able to understand this complex situation before deciding.",
+        "That you should understand this simple situation before deciding.",
+        "That you could understand this situation after deciding.",
+        "That you want to understand this situation before deciding."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'puisses' - the subjunctive form of 'pouvoir' (to be able to/can). 'Il faut que tu puisses' means 'it is necessary that you be able to'. The subjunctive is required after 'il faut que'.",
+      "difficulty": "C1",
+      "source": "Formal discussion requiring subjunctive mood",
+      "tags": [
+        "formal-discussion",
+        "decision-making",
+        "necessity"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 552,
+      "audioText": "Je doute qu'ils puissent terminer ce projet dans les délais impartis.",
+      "question": "What does the speaker doubt?",
+      "questionType": "comprehension",
+      "options": [
+        "That they can finish this project within the given timeframe.",
+        "That they want to finish this project within the given timeframe.",
+        "That they will finish this project before the given timeframe.",
+        "That they should finish this project after the given timeframe."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'puissent' - the subjunctive form of 'pouvoir' for ils/elles. 'Je doute qu'ils puissent' means 'I doubt that they can'. The subjunctive is required after expressions of doubt like 'je doute que'.",
+      "difficulty": "C1",
+      "source": "Business context with subjunctive mood",
+      "tags": [
+        "business",
+        "project-management",
+        "doubt"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 553,
+      "audioText": "Dîtes-moi ce que vous pensez de cette proposition importante.",
+      "question": "What is the speaker asking?",
+      "questionType": "comprehension",
+      "options": [
+        "Tell me what you think of this important proposal.",
+        "Show me what you think of this important proposal.",
+        "Write me what you think of this important proposal.",
+        "Explain me what you think of this important proposal."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'dîtes' - the formal/archaic imperative form of 'dire' (to say/tell). 'Dîtes-moi' means 'tell me'. This form with the circumflex accent is more formal than the modern 'dites'.",
+      "difficulty": "C2",
+      "source": "Formal literary or administrative context",
+      "tags": [
+        "formal-discussion",
+        "opinion",
+        "proposal"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 554,
+      "audioText": "Il faut que tu ailles chercher les documents au bureau avant cinq heures.",
+      "question": "What does the person need to do before five o'clock?",
+      "questionType": "comprehension",
+      "options": [
+        "Go get the documents at the office.",
+        "Send the documents to the office.",
+        "Read the documents at the office.",
+        "Sign the documents at the office."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'ailles' - the subjunctive form of 'aller' (to go) for tu. 'Il faut que tu ailles' means 'you must go/it's necessary that you go'. The subjunctive is required after 'il faut que'.",
+      "difficulty": "C1",
+      "source": "Professional task instruction",
+      "tags": [
+        "workplace",
+        "urgency",
+        "administrative"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 555,
+      "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+      "question": "What are the consequences of this economic war according to the text?",
+      "questionType": "comprehension",
+      "options": [
+        "It has major geopolitical repercussions that transform global balance and redefine traditional strategic alliances",
+        "It primarily affects bilateral trade relationships without broader international impact",
+        "It strengthens existing military partnerships and reinforces current power structures",
+        "It leads to increased cooperation and diplomatic dialogue between the nations"
+      ],
+      "correct": 0,
+      "explanation": "The text describes an economic 'guerre' (war) that has 'répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles' (major geopolitical repercussions that transform the global balance and redefine traditional strategic alliances).",
+      "difficulty": "C1",
+      "source": "International Relations Analysis",
+      "tags": [
+        "politics",
+        "international-relations",
+        "economics",
+        "geopolitics",
+        "global-affairs",
+        "strategic-alliances"
+      ],
+      "timeCreated": 1751326285
+    },
+    {
+      "id": 556,
+      "audioText": "Ma fille aînée, devenue médecin après des années d'études acharnées, m'a expliqué que l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération contemporaine.",
+      "question": "What challenge does the daughter's generation face according to the text?",
+      "questionType": "comprehension",
+      "options": [
+        "Balancing professional life and parenthood",
+        "Finding affordable housing in cities",
+        "Adapting to new medical technologies",
+        "Managing student loan debt effectively"
+      ],
+      "correct": 0,
+      "explanation": "The daughter explains that 'l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération' - the balance between professional life and parenthood represents one of the most complex challenges of her generation.",
+      "difficulty": "C1",
+      "source": "Family discussion about generational challenges",
+      "tags": [
+        "family",
+        "generational-issues",
+        "work-life-balance",
+        "parenting",
+        "professional-life"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 557,
+      "audioText": "Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre, nécessitant des mesures urgentes pour préserver la biodiversité et les écosystèmes fragiles pour les générations futures qui hériteront de cette planète transformée.",
+      "question": "According to the scientists, what does climate change threaten?",
+      "questionType": "comprehension",
+      "options": [
+        "The ecological balance of our earth",
+        "The economic stability of nations",
+        "The development of new technologies",
+        "The political relationships between countries"
+      ],
+      "correct": 0,
+      "explanation": "The text states that scientists affirm that 'le réchauffement climatique menace l'équilibre écologique de notre terre' - climate warming/change threatens the ecological balance of our earth, requiring urgent measures to preserve biodiversity.",
+      "difficulty": "C1",
+      "source": "Scientific statement on climate change impact",
+      "tags": [
+        "environment",
+        "climate-change",
+        "science",
+        "ecology",
+        "future-generations"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 558,
+      "audioText": "Le directeur général allait annoncer sa démission lors de l'assemblée générale extraordinaire, mais les négociations de dernière minute avec le conseil d'administration ont changé la donne, permettant ainsi d'éviter une crise institutionnelle majeure qui aurait pu déstabiliser l'ensemble de l'organisation.",
+      "question": "What was the CEO going to do before last-minute negotiations changed the situation?",
+      "questionType": "comprehension",
+      "options": [
+        "Announce his resignation at the extraordinary general meeting",
+        "Present the quarterly financial results to shareholders",
+        "Propose a merger with a competing organization",
+        "Restructure the entire management hierarchy"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Le directeur général allait annoncer sa démission lors de l'assemblée générale extraordinaire' - the CEO was going to announce his resignation at the extraordinary general meeting, but last-minute negotiations with the board changed the situation.",
+      "difficulty": "C1",
+      "source": "Corporate governance crisis and resolution",
+      "tags": [
+        "corporate-governance",
+        "leadership",
+        "crisis-management",
+        "negotiations",
+        "institutional-stability"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 559,
+      "audioText": "Je ferai en sorte que cette réforme constitutionnelle soit adoptée dans les délais impartis, même si cela implique de convaincre les parlementaires les plus récalcitrants et de négocier des compromis substantiels avec l'opposition pour garantir une majorité suffisante lors du vote final.",
+      "question": "Je ______ en sorte que cette réforme constitutionnelle soit adoptée dans les délais impartis, même si cela implique de convaincre les parlementaires les plus récalcitrants.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "ferai",
+        "fais",
+        "ferais",
+        "ai fait"
+      ],
+      "correct": 0,
+      "explanation": "The future tense 'ferai' (I will make sure) expresses a firm commitment to ensure the constitutional reform is adopted within the timeframe, despite potential political obstacles.",
+      "difficulty": "C1",
+      "source": "Political commitment regarding constitutional reform",
+      "tags": [
+        "politics",
+        "constitutional-reform",
+        "parliamentary-process",
+        "political-negotiation",
+        "governance"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 560,
+      "audioText": "Les experts en géopolitique disaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables qui ont finalement transformé les rapports de force bien au-delà des prévisions initiales.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Les experts en géopolitique disaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables.",
+        "Les experts en géopolitique pensaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables.",
+        "Les experts en géopolitique disent que cette alliance stratégique bouleversera l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables.",
+        "Les experts en géopolitique ont dit que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables."
+      ],
+      "correct": 0,
+      "explanation": "The listening exercise tests the exact comprehension of 'disaient' (were saying) in the imperfect tense, used to describe what geopolitical experts were saying about a strategic alliance's impact.",
+      "difficulty": "C1",
+      "source": "Geopolitical analysis of strategic alliance consequences",
+      "tags": [
+        "geopolitics",
+        "strategic-alliances",
+        "expert-analysis",
+        "economic-impact",
+        "international-relations"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 561,
+      "audioText": "Si nous mobilisions l'ensemble des ressources disponibles et que nous coordonnions efficacement nos efforts avec les organisations partenaires, nous pourrions réaliser une transformation systémique durable de ce secteur d'activité, créant ainsi un modèle reproductible à l'échelle internationale.",
+      "question": "Nous ______ réaliser une transformation systémique durable de ce secteur d'activité, créant ainsi un modèle reproductible à l'échelle internationale.",
+      "questionType": "FIB-reading",
+      "options": [
+        "pourrions",
+        "pourrons",
+        "pouvons",
+        "avons pu"
+      ],
+      "correct": 0,
+      "explanation": "The conditional 'pourrions' (we could) is used in the main clause of a conditional sentence, expressing what would be possible if the conditions mentioned in the 'si' clause were met.",
+      "difficulty": "C1",
+      "source": "Strategic planning for systemic sector transformation",
+      "tags": [
+        "strategic-planning",
+        "systemic-transformation",
+        "international-cooperation",
+        "resource-mobilization",
+        "sustainable-development"
+      ],
+      "timeCreated": 1735689600
+    },
+    {
+      "id": 562,
+      "audioText": "Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.",
+      "question": "What will happen when the project is finished?",
+      "questionType": "comprehension",
+      "options": [
+        "The person will probably be satisfied",
+        "The project will be cancelled",
+        "More work will be needed",
+        "The result will be disappointing"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'seras' (future tense of être) to indicate the person will probably be satisfied when the ambitious project is completed.",
+      "difficulty": "C1",
+      "source": "Future tense conjugation with être",
+      "tags": [
+        "workplace",
+        "projects",
+        "future-planning"
+      ],
+      "timeCreated": 1719936000
+    },
+    {
+      "id": 563,
+      "audioText": "Le ministre fut contraint de démissionner suite aux révélations sur ses liens avec cette affaire de corruption.",
+      "question": "What happened to the minister?",
+      "questionType": "comprehension",
+      "options": [
+        "He was forced to resign",
+        "He was promoted to a higher position",
+        "He denied all allegations",
+        "He remained in office"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'fut' (past historic of être) to indicate the minister was forced to resign following corruption revelations.",
+      "difficulty": "C2",
+      "source": "Political news with past historic tense",
+      "tags": [
+        "politics",
+        "corruption",
+        "government"
+      ],
+      "timeCreated": 1719936060
+    },
+    {
+      "id": 564,
+      "audioText": "Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bruyants en classe.",
+      "question": "Why were the children often punished?",
+      "questionType": "comprehension",
+      "options": [
+        "They were too noisy in class",
+        "They didn't do their homework",
+        "They arrived late to school",
+        "They fought with other students"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'étions' (imperfect 1st person plural of être) to describe how they were often punished for being too noisy as children.",
+      "difficulty": "C1",
+      "source": "Childhood memories with imperfect tense",
+      "tags": [
+        "education",
+        "childhood",
+        "behavior"
+      ],
+      "timeCreated": 1719936120
+    },
+    {
+      "id": 565,
+      "audioText": "Nous serons certainement en retard si nous ne partons pas maintenant pour rejoindre nos collègues.",
+      "question": "What will happen if they don't leave now?",
+      "questionType": "comprehension",
+      "options": [
+        "They will certainly be late",
+        "They will miss their colleagues entirely",
+        "They will arrive exactly on time",
+        "They will be early for the meeting"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'serons' (future 1st person plural of être) to express certainty that they will be late if they don't leave immediately.",
+      "difficulty": "C1",
+      "source": "Time management and workplace coordination",
+      "tags": [
+        "workplace",
+        "time-management",
+        "colleagues"
+      ],
+      "timeCreated": 1719936180
+    },
+    {
+      "id": 566,
+      "audioText": "Soyons honnêtes sur cette situation complexe qui nécessite une approche nuancée et réfléchie.",
+      "question": "What does the speaker suggest about their approach?",
+      "questionType": "comprehension",
+      "options": [
+        "They should be honest about the complex situation",
+        "They should avoid discussing the situation",
+        "They should simplify the complex problem",
+        "They should postpone making any decisions"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'soyons' (imperative 1st person plural of être) to suggest being honest about a complex situation requiring a nuanced approach.",
+      "difficulty": "C2",
+      "source": "Formal discussion requiring diplomatic approach",
+      "tags": [
+        "formal-discussion",
+        "honesty",
+        "complex-situations"
+      ],
+      "timeCreated": 1719936240
+    },
+    {
+      "id": 567,
+      "audioText": "Vous seriez probablement surpris de découvrir combien de personnes partagent cette opinion controversée sur la question.",
+      "question": "What would happen if people discovered the information?",
+      "questionType": "comprehension",
+      "options": [
+        "They would probably be surprised",
+        "They would completely reject it",
+        "They would be completely unsurprised",
+        "They would become angry about it"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'seriez' (conditional 2nd person plural of être) to express that people would probably be surprised to learn how many share this controversial opinion.",
+      "difficulty": "C1",
+      "source": "Discussion of controversial opinions and public perception",
+      "tags": [
+        "public-opinion",
+        "controversy",
+        "social-attitudes"
+      ],
+      "timeCreated": 1719936300
+    },
+    {
+      "id": 568,
+      "audioText": "Nous serions reconnaissants si vous pouviez nous accorder quelques minutes pour discuter de cette proposition importante.",
+      "question": "What are the speakers requesting?",
+      "questionType": "comprehension",
+      "options": [
+        "A few minutes to discuss an important proposal",
+        "A formal written response to their request",
+        "A complete rejection of their proposal",
+        "An immediate decision on the matter"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'serions' (conditional 1st person plural of être) to politely request a few minutes to discuss an important proposal.",
+      "difficulty": "C1",
+      "source": "Formal business request with conditional politeness",
+      "tags": [
+        "business",
+        "formal-request",
+        "proposals"
+      ],
+      "timeCreated": 1719936360
+    },
+    {
+      "id": 569,
+      "audioText": "Les dirigeants furent unanimement critiqués par la presse internationale pour leur gestion de cette crise sanitaire majeure.",
+      "question": "How did the international press react to the leaders?",
+      "questionType": "comprehension",
+      "options": [
+        "They unanimously criticized them",
+        "They strongly supported their decisions",
+        "They remained neutral about the situation",
+        "They were divided in their opinions"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses 'furent' (past historic 3rd person plural of être) to indicate the leaders were unanimously criticized by international press for their crisis management.",
+      "difficulty": "C2",
+      "source": "International news coverage of health crisis management",
+      "tags": [
+        "media-coverage",
+        "health",
+        "leadership"
+      ],
+      "timeCreated": 1719936420
+    },
+    {
+      "id": 570,
+      "audioText": "Les investisseurs institutionnels auront bientôt accès à des instruments financiers sophistiqués qui transformeront radicalement les mécanismes de financement des infrastructures publiques européennes, créant de nouvelles opportunités d'investissement durable à long terme.",
+      "question": "What will institutional investors soon have access to?",
+      "questionType": "comprehension",
+      "options": [
+        "Sophisticated financial instruments that will transform public infrastructure financing mechanisms",
+        "Traditional government bonds with guaranteed fixed returns for European projects",
+        "Simple investment portfolios focused exclusively on domestic market opportunities",
+        "Basic financing tools designed only for short-term municipal development projects"
+      ],
+      "correct": 0,
+      "explanation": "The text states that institutional investors 'auront bientôt accès à des instruments financiers sophistiqués' - will soon have access to sophisticated financial instruments. The future tense 'auront' (3rd person plural of avoir) indicates these investors will have access to complex tools that will transform European public infrastructure financing.",
+      "difficulty": "C2",
+      "source": "Advanced Financial Markets and European Infrastructure Policy",
+      "tags": [
+        "finance",
+        "investment",
+        "infrastructure",
+        "european-policy",
+        "institutional-investors",
+        "financial-instruments",
+        "sustainable-development"
+      ],
+      "timeCreated": 1719937000
+    },
+    {
+      "id": 571,
+      "audioText": "Quand j'étais adolescent, j'allais souvent à la bibliothèque municipale pour découvrir des œuvres littéraires classiques qui nourrissaient ma passion grandissante pour la philosophie existentialiste et les grands courants de pensée contemporains.",
+      "question": "Where did the speaker frequently go as a teenager?",
+      "questionType": "comprehension",
+      "options": [
+        "To the municipal library to discover classical literary works",
+        "To university lectures on existentialist philosophy",
+        "To bookstores to purchase contemporary philosophy books",
+        "To literary cafes to discuss philosophical movements with peers"
+      ],
+      "correct": 0,
+      "explanation": "The speaker states 'j'allais souvent à la bibliothèque municipale' - I often went to the municipal library. The imperfect tense 'allais' (1st/2nd person singular of aller) expresses a habitual action in the past, indicating regular visits to discover classical literary works that nourished their growing passion for existentialist philosophy.",
+      "difficulty": "C1",
+      "source": "Personal memoir about intellectual development and literary discovery",
+      "tags": [
+        "literature",
+        "philosophy",
+        "education",
+        "adolescence",
+        "intellectual-development",
+        "libraries",
+        "existentialism",
+        "classical-works"
+      ],
+      "timeCreated": 1719937060
+    },
+    {
+      "id": 572,
+      "audioText": "L'historiographie contemporaine révèle que cette histoire officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque, remettant ainsi en question les paradigmes établis par plusieurs générations d'érudits.",
+      "question": "L'historiographie contemporaine révèle que cette ______ officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque.",
+      "questionType": "FIB-reading",
+      "options": [
+        "histoire",
+        "théorie",
+        "doctrine",
+        "version"
+      ],
+      "correct": 0,
+      "explanation": "The word 'histoire' (history/narrative) is correct here. The text discusses how contemporary historiography reveals that the 'official history' (histoire officielle) concealed underlying complexities. While 'version' could seem plausible, 'histoire officielle' is the established term for official historical narratives that are later questioned by revisionist scholarship.",
+      "difficulty": "C2",
+      "source": "Academic Historiography",
+      "tags": [
+        "academia",
+        "historiography",
+        "research",
+        "scholarship",
+        "critical-analysis"
+      ],
+      "timeCreated": 1751488532
+    },
+    {
+      "id": 573,
+      "audioText": "Quand j'étais jeune, je croyais que tous les adultes savaient exactement quoi faire dans la vie.",
+      "question": "What did the narrator believe when they were young?",
+      "questionType": "comprehension",
+      "options": [
+        "That all adults knew exactly what to do in life.",
+        "That life would become easier as they got older.",
+        "That adults never made mistakes or had doubts.",
+        "That everyone had a clear plan for their future."
+      ],
+      "correct": 0,
+      "explanation": "The narrator uses 'croyais' (imperfect of croire - I used to believe) to describe a past belief from childhood: that all adults knew exactly what to do in life.",
+      "difficulty": "C1",
+      "source": "Childhood Reflections",
+      "tags": [
+        "childhood",
+        "maturity",
+        "perspective",
+        "philosophy"
+      ],
+      "timeCreated": 1719962300
+    },
+    {
+      "id": 574,
+      "audioText": "Le mariage du milliardaire et de l'ancienne journaliste Lauren Sanchez doit se tenir dans la cité des Doges. Il aurait décidé de donner un million d'euros à une association de protection de la lagune, ainsi qu'à deux autres organisations locales, pour calmer les esprits.",
+      "question": "Why is the billionaire giving money to local organizations?",
+      "questionType": "comprehension",
+      "options": [
+        "To fund his wedding celebration in Venice",
+        "To support his fiancée's journalism career",
+        "To calm public opinion about the wedding location",
+        "To invest in lagoon tourism development"
+      ],
+      "correct": 2,
+      "explanation": "He gives money 'pour calmer les esprits' - to calm spirits/public opinion. The donations to the lagoon protection association and local organizations are meant to appease concerns about the high-profile wedding in Venice ('la cité des Doges').",
+      "difficulty": "C1",
+      "source": "Celebrity News",
+      "tags": [
+        "celebrity",
+        "marriage",
+        "venice",
+        "environment"
+      ]
+    },
+    {
+      "id": 575,
+      "audioText": "Le PS renoue avec la censure, mais pas avec LFI : « Les socialistes sont revenus à la maison, mais tout n'est pas oublié. C'est à cause d'eux que le gouvernement a pu adopter le pire budget depuis des années »",
+      "question": "What is the relationship between PS and LFI regarding the censure motion?",
+      "questionType": "comprehension",
+      "options": [
+        "PS and LFI are working together on the censure motion",
+        "PS supports censure but is not cooperating with LFI",
+        "LFI has convinced PS to abandon the censure motion",
+        "Both parties oppose any censure motion"
+      ],
+      "correct": 1,
+      "explanation": "'Le PS renoue avec la censure, mais pas avec LFI' - PS reconnects with censure, but not with LFI. The quote suggests PS has 'returned home' (to opposition politics) but hasn't forgiven LFI's role in allowing 'the worst budget in years' to pass.",
+      "difficulty": "C2",
+      "source": "French Parliamentary Politics",
+      "tags": [
+        "politics",
+        "parliament",
+        "censure",
+        "socialist-party",
+        "coalition",
+        "budget"
+      ]
+    },
+    {
+      "id": 576,
+      "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+      "parentQuestion": 8,
+      "question": "What did you hear?",
+      "questionType": "listening",
+      "options": [
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
+        "Pour que le système de santé soit durable, il faut qu'on fasse en sorte que les gens soient malades le plus tôt et le moins possible",
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le plus possible",
+        "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient guéris le plus tard et le moins possible"
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - for the health system to be sustainable, we must ensure people get sick as late and as little as possible.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Listening",
+      "tags": [
+        "healthcare",
+        "policy",
+        "has-simplified-version"
+      ]
+    },
+    {
+      "id": 577,
+      "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
+      "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
+      "questionType": "comprehension",
+      "options": [
+        "She confirmed she will definitely run for election",
+        "She has considered the possibility that she might not be able to run",
+        "She announced her withdrawal from the electoral race",
+        "She criticized the election process in her region"
+      ],
+      "correct": 1,
+      "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
+      "difficulty": "C1",
+      "source": "French Political Interview",
+      "tags": [
+        "politics",
+        "elections",
+        "deputy",
+        "candidacy",
+        "interview"
+      ]
+    },
+    {
+      "id": 578,
+      "audioText": "Il faut qu'elle mette ses affaires en ordre avant le déménagement.",
+      "question": "What does she need to do before moving?",
+      "questionType": "comprehension",
+      "options": [
+        "Put her things in order.",
+        "Pack her things in boxes.",
+        "Sell her things to others.",
+        "Give her things to friends."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'mette' - the subjunctive form of 'mettre' (to put/place) for il/elle. 'Il faut qu'elle mette' means 'she must put/it's necessary that she put'. The subjunctive is required after 'il faut que'.",
+      "difficulty": "C1",
+      "source": "Moving preparation discussion",
+      "tags": [
+        "moving",
+        "organization",
+        "preparation"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 579,
+      "audioText": "Je ne croie pas que cette méthode de jardinage soit vraiment efficace pour cultiver ces plantes exotiques.",
+      "question": "What is the speaker's opinion about the gardening method?",
+      "questionType": "comprehension",
+      "options": [
+        "They don't believe it's effective for growing exotic plants",
+        "They think it's the best method for growing exotic plants",
+        "They believe it works well for all types of plants",
+        "They are certain it will improve plant growth significantly"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'croie' - the subjunctive form of 'croire' (to believe) for je. 'Je ne croie pas' means 'I don't believe'. The subjunctive is used to express doubt or uncertainty about the effectiveness of the gardening method.",
+      "difficulty": "C1",
+      "source": "Gardening technique discussion",
+      "tags": [
+        "gardening",
+        "opinion",
+        "techniques"
+      ],
+      "timeCreated": 1720108800
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-04T03:52:13.219Z",
-    "totalQuestions": 91,
+    "compiledAt": "2025-07-04T05:40:19.132Z",
+    "totalQuestions": 97,
     "originalQuestions": 1,
-    "sourceQuestions": 91,
+    "sourceQuestions": 97,
     "level": "C",
-    "idRange": "431-603",
+    "idRange": "473-650",
     "difficulties": [
       "C1",
       "C2"

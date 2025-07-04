@@ -3316,13 +3316,519 @@
         "advice"
       ],
       "timeCreated": 1720027280
+    },
+    {
+      "id": 164,
+      "audioText": "Le train s'est ______ à la gare.",
+      "question": "Le train s'est ______ à la gare.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "arrêté",
+        "arrêter",
+        "arrête",
+        "arrêtant"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'arrêté' (past participle of 'arrêter'). The construction 's'est arrêté' uses the passé composé with être: 'Le train s'est arrêté à la gare' means 'The train stopped at the station.'",
+      "difficulty": "A1",
+      "source": "Transportation - Train Travel",
+      "tags": [
+        "transportation",
+        "train-travel",
+        "stations"
+      ],
+      "timeCreated": 1720027700
+    },
+    {
+      "id": 165,
+      "audioText": "Vous arrêtez votre voiture ici.",
+      "question": "What does the person say about the car?",
+      "questionType": "comprehension",
+      "options": [
+        "You stop your car here.",
+        "You start your car here.",
+        "You park your car there.",
+        "You wash your car here."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence 'Vous arrêtez votre voiture ici' uses the vous form of the verb 'arrêter' (to stop). 'Arrêtez' is the present tense, second person plural/formal form meaning 'you stop'.",
+      "difficulty": "A2",
+      "source": "Transportation context with imperative-style conjugation",
+      "tags": [
+        "transportation",
+        "driving",
+        "instructions"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 166,
+      "audioText": "Le ciel gris annonce la pluie.",
+      "question": "What does the gray sky announce?",
+      "questionType": "comprehension",
+      "options": [
+        "Rain.",
+        "Snow.",
+        "Sun.",
+        "Wind."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'gris' meaning 'gray'. 'Le ciel gris' means 'the gray sky'. The sentence indicates that gray skies typically announce rain ('la pluie').",
+      "difficulty": "A2",
+      "source": "Weather observation",
+      "tags": [
+        "weather",
+        "agriculture",
+        "nature"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 167,
+      "audioText": "Le tracteur rapide récolte le blé.",
+      "question": "What does the fast tractor do?",
+      "questionType": "comprehension",
+      "options": [
+        "Harvests wheat.",
+        "Plants seeds.",
+        "Waters crops.",
+        "Cuts grass."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'rapide' meaning 'fast/quick'. 'Le tracteur rapide' means 'the fast tractor'. The sentence says the fast tractor harvests wheat ('récolte le blé').",
+      "difficulty": "A2",
+      "source": "Agricultural farming scenario",
+      "tags": [
+        "agriculture",
+        "farming",
+        "machinery"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 168,
+      "audioText": "Le fermier récolte le champ entier.",
+      "question": "What does the farmer harvest?",
+      "questionType": "comprehension",
+      "options": [
+        "The entire field.",
+        "Half of the field.",
+        "Part of the field.",
+        "A small field."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'entier' meaning 'entire/whole'. 'Le champ entier' means 'the entire field'. The farmer harvests the whole field, not just a part of it.",
+      "difficulty": "A2",
+      "source": "Agricultural harvesting activity",
+      "tags": [
+        "agriculture",
+        "farming",
+        "harvesting"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 169,
+      "audioText": "Il est amoureux de sa voisine.",
+      "question": "How does he feel about his neighbor?",
+      "questionType": "comprehension",
+      "options": [
+        "He is in love with her.",
+        "He is angry with her.",
+        "He is afraid of her.",
+        "He is jealous of her."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'amoureux' meaning 'in love'. 'Il est amoureux de sa voisine' means 'he is in love with his neighbor'. 'Amoureux' is an adjective describing romantic feelings.",
+      "difficulty": "A2",
+      "source": "Romantic relationship context",
+      "tags": [
+        "emotions",
+        "romance",
+        "relationships"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 170,
+      "audioText": "Ton idée est différente de la mienne.",
+      "question": "How is your idea compared to mine?",
+      "questionType": "comprehension",
+      "options": [
+        "It is different from mine.",
+        "It is the same as mine.",
+        "It is better than mine.",
+        "It is worse than mine."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'différent' meaning 'different'. 'Ton idée est différente de la mienne' means 'your idea is different from mine'. The adjective 'différente' agrees with the feminine noun 'idée'.",
+      "difficulty": "A2",
+      "source": "Comparison in conversation",
+      "tags": [
+        "comparison",
+        "ideas",
+        "conversation"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 171,
+      "audioText": "Ce sac est très léger.",
+      "question": "What is this bag like?",
+      "questionType": "comprehension",
+      "options": [
+        "It is very light.",
+        "It is very heavy.",
+        "It is very big.",
+        "It is very small."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'léger' meaning 'light' (not heavy). 'Ce sac est très léger' means 'this bag is very light'. The adjective describes the weight of the bag.",
+      "difficulty": "A1",
+      "source": "Description of object weight",
+      "tags": [
+        "shopping",
+        "objects",
+        "description"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 172,
+      "audioText": "Va tout droit jusqu'au feu rouge.",
+      "question": "What direction should you go?",
+      "questionType": "comprehension",
+      "options": [
+        "Go straight ahead to the red light.",
+        "Turn right at the red light.",
+        "Turn left at the red light.",
+        "Go back to the red light."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'droit' meaning 'straight'. 'Va tout droit' means 'go straight ahead'. This is a common direction given when navigating or giving directions.",
+      "difficulty": "A2",
+      "source": "Navigation and directions",
+      "tags": [
+        "directions",
+        "navigation",
+        "transportation"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 173,
+      "audioText": "Tes chaussures sont très sales.",
+      "question": "What condition are your shoes in?",
+      "questionType": "comprehension",
+      "options": [
+        "They are very dirty.",
+        "They are very clean.",
+        "They are very new.",
+        "They are very old."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'sales' meaning 'dirty'. 'Tes chaussures sont très sales' means 'your shoes are very dirty'. The adjective 'sales' is the plural form of 'sale' agreeing with 'chaussures'.",
+      "difficulty": "A1",
+      "source": "Description of object condition",
+      "tags": [
+        "clothing",
+        "cleanliness",
+        "description"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 174,
+      "audioText": "Elle regardera le film ce soir.",
+      "question": "When will she watch the movie?",
+      "questionType": "comprehension",
+      "options": [
+        "Tonight.",
+        "Yesterday.",
+        "This morning.",
+        "Next week."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'regardera' - the future form of 'regarder' (to watch) for il/elle. 'Elle regardera' means 'she will watch'. 'Ce soir' means 'tonight' or 'this evening'.",
+      "difficulty": "A2",
+      "source": "Evening entertainment plans",
+      "tags": [
+        "entertainment",
+        "evening",
+        "future-plans"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 175,
+      "audioText": "Le bus s'arrêtera à l'hôpital.",
+      "question": "Where will the bus stop?",
+      "questionType": "comprehension",
+      "options": [
+        "At the hospital.",
+        "At the school.",
+        "At the market.",
+        "At the station."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'arrêtera' - the future form of 'arrêter' (to stop) for il/elle. 'Le bus s'arrêtera' means 'the bus will stop'. 'À l'hôpital' means 'at the hospital'.",
+      "difficulty": "A2",
+      "source": "Public transportation information",
+      "tags": [
+        "transportation",
+        "healthcare",
+        "public-transport"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 176,
+      "audioText": "Tu connais bien cette ville ?",
+      "question": "What is being asked?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "connais",
+        "connaît",
+        "connaissez",
+        "connaissent"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'connais' - the present form of 'connaître' (to know/be familiar with) for tu. 'Tu connais' means 'you know/are familiar with'. The question asks if you know this city well.",
+      "difficulty": "A1",
+      "source": "Asking about familiarity with places",
+      "tags": [
+        "travel",
+        "familiarity",
+        "cities"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 177,
+      "audioText": "Nous donnons des conseils aux étudiants.",
+      "question": "What do we give to the students?",
+      "questionType": "comprehension",
+      "options": [
+        "Advice.",
+        "Books.",
+        "Money.",
+        "Food."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'donnons' - the present form of 'donner' (to give) for nous. 'Nous donnons des conseils' means 'we give advice'. The sentence describes giving advice to students.",
+      "difficulty": "A2",
+      "source": "Educational support context",
+      "tags": [
+        "education",
+        "advice",
+        "students"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 178,
+      "audioText": "Je regarderai ce documentaire demain soir.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Je regarderai ce documentaire demain soir.",
+        "Je regarde ce documentaire demain soir.",
+        "J'ai regardé ce documentaire demain soir.",
+        "Je regardais ce documentaire demain soir."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'regarderai' - the future form of 'regarder' (to watch) for je. 'Je regarderai' means 'I will watch'. This is a listening question testing exact auditory comprehension of the future tense.",
+      "difficulty": "A2",
+      "source": "Future entertainment plans",
+      "tags": [
+        "entertainment",
+        "future-plans",
+        "television"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 179,
+      "audioText": "Nous ferons un pique-nique samedi.",
+      "question": "Complete the sentence: Nous ______ un pique-nique samedi.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "ferons",
+        "faisons",
+        "avons fait",
+        "ferions"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'ferons' - the future form of 'faire' (to do/make) for nous. 'Nous ferons' means 'we will do/make'. This indicates a future plan to have a picnic on Saturday.",
+      "difficulty": "A2",
+      "source": "Weekend activity planning",
+      "tags": [
+        "leisure",
+        "weekend",
+        "outdoor-activities"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 180,
+      "audioText": "Où irez-vous en vacances cet été ?",
+      "question": "What is being asked about?",
+      "questionType": "listening",
+      "options": [
+        "Où irez-vous en vacances cet été ?",
+        "Où allez-vous en vacances cet été ?",
+        "Où êtes-vous allés en vacances cet été ?",
+        "Où iriez-vous en vacances cet été ?"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'irez' - the future form of 'aller' (to go) for vous. 'Où irez-vous' means 'where will you go'. This is asking about future vacation plans using the simple future tense.",
+      "difficulty": "A2",
+      "source": "Vacation planning conversation",
+      "tags": [
+        "vacation",
+        "travel",
+        "future-plans"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 181,
+      "audioText": "Les trains partent toutes les heures.",
+      "question": "Complete: Les trains ______ toutes les heures.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "partent",
+        "part",
+        "partons",
+        "partez"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'partent' - the present form of 'partir' (to leave/depart) for ils/elles. 'Les trains partent' means 'the trains leave/depart'. This describes the regular schedule of train departures.",
+      "difficulty": "A1",
+      "source": "Public transportation schedule",
+      "tags": [
+        "transportation",
+        "schedule",
+        "public-transport"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 182,
+      "audioText": "Tu voudras acheter des meubles pour ta nouvelle maison ?",
+      "question": "Complete: Tu ______ acheter des meubles pour ta nouvelle maison ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "voudras",
+        "voulais",
+        "voulez",
+        "voudront"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'voudras' - the future form of 'vouloir' (to want) for tu. 'Tu voudras' means 'you will want'. This asks about future intention to buy furniture for a new house.",
+      "difficulty": "A2",
+      "source": "Home furniture shopping",
+      "tags": [
+        "furniture",
+        "household-items",
+        "shopping"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 183,
+      "audioText": "Tu sauras reconnaître les différents chats dans le quartier.",
+      "question": "Complete: Tu ______ reconnaître les différents chats dans le quartier.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sauras",
+        "sais",
+        "savais",
+        "saurez"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'sauras' - the future form of 'savoir' (to know) for tu. 'Tu sauras' means 'you will know'. This describes the future ability to recognize different cats in the neighborhood.",
+      "difficulty": "A2",
+      "source": "Neighborhood animals",
+      "tags": [
+        "animals",
+        "neighborhood",
+        "recognition"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 184,
+      "audioText": "Mon chien suit toujours le même chemin dans le jardin.",
+      "question": "Complete: Mon chien ______ toujours le même chemin dans le jardin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "suit",
+        "suis",
+        "suivez",
+        "suivons"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'suit' - the present form of 'suivre' (to follow) for il/elle. 'Mon chien suit' means 'my dog follows'. This describes the dog's regular behavior in the garden.",
+      "difficulty": "A2",
+      "source": "Pet behavior in garden",
+      "tags": [
+        "animals",
+        "gardening",
+        "behavior"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 185,
+      "audioText": "Quand j'étais petit, je parlais souvent avec mes animaux domestiques.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Quand j'étais petit, je parlais souvent avec mes animaux domestiques.",
+        "Quand j'étais petit, je jouais souvent avec mes animaux domestiques.",
+        "Quand j'étais petit, je gardais souvent mes animaux domestiques.",
+        "Quand j'étais petit, je nourrissais souvent mes animaux domestiques."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Quand j'étais petit, je parlais souvent avec mes animaux domestiques.' - When I was little, I often talked with my pets. 'Parlais' is the imperfect form of 'parler' for je.",
+      "difficulty": "A2",
+      "source": "Childhood pet memories",
+      "tags": [
+        "animals",
+        "childhood",
+        "pets"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 186,
+      "audioText": "J'aimerai avoir un grand jardin avec des meubles d'extérieur.",
+      "question": "Complete: J'______ avoir un grand jardin avec des meubles d'extérieur.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aimerai",
+        "aime",
+        "aimais",
+        "aimerais"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'aimerai' - the future form of 'aimer' (to like/love) for je. 'J'aimerai' means 'I will like/love'. This expresses a future desire for a large garden with outdoor furniture.",
+      "difficulty": "A2",
+      "source": "Future garden plans",
+      "tags": [
+        "gardening",
+        "furniture",
+        "outdoor"
+      ],
+      "timeCreated": 1720108800
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-04T03:52:13.214Z",
-    "totalQuestions": 142,
+    "compiledAt": "2025-07-04T05:40:19.125Z",
+    "totalQuestions": 165,
     "originalQuestions": 0,
-    "sourceQuestions": 142,
+    "sourceQuestions": 165,
     "level": "A",
     "idRange": "1-199",
     "difficulties": [

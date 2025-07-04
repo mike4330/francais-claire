@@ -1483,7 +1483,7 @@
       "id": 262,
       "audioText": "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
       "ssml": "<speak>Ce don agace certains internautes qui reprennent l'expression <break time=\"250ms\"/>«C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</speak>",
-      "parentQuestion": 435,
+      "parentQuestion": 546,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -3006,7 +3006,7 @@
     {
       "id": 326,
       "audioText": "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.",
-      "parentQuestion": 469,
+      "parentQuestion": 574,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -3053,7 +3053,7 @@
     {
       "id": 328,
       "audioText": "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.",
-      "parentQuestion": 472,
+      "parentQuestion": 577,
       "audioTemplate": "Une {political_person} a {reporting_verb} qu'elle pense {uncertainty} ne pas pouvoir {action_verb} aux {event_type}.",
       "templateVariables": {
         "political_person": {
@@ -5374,15 +5374,587 @@
         "observation"
       ],
       "timeCreated": 1720027520
+    },
+    {
+      "id": 427,
+      "audioText": "Le conducteur a été arrêté par la police pour excès de vitesse.",
+      "question": "What happened to the driver?",
+      "questionType": "comprehension",
+      "options": [
+        "The driver was stopped by police for speeding.",
+        "The driver arrested a police officer for speeding.",
+        "The driver stopped to help police with speeding.",
+        "The driver was warned by police about speeding."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'a été arrêté' (was stopped/arrested) - the past participle 'arrêté' combined with auxiliary verb 'être' in the passé composé. Here 'arrêté' means 'stopped' in the context of police stopping someone.",
+      "difficulty": "B1",
+      "source": "Police and law enforcement scenario",
+      "tags": [
+        "law-enforcement",
+        "driving",
+        "legal-consequences"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 428,
+      "audioText": "Ils diront la vérité demain matin.",
+      "question": "When will they tell the truth?",
+      "questionType": "comprehension",
+      "options": [
+        "Tomorrow morning.",
+        "Yesterday morning.",
+        "This morning.",
+        "Next week."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'diront' - the future tense of 'dire' (to say/tell) for ils/elles. 'Ils diront' means 'they will tell/say'. 'Demain matin' means 'tomorrow morning'.",
+      "difficulty": "B1",
+      "source": "Future planning conversation",
+      "tags": [
+        "truth",
+        "future-plans",
+        "conversation"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 429,
+      "audioText": "Si j'avais le temps, j'irais au cinéma avec vous.",
+      "question": "What would the speaker do if they had time?",
+      "questionType": "comprehension",
+      "options": [
+        "Go to the cinema with you.",
+        "Stay home with you.",
+        "Go to the restaurant with you.",
+        "Go shopping with you."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'irais' - the conditional form of 'aller' (to go). 'Si j'avais le temps, j'irais' means 'If I had time, I would go'. This is a typical conditional sentence structure in French.",
+      "difficulty": "B2",
+      "source": "Hypothetical social situation",
+      "tags": [
+        "entertainment",
+        "hypothetical",
+        "social-plans"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 430,
+      "audioText": "L'information a été donnée aux journalistes hier soir.",
+      "question": "What happened to the information?",
+      "questionType": "comprehension",
+      "options": [
+        "It was given to journalists yesterday evening.",
+        "It was given to journalists this morning.",
+        "It was taken from journalists yesterday evening.",
+        "It was hidden from journalists yesterday evening."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'donnée' - the past participle feminine form of 'donner' (to give). 'L'information a été donnée' means 'the information was given'. The past participle agrees with the feminine noun 'information'.",
+      "difficulty": "B2",
+      "source": "Media and journalism context",
+      "tags": [
+        "media",
+        "journalism",
+        "information"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 431,
+      "audioText": "Elle regarderait la télévision si elle avait du temps libre.",
+      "question": "What would she do if she had free time?",
+      "questionType": "comprehension",
+      "options": [
+        "Watch television.",
+        "Read a book.",
+        "Listen to music.",
+        "Go for a walk."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'regarderait' - the conditional form of 'regarder' (to watch/look at). 'Elle regarderait' means 'she would watch'. This is part of a conditional sentence expressing what would happen if she had free time.",
+      "difficulty": "B1",
+      "source": "Leisure time hypothetical scenario",
+      "tags": [
+        "entertainment",
+        "leisure",
+        "hypothetical"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 432,
+      "audioText": "Le gouvernement a décidé de créer un service militaire obligatoire.",
+      "question": "What did the government decide to create?",
+      "questionType": "comprehension",
+      "options": [
+        "A mandatory military service.",
+        "A voluntary military service.",
+        "A civilian service program.",
+        "A medical service program."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'militaire' meaning 'military'. 'Un service militaire obligatoire' means 'a mandatory military service'. 'Militaire' is an adjective describing the type of service.",
+      "difficulty": "B1",
+      "source": "Government policy discussion",
+      "tags": [
+        "politics",
+        "government",
+        "military"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 433,
+      "audioText": "Ce pesticide est devenu inutile contre les nouveaux parasites agricoles.",
+      "question": "What has happened to the pesticide?",
+      "questionType": "comprehension",
+      "options": [
+        "It has become useless against new agricultural pests.",
+        "It has become useful against new agricultural pests.",
+        "It has become dangerous for new agricultural pests.",
+        "It has become expensive for new agricultural pests."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'inutile' meaning 'useless/pointless'. 'Ce pesticide est devenu inutile' means 'this pesticide has become useless'. The context is agricultural pest control.",
+      "difficulty": "B1",
+      "source": "Agricultural pest management",
+      "tags": [
+        "agriculture",
+        "pest-control",
+        "farming"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 434,
+      "audioText": "Le bétail reste immobile pendant la forte chaleur estivale.",
+      "question": "What does the livestock do during the intense summer heat?",
+      "questionType": "comprehension",
+      "options": [
+        "Stays motionless.",
+        "Moves around actively.",
+        "Searches for food.",
+        "Runs to the barn."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'immobile' meaning 'motionless/still'. 'Le bétail reste immobile' means 'the livestock stays motionless'. Animals often remain still during intense heat to conserve energy.",
+      "difficulty": "B1",
+      "source": "Agricultural livestock management",
+      "tags": [
+        "agriculture",
+        "livestock",
+        "animal-behavior"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 435,
+      "audioText": "Cette proposition me paraît complètement ridicule.",
+      "question": "What does the speaker think about the proposal?",
+      "questionType": "comprehension",
+      "options": [
+        "It seems completely ridiculous to them.",
+        "It seems completely reasonable to them.",
+        "It seems completely interesting to them.",
+        "It seems completely necessary to them."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'ridicule' meaning 'ridiculous/absurd'. 'Cette proposition me paraît complètement ridicule' means 'this proposal seems completely ridiculous to me'. The speaker finds the proposal absurd.",
+      "difficulty": "B1",
+      "source": "Opinion expression in discussion",
+      "tags": [
+        "opinion",
+        "discussion",
+        "criticism"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 436,
+      "audioText": "Il est nécessaire de prendre des mesures urgentes pour l'environnement.",
+      "question": "What is necessary according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "Taking urgent measures for the environment.",
+        "Taking slow measures for the environment.",
+        "Taking optional measures for the environment.",
+        "Taking expensive measures for the environment."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'nécessaire' meaning 'necessary/required'. 'Il est nécessaire de prendre des mesures urgentes' means 'it is necessary to take urgent measures'. The speaker emphasizes the requirement for environmental action.",
+      "difficulty": "B1",
+      "source": "Environmental policy discussion",
+      "tags": [
+        "environment",
+        "policy",
+        "urgency"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 437,
+      "audioText": "La situation économique est pire que l'année dernière.",
+      "question": "How is the economic situation compared to last year?",
+      "questionType": "comprehension",
+      "options": [
+        "It is worse than last year.",
+        "It is better than last year.",
+        "It is the same as last year.",
+        "It is improving from last year."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'pire' meaning 'worse'. 'La situation économique est pire que l'année dernière' means 'the economic situation is worse than last year'. 'Pire' is the comparative form indicating deterioration.",
+      "difficulty": "B1",
+      "source": "Economic analysis discussion",
+      "tags": [
+        "economics",
+        "comparison",
+        "analysis"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 438,
+      "audioText": "Mes grands-parents allaient toujours à la messe le dimanche.",
+      "question": "What did the grandparents always do on Sundays?",
+      "questionType": "comprehension",
+      "options": [
+        "They went to mass.",
+        "They went to the market.",
+        "They went to the park.",
+        "They went to visit friends."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'allaient' - the imperfect form of 'aller' (to go) for ils/elles. 'Mes grands-parents allaient' means 'my grandparents used to go/were going'. The imperfect describes a habitual action in the past.",
+      "difficulty": "B1",
+      "source": "Family traditions and habits",
+      "tags": [
+        "family",
+        "traditions",
+        "religion"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 439,
+      "audioText": "Que ferez-vous pendant les vacances d'été ?",
+      "question": "What is being asked?",
+      "questionType": "listening",
+      "options": [
+        "Que ferez-vous pendant les vacances d'été ?",
+        "Que feriez-vous pendant les vacances d'été ?",
+        "Que faites-vous pendant les vacances d'été ?",
+        "Qu'avez-vous fait pendant les vacances d'été ?"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'ferez' - the future form of 'faire' (to do/make) for vous. 'Que ferez-vous' means 'what will you do'. This is asking about future vacation plans using the simple future tense.",
+      "difficulty": "B1",
+      "source": "Vacation planning conversation",
+      "tags": [
+        "vacation",
+        "future-plans",
+        "conversation"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 440,
+      "audioText": "Que feriez-vous si vous aviez plus de temps libre ?",
+      "question": "What kind of question is being asked?",
+      "questionType": "comprehension",
+      "options": [
+        "A hypothetical question about having more free time.",
+        "A direct question about current free time activities.",
+        "A question about past free time activities.",
+        "A question about someone else's free time."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'feriez' - the conditional form of 'faire' (to do/make) for vous. 'Que feriez-vous si...' means 'what would you do if...'. This is a hypothetical conditional question structure.",
+      "difficulty": "B2",
+      "source": "Hypothetical discussion scenario",
+      "tags": [
+        "hypothetical",
+        "leisure",
+        "conversation"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 441,
+      "audioText": "Cette émission a été regardée par des millions de téléspectateurs.",
+      "question": "What happened to this TV show?",
+      "questionType": "comprehension",
+      "options": [
+        "It was watched by millions of viewers.",
+        "It was criticized by millions of viewers.",
+        "It was ignored by millions of viewers.",
+        "It was recorded by millions of viewers."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'regardée' - the past participle feminine form of 'regarder' (to watch). 'Cette émission a été regardée' means 'this show was watched'. The past participle agrees with the feminine noun 'émission'.",
+      "difficulty": "B2",
+      "source": "Media audience statistics",
+      "tags": [
+        "media",
+        "television",
+        "statistics"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 442,
+      "audioText": "Ce pesticide tue les insectes nuisibles mais préserve les abeilles.",
+      "question": "What does this pesticide do to harmful insects?",
+      "questionType": "comprehension",
+      "options": [
+        "It kills them.",
+        "It repels them.",
+        "It attracts them.",
+        "It transforms them."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'tue' - the present form of 'tuer' (to kill) for il/elle. 'Ce pesticide tue' means 'this pesticide kills'. The sentence describes a selective pesticide that kills harmful insects but preserves bees.",
+      "difficulty": "B1",
+      "source": "Agricultural pest control discussion",
+      "tags": [
+        "agriculture",
+        "pest-control",
+        "environmental-protection"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 443,
+      "audioText": "Quand nous étions jeunes, nous allions souvent au parc le dimanche.",
+      "question": "Where did they often go on Sundays when they were young?",
+      "questionType": "comprehension",
+      "options": [
+        "To the park.",
+        "To the beach.",
+        "To the cinema.",
+        "To the museum."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'allions' - the imperfect form of 'aller' (to go) for nous. 'Nous allions' means 'we used to go/were going'. The imperfect describes a habitual action in the past.",
+      "difficulty": "B1",
+      "source": "Childhood memories discussion",
+      "tags": [
+        "childhood",
+        "memories",
+        "family"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 444,
+      "audioText": "Vous irez au marché acheter des légumes frais pour le dîner.",
+      "question": "Why will you go to the market?",
+      "questionType": "comprehension",
+      "options": [
+        "To buy fresh vegetables for dinner.",
+        "To buy fresh fruits for breakfast.",
+        "To buy fresh meat for lunch.",
+        "To buy fresh bread for dinner."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'irez' - the future form of 'aller' (to go) for vous. 'Vous irez au marché' means 'you will go to the market'. The purpose is to buy fresh vegetables ('légumes frais') for dinner.",
+      "difficulty": "B1",
+      "source": "Shopping and meal preparation",
+      "tags": [
+        "shopping",
+        "food",
+        "market"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 445,
+      "audioText": "Cette lettre a été laissée sur votre bureau ce matin.",
+      "question": "What happened to the letter?",
+      "questionType": "comprehension",
+      "options": [
+        "It was left on your desk this morning.",
+        "It was sent from your desk this morning.",
+        "It was written on your desk this morning.",
+        "It was read on your desk this morning."
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'laissée' - the past participle feminine form of 'laisser' (to leave). 'Cette lettre a été laissée' means 'this letter was left'. The past participle agrees with the feminine noun 'lettre'.",
+      "difficulty": "B2",
+      "source": "Office communication scenario",
+      "tags": [
+        "workplace",
+        "communication",
+        "correspondence"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 446,
+      "audioText": "Il faut que tu fasses attention aux meubles anciens dans cette maison.",
+      "question": "What does the speaker want the listener to do?",
+      "questionType": "comprehension",
+      "options": [
+        "Be careful with the antique furniture in this house",
+        "Move the old furniture out of this house",
+        "Clean the antique furniture in this house",
+        "Buy new furniture for this house"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'fasses' - the subjunctive form of 'faire' (to do/make) for tu. 'Il faut que tu fasses attention' means 'you must pay attention/be careful'. The subjunctive is required after 'il faut que'.",
+      "difficulty": "B1",
+      "source": "Home safety discussion",
+      "tags": [
+        "furniture",
+        "household-items",
+        "safety"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 447,
+      "audioText": "Les enfants voulaient avoir un chien comme animal de compagnie.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Les enfants voulaient avoir un chien comme animal de compagnie.",
+        "Les enfants voulaient avoir un chat comme animal de compagnie.",
+        "Les enfants voulaient avoir un oiseau comme animal de compagnie.",
+        "Les enfants voulaient avoir un lapin comme animal de compagnie."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Les enfants voulaient avoir un chien comme animal de compagnie.' - The children wanted to have a dog as a pet. 'Voulaient' is the imperfect form of 'vouloir' for ils/elles.",
+      "difficulty": "B1",
+      "source": "Family pet discussion",
+      "tags": [
+        "animals",
+        "family",
+        "pets"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 448,
+      "audioText": "Il faut que tu saches comment arroser les plantes du jardin.",
+      "question": "What does the speaker want the listener to know?",
+      "questionType": "comprehension",
+      "options": [
+        "How to water the garden plants",
+        "How to plant seeds in the garden",
+        "How to trim the garden hedges",
+        "How to harvest the garden vegetables"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'saches' - the subjunctive form of 'savoir' (to know) for tu. 'Il faut que tu saches' means 'you must know/it's necessary that you know'. The subjunctive is required after 'il faut que'.",
+      "difficulty": "B1",
+      "source": "Garden care instruction",
+      "tags": [
+        "gardening",
+        "plants",
+        "watering"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 449,
+      "audioText": "Nous avons vus tous les chats du refuge hier avant l'adoption.",
+      "question": "What did they see at the shelter yesterday?",
+      "questionType": "comprehension",
+      "options": [
+        "All the cats before adoption",
+        "All the dogs before adoption",
+        "All the birds before adoption",
+        "All the rabbits before adoption"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'vus' - the past participle of 'voir' (to see) in masculine plural form. 'Nous avons vus' means 'we have seen'. They saw all the cats at the shelter before the adoption event.",
+      "difficulty": "B1",
+      "source": "Animal shelter visit",
+      "tags": [
+        "animals",
+        "shelter",
+        "adoption"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 450,
+      "audioText": "J'aimerais qu'elle vienne m'aider à jardiner ce week-end.",
+      "question": "What does the speaker want?",
+      "questionType": "comprehension",
+      "options": [
+        "For her to come help with gardening this weekend",
+        "For her to come help with cooking this weekend",
+        "For her to come help with cleaning this weekend",
+        "For her to come help with shopping this weekend"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'vienne' - the subjunctive form of 'venir' (to come) for il/elle. 'J'aimerais qu'elle vienne' means 'I would like her to come'. The subjunctive is required after expressions of desire like 'j'aimerais que'.",
+      "difficulty": "B2",
+      "source": "Weekend gardening plans",
+      "tags": [
+        "gardening",
+        "help",
+        "weekend"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 451,
+      "audioText": "Les lapins suivent un régime alimentaire composé principalement de légumes du jardin.",
+      "question": "What do the rabbits follow?",
+      "questionType": "comprehension",
+      "options": [
+        "A diet mainly composed of garden vegetables",
+        "A strict exercise routine in the garden",
+        "A daily schedule for garden maintenance",
+        "A path through the garden every morning"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'suivent' - the present form of 'suivre' (to follow) for ils/elles. 'Les lapins suivent un régime alimentaire' means 'the rabbits follow a diet'. The diet consists mainly of garden vegetables.",
+      "difficulty": "B1",
+      "source": "Animal diet information",
+      "tags": [
+        "animals",
+        "gardening",
+        "diet"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 452,
+      "audioText": "Cette décision a été prise après consultation de tous les propriétaires d'animaux du quartier.",
+      "question": "When was this decision made?",
+      "questionType": "comprehension",
+      "options": [
+        "After consulting all pet owners in the neighborhood",
+        "Before consulting all pet owners in the neighborhood",
+        "During a meeting with all pet owners in the neighborhood",
+        "Without consulting any pet owners in the neighborhood"
+      ],
+      "correct": 0,
+      "explanation": "The French sentence uses 'prise' - the past participle of 'prendre' (to take) in feminine form, agreeing with 'décision'. 'Cette décision a été prise' means 'this decision was taken/made'. It was made after consulting all pet owners.",
+      "difficulty": "B2",
+      "source": "Neighborhood pet policy",
+      "tags": [
+        "animals",
+        "neighborhood",
+        "decision"
+      ],
+      "timeCreated": 1720108800
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-04T03:52:13.216Z",
-    "totalQuestions": 228,
+    "compiledAt": "2025-07-04T05:40:19.129Z",
+    "totalQuestions": 254,
     "originalQuestions": 1,
-    "sourceQuestions": 227,
+    "sourceQuestions": 253,
     "level": "B",
-    "idRange": "200-430",
+    "idRange": "200-472",
     "difficulties": [
       "B1",
       "B2"

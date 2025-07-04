@@ -24,13 +24,13 @@
         "b": {
             "levels": ["B1", "B2"],
             "minId": 200,
-            "maxId": 436,
+            "maxId": 472,
             "description": "Intermediate/Upper-Intermediate"
         },
         "c": {
             "levels": ["C1", "C2"],
-            "minId": 437,
-            "maxId": 603,
+            "minId": 473,
+            "maxId": 650,
             "description": "Advanced/Proficiency"
         }
     }
