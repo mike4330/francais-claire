@@ -2,12 +2,17 @@
     "debugLevel": 2,
     "interQuestionDelays": {
         "correct": 3800,
-        "incorrect": 4500,
+        "incorrect": 5700,
         "skipped": 1000
     },
     "intelligentSelection": {
-        "recentAnswerThresholdMinutes": 10,
-        "description": "Avoid questions answered within this many minutes"
+        "recentAnswerThresholdMinutes": 20,
+        "description": "Avoid questions answered within this many minutes",
+        "randomization": {
+            "enabled": true,
+            "poolSize": 3,
+            "description": "Randomly select from top N candidates in each priority tier"
+        }
     },
     "levelRanges": {
         "a": {
@@ -19,13 +24,13 @@
         "b": {
             "levels": ["B1", "B2"],
             "minId": 200,
-            "maxId": 399,
+            "maxId": 436,
             "description": "Intermediate/Upper-Intermediate"
         },
         "c": {
             "levels": ["C1", "C2"],
-            "minId": 400,
-            "maxId": 510,
+            "minId": 437,
+            "maxId": 603,
             "description": "Advanced/Proficiency"
         }
     }

@@ -1991,11 +1991,14 @@
             
             // Mark as skipped (not correct, not incorrect)
             answered = true;
-            userAnswers[currentQuestion] = {
-                selected: null,
-                correct: false,
-                skipped: true
-            };
+            if (currentQuestionData) {
+                userAnswers.push({
+                    questionId: currentQuestionData.id,
+                    selected: null,
+                    correct: false,
+                    skipped: true
+                });
+            }
             
             // Show skip feedback
             feedback.style.display = 'block';

@@ -61,12 +61,12 @@ function generateCacheKey(text, voiceId) {
 }
 
 // Centralized question loading function
-// Handles compiled question files with fallback to original files
+// Loads compiled question files from source/compile workflow
 async function loadQuestionBank(options = {}) {
     const defaultOptions = {
         files: ['questions/q-compiled-a.json', 'questions/q-compiled-b.json', 'questions/q-compiled-c.json'],
-        fallbackFiles: ['questions/questions-a.json', 'questions/questions-b.json', 'questions/questions-c.json'],
-        useCompiled: true, // Set to false to use original files
+        // Note: fallbackFiles removed as monolithic files are now empty (source/compile workflow only)
+        useCompiled: true, // Always use compiled files (monolithic files deprecated)
         levels: null, // null = all levels, or array like ['A1', 'A2', 'B1']
         enableLogging: false,
         logLevel: 3 // 1=error, 2=warn, 3=info
@@ -82,8 +82,8 @@ async function loadQuestionBank(options = {}) {
     }
     
     try {
-        const filesToLoad = config.useCompiled ? config.files : config.fallbackFiles;
-        log(3, 'Loading question files:', filesToLoad, config.useCompiled ? '(compiled)' : '(original)');
+        const filesToLoad = config.files; // Always use compiled files
+        log(3, 'Loading question files:', filesToLoad, '(compiled)');
         
         // Fetch all files in parallel with error handling
         const responses = await Promise.all(
