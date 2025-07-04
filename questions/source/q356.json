@@ -1,0 +1,23 @@
+{
+  "id": 356,
+  "audioText": "Cette application mobile offre-t-elle de vrais avantages pour la productivité ?",
+  "question": "What is being questioned about the mobile app?",
+  "questionType": "comprehension",
+  "options": [
+    "Whether it offers real benefits for productivity",
+    "Whether it costs too much money",
+    "Whether it works on all devices",
+    "Whether it has good customer support"
+  ],
+  "correct": 0,
+  "explanation": "The question asks 'Cette application mobile offre-t-elle de vrais avantages pour la productivité ?' - Does this mobile app offer real benefits for productivity? 'Vrais' means 'real/true', questioning the genuine value of the app.",
+  "difficulty": "B1",
+  "source": "Technology Productivity",
+  "tags": [
+    "technology",
+    "productivity",
+    "mobile-apps",
+    "benefits"
+  ],
+  "timeCreated": 1720052160
+}

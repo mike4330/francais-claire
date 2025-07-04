@@ -1,0 +1,18 @@
+{
+    "id": 337,
+    "audioText": "À la suite de l'incident, la direction a décidé de renforcer les mesures de sécurité dans tous les bureaux.",
+    "question": "What happened following the incident?",
+    "questionType": "comprehension",
+    "options": [
+        "Management decided to strengthen security measures in all offices",
+        "The company reduced working hours for all employees",
+        "All employees received additional safety training",
+        "The incident was ignored and no changes were made"
+    ],
+    "correct": 0,
+    "explanation": "The phrase 'À la suite de l'incident' means 'Following the incident'. Management decided to strengthen security measures in all offices.",
+    "difficulty": "B1",
+    "source": "Workplace Safety",
+    "tags": ["workplace", "safety", "management", "security"],
+    "timeCreated": 1719963100
+}

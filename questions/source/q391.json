@@ -1,0 +1,22 @@
+{
+  "id": 391,
+  "audioText": "Partez de la gare centrale et prenez le métro ligne 4 direction Porte de Clignancourt.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Partez de la gare centrale et prenez le métro ligne 4 direction Porte de Clignancourt.",
+    "Partez de la gare centrale et prenez le métro ligne 14 direction Porte de Clignancourt.",
+    "Partez de la gare centrale et prenez le bus ligne 4 direction Porte de Clignancourt.",
+    "Partez de la gare Nord et prenez le métro ligne 4 direction Porte de Clignancourt."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Partez de la gare centrale et prenez le métro ligne 4 direction Porte de Clignancourt.' - Leave from central station and take metro line 4 direction Porte de Clignancourt. 'Partez' is the 2nd person plural imperative of 'partir'.",
+  "difficulty": "B1",
+  "source": "Metro Directions",
+  "tags": [
+    "transportation",
+    "metro",
+    "directions"
+  ],
+  "timeCreated": 1720022940
+}

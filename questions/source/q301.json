@@ -1,0 +1,24 @@
+{
+  "id": 301,
+  "audioText": "Quand j'étais petit, mes grands-parents parlaient toujours en français à la maison pour préserver la tradition familiale.",
+  "question": "Mes grands-parents ______ toujours en français à la maison pour préserver la tradition familiale.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "parlaient",
+    "parlent",
+    "parleront",
+    "ont parlé"
+  ],
+  "correct": 0,
+  "explanation": "The imperfect tense 'parlaient' is used to describe a habitual action in the past ('toujours' = always), indicated by the context 'quand j'étais petit' (when I was little).",
+  "difficulty": "B1",
+  "source": "Childhood memory about family language traditions",
+  "tags": [
+    "family",
+    "childhood",
+    "traditions",
+    "language",
+    "memories"
+  ],
+  "timeCreated": 1735689600
+}

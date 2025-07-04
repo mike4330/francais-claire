@@ -1,0 +1,18 @@
+{
+    "id": 351,
+    "audioText": "Il est étrange que cette nouvelle application consomme autant de batterie.",
+    "question": "What is strange about the new application?",
+    "questionType": "comprehension",
+    "options": [
+        "It consumes so much battery",
+        "It costs too much money",
+        "It has too many features",
+        "It runs too slowly"
+    ],
+    "correct": 0,
+    "explanation": "The sentence says 'Il est étrange que cette nouvelle application consomme autant de batterie' - It's strange that this new application consumes so much battery. 'Étrange' means strange/odd, expressing surprise about the high battery consumption.",
+    "difficulty": "B1",
+    "source": "Technology Issues",
+    "tags": ["technology", "mobile-apps", "battery", "problems"],
+    "timeCreated": 1720052460
+}

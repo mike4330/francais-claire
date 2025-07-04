@@ -1,0 +1,22 @@
+{
+  "id": 362,
+  "audioText": "J'ai mis mes clés sur la table de la cuisine avant de partir au bureau.",
+  "question": "What did the speaker put on the kitchen table?",
+  "questionType": "comprehension",
+  "options": [
+    "Their keys",
+    "Their phone",
+    "Their wallet",
+    "Their lunch"
+  ],
+  "correct": 0,
+  "explanation": "The speaker said 'J'ai mis mes clés sur la table' - I put my keys on the table. 'Mis' is the past participle of 'mettre' (to put/place), used here with the auxiliary verb 'avoir' to form the passé composé.",
+  "difficulty": "B1",
+  "source": "Daily Activities",
+  "tags": [
+    "daily-life",
+    "home",
+    "routine"
+  ],
+  "timeCreated": 1720021200
+}

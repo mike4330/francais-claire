@@ -1,0 +1,24 @@
+{
+  "id": 305,
+  "audioText": "Les travaux que vous avez faits dans le jardin sont vraiment impressionnants cette année.",
+  "question": "Les travaux que vous avez ______ dans le jardin sont vraiment impressionnants cette année.",
+  "questionType": "FIB-reading",
+  "options": [
+    "faits",
+    "fait",
+    "faire",
+    "faisait"
+  ],
+  "correct": 0,
+  "explanation": "The past participle 'faits' agrees with the masculine plural noun 'travaux' in the passé composé construction 'vous avez faits'. The complete sentence means: 'The work that you have done in the garden is really impressive this year.' The past participle must agree with the direct object 'travaux' (masculine plural) when it precedes the auxiliary verb.",
+  "difficulty": "B1",
+  "source": "Compliment about garden work accomplished",
+  "tags": [
+    "gardening",
+    "compliments",
+    "work",
+    "accomplishments",
+    "home"
+  ],
+  "timeCreated": 1735689600
+}

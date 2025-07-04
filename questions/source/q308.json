@@ -1,0 +1,24 @@
+{
+  "id": 308,
+  "audioText": "Un escroc a soutiré 220 000 euros à sa victime en promettant de multiplier les billets grâce à un procédé spectaculaire impliquant de faire bouillir les coupures.",
+  "question": "How did the fraudster convince the victim to give them money?",
+  "questionType": "comprehension",
+  "options": [
+    "By promising to duplicate banknotes through a spectacular process involving boiling them",
+    "By claiming to be a bank official who needed to verify the money",
+    "By offering high-return investment opportunities in foreign markets",
+    "By pretending to be in love and needing money for medical treatment"
+  ],
+  "correct": 0,
+  "explanation": "The text states that the fraudster promised to duplicate the banknotes ('multiplier les billets') using a spectacular process ('procédé spectaculaire') that involved boiling the bills ('faire bouillir les coupures'). This is a classic money duplication/counterfeiting scam.",
+  "difficulty": "B2",
+  "source": "French news report about financial fraud case",
+  "tags": [
+    "crime",
+    "fraud",
+    "money",
+    "deception",
+    "news"
+  ],
+  "timeCreated": 1719936000
+}

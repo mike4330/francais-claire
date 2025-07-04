@@ -1,0 +1,23 @@
+{
+  "id": 331,
+  "audioText": "Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.",
+  "question": "Why was the businesswoman sentenced to death?",
+  "questionType": "comprehension",
+  "options": [
+    "For orchestrating the country's largest fraud.",
+    "For helping the government fight corruption.",
+    "For starting a successful business.",
+    "For organizing a charity event."
+  ],
+  "correct": 0,
+  "explanation": "She was sentenced to death for orchestrating the country's largest fraud ('la plus importante fraude du pays').",
+  "difficulty": "B1",
+  "source": "Legal News",
+  "tags": [
+    "crime",
+    "business",
+    "law",
+    "punishment",
+    "fraud"
+  ]
+}

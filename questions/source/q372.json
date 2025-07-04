@@ -1,0 +1,22 @@
+{
+  "id": 372,
+  "audioText": "Vous vouliez me parler de quelque chose d'important, n'est-ce pas?",
+  "question": "Vous ______ me parler de quelque chose d'important, n'est-ce pas?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "vouliez",
+    "voudriez",
+    "voulez",
+    "voudrez"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'vouliez' (imperfect tense of 'vouloir'). The sentence means 'You wanted to talk to me about something important, didn't you?' The imperfect tense is used here to refer to a past intention or desire.",
+  "difficulty": "B1",
+  "source": "Personal Conversation",
+  "tags": [
+    "conversation",
+    "personal",
+    "communication"
+  ],
+  "timeCreated": 1720021800
+}

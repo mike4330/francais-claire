@@ -1,0 +1,18 @@
+{
+    "id": 342,
+    "audioText": "Quand j'étais enfant, ma grand-mère m'appelait toujours mon petit trésor.",
+    "question": "Quand j'étais enfant, ma grand-mère m'______ toujours mon petit trésor.",
+    "questionType": "FIB-reading",
+    "options": [
+        "appelait",
+        "appelle",
+        "appellera",
+        "a appelé"
+    ],
+    "correct": 0,
+    "explanation": "The correct form is 'appelait' (imperfect tense of 'appeler'). The imperfect is used for repeated actions in the past - grandmother used to call them 'my little treasure' regularly.",
+    "difficulty": "B1",
+    "source": "Family Memories",
+    "tags": ["family", "childhood", "grandparents", "affection"],
+    "timeCreated": 1719964200
+}

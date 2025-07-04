@@ -1,0 +1,18 @@
+{
+    "id": 318,
+    "audioText": "Le peu qu'elle possède lui suffit amplement pour être heureuse.",
+    "question": "What does the speaker say about what she owns?",
+    "questionType": "comprehension",
+    "options": [
+        "The little that she owns is more than enough to make her happy.",
+        "She needs to acquire more possessions to be satisfied.",
+        "She is unhappy because she doesn't own very much.",
+        "She wants to give away everything she owns."
+    ],
+    "correct": 0,
+    "explanation": "The phrase 'Le peu qu'elle possède' uses 'peu' as a noun meaning 'the little (amount)'. The sentence means the small amount she owns is sufficient for her happiness.",
+    "difficulty": "B2",
+    "source": "Philosophy of Contentment",
+    "tags": ["philosophy", "contentment", "materialism", "happiness"],
+    "timeCreated": 1719962400
+}

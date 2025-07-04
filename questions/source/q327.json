@@ -1,0 +1,24 @@
+{
+  "id": 327,
+  "audioText": "Un agent des routes de 24 ans a été victime d'un accident alors qu'il portait assistance à un véhicule en panne dans l'Eure.",
+  "question": "What happened to the road worker?",
+  "questionType": "comprehension",
+  "options": [
+    "He was helping repair a broken vehicle in Eure",
+    "He was involved in an accident while assisting a broken-down vehicle",
+    "He caused an accident while working on the roads",
+    "He was directing traffic around a vehicle breakdown"
+  ],
+  "correct": 1,
+  "explanation": "The road worker 'a été victime d'un accident alors qu'il portait assistance à un véhicule en panne' - was the victim of an accident while assisting a broken-down vehicle. The text indicates he was helping someone with a breakdown when the incident occurred.",
+  "difficulty": "B2",
+  "source": "French Traffic News",
+  "tags": [
+    "news",
+    "accident",
+    "road-worker",
+    "assistance",
+    "eure",
+    "traffic"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 359,
+  "audioText": "Les médecins ont dit que son état de santé était sérieux et qu'il fallait une intervention chirurgicale immédiate.",
+  "question": "What did the doctors say about his health condition?",
+  "questionType": "comprehension",
+  "options": [
+    "That his health condition was serious and required immediate surgery",
+    "That his health condition was stable but needed monitoring",
+    "That his health condition was improving with medication",
+    "That his health condition was minor and would heal naturally"
+  ],
+  "correct": 0,
+  "explanation": "The doctors said 'son état de santé était sérieux et qu'il fallait une intervention chirurgicale immédiate' - his health condition was serious and required immediate surgery. The adjective 'sérieux' (serious) describes the gravity of the medical situation requiring urgent surgical intervention.",
+  "difficulty": "B1",
+  "source": "Medical Emergency",
+  "tags": [
+    "healthcare",
+    "medical",
+    "emergency",
+    "surgery"
+  ],
+  "timeCreated": 1751550400
+}

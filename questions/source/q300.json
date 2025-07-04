@@ -1,0 +1,24 @@
+{
+  "id": 300,
+  "audioText": "Les scientifiques croiront enfin aux nouvelles théories quand les preuves seront incontestables.",
+  "question": "What will happen when the evidence becomes undeniable?",
+  "questionType": "comprehension",
+  "options": [
+    "Scientists will finally believe the new theories",
+    "The theories will be completely rejected",
+    "New experiments will be designed immediately",
+    "The research funding will be increased"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'les scientifiques croiront enfin aux nouvelles théories quand les preuves seront incontestables' - scientists will finally believe the new theories when the evidence becomes undeniable.",
+  "difficulty": "B2",
+  "source": "Scientific acceptance of new theories",
+  "tags": [
+    "science",
+    "research",
+    "evidence",
+    "beliefs",
+    "academic"
+  ],
+  "timeCreated": 1735689600
+}

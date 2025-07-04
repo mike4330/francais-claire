@@ -1,0 +1,18 @@
+{
+    "id": 340,
+    "audioText": "Tu disais toujours que tu voulais devenir médecin quand tu étais au lycée.",
+    "question": "Tu ______ toujours que tu voulais devenir médecin quand tu étais au lycée.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "disais",
+        "dis",
+        "diras",
+        "dirais"
+    ],
+    "correct": 0,
+    "explanation": "The correct form is 'disais' (imperfect tense of dire - to say). The sentence refers to something the person used to say regularly in the past.",
+    "difficulty": "B2",
+    "source": "Career Dreams",
+    "tags": ["education", "career", "dreams", "past-habits"],
+    "timeCreated": 1719963600
+}

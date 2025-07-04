@@ -1,0 +1,22 @@
+{
+  "id": 363,
+  "audioText": "Mes parents savent que je travaille tard ce soir, alors ils ne m'attendent pas pour le dîner.",
+  "question": "What do the speaker's parents know?",
+  "questionType": "comprehension",
+  "options": [
+    "That the speaker is working late tonight",
+    "That the speaker is coming home early",
+    "That the speaker is going out with friends",
+    "That the speaker is cooking dinner"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'Mes parents savent que je travaille tard ce soir' - My parents know that I am working late tonight. 'Savent' is the 3rd person plural present tense of 'savoir' (to know), used here to indicate what the parents know.",
+  "difficulty": "B1",
+  "source": "Family Communication",
+  "tags": [
+    "family",
+    "work",
+    "daily-life"
+  ],
+  "timeCreated": 1720021260
+}

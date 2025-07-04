@@ -1,0 +1,22 @@
+{
+  "id": 379,
+  "audioText": "Il faut que le fermier dise la vérité sur l'utilisation des pesticides dans ses champs.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Il faut que le fermier dise la vérité sur l'utilisation des pesticides dans ses champs.",
+    "Il faut que le fermier disc la vérité sur l'utilisation des pesticides dans ses champs.",
+    "Il faut que le fermier dit la vérité sur l'utilisation des pesticides dans ses champs.",
+    "Il faut que le fermier dise la vérité sur l'utilisation des herbicides dans ses champs."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Il faut que le fermier dise la vérité sur l'utilisation des pesticides dans ses champs.' - The farmer must tell the truth about pesticide use in his fields. 'Dise' is the 3rd person singular subjunctive form of 'dire'.",
+  "difficulty": "B2",
+  "source": "Agricultural News",
+  "tags": [
+    "agriculture",
+    "farming",
+    "pesticides"
+  ],
+  "timeCreated": 1720022220
+}

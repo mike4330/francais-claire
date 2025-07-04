@@ -1,0 +1,23 @@
+{
+  "id": 310,
+  "audioText": "Je voudrais apprendre le piano, mais je n'ai pas assez de temps libre.",
+  "question": "What does the speaker want to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Learn to play piano",
+    "Buy a piano",
+    "Teach piano lessons",
+    "Listen to piano music"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'Je voudrais apprendre le piano' which means 'I would like to learn piano'. 'Voudrais' is the conditional form of 'vouloir' (to want).",
+  "difficulty": "B1",
+  "source": "Personal Goals",
+  "tags": [
+    "hobbies",
+    "music",
+    "time-management",
+    "personal-goals"
+  ],
+  "timeCreated": 1751465314
+}

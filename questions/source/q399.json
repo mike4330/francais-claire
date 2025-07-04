@@ -1,0 +1,25 @@
+{
+  "id": 399,
+  "audioText": "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau.",
+  "parentQuestion": 280,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau.",
+    "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée par les retards et les annulations, espère un renouveau.",
+    "Nice-Marseille : le premier TER public en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau.",
+    "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la connection. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau."
+  ],
+  "correct": 1,
+  "explanation": "La phrase exacte ne contenait pas l'article 'les' avant 'par retards'. C'était 'particulièrement touchée par les retards' et non 'touchée les par retards'. Cette correction grammaticale teste l'écoute précise des prépositions.",
+  "difficulty": "B2",
+  "source": "Transportation News - Listening",
+  "tags": [
+    "transportation",
+    "news", 
+    "train-service",
+    "privatization",
+    "regional-transport"
+  ],
+  "timeCreated": 1720024200
+}

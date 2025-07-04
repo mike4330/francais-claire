@@ -1,0 +1,18 @@
+{
+    "id": 343,
+    "audioText": "J'ai longtemps cru que cette histoire était vraie, mais j'ai découvert que c'était un mensonge.",
+    "question": "What did the speaker believe for a long time?",
+    "questionType": "comprehension",
+    "options": [
+        "That this story was true, but discovered it was a lie",
+        "That this story was false, but discovered it was true", 
+        "That this story was interesting but boring in reality",
+        "That this story was short but it was actually very long"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says 'J'ai longtemps cru que cette histoire était vraie' - I believed for a long time that this story was true. 'Cru' is the past participle of 'croire' (to believe).",
+    "difficulty": "B2",
+    "source": "Personal Discovery",
+    "tags": ["beliefs", "truth", "discovery", "deception"],
+    "timeCreated": 1719964300
+}

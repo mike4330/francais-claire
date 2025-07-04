@@ -1,0 +1,22 @@
+{
+  "id": 388,
+  "audioText": "La proposition a été mise en discussion par le conseil municipal.",
+  "question": "What happened to the proposal?",
+  "questionType": "comprehension",
+  "options": [
+    "It was put up for discussion by the municipal council",
+    "It was rejected by the municipal council",
+    "It was approved by the municipal council",
+    "It was postponed by the municipal council"
+  ],
+  "correct": 0,
+  "explanation": "The proposal 'a été mise en discussion par le conseil municipal' - was put up for discussion by the municipal council. 'Mise' is the feminine past participle of 'mettre', agreeing with 'la proposition'.",
+  "difficulty": "B2",
+  "source": "Municipal Government",
+  "tags": [
+    "politics",
+    "municipal",
+    "discussion"
+  ],
+  "timeCreated": 1720022760
+}

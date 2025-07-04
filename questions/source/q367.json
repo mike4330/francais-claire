@@ -1,0 +1,22 @@
+{
+  "id": 367,
+  "audioText": "Sachant que le magasin ferme à dix-huit heures, nous devons nous dépêcher pour y arriver à temps.",
+  "question": "Why do they need to hurry?",
+  "questionType": "comprehension",
+  "options": [
+    "Because the store closes at 6 PM",
+    "Because it's starting to rain",
+    "Because they're late for work",
+    "Because the bus is coming"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'Sachant que le magasin ferme à dix-huit heures' - Knowing that the store closes at 6 PM. 'Sachant' is the present participle of 'savoir' (to know), used here to introduce the reason for their urgency.",
+  "difficulty": "B2",
+  "source": "Shopping Planning",
+  "tags": [
+    "shopping",
+    "time-management",
+    "urgency"
+  ],
+  "timeCreated": 1720021500
+}

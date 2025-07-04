@@ -1,0 +1,22 @@
+{
+  "id": 381,
+  "audioText": "Tu feras les courses au marché samedi matin avant l'affluence.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Tu feras les courses au marché samedi matin avant l'affluence.",
+    "Tu fais les courses au marché samedi matin avant l'affluence.",
+    "Tu ferais les courses au marché samedi matin avant l'affluence.",
+    "Tu feras les courses au marché samedi matin après l'affluence."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Tu feras les courses au marché samedi matin avant l'affluence.' - You will do the shopping at the market Saturday morning before the rush. 'Feras' is the 2nd person singular future form of 'faire'.",
+  "difficulty": "B1",
+  "source": "Weekend Shopping",
+  "tags": [
+    "shopping",
+    "market",
+    "weekend"
+  ],
+  "timeCreated": 1720022340
+}

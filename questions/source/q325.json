@@ -1,0 +1,22 @@
+{
+  "id": 325,
+  "audioText": "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+  "parentQuestion": 320,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+    "La météo de demain prévoit des averses dans le sud et du soleil dans le nord de la France.",
+    "La météo de demain prévoit de la pluie dans le nord et des nuages dans le sud de la France.",
+    "La météo de demain prévoit des orages dans le nord et du soleil dans le sud de la France."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.' - Tomorrow's weather forecast predicts showers in the north and sun in the south of France.",
+  "difficulty": "B1",
+  "source": "Weather Report - Listening",
+  "tags": [
+    "weather",
+    "geography",
+    "forecast"
+  ]
+}

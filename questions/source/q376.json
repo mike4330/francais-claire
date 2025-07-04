@@ -1,0 +1,22 @@
+{
+  "id": 376,
+  "audioText": "Si nous partions maintenant, nous arriverions à temps pour le dîner.",
+  "question": "What would happen if they left now?",
+  "questionType": "comprehension",
+  "options": [
+    "They would arrive in time for dinner",
+    "They would miss the dinner completely",
+    "They would arrive too early for dinner",
+    "They would need to call ahead to reserve"
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Si nous partions maintenant, nous arriverions à temps pour le dîner' - If we left now, we would arrive in time for dinner. 'Arriverions' is the 1st person plural conditional tense of 'arriver', used in the conditional clause.",
+  "difficulty": "B2",
+  "source": "Social Planning",
+  "tags": [
+    "social",
+    "planning",
+    "conditional"
+  ],
+  "timeCreated": 1720022040
+}

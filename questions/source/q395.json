@@ -1,0 +1,22 @@
+{
+  "id": 395,
+  "audioText": "Nous devrons présenter nos résultats au conseil d'administration demain matin.",
+  "question": "When will they present their results?",
+  "questionType": "comprehension",
+  "options": [
+    "Tomorrow morning to the board of directors",
+    "Tomorrow afternoon to the board of directors", 
+    "Next week to the board of directors",
+    "Tomorrow morning to the management team"
+  ],
+  "correct": 0,
+  "explanation": "They 'devrons présenter nos résultats au conseil d'administration demain matin' - will have to present our results to the board of directors tomorrow morning. 'Devrons' is the 1st person plural future form of 'devoir' (must/have to).",
+  "difficulty": "B2",
+  "source": "Corporate Presentation",
+  "tags": [
+    "business",
+    "presentation",
+    "board"
+  ],
+  "timeCreated": 1720023180
+}

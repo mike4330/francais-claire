@@ -1,0 +1,18 @@
+{
+    "id": 339,
+    "audioText": "Quand j'étais petit, je faisais du vélo tous les jours après l'école.",
+    "question": "What did the speaker do when they were little?",
+    "questionType": "comprehension",
+    "options": [
+        "They rode their bike every day after school",
+        "They played soccer with friends every afternoon",
+        "They did homework immediately after school",
+        "They watched TV every evening after dinner"
+    ],
+    "correct": 0,
+    "explanation": "The sentence uses 'faisais' (imperfect tense of faire). The speaker rode their bike every day after school when they were little.",
+    "difficulty": "B2",
+    "source": "Childhood Memories",
+    "tags": ["childhood", "daily-life", "sports", "routine"],
+    "timeCreated": 1719963500
+}

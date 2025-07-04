@@ -1,0 +1,22 @@
+{
+  "id": 394,
+  "audioText": "Tu vis dans ce quartier depuis combien de temps exactement?",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Tu vis dans ce quartier depuis combien de temps exactement?",
+    "Tu viens dans ce quartier depuis combien de temps exactement?",
+    "Tu vis dans ce quartier depuis combien d'années exactement?",
+    "Tu vas dans ce quartier depuis combien de temps exactement?"
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Tu vis dans ce quartier depuis combien de temps exactement?' - How long exactly have you been living in this neighborhood? 'Vis' is the 2nd person singular present form of 'vivre' (to live).",
+  "difficulty": "B1",
+  "source": "Neighborhood Conversation",
+  "tags": [
+    "neighborhood",
+    "time",
+    "residence"
+  ],
+  "timeCreated": 1720023120
+}

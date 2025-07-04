@@ -1,0 +1,22 @@
+{
+  "id": 369,
+  "audioText": "Je doute qu'elle veuille accepter cette proposition de travail dans une autre ville.",
+  "question": "What does the speaker doubt?",
+  "questionType": "comprehension",
+  "options": [
+    "That she wants to accept the job offer in another city",
+    "That she will finish her current project",
+    "That she knows about the meeting",
+    "That she can speak French fluently"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'Je doute qu'elle veuille accepter cette proposition' - I doubt that she wants to accept this offer. 'Veuille' is the 3rd person singular subjunctive of 'vouloir' (to want), used after expressions of doubt like 'je doute que'.",
+  "difficulty": "B2",
+  "source": "Career Discussion",
+  "tags": [
+    "work",
+    "career",
+    "doubt"
+  ],
+  "timeCreated": 1720021620
+}

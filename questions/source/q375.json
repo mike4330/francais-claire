@@ -1,0 +1,22 @@
+{
+  "id": 375,
+  "audioText": "Le train arrivera à la gare de Lyon vers dix-huit heures.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le train arrivera à la gare de Lyon vers dix-huit heures.",
+    "Le train arrive à la gare de Lyon vers dix-huit heures.",
+    "Le train arriverait à la gare de Lyon vers dix-huit heures.",
+    "Le train est arrivé à la gare de Lyon vers dix-huit heures."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Le train arrivera à la gare de Lyon vers dix-huit heures.' - The train will arrive at Lyon station around 6 PM. 'Arrivera' is the 3rd person singular future tense of 'arriver'.",
+  "difficulty": "B1",
+  "source": "Train Schedule",
+  "tags": [
+    "travel",
+    "transportation",
+    "schedule"
+  ],
+  "timeCreated": 1720021980
+}

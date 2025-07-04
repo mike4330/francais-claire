@@ -1,0 +1,18 @@
+{
+    "id": 341,
+    "audioText": "Cette solution ne marche pas, il faut essayer une autre approche pour résoudre ce problème.",
+    "question": "What does the speaker suggest?",
+    "questionType": "comprehension",
+    "options": [
+        "They need to try a different approach to solve the problem",
+        "They should give up on solving this problem completely",
+        "The current solution is working perfectly fine",
+        "They need more time to make the solution work"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says the current solution doesn't work and suggests 'essayer une autre approche' - trying another/different approach to solve the problem.",
+    "difficulty": "B1",
+    "source": "Problem Solving Strategy",
+    "tags": ["work", "problem-solving", "strategy", "alternatives"],
+    "timeCreated": 1719964000
+}
