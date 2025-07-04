@@ -1,0 +1,23 @@
+{
+  "id": 409,
+  "audioText": "C'est une mauvaise idée de sortir sans parapluie quand il pleut.",
+  "question": "According to the speaker, what is a bad idea?",
+  "questionType": "comprehension",
+  "options": [
+    "Going out without an umbrella when it rains",
+    "Buying an expensive umbrella for occasional use",
+    "Staying inside when the weather is nice",
+    "Forgetting to check the weather forecast"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'C'est une mauvaise idée de sortir sans parapluie quand il pleut' - It's a bad idea to go out without an umbrella when it rains. 'Mauvaise' means bad/poor.",
+  "difficulty": "B1",
+  "source": "Weather Advice",
+  "tags": [
+    "weather",
+    "advice",
+    "practical-tips",
+    "rain"
+  ],
+  "timeCreated": 1720025580
+}

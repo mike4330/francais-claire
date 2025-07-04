@@ -1,0 +1,23 @@
+{
+  "id": 499,
+  "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.",
+  "question": "Le taux de ______ a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "chômage",
+    "croissance",
+    "inflation",
+    "productivité"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'chômage'. La phrase complète est 'Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.' - The unemployment rate fell by 0.2 percentage points in the last quarter, reaching 7.3% of the active population. 'Chômage' means unemployment, a key economic indicator.",
+  "difficulty": "B2",
+  "source": "French Economic News",
+  "tags": [
+    "economy",
+    "unemployment",
+    "statistics",
+    "employment",
+    "economic-indicators"
+  ]
+}

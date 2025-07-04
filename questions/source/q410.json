@@ -1,0 +1,23 @@
+{
+  "id": 410,
+  "audioText": "Je suis désolé d'avoir oublié notre rendez-vous important.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Je suis désolé d'avoir oublié notre rendez-vous important.",
+    "Je suis désolé d'avoir raté notre rendez-vous important.",
+    "Je suis navré d'avoir oublié notre rendez-vous important.",
+    "Je suis désolé d'avoir oublié votre rendez-vous important."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'désolé' (pas 'navré'), 'oublié' (pas 'raté'), et 'notre' (pas 'votre'). 'Désolé' exprime les regrets et les excuses.",
+  "difficulty": "B2",
+  "source": "Apologies - Professional",
+  "tags": [
+    "apology",
+    "appointments",
+    "professional",
+    "regret"
+  ],
+  "timeCreated": 1720025640
+}

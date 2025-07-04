@@ -1,0 +1,18 @@
+{
+    "id": 449,
+    "audioText": "Nous avons vus tous les chats du refuge hier avant l'adoption.",
+    "question": "What did they see at the shelter yesterday?",
+    "questionType": "comprehension",
+    "options": [
+        "All the cats before adoption",
+        "All the dogs before adoption",
+        "All the birds before adoption",
+        "All the rabbits before adoption"
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'vus' - the past participle of 'voir' (to see) in masculine plural form. 'Nous avons vus' means 'we have seen'. They saw all the cats at the shelter before the adoption event.",
+    "difficulty": "B1",
+    "source": "Animal shelter visit",
+    "tags": ["animals", "shelter", "adoption"],
+    "timeCreated": 1720108800
+}

@@ -1,0 +1,18 @@
+{
+    "id": 438,
+    "audioText": "Mes grands-parents allaient toujours à la messe le dimanche.",
+    "question": "What did the grandparents always do on Sundays?",
+    "questionType": "comprehension",
+    "options": [
+        "They went to mass.",
+        "They went to the market.",
+        "They went to the park.",
+        "They went to visit friends."
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'allaient' - the imperfect form of 'aller' (to go) for ils/elles. 'Mes grands-parents allaient' means 'my grandparents used to go/were going'. The imperfect describes a habitual action in the past.",
+    "difficulty": "B1",
+    "source": "Family traditions and habits",
+    "tags": ["family", "traditions", "religion"],
+    "timeCreated": 1720108800
+}

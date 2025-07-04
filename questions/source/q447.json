@@ -1,0 +1,18 @@
+{
+    "id": 447,
+    "audioText": "Les enfants voulaient avoir un chien comme animal de compagnie.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Les enfants voulaient avoir un chien comme animal de compagnie.",
+        "Les enfants voulaient avoir un chat comme animal de compagnie.",
+        "Les enfants voulaient avoir un oiseau comme animal de compagnie.",
+        "Les enfants voulaient avoir un lapin comme animal de compagnie."
+    ],
+    "correct": 0,
+    "explanation": "La phrase exacte était 'Les enfants voulaient avoir un chien comme animal de compagnie.' - The children wanted to have a dog as a pet. 'Voulaient' is the imperfect form of 'vouloir' for ils/elles.",
+    "difficulty": "B1",
+    "source": "Family pet discussion",
+    "tags": ["animals", "family", "pets"],
+    "timeCreated": 1720108800
+}

@@ -1,0 +1,23 @@
+{
+  "id": 464,
+  "audioText": "Les étudiants ont manifesté devant l'université pour soutenir leur professeur licencié après ses critiques du gouvernement.",
+  "question": "Why did the students demonstrate in front of the university?",
+  "questionType": "comprehension",
+  "options": [
+    "To support their professor who was fired after criticizing the government",
+    "To protest against high university fees",
+    "To demand better facilities and resources",
+    "To celebrate their graduation ceremony"
+  ],
+  "correct": 0,
+  "explanation": "The students demonstrated 'pour soutenir leur professeur licencié après ses critiques du gouvernement' - to support their professor who was fired after his criticisms of the government. The verb 'soutenir' means to support or back someone.",
+  "difficulty": "B2",
+  "source": "University News",
+  "tags": [
+    "education",
+    "protest",
+    "politics",
+    "academic-freedom",
+    "soutenir"
+  ]
+}

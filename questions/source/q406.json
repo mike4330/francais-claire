@@ -1,0 +1,23 @@
+{
+  "id": 406,
+  "audioText": "Mon fils étudie l'informatique à l'université et il veut devenir programmeur.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Mon fils étudie l'informatique à l'université et il veut devenir programmeur.",
+    "Mon fils étudie l'informatique à l'université et il veut devenir professeur.",
+    "Mon file étudie l'informatique à l'université et il veut devenir programmeur.",
+    "Mon fils étudie l'informatique à l'école et il veut devenir programmeur."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'fils' (pas 'file'), 'université' (pas 'école'), et 'programmeur' (pas 'professeur'). 'Fils' signifie son (male child).",
+  "difficulty": "B1",
+  "source": "Family - Education",
+  "tags": [
+    "family",
+    "education",
+    "career",
+    "technology"
+  ],
+  "timeCreated": 1720024980
+}

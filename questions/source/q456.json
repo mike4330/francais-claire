@@ -1,0 +1,18 @@
+{
+    "id": 456,
+    "audioText": "Nous allons prendre le déjeuner, ensuite nous visiterons le musée d'art moderne.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Nous allons prendre le déjeuner, ensuite nous visiterons le musée d'art moderne.",
+        "Nous allons prendre le déjeuner, puis nous visiterons le musée d'art moderne.",
+        "Nous allons prendre le déjeuner, enfin nous visiterons le musée d'art moderne.",
+        "Nous allons prendre le déjeuner, après nous visiterons le musée d'art moderne."
+    ],
+    "correct": 0,
+    "explanation": "The speaker used 'ensuite' (then/afterwards) to indicate the sequence of activities. The other options use different temporal adverbs: 'puis' (then), 'enfin' (finally), or 'après' (after).",
+    "difficulty": "B2",
+    "source": "Tourism planning conversation",
+    "tags": ["travel", "planning", "tourism"],
+    "timeCreated": 1720076460
+}

@@ -1,0 +1,22 @@
+{
+  "id": 49,
+  "audioText": "Quand j'avais quinze ans, j'écoutais beaucoup de musique classique avec mes parents.",
+  "question": "What did the speaker do when they were fifteen?",
+  "questionType": "comprehension",
+  "options": [
+    "They listened to a lot of classical music with their parents.",
+    "They played classical music in concerts with their family.",
+    "They studied classical music theory at school.",
+    "They bought many classical music albums for their collection."
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Quand j'avais quinze ans, j'écoutais beaucoup de musique classique avec mes parents' - When I was fifteen, I listened to a lot of classical music with my parents. 'Avais' is the imperfect tense showing a past state or condition.",
+  "difficulty": "A2",
+  "source": "Musical Memories",
+  "tags": [
+    "music",
+    "classical-music",
+    "family",
+    "memories"
+  ]
+}

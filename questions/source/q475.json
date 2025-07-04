@@ -1,0 +1,18 @@
+{
+    "id": 475,
+    "audioText": "Il a échoué à l'examen, pourtant il avait beaucoup étudié pour se préparer.",
+    "question": "What is surprising about his exam failure?",
+    "questionType": "comprehension",
+    "options": [
+        "He had studied a lot to prepare for it",
+        "He didn't study at all for the exam",
+        "He was expecting to fail the exam",
+        "He took the wrong exam by mistake"
+    ],
+    "correct": 0,
+    "explanation": "'Pourtant' means 'however' or 'yet' and introduces a contrast. Despite having studied a lot to prepare, he still failed the exam - this contradiction makes the failure surprising.",
+    "difficulty": "B2",
+    "source": "Academic disappointment",
+    "tags": ["education", "contradiction", "study-habits"],
+    "timeCreated": 1720077400
+}

@@ -1,0 +1,23 @@
+{
+  "id": 411,
+  "audioText": "L'immeuble le plus haut de la ville mesure cinquante étages.",
+  "question": "L'immeuble le plus ______ de la ville mesure cinquante étages.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "haut",
+    "grand",
+    "large",
+    "moderne"
+  ],
+  "correct": 0,
+  "explanation": "A building with fifty floors would be the tallest ('le plus haut') in the city. 'Haut' specifically refers to height/tallness, while 'grand' means big/large in general, 'large' means wide, and 'moderne' means modern.",
+  "difficulty": "B1",
+  "source": "Urban Architecture",
+  "tags": [
+    "architecture",
+    "city",
+    "buildings",
+    "height"
+  ],
+  "timeCreated": 1720026020
+}

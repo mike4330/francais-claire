@@ -1,0 +1,18 @@
+{
+    "id": 442,
+    "audioText": "Ce pesticide tue les insectes nuisibles mais préserve les abeilles.",
+    "question": "What does this pesticide do to harmful insects?",
+    "questionType": "comprehension",
+    "options": [
+        "It kills them.",
+        "It repels them.",
+        "It attracts them.",
+        "It transforms them."
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'tue' - the present form of 'tuer' (to kill) for il/elle. 'Ce pesticide tue' means 'this pesticide kills'. The sentence describes a selective pesticide that kills harmful insects but preserves bees.",
+    "difficulty": "B1",
+    "source": "Agricultural pest control discussion",
+    "tags": ["agriculture", "pest-control", "environmental-protection"],
+    "timeCreated": 1720108800
+}

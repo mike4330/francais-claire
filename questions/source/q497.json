@@ -1,0 +1,61 @@
+{
+  "id": 497,
+  "audioTemplate": "Au restaurant, j'ai hésité entre {dish1} et {dish2}, mais j'ai finalement choisi {final_choice}.",
+  "templateVariables": {
+    "dish1": {
+      "options": [
+        "une bavette d'aloyau",
+        "une poêlée de seiche",
+        "un burger au bacon"
+      ],
+      "weights": [
+        0.5,
+        0.3,
+        0.2
+      ]
+    },
+    "dish2": {
+      "options": [
+        "des brochettes de magret de canard",
+        "un steak tartare au couteau",
+        "un gratin dauphinois"
+      ],
+      "weights": [
+        0.5,
+        0.3,
+        0.2
+      ]
+    },
+    "final_choice": {
+      "options": [
+        "un émincé de poulet à la moutarde parfumée",
+        "un steak tartare au couteau",
+        "un gratin dauphinois"
+      ],
+      "weights": [
+        0.6,
+        0.2,
+        0.2
+      ]
+    }
+  },
+  "parentQuestion": 484,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+    "Au restaurant, j'ai hésité entre une poêlée de seiche et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+    "Au restaurant, j'ai hésité entre une bavette d'aloyau et un burger au bacon, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+    "Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un steak tartare au couteau."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était générée à partir du modèle. Exemple : 'Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.' - At the restaurant, I hesitated between a flank steak and duck breast skewers, but I finally chose a sliced chicken dish with fragrant mustard sauce.",
+  "difficulty": "B2",
+  "source": "Restaurant Choice - Listening (Template)",
+  "tags": [
+    "food",
+    "restaurant",
+    "chicken",
+    "decision"
+  ]
+}

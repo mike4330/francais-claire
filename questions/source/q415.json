@@ -1,0 +1,23 @@
+{
+  "id": 415,
+  "audioText": "Il ne faut jamais prendre de mauvais décisions quand on est en colère.",
+  "question": "Il ne faut jamais prendre de ______ décisions quand on est en colère.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "mauvais",
+    "bonnes",
+    "rapides",
+    "importantes"
+  ],
+  "correct": 0,
+  "explanation": "The context suggests you shouldn't make 'bad' decisions when angry. 'Mauvais' means bad/poor, which fits the warning about decision-making while emotional. The other options don't match the cautionary tone.",
+  "difficulty": "B1",
+  "source": "Life Advice - Decision Making",
+  "tags": [
+    "advice",
+    "decision-making",
+    "emotions",
+    "psychology"
+  ],
+  "timeCreated": 1720026260
+}

@@ -1,0 +1,23 @@
+{
+  "id": 405,
+  "audioText": "La mort de cet écrivain célèbre a marqué la fin d'une époque littéraire importante en France.",
+  "question": "What significance does the writer's death have?",
+  "questionType": "comprehension",
+  "options": [
+    "It marked the end of an important literary era in France",
+    "It started a new literary movement in European literature",
+    "It caused major political changes in French society",
+    "It led to the creation of new publishing houses"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'La mort de cet écrivain célèbre a marqué la fin d'une époque littéraire importante' - The death of this famous writer marked the end of an important literary era. 'Mort' means death, and 'époque' means era or period.",
+  "difficulty": "B2",
+  "source": "Literary News",
+  "tags": [
+    "literature",
+    "death",
+    "cultural-history",
+    "writers"
+  ],
+  "timeCreated": 1720024920
+}

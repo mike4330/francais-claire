@@ -1,0 +1,20 @@
+{
+  "id": 44,
+  "audioText": "Le film laissera une impression durable au public.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le film laissera une impression durable au public.",
+    "Le film laissera une impression terrible au public.",
+    "Le film laisse une impression durable au public.",
+    "Le film laissait une impression durable au public."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Le film laissera une impression durable au public.' - The film will leave a lasting impression on the audience. Note the future tense 'laissera' indicating the film's future impact.",
+  "difficulty": "A2",
+  "source": "Cinema Review",
+  "tags": [
+    "cinema",
+    "impression"
+  ]
+}

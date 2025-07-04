@@ -1,0 +1,18 @@
+{
+    "id": 445,
+    "audioText": "Cette lettre a été laissée sur votre bureau ce matin.",
+    "question": "What happened to the letter?",
+    "questionType": "comprehension",
+    "options": [
+        "It was left on your desk this morning.",
+        "It was sent from your desk this morning.",
+        "It was written on your desk this morning.",
+        "It was read on your desk this morning."
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'laissée' - the past participle feminine form of 'laisser' (to leave). 'Cette lettre a été laissée' means 'this letter was left'. The past participle agrees with the feminine noun 'lettre'.",
+    "difficulty": "B2",
+    "source": "Office communication scenario",
+    "tags": ["workplace", "communication", "correspondence"],
+    "timeCreated": 1720108800
+}

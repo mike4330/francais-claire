@@ -1,0 +1,22 @@
+{
+  "id": 45,
+  "audioText": "Tu trouveras cette chanson très émouvante et belle.",
+  "question": "What will you find about this song?",
+  "questionType": "comprehension",
+  "options": [
+    "You will find it very moving and beautiful.",
+    "You will find it very boring and ugly.",
+    "You will find it very loud and fast.",
+    "You will find it very short and simple."
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Tu trouveras cette chanson très émouvante et belle' - You will find this song very moving and beautiful. 'Émouvante' means moving/touching emotionally, and 'belle' means beautiful.",
+  "difficulty": "A2",
+  "source": "Music Recommendation",
+  "tags": [
+    "music",
+    "song",
+    "emotions",
+    "beauty"
+  ]
+}

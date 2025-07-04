@@ -1,0 +1,23 @@
+{
+  "id": 408,
+  "audioText": "Ma maison est maintenant propre après le grand ménage de printemps.",
+  "question": "Ma maison est maintenant ______ après le grand ménage de printemps.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "propre",
+    "belle",
+    "grande",
+    "nouvelle"
+  ],
+  "correct": 0,
+  "explanation": "After spring cleaning ('grand ménage de printemps'), a house would be 'propre' (clean). 'Propre' means clean/tidy, which is the logical result of thorough cleaning.",
+  "difficulty": "B1",
+  "source": "Household Maintenance",
+  "tags": [
+    "home",
+    "cleaning",
+    "seasonal-activities",
+    "maintenance"
+  ],
+  "timeCreated": 1720025520
+}
