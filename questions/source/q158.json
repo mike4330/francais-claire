@@ -1,0 +1,22 @@
+{
+  "id": 158,
+  "audioText": "Il fait très froid aujourd'hui.",
+  "question": "What is the weather like today?",
+  "questionType": "comprehension",
+  "options": [
+    "It's very cold today",
+    "It's very hot today", 
+    "It's very windy today",
+    "It's very sunny today"
+  ],
+  "correct": 0,
+  "explanation": "The phrase 'Il fait très froid aujourd'hui' means 'It's very cold today.' The adjective 'froid' means cold, and 'il fait' is the standard expression for describing weather.",
+  "difficulty": "A1",
+  "source": "Weather Description",
+  "tags": [
+    "weather",
+    "temperature",
+    "daily-conversation"
+  ],
+  "timeCreated": 1720026380
+}

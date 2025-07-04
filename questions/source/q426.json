@@ -1,0 +1,23 @@
+{
+  "id": 426,
+  "audioText": "En ______ par la fenêtre, j'ai vu un accident de voiture.",
+  "question": "En ______ par la fenêtre, j'ai vu un accident de voiture.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "regardant",
+    "regarder",
+    "regarde",
+    "regardais"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'regardant' (present participle of 'regarder'). The construction 'en + present participle' expresses simultaneous action: 'En regardant par la fenêtre' means 'while looking out the window'. This shows that seeing the accident happened while looking out.",
+  "difficulty": "B2",
+  "source": "Accident Witness",
+  "tags": [
+    "accidents",
+    "witnessing",
+    "traffic",
+    "observation"
+  ],
+  "timeCreated": 1720027520
+}

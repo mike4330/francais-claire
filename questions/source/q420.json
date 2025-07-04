@@ -1,0 +1,23 @@
+{
+  "id": 420,
+  "audioText": "L'appartement au cinquième étage offre une vue magnifique sur la ville grâce à sa position ______.",
+  "question": "L'appartement au cinquième étage offre une vue magnifique sur la ville grâce à sa position ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "haut",
+    "haute",
+    "hauts",
+    "hautes"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'haute' (feminine singular) to agree with 'position' (feminine singular). The adjective 'haut' means high/elevated, and the context explains the apartment's great view is due to its high position.",
+  "difficulty": "B2",
+  "source": "Real Estate - Apartment Features",
+  "tags": [
+    "housing",
+    "real-estate",
+    "location",
+    "city-views"
+  ],
+  "timeCreated": 1720026920
+}

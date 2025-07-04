@@ -1,0 +1,23 @@
+{
+  "id": 416,
+  "audioText": "Cette petite ville de montagne est vraiment joli avec ses chalets traditionnels.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette petite ville de montagne est vraiment joli avec ses chalets traditionnels.",
+    "Cette petite ville de montagne est vraiment jolie avec ses chalets traditionnels.",
+    "Cette petite ville de montagne est vraiment joli avec ses maisons traditionnelles.",
+    "Cette grande ville de montagne est vraiment jolie avec ses chalets traditionnels."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte contenait l'erreur d'accord 'joli' (masculin) au lieu de 'jolie' (féminin) pour s'accorder avec 'ville' (féminin). Cette question teste l'écoute précise des erreurs grammaticales d'accord des adjectifs.",
+  "difficulty": "B1",
+  "source": "Travel - Mountain Towns - Grammar Detection",
+  "tags": [
+    "travel",
+    "mountain-towns",
+    "traditional-architecture",
+    "grammar-errors"
+  ],
+  "timeCreated": 1720026500
+}
