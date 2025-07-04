@@ -1,0 +1,22 @@
+{
+  "id": 151,
+  "audioText": "Quelle heure est-il ?",
+  "question": "Quelle ______ est-il ?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "heure",
+    "temps", 
+    "moment",
+    "fois"
+  ],
+  "correct": 0,
+  "explanation": "The correct phrase is 'Quelle heure est-il ?' (What time is it?). 'Heure' specifically refers to clock time, while 'temps' means weather or general time, 'moment' means moment, and 'fois' means time as in occurrence.",
+  "difficulty": "A1",
+  "source": "Time Expressions",
+  "tags": [
+    "time",
+    "questions",
+    "daily-expressions"
+  ],
+  "timeCreated": 1720024860
+}

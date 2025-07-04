@@ -1,0 +1,18 @@
+{
+    "id": 185,
+    "audioText": "Quand j'étais petit, je parlais souvent avec mes animaux domestiques.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Quand j'étais petit, je parlais souvent avec mes animaux domestiques.",
+        "Quand j'étais petit, je jouais souvent avec mes animaux domestiques.",
+        "Quand j'étais petit, je gardais souvent mes animaux domestiques.",
+        "Quand j'étais petit, je nourrissais souvent mes animaux domestiques."
+    ],
+    "correct": 0,
+    "explanation": "La phrase exacte était 'Quand j'étais petit, je parlais souvent avec mes animaux domestiques.' - When I was little, I often talked with my pets. 'Parlais' is the imperfect form of 'parler' for je.",
+    "difficulty": "A2",
+    "source": "Childhood pet memories",
+    "tags": ["animals", "childhood", "pets"],
+    "timeCreated": 1720108800
+}

@@ -1,0 +1,18 @@
+{
+    "id": 133,
+    "audioText": "Ce nouveau smartphone est trop cher pour mon budget.",
+    "question": "Ce nouveau smartphone est trop ______ pour mon budget.",
+    "questionType": "FIB-reading",
+    "options": [
+        "cher",
+        "bon",
+        "grand",
+        "rapide"
+    ],
+    "correct": 0,
+    "explanation": "The correct word is 'cher' (expensive). The sentence means 'This new smartphone is too expensive for my budget.' 'Cher' is used to describe something that costs a lot of money.",
+    "difficulty": "A1",
+    "source": "Technology Shopping",
+    "tags": ["technology", "shopping", "budget", "prices"],
+    "timeCreated": 1720052520
+}

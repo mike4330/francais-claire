@@ -1,0 +1,23 @@
+{
+  "id": 156,
+  "audioText": "Mon grand-père est encore vivant à 95 ans.",
+  "question": "What do we learn about the grandfather?",
+  "questionType": "comprehension",
+  "options": [
+    "He is still alive at 95 years old",
+    "He is very sick and in the hospital",
+    "He celebrated his 95th birthday yesterday",
+    "He is living alone in his old house"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Mon grand-père est encore vivant à 95 ans' - My grandfather is still alive at 95 years old. 'Vivant' means alive/living.",
+  "difficulty": "A2",
+  "source": "Family - Health",
+  "tags": [
+    "family",
+    "health",
+    "age",
+    "elderly"
+  ],
+  "timeCreated": 1720025900
+}

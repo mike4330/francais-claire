@@ -1,0 +1,18 @@
+{
+    "id": 183,
+    "audioText": "Tu sauras reconnaître les différents chats dans le quartier.",
+    "question": "Complete: Tu ______ reconnaître les différents chats dans le quartier.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "sauras",
+        "sais",
+        "savais",
+        "saurez"
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'sauras' - the future form of 'savoir' (to know) for tu. 'Tu sauras' means 'you will know'. This describes the future ability to recognize different cats in the neighborhood.",
+    "difficulty": "A2",
+    "source": "Neighborhood animals",
+    "tags": ["animals", "neighborhood", "recognition"],
+    "timeCreated": 1720108800
+}

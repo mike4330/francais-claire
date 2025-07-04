@@ -1,0 +1,18 @@
+{
+    "id": 190,
+    "audioText": "Quelquefois je mange au restaurant avec mes amis.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Quelquefois je mange au restaurant avec mes amis.",
+        "Toujours je mange au restaurant avec mes amis.",
+        "Jamais je mange au restaurant avec mes amis.",
+        "Souvent je mange au restaurant avec mes amis."
+    ],
+    "correct": 0,
+    "explanation": "The speaker used 'quelquefois' meaning 'sometimes'. This indicates occasional frequency - not always, never, or often, but from time to time. The other options change the frequency adverb completely.",
+    "difficulty": "A2",
+    "source": "Social dining habits",
+    "tags": ["food", "friends", "social-activities"],
+    "timeCreated": 1720077000
+}

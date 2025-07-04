@@ -1,0 +1,23 @@
+{
+  "id": 112,
+  "audioText": "Le sport est bon pour le corps et l'esprit.",
+  "question": "What is good for the body and mind?",
+  "questionType": "comprehension",
+  "options": [
+    "Sport",
+    "Reading",
+    "Sleeping",
+    "Eating"
+  ],
+  "correct": 0,
+  "explanation": "According to the text, 'le sport est bon pour le corps et l'esprit' - sport is good for the body and mind. The word 'corps' means body, and 'esprit' means mind or spirit.",
+  "difficulty": "A2",
+  "source": "Health Advice",
+  "tags": [
+    "health",
+    "sports",
+    "wellness",
+    "lifestyle"
+  ],
+  "timeCreated": 1751465035
+}

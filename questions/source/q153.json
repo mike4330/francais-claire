@@ -1,0 +1,23 @@
+{
+  "id": 153,
+  "audioText": "Ma chambre est au deuxième étage.",
+  "question": "Where is the person's room located?",
+  "questionType": "comprehension",
+  "options": [
+    "On the second floor",
+    "In the basement",
+    "On the first floor",
+    "In the attic"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Ma chambre est au deuxième étage' - My room is on the second floor. 'Chambre' means bedroom/room and 'deuxième étage' means second floor.",
+  "difficulty": "A2",
+  "source": "Home Description",
+  "tags": [
+    "home",
+    "rooms",
+    "location",
+    "house-layout"
+  ],
+  "timeCreated": 1720025100
+}

@@ -1,0 +1,22 @@
+{
+  "id": 154,
+  "audioText": "Quoi ? Tu ne viens pas ?",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Quoi ? Tu ne viens pas ?",
+    "Quoi ? Tu ne veux pas ?",
+    "Quoi ? Tu ne sais pas ?",
+    "Pourquoi ? Tu ne viens pas ?"
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'viens' (pas 'veux' ou 'sais') et 'Quoi ?' (pas 'Pourquoi ?'). 'Quoi ?' exprime la surprise ou l'incompréhension.",
+  "difficulty": "A2",
+  "source": "Casual Conversation",
+  "tags": [
+    "surprise",
+    "conversation",
+    "informal-speech"
+  ],
+  "timeCreated": 1720025400
+}

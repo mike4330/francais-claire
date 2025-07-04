@@ -1,0 +1,24 @@
+{
+  "id": 111,
+  "audioText": "Tu pourras venir à la fête samedi soir si tes parents sont d'accord.",
+  "question": "Tu ______ venir à la fête samedi soir si tes parents sont d'accord.",
+  "questionType": "FIB-reading",
+  "options": [
+    "pourras",
+    "peux",
+    "pouvais",
+    "pourrais"
+  ],
+  "correct": 0,
+  "explanation": "The future tense 'pourras' (you will be able to) is used to express future possibility dependent on parental permission.",
+  "difficulty": "A2",
+  "source": "Invitation to party with parental permission condition",
+  "tags": [
+    "social-events",
+    "permission",
+    "family",
+    "parties",
+    "future-time"
+  ],
+  "timeCreated": 1735689600
+}

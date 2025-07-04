@@ -1,0 +1,18 @@
+{
+    "id": 119,
+    "audioText": "Ma maman fait des crêpes pour le goûter cet après-midi.",
+    "question": "What is the speaker's mother making for the afternoon snack?",
+    "questionType": "comprehension",
+    "options": [
+        "Crepes for the afternoon snack",
+        "Cookies for breakfast",
+        "Cake for dinner",
+        "Bread for lunch"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says 'Ma maman fait des crêpes pour le goûter' - My mother is making crepes for the afternoon snack.",
+    "difficulty": "A1",
+    "source": "Family Kitchen",
+    "tags": ["family", "food", "daily-life", "cooking"],
+    "timeCreated": 1719962500
+}

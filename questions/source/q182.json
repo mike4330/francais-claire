@@ -1,0 +1,18 @@
+{
+    "id": 182,
+    "audioText": "Tu voudras acheter des meubles pour ta nouvelle maison ?",
+    "question": "Complete: Tu ______ acheter des meubles pour ta nouvelle maison ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "voudras",
+        "voulais",
+        "voulez",
+        "voudront"
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'voudras' - the future form of 'vouloir' (to want) for tu. 'Tu voudras' means 'you will want'. This asks about future intention to buy furniture for a new house.",
+    "difficulty": "A2",
+    "source": "Home furniture shopping",
+    "tags": ["furniture", "household-items", "shopping"],
+    "timeCreated": 1720108800
+}

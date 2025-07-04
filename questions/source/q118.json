@@ -1,0 +1,18 @@
+{
+    "id": 118,
+    "audioText": "Maman m'appelle pour le dîner.",
+    "question": "Maman m'______ pour le dîner.",
+    "questionType": "FIB-reading",
+    "options": [
+        "appelle",
+        "appelé",
+        "appelez",
+        "appeler"
+    ],
+    "correct": 0,
+    "explanation": "The verb 'appeler' in the third person singular is 'appelle'. Maman (she) calls me for dinner.",
+    "difficulty": "A1",
+    "source": "Family Communication",
+    "tags": ["family", "daily-life", "meals"],
+    "timeCreated": 1719962000
+}

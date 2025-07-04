@@ -1,0 +1,22 @@
+{
+  "id": 155,
+  "audioText": "Il vit seul dans cette grande maison.",
+  "question": "How does the person live?",
+  "questionType": "comprehension",
+  "options": [
+    "Alone in this big house",
+    "With family in a small apartment",
+    "With roommates in the city",
+    "With his wife in the countryside"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Il vit seul dans cette grande maison' - He lives alone in this big house. 'Seul' means alone/by oneself.",
+  "difficulty": "A1",
+  "source": "Housing Situation",
+  "tags": [
+    "home",
+    "living-situation",
+    "solitude"
+  ],
+  "timeCreated": 1720025460
+}

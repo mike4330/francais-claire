@@ -1,0 +1,22 @@
+{
+  "id": 150,
+  "audioText": "Je dors bien cette nuit.",
+  "question": "When does the person sleep well?",
+  "questionType": "comprehension",
+  "options": [
+    "This night",
+    "Every day",
+    "In the morning",
+    "Last week"
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Je dors bien cette nuit' - I sleep well this night. 'Cette nuit' means 'this night'.",
+  "difficulty": "A1",
+  "source": "Daily Life - Sleep",
+  "tags": [
+    "sleep",
+    "daily-routine",
+    "time"
+  ],
+  "timeCreated": 1720024800
+}

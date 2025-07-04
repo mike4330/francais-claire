@@ -1,0 +1,18 @@
+{
+    "id": 121,
+    "audioText": "J'ai envie de manger une glace au chocolat.",
+    "question": "What does the speaker want to do?",
+    "questionType": "comprehension",
+    "options": [
+        "Eat a chocolate ice cream",
+        "Buy some chocolate",
+        "Drink hot chocolate",
+        "Make a chocolate cake"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says 'J'ai envie de manger une glace au chocolat' - I want to eat a chocolate ice cream. 'Envie' means desire or craving.",
+    "difficulty": "A2",
+    "source": "Daily Desires",
+    "tags": ["food", "desires", "daily-life", "treats"],
+    "timeCreated": 1719962900
+}

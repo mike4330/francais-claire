@@ -1,0 +1,18 @@
+{
+    "id": 142,
+    "audioText": "Cette startup n'a pas la moindre chance de réussir dans ce marché très compétitif.",
+    "question": "What does the sentence say about the startup's chances?",
+    "questionType": "comprehension",
+    "options": [
+        "It doesn't have the slightest chance of succeeding in this very competitive market",
+        "It has excellent chances of succeeding in this competitive market",
+        "It has some chance of succeeding if the market changes",
+        "It will definitely succeed despite the competitive market"
+    ],
+    "correct": 0,
+    "explanation": "The sentence says 'Cette startup n'a pas la moindre chance de réussir dans ce marché très compétitif' - This startup doesn't have the slightest chance of succeeding in this very competitive market. 'Moindre' means slightest/least, emphasizing complete lack of chance.",
+    "difficulty": "A2",
+    "source": "Startup Business",
+    "tags": ["business", "startups", "competition", "market"],
+    "timeCreated": 1720053060
+}

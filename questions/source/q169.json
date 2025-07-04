@@ -1,0 +1,18 @@
+{
+    "id": 169,
+    "audioText": "Il est amoureux de sa voisine.",
+    "question": "How does he feel about his neighbor?",
+    "questionType": "comprehension",
+    "options": [
+        "He is in love with her.",
+        "He is angry with her.",
+        "He is afraid of her.",
+        "He is jealous of her."
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'amoureux' meaning 'in love'. 'Il est amoureux de sa voisine' means 'he is in love with his neighbor'. 'Amoureux' is an adjective describing romantic feelings.",
+    "difficulty": "A2",
+    "source": "Romantic relationship context",
+    "tags": ["emotions", "romance", "relationships"],
+    "timeCreated": 1720108800
+}

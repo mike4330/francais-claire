@@ -1,0 +1,18 @@
+{
+    "id": 191,
+    "audioText": "J'en ai marre de ces embouteillages tous les matins !",
+    "question": "J'en ai ______ de ces embouteillages tous les matins !",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "marre",
+        "peur",
+        "envie",
+        "besoin"
+    ],
+    "correct": 0,
+    "explanation": "The expression 'en avoir marre' means 'to be fed up with' or 'to be sick of' something. Here the speaker is expressing frustration about daily traffic jams. 'Marre' is always used in this fixed expression with 'en avoir'.",
+    "difficulty": "A2",
+    "source": "Daily commute frustration",
+    "tags": ["transportation", "frustration", "daily-routine"],
+    "timeCreated": 1720077000
+}

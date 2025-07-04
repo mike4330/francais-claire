@@ -1,0 +1,18 @@
+{
+    "id": 126,
+    "audioText": "Je suis malade aujourd'hui, je reste à la maison.",
+    "question": "Why is the speaker staying home today?",
+    "questionType": "comprehension",
+    "options": [
+        "Because they are sick",
+        "Because they are tired",
+        "Because they are busy",
+        "Because it's raining"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says 'Je suis malade aujourd'hui' - I am sick today. That's why they are staying home.",
+    "difficulty": "A1",
+    "source": "Health and Daily Life",
+    "tags": ["health", "daily-life", "illness", "home"],
+    "timeCreated": 1719963900
+}

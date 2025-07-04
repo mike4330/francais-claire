@@ -1,0 +1,22 @@
+{
+  "id": 145,
+  "audioText": "Je mets toujours mes gants avant de jardiner pour protéger mes mains.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Je mets toujours mes gants avant de jardiner pour protéger mes mains.",
+    "Je mets toujours mes gants avant de jardiner pour protéger mes pieds.",
+    "Je mets toujours mes chaussures avant de jardiner pour protéger mes mains.",
+    "Je mets toujours mes gants après de jardiner pour protéger mes mains."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Je mets toujours mes gants avant de jardiner pour protéger mes mains.' - I always put on my gloves before gardening to protect my hands. 'Mets' is the 1st person singular present form of 'mettre'.",
+  "difficulty": "A2",
+  "source": "Gardening Activity",
+  "tags": [
+    "hobbies",
+    "gardening",
+    "protection"
+  ],
+  "timeCreated": 1720022460
+}

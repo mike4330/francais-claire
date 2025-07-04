@@ -1,0 +1,18 @@
+{
+    "id": 128,
+    "audioText": "Le bus passait tous les matins à huit heures devant ma maison.",
+    "question": "When did the bus pass by the speaker's house?",
+    "questionType": "comprehension",
+    "options": [
+        "Every morning at eight o'clock",
+        "Every evening at eight o'clock",
+        "Only on weekdays at eight o'clock", 
+        "Every afternoon at eight o'clock"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says 'Le bus passait tous les matins à huit heures' - The bus used to pass every morning at eight o'clock. 'Passait' is the imperfect tense indicating a repeated past action.",
+    "difficulty": "A2",
+    "source": "Daily Routine",
+    "tags": ["transportation", "daily-life", "routine", "time"],
+    "timeCreated": 1719964400
+}
