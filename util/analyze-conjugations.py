@@ -207,20 +207,20 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
             'coverage': coverage_pct
         }
         
-        # Skip verbs with >70% coverage
-        if coverage_pct > 70:
+        # Skip verbs with >65% coverage
+        if coverage_pct > 65:
             skipped_verbs.append((verb, coverage_pct))
     
     # Filter out well-covered verbs and select exactly 25 that need attention
-    verbs_needing_attention = [verb for verb in top_verbs if total_coverage.get(verb, {}).get('coverage', 0) <= 70]
+    verbs_needing_attention = [verb for verb in top_verbs if total_coverage.get(verb, {}).get('coverage', 0) <= 65]
     verbs_to_analyze = verbs_needing_attention[:25]  # Take first 25 that need attention
     
-    print(f"\n{Colors.GREEN}✅ Skipping {len(skipped_verbs)} well-covered verbs (>70% coverage):{Colors.END}")
+    print(f"\n{Colors.GREEN}✅ Skipping {len(skipped_verbs)} well-covered verbs (>65% coverage):{Colors.END}")
     for verb, coverage in skipped_verbs:
         rank = top_verbs.index(verb) + 1
         print(f"   🟢 #{rank:2d} {verb:12} - {coverage:5.1f}% coverage (well covered)")
     
-    print(f"\n{Colors.CYAN}📋 Analyzing top 25 verbs needing attention (≤70% coverage):{Colors.END}")
+    print(f"\n{Colors.CYAN}📋 Analyzing top 25 verbs needing attention (≤65% coverage):{Colors.END}")
     if len(verbs_needing_attention) > 25:
         print(f"{Colors.YELLOW}   (Selected first 25 from {len(verbs_needing_attention)} candidates needing attention){Colors.END}")
     
@@ -280,11 +280,11 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
     total_candidates = len(skipped_verbs) + len(verbs_needing_attention)
     
     print(f"Total verb candidates examined: {total_candidates}")
-    print(f"Well-covered verbs (>70%): {len(skipped_verbs)} skipped")
-    print(f"Verbs analyzed (≤70%): {len(verbs_to_analyze)} (top 25 needing attention)")
+    print(f"Well-covered verbs (>65%): {len(skipped_verbs)} skipped")
+    print(f"Verbs analyzed (≤65%): {len(verbs_to_analyze)} (top 25 needing attention)")
     print(f"Average coverage of analyzed verbs: {analyzed_coverage:.1f}%")
     
-    print(f"\n🎯 TOP 25 VERBS NEEDING ATTENTION (≤70% coverage):")
+    print(f"\n🎯 TOP 25 VERBS NEEDING ATTENTION (≤65% coverage):")
     for verb in verbs_to_analyze:
         data = total_coverage[verb]
         status = "🟡" if data['coverage'] > 40 else "🟠" if data['coverage'] > 20 else "🔴"
@@ -292,7 +292,7 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
         print(f"  {status} #{rank:2d} {verb:12} {data['found']:2d}/{data['total']:2d} ({data['coverage']:5.1f}%)")
     
     if skipped_verbs:
-        print(f"\n✅ WELL-COVERED VERBS SKIPPED (>70% coverage):")
+        print(f"\n✅ WELL-COVERED VERBS SKIPPED (>65% coverage):")
         for verb, coverage in skipped_verbs:
             rank = top_verbs.index(verb) + 1
             data = total_coverage[verb]
