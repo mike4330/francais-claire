@@ -1,0 +1,21 @@
+{
+  "id": 235,
+  "audioText": "Nous suivons actuellement un cours d'histoire sur la Révolution française. Le professeur explique les causes économiques et sociales de cette période importante.",
+  "question": "Nous ______ actuellement un cours d'histoire sur la Révolution française.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "suivons",
+    "suivrons",
+    "suivions",
+    "suivrions"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'suivons'. La phrase complète est 'Nous suivons actuellement un cours d'histoire sur la Révolution française.' - We are currently following/taking a history course on the French Revolution. Le présent 'suivons' indique une action en cours, renforcé par 'actuellement'.",
+  "difficulty": "B1",
+  "source": "University History Course",
+  "tags": [
+    "history",
+    "education",
+    "french-revolution"
+  ]
+}

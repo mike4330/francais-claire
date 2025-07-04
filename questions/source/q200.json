@@ -1,0 +1,18 @@
+{
+    "id": 200,
+    "audioText": "J'ai acheté un énorme gâteau pour la fête.",
+    "question": "What did the speaker buy for the party?",
+    "questionType": "comprehension",
+    "options": [
+        "An enormous cake",
+        "A small cake",
+        "An enormous gift",
+        "A small gift"
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'J'ai acheté un énorme gâteau pour la fête' - I bought an enormous cake for the party. 'Énorme' means 'enormous' or 'huge'.",
+    "difficulty": "A2",
+    "source": "Party preparation",
+    "tags": ["party", "food", "size"],
+    "timeCreated": 1720077400
+}

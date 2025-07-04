@@ -1,0 +1,23 @@
+{
+  "id": 229,
+  "audioText": "Cette réglementation européenne impose des standards si stricts qu'il fallût réviser entièrement notre processus de production pour nous conformer aux nouvelles exigences environnementales.",
+  "question": "What impact did the European regulation have on the production process?",
+  "questionType": "comprehension",
+  "options": [
+    "It required minor adjustments to meet basic environmental standards",
+    "It necessitated a complete revision of the production process to meet strict environmental requirements",
+    "It eliminated the need for environmental compliance in production",
+    "It simplified the production process by reducing regulatory requirements"
+  ],
+  "correct": 1,
+  "explanation": "The text explains 'il fallût réviser entièrement notre processus de production' - it was necessary to completely revise the production process. The subjunctive 'fallût' expresses the strong necessity imposed by the strict European standards for environmental compliance.",
+  "difficulty": "B2",
+  "source": "European Regulatory Compliance",
+  "tags": [
+    "regulation",
+    "environment",
+    "production",
+    "compliance",
+    "european-union"
+  ]
+}

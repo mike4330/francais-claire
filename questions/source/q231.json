@@ -1,0 +1,23 @@
+{
+  "id": 231,
+  "audioText": "Si j'avais plus d'argent, je donnerais ce collier à ma sœur pour son anniversaire.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Si j'avais plus d'argent, je donnerais ce collier à ma sœur pour son anniversaire.",
+    "Si j'avais plus d'argent, je donnais ce collier à ma sœur pour son anniversaire.",
+    "Si j'avais plus d'argent, je donnerais ce bracelet à ma sœur pour son anniversaire.",
+    "Si j'avais plus d'argent, je donnerais ce collier à ma mère pour son anniversaire."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Si j'avais plus d'argent, je donnerais ce collier à ma sœur pour son anniversaire.' Les distracteurs testent la distinction entre conditionnel (donnerais) et imparfait (donnais), ainsi que des variations d'objets (collier/bracelet) et de personnes (sœur/mère).",
+  "difficulty": "B1",
+  "source": "Shopping Gifts",
+  "tags": [
+    "shopping",
+    "gifts",
+    "donnerais",
+    "family",
+    "jewelry"
+  ]
+}

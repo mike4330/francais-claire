@@ -1,0 +1,19 @@
+
+{
+    "id": 208,
+    "audioText": "Il a parlé gentiment à l'enfant.",
+    "question": "How did he speak to the child?",
+    "questionType": "comprehension",
+    "options": [
+        "Kindly",
+        "Rudely",
+        "Loudly",
+        "Quickly"
+    ],
+    "correct": 0,
+    "explanation": "'Gentiment' means 'kindly' or 'nicely'. The sentence describes a kind manner of speaking.",
+    "difficulty": "A2",
+    "source": "Gemini-generated",
+    "tags": ["manners", "communication"],
+    "timeCreated": 1720134000
+}

@@ -1,0 +1,23 @@
+{
+  "id": 250,
+  "audioText": "Pendant les vacances d'été, mes cousins arrivaient toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.",
+  "question": "Pendant les vacances d'été, mes cousins ______ toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "arrivaient",
+    "arrivent",
+    "arriveront",
+    "sont arrivés"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'arrivaient' (imperfect tense). Several clues indicate this: 1) 'Pendant les vacances d'été' sets a recurring past timeframe, 2) 'toujours' (always) signals habitual action, and 3) 'le dimanche matin' describes a weekly routine. The imperfect tense expresses ongoing, repeated, or habitual past actions - perfect for childhood memories and family traditions. Why other options fail: 'arrivent' (present) doesn't match the past context, 'arriveront' (future) is wrong timeframe, and 'sont arrivés' (passé composé) indicates completed actions, which sounds unnatural with 'toujours' for repeated events. The complete sentence: 'Pendant les vacances d'été, mes cousins arrivaient toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.' - During summer vacations, my cousins always used to arrive at our house on Sunday morning with their suitcases and gifts.",
+  "difficulty": "B1",
+  "source": "Family Summer Memories",
+  "tags": [
+    "family",
+    "summer",
+    "vacation",
+    "memories",
+    "routine"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 202,
+    "audioText": "Il est demi-neuf heures, je dois partir.",
+    "question": "What time is it according to the speaker?",
+    "questionType": "comprehension",
+    "options": [
+        "Half past eight (8:30)",
+        "Half past nine (9:30)",
+        "Nine o'clock (9:00)",
+        "Eight o'clock (8:00)"
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'Il est demi-neuf heures' which means 'It's half past eight' (8:30). In this construction, 'demi' means 'half' and refers to half an hour before the next hour mentioned.",
+    "difficulty": "A2",
+    "source": "Time telling",
+    "tags": ["time", "departure", "schedule"],
+    "timeCreated": 1720077400
+}

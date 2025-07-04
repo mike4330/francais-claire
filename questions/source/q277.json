@@ -1,0 +1,26 @@
+{
+  "id": 277,
+  "audioText": "Je dois traverser la rue principale pour aller au supermarché acheter des légumes frais.",
+  "question": "Je dois traverser la ______ principale pour aller au supermarché acheter des légumes frais.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rue",
+    "route",
+    "place",
+    "avenue"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'rue' (street). The sentence means 'I need to cross the main street to go to the supermarket to buy fresh vegetables.' This introduces the high-frequency noun 'rue' and grocery shopping vocabulary.",
+  "difficulty": "B1",
+  "source": "Grocery Shopping and Navigation",
+  "tags": [
+    "shopping",
+    "grocery",
+    "street",
+    "navigation",
+    "supermarket",
+    "vegetables",
+    "daily-errands"
+  ],
+  "timeCreated": 1751219400
+}

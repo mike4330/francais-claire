@@ -1,0 +1,18 @@
+{
+    "id": 259,
+    "audioText": "C'est vrai que les réseaux sociaux changent notre façon de communiquer.",
+    "question": "C'est ______ que les réseaux sociaux changent notre façon de communiquer.",
+    "questionType": "FIB-reading",
+    "options": [
+        "vrai",
+        "faux",
+        "possible",
+        "douteux"
+    ],
+    "correct": 0,
+    "explanation": "The correct word is 'vrai' (true). The sentence means 'It's true that social networks are changing the way we communicate.' This acknowledges the real impact of social media on communication.",
+    "difficulty": "B1",
+    "source": "Social Media Impact",
+    "tags": ["technology", "social-media", "communication", "change"],
+    "timeCreated": 1720052400
+}

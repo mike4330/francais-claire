@@ -1,0 +1,18 @@
+{
+    "id": 213,
+    "audioText": "La fenêtre est restée ouverte toute la nuit.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "La fenêtre est restée ouverte toute la nuit.",
+        "La fenêtre est restée fermée toute la nuit.",
+        "La porte est restée ouverte toute la nuit.",
+        "La fenêtre est restée ouverte toute la journée."
+    ],
+    "correct": 0,
+    "explanation": "The speaker used 'ouverte' (feminine form of 'ouvert') meaning 'open'. The window stayed open all night. The other options change 'ouverte' to 'fermée' (closed), 'fenêtre' to 'porte' (door), or 'nuit' to 'journée' (day).",
+    "difficulty": "A2",
+    "source": "Home environment",
+    "tags": ["home", "windows", "overnight"],
+    "timeCreated": 1720077400
+}

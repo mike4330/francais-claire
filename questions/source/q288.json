@@ -1,0 +1,24 @@
+{
+  "id": 288,
+  "audioText": "Le médecin a fait une analyse de sang pour vérifier sa santé.",
+  "question": "What did the doctor do to check the patient's health?",
+  "questionType": "comprehension",
+  "options": [
+    "Performed a blood test to verify their health",
+    "Took their blood pressure and heart rate",
+    "Ordered an X-ray to examine their bones",
+    "Prescribed medication for their symptoms"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Le médecin a fait une analyse de sang pour vérifier sa santé' - The doctor performed a blood analysis/test to verify their health. 'Sang' means blood and 'analyse de sang' is a blood test.",
+  "difficulty": "B1",
+  "source": "Medical Care",
+  "tags": [
+    "healthcare",
+    "medical-tests",
+    "blood",
+    "doctor-visit",
+    "health-check"
+  ],
+  "timeCreated": 1751326258
+}

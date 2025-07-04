@@ -1,0 +1,22 @@
+{
+  "id": 273,
+  "audioText": "J'ai beaucoup pensé à notre conversation d'hier soir.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "J'ai beaucoup pensé à notre conversation d'hier soir.",
+    "J'ai beaucoup penser à notre conversation d'hier soir.",
+    "J'ai beaucoup pensée à notre conversation d'hier soir.",
+    "Je pense beaucoup à notre conversation d'hier soir."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'j'ai pensé' - past participle of 'penser' in passé composé (I thought about). The form 'pensé' was missing from our coverage despite being essential for expressing completed mental actions.",
+  "difficulty": "B2",
+  "source": "Reflection on past conversations",
+  "tags": [
+    "penser",
+    "reflection",
+    "conversation"
+  ],
+  "timeCreated": 1704067200
+}

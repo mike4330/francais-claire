@@ -1,0 +1,23 @@
+{
+  "id": 276,
+  "audioText": "C'est la première fois que je visite cette région magnifique.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "C'est la première fois que je visite cette région magnifique.",
+    "C'est la premier fois que je visite cette région magnifique.",
+    "C'est la primière fois que je visite cette région magnifique.",
+    "C'est la premierre fois que je visite cette région magnifique."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'première' (first) - feminine form agreeing with 'fois' (time). The adjective 'premier/première' was completely missing from our question bank despite being very frequent.",
+  "difficulty": "B1",
+  "source": "Travel experience and discovery",
+  "tags": [
+    "premier",
+    "première",
+    "travel",
+    "experience"
+  ],
+  "timeCreated": 1704067200
+}

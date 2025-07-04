@@ -1,0 +1,21 @@
+{
+  "id": 234,
+  "audioText": "Ma copine trouvait que notre relation manquait de communication depuis quelques mois. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Ma copine trouvait que notre relation manquait de communication depuis quelques mois. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.",
+    "Ma copine trouvait que notre relation manquait de communication depuis quelques semaines. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.",
+    "Ma copine trouvait que notre relation manquait de communication depuis quelques mois. Elle pensait qu'on devait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.",
+    "Ma copine trouvait que notre relation manquait de confiance depuis quelques mois. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Ma copine trouvait que notre relation manquait de communication depuis quelques mois. Elle pensait qu'on devrait se parler plus souvent de nos sentiments et de nos projets d'avenir ensemble.' Les distracteurs testent la durée (mois/semaines), le mode (devrait/devait), et le concept (communication/confiance).",
+  "difficulty": "B2",
+  "source": "Relationship Discussion",
+  "tags": [
+    "dating",
+    "relationships",
+    "communication"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 212,
+    "audioText": "Le frigo est complètement vide, il faut aller faire les courses.",
+    "question": "Le frigo est complètement ______, il faut aller faire les courses.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "vide",
+        "plein",
+        "cassé",
+        "fermé"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'vide' meaning 'empty'. The fridge is completely empty, we need to go shopping. 'Vide' indicates there is no food left in the refrigerator.",
+    "difficulty": "A1",
+    "source": "Household management",
+    "tags": ["household", "shopping", "food"],
+    "timeCreated": 1720077400
+}

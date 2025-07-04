@@ -1,0 +1,23 @@
+{
+  "id": 233,
+  "audioText": "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.",
+  "parentQuestion": 661,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.",
+    "Il faut que j'ai terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.",
+    "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain soir. Cette présentation déterminera ma promotion cette année.",
+    "Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion l'année prochaine."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Il faut que j'aie terminé ce rapport important avant la réunion avec mon chef demain matin. Cette présentation déterminera ma promotion cette année.' Les distracteurs testent la conjugaison du subjonctif (aie/ai), le moment (matin/soir) et la période (cette année/l'année prochaine). Noter l'usage du subjonctif passé 'aie terminé' après 'il faut que'.",
+  "difficulty": "B2",
+  "source": "Work Presentation - Listening",
+  "tags": [
+    "career",
+    "work",
+    "presentation",
+    "promotion"
+  ]
+}

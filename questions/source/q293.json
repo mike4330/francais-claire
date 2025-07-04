@@ -1,0 +1,25 @@
+{
+  "id": 293,
+  "audioText": "Pendant la réunion parent-professeur, l'enseignante a expliqué que leur fils avait des difficultés en mathématiques mais excellait en français et en art.",
+  "question": "What did the teacher tell the parents during the parent-teacher meeting?",
+  "questionType": "comprehension",
+  "options": [
+    "Their son had difficulties in math but excelled in French and art",
+    "Their son was the best student in all subjects this year",
+    "Their son needed to spend more time studying at home",
+    "Their son was having behavioral problems during class"
+  ],
+  "correct": 0,
+  "explanation": "During the parent-teacher meeting ('réunion parent-professeur'), the teacher explained that 'leur fils avait des difficultés en mathématiques mais excellait en français et en art' - their son had difficulties in mathematics but excelled in French and art. This shows typical school-parent communication about academic performance.",
+  "difficulty": "B1",
+  "source": "School-Parent Communication",
+  "tags": [
+    "parent-teacher-meetings",
+    "education",
+    "academic-performance",
+    "school-communication",
+    "parenting",
+    "child-development"
+  ],
+  "timeCreated": 1751331461
+}

@@ -1,0 +1,21 @@
+{
+  "id": 227,
+  "audioText": "Je pensais partir en vacances cet été, mais finalement je reste à Paris pour travailler.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Je pensais partir en vacances cet été, mais finalement je reste à Paris pour travailler.",
+    "Je pense partir en vacances cet été, mais finalement je reste à Paris pour travailler.",
+    "Je pensais partir en vacances cet été, mais finalement je rentre à Paris pour travailler.",
+    "Je pensais repartir en vacances cet été, mais finalement je reste à Paris pour travailler."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Je pensais partir en vacances cet été, mais finalement je reste à Paris pour travailler.' Les distracteurs testent la distinction entre imparfait (pensais) et présent (pense), ainsi que des variations de verbes similaires (partir/repartir, rester/rentrer).",
+  "difficulty": "B1",
+  "source": "Summer Plans",
+  "tags": [
+    "vacation",
+    "plans",
+    "work"
+  ]
+}

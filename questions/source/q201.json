@@ -1,0 +1,18 @@
+{
+    "id": 201,
+    "audioText": "Le café est trop fort pour moi.",
+    "question": "Le café est trop ______ pour moi.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fort",
+        "doux",
+        "sucré",
+        "froid"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'fort' meaning 'strong'. The coffee is too strong for me. In French, 'fort' describes the intensity or strength of coffee.",
+    "difficulty": "A2",
+    "source": "Café conversation",
+    "tags": ["food", "drinks", "preferences"],
+    "timeCreated": 1720077400
+}

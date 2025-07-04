@@ -1,0 +1,24 @@
+{
+  "id": 284,
+  "audioText": "Mon téléphone est plein de photos et applications inutiles.",
+  "question": "Mon téléphone est ______ de photos et applications inutiles.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "plein",
+    "vide",
+    "libre",
+    "neuf"
+  ],
+  "correct": 0,
+  "explanation": "The sentence means 'My phone is full of useless photos and apps.' The adjective 'plein' means full or filled with. This is common when talking about digital storage and smartphone management.",
+  "difficulty": "B1",
+  "source": "Technology - Digital Life",
+  "tags": [
+    "technology",
+    "smartphones",
+    "digital-storage",
+    "modern-life",
+    "adjectives"
+  ],
+  "timeCreated": 1751325573
+}

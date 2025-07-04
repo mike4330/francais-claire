@@ -1,0 +1,24 @@
+{
+  "id": 279,
+  "audioText": "D'importants feux de forêt se sont déclenchés dimanche 29 juin 2025 dans l'Aude. Un massif montagneux des Corbières est en proie aux flammes et un camping a été évacué par précaution à Bizanet.",
+  "question": "What happened in the Aude region on Sunday, June 29th, 2025?",
+  "questionType": "comprehension",
+  "options": [
+    "Major forest fires broke out and a camping site was evacuated as a precaution",
+    "A mountain rescue operation was conducted in the Corbières",
+    "A camping festival was canceled due to bad weather",
+    "An archaeological discovery was made in the mountainous region"
+  ],
+  "correct": 0,
+  "explanation": "The text states that 'D'importants feux de forêt se sont déclenchés' (major forest fires broke out) in Aude, affecting the mountainous Corbières region, and 'un camping a été évacué par précaution' (a camping site was evacuated as a precaution) in Bizanet.",
+  "difficulty": "B2",
+  "source": "News Report - Forest Fires",
+  "tags": [
+    "news",
+    "forest-fires",
+    "emergency",
+    "evacuation",
+    "natural-disasters"
+  ],
+  "timeCreated": 1704067200
+}

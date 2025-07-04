@@ -1,0 +1,24 @@
+{
+  "id": 255,
+  "audioText": "Mon collègue et moi avons eu un petit désaccord hier sur la méthode de présentation, mais nous avons trouvé un compromis constructif ce matin.",
+  "question": "What happened between the speaker and their colleague?",
+  "questionType": "comprehension",
+  "options": [
+    "They had a small disagreement about presentation method but found a constructive compromise",
+    "They had a major argument that couldn't be resolved",
+    "They agreed completely on all presentation methods",
+    "They decided to work separately on different projects"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Mon collègue et moi avons eu un petit désaccord hier sur la méthode de présentation, mais nous avons trouvé un compromis constructif ce matin' - My colleague and I had a small disagreement yesterday about the presentation method, but we found a constructive compromise this morning. This shows healthy conflict resolution.",
+  "difficulty": "B1",
+  "source": "Workplace Collaboration",
+  "tags": [
+    "workplace",
+    "interpersonal-conflict",
+    "conflict-resolution",
+    "collaboration",
+    "compromise",
+    "professional-relationships"
+  ]
+}

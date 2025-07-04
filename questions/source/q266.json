@@ -1,0 +1,25 @@
+{
+  "id": 266,
+  "audioText": "Vous pouvez regarder dans mon oeil gauche pour voir si quelque chose ne va pas.",
+  "question": "Where can the person look to check for problems?",
+  "questionType": "comprehension",
+  "options": [
+    "In the speaker's left eye",
+    "At the speaker's right hand",
+    "Through the speaker's glasses",
+    "Behind the speaker's ear"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Vous pouvez regarder dans mon oeil gauche pour voir si quelque chose ne va pas' - You can look in my left eye to see if something is wrong. 'Pouvez' is the second person plural form of 'pouvoir' (can), and 'oeil' means eye.",
+  "difficulty": "B1",
+  "source": "Medical Examination and Health",
+  "tags": [
+    "health",
+    "medical",
+    "body-parts",
+    "examination",
+    "eyes",
+    "pouvoir"
+  ],
+  "timeCreated": 1735500702
+}

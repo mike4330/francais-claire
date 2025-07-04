@@ -1,0 +1,22 @@
+{
+  "id": 238,
+  "audioText": "En donnant des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.",
+  "question": "En ______ des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "donnant",
+    "donnait",
+    "donne",
+    "donnerait"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'donnant'. La phrase complète est 'En donnant des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.' - By giving French lessons to refugees, she discovers the importance of intercultural education. 'Donnant' is the present participle of 'donner', used after 'en' to express simultaneity or manner of action.",
+  "difficulty": "B1",
+  "source": "Social Education",
+  "tags": [
+    "education",
+    "social-issues",
+    "refugees",
+    "intercultural-exchange"
+  ]
+}

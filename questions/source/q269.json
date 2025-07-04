@@ -1,0 +1,25 @@
+{
+  "id": 269,
+  "audioText": "J'attends une réponse de ma collègue depuis trois jours pour résoudre ce conflit professionnel ensemble.",
+  "question": "J'______ une réponse de ma collègue depuis trois jours pour résoudre ce conflit professionnel ensemble.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "attends",
+    "attend",
+    "attendez",
+    "attendons"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'attends' - the first person singular form of 'attendre' (to wait). With 'je' (I), we use 'attends'. The sentence means 'I have been waiting for a response from my colleague for three days to resolve this professional conflict together.' This shows workplace interpersonal relationship dynamics and introduces 'côté' context of working together.",
+  "difficulty": "B1",
+  "source": "Workplace Interpersonal Relationships",
+  "tags": [
+    "interpersonal-relationships",
+    "workplace",
+    "côté",
+    "conflict-resolution",
+    "communication",
+    "professional-relationships"
+  ],
+  "timeCreated": 1751217041
+}

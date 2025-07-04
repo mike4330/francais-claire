@@ -1,0 +1,24 @@
+{
+  "id": 289,
+  "audioText": "Il s'est cassé le bras en faisant du sport.",
+  "question": "Il s'est cassé le ______ en faisant du sport.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "bras",
+    "pied",
+    "cou",
+    "genou"
+  ],
+  "correct": 0,
+  "explanation": "The sentence means 'He broke his arm while playing sports.' The word 'bras' means arm. The expression 'se casser le bras' means to break one's arm.",
+  "difficulty": "B1",
+  "source": "Sports Injuries",
+  "tags": [
+    "sports",
+    "injuries",
+    "body-parts",
+    "accidents",
+    "healthcare"
+  ],
+  "timeCreated": 1751326331
+}

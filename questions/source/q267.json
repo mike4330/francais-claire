@@ -1,0 +1,24 @@
+{
+  "id": 267,
+  "audioText": "Marie fera tout ce qu'elle peut pour répondre à votre besoin d'aide avec ce projet important.",
+  "question": "Marie ______ tout ce qu'elle peut pour répondre à votre besoin d'aide avec ce projet important.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fera",
+    "fait",
+    "faisait",
+    "ferait"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'fera' - the third person singular future form of 'faire' (to do/make). The sentence means 'Marie will do everything she can to respond to your need for help with this important project.' 'Besoin' means need.",
+  "difficulty": "B2",
+  "source": "Professional Help and Project Assistance",
+  "tags": [
+    "help",
+    "projects",
+    "besoin",
+    "professional",
+    "assistance"
+  ],
+  "timeCreated": 1735500702
+}

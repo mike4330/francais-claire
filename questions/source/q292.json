@@ -1,0 +1,25 @@
+{
+  "id": 292,
+  "audioText": "Les parents modernes doivent gérer l'usage des écrans de leurs enfants. Beaucoup limitent le temps passé devant les tablettes et téléphones pour protéger leur développement social et leur sommeil.",
+  "question": "What challenge do modern parents face regarding their children?",
+  "questionType": "comprehension",
+  "options": [
+    "They must manage their children's screen time to protect development and sleep",
+    "They struggle to buy expensive tablets and phones for their children",
+    "They find it difficult to teach their children how to use technology",
+    "They worry about the cost of internet and digital services"
+  ],
+  "correct": 0,
+  "explanation": "The text describes how modern parents 'doivent gérer l'usage des écrans de leurs enfants' - must manage their children's screen use. They 'limitent le temps passé devant les tablettes et téléphones pour protéger leur développement social et leur sommeil' - limit time spent in front of tablets and phones to protect their social development and sleep.",
+  "difficulty": "B2",
+  "source": "Modern Parenting Challenges",
+  "tags": [
+    "parenting",
+    "technology",
+    "child-development",
+    "screen-time",
+    "health",
+    "modern-challenges"
+  ],
+  "timeCreated": 1751331461
+}

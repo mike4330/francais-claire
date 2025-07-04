@@ -1,0 +1,19 @@
+
+{
+    "id": 205,
+    "audioText": "Je ne comprends pas la question.",
+    "question": "Je ne ______ pas la question.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "comprends",
+        "comprend",
+        "comprendre",
+        "compris"
+    ],
+    "correct": 0,
+    "explanation": "The subject 'je' is first-person singular, so the verb 'comprendre' must be conjugated as 'comprends'.",
+    "difficulty": "A2",
+    "source": "Gemini-generated",
+    "tags": ["understanding", "communication"],
+    "timeCreated": 1720134000
+}

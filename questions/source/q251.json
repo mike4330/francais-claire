@@ -1,0 +1,24 @@
+{
+  "id": 251,
+  "audioText": "Combien de fois par semaine allez-vous à la salle de sport pour maintenir votre forme physique?",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Combien de fois par semaine allez-vous à la salle de sport pour maintenir votre forme physique?",
+    "Combien de temps par semaine allez-vous à la salle de sport pour maintenir votre forme physique?",
+    "Combien de fois par mois allez-vous à la salle de sport pour maintenir votre forme physique?",
+    "Combien de fois par semaine voulez-vous aller à la salle de sport pour maintenir votre forme physique?"
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Combien de fois par semaine allez-vous à la salle de sport pour maintenir votre forme physique?' - How many times per week do you go to the gym to maintain your physical fitness? Note the distinction between 'fois' (times) and 'temps' (time).",
+  "difficulty": "B1",
+  "source": "Fitness and Health Discussion",
+  "tags": [
+    "health",
+    "fitness",
+    "exercise",
+    "frequency",
+    "gym",
+    "fois"
+  ]
+}
