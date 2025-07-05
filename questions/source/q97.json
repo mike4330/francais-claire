@@ -1,0 +1,24 @@
+{
+  "id": 97,
+  "audioText": "Quoi ? Tu as mal à la tête ?",
+  "question": "What is the person asking about?",
+  "questionType": "comprehension",
+  "options": [
+    "If someone has a headache",
+    "If someone is tired",
+    "If someone is hungry",
+    "If someone is cold"
+  ],
+  "correct": 0,
+  "explanation": "The person says 'Quoi ? Tu as mal à la tête ?' - What? You have a headache? The word 'quoi' is an exclamation meaning 'what?' and 'mal à la tête' means headache.",
+  "difficulty": "A2",
+  "source": "Health - Daily Conversation",
+  "tags": [
+    "healthcare",
+    "symptoms",
+    "body-parts",
+    "daily-conversation",
+    "exclamations"
+  ],
+  "timeCreated": 1751325549
+}

@@ -1,0 +1,20 @@
+{
+  "id": 76,
+  "audioText": "Tu iras en ville la nuit prochaine.",
+  "question": "When will the person go to town?",
+  "questionType": "comprehension",
+  "options": [
+    "Next night",
+    "This morning",
+    "Last week",
+    "Tomorrow afternoon"
+  ],
+  "correct": 0,
+  "explanation": "The French text says 'Tu iras en ville la nuit prochaine' which means 'You will go to town next night.' The conjugate 'iras' is the second person singular future form of aller (to go).",
+  "difficulty": "A2",
+  "source": "Future tense practice with aller",
+  "tags": [
+    "travel"
+  ],
+  "timeCreated": 1735489260
+}

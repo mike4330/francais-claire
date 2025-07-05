@@ -1,0 +1,26 @@
+{
+  "id": 800,
+  "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+  "parentQuestion": 691,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+    "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions pratiques.",
+    "Vous pensiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+    "Vous disiez toujours que les réformes sociales étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'disiez' (pas 'pensiez'), 'réformes économiques' (pas 'sociales'), et 'solutions concrètes' (pas 'pratiques'). Ces nuances testent la compréhension précise du discours politique.",
+  "difficulty": "C1",
+  "source": "Political Discourse - Listening",
+  "tags": [
+    "politics",
+    "economics",
+    "criticism",
+    "rhetoric",
+    "policy-analysis",
+    "contradictions"
+  ],
+  "timeCreated": 1720023780
+}

@@ -1,0 +1,21 @@
+{
+  "id": 86,
+  "audioText": "Mon père parlait français très bien.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Mon père parlait français très bien.",
+    "Mon père parle français très bien.",
+    "Mon père parlera français très bien.",
+    "Mon père parlons français très bien."
+  ],
+  "correct": 0,
+  "explanation": "The correct sentence is 'Mon père parlait français très bien.' - My father spoke French very well. The correct form is 'parlait' - imperfect tense of 'parler' (was speaking/used to speak). This conjugation was identified as missing despite being highly frequent in storytelling and past descriptions.",
+  "difficulty": "A2",
+  "source": "Family description and past abilities",
+  "tags": [
+    "family",
+    "imperfect"
+  ],
+  "timeCreated": 1704067200
+}

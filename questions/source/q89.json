@@ -1,0 +1,22 @@
+{
+  "id": 89,
+  "audioText": "C'est vrai, il fait beau aujourd'hui.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "C'est vrai, il fait beau aujourd'hui.",
+    "C'est vraie, il fait beau aujourd'hui.",
+    "C'est vré, il fait beau aujourd'hui.",
+    "C'est vras, il fait beau aujourd'hui."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'vrai' (true/real) - a very high-frequency adjective missing from our coverage. This sentence also introduces 'beau' (beautiful), another missing adjective.",
+  "difficulty": "A2",
+  "source": "Weather conversation and agreement",
+  "tags": [
+    "beau",
+    "weather",
+    "agreement"
+  ],
+  "timeCreated": 1704067200
+}

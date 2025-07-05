@@ -1,0 +1,22 @@
+{
+  "id": 87,
+  "audioText": "Quand j'étais petit, j'aimais beaucoup les gâteaux.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Quand j'étais petit, j'aimais beaucoup les gâteaux.",
+    "Quand j'étais petit, j'aime beaucoup les gâteaux.",
+    "Quand j'étais petit, j'aimerais beaucoup les gâteaux.",
+    "Quand j'étais petit, j'aimé beaucoup les gâteaux."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'j'aimais' - first person singular imperfect of 'aimer' (I used to like). This form was missing from our conjugation coverage despite being essential for past descriptions.",
+  "difficulty": "A2",
+  "source": "Childhood memories and preferences",
+  "tags": [
+    "childhood",
+    "food",
+    "imperfect"
+  ],
+  "timeCreated": 1704067200
+}

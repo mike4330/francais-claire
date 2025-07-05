@@ -1,0 +1,24 @@
+{
+  "id": 812,
+  "audioText": "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+    "La communauté monastique attendait depuis des décennies la canonisation de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+    "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement national de leur ordre contemplatif.",
+    "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par Rome consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était avec 'béatification' (pas canonisation), 'Vatican' (pas Rome), et 'rayonnement international' (pas national). Les distracteurs testent la précision de l'écoute sur les termes techniques religieux et les nuances institutionnelles.",
+  "difficulty": "C1",
+  "source": "Vatican Religious Affairs",
+  "tags": [
+    "religion",
+    "monasticism",
+    "vatican",
+    "beatification",
+    "spiritual-heritage",
+    "contemplative-orders"
+  ]
+}

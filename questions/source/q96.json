@@ -1,0 +1,23 @@
+{
+  "id": 96,
+  "audioText": "Il mange très peu le matin.",
+  "question": "What does the text say about his morning eating habits?",
+  "questionType": "comprehension",
+  "options": [
+    "He eats very little in the morning",
+    "He eats a lot in the morning",
+    "He never eats in the morning",
+    "He eats normally in the morning"
+  ],
+  "correct": 0,
+  "explanation": "The sentence states 'Il mange très peu le matin' - He eats very little in the morning. The word 'peu' means 'little' or 'few', and 'très peu' means 'very little'.",
+  "difficulty": "A2",
+  "source": "Daily Habits",
+  "tags": [
+    "daily-life",
+    "food",
+    "habits",
+    "quantity"
+  ],
+  "timeCreated": 1751301366
+}
