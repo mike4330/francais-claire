@@ -1,19 +1,23 @@
-
 {
-    "id": 682,
-    "audioText": "C'est une bête erreur de ne pas vérifier les faits.",
-    "question": "What kind of mistake is it to not verify facts?",
-    "questionType": "comprehension",
-    "options": [
-        "A foolish mistake",
-        "A clever mistake",
-        "A small mistake",
-        "A difficult mistake"
-    ],
-    "correct": 0,
-    "explanation": "In this context, 'bête' means 'foolish' or 'silly'. The sentence implies that not verifying facts is a foolish error.",
-    "difficulty": "C1",
-    "source": "Gemini-generated",
-    "tags": ["journalism", "critical-thinking"],
-    "timeCreated": 1720134000
+  "id": 682,
+  "audioText": "Si tu avais plus de temps libre, tu laisserais ton travail pour voyager autour du monde.",
+  "question": "Si tu avais plus de temps libre, tu ______ ton travail pour voyager autour du monde.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "laisserais",
+    "laisses",
+    "laissais",
+    "as laissé"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'laisserais'. La phrase complète est 'Si tu avais plus de temps libre, tu laisserais ton travail pour voyager autour du monde.' - If you had more free time, you would leave your job to travel around the world. 'Laisserais' is the second person singular conditional tense of 'laisser', used in hypothetical situations.",
+  "difficulty": "B1",
+  "source": "Career Dreams",
+  "tags": [
+    "career",
+    "travel",
+    "work",
+    "dreams",
+    "laisser"
+  ]
 }

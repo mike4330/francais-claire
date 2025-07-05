@@ -1,26 +1,25 @@
 {
   "id": 683,
-  "audioText": "Les déléguées diplomatiques, arrivées hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
-  "question": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
+  "audioText": "Quand je visitais Tokyo l'année dernière, je trouvais les jardins japonais absolument magnifiques et très apaisants.",
+  "question": "Quand je visitais Tokyo l'année dernière, je ______ les jardins japonais absolument magnifiques et très apaisants.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "arrivées",
-    "arrivée",
-    "arrivés",
-    "arrivé"
+    "trouvais",
+    "trouve",
+    "trouverai",
+    "ai trouvé"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'arrivées' - the feminine plural past participle agreeing with 'les déléguées diplomatiques' (the female diplomatic delegates). The past participle must agree in gender and number with the subject when used with être or in absolute constructions.",
-  "difficulty": "C2",
-  "source": "High-level diplomatic summit coverage",
+  "explanation": "Le mot manquant est 'trouvais'. La phrase complète est 'Quand je visitais Tokyo l'année dernière, je trouvais les jardins japonais absolument magnifiques et très apaisants.' - When I was visiting Tokyo last year, I found the Japanese gardens absolutely magnificent and very soothing. 'Trouvais' is the first person singular imperfect tense of 'trouver', expressing a repeated or ongoing past sentiment.",
+  "difficulty": "B1",
+  "source": "Tokyo Travel Experience",
   "tags": [
-    "diplomacy",
-    "negotiations",
-    "geopolitics",
-    "international-relations",
-    "balkans",
-    "geneva",
-    "summit",
-    "politics"
+    "travel",
+    "travel-experiences",
+    "tokyo",
+    "japan",
+    "gardens",
+    "cultural-experience",
+    "trouver"
   ]
 }

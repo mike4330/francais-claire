@@ -1,23 +1,26 @@
 {
   "id": 686,
-  "audioText": "L'écrivain célèbre eut soudain une peur terrible lorsqu'il réalisa que son histoire la plus importante venait d'être perdue à jamais dans l'incendie de sa maison, et que toutes ces années de travail acharné s'envolaient en fumée.",
-  "question": "What did the famous writer suddenly experience?",
+  "audioText": "Les collectivités locales donneront plus de moyens aux écoles rurales pour réduire les inégalités éducatives dans notre région.",
+  "question": "What will local authorities do to address educational inequality?",
   "questionType": "comprehension",
   "options": [
-    "Terrible fear upon realizing his most important story was lost forever",
-    "Great joy when he discovered a new manuscript in his attic",
-    "Deep sadness after reading negative reviews of his latest book",
-    "Overwhelming relief when his publisher agreed to extend the deadline"
+    "Provide more resources to rural schools",
+    "Close small village schools",
+    "Increase transportation to urban schools",
+    "Reduce funding for city schools"
   ],
   "correct": 0,
-  "explanation": "The French text uses the passé simple 'eut' (he had) to describe a sudden realization. 'L'écrivain eut une peur terrible' means 'The writer had/experienced terrible fear.' The passé simple is used in literary French to narrate past events, making this an advanced C2 level structure.",
-  "difficulty": "C2",
-  "source": "Literary French with passé simple",
+  "explanation": "The text states 'Les collectivités locales donneront plus de moyens aux écoles rurales' (Local authorities will give more resources to rural schools) to reduce educational inequalities in the region.",
+  "difficulty": "B1",
+  "source": "Regional education policy announcement",
   "tags": [
-    "histoire",
-    "literature",
-    "tragedy",
-    "writers"
-  ],
-  "timeCreated": 1735489380
+    "education",
+    "rural",
+    "policy",
+    "equality",
+    "government",
+    "community",
+    "schools",
+    "resources"
+  ]
 }

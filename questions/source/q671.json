@@ -1,24 +1,16 @@
 {
   "id": 671,
-  "audioText": "La spécialiste en neurosciences cognitives a été appelée à témoigner devant la commission parlementaire sur les implications éthiques de l'intelligence artificielle dans le domaine médical.",
-  "question": "La spécialiste en neurosciences cognitives a été ______ à témoigner devant la commission parlementaire sur les implications éthiques de l'intelligence artificielle dans le domaine médical.",
+  "type": "fill-in-the-blank",
+  "question": "Pouvez-vous m'_______ à trouver mon chemin ?",
+  "audioText": "Pouvez-vous m'aider à trouver mon chemin ?",
+  "answer": "aider",
+  "hint": "Infinitive of 'aider'",
+  "level": "b",
+  "tags": ["travel", "request"],
   "questionType": "fill-in-the-blank",
-  "options": [
-    "appelée",
-    "appelé",
-    "appelle",
-    "appelant"
-  ],
+  "options": ["aider", "aidez", "aidé", "aidons"],
   "correct": 0,
-  "explanation": "The correct answer is 'appelée' (feminine past participle of 'appeler'). The passive construction 'a été appelée' means 'was called/summoned'. The past participle agrees with the feminine subject 'la spécialiste', hence 'appelée' (feminine singular).",
-  "difficulty": "C1",
-  "source": "Parliamentary Commission - AI Ethics",
-  "tags": [
-    "neuroscience",
-    "artificial-intelligence",
-    "medical-ethics",
-    "parliamentary-proceedings",
-    "expert-testimony"
-  ],
-  "timeCreated": 1720027580
+  "explanation": "The infinitive 'aider' is used after the semi-auxiliary verb 'pouvoir'.",
+  "difficulty": "B1",
+  "source": "Gemini CLI"
 }

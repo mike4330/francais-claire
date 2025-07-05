@@ -1,19 +1,22 @@
-
 {
-    "id": 680,
-    "audioText": "Si tu m'expliquais, je comprendrais mieux la situation.",
-    "question": "Si tu m'expliquais, je ______ mieux la situation.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "comprendrais",
-        "comprends",
-        "comprendre",
-        "compris"
-    ],
-    "correct": 0,
-    "explanation": "The sentence uses a conditional clause ('Si tu m'expliquais'), which requires the conditional tense in the main clause. 'Comprendrais' is the first-person singular conditional of 'comprendre'.",
-    "difficulty": "C1",
-    "source": "Gemini-generated",
-    "tags": ["communication", "problem-solving"],
-    "timeCreated": 1720134000
+  "id": 680,
+  "audioText": "En donnant des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.",
+  "question": "En ______ des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "donnant",
+    "donnait",
+    "donne",
+    "donnerait"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'donnant'. La phrase complète est 'En donnant des cours de français aux réfugiés, elle découvre l'importance de l'éducation interculturelle.' - By giving French lessons to refugees, she discovers the importance of intercultural education. 'Donnant' is the present participle of 'donner', used after 'en' to express simultaneity or manner of action.",
+  "difficulty": "B1",
+  "source": "Social Education",
+  "tags": [
+    "education",
+    "social-issues",
+    "refugees",
+    "intercultural-exchange"
+  ]
 }

@@ -1,25 +1,16 @@
 {
   "id": 668,
-  "audioText": "L'analyse psychanalytique révèle que son père faisait preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
-  "question": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
+  "type": "fill-in-the-blank",
+  "question": "Il _______ le train de 8h si il se dépêchait.",
+  "audioText": "Il prendrait le train de 8h si il se dépêchait.",
+  "answer": "prendrait",
+  "hint": "Conditional tense of 'prendre'",
+  "level": "b",
+  "tags": ["travel", "hypothetical"],
   "questionType": "fill-in-the-blank",
-  "options": [
-    "faisait",
-    "ferait",
-    "avait fait",
-    "fait"
-  ],
+  "options": ["prendrait", "prendra", "prenait", "prenne"],
   "correct": 0,
-  "explanation": "In this complex psychological analysis, 'faisait' (imperfect of 'faire') is correct because it describes a habitual or ongoing state in the past. The expression 'faire preuve de' means 'to show/demonstrate'. The imperfect captures the enduring nature of the father's emotional rigidity as part of his character, rather than a single action.",
-  "difficulty": "C2",
-  "source": "Academic psychoanalytic discourse on intergenerational trauma",
-  "tags": [
-    "psychoanalysis",
-    "family",
-    "academic-discourse",
-    "advanced-vocabulary",
-    "intergenerational-trauma",
-    "emotions",
-    "historical-analysis"
-  ]
+  "explanation": "'Prendrait' is the conditional tense of 'prendre', used to express a hypothetical action.",
+  "difficulty": "B1",
+  "source": "Gemini CLI"
 }

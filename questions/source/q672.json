@@ -1,23 +1,18 @@
 {
-  "id": 672,
-  "audioText": "Arrête ! Tu ne peux pas traverser maintenant, le feu est rouge.",
-  "question": "______ ! Tu ne peux pas traverser maintenant, le feu est rouge.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "Arrête",
-    "Arrêtes",
-    "Arrêter",
-    "Arrêtant"
-  ],
-  "correct": 0,
-  "explanation": "The correct answer is 'Arrête' (2nd person singular imperative of 'arrêter'). The imperative mood is used for commands and instructions. 'Arrête!' means 'Stop!' and is the informal command form used to tell someone to stop doing something immediately.",
-  "difficulty": "C1",
-  "source": "Traffic Safety - Emergency Commands",
-  "tags": [
-    "traffic-safety",
-    "emergency-commands",
-    "pedestrian-safety",
-    "urban-navigation"
-  ],
-  "timeCreated": 1720027640
+    "id": 672,
+    "audioText": "Marc est revenu de son voyage en Espagne hier soir. Il a rapporté des souvenirs pour toute la famille.",
+    "question": "When did Marc return from his trip?",
+    "questionType": "comprehension",
+    "options": [
+        "This morning",
+        "Yesterday evening",
+        "Last week",
+        "Two days ago"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Marc est revenu de son voyage en Espagne hier soir</em>' - Marc returned from his trip to Spain yesterday evening. The past participle 'revenu' indicates he has returned, and 'hier soir' means yesterday evening.",
+    "difficulty": "B1",
+    "source": "Travel and family context",
+    "tags": ["travel", "family", "daily-life"],
+    "timeCreated": 1736062800
 }

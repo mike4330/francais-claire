@@ -1,19 +1,22 @@
-
 {
-    "id": 681,
-    "audioText": "Cette information est fausse, elle a été démentie par la source officielle.",
-    "question": "Cette information est ______, elle a été démentie par la source officielle.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "fausse",
-        "faux",
-        "fausses",
-        "faux"
-    ],
-    "correct": 0,
-    "explanation": "The noun 'information' is feminine singular, so the adjective 'faux' must agree in gender and number, becoming 'fausse'.",
-    "difficulty": "C1",
-    "source": "Gemini-generated",
-    "tags": ["news", "misinformation"],
-    "timeCreated": 1720134000
+  "id": 681,
+  "audioText": "Les touristes regardaient les monuments historiques avec leurs guides pendant la visite de la vieille ville.",
+  "question": "Les touristes ______ les monuments historiques avec leurs guides pendant la visite de la vieille ville.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "regardaient",
+    "regardent",
+    "regarderont",
+    "ont regardé"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'regardaient'. La phrase complète est 'Les touristes regardaient les monuments historiques avec leurs guides pendant la visite de la vieille ville.' - The tourists were looking at the historical monuments with their guides during the visit of the old town. 'Regardaient' is the third person plural imperfect tense of 'regarder', expressing an ongoing past action.",
+  "difficulty": "B1",
+  "source": "Tourism",
+  "tags": [
+    "tourism",
+    "travel",
+    "history",
+    "monuments"
+  ]
 }

@@ -1,28 +1,25 @@
 {
   "id": 685,
-  "audioText": "Les sociologues contemporains croient que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
-  "question": "Les sociologues contemporains ______ que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
+  "audioText": "Les chercheurs de cinq universités européennes viennent collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
+  "question": "Les chercheurs de cinq universités européennes ______ collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "croient",
-    "croit",
-    "croyez",
-    "croyons"
+    "viennent",
+    "venez",
+    "viens",
+    "venons"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'croient' - the third person plural form of 'croire' (to believe). This form agrees with 'les sociologues contemporains' (contemporary sociologists). The sentence discusses sociological analysis of socioeconomic inequality and structural changes in French society.",
-  "difficulty": "C2",
-  "source": "Advanced sociological analysis of contemporary French social dynamics",
+  "explanation": "With 'les chercheurs' (the researchers), we use 'viennent' - the third person plural form of 'venir'. The expression 'venir collaborer' means 'to come to collaborate' or 'are coming to collaborate'. This tests the conjugation of 'venir' in an academic collaboration context.",
+  "difficulty": "B1",
+  "source": "International academic research collaboration announcement",
   "tags": [
-    "social-issues",
-    "sociology",
-    "inequality",
-    "economics",
-    "digitalization",
-    "employment",
-    "society",
-    "academia",
-    "analysis",
-    "france"
+    "academic-collaboration",
+    "university",
+    "research",
+    "international",
+    "technology",
+    "interdisciplinary-research",
+    "europe"
   ]
 }

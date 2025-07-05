@@ -1,26 +1,24 @@
 {
   "id": 684,
-  "audioText": "Maîtres boulangers, sauriez-vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
-  "question": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
+  "audioText": "Le moment magique arriva quand la violoniste joua sa première mélodie sur son Stradivarius dans la salle de concert.",
+  "question": "Le moment magique ______ quand la violoniste joua sa première mélodie sur son Stradivarius dans la salle de concert.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "sauriez",
-    "savez",
-    "saviez",
-    "saurez"
+    "arriva",
+    "arrive",
+    "arrivait",
+    "est arrivé"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question. This form expresses a courteous inquiry about capability or knowledge. The question asks master bakers if they could analyze the organoleptic subtleties of naturally fermented sourdough.",
-  "difficulty": "C2",
-  "source": "Advanced artisanal bakery master class discourse",
+  "explanation": "Le mot manquant est 'arriva'. La phrase complète est 'Le moment magique arriva quand la violoniste joua sa première mélodie sur son Stradivarius dans la salle de concert.' - The magical moment arrived when the violinist played her first melody on her Stradivarius in the concert hall. 'Arriva' is the passé simple (literary past tense) of 'arriver', used for completed actions in formal or literary contexts.",
+  "difficulty": "B1",
+  "source": "Classical Music Concert",
   "tags": [
-    "bread",
-    "culinary-arts",
-    "artisanal",
-    "french-heritage",
-    "gastronomy",
-    "professional",
-    "traditional-crafts",
-    "cultural-heritage"
+    "music",
+    "musical-instruments",
+    "violin",
+    "stradivarius",
+    "concert",
+    "classical-music"
   ]
 }

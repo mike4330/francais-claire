@@ -1,19 +1,24 @@
-
 {
-    "id": 679,
-    "audioText": "Il était essentiel que vous connaissiez les risques avant de commencer.",
-    "question": "Il était essentiel que vous ______ les risques avant de commencer.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "connaissiez",
-        "connaissez",
-        "connaître",
-        "connu"
-    ],
-    "correct": 0,
-    "explanation": "The phrase 'il était essentiel que' requires the subjunctive mood. 'Connaissiez' is the second-person plural subjunctive form of 'connaître'.",
-    "difficulty": "C1",
-    "source": "Gemini-generated",
-    "tags": ["business", "risk-assessment", "formal-discourse"],
-    "timeCreated": 1720134000
+  "id": 679,
+  "audioText": "Quand tu auras visité tous les pays scandinaves, tu comprendras mieux les différences géopolitiques entre la Suède, la Norvège et le Danemark. Ces nations nordiques partagent des héritages culturels similaires mais maintiennent des politiques économiques distinctes au sein de l'Union européenne.",
+  "question": "What will the addressee understand after visiting all Scandinavian countries?",
+  "questionType": "comprehension",
+  "options": [
+    "The geopolitical differences between Sweden, Norway, and Denmark, despite their shared cultural heritage",
+    "The similarities in economic policies among all Nordic nations within the European Union",
+    "The reasons why all Scandinavian countries use the same currency and trade agreements",
+    "The historical conflicts that continue to divide these three nations politically today"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Quand tu auras visité tous les pays scandinaves, tu comprendras mieux les différences géopolitiques entre la Suède, la Norvège et le Danemark' - When you will have visited all Scandinavian countries, you will better understand the geopolitical differences between Sweden, Norway, and Denmark. Despite sharing similar cultural heritage, they maintain distinct economic policies within the European Union. Note the future perfect 'auras' indicating completion before understanding occurs.",
+  "difficulty": "B2",
+  "source": "Scandinavian Geopolitics",
+  "tags": [
+    "european-geography",
+    "scandinavia",
+    "geopolitics",
+    "cultural-heritage",
+    "economic-policy",
+    "future-perfect"
+  ]
 }

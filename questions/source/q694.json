@@ -1,22 +1,18 @@
 {
-  "id": 694,
-  "audioText": "Dîtes-moi ce que vous pensez de cette proposition importante.",
-  "question": "What is the speaker asking?",
-  "questionType": "comprehension",
-  "options": [
-    "Tell me what you think of this important proposal.",
-    "Show me what you think of this important proposal.",
-    "Write me what you think of this important proposal.",
-    "Explain me what you think of this important proposal."
-  ],
-  "correct": 0,
-  "explanation": "The French sentence uses 'dîtes' - the formal/archaic imperative form of 'dire' (to say/tell). 'Dîtes-moi' means 'tell me'. This form with the circumflex accent is more formal than the modern 'dites'.",
-  "difficulty": "C2",
-  "source": "Formal literary or administrative context",
-  "tags": [
-    "formal-discussion",
-    "opinion",
-    "proposal"
-  ],
-  "timeCreated": 1720108800
+    "id": 694,
+    "audioText": "Si j'étais plus jeune, je croirais encore aux contes de fées.",
+    "question": "What would the speaker believe if they were younger?",
+    "questionType": "comprehension",
+    "options": [
+        "They would still believe in fairy tales",
+        "They would believe in scientific theories",
+        "They would believe in political promises",
+        "They would believe in supernatural powers"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Si j\\'étais plus jeune, je croirais encore aux contes de fées</em>' - If I were younger, I would still believe in fairy tales. 'Croirais' is the conditional form of 'croire' (to believe), expressing a hypothetical situation.",
+    "difficulty": "B1",
+    "source": "Childhood beliefs",
+    "tags": ["childhood", "beliefs", "fairy-tales", "nostalgia", "hypothetical"],
+    "timeCreated": 1736065500
 }

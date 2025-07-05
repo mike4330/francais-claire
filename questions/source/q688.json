@@ -1,25 +1,28 @@
 {
   "id": 688,
-  "audioText": "Il faut ouvrir chaque porte métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.",
-  "question": "Il faut ouvrir chaque ______ métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.",
+  "audioText": "Quand j'étais enfant, je voulais toujours aider ma grand-mère à préparer les confitures maison avec les fruits de son jardin potager, apprenant ainsi les techniques traditionnelles de conservation culinaire transmises de génération en génération.",
+  "question": "Quand j'étais enfant, je ______ toujours aider ma grand-mère à préparer les confitures maison avec les fruits de son jardin potager, apprenant ainsi les techniques traditionnelles de conservation culinaire transmises de génération en génération.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "porte",
-    "fenêtre",
-    "voie",
-    "route"
+    "voulais",
+    "veux",
+    "voulez",
+    "voulons"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'porte' (door). The sentence means 'One must open each metaphorical door that leads toward a deep understanding of contemporary sociopolitical mechanisms.' This introduces the high-frequency noun 'porte' in an intellectual/academic context with metaphorical usage.",
-  "difficulty": "C1",
-  "source": "Academic Discourse and Intellectual Access",
+  "explanation": "The correct answer is 'voulais' - the first person singular imperfect form of 'vouloir' (to want). The imperfect is used because this describes a repeated desire or habit in the past ('always wanted'). The sentence recalls childhood memories of wanting to help grandmother make homemade jams.",
+  "difficulty": "B2",
+  "source": "Childhood memories of traditional French home cooking",
   "tags": [
-    "intellectual-discourse",
-    "academic",
-    "metaphor",
-    "understanding",
-    "sociopolitics",
-    "access-to-knowledge"
-  ],
-  "timeCreated": 1751219400
+    "cooking",
+    "family",
+    "childhood",
+    "traditions",
+    "grandmother",
+    "memories",
+    "homemade",
+    "fruits",
+    "garden",
+    "heritage"
+  ]
 }

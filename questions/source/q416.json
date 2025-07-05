@@ -10,7 +10,7 @@
     "Cette grande ville de montagne est vraiment jolie avec ses chalets traditionnels."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte contenait l'erreur d'accord 'joli' (masculin) au lieu de 'jolie' (féminin) pour s'accorder avec 'ville' (féminin). Cette question teste l'écoute précise des erreurs grammaticales d'accord des adjectifs.",
+  "explanation": "The text states '<em>Cette petite ville de montagne est vraiment joli avec ses chalets traditionnels</em>' - This small mountain town is really pretty with its traditional chalets. The exact phrase contained the agreement error 'joli' (masculine) instead of 'jolie' (feminine) to agree with 'ville' (feminine).",
   "difficulty": "B1",
   "source": "Travel - Mountain Towns - Grammar Detection",
   "tags": [

@@ -1,22 +1,23 @@
 {
   "id": 692,
-  "audioText": "Il faut que tu puisses comprendre cette situation complexe avant de décider.",
-  "question": "What does the speaker think is necessary?",
-  "questionType": "comprehension",
+  "audioText": "Pendant les vacances d'été, mes cousins arrivaient toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.",
+  "question": "Pendant les vacances d'été, mes cousins ______ toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "That you be able to understand this complex situation before deciding.",
-    "That you should understand this simple situation before deciding.",
-    "That you could understand this situation after deciding.",
-    "That you want to understand this situation before deciding."
+    "arrivaient",
+    "arrivent",
+    "arriveront",
+    "sont arrivés"
   ],
   "correct": 0,
-  "explanation": "The French sentence uses 'puisses' - the subjunctive form of 'pouvoir' (to be able to/can). 'Il faut que tu puisses' means 'it is necessary that you be able to'. The subjunctive is required after 'il faut que'.",
-  "difficulty": "C1",
-  "source": "Formal discussion requiring subjunctive mood",
+  "explanation": "Le mot manquant est 'arrivaient' (imperfect tense). Several clues indicate this: 1) 'Pendant les vacances d'été' sets a recurring past timeframe, 2) 'toujours' (always) signals habitual action, and 3) 'le dimanche matin' describes a weekly routine. The imperfect tense expresses ongoing, repeated, or habitual past actions - perfect for childhood memories and family traditions. Why other options fail: 'arrivent' (present) doesn't match the past context, 'arriveront' (future) is wrong timeframe, and 'sont arrivés' (passé composé) indicates completed actions, which sounds unnatural with 'toujours' for repeated events. The complete sentence: 'Pendant les vacances d'été, mes cousins arrivaient toujours chez nous le dimanche matin avec leurs valises et leurs cadeaux.' - During summer vacations, my cousins always used to arrive at our house on Sunday morning with their suitcases and gifts.",
+  "difficulty": "B1",
+  "source": "Family Summer Memories",
   "tags": [
-    "formal-discussion",
-    "decision-making",
-    "necessity"
-  ],
-  "timeCreated": 1720108800
+    "family",
+    "summer",
+    "vacation",
+    "memories",
+    "routine"
+  ]
 }

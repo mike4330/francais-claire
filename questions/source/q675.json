@@ -1,18 +1,23 @@
 {
     "id": 675,
-    "audioText": "Vous verrez que cette nouvelle stratégie marketing révolutionnaire transformera complètement notre approche commerciale et notre positionnement concurrentiel.",
-    "question": "Vous ______ que cette nouvelle stratégie marketing révolutionnaire transformera complètement notre approche commerciale et notre positionnement concurrentiel.",
-    "questionType": "fill-in-the-blank",
+    "audioText": "Veuillez présenter votre passeport et votre billet d'avion à l'agent de sécurité.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
     "options": [
-        "verrez",
-        "voyez",
-        "verriez",
-        "aviez vu"
+        "Veuillez présenter votre passeport et votre billet d'avion à l'agent de sécurité.",
+        "Veuillez présenter votre permis de conduire et votre billet d'avion à l'agent de sécurité.",
+        "Veuillez présenter votre passeport et votre carte d'embarquement à l'agent de sécurité.",
+        "Veuillez présenter votre passeport et votre billet de train à l'agent de sécurité."
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'verrez' - the future tense of 'voir' (to see) in the second person plural. The future tense is used to predict what the audience will observe when the new strategy is implemented. 'Vous verrez que' means 'you will see that'.",
-    "difficulty": "C1",
-    "source": "Business strategy",
-    "tags": ["business", "strategy", "marketing"],
-    "timeCreated": 1720077400
+    "explanation": "The speaker said '<em>Veuillez présenter votre passeport et votre billet d'avion à l'agent de sécurité</em>' - Please present your passport and plane ticket to the security agent. Key distinctions: 'passeport' (passport) not 'permis de conduire' (driver's license), and 'billet d'avion' (plane ticket) not 'carte d'embarquement' (boarding pass) or 'billet de train' (train ticket).",
+    "difficulty": "B1",
+    "source": "Airport Security",
+    "tags": [
+        "travel",
+        "airport",
+        "formal-situation"
+    ],
+    "parentQuestion": 365,
+    "timeCreated": 1736063500
 }
