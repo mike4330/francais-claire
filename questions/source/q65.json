@@ -1,0 +1,23 @@
+{
+  "id": 65,
+  "audioText": "Mon chien parle aux autres animaux du parc.",
+  "question": "Mon chien ______ aux autres animaux du parc.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "parle",
+    "parles",
+    "parlons",
+    "parlez"
+  ],
+  "correct": 0,
+  "explanation": "With 'mon chien' (my dog), we use 'parle' - the third person singular form of 'parler' (to talk/speak). The phrase means 'My dog talks to the other animals in the park.' This tests the conjugation of 'parler' with animal vocabulary.",
+  "difficulty": "A2",
+  "source": "Basic animal behavior description with anthropomorphism",
+  "tags": [
+    "animals",
+    "daily-life",
+    "pets",
+    "park",
+    "basic-vocabulary"
+  ]
+}

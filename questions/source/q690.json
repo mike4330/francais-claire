@@ -1,0 +1,25 @@
+{
+  "id": 690,
+  "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+  "question": "What is the significance of this revolutionary idea according to the text?",
+  "questionType": "comprehension",
+  "options": [
+    "It could radically transform our approach to AI by challenging established paradigms and opening new epistemological horizons",
+    "It provides a simple solution to current technical problems in artificial intelligence development",
+    "It represents a conservative approach to maintaining existing AI research methodologies",
+    "It focuses primarily on commercial applications rather than theoretical advances"
+  ],
+  "correct": 0,
+  "explanation": "The text describes an 'idée révolutionnaire' (revolutionary idea) that could 'transformer radicalement notre approche de l'intelligence artificielle' (radically transform our approach to artificial intelligence) by 'remettant en question les paradigmes établis' (challenging established paradigms) and 'ouvrant de nouveaux horizons épistémologiques' (opening new epistemological horizons).",
+  "difficulty": "C2",
+  "source": "Academic Research",
+  "tags": [
+    "technology",
+    "artificial-intelligence",
+    "philosophy",
+    "research",
+    "innovation",
+    "epistemology"
+  ],
+  "timeCreated": 1751300995
+}

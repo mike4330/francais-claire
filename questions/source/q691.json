@@ -1,0 +1,25 @@
+{
+  "id": 691,
+  "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+  "question": "What criticism is being made in this statement?",
+  "questionType": "comprehension",
+  "options": [
+    "The person always said economic reforms were necessary but never proposed concrete solutions",
+    "The person never supported economic reforms and blocked all proposed changes",
+    "The person only focused on theoretical solutions without considering practical implications",
+    "The person changed their opinion about economic reforms too frequently"
+  ],
+  "correct": 0,
+  "explanation": "The statement criticizes someone who 'disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes' (always said that economic reforms were necessary, but never proposed concrete solutions). This highlights a gap between rhetoric and action.",
+  "difficulty": "C1",
+  "source": "Political Discourse",
+  "tags": [
+    "politics",
+    "economics",
+    "criticism",
+    "rhetoric",
+    "policy-analysis",
+    "contradictions"
+  ],
+  "timeCreated": 1751325934
+}

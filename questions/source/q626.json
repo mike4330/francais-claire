@@ -1,0 +1,18 @@
+{
+    "id": 626,
+    "audioText": "Les cours de cuisine que j'ai suivis l'an dernier m'ont beaucoup aidé.",
+    "question": "What helped the speaker a lot?",
+    "questionType": "comprehension",
+    "options": [
+        "Cooking classes they took last year.",
+        "Recipe books they bought recently.",
+        "Advice from professional chefs.",
+        "Cooking shows they watched regularly."
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Les cours de cuisine que j'ai suivis l'an dernier m'ont beaucoup aidé' - The cooking classes that I took last year helped me a lot. 'Suivis' is the past participle of 'suivre' (to follow/take), agreeing with the masculine plural noun 'cours'.",
+    "difficulty": "B1",
+    "source": "Cooking skills and culinary education",
+    "tags": ["cooking", "skills", "classes", "hobbies"],
+    "timeCreated": 1735951380
+}

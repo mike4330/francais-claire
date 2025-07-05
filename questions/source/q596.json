@@ -1,23 +1,18 @@
 {
-  "id": 596,
-  "audioText": "Elle a été appelée pour un entretien demain matin.",
-  "question": "What happened to her regarding tomorrow morning?",
-  "questionType": "comprehension",
-  "options": [
-    "She was called for an interview tomorrow morning",
-    "She has to call someone tomorrow morning",
-    "She will call her boss tomorrow morning",
-    "She missed a call from work yesterday"
-  ],
-  "correct": 0,
-  "explanation": "The sentence says 'Elle a été appelée pour un entretien demain matin' - She was called for an interview tomorrow morning. 'Appelée' is the feminine past participle of 'appeler' (to call), used here in the passive voice.",
-  "difficulty": "B1",
-  "source": "Job Interview",
-  "tags": [
-    "job-interview",
-    "work",
-    "appointments",
-    "phone-calls"
-  ],
-  "timeCreated": 1720051380
+    "id": 596,
+    "audioText": "Un vrai expert saurait immédiatement identifier la cause du problème technique.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Un vrai expert saurait immédiatement identifier la cause du problème technique.",
+        "Un bon expert saurait immédiatement identifier la cause du problème technique.",
+        "Un vrai expert pourrait immédiatement identifier la cause du problème technique.",
+        "Un vrai expert saurait rapidement identifier la cause du problème technique."
+    ],
+    "correct": 0,
+    "explanation": "The exact phrase was 'Un vrai expert saurait immédiatement identifier la cause du problème technique.' - A true expert would immediately identify the cause of the technical problem. Note 'vrai' vs 'bon', 'saurait' vs 'pourrait', and 'immédiatement' vs 'rapidement'.",
+    "difficulty": "B1",
+    "source": "Technical expertise and problem-solving",
+    "tags": ["expertise", "problem-solving", "technology", "skills"],
+    "timeCreated": 1735949520
 }

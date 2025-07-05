@@ -1,23 +1,18 @@
 {
-  "id": 598,
-  "audioText": "Dès que j'eus terminé mon travail, je partis rejoindre mes amis au café.",
-  "question": "What did the speaker do after finishing work?",
-  "questionType": "comprehension",
-  "options": [
-    "Left to join friends at the café",
-    "Called friends to meet at home",
-    "Went directly home to rest",
-    "Started working on another project"
-  ],
-  "correct": 0,
-  "explanation": "The sentence says 'Dès que j'eus terminé mon travail, je partis rejoindre mes amis au café' - As soon as I had finished my work, I left to join my friends at the café. 'Eus' is the passé simple of 'avoir', used in formal/literary contexts.",
-  "difficulty": "C1",
-  "source": "After Work Social",
-  "tags": [
-    "work",
-    "social",
-    "friends",
-    "café"
-  ],
-  "timeCreated": 1720051500
+    "id": 598,
+    "audioText": "Nos collègues viendront certainement nous aider à terminer ce projet important avant la date limite.",
+    "question": "What will the colleagues do?",
+    "questionType": "comprehension",
+    "options": [
+        "Help finish the important project before the deadline.",
+        "Review the project specifications carefully.",
+        "Attend the project meeting tomorrow.",
+        "Provide feedback on the preliminary results."
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Nos collègues viendront certainement nous aider à terminer ce projet important avant la date limite' - Our colleagues will certainly come to help us finish this important project before the deadline. 'Viendront' is the future form of 'venir' (to come).",
+    "difficulty": "B1",
+    "source": "Team collaboration and project deadlines",
+    "tags": ["teamwork", "collaboration", "project-management", "deadlines"],
+    "timeCreated": 1735949640
 }

@@ -1,0 +1,18 @@
+{
+    "id": 624,
+    "audioText": "Si j'avais plus d'argent, je verrais un coiffeur professionnel chaque mois.",
+    "question": "Si j'avais plus d'argent, je ______ un coiffeur professionnel chaque mois.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "verrais",
+        "visiterais",
+        "consulterais",
+        "rencontrerais"
+    ],
+    "correct": 0,
+    "explanation": "The missing word is 'verrais'. The complete sentence is 'Si j'avais plus d'argent, je verrais un coiffeur professionnel chaque mois' - If I had more money, I would see a professional hairdresser every month. 'Verrais' is the conditional form of 'voir' (to see), used in hypothetical situations.",
+    "difficulty": "A2",
+    "source": "Personal grooming and beauty care",
+    "tags": ["beauty", "hairdresser", "personal-care", "luxury"],
+    "timeCreated": 1735951260
+}

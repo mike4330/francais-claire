@@ -1,0 +1,23 @@
+{
+  "id": 72,
+  "audioText": "Mon père travaille dans un bureau depuis vingt ans et il aime beaucoup son métier.",
+  "question": "What does the speaker say about their father?",
+  "questionType": "comprehension",
+  "options": [
+    "He has worked in an office for twenty years and loves his job",
+    "He is looking for a new job after twenty years",
+    "He works at home and enjoys the flexibility",
+    "He recently retired from his office job"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Mon père travaille dans un bureau depuis vingt ans et il aime beaucoup son métier' - My father works in an office for twenty years and he loves his job very much. 'Père' means father, and 'depuis' indicates duration.",
+  "difficulty": "A2",
+  "source": "Family Work Discussion",
+  "tags": [
+    "family",
+    "work",
+    "office",
+    "career",
+    "father"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 646,
+    "audioText": "Il faut qu'elle prenne des photos de cette exposition d'art contemporain avant qu'elle ne se termine.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Il faut qu'elle prenne des photos de cette exposition d'art contemporain avant qu'elle ne se termine.",
+        "Il faut qu'elle prenne des photos de cette exposition d'art moderne avant qu'elle ne se termine.",
+        "Il faut qu'elle prend des photos de cette exposition d'art contemporain avant qu'elle ne se termine.",
+        "Il faut qu'elle prenne des vidéos de cette exposition d'art contemporain avant qu'elle ne se termine."
+    ],
+    "correct": 0,
+    "explanation": "The exact phrase was 'Il faut qu'elle prenne des photos de cette exposition d'art contemporain avant qu'elle ne se termine.' - She needs to take photos of this contemporary art exhibition before it ends. Note 'prenne' (subjunctive) vs 'prend' (indicative), 'contemporain' vs 'moderne', and 'photos' vs 'vidéos'. 'Prenne' is the present subjunctive form of 'prendre' (to take), third person singular.",
+    "difficulty": "B1",
+    "source": "Contemporary art exhibitions",
+    "tags": ["art", "exhibitions", "contemporary-art", "photography"],
+    "timeCreated": 1735952580
+}

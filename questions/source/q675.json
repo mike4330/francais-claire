@@ -1,0 +1,18 @@
+{
+    "id": 675,
+    "audioText": "Vous verrez que cette nouvelle stratégie marketing révolutionnaire transformera complètement notre approche commerciale et notre positionnement concurrentiel.",
+    "question": "Vous ______ que cette nouvelle stratégie marketing révolutionnaire transformera complètement notre approche commerciale et notre positionnement concurrentiel.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "verrez",
+        "voyez",
+        "verriez",
+        "aviez vu"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'verrez' - the future tense of 'voir' (to see) in the second person plural. The future tense is used to predict what the audience will observe when the new strategy is implemented. 'Vous verrez que' means 'you will see that'.",
+    "difficulty": "C1",
+    "source": "Business strategy",
+    "tags": ["business", "strategy", "marketing"],
+    "timeCreated": 1720077400
+}

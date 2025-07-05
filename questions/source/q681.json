@@ -1,0 +1,19 @@
+
+{
+    "id": 681,
+    "audioText": "Cette information est fausse, elle a été démentie par la source officielle.",
+    "question": "Cette information est ______, elle a été démentie par la source officielle.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fausse",
+        "faux",
+        "fausses",
+        "faux"
+    ],
+    "correct": 0,
+    "explanation": "The noun 'information' is feminine singular, so the adjective 'faux' must agree in gender and number, becoming 'fausse'.",
+    "difficulty": "C1",
+    "source": "Gemini-generated",
+    "tags": ["news", "misinformation"],
+    "timeCreated": 1720134000
+}

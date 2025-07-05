@@ -1,23 +1,18 @@
 {
-  "id": 594,
-  "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
-  "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
-  "questionType": "comprehension",
-  "options": [
-    "She confirmed she will definitely run for election",
-    "She has considered the possibility that she might not be able to run",
-    "She announced her withdrawal from the electoral race",
-    "She criticized the election process in her region"
-  ],
-  "correct": 1,
-  "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
-  "difficulty": "C1",
-  "source": "French Political Interview",
-  "tags": [
-    "politics",
-    "elections",
-    "deputy",
-    "candidacy",
-    "interview"
-  ]
+    "id": 594,
+    "audioText": "En venant au bureau ce matin, j'ai remarqué que les travaux de construction avaient considérablement progressé.",
+    "question": "When did the speaker notice the construction progress?",
+    "questionType": "comprehension",
+    "options": [
+        "While coming to the office this morning.",
+        "During lunch break yesterday.",
+        "On the way home last evening.",
+        "While leaving the office yesterday."
+    ],
+    "correct": 0,
+    "explanation": "The text states 'En venant au bureau ce matin, j'ai remarqué' - While coming to the office this morning, I noticed. 'Venant' is the present participle of 'venir' (to come), used here with 'en' to indicate simultaneous action.",
+    "difficulty": "B2",
+    "source": "Daily commute and urban development",
+    "tags": ["commute", "construction", "urban-development", "workplace"],
+    "timeCreated": 1735949400
 }

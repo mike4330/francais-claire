@@ -1,0 +1,26 @@
+{
+  "id": 684,
+  "audioText": "Maîtres boulangers, sauriez-vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
+  "question": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "sauriez",
+    "savez",
+    "saviez",
+    "saurez"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question. This form expresses a courteous inquiry about capability or knowledge. The question asks master bakers if they could analyze the organoleptic subtleties of naturally fermented sourdough.",
+  "difficulty": "C2",
+  "source": "Advanced artisanal bakery master class discourse",
+  "tags": [
+    "bread",
+    "culinary-arts",
+    "artisanal",
+    "french-heritage",
+    "gastronomy",
+    "professional",
+    "traditional-crafts",
+    "cultural-heritage"
+  ]
+}

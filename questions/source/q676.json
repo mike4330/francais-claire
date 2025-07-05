@@ -1,0 +1,18 @@
+{
+    "id": 676,
+    "audioText": "Quand j'étais étudiant, je venais souvent à cette bibliothèque pour étudier les mathématiques et la physique quantique.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Quand j'étais étudiant, je venais souvent à cette bibliothèque pour étudier les mathématiques et la physique quantique.",
+        "Quand j'étais étudiant, je viens souvent à cette bibliothèque pour étudier les mathématiques et la physique quantique.",
+        "Quand j'étais étudiant, je viendrai souvent à cette bibliothèque pour étudier les mathématiques et la physique quantique.",
+        "Quand j'étais étudiant, je venais parfois à cette bibliothèque pour étudier les mathématiques et la physique quantique."
+    ],
+    "correct": 0,
+    "explanation": "The speaker used 'venais' - the imperfect form of 'venir' (to come) in the first person singular. The imperfect expresses repeated past actions matching 'quand j'étais étudiant' (when I was a student). The other options incorrectly use 'viens' (present), 'viendrai' (future), or change 'souvent' to 'parfois' (sometimes).",
+    "difficulty": "C1",
+    "source": "Academic memories",
+    "tags": ["education", "library", "studying"],
+    "timeCreated": 1720077400
+}

@@ -1,0 +1,18 @@
+{
+    "id": 618,
+    "audioText": "Si j'étais à ta place, je verrais un médecin pour cette douleur persistante.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Si j'étais à ta place, je verrais un médecin pour cette douleur persistante.",
+        "Si j'étais à ta place, je verrais un médecin pour cette douleur importante.",
+        "Si j'étais à sa place, je verrais un médecin pour cette douleur persistante.",
+        "Si j'étais à ta place, je consultais un médecin pour cette douleur persistante."
+    ],
+    "correct": 0,
+    "explanation": "The exact phrase was 'Si j'étais à ta place, je verrais un médecin pour cette douleur persistante.' - If I were in your place, I would see a doctor for this persistent pain. Note 'ta place' vs 'sa place', 'persistante' vs 'importante', and 'verrais' vs 'consultais'. 'Verrais' is the conditional form of 'voir' (to see).",
+    "difficulty": "A2",
+    "source": "Healthcare advice and medical consultation",
+    "tags": ["healthcare", "medical-advice", "pain", "consultation"],
+    "timeCreated": 1735950840
+}

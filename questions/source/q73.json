@@ -1,0 +1,24 @@
+{
+  "id": 73,
+  "audioText": "Ma chambre est petite mais très confortable avec un lit, un bureau et une grande fenêtre.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Ma chambre est petite mais très confortable avec un lit, un bureau et une grande fenêtre.",
+    "Ma chambre est petite mais très confortable avec un lit, un bureau et une petite fenêtre.",
+    "Ma maison est petite mais très confortable avec un lit, un bureau et une grande fenêtre.",
+    "Ma chambre est grande mais très confortable avec un lit, un bureau et une grande fenêtre."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Ma chambre est petite mais très confortable avec un lit, un bureau et une grande fenêtre.' - My room is small but very comfortable with a bed, a desk, and a large window. 'Chambre' refers to a bedroom or room.",
+  "difficulty": "A2",
+  "source": "Home Description",
+  "tags": [
+    "home",
+    "bedroom",
+    "furniture",
+    "description",
+    "chambre",
+    "living-spaces"
+  ]
+}

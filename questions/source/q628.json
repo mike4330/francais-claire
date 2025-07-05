@@ -1,0 +1,18 @@
+{
+    "id": 628,
+    "audioText": "Il est important que tous les clients sachent comment utiliser nos nouveaux appareils de fitness.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Il est important que tous les clients sachent comment utiliser nos nouveaux appareils de fitness.",
+        "Il est important que tous les clients savent comment utiliser nos nouveaux appareils de fitness.",
+        "Il est important que tous les clients sachent comment utiliser nos nouveaux équipements de fitness.",
+        "Il est important que tous les clients sachent comment utiliser nos nouveaux appareils de sport."
+    ],
+    "correct": 0,
+    "explanation": "The exact phrase was 'Il est important que tous les clients sachent comment utiliser nos nouveaux appareils de fitness.' - It's important that all clients know how to use our new fitness equipment. Note the subjunctive 'sachent' (not 'savent'), 'appareils' (not 'équipements'), and 'fitness' (not 'sport'). 'Sachent' is the present subjunctive form of 'savoir' (to know), third person plural.",
+    "difficulty": "B2",
+    "source": "Fitness and gym equipment",
+    "tags": ["fitness", "gym", "equipment", "customer-service"],
+    "timeCreated": 1735951500
+}

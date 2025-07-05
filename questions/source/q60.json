@@ -1,0 +1,21 @@
+{
+  "id": 60,
+  "audioText": "Vous arrivez toujours à l'heure à vos rendez-vous professionnels.",
+  "question": "Vous ______ toujours à l'heure à vos rendez-vous professionnels.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "arrivez",
+    "arriviez",
+    "arriverez",
+    "êtes arrivés"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'arrivez'. La phrase complète est 'Vous arrivez toujours à l'heure à vos rendez-vous professionnels.' - You always arrive on time for your professional appointments. 'Arrivez' is the second person plural present tense of 'arriver'.",
+  "difficulty": "A2",
+  "source": "Professional Context",
+  "tags": [
+    "professional",
+    "punctuality",
+    "work"
+  ]
+}

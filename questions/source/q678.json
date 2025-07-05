@@ -1,0 +1,19 @@
+
+{
+    "id": 678,
+    "audioText": "Il faut que tu veuilles bien faire les choses.",
+    "question": "Il faut que tu ______ bien faire les choses.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "veuilles",
+        "veux",
+        "vouloir",
+        "voudras"
+    ],
+    "correct": 0,
+    "explanation": "The phrase 'il faut que' requires the subjunctive mood. 'Veuilles' is the second-person singular subjunctive form of the verb 'vouloir'.",
+    "difficulty": "C1",
+    "source": "Gemini-generated",
+    "tags": ["workplace", "instructions"],
+    "timeCreated": 1720134000
+}
