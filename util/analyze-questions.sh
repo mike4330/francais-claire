@@ -7,22 +7,33 @@ echo "🇫🇷 French Question Bank Analyzer"
 echo "=================================="
 
 # Determine the correct path to question files based on current directory
-if ls questions/question*.json 1> /dev/null 2>&1; then
-    # Running from root directory
+if ls questions/q-compiled*.json 1> /dev/null 2>&1; then
+    # Running from root directory - use compiled files
     QUESTION_PATH="questions/"
-elif ls ../questions/question*.json 1> /dev/null 2>&1; then
-    # Running from util directory
+    QUESTION_PATTERN="q-compiled*.json"
+elif ls questions/question*.json 1> /dev/null 2>&1; then
+    # Running from root directory - fallback to original files
+    QUESTION_PATH="questions/"
+    QUESTION_PATTERN="question*.json"
+elif ls ../questions/q-compiled*.json 1> /dev/null 2>&1; then
+    # Running from util directory - use compiled files
     QUESTION_PATH="../questions/"
+    QUESTION_PATTERN="q-compiled*.json"
+elif ls ../questions/question*.json 1> /dev/null 2>&1; then
+    # Running from util directory - fallback to original files
+    QUESTION_PATH="../questions/"
+    QUESTION_PATTERN="question*.json"
 else
-    echo "❌ Error: No question*.json files found"
+    echo "❌ Error: No question files found"
     exit 1
 fi
 
-# French stop words to filter out
-FRENCH_STOPWORDS="le la les un une des de du da dans sur pour avec sans par que qui quoi dont où comment quand pourquoi et ou mais donc car ni si même tout tous toute toutes ce cette ces cet son sa ses mon ma mes ton ta tes notre nos votre vos leur leurs il elle ils elles je tu nous vous on ne pas plus moins très bien mal beaucoup peu trop assez aussi encore déjà jamais toujours souvent parfois quelquefois avant après pendant depuis jusqu maintenant aujourd hui hier demain ici là bas haut sous dessus dessous devant derrière entre parmi vers chez contre malgré selon grâce"
+echo "📁 Using question files: ${QUESTION_PATH}${QUESTION_PATTERN}"
 
-# Common articles and short words (1-2 chars) to exclude
-SHORT_WORDS="a à au aux en of or is it an as at be by do go he if in me my no of on so to up we d l n s t y"
+# Configuration: frequency threshold for filtering well-represented nouns
+FREQUENCY_THRESHOLD=0.046
+
+# No need for complex stopword filtering - we'll use noun list directly
 
 echo ""
 echo "📊 WORD FREQUENCY ANALYSIS"
@@ -35,22 +46,22 @@ echo "Extracting French vocabulary from audioText fields..."
 TEMP_WORDS=$(mktemp)
 
 # Extract audioText content from all question files, clean and split into words
-jq -r '.questions[].audioText' ${QUESTION_PATH}question*.json | \
+jq -r '.questions[]?.audioText? // empty' ${QUESTION_PATH}${QUESTION_PATTERN} 2>/dev/null | \
     # Convert to lowercase
     tr '[:upper:]' '[:lower:]' | \
-    # Remove punctuation and special characters
+    # Remove punctuation and special characters (but keep apostrophes for now)
     sed 's/[«»""(),.!?;:—–-]/ /g' | \
+    # Simple elided article handling: strip out l' and d' but keep the vowel
+    sed "s/[dl]'//g" | \
     # Split into individual words
     tr ' ' '\n' | \
     # Remove empty lines
     grep -v '^$' | \
-    # Remove words with 1-2 characters
-    grep -v '^..$' | \
-    grep -v '^.$' | \
-    # Remove apostrophes and clean up
+    # Remove any remaining apostrophes
     sed "s/'//g" | \
-    # Filter out French stop words and common short words
-    grep -vwE "($(echo $FRENCH_STOPWORDS $SHORT_WORDS | tr ' ' '|'))" > $TEMP_WORDS
+    # Remove words with 1-2 characters (keep this minimal filtering)
+    grep -v '^..$' | \
+    grep -v '^.$' > $TEMP_WORDS
 
 # Question Coverage Analysis for Top French Nouns
 echo ""
@@ -58,23 +69,23 @@ echo ""
     echo "=================================================="
 
 # Determine database path
-if [ -f "database/nouns.csv" ]; then
+if [ -f "res/nouns.csv" ]; then
     DATABASE_PATH=""
-elif [ -f "../database/nouns.csv" ]; then
+elif [ -f "../res/nouns.csv" ]; then
     DATABASE_PATH="../"
 else
     DATABASE_PATH=""
 fi
 
 # Check if Lexique noun frequency file exists
-if [ ! -f "${DATABASE_PATH}database/nouns.csv" ]; then
-    echo "❌ Error: Lexique noun frequency file not found at ${DATABASE_PATH}database/nouns.csv"
+if [ ! -f "${DATABASE_PATH}res/nouns.csv" ]; then
+    echo "❌ Error: Lexique noun frequency file not found at ${DATABASE_PATH}res/nouns.csv"
     echo "Falling back to simple word frequency..."
     sort $TEMP_WORDS | uniq -c | sort -nr | head -50 | \
         awk '{printf "%2d. %-20s (%d occurrences)\n", NR, $2, $1}'
 else
     echo "Using Lexique frequency data - showing 50 nouns that need attention..."
-    echo "(Filtering out well-represented nouns with >0.07% frequency)"
+    echo "(Filtering out well-represented nouns with >${FREQUENCY_THRESHOLD}% frequency)"
     echo ""
     
     # Create temporary files
@@ -82,7 +93,7 @@ else
     TEMP_COVERAGE=$(mktemp)
     
     # Extract all nouns from Lexique data (skip header, get lemme column)
-    tail -n +2 ${DATABASE_PATH}database/nouns.csv | cut -d',' -f1 | \
+    tail -n +2 ${DATABASE_PATH}res/nouns.csv | cut -d',' -f1 | \
         # Remove quotes if present
         sed 's/"//g' | \
         # Convert to lowercase for matching
@@ -104,10 +115,10 @@ else
          if grep -qx "$noun" $TEMP_WORDS; then
              # Count occurrences and calculate frequency percentage
              COUNT=$(grep -cx "$noun" $TEMP_WORDS)
-             FREQUENCY=$(echo "scale=2; $COUNT * 100 / $TOTAL_WORD_INSTANCES" | bc)
+             FREQUENCY=$(echo "scale=3; $COUNT * 100 / $TOTAL_WORD_INSTANCES" | bc)
              
-             # Skip if frequency > 0.07%
-             if (( $(echo "$FREQUENCY > 0.07" | bc -l) )); then
+             # Skip if frequency > threshold
+             if (( $(echo "$FREQUENCY > $FREQUENCY_THRESHOLD" | bc -l) )); then
                  continue
              fi
              
@@ -139,9 +150,9 @@ else
         if ! grep -qx "$noun" $TEMP_WORDS; then
             MISSING_COUNT=$((MISSING_COUNT + 1))
                          # Get frequency info from CSV (take only first match)
-             FREQ=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "^$noun," | head -1 | cut -d',' -f7 | tr -d '\n\r')
+             FREQ=$(tail -n +2 ${DATABASE_PATH}res/nouns.csv | grep "^$noun," | head -1 | cut -d',' -f7 | tr -d '\n\r')
              if [ -z "$FREQ" ]; then
-                 FREQ=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "\"$noun\"," | head -1 | cut -d',' -f7 | tr -d '\n\r')
+                 FREQ=$(tail -n +2 ${DATABASE_PATH}res/nouns.csv | grep "\"$noun\"," | head -1 | cut -d',' -f7 | tr -d '\n\r')
              fi
              # Ensure FREQ is a valid number before printf
              if [ -n "$FREQ" ] && [ "$FREQ" != "" ]; then
@@ -165,9 +176,9 @@ else
     # while IFS= read -r noun; do
     #     if grep -qx "$noun" $TEMP_WORDS; then
     #         # Get gender from CSV
-    #         GENDER=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "^$noun," | cut -d',' -f3)
+    #         GENDER=$(tail -n +2 ${DATABASE_PATH}res/nouns.csv | grep "^$noun," | cut -d',' -f3)
     #         if [ -z "$GENDER" ]; then
-    #             GENDER=$(tail -n +2 ${DATABASE_PATH}database/nouns.csv | grep "\"$noun\"," | cut -d',' -f3)
+    #             GENDER=$(tail -n +2 ${DATABASE_PATH}res/nouns.csv | grep "\"$noun\"," | cut -d',' -f3)
     #         fi
             
     #         case "$GENDER" in
@@ -210,7 +221,7 @@ echo "Analyzing content tags..."
 TEMP_TAGS=$(mktemp)
 
 # Extract all tags from all question files
-jq -r '.questions[].tags[]' ${QUESTION_PATH}question*.json > $TEMP_TAGS
+jq -r '.questions[]?.tags[]? // empty' ${QUESTION_PATH}${QUESTION_PATTERN} 2>/dev/null > $TEMP_TAGS
 
 # Count tag frequency
 echo ""
@@ -247,7 +258,7 @@ echo ""
 echo "📈 Tag Statistics:"
 echo "  Total tag instances: $TOTAL_TAGS"
 echo "  Unique tags: $UNIQUE_TAGS"
-echo "  Average tags per question: $(echo "scale=1; $TOTAL_TAGS / $(jq '.questions | length' ${QUESTION_PATH}question*.json | paste -sd+ | bc)" | bc)"
+echo "  Average tags per question: $(echo "scale=1; $TOTAL_TAGS / $(jq '.questions | length' ${QUESTION_PATH}${QUESTION_PATTERN} 2>/dev/null | paste -sd+ | bc)" | bc)"
 
 # Clean up temp file
 rm $TEMP_TAGS
@@ -259,7 +270,7 @@ echo "=========================="
 # Count questions by difficulty level
 echo "Questions by CEFR Level:"
 echo "------------------------"
-jq -r '.questions[].difficulty' ${QUESTION_PATH}question*.json | sort | uniq -c | sort -k2 | \
+jq -r '.questions[]?.difficulty? // empty' ${QUESTION_PATH}${QUESTION_PATTERN} 2>/dev/null | grep -v '^$' | sort | uniq -c | sort -k2 | \
     awk '{
         level = $2
         count = $1
@@ -280,7 +291,7 @@ echo "============================="
 # Count questions by type
 echo "Questions by Type:"
 echo "------------------"
-jq -r '.questions[].questionType' ${QUESTION_PATH}question*.json | sort | uniq -c | sort -nr | \
+jq -r '.questions[]?.questionType? // empty' ${QUESTION_PATH}${QUESTION_PATTERN} 2>/dev/null | grep -v '^$' | sort | uniq -c | sort -nr | \
     awk '{
         type = $2
         count = $1

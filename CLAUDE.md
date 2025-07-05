@@ -17,26 +17,56 @@
 
 **Think: "What real-world situation is this question about?" NOT "What grammar does it test?"**
 
+## 🚨 CRITICAL: Topic Coverage Guidelines
+
+**AVOID OVER-COVERED TOPICS:**
+- **Environment/Ecology**: We have extensive coverage of environmental topics (climate change, sustainability, conservation, etc.). Minimize creating new questions about environmental themes unless specifically requested.
+
+**PRIORITIZE UNDER-COVERED TOPICS:**
+- Daily life situations, hobbies, sports, arts, entertainment, personal relationships, shopping, transportation, healthcare appointments, etc.
+
 ## 🚨 CRITICAL: Question File Organization
 
 **DO NOT add new questions to `questions.json` - this is the original/legacy file and should not be modified.**
 
+### 🏗️ Source/Compile System Architecture
+
+**NEW QUESTIONS MUST BE ADDED TO INDIVIDUAL SOURCE FILES:**
+
+- **Individual Source Files**: `questions/source/q{ID}.json` (e.g., `q362.json`)
+- **Compiled Files**: `questions/q-compiled-{level}.json` (auto-generated)
+- **Legacy Files**: `questions/questions-{level}.json` (minimal placeholders)
+
+### Workflow:
+1. **Create**: Add new question to `questions/source/q{ID}.json`
+2. **Compile**: Run `node compile-questions.js` to update compiled files
+3. **App Usage**: Application reads from compiled files
+
 ### File Structure for New Questions:
-- **`questions-a.json`** → A1 & A2 levels (ID range: 34-199)
-- **`questions-b.json`** → B1 & B2 levels (ID range: 200-399)  
-- **`questions-c.json`** → C1 & C2 levels (ID range: 400-499)
+- **Source Files**: `questions/source/q{ID}.json` → Individual question files
+- **Compiled A**: `questions/q-compiled-a.json` → A1 & A2 levels (ID range: 1-199)
+- **Compiled B**: `questions/q-compiled-b.json` → B1 & B2 levels (ID range: 200-399)  
+- **Compiled C**: `questions/q-compiled-c.json` → C1 & C2 levels (ID range: 400-510)
 
 ## 📋 Adding New Questions
 
-### Step 1: Determine CEFR Level & Target File
-- **A1 Beginner** (max 9 words) → `questions-a.json`
-- **A2 Elementary** (max 14 words) → `questions-a.json`
-- **B1 Intermediate** (max 25 words) → `questions-b.json`
-- **B2 Upper-Intermediate** (max 38 words) → `questions-b.json`
-- **C1 Advanced** (max 60 words) → `questions-c.json`
-- **C2 Proficiency** (max 90 words) → `questions-c.json`
+**🔄 CORRECT SEQUENCE: Generate → Classify → Pick ID → Write**
 
-### Step 2: ID Assignment
+### Step 1: Generate Content & Question Type
+- Create French `audioText` with target vocabulary/grammar
+- Design appropriate question and 4 plausible options
+- Choose question type: comprehension, listening, fill-in-the-blank, FIB-reading
+
+### Step 2: Classify Difficulty Level
+- Count words in `audioText` to determine CEFR level:
+  - **A1 Beginner** (max 9 words) → `questions-a.json`
+  - **A2 Elementary** (max 14 words) → `questions-a.json`
+  - **B1 Intermediate** (max 25 words) → `questions-b.json`
+  - **B2 Upper-Intermediate** (max 38 words) → `questions-b.json`
+  - **C1 Advanced** (max 60 words) → `questions-c.json`
+  - **C2 Proficiency** (max 90 words) → `questions-c.json`
+
+### Step 3: Pick Correct ID
 **🛠️ Use the `getid` tool to automatically determine the next available ID:**
 
 ```bash
@@ -50,12 +80,36 @@
 ./getid c
 ```
 
-**Manual fallback** - Check existing IDs in target file and assign next available ID:
-- **questions-a.json**: ID range 34-199
-- **questions-b.json**: ID range 200-399
-- **questions-c.json**: ID range 400-499
+**ID Validation Workflow:**
+Since the `getid` tool checks monolithic files (which may be outdated compared to source files), validate the ID before creating:
 
-### Step 3: Question Structure Template
+```bash
+# Step 1: Get next ID quickly (token-efficient)
+NEXT_ID=$(./util/getid b)
+
+# Step 2: Quick validation to prevent conflicts
+[ ! -f "questions/source/q${NEXT_ID}.json" ] && echo "✅ ID $NEXT_ID available" || echo "❌ ID $NEXT_ID exists, try $((NEXT_ID + 1))"
+```
+
+If conflict exists, increment ID and check again. This hybrid approach balances speed with safety.
+
+**ID Ranges by Difficulty:**
+- **questions-a.json**: ID range 1-199 (A1/A2)
+- **questions-b.json**: ID range 200-399 (B1/B2)
+- **questions-c.json**: ID range 400-499 (C1/C2)
+
+### Step 4: Write Individual Question File
+
+**🔧 Use the skeleton template for easier file creation:**
+
+```bash
+# Copy template and replace ID
+cp questions/source/_skel.json questions/source/q{ID}.json
+```
+
+**Template file**: `questions/source/_skel.json` contains all required fields with placeholder values. This avoids Write tool restrictions and ensures consistent structure.
+
+**Create file**: `questions/source/q{ID}.json`
 
 ```json
 {
@@ -76,6 +130,11 @@
     "tags": ["tag1", "tag2", "tag3"],
     "timeCreated": [Unix timestamp]
 }
+```
+
+**After creating source file, compile:**
+```bash
+node compile-questions.js
 ```
 
 ### Step 4: Required Fields Validation
@@ -162,16 +221,80 @@ Before adding a question:
 ## 🛠️ Available Tools
 
 ### ID Assignment Tool
-Get the next available ID for any CEFR level:
+Get the next available ID for any CEFR level (reads from `config.json`):
 ```bash
-./getid [a|b|c]  # a=A1/A2, b=B1/B2, c=C1/C2
+./util/getid [a|b|c]  # a=A1/A2, b=B1/B2, c=C1/C2
+```
+**Features**: Shows level description, ID range, and next available ID with enhanced output.
+
+### Question Renumbering Tool
+Rename source files and update IDs safely:
+```bash
+cd questions/source
+./rq <old_id> <new_id>
+
+# Example:
+./rq 499 412  # Rename q499.json to q412.json and update ID field
 ```
 
-### Question Analysis
-After adding questions, run analysis:
+**What it does:**
+1. Renames `qOLD.json` to `qNEW.json`
+2. Updates the `"id"` field inside the JSON file
+3. Creates automatic backup files
+4. Validates new ID doesn't already exist
+5. Checks for parent question references that might need updating
+
+**Safety Features**:
+- Creates timestamped backups before changes
+- Validates inputs and file existence
+- Warns about parent question dependencies
+- Provides clear next steps (recompile, check references)
+
+### JSON Move Tool (jmv)
+Extract individual questions from monolithic files to source files:
 ```bash
-bash analyze-questions.sh
+./jmv <question_id> <source_file>
+
+# Examples:
+./jmv 132 questions-a.json         # Move question 132 to questions/source/q132.json
+./jmv 250 questions-b.json         # Move question 250 to questions/source/q250.json
+node jmv.js 400 questions-c.json   # Alternative: use node directly
 ```
+
+**What it does:**
+1. Finds the question with specified ID in the source file
+2. Creates `questions/source/q{id}.json` with that question
+3. Removes the question from the original file
+4. Preserves JSON formatting and structure
+
+**Use cases:**
+- Migrating questions from monolithic files to individual source files
+- Moving questions you want to edit individually
+- Converting legacy structure to new individual file workflow
+
+### Question Compilation
+Compile individual source files into app-ready files:
+```bash
+node compile-questions.js
+```
+
+**Features**: 
+- Reads level ranges from `config.json`
+- Combines source files into compiled files by difficulty
+- Shows detailed statistics and conflict detection
+
+### Question Analysis
+After adding questions, run comprehensive analysis:
+```bash
+bash util/analyze-questions.sh
+```
+
+**Enhanced Features**:
+- Uses compiled files as primary source
+- Analyzes vocabulary coverage against Lexique frequency data
+- Tag frequency analysis with source file support
+- CEFR difficulty distribution
+- Question type breakdown
 
 ## 🚫 Common Mistakes to Avoid
 
@@ -209,3 +332,195 @@ bash analyze-questions.sh
 - Maintain consistent JSON formatting
 - Use appropriate French diacritical marks
 - Ensure proper Unicode encoding for French characters
+
+## 🏗️ Architecture Changes (July 2025)
+
+### Pure Intelligent Selection System
+The app has been completely redesigned to eliminate traditional question sequences in favor of adaptive, performance-driven question delivery.
+
+#### **Key Architectural Changes:**
+
+**🚫 Removed Components:**
+- `questions[]` array (filtered by difficulty)
+- `currentQuestion` index tracking
+- `filterQuestionsByDifficulty()` function
+- `nextQuestionSequential()` function
+- Array shuffling logic
+- Index-based question navigation
+
+**✅ New Components:**
+- `currentQuestionData` - holds current question object directly
+- `loadQuestion(questionId)` - loads questions by ID from `questionBank`
+- Pure intelligent selection for every question request
+- `userAnswers.push()` - dynamic tracking by question ID
+- Enhanced performance tracking with `lastAnswered` timestamps
+
+#### **How It Works:**
+1. **Every Question Request**: Goes through `findBestQuestionForLevel()`
+2. **Direct Loading**: `loadQuestion(questionId)` finds questions in `questionBank` by ID
+3. **No Sequences**: Questions selected purely on learning objectives and performance
+4. **Dynamic Progress**: Score based on `userAnswers.length`, not array position
+
+#### **Benefits:**
+- 🎯 **True intelligent selection** for every question
+- 🚫 **No array/index mismatches** 
+- 🧹 **Cleaner code** - removed 100+ lines of array management
+- ⚡ **Better performance** - no shuffling or filtering overhead
+- 🔄 **Consistent behavior** - same selection logic everywhere
+
+#### **Performance Tracking Enhancements:**
+- **`lastAnswered` Field**: Every performance record includes timestamp
+- **Time-Aware Debugging**: Console logs show "Question 403 last answered 2 days 3 hours ago"
+- **Anti-Repetition Logic**: Uses timestamps to avoid recently answered questions
+- **Future-Ready**: Enables spaced repetition and forgetting curve algorithms
+
+### Configuration System
+Level ranges are now centralized in `config.json`:
+
+```json
+{
+    "levelRanges": {
+        "a": { "levels": ["A1", "A2"], "minId": 1, "maxId": 199 },
+        "b": { "levels": ["B1", "B2"], "minId": 200, "maxId": 399 },
+        "c": { "levels": ["C1", "C2"], "minId": 400, "maxId": 510 }
+    }
+}
+```
+
+**Tools Updated to Use Config:**
+- `getid` - reads ranges from config.json
+- `compile-questions.js` - dynamic range loading
+- All ID validation uses centralized ranges
+
+## 🧠 Intelligent Question Selection System
+
+### Overview
+The system uses intelligent question selection to provide personalized learning experiences based on user performance data stored in Redis via WebSocket connections.
+
+### Two UI Paths for Level Selection
+
+#### Path 1: Main Page Level Buttons (`french_listening_app.html`)
+- **Trigger**: User clicks difficulty level buttons (A1, A2, B1, B2, C1, C2)
+- **Function**: `selectDifficulty(level)` → `loadUserPerformanceDataThenStart(level)`
+- **Process**: 
+  1. Loads user performance data via WebSocket
+  2. Waits for data to load asynchronously
+  3. Calls `findBestQuestionForLevel(level)` with loaded performance data
+  4. Starts quiz with intelligently selected question
+
+#### Path 2: Student Dashboard Level Cards (`student.html`)
+- **Trigger**: User clicks pre-calculated level progress cards
+- **Function**: `launchQuizWithLevel(level, questionId)` 
+- **Process**:
+  1. Performance data already loaded when cards are rendered
+  2. Best question pre-calculated during card generation
+  3. Redirects to main app with `?start=${questionId}` parameter
+
+### Intelligent Selection Algorithm (`findBestQuestionForLevel`)
+
+**Priority 1: Unattempted Questions**
+- Selects questions the user has never attempted
+- Chooses lowest ID for consistent progression
+- Reason: New learning opportunities
+
+**Priority 2: Questions Needing Practice**
+- Selects questions with success rate < 70%
+- Chooses lowest ID needing practice
+- Reason: Reinforce weak areas
+
+**Priority 3: Review Well-Practiced Questions**
+- When all questions are mastered (≥70% success rate)
+- Selects lowest ID for systematic review
+- Reason: Maintain proficiency
+
+### WebSocket Performance Data Structure
+```javascript
+{
+  type: "user_question_performance_result",
+  uuid: "user-uuid",
+  questionPerformances: [
+    {
+      questionId: 201,
+      successRate: 83,
+      totalAttempts: 6,
+      correctAttempts: 5,
+      avgResponseTime: 30478
+    }
+  ],
+  totalQuestionsAttempted: 146
+}
+```
+
+### Redis Data Expiration Settings
+
+Performance data is automatically expired using Redis TTL (Time To Live) settings in `redis-cache-server.js`:
+
+#### Expiration Parameters (redis-cache-server.js)
+
+| Data Type | Redis Key Pattern | Duration | Line | Purpose |
+|-----------|------------------|----------|------|---------|
+| **Individual Responses** | `response:uuid:questionId:timestamp` | 90 days (7,776,000 sec) | 463 | Detailed response tracking |
+| **User Question Stats** | `user_question:uuid:questionId` | 1 year (31,536,000 sec) | 518 | Per-user question performance |
+| **Global Question Stats** | `question_stats:questionId` | 1 year (31,536,000 sec) | 488 | Overall question analytics |
+| **Audio Cache** | `audio:cacheKey` | 30 days (2,592,000 sec) | N/A | TTS/Polly audio files |
+
+#### Implementation Details
+```javascript
+// Individual responses (90 days)
+await redisClient.setEx(responseKey, 7776000, JSON.stringify(responseData));
+
+// User question performance (1 year) 
+await redisClient.expire(userQuestionKey, 31536000);
+
+// Global question statistics (1 year)
+await redisClient.expire(questionStatsKey, 31536000);
+```
+
+**Automatic Cleanup**: Redis handles expiration automatically - no cron jobs needed. Each time a user answers a question, the expiration timer resets, keeping active users' data fresh while inactive data expires naturally.
+
+### Key Implementation Details
+
+#### WebSocket Response Handler
+```javascript
+// Correct field name is 'questionPerformances', not 'performances'
+userPerformanceData = data.questionPerformances || [];
+```
+
+#### Async Flow Management
+- Uses `window.pendingLevelStart` to store level selection until data loads
+- Implements retry mechanism for WebSocket connection delays
+- Falls back to random selection if performance data unavailable
+
+#### Debug Output
+Enable debug logging to monitor intelligent selection:
+```javascript
+console.log(`[DEBUG-2] 📊 Loaded ${userPerformanceData.length} user performance records`);
+console.log(`[DEBUG-2] 📈 User has performance data for: ${performanceCount} questions in ${level} level`);
+```
+
+### Recent Fixes Applied
+
+1. **Fixed WebSocket Data Loading**: Main page level buttons now properly load performance data before question selection
+2. **Corrected Data Field Name**: Changed from `data.performances` to `data.questionPerformances` 
+3. **Added Retry Logic**: Handles WebSocket connection timing issues
+4. **Enhanced Debug Logging**: Better visibility into selection process
+5. **🆕 MAJOR: Intelligent Question Progression**: Every question now uses intelligent selection, not just the first one
+
+### Intelligent Progression System
+
+**Previous Behavior**: Intelligent selection only for first question → sequential/random progression
+**New Behavior**: Intelligent selection for every question with repetition avoidance
+
+#### Algorithm Enhancements
+- **Exclusion Logic**: Prevents immediate repetition by excluding recently answered questions
+- **Session Memory**: Tracks last 3 questions to avoid cycling
+- **Fallback Safety**: Falls back to sequential if intelligent selection fails
+- **Performance Driven**: Every question choice considers user's learning needs
+
+#### Function Changes
+- `findBestQuestionForLevel(level, excludeQuestions = [])` - Added exclusion parameter
+- `nextQuestion()` - Now uses intelligent selection instead of `currentQuestion++`
+- `nextQuestionSequential()` - Fallback function for edge cases
+- `window.recentlyAnsweredQuestions` - Session-based repetition avoidance
+
+Both UI paths now use identical intelligent selection logic with proper performance data loading and smart progression.

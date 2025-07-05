@@ -72,11 +72,11 @@ bash util/list-tags.sh
 
 ## 🔗 Integration
 
-These utilities integrate with the main question files:
-- `questions.json` (legacy)
-- `questions-a.json` (A1/A2 levels)
-- `questions-b.json` (B1/B2 levels) 
-- `questions-c.json` (C1/C2 levels)
+These utilities integrate with the compiled question files:
+- `questions/q-compiled-a.json` (A1/A2 levels)
+- `questions/q-compiled-b.json` (B1/B2 levels) 
+- `questions/q-compiled-c.json` (C1/C2 levels)
+- Individual source files: `questions/source/q*.json`
 
 ## 📋 Dependencies
 

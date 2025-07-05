@@ -1,0 +1,5 @@
+#!/bin/bash
+# JSON Move (jmv) - Wrapper script for easier usage
+# Usage: ./jmv 132 questions-a.json
+
+node jmv.js "$@"

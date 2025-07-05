@@ -1,0 +1,24 @@
+{
+  "id": 77,
+  "audioText": "Nous trouvons ce jour très important pour notre famille.",
+  "question": "Nous ______ ce jour très important pour notre famille.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "trouvons",
+    "trouve",
+    "trouvez",
+    "trouvent"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'trouvons' - the first person plural form of 'trouver' (to find). With 'nous' (we), we use 'trouvons'. The sentence means 'We find this day very important for our family.' 'Jour' means day.",
+  "difficulty": "A1",
+  "source": "Family Important Days",
+  "tags": [
+    "family",
+    "time",
+    "importance",
+    "present-tense",
+    "trouver"
+  ],
+  "timeCreated": 1735500648
+}

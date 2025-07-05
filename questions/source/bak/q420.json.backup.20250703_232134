@@ -1,0 +1,24 @@
+{
+  "id": 420,
+  "audioText": "L'exécution provisoire des peines d'inéligibilité a été prononcée 50 fois plus souvent l'an dernier qu'il y a six ans, touchant de nombreux élus de façon indéterminée. Selon un expert, cela représente une déviance profonde de l'État de droit.",
+  "question": "What concern is raised about the recent increase in provisional ineligibility sentences?",
+  "questionType": "comprehension",
+  "options": [
+    "It represents a serious deviation from the rule of law, affecting many elected officials in an indefinite manner.",
+    "It has made the legal process more efficient and transparent.",
+    "It has reduced the number of appeals by convicted officials.",
+    "It is welcomed by all political parties as a necessary reform."
+  ],
+  "correct": 0,
+  "explanation": "The text highlights that the sharp rise in provisional ineligibility sentences is seen as a profound deviation from the rule of law, with many elected officials affected in an indefinite way. This is presented as a negative development, not a positive reform.",
+  "difficulty": "C1",
+  "source": "Legal News - Points de Vue",
+  "tags": [
+    "law",
+    "ineligibility",
+    "rule-of-law",
+    "politics",
+    "justice",
+    "trend"
+  ]
+}

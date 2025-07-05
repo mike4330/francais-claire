@@ -1,0 +1,26 @@
+{
+  "id": 212,
+  "audioText": "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
+  "parentQuestion": 484,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
+    "Avec ce port dans les terres, il y a une âme musicale. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
+    "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade culturelle à quinze kilomètres de la mer.",
+    "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à cinq kilomètres de la mer."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.' - With this port inland, there is a maritime soul. Caen continues to celebrate its Millennium with a naval parade fifteen kilometers from the sea.",
+  "difficulty": "B2",
+  "source": "Caen Millennium News - Listening",
+  "tags": [
+    "culture",
+    "celebration",
+    "maritime",
+    "soul",
+    "vocabulary",
+    "millennium",
+    "poetry"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 405,
+  "audioText": "« Je vais m'éloigner de ce milieu nocif » : un jeune homme, membre de l'extrême droite radicale, sort de prison. L'homme de 22 ans et huit autres suspects sont soupçonnés d'avoir violemment agressé un trentenaire qui assistait à une projection contre le fascisme, dans un arrondissement parisien.",
+  "question": "What is the irony in this situation?",
+  "questionType": "comprehension",
+  "options": [
+    "A young far-right member attacks someone at an anti-fascism event, then claims to want to leave that toxic environment",
+    "The young man was imprisoned for a crime he didn't commit according to his own testimony",
+    "Nine suspects were arrested but only one was sentenced to prison time",
+    "The victim was attending a far-right meeting but was attacked by fellow extremists"
+  ],
+  "correct": 0,
+  "explanation": "The irony lies in the fact that someone from 'l'extrême droite radicale' (radical far-right) violently attacked someone at 'une projection contre le fascisme' (an anti-fascism screening), yet now claims to want to distance himself from this 'milieu nocif' (toxic environment). The contradiction between his violent ideological actions and his stated desire to reform creates the ironic situation.",
+  "difficulty": "C1",
+  "source": "French Legal/Political News",
+  "tags": [
+    "politics",
+    "extremism",
+    "legal",
+    "irony",
+    "radicalization",
+    "violence",
+    "prison"
+  ]
+}

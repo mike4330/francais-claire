@@ -1330,7 +1330,6 @@
         "family",
         "time",
         "importance",
-        "present-tense",
         "trouver"
       ],
       "timeCreated": 1735500648
@@ -1452,8 +1451,7 @@
         "romance",
         "relationships",
         "emotions",
-        "love",
-        "present-tense"
+        "love"
       ],
       "timeCreated": 1751217041
     },
@@ -2979,8 +2977,7 @@
       "tags": [
         "work",
         "difficulty",
-        "determination",
-        "adjective-agreement"
+        "determination"
       ],
       "timeCreated": 1751550300
     },
@@ -3030,7 +3027,7 @@
     },
     {
       "id": 151,
-      "audioText": "Quelle ______ est-il ?",
+      "audioText": "Quelle heure est-il ?",
       "question": "Quelle ______ est-il ?",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -3209,7 +3206,7 @@
     },
     {
       "id": 159,
-      "audioText": "Les instructions sont ______ et faciles à suivre.",
+      "audioText": "Les instructions sont claires et faciles à suivre.",
       "question": "Les instructions sont ______ et faciles à suivre.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -3275,7 +3272,7 @@
     },
     {
       "id": 162,
-      "audioText": "En ______ cela, il a fait une erreur.",
+      "audioText": "En disant cela, il a fait une erreur.",
       "question": "En ______ cela, il a fait une erreur.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -3297,7 +3294,7 @@
     },
     {
       "id": 163,
-      "audioText": "Il faut que tu ______ la vérité.",
+      "audioText": "Il faut que tu dises la vérité.",
       "question": "Il faut que tu ______ la vérité.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -3319,7 +3316,7 @@
     },
     {
       "id": 164,
-      "audioText": "Le train s'est ______ à la gare.",
+      "audioText": "Le train s'est arrêté à la gare.",
       "question": "Le train s'est ______ à la gare.",
       "questionType": "fill-in-the-blank",
       "options": [
@@ -3822,15 +3819,730 @@
         "outdoor"
       ],
       "timeCreated": 1720108800
+    },
+    {
+      "id": 187,
+      "audioText": "J'ai presque fini mon travail aujourd'hui.",
+      "question": "How much of the work has the person completed?",
+      "questionType": "comprehension",
+      "options": [
+        "Almost all of it",
+        "Half of it",
+        "None of it",
+        "All of it"
+      ],
+      "correct": 0,
+      "explanation": "The adverb 'presque' means 'almost' or 'nearly'. When someone says 'j'ai presque fini', they mean they have nearly finished their work but haven't completely finished it yet.",
+      "difficulty": "A2",
+      "source": "Daily work conversation",
+      "tags": [
+        "workplace",
+        "daily-routine",
+        "progress"
+      ],
+      "timeCreated": 1720076400
+    },
+    {
+      "id": 188,
+      "audioText": "J'aime surtout les films d'action.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "J'aime surtout les films d'action.",
+        "J'aime beaucoup les films d'action.",
+        "J'aime souvent les films d'action.",
+        "J'aime seulement les films d'action."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'surtout' (especially/above all) to express their particular preference for action movies. The other options use different adverbs: 'beaucoup' (a lot), 'souvent' (often), or 'seulement' (only).",
+      "difficulty": "A2",
+      "source": "Casual conversation about movies",
+      "tags": [
+        "entertainment",
+        "movies",
+        "preferences"
+      ],
+      "timeCreated": 1720076460
+    },
+    {
+      "id": 189,
+      "audioText": "Papa arrive bientôt à la maison.",
+      "question": "When will dad arrive home?",
+      "questionType": "comprehension",
+      "options": [
+        "Soon",
+        "Now",
+        "Later tonight",
+        "Tomorrow"
+      ],
+      "correct": 0,
+      "explanation": "The adverb 'bientôt' means 'soon' or 'shortly'. It indicates that dad will arrive home in the near future, not immediately but within a short time.",
+      "difficulty": "A1",
+      "source": "Family conversation",
+      "tags": [
+        "family",
+        "home",
+        "arrival"
+      ],
+      "timeCreated": 1720076460
+    },
+    {
+      "id": 190,
+      "audioText": "Quelquefois je mange au restaurant avec mes amis.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Quelquefois je mange au restaurant avec mes amis.",
+        "Toujours je mange au restaurant avec mes amis.",
+        "Jamais je mange au restaurant avec mes amis.",
+        "Souvent je mange au restaurant avec mes amis."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'quelquefois' meaning 'sometimes'. This indicates occasional frequency - not always, never, or often, but from time to time. The other options change the frequency adverb completely.",
+      "difficulty": "A2",
+      "source": "Social dining habits",
+      "tags": [
+        "food",
+        "friends",
+        "social-activities"
+      ],
+      "timeCreated": 1720077000
+    },
+    {
+      "id": 191,
+      "audioText": "J'en ai marre de ces embouteillages tous les matins !",
+      "question": "J'en ai ______ de ces embouteillages tous les matins !",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "marre",
+        "peur",
+        "envie",
+        "besoin"
+      ],
+      "correct": 0,
+      "explanation": "The expression 'en avoir marre' means 'to be fed up with' or 'to be sick of' something. Here the speaker is expressing frustration about daily traffic jams. 'Marre' is always used in this fixed expression with 'en avoir'.",
+      "difficulty": "A2",
+      "source": "Daily commute frustration",
+      "tags": [
+        "transportation",
+        "frustration",
+        "daily-routine"
+      ],
+      "timeCreated": 1720077000
+    },
+    {
+      "id": 192,
+      "audioText": "Pose ton livre dessus la table, s'il te plaît.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Pose ton livre dessus la table, s'il te plaît.",
+        "Pose ton livre sous la table, s'il te plaît.",
+        "Pose ton livre à côté de la table, s'il te plaît.",
+        "Pose ton livre dans la table, s'il te plaît."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'dessus' meaning 'on top of' or 'on'. Here it means to put the book on the table. The other options change the preposition: 'sous' (under), 'à côté de' (next to), or 'dans' (in).",
+      "difficulty": "A1",
+      "source": "Simple household instruction",
+      "tags": [
+        "home",
+        "instructions",
+        "objects"
+      ],
+      "timeCreated": 1720077000
+    },
+    {
+      "id": 193,
+      "audioText": "Qu'est-ce qu'il y a là-dedans ? Ça sent très bon !",
+      "question": "Qu'est-ce qu'il y a ______ ? Ça sent très bon !",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "là-dedans",
+        "là-bas",
+        "ici",
+        "dehors"
+      ],
+      "correct": 0,
+      "explanation": "'Là-dedans' means 'in there' or 'inside that'. The speaker is asking what's inside something (a container, room, etc.) because it smells very good. It combines 'là' (there) with 'dedans' (inside).",
+      "difficulty": "A2",
+      "source": "Kitchen curiosity",
+      "tags": [
+        "food",
+        "curiosity",
+        "home"
+      ],
+      "timeCreated": 1720077200
+    },
+    {
+      "id": 194,
+      "audioText": "Le train arrive environ dans vingt minutes.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Le train arrive environ dans vingt minutes.",
+        "Le train arrive exactement dans vingt minutes.",
+        "Le train arrive sûrement dans vingt minutes.",
+        "Le train arrive peut-être dans vingt minutes."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'environ' meaning 'approximately' or 'about'. This indicates the train will arrive in approximately twenty minutes, not exactly, surely, or maybe, but around that time.",
+      "difficulty": "A1",
+      "source": "Train station announcement",
+      "tags": [
+        "transportation",
+        "time",
+        "travel"
+      ],
+      "timeCreated": 1720077200
+    },
+    {
+      "id": 195,
+      "audioText": "Je ne veux plus discuter là-dessus, c'est fini !",
+      "question": "What does the speaker want to stop doing?",
+      "questionType": "comprehension",
+      "options": [
+        "Discussing that particular topic",
+        "Working on that project",
+        "Thinking about that person",
+        "Going to that place"
+      ],
+      "correct": 0,
+      "explanation": "'Là-dessus' means 'about that' or 'on that subject'. The speaker doesn't want to discuss that particular topic anymore - it's finished. The expression refers back to a previously mentioned subject of conversation.",
+      "difficulty": "A2",
+      "source": "Conversation boundary",
+      "tags": [
+        "conversation",
+        "boundaries",
+        "disagreement"
+      ],
+      "timeCreated": 1720077200
+    },
+    {
+      "id": 196,
+      "audioText": "La pharmacie est loin d'ici, il faut prendre le bus.",
+      "question": "La pharmacie est ______ d'ici, il faut prendre le bus.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "loin",
+        "près",
+        "à côté",
+        "devant"
+      ],
+      "correct": 0,
+      "explanation": "'Loin' means 'far' and indicates distance. Since they need to take the bus to get to the pharmacy, it shows the pharmacy is far from here, not close, next to, or in front.",
+      "difficulty": "A2",
+      "source": "Getting to the pharmacy",
+      "tags": [
+        "transportation",
+        "directions",
+        "health"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 197,
+      "audioText": "Parle plus fort, je ne t'entends pas avec ce bruit !",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Parle plus fort, je ne t'entends pas avec ce bruit !",
+        "Parle plus doucement, je ne t'entends pas avec ce bruit !",
+        "Parle plus vite, je ne t'entends pas avec ce bruit !",
+        "Parle plus lentement, je ne t'entends pas avec ce bruit !"
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'fort' meaning 'loudly'. Due to the noise, they're asking the person to speak louder so they can be heard. The other options change the adverb to quietly, quickly, or slowly, which wouldn't help with the noise problem.",
+      "difficulty": "A1",
+      "source": "Noisy environment communication",
+      "tags": [
+        "communication",
+        "noise",
+        "volume"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 198,
+      "audioText": "Ferme la porte doucement, le bébé dort dans la chambre.",
+      "question": "Why should the door be closed gently?",
+      "questionType": "comprehension",
+      "options": [
+        "Because the baby is sleeping in the room",
+        "Because the door is broken and fragile",
+        "Because there are neighbors nearby",
+        "Because it's late at night outside"
+      ],
+      "correct": 0,
+      "explanation": "'Doucement' means 'gently' or 'softly'. The door should be closed gently because the baby is sleeping in the room and sudden noise could wake the baby up.",
+      "difficulty": "A2",
+      "source": "Childcare consideration",
+      "tags": [
+        "home",
+        "baby-care",
+        "quiet"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 199,
+      "audioText": "J'ai vu mon dernier film préféré hier soir.",
+      "question": "J'ai vu mon ______ film préféré hier soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "dernier",
+        "premier",
+        "nouveau",
+        "ancien"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'dernier' meaning 'last' or 'latest'. In this context, 'mon dernier film préféré' means 'my latest favorite film' - the most recent film that became their favorite.",
+      "difficulty": "A2",
+      "source": "Entertainment discussion",
+      "tags": [
+        "entertainment",
+        "movies",
+        "preferences"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 200,
+      "audioText": "J'ai acheté un énorme gâteau pour la fête.",
+      "question": "What did the speaker buy for the party?",
+      "questionType": "comprehension",
+      "options": [
+        "An enormous cake",
+        "A small cake",
+        "An enormous gift",
+        "A small gift"
+      ],
+      "correct": 0,
+      "explanation": "The speaker said 'J'ai acheté un énorme gâteau pour la fête' - I bought an enormous cake for the party. 'Énorme' means 'enormous' or 'huge'.",
+      "difficulty": "A2",
+      "source": "Party preparation",
+      "tags": [
+        "party",
+        "food",
+        "size"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 201,
+      "audioText": "Le café est trop fort pour moi.",
+      "question": "Le café est trop ______ pour moi.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "fort",
+        "doux",
+        "sucré",
+        "froid"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'fort' meaning 'strong'. The coffee is too strong for me. In French, 'fort' describes the intensity or strength of coffee.",
+      "difficulty": "A2",
+      "source": "Café conversation",
+      "tags": [
+        "food",
+        "drinks",
+        "preferences"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 202,
+      "audioText": "Il est demi-neuf heures, je dois partir.",
+      "question": "What time is it according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "Half past eight (8:30)",
+        "Half past nine (9:30)",
+        "Nine o'clock (9:00)",
+        "Eight o'clock (8:00)"
+      ],
+      "correct": 0,
+      "explanation": "The speaker said 'Il est demi-neuf heures' which means 'It's half past eight' (8:30). In this construction, 'demi' means 'half' and refers to half an hour before the next hour mentioned.",
+      "difficulty": "A2",
+      "source": "Time telling",
+      "tags": [
+        "time",
+        "departure",
+        "schedule"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 203,
+      "audioText": "Elle lit tranquillement dans le jardin.",
+      "question": "Elle lit ______ dans le jardin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "tranquillement",
+        "rapidement",
+        "bruyamment",
+        "difficilement"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'tranquillement' meaning 'quietly' or 'peacefully'. She reads quietly in the garden. 'Tranquillement' describes the calm, peaceful manner of reading.",
+      "difficulty": "A2",
+      "source": "Garden reading",
+      "tags": [
+        "reading",
+        "garden",
+        "peaceful"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 204,
+      "audioText": "Elle demande une question au professeur.",
+      "question": "Elle ______ une question au professeur.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "demande",
+        "demander",
+        "demandé",
+        "demandes"
+      ],
+      "correct": 0,
+      "explanation": "The subject 'elle' is third-person singular, so the verb 'demander' must be conjugated as 'demande'.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "school",
+        "education"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 205,
+      "audioText": "Je ne comprends pas la question.",
+      "question": "Je ne ______ pas la question.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "comprends",
+        "comprend",
+        "comprendre",
+        "compris"
+      ],
+      "correct": 0,
+      "explanation": "The subject 'je' is first-person singular, so the verb 'comprendre' must be conjugated as 'comprends'.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "understanding",
+        "communication"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 206,
+      "audioText": "D'abord, mélangez les ingrédients, puis ajoutez l'eau.",
+      "question": "______ , mélangez les ingrédients, puis ajoutez l'eau.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "D'abord",
+        "Ensuite",
+        "Enfin",
+        "Toujours"
+      ],
+      "correct": 0,
+      "explanation": "'D'abord' means 'first' or 'firstly', indicating the initial step in a sequence.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "cooking",
+        "instructions"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 207,
+      "audioText": "Il a résolu le problème facilement.",
+      "question": "Il a résolu le problème ______.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "facilement",
+        "difficilement",
+        "lentement",
+        "rapidement"
+      ],
+      "correct": 0,
+      "explanation": "'Facilement' means 'easily'. The sentence indicates the problem was solved without difficulty.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "problem-solving",
+        "achievement"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 208,
+      "audioText": "Il a parlé gentiment à l'enfant.",
+      "question": "How did he speak to the child?",
+      "questionType": "comprehension",
+      "options": [
+        "Kindly",
+        "Rudely",
+        "Loudly",
+        "Quickly"
+      ],
+      "correct": 0,
+      "explanation": "'Gentiment' means 'kindly' or 'nicely'. The sentence describes a kind manner of speaking.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "manners",
+        "communication"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 209,
+      "audioText": "Je suis très heureux de vous revoir après si longtemps.",
+      "question": "Je suis très ______ de vous revoir après si longtemps.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "heureux",
+        "triste",
+        "fatigué",
+        "surpris"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'heureux' meaning 'happy'. The speaker is very happy to see someone again after a long time. 'Heureux' expresses joy and happiness about the reunion.",
+      "difficulty": "A2",
+      "source": "Reunion conversation",
+      "tags": [
+        "emotions",
+        "reunion",
+        "happiness"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 210,
+      "audioText": "Ma grand-mère est malade depuis une semaine.",
+      "question": "What is the speaker saying about their grandmother?",
+      "questionType": "comprehension",
+      "options": [
+        "She has been sick for a week",
+        "She has been tired for a week",
+        "She has been sad for a week",
+        "She has been busy for a week"
+      ],
+      "correct": 0,
+      "explanation": "The speaker said 'Ma grand-mère est malade depuis une semaine' - My grandmother has been sick for a week. 'Malade' means 'sick' or 'ill'.",
+      "difficulty": "A1",
+      "source": "Family health",
+      "tags": [
+        "family",
+        "health",
+        "illness"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 211,
+      "audioText": "Il est très amoureux de sa nouvelle copine.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Il est très amoureux de sa nouvelle copine.",
+        "Il est très fâché de sa nouvelle copine.",
+        "Il est très amoureux de sa nouvelle voiture.",
+        "Il est très content de sa nouvelle copine."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'amoureux' meaning 'in love'. He is very much in love with his new girlfriend. The other options change 'amoureux' to 'fâché' (angry), 'content' (happy), or 'copine' to 'voiture' (car).",
+      "difficulty": "A2",
+      "source": "Romantic relationships",
+      "tags": [
+        "romance",
+        "relationships",
+        "emotions"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 212,
+      "audioText": "Le frigo est complètement vide, il faut aller faire les courses.",
+      "question": "Le frigo est complètement ______, il faut aller faire les courses.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "vide",
+        "plein",
+        "cassé",
+        "fermé"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'vide' meaning 'empty'. The fridge is completely empty, we need to go shopping. 'Vide' indicates there is no food left in the refrigerator.",
+      "difficulty": "A1",
+      "source": "Household management",
+      "tags": [
+        "household",
+        "shopping",
+        "food"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 213,
+      "audioText": "La fenêtre est restée ouverte toute la nuit.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "La fenêtre est restée ouverte toute la nuit.",
+        "La fenêtre est restée fermée toute la nuit.",
+        "La porte est restée ouverte toute la nuit.",
+        "La fenêtre est restée ouverte toute la journée."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'ouverte' (feminine form of 'ouvert') meaning 'open'. The window stayed open all night. The other options change 'ouverte' to 'fermée' (closed), 'fenêtre' to 'porte' (door), or 'nuit' to 'journée' (day).",
+      "difficulty": "A2",
+      "source": "Home environment",
+      "tags": [
+        "home",
+        "windows",
+        "overnight"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 214,
+      "audioText": "J'ai acheté une voiture jaune très belle.",
+      "question": "J'ai acheté une voiture ______ très belle.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "jaune",
+        "rouge",
+        "bleue",
+        "noire"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'jaune' meaning 'yellow'. I bought a very beautiful yellow car. 'Jaune' is a color adjective describing the car.",
+      "difficulty": "A1",
+      "source": "Car purchase",
+      "tags": [
+        "colors",
+        "cars",
+        "shopping"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 215,
+      "audioText": "Le parc est très vert au printemps.",
+      "question": "How is the park described in spring?",
+      "questionType": "comprehension",
+      "options": [
+        "The park is very green in spring",
+        "The park is very brown in spring",
+        "The park is very colorful in spring",
+        "The park is very empty in spring"
+      ],
+      "correct": 0,
+      "explanation": "The speaker said 'Le parc est très vert au printemps' - The park is very green in spring. 'Vert' means 'green', describing the lush vegetation during springtime.",
+      "difficulty": "A1",
+      "source": "Seasonal description",
+      "tags": [
+        "colors",
+        "seasons",
+        "nature"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 216,
+      "audioText": "J'ai visité Paris trois fois.",
+      "question": "J'ai visité Paris trois ______.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "fois",
+        "heure",
+        "jour",
+        "an"
+      ],
+      "correct": 0,
+      "explanation": "'Fois' means 'times' (as in occurrences). The sentence indicates visiting Paris three times.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "travel",
+        "frequency"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 217,
+      "audioText": "Ouvre la porte s'il te plaît.",
+      "question": "Ouvre la ______ s'il te plaît.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "porte",
+        "fenêtre",
+        "livre",
+        "table"
+      ],
+      "correct": 0,
+      "explanation": "'Porte' means 'door'. The sentence is a request to open the door.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "household",
+        "requests"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 218,
+      "audioText": "J'ai une bonne idée pour le projet.",
+      "question": "J'ai une bonne ______ pour le projet.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "idée",
+        "chose",
+        "plan",
+        "solution"
+      ],
+      "correct": 0,
+      "explanation": "'Idée' means 'idea'. The sentence indicates having a good idea for the project.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "projects",
+        "creativity"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 219,
+      "audioText": "Ma maman prépare un délicieux gâteau.",
+      "question": "Who is preparing a delicious cake?",
+      "questionType": "comprehension",
+      "options": [
+        "My mom.",
+        "My dad.",
+        "My sister.",
+        "My brother."
+      ],
+      "correct": 0,
+      "explanation": "'Maman' means 'mom'. The sentence states that her mom is preparing a delicious cake.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "family",
+        "cooking"
+      ],
+      "timeCreated": 1720134000
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-04T05:40:19.125Z",
-    "totalQuestions": 165,
-    "originalQuestions": 0,
-    "sourceQuestions": 165,
+    "compiledAt": "2025-07-05T00:58:38.132Z",
+    "totalQuestions": 198,
     "level": "A",
-    "idRange": "1-199",
+    "idRange": "1-226",
     "difficulties": [
       "A1",
       "A2"

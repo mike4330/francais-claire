@@ -4,3 +4,5 @@ out.md
 cache-server.log
 .cursorrules
 questions*json*backup*
+questions/source/*json.backup.20*
+test*html

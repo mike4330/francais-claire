@@ -1,0 +1,24 @@
+{
+  "id": 506,
+  "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+  "question": "What is Sophie Bauer's reaction to the proposed penalties for doctors regarding medical deserts?",
+  "questionType": "comprehension",
+  "options": [
+    "She was extremely shocked that penalties would be associated if doctors feel unable to reinforce in the most complicated areas.",
+    "She supports the penalties as a way to encourage doctors to work in difficult areas.",
+    "She believes the penalties are not strict enough to solve the problem of medical deserts.",
+    "She thinks the penalties should only apply to new doctors, not experienced ones."
+  ],
+  "correct": 0,
+  "explanation": "Sophie Bauer says she was 'extrêmement choquée' (extremely shocked) to see that penalties would be associated in cases where doctors consider themselves unable to reinforce in the most complicated areas. She does not support the penalties, but rather expresses surprise and disapproval.",
+  "difficulty": "C1",
+  "source": "French Healthcare Policy - Medical Deserts",
+  "tags": [
+    "healthcare",
+    "policy",
+    "medical-deserts",
+    "penalties",
+    "doctors",
+    "reaction"
+  ]
+}

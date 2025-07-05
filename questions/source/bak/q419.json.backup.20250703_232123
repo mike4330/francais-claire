@@ -1,0 +1,20 @@
+{
+  "id": 419,
+  "audioText": "Les résultats de l'enquête ont été reçus par la commission indépendante hier soir.",
+  "question": "Complétez avec le participe passé du verbe 'recevoir' : Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "reçus",
+    "reçu",
+    "recevés",
+    "recevoir"
+  ],
+  "correct": 0,
+  "explanation": "La bonne réponse est 'reçus'. Accord avec 'les résultats' (masculin pluriel). Le participe passé de 'recevoir' est 'reçu', qui s'accorde ici en nombre et en genre.",
+  "difficulty": "C1",
+  "source": "Formal News - Investigation Results",
+  "tags": [
+    "news",
+    "investigation"
+  ]
+}

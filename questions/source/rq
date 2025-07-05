@@ -1,0 +1,305 @@
+#!/bin/bash
+
+# Renumber Question (rq) - Rename source file and update ID
+# Usage: ./rq <old_id> <new_id>
+# Example: ./rq 499 412
+# 
+# This tool:
+# 1. Renames qOLD.json to qNEW.json
+# 2. Updates the "id" field inside the JSON file
+# 3. Validates the new ID doesn't already exist
+
+if [ $# -ne 2 ]; then
+    echo "Usage: $0 <old_id> <new_id>"
+    echo "Example: $0 499 412"
+    echo ""
+    echo "Renumbers a question by:"
+    echo "  1. Renaming q<old_id>.json to q<new_id>.json"
+    echo "  2. Updating the 'id' field inside the JSON file"
+    echo "  3. Validating the new ID doesn't already exist"
+    exit 1
+fi
+
+OLD_ID="$1"
+NEW_ID="$2"
+
+# Validate inputs are numeric
+if ! [[ "$OLD_ID" =~ ^[0-9]+$ ]] || ! [[ "$NEW_ID" =~ ^[0-9]+$ ]]; then
+    echo "❌ Error: Both old_id and new_id must be numeric"
+    echo "   Got: old_id='$OLD_ID', new_id='$NEW_ID'"
+    exit 1
+fi
+
+# Check if jq is available
+if ! command -v jq &> /dev/null; then
+    echo "❌ Error: jq is required but not installed. Please install jq first."
+    echo "   sudo apt-get install jq  # Ubuntu/Debian"
+    echo "   brew install jq          # macOS"
+    exit 1
+fi
+
+OLD_FILE="q${OLD_ID}.json"
+NEW_FILE="q${NEW_ID}.json"
+
+echo "🔄 Renumbering question: $OLD_ID → $NEW_ID"
+echo "   Source file: $OLD_FILE → $NEW_FILE"
+
+# Check if old file exists
+if [ ! -f "$OLD_FILE" ]; then
+    echo "❌ Error: Source file $OLD_FILE not found"
+    echo "   Available files:"
+    ls -1 q*.json 2>/dev/null | head -10 | sed 's/^/     /'
+    if [ $(ls -1 q*.json 2>/dev/null | wc -l) -gt 10 ]; then
+        echo "     ... and $(( $(ls -1 q*.json 2>/dev/null | wc -l) - 10 )) more"
+    fi
+    exit 1
+fi
+
+# Check if new file already exists
+if [ -f "$NEW_FILE" ]; then
+    echo "❌ Error: Target file $NEW_FILE already exists"
+    echo "   Cannot overwrite existing question"
+    exit 1
+fi
+
+# Validate that the old file actually contains the expected ID
+OLD_ID_IN_FILE=$(jq -r '.id' "$OLD_FILE" 2>/dev/null)
+if [ "$OLD_ID_IN_FILE" != "$OLD_ID" ]; then
+    echo "⚠️  Warning: ID mismatch detected"
+    echo "   File $OLD_FILE contains ID: $OLD_ID_IN_FILE"
+    echo "   Expected ID: $OLD_ID"
+    echo "   Continuing anyway..."
+fi
+
+# Create backup
+BACKUP_FILE="${OLD_FILE}.backup.$(date +%Y%m%d_%H%M%S)"
+cp "$OLD_FILE" "$BACKUP_FILE"
+echo "💾 Backup created: $BACKUP_FILE"
+
+# Update the ID in the JSON file and write to new file
+echo "📝 Updating ID field: $OLD_ID_IN_FILE → $NEW_ID"
+jq ".id = $NEW_ID" "$OLD_FILE" > "$NEW_FILE"
+
+# Check if jq succeeded
+if [ $? -eq 0 ] && [ -f "$NEW_FILE" ]; then
+    # Verify the new file has the correct ID
+    NEW_ID_IN_FILE=$(jq -r '.id' "$NEW_FILE" 2>/dev/null)
+    if [ "$NEW_ID_IN_FILE" = "$NEW_ID" ]; then
+        # Success - remove old file
+        rm "$OLD_FILE"
+        echo "✅ Success! Question renumbered:"
+        echo "   File: $OLD_FILE → $NEW_FILE"
+        echo "   ID: $OLD_ID_IN_FILE → $NEW_ID"
+        echo ""
+        echo "💡 Next steps:"
+        echo "   1. Run 'node ../../compile-questions.js' to update compiled files"
+        echo "   2. Check if any other questions reference this as parentQuestion"
+    else
+        echo "❌ Error: ID verification failed in new file"
+        echo "   Expected: $NEW_ID"
+        echo "   Found: $NEW_ID_IN_FILE"
+        rm -f "$NEW_FILE"
+        exit 1
+    fi
+else
+    echo "❌ Error: Failed to create new file with updated ID"
+    rm -f "$NEW_FILE"
+    exit 1
+fi
+
+# Check for parent question references that might need updating
+echo ""
+echo "🔍 Checking for parent question references..."
+REFERENCING_FILES=$(grep -l "\"parentQuestion\": *$OLD_ID" q*.json 2>/dev/null || true)
+if [ -n "$REFERENCING_FILES" ]; then
+    echo "⚠️  Found questions that reference this as parentQuestion:"
+    for ref_file in $REFERENCING_FILES; do
+        ref_id=$(jq -r '.id' "$ref_file" 2>/dev/null)
+        echo "   Question $ref_id (file: $ref_file)"
+    done
+    echo ""
+    echo "🔧 Automatically updating parentQuestion references..."
+    
+    # Auto-fix parent question references
+    UPDATED_COUNT=0
+    for ref_file in $REFERENCING_FILES; do
+        ref_id=$(jq -r '.id' "$ref_file" 2>/dev/null)
+        
+        # Create backup of referencing file
+        ref_backup="${ref_file}.backup.$(date +%Y%m%d_%H%M%S)"
+        cp "$ref_file" "$ref_backup"
+        
+        # Update parentQuestion field using jq
+        jq ".parentQuestion = $NEW_ID" "$ref_file" > "${ref_file}.tmp"
+        
+        # Verify the update worked and move temp file
+        if [ $? -eq 0 ] && [ -f "${ref_file}.tmp" ]; then
+            mv "${ref_file}.tmp" "$ref_file"
+            echo "   ✅ Updated Question $ref_id: parentQuestion $OLD_ID → $NEW_ID"
+            echo "      Backup: $ref_backup"
+            UPDATED_COUNT=$((UPDATED_COUNT + 1))
+        else
+            echo "   ❌ Failed to update Question $ref_id"
+            rm -f "${ref_file}.tmp"
+            # Restore from backup if update failed
+            mv "$ref_backup" "$ref_file"
+        fi
+    done
+    
+    echo "📈 Successfully updated $UPDATED_COUNT parent question references"
+else
+    echo "✅ No parent question references found"
+fi
+
+# Migrate Redis performance data
+echo ""
+echo "🔄 Migrating Redis performance data..."
+
+# Check if redis-cli is available
+if ! command -v redis-cli &> /dev/null; then
+    echo "⚠️  Warning: redis-cli not found. Skipping Redis data migration."
+    echo "   If you have Redis performance data, you'll need to migrate it manually."
+else
+    # Check if Redis server is running
+    if ! redis-cli ping &> /dev/null; then
+        echo "⚠️  Warning: Redis server not responding. Skipping Redis data migration."
+        echo "   Make sure Redis server is running if you have performance data to migrate."
+    else
+        echo "🔍 Searching for Redis keys with question ID $OLD_ID..."
+        
+        # Find all keys that reference the old question ID
+        USER_QUESTION_KEYS=$(redis-cli keys "user_question:*:$OLD_ID" 2>/dev/null || true)
+        QUESTION_STATS_KEYS=$(redis-cli keys "question_stats:$OLD_ID" 2>/dev/null || true)
+        RESPONSE_KEYS=$(redis-cli keys "response:*:$OLD_ID:*" 2>/dev/null || true)
+        
+        TOTAL_KEYS=$(echo -e "$USER_QUESTION_KEYS\n$QUESTION_STATS_KEYS\n$RESPONSE_KEYS" | grep -v "^$" | wc -l)
+        
+        if [ "$TOTAL_KEYS" -eq 0 ]; then
+            echo "✅ No Redis performance data found for question $OLD_ID"
+        else
+            echo "📊 Found $TOTAL_KEYS Redis keys to migrate"
+            
+            # Migrate user question performance data (stored as Redis hashes)
+            if [ -n "$USER_QUESTION_KEYS" ]; then
+                echo "   📈 Migrating user question performance data..."
+                for key in $USER_QUESTION_KEYS; do
+                    if [ -n "$key" ]; then
+                        new_key=$(echo "$key" | sed "s/:$OLD_ID$/:$NEW_ID/")
+                        
+                        # Get hash data and TTL
+                        hash_exists=$(redis-cli exists "$key" 2>/dev/null)
+                        ttl=$(redis-cli ttl "$key" 2>/dev/null)
+                        
+                        if [ "$hash_exists" = "1" ]; then
+                            # Get all hash fields and values
+                            hash_data=$(redis-cli hgetall "$key" 2>/dev/null)
+                            
+                            if [ -n "$hash_data" ]; then
+                                # Parse hash data and recreate at new key
+                                echo "$hash_data" | while IFS= read -r field && IFS= read -r value; do
+                                    if [ -n "$field" ] && [ -n "$value" ]; then
+                                        redis-cli hset "$new_key" "$field" "$value" &>/dev/null
+                                    fi
+                                done
+                                
+                                # Update the question_id field in the hash to match new ID
+                                redis-cli hset "$new_key" "question_id" "$NEW_ID" &>/dev/null
+                                
+                                # Restore TTL if it exists
+                                if [ "$ttl" -gt 0 ]; then
+                                    redis-cli expire "$new_key" "$ttl" &>/dev/null
+                                fi
+                                
+                                # Delete old key
+                                redis-cli del "$key" &>/dev/null
+                                echo "     ✅ $key → $new_key (hash data)"
+                            fi
+                        fi
+                    fi
+                done
+            fi
+            
+            # Migrate global question statistics (stored as Redis hashes)
+            if [ -n "$QUESTION_STATS_KEYS" ]; then
+                echo "   📊 Migrating global question statistics..."
+                for key in $QUESTION_STATS_KEYS; do
+                    if [ -n "$key" ]; then
+                        new_key="question_stats:$NEW_ID"
+                        
+                        # Get hash data and TTL
+                        hash_exists=$(redis-cli exists "$key" 2>/dev/null)
+                        ttl=$(redis-cli ttl "$key" 2>/dev/null)
+                        
+                        if [ "$hash_exists" = "1" ]; then
+                            # Get all hash fields and values
+                            hash_data=$(redis-cli hgetall "$key" 2>/dev/null)
+                            
+                            if [ -n "$hash_data" ]; then
+                                # Parse hash data and recreate at new key
+                                echo "$hash_data" | while IFS= read -r field && IFS= read -r value; do
+                                    if [ -n "$field" ] && [ -n "$value" ]; then
+                                        redis-cli hset "$new_key" "$field" "$value" &>/dev/null
+                                    fi
+                                done
+                                
+                                # Restore TTL if it exists
+                                if [ "$ttl" -gt 0 ]; then
+                                    redis-cli expire "$new_key" "$ttl" &>/dev/null
+                                fi
+                                
+                                # Delete old key
+                                redis-cli del "$key" &>/dev/null
+                                echo "     ✅ $key → $new_key (hash data)"
+                            fi
+                        fi
+                    fi
+                done
+            fi
+            
+            # Migrate individual response data
+            if [ -n "$RESPONSE_KEYS" ]; then
+                echo "   📝 Migrating individual response data..."
+                for key in $RESPONSE_KEYS; do
+                    if [ -n "$key" ]; then
+                        new_key=$(echo "$key" | sed "s/:$OLD_ID:/:$NEW_ID:/")
+                        
+                        # Get data and TTL
+                        data=$(redis-cli get "$key" 2>/dev/null)
+                        ttl=$(redis-cli ttl "$key" 2>/dev/null)
+                        
+                        if [ -n "$data" ] && [ "$data" != "(nil)" ]; then
+                            # Update questionId field in JSON data if it exists
+                            if echo "$data" | jq -e '.questionId' &>/dev/null; then
+                                # Update the questionId field in the JSON
+                                updated_data=$(echo "$data" | jq ".questionId = $NEW_ID" 2>/dev/null)
+                                if [ $? -eq 0 ] && [ -n "$updated_data" ]; then
+                                    # Set new key with updated data
+                                    redis-cli set "$new_key" "$updated_data" &>/dev/null
+                                    echo "     ✅ $key → $new_key (updated questionId: $OLD_ID → $NEW_ID)"
+                                else
+                                    # Fallback: set with original data if jq fails
+                                    redis-cli set "$new_key" "$data" &>/dev/null
+                                    echo "     ⚠️  $key → $new_key (questionId update failed, kept original)"
+                                fi
+                            else
+                                # Set new key with same data (no questionId field to update)
+                                redis-cli set "$new_key" "$data" &>/dev/null
+                                echo "     ✅ $key → $new_key (no questionId field found)"
+                            fi
+                            
+                            # Restore TTL if it exists
+                            if [ "$ttl" -gt 0 ]; then
+                                redis-cli expire "$new_key" "$ttl" &>/dev/null
+                            fi
+                            
+                            # Delete old key
+                            redis-cli del "$key" &>/dev/null
+                        fi
+                    fi
+                done
+            fi
+            
+            echo "✅ Redis data migration completed successfully!"
+        fi
+    fi
+fi

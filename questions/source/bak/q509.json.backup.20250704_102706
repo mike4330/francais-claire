@@ -1,0 +1,23 @@
+{
+  "id": 509,
+  "audioText": "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+    "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en cours.",
+    "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Extérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+    "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment calme, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.' - Despite the media agitation around this case, the Interior Minister remains surprisingly quiet, which fuels speculation about possible behind-the-scenes negotiations.",
+  "difficulty": "C1",
+  "source": "Political Media Analysis",
+  "tags": [
+    "politics",
+    "media",
+    "speculation",
+    "negotiations"
+  ],
+  "timeCreated": 1720023480
+}

@@ -690,13 +690,13 @@
                 // Special handling for user performance data
                 if (type === 'user_question_performance_result' && message.action === 'get_user_question_performance') {
                     userPerformanceData = data.questionPerformances || [];
-                    console.log(`[DEBUG-2] 📊 Loaded ${userPerformanceData.length} user performance records for intelligent selection`);
+                    debugLog(2, `📊 Loaded ${userPerformanceData.length} user performance records for intelligent selection`);
                     
                     // If we have a pending level start, trigger it now that data is loaded
                     if (window.pendingLevelStart) {
                         const level = window.pendingLevelStart;
                         window.pendingLevelStart = null;
-                        console.log(`[DEBUG-2] 🚀 Triggering delayed level start for ${level} now that performance data is loaded`);
+                        debugLog(2, `🚀 Triggering delayed level start for ${level} now that performance data is loaded`);
                         startWithLevelAfterDataLoad(level);
                     }
                 }
@@ -1085,30 +1085,30 @@
         // Load performance data and then start with intelligent question selection
         function loadUserPerformanceDataThenStart(level) {
             // Debug WebSocket and UUID status
-            console.log(`[DEBUG-2] 🔍 Checking performance data prerequisites for level ${level}:`);
-            console.log(`[DEBUG-2]    📡 WebSocket exists: ${!!cacheSocket}`);
-            console.log(`[DEBUG-2]    📡 WebSocket ready: ${cacheSocket ? cacheSocket.readyState === WebSocket.OPEN : 'N/A'}`);
-            console.log(`[DEBUG-2]    👤 User UUID: ${userUUID ? 'Set' : 'Missing'}`);
+            debugLog(2, `🔍 Checking performance data prerequisites for level ${level}:`);
+            debugLog(2, `   📡 WebSocket exists: ${!!cacheSocket}`);
+            debugLog(2, `   📡 WebSocket ready: ${cacheSocket ? cacheSocket.readyState === WebSocket.OPEN : 'N/A'}`);
+            debugLog(2, `   👤 User UUID: ${userUUID ? 'Set' : 'Missing'}`);
             
             if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
-                console.log(`[DEBUG-2] 📊 Loading user performance data for level ${level} selection...`);
+                debugLog(2, `📊 Loading user performance data for level ${level} selection...`);
                 
                 // Store a callback to execute after performance data loads
                 window.pendingLevelStart = level;
                 
                 sendCacheMessage({ action: 'get_user_question_performance', uuid: userUUID });
             } else {
-                console.log(`[DEBUG-2] ⚠️ Cannot load performance data: WebSocket not ready or no user UUID, using fallback`);
-                console.log(`[DEBUG-2] 🔄 Attempting to retry in 1 second...`);
+                debugLog(2, `⚠️ Cannot load performance data: WebSocket not ready or no user UUID, using fallback`);
+                debugLog(2, `🔄 Attempting to retry in 1 second...`);
                 
                 // Try to wait a bit for WebSocket to be ready
                 setTimeout(() => {
                     if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
-                        console.log(`[DEBUG-2] ✅ Retry successful! Loading performance data for level ${level}`);
+                        debugLog(2, `✅ Retry successful! Loading performance data for level ${level}`);
                         window.pendingLevelStart = level;
                         sendCacheMessage({ action: 'get_user_question_performance', uuid: userUUID });
                     } else {
-                        console.log(`[DEBUG-2] ⚠️ Retry failed. Proceeding with fallback (no performance data)`);
+                        debugLog(2, `⚠️ Retry failed. Proceeding with fallback (no performance data)`);
                         userPerformanceData = [];
                         startWithLevelAfterDataLoad(level);
                     }
@@ -1123,11 +1123,11 @@
             
             const bestQuestionId = findBestQuestionForLevel(level);
             if (bestQuestionId) {
-                console.log(`[DEBUG-2] 🎯 Intelligent selection chose question ${bestQuestionId} for level ${level}`);
+                debugLog(2, `🎯 Intelligent selection chose question ${bestQuestionId} for level ${level}`);
                 startWithSpecificQuestion(bestQuestionId);
             } else {
                 // No intelligent selection possible for this level
-                console.log(`[DEBUG-2] ⚠️ No questions available for level ${level}`);
+                debugLog(2, `⚠️ No questions available for level ${level}`);
                 loadQuestion(); // Will show empty state
             }
         }
@@ -1157,7 +1157,7 @@
                 if (timeSinceAnswered < recentThresholdMs) {
                     excludedCount++;
                     const minutesAgo = Math.round(timeSinceAnswered / (60 * 1000));
-                    console.log(`[DEBUG-2] ⏰ Excluding question ${question.id} (answered ${minutesAgo} minutes ago)`);
+                    debugLog(2, `⏰ Excluding question ${question.id} (answered ${minutesAgo} minutes ago)`);
                     return false;
                 }
                 
@@ -1166,21 +1166,21 @@
             
             if (excludedCount > 0) {
                 const thresholdMinutes = Math.round(recentThresholdMs / (60 * 1000));
-                console.log(`[DEBUG-2] 🚫 Excluded ${excludedCount} questions answered within ${thresholdMinutes} minutes`);
+                debugLog(2, `🚫 Excluded ${excludedCount} questions answered within ${thresholdMinutes} minutes`);
             }
             
             if (questionsInLevel.length === 0) {
-                console.log(`[DEBUG-2] 🚫 No questions available for level ${level} after timestamp exclusions`);
+                debugLog(2, `🚫 No questions available for level ${level} after timestamp exclusions`);
                 return null;
             }
 
             // Count performance data specific to this level
             const performanceDataForLevel = userPerformanceData.filter(p => p.difficulty === level).length;
             
-            console.log(`[DEBUG-2] 🎯 Finding best question for level ${level}:`);
-            console.log(`[DEBUG-2]    📊 Total questions in level: ${questionsInLevel.length}`);
-            console.log(`[DEBUG-2]    📈 User has performance data for: ${performanceDataForLevel} questions in ${level} level (${userPerformanceData.length} total across all levels)`);
-            console.log(`[DEBUG-2] 🔍 Performance data details:`, userPerformanceData.map(p => `Q${p.questionId}(${p.difficulty || 'unknown'})`).join(', '));
+            debugLog(2, `🎯 Finding best question for level ${level}:`);
+            debugLog(2, `   📊 Total questions in level: ${questionsInLevel.length}`);
+            debugLog(2, `   📈 User has performance data for: ${performanceDataForLevel} questions in ${level} level (${userPerformanceData.length} total across all levels)`);
+            debugLog(3, `🔍 Performance data details:`, userPerformanceData.map(p => `Q${p.questionId}(${p.difficulty || 'unknown'})`).join(', '));
             
             // Try random selection first if enabled
             if (appConfig.intelligentSelection?.randomization?.enabled) {
@@ -1199,15 +1199,15 @@
                                                  (now - performance.lastAnswered) < recentThresholdMs;
                         
                         if (!isRecentlyAnswered) {
-                            console.log(`[DEBUG-2] 🎲 RANDOM SELECTION: Chose question ${randomId} from ${level} range (${levelRange.minId}-${levelRange.maxId})`);
-                            console.log(`[DEBUG-2]    📝 Reason: Random selection within level constraints`);
+                            debugLog(2, `🎲 RANDOM SELECTION: Chose question ${randomId} from ${level} range (${levelRange.minId}-${levelRange.maxId})`);
+                            debugLog(2, `   📝 Reason: Random selection within level constraints`);
                             return randomId;
                         } else {
                             const minutesAgo = Math.round((now - performance.lastAnswered) / (60 * 1000));
-                            console.log(`[DEBUG-2] 🎲 Random selection failed (Q${randomId} answered ${minutesAgo} minutes ago), falling back to intelligent selection`);
+                            debugLog(2, `🎲 Random selection failed (Q${randomId} answered ${minutesAgo} minutes ago), falling back to intelligent selection`);
                         }
                     } else {
-                        console.log(`[DEBUG-2] 🎲 Random selection failed (Q${randomId} not found or wrong level), falling back to intelligent selection`);
+                        debugLog(2, `🎲 Random selection failed (Q${randomId} not found or wrong level), falling back to intelligent selection`);
                     }
                 }
             }
@@ -1219,9 +1219,9 @@
             
             if (unattemptedQuestions.length > 0) {
                 const selectedQuestionId = Math.min(...unattemptedQuestions.map(q => q.id));
-                console.log(`[DEBUG-2] ✨ PRIORITY 1: Found ${unattemptedQuestions.length} unattempted questions`);
-                console.log(`[DEBUG-2]    🎲 Selected question ${selectedQuestionId} (lowest ID of unattempted)`);
-                console.log(`[DEBUG-2]    📝 Reason: Student has never attempted this question - perfect for new learning`);
+                debugLog(2, `✨ PRIORITY 1: Found ${unattemptedQuestions.length} unattempted questions`);
+                debugLog(2, `   🎲 Selected question ${selectedQuestionId} (lowest ID of unattempted)`);
+                debugLog(2, `   📝 Reason: Student has never attempted this question - perfect for new learning`);
                 return selectedQuestionId;
             }
             
@@ -1245,10 +1245,10 @@
             if (needsPracticeQuestions.length > 0) {
                 const selectedQuestion = needsPracticeQuestions[0];
                 const performance = userPerformanceData.find(p => p.questionId === selectedQuestion.id);
-                console.log(`[DEBUG-2] 📈 PRIORITY 2: Found ${needsPracticeQuestions.length} questions needing practice (<70% success)`);
-                console.log(`[DEBUG-2]    📉 Selected question ${selectedQuestion.id} with ${performance.successRate}% success rate`);
-                console.log(`[DEBUG-2]    💪 Reason: Student struggling with this question - targeted practice needed`);
-                console.log(`[DEBUG-2]    📋 Attempts: ${performance.attempts}, Last tried: ${new Date(performance.lastAttempted).toLocaleDateString()}`);
+                debugLog(2, `📈 PRIORITY 2: Found ${needsPracticeQuestions.length} questions needing practice (<70% success)`);
+                debugLog(2, `   📉 Selected question ${selectedQuestion.id} with ${performance.successRate}% success rate`);
+                debugLog(2, `   💪 Reason: Student struggling with this question - targeted practice needed`);
+                debugLog(2, `   📋 Attempts: ${performance.attempts}, Last tried: ${new Date(performance.lastAttempted).toLocaleDateString()}`);
                 return selectedQuestion.id;
             }
             
@@ -1259,10 +1259,10 @@
                 return performance && performance.successRate >= 70;
             }).length;
             
-            console.log(`[DEBUG-2] 🏆 PRIORITY 3: All questions mastered or attempted with good success rates`);
-            console.log(`[DEBUG-2]    ✅ ${masteredCount}/${questionsInLevel.length} questions mastered (≥70% success)`);
-            console.log(`[DEBUG-2]    🔄 Selected question ${selectedQuestionId} (lowest ID) for review practice`);
-            console.log(`[DEBUG-2]    📚 Reason: Maintaining mastery through spaced repetition`);
+            debugLog(2, `🏆 PRIORITY 3: All questions mastered or attempted with good success rates`);
+            debugLog(2, `   ✅ ${masteredCount}/${questionsInLevel.length} questions mastered (≥70% success)`);
+            debugLog(2, `   🔄 Selected question ${selectedQuestionId} (lowest ID) for review practice`);
+            debugLog(2, `   📚 Reason: Maintaining mastery through spaced repetition`);
             
             return selectedQuestionId;
         }
@@ -1270,10 +1270,10 @@
         // Load user performance data for intelligent question selection
         function loadUserPerformanceData() {
             if (cacheSocket && cacheSocket.readyState === WebSocket.OPEN && userUUID) {
-                console.log(`[DEBUG-2] 📊 Loading user performance data for intelligent question selection...`);
+                debugLog(2, `📊 Loading user performance data for intelligent question selection...`);
                 sendCacheMessage({ action: 'get_user_question_performance', uuid: userUUID });
             } else {
-                console.log(`[DEBUG-2] ⚠️ Cannot load performance data: WebSocket not ready or no user UUID`);
+                debugLog(2, `⚠️ Cannot load performance data: WebSocket not ready or no user UUID`);
                 userPerformanceData = [];
             }
         }
@@ -1903,15 +1903,15 @@
 
         function nextQuestion() {
             // Reload performance data before intelligent selection to ensure latest data
-            console.log('[DEBUG-2] 🔄 Reloading performance data before next question selection');
+            debugLog(3, '🔄 Reloading performance data before next question selection');
             sendCacheMessage({ action: 'get_user_question_performance', uuid: userUUID })
                 .then(() => {
-                    console.log('[DEBUG-2] ✅ Performance data reloaded, now selecting next question');
+                    debugLog(3, '✅ Performance data reloaded, now selecting next question');
                     // Use intelligent selection with timestamp-based exclusion
                     const nextQuestionId = findBestQuestionForLevel(currentDifficulty);
                     
                     if (nextQuestionId) {
-                        console.log(`[DEBUG-2] 🎯 Intelligent selection chose next question ${nextQuestionId} for level ${currentDifficulty}`);
+                        debugLog(2, `🎯 Intelligent selection chose next question ${nextQuestionId} for level ${currentDifficulty}`);
                         
                         // Check when this question was last answered
                         const questionPerformance = userPerformanceData.find(p => p.questionId === nextQuestionId);
@@ -1923,14 +1923,14 @@
                             const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
                             
                             if (days > 0) {
-                                console.log(`[DEBUG-2] ⏰ Question ${nextQuestionId} last answered ${days} days ${hours} hours ago`);
+                                debugLog(2, `⏰ Question ${nextQuestionId} last answered ${days} days ${hours} hours ago`);
                             } else if (hours > 0) {
-                                console.log(`[DEBUG-2] ⏰ Question ${nextQuestionId} last answered ${hours} hours ${minutes} minutes ago`);
+                                debugLog(2, `⏰ Question ${nextQuestionId} last answered ${hours} hours ${minutes} minutes ago`);
                             } else {
-                                console.log(`[DEBUG-2] ⏰ Question ${nextQuestionId} last answered ${minutes} minutes ago`);
+                                debugLog(2, `⏰ Question ${nextQuestionId} last answered ${minutes} minutes ago`);
                             }
                         } else {
-                            console.log(`[DEBUG-2] ⏰ Question ${nextQuestionId} never answered before`);
+                            debugLog(2, `⏰ Question ${nextQuestionId} never answered before`);
                         }
                         
                         // Load the question directly by ID
@@ -1943,7 +1943,7 @@
                         }
                     } else {
                         // No intelligent selection possible
-                        console.log(`[DEBUG-2] ⚠️ No questions available for intelligent selection in level ${currentDifficulty}`);
+                        debugLog(2, `⚠️ No questions available for intelligent selection in level ${currentDifficulty}`);
                         // Show empty state - loadQuestion() will handle this
                         loadQuestion(null);
                     }

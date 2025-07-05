@@ -1,0 +1,22 @@
+{
+  "id": 398,
+  "audioText": "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+  "parentQuestion": 475,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+    "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et sept autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
+    "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 40 ans qui assistait à un événement contre le fascisme, dans Paris.",
+    "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement pour la démocratie, dans Paris."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était '« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.' - 'I'm going to distance myself from this dangerous environment': a young man, member of a far-right group, gets out of prison.",
+  "difficulty": "B2",
+  "source": "French Legal/Political News - Listening",
+  "tags": [
+    "politics",
+    "extremism",
+    "legal"
+  ]
+}

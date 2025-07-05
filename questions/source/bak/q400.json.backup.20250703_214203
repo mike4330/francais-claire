@@ -1,0 +1,23 @@
+{
+  "id": 400,
+  "audioText": "Cette start-up n'a pas la moindre expérience dans le domaine de l'intelligence artificielle.",
+  "question": "What does the sentence say about the startup's AI experience?",
+  "questionType": "comprehension",
+  "options": [
+    "It doesn't have the slightest experience in artificial intelligence",
+    "It has some basic experience in artificial intelligence",
+    "It is a leader in artificial intelligence development",
+    "It specializes only in artificial intelligence"
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Cette start-up n'a pas la moindre expérience dans le domaine de l'intelligence artificielle' - This startup doesn't have the slightest experience in the field of artificial intelligence. 'Moindre' means 'slightest/least' and emphasizes complete lack of experience.",
+  "difficulty": "B2",
+  "source": "Technology Business",
+  "tags": [
+    "technology",
+    "business",
+    "artificial-intelligence",
+    "experience"
+  ],
+  "timeCreated": 1720052280
+}

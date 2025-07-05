@@ -1,72 +1,160 @@
 #!/bin/bash
 
 # Get next available ID for CEFR level groups
-# Usage: ./getid [a|b|c]
-# a = A1/A2 levels (questions-a.json, ID range 34-199)
-# b = B1/B2 levels (questions-b.json, ID range 200-399)  
-# c = C1/C2 levels (questions-c.json, ID range 400-499)
+# Usage: ./getid [a|b|c] or ./getid -a
+# -a flag outputs all levels in format A=123 B=456 C=789
+# Reads level ranges from config.json
 
 if [ $# -eq 0 ]; then
-    echo "Usage: $0 [a|b|c]"
-    echo "  a = A1/A2 levels (questions-a.json, ID range 34-199)"
-    echo "  b = B1/B2 levels (questions-b.json, ID range 200-399)"
-    echo "  c = C1/C2 levels (questions-c.json, ID range 400-499)"
+    echo "Usage: $0 [a|b|c] or $0 -a"
+    echo "Level ranges are defined in config.json"
+    echo "-a flag outputs all levels in format A=123 B=456 C=789"
     exit 1
+fi
+
+# Check if jq is available
+if ! command -v jq &> /dev/null; then
+    echo "❌ Error: jq is required but not installed. Please install jq first."
+    echo "   sudo apt-get install jq  # Ubuntu/Debian"
+    echo "   brew install jq          # macOS"
+    exit 1
+fi
+
+# Handle -a flag for all levels output
+if [ "$1" = "-a" ]; then
+    # Determine paths based on current directory  
+    if [ -d "questions/source" ]; then
+        SOURCE_DIR="questions/source/"
+        CONFIG_FILE="config.json"
+    elif [ -d "../questions/source" ]; then
+        SOURCE_DIR="../questions/source/"
+        CONFIG_FILE="../config.json"
+    else
+        SOURCE_DIR="questions/source/"
+        CONFIG_FILE="/var/www/html/portfolio/language/config.json"
+    fi
+
+    # Check if config.json exists
+    if [ ! -f "$CONFIG_FILE" ]; then
+        echo "❌ Error: Config file $CONFIG_FILE not found"
+        exit 1
+    fi
+
+    # Function to get next ID for a level
+    get_next_id_for_level() {
+        local level_key="$1"
+        local min_id=$(jq -r ".levelRanges.${level_key}.minId" "$CONFIG_FILE" 2>/dev/null)
+        local max_id=$(jq -r ".levelRanges.${level_key}.maxId" "$CONFIG_FILE" 2>/dev/null)
+        
+        if [ "$min_id" = "null" ] || [ "$max_id" = "null" ]; then
+            echo "null"
+            return
+        fi
+
+        local highest_id=""
+        
+        # Get all source files and extract IDs
+        for file_path in "$SOURCE_DIR"q*.json; do
+            if [ -f "$file_path" ]; then
+                local id=$(basename "$file_path" .json | sed 's/q//')
+                # Validate ID is numeric and in correct range for this level
+                if [[ "$id" =~ ^[0-9]+$ ]] && [ "$id" -ge "$min_id" ] && [ "$id" -le "$max_id" ]; then
+                    if [ -z "$highest_id" ] || [ "$id" -gt "$highest_id" ]; then
+                        highest_id="$id"
+                    fi
+                fi
+            fi
+        done
+
+        # If no IDs found, use minimum ID - 1 (so next_id will be min_id)
+        if [ -z "$highest_id" ]; then
+            highest_id=$((min_id - 1))
+        fi
+
+        local next_id=$((highest_id + 1))
+        echo "$next_id"
+    }
+
+    # Get next IDs for all levels
+    a_id=$(get_next_id_for_level "a")
+    b_id=$(get_next_id_for_level "b") 
+    c_id=$(get_next_id_for_level "c")
+
+    # Output in requested format
+    echo "A=$a_id B=$b_id C=$c_id"
+    exit 0
 fi
 
 level="$1"
 
-# Determine path based on current directory
-if [ -f "questions/questions-a.json" ]; then
-    PATH_PREFIX="questions/"
-elif [ -f "../questions/questions-a.json" ]; then
-    PATH_PREFIX="../questions/"
+# Determine paths based on current directory  
+if [ -d "questions/source" ]; then
+    SOURCE_DIR="questions/source/"
+    CONFIG_FILE="config.json"
+elif [ -d "../questions/source" ]; then
+    SOURCE_DIR="../questions/source/"
+    CONFIG_FILE="../config.json"
 else
-    PATH_PREFIX="questions/"
+    SOURCE_DIR="questions/source/"
+    CONFIG_FILE="/var/www/html/portfolio/language/config.json"
 fi
 
-case "$level" in
-    a|A)
-        file="${PATH_PREFIX}questions-a.json"
-        min_id=34
-        max_id=199
-        ;;
-    b|B)
-        file="${PATH_PREFIX}questions-b.json"
-        min_id=200
-        max_id=399
-        ;;
-    c|C)
-        file="${PATH_PREFIX}questions-c.json"
-        min_id=400
-        max_id=499
-        ;;
-    *)
-        echo "Error: Invalid level '$level'. Use 'a', 'b', or 'c'."
-        exit 1
-        ;;
-esac
-
-if [ ! -f "$file" ]; then
-    echo "Error: File $file not found."
+# Check if config.json exists
+if [ ! -f "$CONFIG_FILE" ]; then
+    echo "❌ Error: Config file $CONFIG_FILE not found"
     exit 1
 fi
 
-# Extract all IDs from the file and find the highest one
-highest_id=$(grep '"id":' "$file" | sed 's/.*"id": *\([0-9]*\).*/\1/' | sort -n | tail -1)
+# Read level configuration from config.json
+level_lower=$(echo "$level" | tr '[:upper:]' '[:lower:]')
+min_id=$(jq -r ".levelRanges.${level_lower}.minId" "$CONFIG_FILE" 2>/dev/null)
+max_id=$(jq -r ".levelRanges.${level_lower}.maxId" "$CONFIG_FILE" 2>/dev/null)
+description=$(jq -r ".levelRanges.${level_lower}.description" "$CONFIG_FILE" 2>/dev/null)
+levels=$(jq -r ".levelRanges.${level_lower}.levels | join(\", \")" "$CONFIG_FILE" 2>/dev/null)
 
+if [ "$min_id" = "null" ] || [ "$max_id" = "null" ]; then
+    echo "❌ Error: Invalid level '$level' or missing configuration in $CONFIG_FILE"
+    echo "Available levels: $(jq -r '.levelRanges | keys | join(", ")' "$CONFIG_FILE")"
+    exit 1
+fi
+
+echo "📋 Level: $level ($levels - $description)"
+echo "📏 ID Range: $min_id-$max_id"
+
+if [ ! -d "$SOURCE_DIR" ]; then
+    echo "Error: Source directory $SOURCE_DIR not found."
+    exit 1
+fi
+
+# Find the highest ID from source files in the appropriate range
+highest_id=""
+
+# Get all source files and extract IDs
+for file_path in "$SOURCE_DIR"q*.json; do
+    if [ -f "$file_path" ]; then
+        id=$(basename "$file_path" .json | sed 's/q//')
+        # Validate ID is numeric and in correct range for this level
+        if [[ "$id" =~ ^[0-9]+$ ]] && [ "$id" -ge "$min_id" ] && [ "$id" -le "$max_id" ]; then
+            if [ -z "$highest_id" ] || [ "$id" -gt "$highest_id" ]; then
+                highest_id="$id"
+            fi
+        fi
+    fi
+done
+
+# If no IDs found anywhere, use minimum ID - 1 (so next_id will be min_id)
 if [ -z "$highest_id" ]; then
-    echo "Error: No IDs found in $file."
-    exit 1
+    highest_id=$((min_id - 1))
 fi
 
 next_id=$((highest_id + 1))
 
 # Validate that the next ID is within the allowed range
 if [ "$next_id" -gt "$max_id" ]; then
-    echo "Error: Next ID ($next_id) would exceed maximum allowed ID ($max_id) for level $level."
-    echo "Current highest ID: $highest_id"
+    echo "❌ Error: Next ID ($next_id) would exceed maximum allowed ID ($max_id) for level $level."
+    echo "   Current highest ID: $highest_id"
+    echo "   Consider expanding range in $CONFIG_FILE"
     exit 1
 fi
 
-echo "$next_id" 
+echo "🎯 Next available ID: $next_id" 

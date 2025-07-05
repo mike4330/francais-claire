@@ -1,0 +1,25 @@
+{
+  "id": 537,
+  "audioText": "L'analyse psychanalytique révèle que son père faisait preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
+  "question": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "faisait",
+    "ferait",
+    "avait fait",
+    "fait"
+  ],
+  "correct": 0,
+  "explanation": "In this complex psychological analysis, 'faisait' (imperfect of 'faire') is correct because it describes a habitual or ongoing state in the past. The expression 'faire preuve de' means 'to show/demonstrate'. The imperfect captures the enduring nature of the father's emotional rigidity as part of his character, rather than a single action.",
+  "difficulty": "C2",
+  "source": "Academic psychoanalytic discourse on intergenerational trauma",
+  "tags": [
+    "psychoanalysis",
+    "family",
+    "academic-discourse",
+    "advanced-vocabulary",
+    "intergenerational-trauma",
+    "emotions",
+    "historical-analysis"
+  ]
+}

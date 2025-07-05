@@ -1,0 +1,23 @@
+{
+  "id": 421,
+  "audioText": "Les traditions culturelles restent vivant dans cette communauté rurale malgré la modernisation.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Les traditions culturelles restent vivant dans cette communauté rurale malgré la modernisation.",
+    "Les traditions culturelles restent vivantes dans cette communauté rurale malgré la modernisation.",
+    "Les traditions culturelles restent vivant dans cette communauté urbaine malgré la modernisation.",
+    "Les traditions culturelles deviennent vivantes dans cette communauté rurale malgré la modernisation."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte contenait l'erreur d'accord 'vivant' (masculin singulier) au lieu de 'vivantes' (féminin pluriel) pour s'accorder avec 'traditions' (féminin pluriel). Cette question teste l'écoute précise des erreurs grammaticales d'accord des adjectifs.",
+  "difficulty": "B1",
+  "source": "Cultural Traditions - Grammar Detection",
+  "tags": [
+    "culture",
+    "traditions",
+    "rural-communities",
+    "grammar-errors"
+  ],
+  "timeCreated": 1720026980
+}

@@ -1,0 +1,24 @@
+{
+  "id": 518,
+  "audioText": "La suite de cet événement diplomatique sans précédent demeure incertaine, les négociateurs étant confrontés à des divergences fondamentales qui remettent en question l'architecture même des accords internationaux établis depuis plusieurs décennies.",
+  "question": "What makes the continuation of this diplomatic event uncertain?",
+  "questionType": "comprehension",
+  "options": [
+    "Fundamental disagreements that question the very architecture of established international agreements",
+    "Technical difficulties in organizing the meeting venues and logistics",
+    "Language barriers preventing effective communication between delegates",
+    "Budget constraints limiting the scope of potential agreements"
+  ],
+  "correct": 0,
+  "explanation": "The text indicates that 'la suite' (the continuation/what follows) remains uncertain because negotiators face 'des divergences fondamentales qui remettent en question l'architecture même des accords internationaux' - fundamental disagreements that question the very architecture of international agreements. 'Suite' here means continuation or what follows next.",
+  "difficulty": "C2",
+  "source": "International Diplomacy",
+  "tags": [
+    "diplomacy",
+    "international-relations",
+    "negotiations",
+    "political-uncertainty",
+    "global-agreements"
+  ],
+  "timeCreated": 1720025220
+}

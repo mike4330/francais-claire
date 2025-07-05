@@ -1,0 +1,24 @@
+{
+  "id": 505,
+  "audioText": "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+    "La Cour suprême américaine étend les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"justifiées\".",
+    "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Joe Biden crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+    "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"nécessaires\"."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était : 'La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.' Les distracteurs modifient soit le verbe clé (limite/étend), le président mentionné (Trump/Biden), ou la justification de la Cour (excèdent/justifiées/nécessaires).",
+  "difficulty": "C2",
+  "source": "French summary of US Supreme Court news, June 2024",
+  "tags": [
+    "law",
+    "politics",
+    "us",
+    "judiciary",
+    "supreme-court",
+    "news"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 403,
+  "audioText": "J'aurais aimé avoir plus de temps pour finir ce projet important.",
+  "parentQuestion": 287,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "J'aurais aimé avoir plus de temps pour finir ce projet important.",
+    "J'aurais voulu avoir plus de temps pour finir ce projet important.",
+    "J'aurais aimé avoir plus de temps pour terminer ce projet important.",
+    "J'aurais aimé avoir davantage de temps pour finir ce projet important."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'aimé' (pas 'voulu'), 'finir' (pas 'terminer'), et 'plus de' (pas 'davantage de'). Ces nuances du conditionnel et des synonymes testent l'écoute précise en contexte professionnel.",
+  "difficulty": "B2",
+  "source": "Work - Project Management - Listening",
+  "tags": [
+    "work",
+    "projects",
+    "conditional-mood",
+    "regret",
+    "time-management",
+    "professional"
+  ],
+  "timeCreated": 1720024440
+}

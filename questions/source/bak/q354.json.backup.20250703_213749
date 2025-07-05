@@ -1,0 +1,23 @@
+{
+  "id": 354,
+  "audioText": "Tu pars en vacances demain matin ou tu restes encore quelques jours ici avec nous ?",
+  "question": "Tu ______ en vacances demain matin ou tu restes encore quelques jours ici avec nous ?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pars",
+    "parts",
+    "partis",
+    "partir"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'pars' (you leave/go) - the second person singular present tense of 'partir'. The sentence asks 'Are you leaving on vacation tomorrow morning or are you staying a few more days here with us?' Note that 'parts' with 't' is incorrect; the correct form is 'pars' without 't' for the verb 'partir'.",
+  "difficulty": "A2",
+  "source": "Family Vacation Planning",
+  "tags": [
+    "family",
+    "vacation",
+    "travel",
+    "daily-conversation"
+  ],
+  "timeCreated": 1751549400
+}

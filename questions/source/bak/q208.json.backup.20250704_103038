@@ -1,0 +1,23 @@
+{
+  "id": 208,
+  "audioText": "Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
+  "question": "What did the speaker finally choose at the restaurant?",
+  "questionType": "comprehension",
+  "options": [
+    "A flank steak with a side of vegetables",
+    "Duck breast skewers with a special sauce",
+    "A sliced chicken dish with fragrant mustard sauce",
+    "A seafood dish with ginger and mild chili"
+  ],
+  "correct": 2,
+  "explanation": "The speaker finally chose 'un émincé de poulet à la moutarde parfumée' - a sliced chicken dish with fragrant mustard sauce, after hesitating between a flank steak and duck breast skewers.",
+  "difficulty": "B2",
+  "source": "Restaurant Choice",
+  "tags": [
+    "food",
+    "restaurant",
+    "chicken",
+    "menu",
+    "decision"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 488,
+    "audioText": "Quand tu vis un match de football, tu ressens toujours beaucoup d'émotions.",
+    "question": "What happens when you watch a football match?",
+    "questionType": "comprehension",
+    "options": [
+        "You always feel a lot of emotions",
+        "You usually fall asleep quickly",
+        "You prefer to read a book instead",
+        "You often leave before the end"
+    ],
+    "correct": 0,
+    "explanation": "The sentence says 'Quand tu vis un match de football, tu ressens toujours beaucoup d'émotions' - When you watch a football match, you always feel a lot of emotions. 'Vis' here is the present tense of 'voir' (to see/watch).",
+    "difficulty": "A2",
+    "source": "Sports Viewing",
+    "tags": ["sports", "football", "emotions", "entertainment"],
+    "timeCreated": 1720051980
+}

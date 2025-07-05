@@ -1,0 +1,24 @@
+{
+  "id": 445,
+  "audioText": "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants, créant ainsi un cercle vicieux d'appauvrissement institutionnalisé.",
+  "question": "What does the distinguished economist argue about austerity policies?",
+  "questionType": "comprehension",
+  "options": [
+    "They are a deliberate neoliberal strategy to maintain global structural inequalities and economic dependence",
+    "They are necessary short-term measures to help poor nations achieve financial independence",
+    "They provide effective solutions for reducing debt and stimulating sustainable economic growth",
+    "They represent compassionate international aid designed to strengthen local democratic institutions"
+  ],
+  "correct": 0,
+  "explanation": "The economist argues that austerity policies imposed on the poorest nations ('pauvres') are a deliberate neoliberal strategy to maintain structural inequalities and economic dependence. The adjective 'pauvre/pauvres' was missing from our question bank despite being high-frequency.",
+  "difficulty": "C2",
+  "source": "Economic theory and global policy analysis",
+  "tags": [
+    "economics",
+    "austerity",
+    "neoliberalism",
+    "inequality",
+    "policy-analysis"
+  ],
+  "timeCreated": 1704067200
+}

@@ -1,0 +1,18 @@
+{
+    "id": 476,
+    "audioText": "Mon frère est venu me voir hier après le travail.",
+    "question": "What did the speaker's brother do yesterday?",
+    "questionType": "comprehension",
+    "options": [
+        "He came to see the speaker after work",
+        "He called the speaker after work",
+        "He visited their parents after work",
+        "He went to work with the speaker"
+    ],
+    "correct": 0,
+    "explanation": "The sentence says 'Mon frère est venu me voir hier après le travail' - My brother came to see me yesterday after work. 'Venu' is the past participle of 'venir' (to come), used here in the passé composé.",
+    "difficulty": "A2",
+    "source": "Family Visit",
+    "tags": ["family", "visits", "work", "daily-routine"],
+    "timeCreated": 1720051260
+}

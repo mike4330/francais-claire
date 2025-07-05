@@ -1,0 +1,23 @@
+{
+  "id": 407,
+  "audioText": "Un nouveau cas d'intoxication à la bactérie Escherichia coli a été annoncé par la préfecture, portant à plus de vingt le nombre de personnes contaminées jusqu'à présent.",
+  "question": "What does the phrase 'portant à plus de vingt' indicate?",
+  "questionType": "comprehension",
+  "options": [
+    "The new case brings the total number of contaminated people to more than twenty",
+    "More than twenty people were involved in reporting the new case",
+    "The prefecture is carrying more than twenty investigation files",
+    "More than twenty bacteria strains have been identified in this case"
+  ],
+  "correct": 0,
+  "explanation": "The phrase 'portant à plus de vingt le nombre de personnes contaminées' means 'bringing to more than twenty the number of contaminated people.' This construction indicates that the new case increases the running total to more than twenty affected individuals.",
+  "difficulty": "C1",
+  "source": "French Health News",
+  "tags": [
+    "health",
+    "medical",
+    "administrative",
+    "numbers",
+    "contamination"
+  ]
+}

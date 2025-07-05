@@ -1,0 +1,24 @@
+{
+  "id": 439,
+  "audioText": "Il est crucial que le gouvernement ait une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
+  "question": "Il est crucial que le gouvernement ______ une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "ait",
+    "a",
+    "avait",
+    "aura"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'ait' - the subjunctive form of 'avoir' (to have). After expressions of necessity like 'il est crucial que' (it is crucial that), French requires the subjunctive mood. This advanced C2 structure tests mastery of subjunctive usage in formal governmental and diplomatic discourse.",
+  "difficulty": "C2",
+  "source": "Advanced Governmental Communication Strategy",
+  "tags": [
+    "government",
+    "communication-strategy",
+    "geopolitics",
+    "diplomatic-challenges",
+    "formal-discourse"
+  ],
+  "timeCreated": 1735500702
+}

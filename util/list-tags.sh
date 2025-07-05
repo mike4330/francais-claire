@@ -47,10 +47,12 @@ if ! command -v jq &> /dev/null; then
 fi
 
 # Determine path based on current directory
-if [ -f "questions.json" ]; then
-    PATH_PREFIX=""
+if [ -f "questions/q-compiled-a.json" ]; then
+    PATH_PREFIX="questions/"
+elif [ -f "../questions/q-compiled-a.json" ]; then
+    PATH_PREFIX="../questions/"
 else
-    PATH_PREFIX="../"
+    PATH_PREFIX=""
 fi
 
 # Set files to process
@@ -61,7 +63,26 @@ if [ -n "$SPECIFIC_FILE" ]; then
     fi
     QUESTION_FILES=("$SPECIFIC_FILE")
 else
-    QUESTION_FILES=("${PATH_PREFIX}questions.json" "${PATH_PREFIX}questions-a.json" "${PATH_PREFIX}questions-b.json" "${PATH_PREFIX}questions-c.json")
+    # Use compiled files for much faster execution
+    COMPILED_FILES=(
+        "${PATH_PREFIX}q-compiled-a.json"
+        "${PATH_PREFIX}q-compiled-b.json"
+        "${PATH_PREFIX}q-compiled-c.json"
+    )
+    
+    # Check if compiled files exist, fallback to source files
+    QUESTION_FILES=()
+    for file in "${COMPILED_FILES[@]}"; do
+        if [ -f "$file" ]; then
+            QUESTION_FILES+=("$file")
+        fi
+    done
+    
+    # If no compiled files found, use source files
+    if [ ${#QUESTION_FILES[@]} -eq 0 ]; then
+        echo "⚠️  No compiled files found, using source files (slower)"
+        QUESTION_FILES=($(find "${PATH_PREFIX}questions/source" -name "q*.json" 2>/dev/null | sort))
+    fi
 fi
 
 echo "🏷️  Tag Analysis Report"
@@ -71,22 +92,32 @@ echo "======================="
 extract_all_tags() {
     for file in "${QUESTION_FILES[@]}"; do
         if [ -f "$file" ]; then
-            jq -r '.questions[]?.tags[]?' "$file" 2>/dev/null
+            # Handle both individual source files and monolithic files
+            if jq -e '.questions' "$file" >/dev/null 2>&1; then
+                # Monolithic format
+                jq -r '.questions[]?.tags[]?' "$file" 2>/dev/null
+            else
+                # Individual source format
+                jq -r '.tags[]?' "$file" 2>/dev/null
+            fi
         fi
     done
 }
 
-# Function to count tag usage
-count_tag_usage() {
-    local tag="$1"
-    local count=0
+# Function to get all tags with counts efficiently
+get_tags_with_counts() {
     for file in "${QUESTION_FILES[@]}"; do
         if [ -f "$file" ]; then
-            local file_count=$(jq -r ".questions[] | select(.tags[]? == \"$tag\") | .id" "$file" 2>/dev/null | wc -l)
-            count=$((count + file_count))
+            # Handle both individual source files and monolithic files
+            if jq -e '.questions' "$file" >/dev/null 2>&1; then
+                # Monolithic format - extract all tags at once
+                jq -r '.questions[]?.tags[]?' "$file" 2>/dev/null
+            else
+                # Individual source format - extract all tags at once
+                jq -r '.tags[]?' "$file" 2>/dev/null
+            fi
         fi
-    done
-    echo "$count"
+    done | sort | uniq -c | sort -nr
 }
 
 # Get all unique tags
@@ -105,22 +136,12 @@ if [ "$SHOW_COUNT" = true ]; then
     echo "Tag Usage Counts:"
     echo "-----------------"
     
-    # Create a temporary file for sorting by count
-    temp_file=$(mktemp)
-    
-    while IFS= read -r tag; do
+    # Use the efficient count function
+    get_tags_with_counts | while read -r count tag; do
         if [ -n "$tag" ]; then
-            count=$(count_tag_usage "$tag")
-            echo "$count|$tag" >> "$temp_file"
+            printf "  %-3s %s\n" "$count" "$tag"
         fi
-    done <<< "$ALL_TAGS"
-    
-    # Sort by count (descending) and display
-    sort -t'|' -k1,1nr "$temp_file" | while IFS='|' read -r count tag; do
-        printf "  %-3s %s\n" "$count" "$tag"
     done
-    
-    rm -f "$temp_file"
 else
     echo "All Tags (alphabetical):"
     echo "------------------------"

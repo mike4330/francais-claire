@@ -1,0 +1,18 @@
+{
+    "id": 477,
+    "audioText": "Tu trouves que ce restaurant est trop cher ?",
+    "question": "Tu ______ que ce restaurant est trop cher ?",
+    "questionType": "FIB-reading",
+    "options": [
+        "trouves",
+        "trouve",
+        "trouvez",
+        "trouvais"
+    ],
+    "correct": 0,
+    "explanation": "The correct form is 'trouves' (2nd person singular present of 'trouver'). In French, 'tu trouves' means 'do you think/find'. This is the informal 'you' form asking for someone's opinion about the restaurant being too expensive.",
+    "difficulty": "A2",
+    "source": "Restaurant Opinion",
+    "tags": ["restaurant", "opinion", "prices", "conversation"],
+    "timeCreated": 1720051320
+}

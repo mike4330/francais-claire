@@ -1,0 +1,25 @@
+{
+  "id": 287,
+  "audioText": "J'aurais aimé avoir plus de temps pour finir ce projet important.",
+  "question": "What does the speaker express about the project?",
+  "questionType": "comprehension",
+  "options": [
+    "They would have liked to have more time to finish this important project",
+    "They are happy they had enough time to complete the project successfully",
+    "They think the project was too difficult and should be cancelled",
+    "They believe they need to start the project over from the beginning"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'J'aurais aimé avoir plus de temps' - I would have liked to have more time. The conditional 'aurais' expresses a wish or regret about the past, indicating they didn't have enough time.",
+  "difficulty": "B2",
+  "source": "Work - Project Management",
+  "tags": [
+    "work",
+    "projects",
+    "conditional-mood",
+    "regret",
+    "time-management",
+    "professional"
+  ],
+  "timeCreated": 1751325892
+}

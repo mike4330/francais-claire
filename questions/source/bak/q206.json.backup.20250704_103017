@@ -1,0 +1,22 @@
+{
+  "id": 206,
+  "audioText": "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+  "question": "What did the speaker eat last night?",
+  "questionType": "comprehension",
+  "options": [
+    "A pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce",
+    "A grilled steak with mustard sauce",
+    "Duck breast skewers with a side salad",
+    "A chicken dish with a fragrant mustard sauce"
+  ],
+  "correct": 0,
+  "explanation": "The speaker ate 'une poêlée de seiche avec du gingembre, du piment doux et de la persillade' - a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, described as very tasty.",
+  "difficulty": "B2",
+  "source": "Dinner Menu",
+  "tags": [
+    "food",
+    "dinner",
+    "seafood",
+    "menu"
+  ]
+}

@@ -422,11 +422,17 @@ async function handleClearScoringStats(ws, uuid) {
 
 // Detailed question response tracking
 async function handleTrackDetailedQuestionResponse(ws, data) {
+    let operationStep = 'initialization';
+    
     try {
+        // Step 1: Validate Redis connection
+        operationStep = 'redis_connection_check';
         if (!redisClient.isReady) {
             throw new Error('Redis client not ready');
         }
 
+        // Step 2: Extract and validate input data
+        operationStep = 'input_validation';
         const { uuid, questionId, isCorrect, responseTime, difficulty, questionType } = data;
         
         log('🔍 DETAILED TRACKING - Extracted data:', {
@@ -438,19 +444,43 @@ async function handleTrackDetailedQuestionResponse(ws, data) {
             questionType: questionType
         });
         
-        if (!uuid || !questionId) {
-            throw new Error('UUID and questionId are required for detailed response tracking');
+        // Enhanced validation
+        if (!uuid || typeof uuid !== 'string' || uuid.trim() === '') {
+            throw new Error('UUID is required and must be a non-empty string');
+        }
+        
+        if (!questionId || (typeof questionId !== 'number' && typeof questionId !== 'string')) {
+            throw new Error('questionId is required and must be a number or string');
+        }
+        
+        // Convert questionId to number if it's a string
+        const numericQuestionId = parseInt(questionId);
+        if (isNaN(numericQuestionId)) {
+            throw new Error(`questionId must be a valid number, got: ${questionId}`);
+        }
+        
+        if (typeof isCorrect !== 'boolean') {
+            throw new Error(`isCorrect must be a boolean, got: ${typeof isCorrect}`);
+        }
+        
+        // Validate responseTime if provided
+        if (responseTime !== null && responseTime !== undefined) {
+            const numericResponseTime = parseFloat(responseTime);
+            if (isNaN(numericResponseTime) || numericResponseTime < 0) {
+                throw new Error(`responseTime must be a positive number, got: ${responseTime}`);
+            }
         }
 
         const timestamp = Date.now();
-        const responseKey = `response:${uuid}:${questionId}:${timestamp}`;
+        const responseKey = `response:${uuid}:${numericQuestionId}:${timestamp}`;
         
         log('📝 DETAILED TRACKING - Storing individual response with key:', responseKey);
         
-        // Store detailed response data
+        // Step 3: Store individual response data
+        operationStep = 'store_individual_response';
         const responseData = {
             uuid,
-            questionId,
+            questionId: numericQuestionId,
             isCorrect: !!isCorrect,
             responseTime: responseTime || null,
             difficulty: difficulty || null,
@@ -459,12 +489,24 @@ async function handleTrackDetailedQuestionResponse(ws, data) {
             date: new Date(timestamp).toISOString()
         };
         
-        // Store individual response (expires after 90 days)
-        await redisClient.setEx(responseKey, 7776000, JSON.stringify(responseData));
+        try {
+            // Store individual response (expires after 90 days)
+            await redisClient.setEx(responseKey, 7776000, JSON.stringify(responseData));
+            log('✅ DETAILED TRACKING - Individual response stored successfully');
+        } catch (storeError) {
+            throw new Error(`Failed to store individual response: ${storeError.message}`);
+        }
         
-        // Update question-specific analytics
-        const questionStatsKey = `question_stats:${questionId}`;
-        const questionStats = await redisClient.hGetAll(questionStatsKey);
+        // Step 4: Update question-specific analytics
+        operationStep = 'update_question_analytics';
+        const questionStatsKey = `question_stats:${numericQuestionId}`;
+        
+        let questionStats;
+        try {
+            questionStats = await redisClient.hGetAll(questionStatsKey);
+        } catch (getStatsError) {
+            throw new Error(`Failed to get question stats: ${getStatsError.message}`);
+        }
         
         const totalAttempts = parseInt(questionStats.total_attempts || '0') + 1;
         const correctAttempts = parseInt(questionStats.correct_attempts || '0') + (isCorrect ? 1 : 0);
@@ -472,31 +514,43 @@ async function handleTrackDetailedQuestionResponse(ws, data) {
         const successRate = Math.round((correctAttempts / totalAttempts) * 100);
         const avgResponseTime = responseTime ? Math.round(totalResponseTime / totalAttempts) : null;
         
-        // Update question statistics
-        await redisClient.hSet(questionStatsKey, {
-            total_attempts: totalAttempts.toString(),
-            correct_attempts: correctAttempts.toString(),
-            success_rate: successRate.toString(),
-            total_response_time: totalResponseTime.toString(),
-            avg_response_time: avgResponseTime ? avgResponseTime.toString() : '0',
-            last_answered: timestamp.toString(),
-            difficulty: difficulty || 'unknown',
-            question_type: questionType || 'unknown'
-        });
+        try {
+            // Update question statistics
+            await redisClient.hSet(questionStatsKey, {
+                total_attempts: totalAttempts.toString(),
+                correct_attempts: correctAttempts.toString(),
+                success_rate: successRate.toString(),
+                total_response_time: totalResponseTime.toString(),
+                avg_response_time: avgResponseTime ? avgResponseTime.toString() : '0',
+                last_answered: timestamp.toString(),
+                difficulty: difficulty || 'unknown',
+                question_type: questionType || 'unknown'
+            });
+            
+            // Set expiration for question stats (1 year)
+            await redisClient.expire(questionStatsKey, 31536000);
+            log('✅ DETAILED TRACKING - Question stats updated successfully');
+        } catch (updateStatsError) {
+            throw new Error(`Failed to update question stats: ${updateStatsError.message}`);
+        }
         
-        // Set expiration for question stats (1 year)
-        await redisClient.expire(questionStatsKey, 31536000);
-        
-        // Also track per-user, per-question statistics for personalized feedback
-        const userQuestionKey = `user_question:${uuid}:${questionId}`;
+        // Step 5: Update per-user, per-question statistics
+        operationStep = 'update_user_question_stats';
+        const userQuestionKey = `user_question:${uuid}:${numericQuestionId}`;
         log('👤 DETAILED TRACKING - Getting user question stats for key:', userQuestionKey);
-        const userQuestionStats = await redisClient.hGetAll(userQuestionKey);
+        
+        let userQuestionStats;
+        try {
+            userQuestionStats = await redisClient.hGetAll(userQuestionKey);
+        } catch (getUserStatsError) {
+            throw new Error(`Failed to get user question stats: ${getUserStatsError.message}`);
+        }
         
         const userTotalAttempts = parseInt(userQuestionStats.attempts || '0') + 1;
         const userCorrectAttempts = parseInt(userQuestionStats.correct || '0') + (isCorrect ? 1 : 0);
         const userSuccessRate = Math.round((userCorrectAttempts / userTotalAttempts) * 100);
         
-        log('👤 DETAILED TRACKING - User stats for Q' + questionId + ':', {
+        log('👤 DETAILED TRACKING - User stats for Q' + numericQuestionId + ':', {
             previousAttempts: parseInt(userQuestionStats.attempts || '0'),
             newTotalAttempts: userTotalAttempts,
             previousCorrect: parseInt(userQuestionStats.correct || '0'),
@@ -504,25 +558,32 @@ async function handleTrackDetailedQuestionResponse(ws, data) {
             newSuccessRate: userSuccessRate + '%'
         });
         
-        await redisClient.hSet(userQuestionKey, {
-            attempts: userTotalAttempts.toString(),
-            correct: userCorrectAttempts.toString(),
-            success_rate: userSuccessRate.toString(),
-            last_attempted: timestamp.toString(),
-            question_id: questionId.toString(),
-            difficulty: difficulty || 'unknown',
-            question_type: questionType || 'unknown'
-        });
-        
-        // Set expiration for user question stats (1 year)
-        await redisClient.expire(userQuestionKey, 31536000);
+        try {
+            await redisClient.hSet(userQuestionKey, {
+                attempts: userTotalAttempts.toString(),
+                correct: userCorrectAttempts.toString(),
+                success_rate: userSuccessRate.toString(),
+                last_attempted: timestamp.toString(),
+                question_id: numericQuestionId.toString(),
+                difficulty: difficulty || 'unknown',
+                question_type: questionType || 'unknown'
+            });
+            
+            // Set expiration for user question stats (1 year)
+            await redisClient.expire(userQuestionKey, 31536000);
+            log('✅ DETAILED TRACKING - User question stats updated successfully');
+        } catch (updateUserStatsError) {
+            throw new Error(`Failed to update user question stats: ${updateUserStatsError.message}`);
+        }
         
         log('💾 DETAILED TRACKING - Saved user question stats to Redis');
-        log(`📝 DETAILED TRACKING COMPLETE: Q${questionId} | ${uuid} | ${isCorrect ? 'CORRECT' : 'INCORRECT'} | ${responseTime}ms | Global: ${successRate}% | Personal: ${userSuccessRate}%`);
+        log(`📝 DETAILED TRACKING COMPLETE: Q${numericQuestionId} | ${uuid} | ${isCorrect ? 'CORRECT' : 'INCORRECT'} | ${responseTime}ms | Global: ${successRate}% | Personal: ${userSuccessRate}%`);
 
+        // Step 6: Send response to client
+        operationStep = 'send_response';
         const responseMessage = {
             type: 'detailed_response_tracked',
-            questionId,
+            questionId: numericQuestionId,
             uuid,
             isCorrect,
             totalAttempts,
@@ -538,10 +599,21 @@ async function handleTrackDetailedQuestionResponse(ws, data) {
         ws.send(JSON.stringify(responseMessage));
 
     } catch (error) {
-        log('❌ Track detailed response error:', error.message);
+        // Enhanced error logging with operation context
+        log('❌ Track detailed response error at step:', operationStep);
+        log('❌ Error details:', {
+            message: error.message,
+            stack: error.stack,
+            data: data,
+            timestamp: new Date().toISOString()
+        });
+        
+        // Send detailed error message to client for debugging
         ws.send(JSON.stringify({
             type: 'error',
-            message: 'Detailed response tracking failed'
+            message: `Detailed response tracking failed at step: ${operationStep}`,
+            error: error.message,
+            timestamp: new Date().toISOString()
         }));
     }
 }
