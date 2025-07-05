@@ -862,8 +862,7 @@
       "tags": [
         "greeting",
         "family",
-        "daily-routine",
-        "dire"
+        "daily-routine"
       ]
     },
     {
@@ -1297,13 +1296,13 @@
       "question": "When will the person go to town?",
       "questionType": "comprehension",
       "options": [
-        "Next night",
+        "Tomorrow night",
         "This morning",
         "Last week",
         "Tomorrow afternoon"
       ],
       "correct": 0,
-      "explanation": "The French text says 'Tu iras en ville la nuit prochaine' which means 'You will go to town next night.' The conjugate 'iras' is the second person singular future form of aller (to go).",
+      "explanation": "The text states '<em>Tu iras en ville la nuit prochaine</em>' - You will go to town tomorrow night. The verb 'iras' is the second person singular future form of 'aller' (to go), and 'la nuit prochaine' means tomorrow night.",
       "difficulty": "A2",
       "source": "Future tense practice with aller",
       "tags": [
@@ -1393,7 +1392,7 @@
         "Distant and independent"
       ],
       "correct": 0,
-      "explanation": "The text says 'Il faut que tu sois gentil avec ton petit frère cette année' - You need to be kind with your little brother this year. 'Sois' is the subjunctive form of 'être' (to be), and 'an' means year.",
+      "explanation": "The text states '<em>Il faut que tu sois gentil avec ton petit frère cette année</em>' - You need to be kind with your little brother this year. 'Sois' is the subjunctive form of 'être' (to be), required after 'il faut que', and 'gentil' means kind or nice.",
       "difficulty": "A2",
       "source": "Family Relationships and Behavior",
       "tags": [
@@ -1519,7 +1518,7 @@
         "Tu pensez souvent à ta famille ?"
       ],
       "correct": 0,
-      "explanation": "The correct form is 'tu penses' (you think) - second person singular present of 'penser'. This form was identified as missing from our question bank despite being very frequent in French.",
+      "explanation": "The text states '<em>Tu penses souvent à ta famille ?</em>' - Do you often think about your family? The correct form is 'tu penses' (you think), the second person singular present of 'penser'. The distractors test homophone confusion ('panses'), vocabulary substitution ('amis'), and verb agreement ('pensez').",
       "difficulty": "A2",
       "source": "Daily conversation about family thoughts",
       "tags": [
@@ -1541,7 +1540,7 @@
         "Mon père parlons français très bien."
       ],
       "correct": 0,
-      "explanation": "The correct sentence is 'Mon père parlait français très bien.' - My father spoke French very well. The correct form is 'parlait' - imperfect tense of 'parler' (was speaking/used to speak). This conjugation was identified as missing despite being highly frequent in storytelling and past descriptions.",
+      "explanation": "The text states '<em>Mon père parlait français très bien</em>' - My father spoke French very well. The correct form is 'parlait', the imperfect tense of 'parler' (to speak), indicating a past habitual action. The distractors test tense confusion (present 'parle', future 'parlera') and agreement error ('parlons').",
       "difficulty": "A2",
       "source": "Family description and past abilities",
       "tags": [
@@ -1604,7 +1603,7 @@
         "C'est vras, il fait beau aujourd'hui."
       ],
       "correct": 0,
-      "explanation": "The correct form is 'vrai' (true/real) - a very high-frequency adjective missing from our coverage. This sentence also introduces 'beau' (beautiful), another missing adjective.",
+      "explanation": "The text states '<em>C'est vrai, il fait beau aujourd'hui</em>' - That's true, the weather is nice today. The correct form is 'vrai' (true), which remains unchanged in this expression. The distractors test spelling variations of this common word.",
       "difficulty": "A2",
       "source": "Weather conversation and agreement",
       "tags": [
@@ -4536,13 +4535,396 @@
         "cooking"
       ],
       "timeCreated": 1720134000
+    },
+    {
+      "id": 220,
+      "audioText": "Ma chambre est au deuxième étage.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Ma chambre est au deuxième étage.",
+        "Ma chambre est au premier étage.",
+        "Ma chambre est au troisième étage.",
+        "Ma chambre est au rez-de-chaussée."
+      ],
+      "correct": 0,
+      "explanation": "The speaker said '<em>Ma chambre est au deuxième étage</em>' - My room is on the second floor. The key distinction is 'deuxième étage' (second floor) versus other floor levels.",
+      "difficulty": "A2",
+      "source": "Home Description",
+      "tags": [
+        "home",
+        "rooms",
+        "location",
+        "house-layout"
+      ],
+      "parentQuestion": 153,
+      "timeCreated": 1736063100
+    },
+    {
+      "id": 221,
+      "audioText": "Mes grands-parents aimaient beaucoup jouer aux cartes ensemble le soir.",
+      "question": "What did the grandparents like to do?",
+      "questionType": "comprehension",
+      "options": [
+        "Play cards together in the evening",
+        "Watch television together in the evening",
+        "Read books together in the evening",
+        "Listen to music together in the evening"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mes grands-parents aimaient beaucoup jouer aux cartes ensemble le soir</em>' - My grandparents really liked to play cards together in the evening. 'Aimaient' is the imperfect form of 'aimer' (to like/love) for 3rd person plural, indicating a habitual past action.",
+      "difficulty": "A2",
+      "source": "Family activities",
+      "tags": [
+        "family",
+        "hobbies",
+        "grandparents",
+        "games"
+      ],
+      "timeCreated": 1736064500
+    },
+    {
+      "id": 222,
+      "audioText": "Elle part en vacances demain matin très tôt.",
+      "question": "Elle ______ en vacances demain matin très tôt.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "part",
+        "parte",
+        "partir",
+        "partez"
+      ],
+      "correct": 0,
+      "explanation": "The text contains '<em>Elle part en vacances demain matin très tôt</em>' - She leaves/goes on vacation tomorrow morning very early. 'Part' is the 3rd person singular present form of 'partir' (to leave/go), used with 'elle' (she).",
+      "difficulty": "A2",
+      "source": "Travel departure",
+      "tags": [
+        "travel",
+        "vacation",
+        "departure",
+        "time"
+      ],
+      "timeCreated": 1736065200
+    },
+    {
+      "id": 223,
+      "audioText": "Les nouvelles règles de sécurité ont été suivies par tous les employés.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Les nouvelles règles de sécurité ont été suivies par tous les employés.",
+        "Les nouvelles règles de sécurité ont été suivis par tous les employés.",
+        "Les nouvelles règles de sécurité ont été suivie par tous les employés.",
+        "Les nouvelles règles de sécurité ont été suivi par tous les employés."
+      ],
+      "correct": 0,
+      "explanation": "The speaker said '<em>Les nouvelles règles de sécurité ont été suivies par tous les employés</em>' - The new safety rules have been followed by all employees. 'Suivies' is the feminine plural past participle of 'suivre' (to follow), agreeing with the feminine plural noun 'règles' (rules).",
+      "difficulty": "A2",
+      "source": "Workplace safety",
+      "tags": [
+        "workplace",
+        "safety",
+        "rules",
+        "employees"
+      ],
+      "timeCreated": 1736065400
+    },
+    {
+      "id": 224,
+      "audioText": "Mon frère aidera papa à réparer la voiture samedi matin.",
+      "question": "Mon frère ______ papa à réparer la voiture samedi matin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aidera",
+        "aide",
+        "aidait",
+        "aiderait"
+      ],
+      "correct": 0,
+      "explanation": "The text contains '<em>Mon frère aidera papa à réparer la voiture samedi matin</em>' - My brother will help dad repair the car Saturday morning. 'Aidera' is the future tense of 'aider' (to help), indicating a planned action for Saturday.",
+      "difficulty": "A2",
+      "source": "Family car repair",
+      "tags": [
+        "family",
+        "help",
+        "cars",
+        "weekend",
+        "father"
+      ],
+      "timeCreated": 1736065800
+    },
+    {
+      "id": 225,
+      "audioText": "En attendant le guide, nous préparons nos sacs à dos pour la randonnée.",
+      "question": "En ______ le guide, nous préparons nos sacs à dos pour la randonnée.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "attendant",
+        "attendre",
+        "attends",
+        "attend"
+      ],
+      "correct": 0,
+      "explanation": "The text contains 'En attendant le guide, nous préparons nos sacs à dos pour la randonnée' - While waiting for the guide, we prepare our backpacks for the hike. 'Attendant' is the present participle of 'attendre' (to wait), used after 'en' to express simultaneous actions.",
+      "difficulty": "A2",
+      "source": "Hiking preparation",
+      "tags": [
+        "hiking",
+        "preparation",
+        "outdoor",
+        "guide",
+        "waiting"
+      ],
+      "timeCreated": 1736066000
+    },
+    {
+      "id": 226,
+      "audioText": "Tenez, voici votre café et un croissant.",
+      "question": "What does the person give?",
+      "questionType": "comprehension",
+      "options": [
+        "A book and a pen",
+        "Your coffee and a croissant",
+        "A glass of water",
+        "The bill"
+      ],
+      "correct": 1,
+      "explanation": "The word 'Tenez' is a formal way of saying 'Here, take this' or 'Here you go'. The sentence means 'Here is your coffee and a croissant.'",
+      "difficulty": "A2",
+      "source": "Gemini CLI",
+      "tags": [
+        "bakery",
+        "cafe",
+        "daily-life"
+      ],
+      "timeCreated": 1720181339
+    },
+    {
+      "id": 227,
+      "audioText": "Marie joue de la musique classique au piano tous les dimanches matin.",
+      "question": "When does Marie play classical music?",
+      "questionType": "comprehension",
+      "options": [
+        "Every Sunday morning on the piano",
+        "Every evening after dinner",
+        "Only during the weekend afternoons",
+        "Three times a week in the evening"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Marie joue de la musique classique au piano tous les dimanches matin</em>' - Marie plays classical music on the piano every Sunday morning. 'Tous les dimanches matin' means every Sunday morning.",
+      "difficulty": "A2",
+      "source": "Family routine",
+      "tags": [
+        "classical-music",
+        "hobbies",
+        "schedule"
+      ],
+      "timeCreated": 1704414360
+    },
+    {
+      "id": 228,
+      "audioText": "Ils diront la vérité demain matin.",
+      "question": "When will they tell the truth?",
+      "questionType": "comprehension",
+      "options": [
+        "Tomorrow morning.",
+        "Yesterday morning.",
+        "This morning.",
+        "Next week."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ils diront la vérité demain matin</em>' - They will tell the truth tomorrow morning. The verb 'diront' is the future tense of 'dire' (to say/tell) and 'demain matin' means tomorrow morning.",
+      "difficulty": "A2",
+      "source": "Future planning conversation",
+      "tags": [
+        "truth",
+        "future-plans",
+        "conversation"
+      ],
+      "timeCreated": 1720108800
+    },
+    {
+      "id": 229,
+      "audioText": "Paul fait de l'exercice tous les matins avant le travail.",
+      "question": "When does Paul exercise?",
+      "questionType": "comprehension",
+      "options": [
+        "Every morning before work",
+        "Every evening after work",
+        "Only on weekends",
+        "During his lunch break"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Paul fait de l'exercice tous les matins avant le travail</em>' - Paul exercises every morning before work. 'Tous les matins' means every morning and 'avant le travail' means before work.",
+      "difficulty": "A2",
+      "source": "Daily routine",
+      "tags": [
+        "exercise",
+        "daily-life",
+        "schedule"
+      ],
+      "timeCreated": 1704414660
+    },
+    {
+      "id": 230,
+      "audioText": "Vous sentez cette odeur de pain frais dans la boulangerie ?",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Vous sentez cette odeur de pain frais dans la boulangerie ?",
+        "Vous entendez cette odeur de pain frais dans la boulangerie ?",
+        "Vous sentez cette odeur de pain froid dans la boulangerie ?",
+        "Vous voyez cette odeur de pain frais dans la boulangerie ?"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous sentez cette odeur de pain frais dans la boulangerie ?</em>' - Do you smell this fresh bread scent in the bakery? 'Sentez' is the second person plural/polite form of 'sentir' (to smell/feel), and the distractors test confusion with other senses like hearing and seeing.",
+      "difficulty": "A2",
+      "source": "Bakery visit",
+      "tags": [
+        "food",
+        "senses",
+        "bakery"
+      ],
+      "timeCreated": 1704414720
+    },
+    {
+      "id": 231,
+      "audioText": "Les enfants jouent au football dans le parc tous les dimanches.",
+      "question": "Les enfants ______ au football dans le parc tous les dimanches.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "jouent",
+        "joue",
+        "joues",
+        "jouons"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les enfants jouent au football dans le parc tous les dimanches</em>' - The children play soccer in the park every Sunday. 'Jouent' is the third person plural form of 'jouer' (to play), agreeing with 'les enfants' (the children).",
+      "difficulty": "A2",
+      "source": "Weekend activities",
+      "tags": [
+        "sports",
+        "children",
+        "weekend"
+      ],
+      "timeCreated": 1704414900
+    },
+    {
+      "id": 232,
+      "audioText": "Marc arrive toujours à l'heure pour ses rendez-vous importants.",
+      "question": "Marc arrive toujours ______ pour ses rendez-vous importants.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "à l'heure",
+        "en retard",
+        "trop tôt",
+        "en avance"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Marc arrive toujours à l'heure pour ses rendez-vous importants</em>' - Marc always arrives on time for his important appointments. 'À l'heure' means on time, showing good punctuality for professional meetings.",
+      "difficulty": "A2",
+      "source": "Professional habits",
+      "tags": [
+        "punctuality",
+        "appointments",
+        "professionalism"
+      ],
+      "timeCreated": 1704414960
+    },
+    {
+      "id": 233,
+      "audioText": "Les familles sortent du parc après le pique-nique du dimanche.",
+      "question": "When do the families leave the park?",
+      "questionType": "comprehension",
+      "options": [
+        "After Sunday's picnic",
+        "Before the picnic starts",
+        "During the afternoon games",
+        "Early in the morning"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les familles sortent du parc après le pique-nique du dimanche</em>' - The families leave the park after Sunday's picnic. 'Sortent' is the third person plural form of 'sortir' (to exit/leave).",
+      "difficulty": "A2",
+      "source": "Park activities",
+      "tags": [
+        "parks",
+        "family",
+        "weekend"
+      ],
+      "timeCreated": 1704415020
+    },
+    {
+      "id": 234,
+      "audioText": "Les voyageurs demandent des informations sur les trains pour Lyon à la gare.",
+      "question": "What are the travelers asking for information about?",
+      "questionType": "comprehension",
+      "options": [
+        "Trains to Lyon at the train station",
+        "Bus schedules to Paris at the depot",
+        "Flight times to Nice at the airport",
+        "Hotel reservations in Lyon downtown"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les voyageurs demandent des informations sur les trains pour Lyon à la gare</em>' - The travelers are asking for information about trains to Lyon at the train station. 'Demandent' is the third person plural form of 'demander' (to ask for).",
+      "difficulty": "A2",
+      "source": "Train station",
+      "tags": [
+        "trains",
+        "travel",
+        "information"
+      ],
+      "timeCreated": 1704415080
+    },
+    {
+      "id": 235,
+      "audioText": "Tu aides ta mère avec les courses chaque samedi ?",
+      "question": "Tu ______ ta mère avec les courses chaque samedi ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aides",
+        "aide",
+        "aidez",
+        "aidons"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu aides ta mère avec les courses chaque samedi ?</em>' - Do you help your mother with the shopping every Saturday? 'Aides' is the second person singular form of 'aider' (to help), agreeing with 'tu'.",
+      "difficulty": "A2",
+      "source": "Family chores",
+      "tags": [
+        "family",
+        "helping",
+        "shopping"
+      ],
+      "timeCreated": 1704415260
+    },
+    {
+      "id": 236,
+      "audioText": "Mes cousins reviennent du mariage de leur sœur dimanche soir.",
+      "question": "When are the cousins returning from the wedding?",
+      "questionType": "comprehension",
+      "options": [
+        "Sunday evening from their sister's wedding",
+        "Saturday morning from their cousin's wedding",
+        "Monday afternoon from their friend's wedding",
+        "Friday night from their brother's wedding"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mes cousins reviennent du mariage de leur sœur dimanche soir</em>' - My cousins are returning from their sister's wedding Sunday evening. 'Reviennent' is the third person plural form of 'revenir' (to return/come back).",
+      "difficulty": "A2",
+      "source": "Family event",
+      "tags": [
+        "wedding",
+        "family",
+        "returning"
+      ],
+      "timeCreated": 1704415320
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-05T00:58:38.132Z",
-    "totalQuestions": 198,
+    "compiledAt": "2025-07-05T15:21:40.725Z",
+    "totalQuestions": 215,
     "level": "A",
-    "idRange": "1-226",
+    "idRange": "1-251",
     "difficulties": [
       "A1",
       "A2"
