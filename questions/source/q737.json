@@ -1,18 +1,18 @@
 {
     "id": 737,
-    "audioText": "Cette envie irrépressible de voyager et de découvrir de nouveaux horizons caractérise toute une génération de jeunes aventuriers contemporains qui refusent la sédentarité.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
+    "audioText": "Les nouveaux cours de natation pour adultes commencent lundi prochain à la piscine municipale.",
+    "question": "When do the new adult swimming classes start?",
+    "questionType": "comprehension",
     "options": [
-        "Cette envie irrépressible de voyager et de découvrir de nouveaux horizons caractérise toute une génération de jeunes aventuriers contemporains qui refusent la sédentarité.",
-        "Cette envie irrésistible de voyager et de découvrir de nouveaux horizons caractérise toute une génération de jeunes aventuriers contemporains qui refusent la sédentarité.",
-        "Cette envie irrépressible de voyager et de découvrir de nouveaux horizons caractérise toute une génération de jeunes aventuriers modernes qui refusent la sédentarité.",
-        "Cette envie irrépressible de voyager et de découvrir de nouveaux territoires caractérise toute une génération de jeunes aventuriers contemporains qui refusent la sédentarité."
+        "Next Monday at the municipal pool",
+        "This weekend at the sports center",
+        "Tomorrow at the private club",
+        "Next week at the beach"
     ],
     "correct": 0,
-    "explanation": "La phrase exacte contenait 'irrépressible' (pas 'irrésistible'), 'contemporains' (pas 'modernes'), et 'horizons' (pas 'territoires'). Cette phrase explore le désir de mobilité géographique chez les jeunes générations qui rejettent un mode de vie sédentaire.",
-    "difficulty": "C2",
-    "source": "Generational travel psychology and lifestyle choices",
-    "tags": ["travel", "psychology", "generations", "lifestyle"],
-    "timeCreated": 1735948440
+    "explanation": "The text states '<em>Les nouveaux cours de natation pour adultes commencent lundi prochain à la piscine municipale</em>' - The new adult swimming classes start next Monday at the municipal pool. 'Natation' means swimming and 'piscine municipale' means municipal pool.",
+    "difficulty": "A2",
+    "source": "Recreation center",
+    "tags": ["swimming", "sports", "recreation"],
+    "timeCreated": 1704414120
 }

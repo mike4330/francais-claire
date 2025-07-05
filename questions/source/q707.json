@@ -1,22 +1,18 @@
 {
-  "id": 707,
-  "audioText": "Soyons honnêtes sur cette situation complexe qui nécessite une approche nuancée et réfléchie.",
-  "question": "What does the speaker suggest about their approach?",
-  "questionType": "comprehension",
-  "options": [
-    "They should be honest about the complex situation",
-    "They should avoid discussing the situation",
-    "They should simplify the complex problem",
-    "They should postpone making any decisions"
-  ],
-  "correct": 0,
-  "explanation": "The sentence uses 'soyons' (imperative 1st person plural of être) to suggest being honest about a complex situation requiring a nuanced approach.",
-  "difficulty": "C2",
-  "source": "Formal discussion requiring diplomatic approach",
-  "tags": [
-    "formal-discussion",
-    "honesty",
-    "complex-situations"
-  ],
-  "timeCreated": 1719936240
+    "id": 707,
+    "audioText": "Que cherches-tu exactement dans cette relation amoureuse?",
+    "question": "What is the person looking for in this romantic relationship?",
+    "questionType": "comprehension",
+    "options": [
+        "The question asks what exactly they are seeking",
+        "They are looking for financial security",
+        "They want to find their soulmate",
+        "They are seeking adventure and excitement"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Que cherches-tu exactement dans cette relation amoureuse?' - What are you looking for exactly in this romantic relationship? 'Cherches' is the second person singular present tense of 'chercher' (to look for), in interrogative form asking about relationship expectations.",
+    "difficulty": "B1",
+    "source": "Relationship expectations",
+    "tags": ["relationships", "love", "expectations", "personal-goals", "dating"],
+    "timeCreated": 1736067500
 }

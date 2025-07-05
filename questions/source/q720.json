@@ -1,22 +1,18 @@
 {
-  "id": 720,
-  "audioText": "Je ne croie pas que cette méthode de jardinage soit vraiment efficace pour cultiver ces plantes exotiques.",
-  "question": "What is the speaker's opinion about the gardening method?",
-  "questionType": "comprehension",
-  "options": [
-    "They don't believe it's effective for growing exotic plants",
-    "They think it's the best method for growing exotic plants",
-    "They believe it works well for all types of plants",
-    "They are certain it will improve plant growth significantly"
-  ],
-  "correct": 0,
-  "explanation": "The French sentence uses 'croie' - the subjunctive form of 'croire' (to believe) for je. 'Je ne croie pas' means 'I don't believe'. The subjunctive is used to express doubt or uncertainty about the effectiveness of the gardening method.",
-  "difficulty": "C1",
-  "source": "Gardening technique discussion",
-  "tags": [
-    "gardening",
-    "opinion",
-    "techniques"
-  ],
-  "timeCreated": 1720108800
+    "id": 720,
+    "audioText": "Ma sœur habite là-bas, dans cette petite ville près de la montagne.",
+    "question": "Where does the speaker's sister live?",
+    "questionType": "comprehension",
+    "options": [
+        "Over there, in a small town near the mountain",
+        "Here, in the same city as the speaker",
+        "Far away, in another country",
+        "Nearby, in the next neighborhood"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma sœur habite là-bas, dans cette petite ville près de la montagne</em>' - My sister lives over there, in that small town near the mountain. 'Là-bas' means 'over there' and indicates a location that is somewhat distant from the speaker.",
+    "difficulty": "B1",
+    "source": "Family conversation",
+    "tags": ["family", "location", "daily-life"],
+    "timeCreated": 1704412920
 }

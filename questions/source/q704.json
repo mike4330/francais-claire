@@ -1,22 +1,18 @@
 {
-  "id": 704,
-  "audioText": "Le ministre fut contraint de démissionner suite aux révélations sur ses liens avec cette affaire de corruption.",
-  "question": "What happened to the minister?",
-  "questionType": "comprehension",
-  "options": [
-    "He was forced to resign",
-    "He was promoted to a higher position",
-    "He denied all allegations",
-    "He remained in office"
-  ],
-  "correct": 0,
-  "explanation": "The sentence uses 'fut' (past historic of être) to indicate the minister was forced to resign following corruption revelations.",
-  "difficulty": "C2",
-  "source": "Political news with past historic tense",
-  "tags": [
-    "politics",
-    "corruption",
-    "government"
-  ],
-  "timeCreated": 1719936060
+    "id": 704,
+    "audioText": "Pourquoi demandez-vous toujours des explications supplémentaires pendant les réunions?",
+    "question": "Pourquoi ______ toujours des explications supplémentaires pendant les réunions?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "demandez-vous",
+        "demandez",
+        "demander",
+        "demandons"
+    ],
+    "correct": 0,
+    "explanation": "The text contains 'Pourquoi demandez-vous toujours des explications supplémentaires pendant les réunions?' - Why do you always ask for additional explanations during meetings? 'Demandez-vous' is the second person plural present tense of 'demander' (to ask) in interrogative form.",
+    "difficulty": "B1",
+    "source": "Workplace communication",
+    "tags": ["workplace", "meetings", "communication", "questions", "formal"],
+    "timeCreated": 1736067000
 }

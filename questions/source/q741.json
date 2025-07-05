@@ -1,23 +1,18 @@
 {
-  "id": 741,
-  "audioText": "La réaction qu'elle a eue face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion.",
-  "question": "La réaction qu'elle a ______ face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion.",
-  "questionType": "FIB-reading",
-  "options": [
-    "eue",
-    "eu",
-    "avoir",
-    "ayant"
-  ],
-  "correct": 0,
-  "explanation": "The correct form is 'eue' (feminine past participle of 'avoir'). It agrees with 'la réaction' (feminine). The construction is 'la réaction qu'elle a eue' - the reaction that she had.",
-  "difficulty": "C1",
-  "source": "Professional Meeting",
-  "tags": [
-    "workplace",
-    "reactions",
-    "meetings",
-    "unexpected-news"
-  ],
-  "timeCreated": 1719964500
+    "id": 741,
+    "audioText": "Mon frère est rentré tard du bureau hier soir après une réunion importante.",
+    "question": "When did the brother return from the office?",
+    "questionType": "comprehension",
+    "options": [
+        "Late last night after an important meeting",
+        "Early this morning before the meeting",
+        "During lunch break yesterday",
+        "Before the meeting started yesterday"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon frère est rentré tard du bureau hier soir après une réunion importante</em>' - My brother returned late from the office last night after an important meeting. 'Rentré' is the past participle of 'rentrer' (to return home).",
+    "difficulty": "B1",
+    "source": "Family conversation",
+    "tags": ["family", "workplace", "schedule"],
+    "timeCreated": 1704414480
 }

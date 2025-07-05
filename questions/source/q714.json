@@ -1,23 +1,18 @@
 {
-  "id": 714,
-  "audioText": "Quand j'étais jeune, je croyais que tous les adultes savaient exactement quoi faire dans la vie.",
-  "question": "What did the narrator believe when they were young?",
-  "questionType": "comprehension",
-  "options": [
-    "That all adults knew exactly what to do in life.",
-    "That life would become easier as they got older.",
-    "That adults never made mistakes or had doubts.",
-    "That everyone had a clear plan for their future."
-  ],
-  "correct": 0,
-  "explanation": "The narrator uses 'croyais' (imperfect of croire - I used to believe) to describe a past belief from childhood: that all adults knew exactly what to do in life.",
-  "difficulty": "C1",
-  "source": "Childhood Reflections",
-  "tags": [
-    "childhood",
-    "maturity",
-    "perspective",
-    "philosophy"
-  ],
-  "timeCreated": 1719962300
+    "id": 714,
+    "audioText": "Ma sœur est revenue de son voyage en Asie avec des souvenirs magnifiques.",
+    "question": "Ma sœur est ______ de son voyage en Asie avec des souvenirs magnifiques.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "revenue",
+        "revenu",
+        "revenus",
+        "revenues"
+    ],
+    "correct": 0,
+    "explanation": "The text contains 'Ma sœur est revenue de son voyage en Asie avec des souvenirs magnifiques' - My sister came back from her trip to Asia with magnificent souvenirs. 'Revenue' is the feminine past participle of 'revenir' (to return), agreeing with 'ma sœur'.",
+    "difficulty": "B2",
+    "source": "Travel return story",
+    "tags": ["travel", "family", "asia", "souvenirs", "return"],
+    "timeCreated": 1736068400
 }

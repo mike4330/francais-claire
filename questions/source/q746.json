@@ -1,27 +1,18 @@
 {
-  "id": 746,
-  "audioText": "Le maire du 12e arrondissement de Marseille, Sylvain Souvestre a condamné cet incendie, précisant: «les propriétaires sont des gens du quartier, un couple qui n'a rien à voir avec le conflit israélo-palestinien».",
-  "question": "Why did the mayor specifically clarify that the property owners have nothing to do with the Israeli-Palestinian conflict?",
-  "questionType": "comprehension",
-  "options": [
-    "To suggest the arson may have been motivated by Middle East tensions, but the victims were uninvolved local residents",
-    "To announce that the property owners were foreign nationals from the Middle East",
-    "To confirm that the arson was definitely committed by supporters of one side in the conflict",
-    "To reveal that the investigation found evidence of international terrorist involvement"
-  ],
-  "correct": 0,
-  "explanation": "The mayor's clarification that the property owners 'n'ont rien à voir avec le conflit israélo-palestinien' - have nothing to do with the Israeli-Palestinian conflict - implies that the arson incident may have been perceived as or actually motivated by tensions related to that conflict. By emphasizing the victims are just 'des gens du quartier' (local people), the mayor is distancing them from any political motivations behind the attack.",
-  "difficulty": "C1",
-  "source": "French Political News - Marseille Incident",
-  "tags": [
-    "politics",
-    "social-tensions",
-    "middle-east-conflict",
-    "crime",
-    "marseille",
-    "antisemitism",
-    "islamophobia",
-    "political-statement"
-  ],
-  "timeCreated": 1735500536
+    "id": 746,
+    "audioText": "Ma grand-mère vivait seule dans sa maison de campagne avant de déménager en ville.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Ma grand-mère vivait seule dans sa maison de campagne avant de déménager en ville.",
+        "Ma grand-mère vivait seule dans sa maison de campagne avant de déménager en banlieue.",
+        "Ma grand-mère vivait seule dans son appartement de campagne avant de déménager en ville.",
+        "Ma grand-mère vit seule dans sa maison de campagne avant de déménager en ville."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma grand-mère vivait seule dans sa maison de campagne avant de déménager en ville</em>' - My grandmother lived alone in her country house before moving to the city. 'Vivait' is the imperfect tense of 'vivre' (to live), indicating a past habitual state. The distractors test location ('banlieue'), dwelling type ('appartement'), and tense confusion (present 'vit').",
+    "difficulty": "B1",
+    "source": "Family history",
+    "tags": ["family", "housing", "countryside"],
+    "timeCreated": 1704415140
 }

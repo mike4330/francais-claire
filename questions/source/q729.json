@@ -1,22 +1,18 @@
 {
-  "id": 729,
-  "audioText": "Autrefois, cette région était couverte de forêts denses avant l'expansion urbaine massive.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
-  "options": [
-    "Autrefois, cette région était couverte de forêts denses avant l'expansion urbaine massive.",
-    "Aujourd'hui, cette région était couverte de forêts denses avant l'expansion urbaine massive.",
-    "Autrefois, cette région était couverte de forêts claires avant l'expansion urbaine massive.",
-    "Autrefois, cette région était couverte de forêts denses après l'expansion urbaine massive."
-  ],
-  "correct": 0,
-  "explanation": "The speaker used 'autrefois' (formerly/in the past) to describe how this region was covered with dense forests before massive urban expansion. The other options change key elements: 'aujourd'hui' (today), 'claires' (light/sparse), or 'après' (after).",
-  "difficulty": "C1",
-  "source": "Historical geography discussion",
-  "tags": [
-    "history",
-    "environment",
-    "urban-development"
-  ],
-  "timeCreated": 1720076580
+    "id": 729,
+    "audioText": "Avez-vous peur de prendre l'avion lors de vos voyages d'affaires?",
+    "question": "What is the person being asked about?",
+    "questionType": "comprehension",
+    "options": [
+        "Whether they are afraid of flying during business trips",
+        "If they prefer trains for vacation travel",
+        "How often they travel for personal reasons",
+        "What their favorite airline company is"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Avez-vous peur de prendre l'avion lors de vos voyages d'affaires?</em>' - Are you afraid of taking planes during your business trips? 'Peur' means fear, and the question asks about fear of flying for work travel.",
+    "difficulty": "B1",
+    "source": "Business travel survey",
+    "tags": ["travel", "business", "fear"],
+    "timeCreated": 1704413460
 }

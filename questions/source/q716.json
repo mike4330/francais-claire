@@ -1,24 +1,18 @@
 {
-  "id": 716,
-  "audioText": "Le PS renoue avec la censure, mais pas avec LFI : « Les socialistes sont revenus à la maison, mais tout n'est pas oublié. C'est à cause d'eux que le gouvernement a pu adopter le pire budget depuis des années »",
-  "question": "What is the relationship between PS and LFI regarding the censure motion?",
-  "questionType": "comprehension",
-  "options": [
-    "PS and LFI are working together on the censure motion",
-    "PS supports censure but is not cooperating with LFI",
-    "LFI has convinced PS to abandon the censure motion",
-    "Both parties oppose any censure motion"
-  ],
-  "correct": 1,
-  "explanation": "'Le PS renoue avec la censure, mais pas avec LFI' - PS reconnects with censure, but not with LFI. The quote suggests PS has 'returned home' (to opposition politics) but hasn't forgiven LFI's role in allowing 'the worst budget in years' to pass.",
-  "difficulty": "C2",
-  "source": "French Parliamentary Politics",
-  "tags": [
-    "politics",
-    "parliament",
-    "censure",
-    "socialist-party",
-    "coalition",
-    "budget"
-  ]
+    "id": 716,
+    "audioText": "Quand j'étais petit, ma grand-mère jouait du piano tous les dimanches après-midi.",
+    "question": "What did the grandmother do every Sunday afternoon?",
+    "questionType": "comprehension",
+    "options": [
+        "She played the piano",
+        "She cooked traditional meals",
+        "She read stories aloud",
+        "She worked in her garden"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Quand j'étais petit, ma grand-mère jouait du piano tous les dimanches après-midi' - When I was little, my grandmother played the piano every Sunday afternoon. 'Jouait' is the third person singular imperfect tense of 'jouer' (to play), describing a past habit.",
+    "difficulty": "B2",
+    "source": "Childhood music memories",
+    "tags": ["childhood", "family", "music", "piano", "memories"],
+    "timeCreated": 1736068600
 }

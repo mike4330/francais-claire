@@ -1,22 +1,18 @@
 {
-  "id": 727,
-  "audioText": "Le bureau du directeur se trouve au-dessus de la bibliothèque dans ce bâtiment administratif moderne.",
-  "question": "Le bureau du directeur se trouve ______ de la bibliothèque dans ce bâtiment administratif moderne.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "au-dessus",
-    "au-dessous",
-    "à côté",
-    "en face"
-  ],
-  "correct": 0,
-  "explanation": "The adverb 'au-dessus' means 'above' or 'over'. It indicates that the director's office is located on a floor above the library in this modern administrative building.",
-  "difficulty": "C1",
-  "source": "Office building description",
-  "tags": [
-    "workplace",
-    "building",
-    "location"
-  ],
-  "timeCreated": 1720076580
+    "id": 727,
+    "audioText": "Au-dessus de la cheminée, il y a un magnifique tableau ancien.",
+    "question": "Where is the magnificent old painting located?",
+    "questionType": "comprehension",
+    "options": [
+        "Above the fireplace",
+        "Next to the window",
+        "Behind the sofa",
+        "On the dining table"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Au-dessus de la cheminée, il y a un magnifique tableau ancien</em>' - Above the fireplace, there is a magnificent old painting. 'Au-dessus de' means 'above' or 'over'.",
+    "difficulty": "B1",
+    "source": "Home description",
+    "tags": ["home", "location", "art"],
+    "timeCreated": 1704413340
 }

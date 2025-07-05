@@ -1,24 +1,18 @@
 {
-  "id": 700,
-  "audioText": "Je ferai en sorte que cette réforme constitutionnelle soit adoptée dans les délais impartis, même si cela implique de convaincre les parlementaires les plus récalcitrants et de négocier des compromis substantiels avec l'opposition pour garantir une majorité suffisante lors du vote final.",
-  "question": "Je ______ en sorte que cette réforme constitutionnelle soit adoptée dans les délais impartis, même si cela implique de convaincre les parlementaires les plus récalcitrants.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "ferai",
-    "fais",
-    "ferais",
-    "ai fait"
-  ],
-  "correct": 0,
-  "explanation": "The future tense 'ferai' (I will make sure) expresses a firm commitment to ensure the constitutional reform is adopted within the timeframe, despite potential political obstacles.",
-  "difficulty": "C1",
-  "source": "Political commitment regarding constitutional reform",
-  "tags": [
-    "politics",
-    "constitutional-reform",
-    "parliamentary-process",
-    "political-negotiation",
-    "governance"
-  ],
-  "timeCreated": 1735689600
+    "id": 700,
+    "audioText": "Comme il fait chaud, je resterai à la maison ce week-end.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Comme il fait chaud, je resterai à la maison ce week-end.",
+        "Comme il fait chaud, je resterai à la maison ce week-end.",
+        "Comme il fait chaud, je resterai à la maison cette semaine.",
+        "Comme il fait chaud, je resterai à la maison tout l'été."
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'Comme il fait chaud, je resterai à la maison ce week-end.' - Since it's hot, I will stay home this weekend. 'Resterai' is the first person singular future tense of 'rester' (to stay), indicating a decision based on current hot weather conditions.",
+    "difficulty": "A2",
+    "source": "Weekend plans",
+    "tags": ["weather", "weekend", "home", "heat", "plans"],
+    "timeCreated": 1736066500
 }

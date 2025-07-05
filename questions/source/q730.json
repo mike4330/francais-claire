@@ -1,22 +1,18 @@
 {
-  "id": 730,
-  "audioText": "Il fait trop froid dehors, restons dedans près du feu pour nous réchauffer.",
-  "question": "Il fait trop froid dehors, restons ______ près du feu pour nous réchauffer.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "dedans",
-    "dehors",
-    "debout",
-    "derrière"
-  ],
-  "correct": 0,
-  "explanation": "The adverb 'dedans' means 'inside' or 'indoors'. Given that it's too cold outside, the logical suggestion is to stay inside near the fire to warm up, creating a clear contrast between outside (cold) and inside (warm).",
-  "difficulty": "C1",
-  "source": "Winter weather conversation",
-  "tags": [
-    "weather",
-    "comfort",
-    "indoor-activities"
-  ],
-  "timeCreated": 1720076580
+    "id": 730,
+    "audioText": "C'est-à-dire que nous devons complètement repenser notre stratégie commerciale.",
+    "question": "What does this mean according to the speaker?",
+    "questionType": "comprehension",
+    "options": [
+        "They need to completely rethink their business strategy",
+        "They should hire more sales representatives",
+        "They must increase their marketing budget",
+        "They need to change their office location"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>C'est-à-dire que nous devons complètement repenser notre stratégie commerciale</em>' - That is to say that we must completely rethink our business strategy. 'C'est-à-dire' means 'that is to say' or 'in other words'.",
+    "difficulty": "B2",
+    "source": "Business strategy meeting",
+    "tags": ["business", "strategy", "explanation"],
+    "timeCreated": 1704413520
 }

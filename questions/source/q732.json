@@ -1,18 +1,18 @@
 {
     "id": 732,
-    "audioText": "Après cette longue maladie, son visage était devenu étrangement pâle et ses traits tirés révélaient l'épuisement physique.",
-    "question": "Après cette longue maladie, son visage était devenu étrangement ______ et ses traits tirés révélaient l'épuisement physique.",
-    "questionType": "fill-in-the-blank",
+    "audioText": "Cette nouvelle politique économique rend les investissements étrangers plus attractifs.",
+    "question": "What effect does the new economic policy have?",
+    "questionType": "comprehension",
     "options": [
-        "pâle",
-        "rouge",
-        "bronzé",
-        "rayonnant"
+        "It makes foreign investments more attractive",
+        "It reduces international trade agreements",
+        "It limits domestic business growth",
+        "It increases taxation on local companies"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'pâle' meaning 'pale'. After this long illness, his face had become strangely pale and his drawn features revealed physical exhaustion. 'Pâle' describes the lack of color typical after illness.",
-    "difficulty": "C1",
-    "source": "Medical description",
-    "tags": ["health", "illness", "appearance"],
-    "timeCreated": 1720077400
+    "explanation": "The text states '<em>Cette nouvelle politique économique rend les investissements étrangers plus attractifs</em>' - This new economic policy makes foreign investments more attractive. The verb 'rend' (from 'rendre') means to make or render something in a particular state.",
+    "difficulty": "B2",
+    "source": "Economic news",
+    "tags": ["politics", "business", "economics"],
+    "timeCreated": 1704413580
 }

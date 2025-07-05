@@ -1,22 +1,18 @@
 {
-  "id": 726,
-  "audioText": "L'infirmière a parlé doucement au patient pour l'apaiser avant l'intervention chirurgicale délicate qui l'attendait.",
-  "question": "How did the nurse speak to the patient before the surgery?",
-  "questionType": "comprehension",
-  "options": [
-    "Gently and softly to calm him down",
-    "Loudly to get his attention",
-    "Quickly to save time",
-    "Strictly to give clear instructions"
-  ],
-  "correct": 0,
-  "explanation": "The adverb 'doucement' means 'gently' or 'softly'. The nurse spoke in a gentle, soft manner to calm and reassure the patient before his delicate surgical procedure, showing compassionate bedside manner.",
-  "difficulty": "C1",
-  "source": "Medical care scenario",
-  "tags": [
-    "healthcare",
-    "patient-care",
-    "surgery"
-  ],
-  "timeCreated": 1720076520
+    "id": 726,
+    "audioText": "Tiens! Je ne savais pas que tu étais déjà arrivé.",
+    "question": "What does the speaker express?",
+    "questionType": "comprehension",
+    "options": [
+        "Surprise at seeing the person already arrived",
+        "Disappointment that they are late",
+        "Anger about the timing",
+        "Confusion about the location"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tiens! Je ne savais pas que tu étais déjà arrivé</em>' - Well! I didn't know you had already arrived. 'Tiens!' is an exclamation expressing surprise or mild astonishment.",
+    "difficulty": "B2",
+    "source": "Casual conversation",
+    "tags": ["daily-life", "surprise", "conversation"],
+    "timeCreated": 1704413280
 }

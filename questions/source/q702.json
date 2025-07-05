@@ -1,24 +1,18 @@
 {
-  "id": 702,
-  "audioText": "Si nous mobilisions l'ensemble des ressources disponibles et que nous coordonnions efficacement nos efforts avec les organisations partenaires, nous pourrions réaliser une transformation systémique durable de ce secteur d'activité, créant ainsi un modèle reproductible à l'échelle internationale.",
-  "question": "Nous ______ réaliser une transformation systémique durable de ce secteur d'activité, créant ainsi un modèle reproductible à l'échelle internationale.",
-  "questionType": "FIB-reading",
-  "options": [
-    "pourrions",
-    "pourrons",
-    "pouvons",
-    "avons pu"
-  ],
-  "correct": 0,
-  "explanation": "The conditional 'pourrions' (we could) is used in the main clause of a conditional sentence, expressing what would be possible if the conditions mentioned in the 'si' clause were met.",
-  "difficulty": "C1",
-  "source": "Strategic planning for systemic sector transformation",
-  "tags": [
-    "strategic-planning",
-    "systemic-transformation",
-    "international-cooperation",
-    "resource-mobilization",
-    "sustainable-development"
-  ],
-  "timeCreated": 1735689600
+    "id": 702,
+    "audioText": "Les parents laissent leurs enfants choisir leurs propres activités créatives.",
+    "question": "Les parents ______ leurs enfants choisir leurs propres activités créatives.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "laissent",
+        "laissera",
+        "laissaient",
+        "laisseront"
+    ],
+    "correct": 0,
+    "explanation": "The text contains 'Les parents laissent leurs enfants choisir leurs propres activités créatives' - Parents let their children choose their own creative activities. 'Laissent' is the third person plural present tense of 'laisser' (to let), expressing a current parenting approach.",
+    "difficulty": "B2",
+    "source": "Progressive parenting",
+    "tags": ["parenting", "creativity", "children", "freedom", "choice"],
+    "timeCreated": 1736066800
 }

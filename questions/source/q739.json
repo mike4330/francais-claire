@@ -1,22 +1,18 @@
 {
-  "id": 739,
-  "audioText": "La température a chuté brusquement pendant la nuit, provoquant du verglas sur toutes les routes principales de la région.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
-  "options": [
-    "La température a chuté brusquement pendant la nuit, provoquant du verglas sur toutes les routes principales de la région.",
-    "La température a chuté graduellement pendant la nuit, provoquant du verglas sur toutes les routes principales de la région.",
-    "La température a chuté brusquement pendant la journée, provoquant du verglas sur toutes les routes principales de la région.",
-    "La température a chuté brusquement pendant la nuit, provoquant de la neige sur toutes les routes principales de la région."
-  ],
-  "correct": 0,
-  "explanation": "The speaker used 'brusquement' (suddenly/abruptly) to describe how the temperature dropped during the night, causing black ice on all main roads. The other options change key details: 'graduellement' (gradually), 'journée' (day), or 'neige' (snow).",
-  "difficulty": "C2",
-  "source": "Weather emergency report",
-  "tags": [
-    "weather",
-    "emergency",
-    "transportation"
-  ],
-  "timeCreated": 1720076580
+    "id": 739,
+    "audioText": "Si tu perds ce manuscrit médiéval, le musée ne pourra jamais le remplacer.",
+    "question": "What happens if the medieval manuscript is lost?",
+    "questionType": "comprehension",
+    "options": [
+        "The museum will never be able to replace it",
+        "The museum will order a new copy from the publisher",
+        "The museum will digitize other similar manuscripts",
+        "The museum will close the medieval exhibition"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Si tu perds ce manuscrit médiéval, le musée ne pourra jamais le remplacer</em>' - If you lose this medieval manuscript, the museum will never be able to replace it. 'Perds' is the second person singular form of 'perdre' (to lose).",
+    "difficulty": "B1",
+    "source": "Museum guide",
+    "tags": ["history", "museums", "medieval"],
+    "timeCreated": 1704414240
 }

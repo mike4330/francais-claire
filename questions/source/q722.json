@@ -1,22 +1,18 @@
 {
-  "id": 722,
-  "audioText": "Les négociations diplomatiques ont duré longtemps avant qu'un accord ne soit finalement conclu entre les deux nations.",
-  "question": "Les négociations diplomatiques ont duré ______ avant qu'un accord ne soit finalement conclu entre les deux nations.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "longtemps",
-    "rapidement",
-    "récemment",
-    "immédiatement"
-  ],
-  "correct": 0,
-  "explanation": "The adverb 'longtemps' means 'for a long time' or 'a long while'. It indicates that the diplomatic negotiations took an extended period before the two nations finally reached an agreement.",
-  "difficulty": "C1",
-  "source": "International relations news",
-  "tags": [
-    "politics",
-    "diplomacy",
-    "international-relations"
-  ],
-  "timeCreated": 1720076460
+    "id": 722,
+    "audioText": "Je sens que cette décision va changer beaucoup de choses dans notre entreprise.",
+    "question": "How does the speaker feel about the decision?",
+    "questionType": "comprehension",
+    "options": [
+        "They sense it will change many things in their company",
+        "They think it will improve company profits",
+        "They believe it will cause major problems",
+        "They feel it won't have much impact"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je sens que cette décision va changer beaucoup de choses dans notre entreprise</em>' - I sense/feel that this decision will change many things in our company. The verb 'sens' (from 'sentir') means to sense, feel, or have an intuition about something.",
+    "difficulty": "B2",
+    "source": "Business discussion",
+    "tags": ["workplace", "business", "intuition"],
+    "timeCreated": 1704413040
 }

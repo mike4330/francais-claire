@@ -1,19 +1,18 @@
-
 {
     "id": 735,
-    "audioText": "Le rapport des Nations Unies souligne que la pénurie d'eau potable menace des millions de vies, exacerbant les tensions géopolitiques dans plusieurs régions du monde.",
-    "question": "According to the UN report, what is a major consequence of drinking water scarcity?",
+    "audioText": "Là-haut, dans les bureaux de direction, les dirigeants préparent une annonce importante.",
+    "question": "Where are the executives preparing the important announcement?",
     "questionType": "comprehension",
     "options": [
-        "It leads to increased agricultural production.",
-        "It threatens millions of lives and exacerbates geopolitical tensions.",
-        "It promotes international cooperation on water management.",
-        "It has no significant global impact."
+        "Up there, in the executive offices",
+        "Down in the main conference room",
+        "Outside in the courtyard",
+        "In the building's basement"
     ],
-    "correct": 1,
-    "explanation": "The text states: 'la pénurie d'eau potable menace des millions de vies, exacerbant les tensions géopolitiques dans plusieurs régions du monde.' (the scarcity of drinking water threatens millions of lives, exacerbating geopolitical tensions in several regions of the world.)",
-    "difficulty": "C2",
-    "source": "UN Report",
-    "tags": ["environment", "geopolitics", "water-scarcity", "global-issues", "news"],
-    "timeCreated": 1720134000
+    "correct": 0,
+    "explanation": "The text states '<em>Là-haut, dans les bureaux de direction, les dirigeants préparent une annonce importante</em>' - Up there, in the executive offices, the leaders are preparing an important announcement. 'Là-haut' means 'up there' or 'upstairs', indicating a higher location.",
+    "difficulty": "B1",
+    "source": "Corporate news",
+    "tags": ["workplace", "business", "management"],
+    "timeCreated": 1704413760
 }

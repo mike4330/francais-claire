@@ -1,22 +1,18 @@
 {
-  "id": 715,
-  "audioText": "Le mariage du milliardaire et de l'ancienne journaliste Lauren Sanchez doit se tenir dans la cité des Doges. Il aurait décidé de donner un million d'euros à une association de protection de la lagune, ainsi qu'à deux autres organisations locales, pour calmer les esprits.",
-  "question": "Why is the billionaire giving money to local organizations?",
-  "questionType": "comprehension",
-  "options": [
-    "To fund his wedding celebration in Venice",
-    "To support his fiancée's journalism career",
-    "To calm public opinion about the wedding location",
-    "To invest in lagoon tourism development"
-  ],
-  "correct": 2,
-  "explanation": "He gives money 'pour calmer les esprits' - to calm spirits/public opinion. The donations to the lagoon protection association and local organizations are meant to appease concerns about the high-profile wedding in Venice ('la cité des Doges').",
-  "difficulty": "C1",
-  "source": "Celebrity News",
-  "tags": [
-    "celebrity",
-    "marriage",
-    "venice",
-    "environment"
-  ]
+    "id": 715,
+    "audioText": "Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+        "Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+        "Essayez cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+        "Essaierons cette nouvelle recette de cuisine française traditionnelle ce week-end."
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.' - Let's try this new traditional French cooking recipe this weekend. 'Essayons' is the first person plural present imperative of 'essayer' (to try).",
+    "difficulty": "B1",
+    "source": "Weekend cooking plans",
+    "tags": ["cooking", "french-cuisine", "weekend", "tradition", "recipes"],
+    "timeCreated": 1736068500
 }

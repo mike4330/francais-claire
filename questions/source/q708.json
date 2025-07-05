@@ -1,22 +1,18 @@
 {
-  "id": 708,
-  "audioText": "Vous seriez probablement surpris de découvrir combien de personnes partagent cette opinion controversée sur la question.",
-  "question": "What would happen if people discovered the information?",
-  "questionType": "comprehension",
-  "options": [
-    "They would probably be surprised",
-    "They would completely reject it",
-    "They would be completely unsurprised",
-    "They would become angry about it"
-  ],
-  "correct": 0,
-  "explanation": "The sentence uses 'seriez' (conditional 2nd person plural of être) to express that people would probably be surprised to learn how many share this controversial opinion.",
-  "difficulty": "C1",
-  "source": "Discussion of controversial opinions and public perception",
-  "tags": [
-    "public-opinion",
-    "controversy",
-    "social-attitudes"
-  ],
-  "timeCreated": 1719936300
+    "id": 708,
+    "audioText": "Mon projet finit toujours par être retardé à cause de problèmes techniques.",
+    "question": "Mon projet ______ toujours par être retardé à cause de problèmes techniques.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "finit",
+        "finis",
+        "finissent",
+        "finira"
+    ],
+    "correct": 0,
+    "explanation": "The text contains 'Mon projet finit toujours par être retardé à cause de problèmes techniques' - My project always ends up being delayed because of technical problems. 'Finit' is the third person singular present tense of 'finir' (to finish/end), expressing a recurring pattern.",
+    "difficulty": "B1",
+    "source": "Project management challenges",
+    "tags": ["workplace", "projects", "delays", "technology", "problems"],
+    "timeCreated": 1736067600
 }
