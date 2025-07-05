@@ -1,14 +1,16 @@
 #!/bin/bash
 
 # Get next available ID for CEFR level groups
-# Usage: ./getid [a|b|c] or ./getid -a
+# Usage: ./getid [a|b|c] or ./getid -a or ./getid -r
 # -a flag outputs all levels in format A=123 B=456 C=789
+# -r flag shows range usage statistics for all levels
 # Reads level ranges from config.json
 
 if [ $# -eq 0 ]; then
-    echo "Usage: $0 [a|b|c] or $0 -a"
+    echo "Usage: $0 [a|b|c] or $0 -a or $0 -r"
     echo "Level ranges are defined in config.json"
     echo "-a flag outputs all levels in format A=123 B=456 C=789"
+    echo "-r flag shows range usage statistics for all levels"
     exit 1
 fi
 
@@ -82,6 +84,90 @@ if [ "$1" = "-a" ]; then
 
     # Output in requested format
     echo "A=$a_id B=$b_id C=$c_id"
+    exit 0
+fi
+
+# Handle -r flag for range usage statistics
+if [ "$1" = "-r" ]; then
+    # Determine paths based on current directory  
+    if [ -d "questions/source" ]; then
+        SOURCE_DIR="questions/source/"
+        CONFIG_FILE="config.json"
+    elif [ -d "../questions/source" ]; then
+        SOURCE_DIR="../questions/source/"
+        CONFIG_FILE="../config.json"
+    else
+        SOURCE_DIR="questions/source/"
+        CONFIG_FILE="/var/www/html/portfolio/language/config.json"
+    fi
+
+    # Check if config.json exists
+    if [ ! -f "$CONFIG_FILE" ]; then
+        echo "❌ Error: Config file $CONFIG_FILE not found"
+        exit 1
+    fi
+
+    # Function to get range usage statistics
+    get_range_usage() {
+        local level_key="$1"
+        local min_id=$(jq -r ".levelRanges.${level_key}.minId" "$CONFIG_FILE" 2>/dev/null)
+        local max_id=$(jq -r ".levelRanges.${level_key}.maxId" "$CONFIG_FILE" 2>/dev/null)
+        local levels=$(jq -r ".levelRanges.${level_key}.levels | join(\", \")" "$CONFIG_FILE" 2>/dev/null)
+        
+        if [ "$min_id" = "null" ] || [ "$max_id" = "null" ]; then
+            echo "null"
+            return
+        fi
+
+        local used_count=0
+        local used_ids=()
+        
+        # Get all source files and count IDs in range
+        for file_path in "$SOURCE_DIR"q*.json; do
+            if [ -f "$file_path" ]; then
+                local id=$(basename "$file_path" .json | sed 's/q//')
+                # Validate ID is numeric and in correct range for this level
+                if [[ "$id" =~ ^[0-9]+$ ]] && [ "$id" -ge "$min_id" ] && [ "$id" -le "$max_id" ]; then
+                    used_count=$((used_count + 1))
+                    used_ids+=("$id")
+                fi
+            fi
+        done
+
+        local total_range=$((max_id - min_id + 1))
+        local usage_percent=$((used_count * 100 / total_range))
+        local highest_id=""
+        
+        # Find highest ID
+        for id in "${used_ids[@]}"; do
+            if [ -z "$highest_id" ] || [ "$id" -gt "$highest_id" ]; then
+                highest_id="$id"
+            fi
+        done
+        
+        # If no IDs found, highest is min_id - 1
+        if [ -z "$highest_id" ]; then
+            highest_id=$((min_id - 1))
+        fi
+        
+        local next_id=$((highest_id + 1))
+        
+        echo "📋 Level: $level_key ($levels)"
+        echo "📏 Range: $min_id-$max_id (${total_range} total slots)"
+        echo "📊 Used: $used_count/$total_range (${usage_percent}%)"
+        echo "🎯 Next ID: $next_id"
+        echo ""
+    }
+
+    echo "🔍 Question Range Usage Statistics"
+    echo "=================================="
+    echo ""
+    
+    # Get usage for all levels
+    get_range_usage "a"
+    get_range_usage "b"
+    get_range_usage "c"
+    
     exit 0
 fi
 

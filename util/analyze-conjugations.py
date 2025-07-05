@@ -13,7 +13,13 @@ import os
 from collections import defaultdict, Counter
 
 # Configuration
-COVERAGE_FILTER_THRESHOLD = 59  # Skip verbs with coverage above this percentage
+COVERAGE_FILTER_THRESHOLD = 56  # Skip verbs with coverage above this percentage
+
+# Blacklist for conjugate forms that are used as nouns/other parts of speech in questions
+# Format: {word: [list_of_question_ids_where_its_not_a_conjugate]}
+CONJUGATE_BLACKLIST = {
+    'crue': [602],  # Used as noun "en crue" (in flood) in q602, not as past participle of "croire"
+}
 
 # ANSI Color codes
 class Colors:
@@ -149,20 +155,44 @@ def load_question_files():
     
     return all_questions
 
+def is_word_blacklisted(word, question_id):
+    """Check if a word should be excluded from conjugate analysis for a specific question"""
+    if word.lower() in CONJUGATE_BLACKLIST:
+        blacklisted_questions = CONJUGATE_BLACKLIST[word.lower()]
+        return question_id in blacklisted_questions
+    return False
+
 def extract_text_from_questions(questions):
-    """Extract all text content from questions"""
+    """Extract all text content from questions, respecting conjugate blacklist"""
     all_text = ""
     
     for q in questions:
+        question_id = q.get('id', 0)
+        
+        # Collect text from all fields
+        text_parts = []
         if 'audioText' in q:
-            all_text += " " + q['audioText']
+            text_parts.append(q['audioText'])
         if 'question' in q:
-            all_text += " " + q['question']
+            text_parts.append(q['question'])
         if 'options' in q:
             for option in q['options']:
-                all_text += " " + option
+                text_parts.append(option)
         if 'explanation' in q:
-            all_text += " " + q['explanation']
+            text_parts.append(q['explanation'])
+        
+        # Process text and apply blacklist
+        for text_part in text_parts:
+            words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç]+\b', text_part.lower())
+            filtered_words = []
+            
+            for word in words:
+                if not is_word_blacklisted(word, question_id):
+                    filtered_words.append(word)
+                else:
+                    print(f"{Colors.YELLOW}⚠️  Blacklisted '{word}' in question {question_id} (not a conjugate){Colors.END}")
+            
+            all_text += " " + " ".join(filtered_words)
     
     return all_text.lower()
 
@@ -263,11 +293,11 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
         
         print(f"   ❌ MISSING FORMS ({len(missing_forms)}) - Top by frequency:")
         missing_forms.sort(key=lambda x: x[2], reverse=True)  # Sort by Lexique frequency
-        for form, grammar, freq in missing_forms[:8]:  # Top 8 missing
+        for form, grammar, freq in missing_forms[:6]:  # Top 7 missing
             print(f"      {form:12} ({grammar:15}) - freq: {freq:6.1f}")
         
-        if len(missing_forms) > 8:
-            print(f"      ... and {len(missing_forms) - 8} more missing forms")
+        if len(missing_forms) > 6:
+            print(f"      ... and {len(missing_forms) - 6} more missing forms")
         
         # Coverage statistics
         coverage_pct = total_coverage[verb]['coverage']
