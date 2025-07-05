@@ -1,0 +1,25 @@
+{
+  "id": 92,
+  "audioText": "Je vais acheter du pain avec mon argent.",
+  "question": "Je vais acheter du pain avec mon ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "argent",
+    "temps",
+    "ami",
+    "livre"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'argent' (money). The sentence means 'I'm going to buy bread with my money.' This introduces the high-frequency noun 'argent' and basic grocery shopping vocabulary.",
+  "difficulty": "A1",
+  "source": "Grocery Shopping",
+  "tags": [
+    "shopping",
+    "grocery",
+    "money",
+    "food",
+    "bread",
+    "daily-life"
+  ],
+  "timeCreated": 1751219400
+}
