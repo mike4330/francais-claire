@@ -1,0 +1,22 @@
+{
+  "id": 790,
+  "audioText": "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
+    "Cette situation économique est meilleure que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
+    "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures ordinaires pour stabiliser les marchés financiers.",
+    "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stimuler les marchés financiers."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'pire' meaning 'worse' to compare this year's economic situation to last year's. 'Pire' is the comparative form of 'mauvais' (bad). The other options change 'pire' to 'meilleure' (better), 'urgence' to 'ordinaires' (ordinary), or 'stabiliser' to 'stimuler' (stimulate).",
+  "difficulty": "C1",
+  "source": "Economic analysis",
+  "tags": [
+    "economics",
+    "comparison",
+    "crisis"
+  ],
+  "timeCreated": 1720077400
+}

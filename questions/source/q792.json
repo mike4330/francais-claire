@@ -1,0 +1,22 @@
+{
+  "id": 792,
+  "audioText": "Le vent était si fort cette nuit que les arbres ont été déracinés dans le parc municipal.",
+  "question": "Le vent était si ______ cette nuit que les arbres ont été déracinés dans le parc municipal.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fort",
+    "léger",
+    "doux",
+    "calme"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'fort' meaning 'strong'. The wind was so strong last night that trees were uprooted in the municipal park. 'Fort' describes the intensity of the wind that caused significant damage.",
+  "difficulty": "B2",
+  "source": "Weather report",
+  "tags": [
+    "weather",
+    "storms",
+    "damage"
+  ],
+  "timeCreated": 1720077400
+}

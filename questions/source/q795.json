@@ -1,0 +1,22 @@
+{
+  "id": 795,
+  "audioText": "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
+    "Le projet est coûteux ; cependant, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
+    "Le projet est coûteux ; néanmoins, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
+    "Le projet est coûteux ; par conséquent, il représente un investissement stratégique essentiel pour notre développement technologique à long terme."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'toutefois' meaning 'however' or 'nevertheless' to introduce a contrasting point. Despite the project being expensive, it represents essential strategic investment. The other options change 'toutefois' to 'cependant' (however), 'néanmoins' (nevertheless), or 'par conséquent' (therefore).",
+  "difficulty": "C1",
+  "source": "Strategic planning",
+  "tags": [
+    "business",
+    "strategy",
+    "investment"
+  ],
+  "timeCreated": 1720077400
+}

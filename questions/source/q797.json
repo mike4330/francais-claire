@@ -1,0 +1,22 @@
+{
+  "id": 797,
+  "audioText": "Si nous échouons dans cette négociation cruciale, ce sera pis que tout ce que nous avons vécu auparavant dans notre histoire commerciale.",
+  "question": "Si nous échouons dans cette négociation cruciale, ce sera ______ que tout ce que nous avons vécu auparavant dans notre histoire commerciale.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pis",
+    "mieux",
+    "pareil",
+    "différent"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'pis' meaning 'worse'. If we fail in this crucial negotiation, it will be worse than everything we have experienced before in our commercial history. 'Pis' is a more formal/literary variant of 'pire' (worse).",
+  "difficulty": "C2",
+  "source": "Business negotiations",
+  "tags": [
+    "business",
+    "negotiations",
+    "consequences"
+  ],
+  "timeCreated": 1720077400
+}

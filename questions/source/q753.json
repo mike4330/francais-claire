@@ -1,0 +1,18 @@
+{
+    "id": 753,
+    "audioText": "Cette approche méthodologique rigoureusement sérieuse de l'analyse comparative transculturelle nécessite une compréhension approfondie des nuances sociologiques et anthropologiques qui caractérisent les différentes communautés étudiées.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cette approche méthodologique rigoureusement sérieuse de l'analyse comparative transculturelle nécessite une compréhension approfondie des nuances sociologiques et anthropologiques qui caractérisent les différentes communautés étudiées.",
+        "Cette approche méthodologique rigoureusement sérieuse de l'analyse comparative interculturelle nécessite une compréhension approfondie des nuances sociologiques et anthropologiques qui caractérisent les différentes communautés étudiées.",
+        "Cette approche théorique rigoureusement sérieuse de l'analyse comparative transculturelle nécessite une compréhension approfondie des nuances sociologiques et anthropologiques qui caractérisent les différentes communautés étudiées.",
+        "Cette approche méthodologique rigoureusement sérieuse de l'analyse comparative transculturelle nécessite une compréhension approfondie des nuances psychologiques et anthropologiques qui caractérisent les différentes communautés étudiées."
+    ],
+    "correct": 0,
+    "explanation": "La phrase exacte contenait 'méthodologique' (pas 'théorique'), 'transculturelle' (pas 'interculturelle'), et 'sociologiques' (pas 'psychologiques'). Cette phrase décrit une approche sérieuse et rigoureuse nécessaire pour l'étude comparative des cultures.",
+    "difficulty": "C2",
+    "source": "Academic cross-cultural research methodology",
+    "tags": ["anthropology", "research-methodology", "sociology", "cross-cultural"],
+    "timeCreated": 1735949100
+}

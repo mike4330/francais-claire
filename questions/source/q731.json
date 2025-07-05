@@ -1,0 +1,18 @@
+{
+    "id": 731,
+    "audioText": "Cette affirmation est complètement fausse selon les dernières recherches scientifiques publiées dans les revues académiques spécialisées.",
+    "question": "Cette affirmation est complètement ______ selon les dernières recherches scientifiques publiées dans les revues académiques spécialisées.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fausse",
+        "vraie",
+        "incertaine",
+        "probable"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'fausse' meaning 'false'. This statement is completely false according to the latest scientific research published in specialized academic journals. 'Fausse' is the feminine form of 'faux' (false).",
+    "difficulty": "C1",
+    "source": "Academic research",
+    "tags": ["research", "academia", "truth"],
+    "timeCreated": 1720077400
+}

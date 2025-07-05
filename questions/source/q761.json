@@ -1,0 +1,23 @@
+{
+  "id": 761,
+  "audioText": "Il faut que tu dise la vérité à tes parents.",
+  "question": "Il faut que tu ______ la vérité à tes parents.",
+  "questionType": "FIB-reading",
+  "options": [
+    "dises",
+    "dis",
+    "dise",
+    "disais"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'dises' (2nd person singular subjunctive of 'dire'). After 'il faut que', we must use the subjunctive mood. Since the subject is 'tu', we need 'dises': 'You must tell the truth to your parents.'",
+  "difficulty": "B2",
+  "source": "Family Honesty",
+  "tags": [
+    "family",
+    "honesty",
+    "truth",
+    "parents"
+  ],
+  "timeCreated": 1720051740
+}

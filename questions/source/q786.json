@@ -1,0 +1,23 @@
+{
+  "id": 786,
+  "audioText": "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+    "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques sérieuses.",
+    "Cette situation est franchement bizarre : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+    "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocalisant sa production vers des pays aux normes écologiques dérisoires."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.' - This situation is frankly funny: here's a multinational that preaches environmental sustainability while relocating its production to countries with derisory ecological standards.",
+  "difficulty": "C1",
+  "source": "Corporate Environmental Analysis",
+  "tags": [
+    "environment",
+    "business",
+    "sustainability",
+    "hypocrisy"
+  ],
+  "timeCreated": 1720023420
+}

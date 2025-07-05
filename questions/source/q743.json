@@ -1,0 +1,23 @@
+{
+  "id": 743,
+  "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
+  "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
+  "questionType": "comprehension",
+  "options": [
+    "She confirmed she will definitely run for election",
+    "She has considered the possibility that she might not be able to run",
+    "She announced her withdrawal from the electoral race",
+    "She criticized the election process in her region"
+  ],
+  "correct": 1,
+  "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
+  "difficulty": "C1",
+  "source": "French Political Interview",
+  "tags": [
+    "politics",
+    "elections",
+    "deputy",
+    "candidacy",
+    "interview"
+  ]
+}

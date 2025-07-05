@@ -1,0 +1,22 @@
+{
+  "id": 758,
+  "audioText": "Jadis, ce quartier était considéré comme l'un des plus élégants de la ville.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Jadis, ce quartier était considéré comme l'un des plus élégants de la ville.",
+    "Aujourd'hui, ce quartier était considéré comme l'un des plus élégants de la ville.",
+    "Demain, ce quartier était considéré comme l'un des plus élégants de la ville.",
+    "Parfois, ce quartier était considéré comme l'un des plus élégants de la ville."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'jadis' meaning 'formerly' or 'in the past'. This literary adverb indicates that in former times, this neighborhood was considered one of the most elegant in the city. The other options change the time reference incorrectly.",
+  "difficulty": "C2",
+  "source": "Historical neighborhood description",
+  "tags": [
+    "history",
+    "urban-development",
+    "past"
+  ],
+  "timeCreated": 1720077200
+}
