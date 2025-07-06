@@ -184,6 +184,15 @@ node compile-questions.js
    - **🚨 CRITICAL**: `audioText` must contain complete sentence with correct word, NOT underscores!
    - **Example**: ✅ `"audioText": "Tu aimes cette chose rouge ?"` ❌ `"audioText": "Tu ______ cette chose rouge ?"`
 
+### Explanation Guidelines:
+
+**🚨 CRITICAL: French Translation Requirement**
+- **If question and options are in English**: The explanation MUST include the full French translation of the `audioText`
+- **Purpose**: Ensures learners understand the French content even when the interface is in English
+- **Format**: Include French text followed by " - " and English translation
+- **French Text Styling**: All French text in explanations should be italicized using `<em>` tags
+- **Example**: ✅ `"The text states '<em>Je mange une pomme rouge</em>' - I am eating a red apple."`
+
 ### Tag Guidelines:
 Use descriptive, lowercase tags separated by hyphens for **CONTENT TOPICS ONLY**:
 
@@ -214,6 +223,7 @@ Before adding a question:
 - [ ] Unique ID in proper range
 - [ ] All mandatory fields present
 - [ ] Explanation references specific French phrases
+- [ ] **If English question/options: Full French translation included in explanation**
 - [ ] **Tags are CONTENT TOPICS only (no grammar/verb names/individual words)**
 - [ ] Options are plausible but only one correct
 - [ ] JSON syntax is valid
@@ -524,3 +534,56 @@ console.log(`[DEBUG-2] 📈 User has performance data for: ${performanceCount} q
 - `window.recentlyAnsweredQuestions` - Session-based repetition avoidance
 
 Both UI paths now use identical intelligent selection logic with proper performance data loading and smart progression.
+
+## 🧠 Intelligent Question Priority System
+
+The system uses a **4-tier priority system** with timestamp-based anti-repetition logic to optimize learning effectiveness:
+
+### Priority Levels (in order of execution):
+
+#### 🔥 Priority 0: Early Intervention (NEW)
+**Condition**: Questions at ≥75% through cooldown threshold AND success rate <70%
+- **Bypass**: Normal timestamp filtering for struggling questions
+- **Selection**: Lowest success rate first, then lowest ID
+- **Pedagogical Logic**: Don't wait for full cooldown when students are struggling with concepts
+- **Example**: Question answered 3 hours ago (75% of 4-hour threshold) with 45% success rate → immediate practice
+- **Debug**: `🔥 PRIORITY 0: Early intervention`
+
+#### ✨ Priority 1: Unattempted Questions
+**Condition**: Questions never attempted (after timestamp filtering)
+- **Selection**: Lowest ID among unattempted questions
+- **Pedagogical Logic**: Prioritize new learning opportunities
+- **Debug**: `✨ PRIORITY 1: Found X unattempted questions`
+
+#### 📈 Priority 2: Questions Needing Practice
+**Condition**: Questions with success rate <70% (after timestamp filtering)
+- **Selection**: Lowest success rate first, then lowest ID
+- **Pedagogical Logic**: Target weak areas for reinforcement
+- **Debug**: `📈 PRIORITY 2: Found X questions needing practice`
+
+#### 🏆 Priority 3: Review/Mastery Maintenance
+**Condition**: All questions mastered (≥70% success rate)
+- **Selection**: Lowest ID for systematic review
+- **Pedagogical Logic**: Spaced repetition to maintain proficiency
+- **Debug**: `🏆 PRIORITY 3: All questions mastered`
+
+### Key Features:
+
+#### Anti-Repetition Logic:
+- **Timestamp Filtering**: Excludes questions answered within `recentAnswerThresholdMinutes` (default: 10 minutes)
+- **Priority 0 Override**: Bypasses timestamp filtering for struggling questions at ≥75% through threshold
+- **Session Memory**: Tracks recently answered questions to prevent cycling
+
+#### Performance-Driven Selection:
+- **User Performance Data**: Loaded via WebSocket from Redis cache
+- **Success Rate Tracking**: Based on `correctAttempts / totalAttempts`
+- **Timestamp Tracking**: Uses `lastAnswered` field for cooldown calculations
+- **Adaptive Thresholds**: Configurable via `appConfig.intelligentSelection.recentAnswerThresholdMinutes`
+
+#### Educational Benefits:
+- **Responsive Learning**: Doesn't make students wait full cooldown for struggling concepts
+- **Balanced Progression**: New content → Struggling areas → Review
+- **Consistent Selection**: Uses lowest ID as tiebreaker for predictable progression
+- **Individual Adaptation**: Tailors to each user's performance patterns
+
+This system ensures optimal learning experiences by balancing new content introduction, targeted practice for weak areas, and systematic review - all while preventing repetitive question cycling.

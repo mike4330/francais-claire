@@ -5,15 +5,23 @@ A sophisticated French news listening training system designed to bridge the gap
 
 ## 🎯 Objective
 
-**Primary Goal**: Enable comprehension of authentic French media content (news, politics, current events) by training on real French text from sources like Le Monde, France24, and contemporary French discourse.
+**Primary Goal**: A "software toy" for French language learning - an endless, exploratory learning experience without artificial endpoints or completion states. Like SimCity for language acquisition, this app provides continuous discovery and growth through authentic French media content.
+
+**Software Toy Philosophy**: 
+- **No "End" State**: Learning continues indefinitely with ever-evolving content
+- **Exploratory Learning**: Users discover language through authentic contexts
+- **Continuous Content Evolution**: New questions, topics, and variations added regularly
+- **Organic Growth**: Content expands based on user needs and linguistic gaps
+- **Playful Engagement**: Learning feels like exploration rather than curriculum completion
 
 **Target Focus**: 
 - **A2-C2 levels** (A1 content minimal - focus is on media literacy, not basic language acquisition)
 - **Authentic vocabulary** from French journalism, politics, and current affairs
 - **Real-world contexts** encountered in French media consumption
 - **Progressive difficulty** to build from elementary understanding to full media comprehension
+- **Living Content**: Questions and vocabulary that evolve with contemporary French usage
 
-This app bridges the gap between classroom French and the linguistic reality of French news media, preparing learners for genuine French content consumption.
+This app bridges the gap between classroom French and the linguistic reality of French news media, preparing learners for genuine French content consumption through endless, engaging exploration.
 
 ## ✨ Features
 
@@ -283,7 +291,17 @@ Questions are classified by maximum word counts based on pedagogical research:
 
 ## 🛠️ Development
 
-### Adding New Questions
+### Software Toy Architecture for Continuous Content Creation
+
+The "software toy" approach drives all development decisions, prioritizing endless content evolution over traditional feature completion:
+
+#### Content-First Development
+- **Continuous Addition**: New questions, vocabulary, and contexts added regularly
+- **Living Vocabulary**: Content adapts to contemporary French usage and current events
+- **Gap Analysis**: Tools identify linguistic gaps for targeted content creation
+- **Organic Growth**: Content expands based on learner discovery patterns
+
+#### Adding New Questions
 The process for adding new questions involves providing French text to the assistant. The assistant will then:
 1. **Classify the Text**: Determine the CEFR difficulty level based on word count and content complexity.
 2. **Generate Questions**: Create both comprehension (English) and listening (French) question types with appropriate options, correct answers, and explanations.
@@ -291,6 +309,12 @@ The process for adding new questions involves providing French text to the assis
 4. **Insert into File**: Place the new questions into the appropriate question file (e.g., `questions-a.json`, `questions-b.json`, or `questions-c.json`) based on difficulty or content category, ensuring unique IDs and logical organization.
 
 This method ensures that new content is seamlessly integrated into the existing question bank with minimal manual intervention.
+
+#### Content Evolution Tools
+- **`lemma-coverage.py`**: Unified analysis tool for identifying vocabulary gaps across adjectives, adverbs, verbs, and nouns
+- **Template System**: Semantic variations prevent stagnation and enable exponential content growth
+- **Tag Analysis**: Content discovery through thematic clustering
+- **Performance Analytics**: User data drives content prioritization
 
 ### Template Question Creation
 ```javascript
@@ -339,12 +363,26 @@ regenerateVariations();
 
 ## 🎓 Educational Philosophy
 
-The app implements a "poor man's Duolingo" approach:
+### Software Toy Learning Paradigm
+
+Inspired by Will Wright's description of SimCity as a "software toy," this app abandons traditional educational constraints in favor of endless exploration:
+
+#### Core Principles
+- **No Completion**: Learning continues indefinitely - there's always more to discover
+- **Emergent Understanding**: Knowledge builds naturally through authentic content exposure
+- **Playful Discovery**: Exploration feels like play, not curriculum
 - **Authentic Content**: Real French news and media language
-- **Graduated Difficulty**: CEFR-based progression
+- **Graduated Difficulty**: CEFR-based progression without artificial endpoints
 - **Comprehension Focus**: Understanding over production
 - **Cultural Context**: Exposure to French society and current events
 - **Semantic Variation**: Prevents rote memorization through intelligent content variation
+
+#### Software Toy Benefits
+- **Sustainable Engagement**: No "graduation" means no loss of momentum
+- **Personal Pace**: Users explore at their own speed without external pressure
+- **Living Content**: Questions evolve with contemporary French usage
+- **Organic Mastery**: Proficiency develops through authentic practice
+- **Continuous Challenge**: New content prevents skill stagnation
 
 ## 🤝 Contributing
 
