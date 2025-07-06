@@ -135,7 +135,7 @@
 }
 
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Nunito', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
     display: flex;
@@ -352,10 +352,17 @@ body {
 }
 
 .question-text {
-    font-size: 1.2em;
+    font-size: 1.7em;
     color: #333;
-    margin: 20px 0;
+    /*margin: 20px 0;*/
+    margin-left: 20%;
+    margin-right: 20%;
     font-weight: 500;
+    background: #fef9dd;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 6px 24px rgba(102, 126, 234, 0.11), 0 1.5px 6px rgba(0,0,0,0.07);
+    
 }
 
 .options {
