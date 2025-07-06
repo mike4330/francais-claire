@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>French Listening Practice</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -1144,7 +1147,48 @@
             // Apply timestamp-based exclusion to avoid recently answered questions
             const recentThresholdMs = (appConfig.intelligentSelection?.recentAnswerThresholdMinutes || 10) * 60 * 1000;
             const now = Date.now();
+            
+            // Priority 0: Check for questions that are 75% through threshold AND have poor success rate
+            // These bypass the normal timestamp filtering for targeted practice
+            const priority0Questions = questionsInLevel.filter(question => {
+                const performance = userPerformanceData.find(p => p.questionId === question.id);
+                
+                if (!performance || !performance.lastAnswered) return false;
+                
+                const timeSinceAnswered = now - performance.lastAnswered;
+                const thresholdPercent = (timeSinceAnswered / recentThresholdMs) * 100;
+                
+                return thresholdPercent >= 75 && timeSinceAnswered < recentThresholdMs && performance.successRate < 70;
+            }).sort((a, b) => {
+                // Sort by lowest success rate first, then by question ID
+                const perfA = userPerformanceData.find(p => p.questionId === a.id);
+                const perfB = userPerformanceData.find(p => p.questionId === b.id);
+                const rateA = perfA ? perfA.successRate : 0;
+                const rateB = perfB ? perfB.successRate : 0;
+                
+                if (rateA !== rateB) {
+                    return rateA - rateB; // Lowest success rate first
+                }
+                return a.id - b.id; // Then by ID
+            });
+            
+            if (priority0Questions.length > 0) {
+                const selectedQuestion = priority0Questions[0];
+                const performance = userPerformanceData.find(p => p.questionId === selectedQuestion.id);
+                const timeSinceAnswered = now - performance.lastAnswered;
+                const thresholdPercent = (timeSinceAnswered / recentThresholdMs) * 100;
+                const minutesAgo = Math.round(timeSinceAnswered / (60 * 1000));
+                const timeRemaining = Math.round((recentThresholdMs - timeSinceAnswered) / (60 * 1000));
+                
+                debugLog(2, `🔥 PRIORITY 0: Early intervention - ${priority0Questions.length} questions ready for practice`);
+                debugLog(2, `   📉 Selected question ${selectedQuestion.id} with ${performance.successRate}% success rate`);
+                debugLog(2, `   ⏰ Answered ${minutesAgo} minutes ago (${thresholdPercent.toFixed(1)}% through threshold, ${timeRemaining} min remaining)`);
+                debugLog(2, `   🎯 Reason: Poor performance + near end of cooldown = early intervention`);
+                
+                return selectedQuestion.id;
+            }
             let excludedCount = 0;
+            let excludedQuestions = [];
             
             questionsInLevel = questionsInLevel.filter(question => {
                 const performance = userPerformanceData.find(p => p.questionId === question.id);
@@ -1157,7 +1201,7 @@
                 if (timeSinceAnswered < recentThresholdMs) {
                     excludedCount++;
                     const minutesAgo = Math.round(timeSinceAnswered / (60 * 1000));
-                    debugLog(2, `⏰ Excluding question ${question.id} (answered ${minutesAgo} minutes ago)`);
+                    excludedQuestions.push(question.id);
                     return false;
                 }
                 
@@ -1166,7 +1210,7 @@
             
             if (excludedCount > 0) {
                 const thresholdMinutes = Math.round(recentThresholdMs / (60 * 1000));
-                debugLog(2, `🚫 Excluded ${excludedCount} questions answered within ${thresholdMinutes} minutes`);
+                debugLog(2, `⏰ Excluded ${excludedCount} questions answered within ${thresholdMinutes} minutes: [${excludedQuestions.join(', ')}]`);
             }
             
             if (questionsInLevel.length === 0) {
@@ -1222,6 +1266,19 @@
                 debugLog(2, `✨ PRIORITY 1: Found ${unattemptedQuestions.length} unattempted questions`);
                 debugLog(2, `   🎲 Selected question ${selectedQuestionId} (lowest ID of unattempted)`);
                 debugLog(2, `   📝 Reason: Student has never attempted this question - perfect for new learning`);
+                
+                // Check if selected question should trigger Priority 2 override
+                const selectedPerformance = userPerformanceData.find(p => p.questionId === selectedQuestionId);
+                if (selectedPerformance && selectedPerformance.lastAnswered) {
+                    const timeSinceAnswered = now - selectedPerformance.lastAnswered;
+                    const thresholdPercent = (timeSinceAnswered / recentThresholdMs) * 100;
+                    if (thresholdPercent >= 75 && selectedPerformance.successRate < 70) {
+                        const minutesAgo = Math.round(timeSinceAnswered / (60 * 1000));
+                        const timeRemaining = Math.round((recentThresholdMs - timeSinceAnswered) / (60 * 1000));
+                        console.log(`🔥 PRIORITY 2 OVERRIDE CANDIDATE: Question ${selectedQuestionId} answered ${minutesAgo} min ago (${thresholdPercent.toFixed(1)}% through threshold, ${timeRemaining} min remaining) with ${selectedPerformance.successRate}% success rate`);
+                    }
+                }
+                
                 return selectedQuestionId;
             }
             
@@ -1249,6 +1306,18 @@
                 debugLog(2, `   📉 Selected question ${selectedQuestion.id} with ${performance.successRate}% success rate`);
                 debugLog(2, `   💪 Reason: Student struggling with this question - targeted practice needed`);
                 debugLog(2, `   📋 Attempts: ${performance.attempts}, Last tried: ${new Date(performance.lastAttempted).toLocaleDateString()}`);
+                
+                // Check if selected question should trigger Priority 2 override
+                if (performance && performance.lastAnswered) {
+                    const timeSinceAnswered = now - performance.lastAnswered;
+                    const thresholdPercent = (timeSinceAnswered / recentThresholdMs) * 100;
+                    if (thresholdPercent >= 75 && performance.successRate < 70) {
+                        const minutesAgo = Math.round(timeSinceAnswered / (60 * 1000));
+                        const timeRemaining = Math.round((recentThresholdMs - timeSinceAnswered) / (60 * 1000));
+                        console.log(`🔥 PRIORITY 2 OVERRIDE CANDIDATE: Question ${selectedQuestion.id} answered ${minutesAgo} min ago (${thresholdPercent.toFixed(1)}% through threshold, ${timeRemaining} min remaining) with ${performance.successRate}% success rate`);
+                    }
+                }
+                
                 return selectedQuestion.id;
             }
             
@@ -1263,6 +1332,18 @@
             debugLog(2, `   ✅ ${masteredCount}/${questionsInLevel.length} questions mastered (≥70% success)`);
             debugLog(2, `   🔄 Selected question ${selectedQuestionId} (lowest ID) for review practice`);
             debugLog(2, `   📚 Reason: Maintaining mastery through spaced repetition`);
+            
+            // Check if selected question should trigger Priority 2 override
+            const selectedPerformance = userPerformanceData.find(p => p.questionId === selectedQuestionId);
+            if (selectedPerformance && selectedPerformance.lastAnswered) {
+                const timeSinceAnswered = now - selectedPerformance.lastAnswered;
+                const thresholdPercent = (timeSinceAnswered / recentThresholdMs) * 100;
+                if (thresholdPercent >= 75 && selectedPerformance.successRate < 70) {
+                    const minutesAgo = Math.round(timeSinceAnswered / (60 * 1000));
+                    const timeRemaining = Math.round((recentThresholdMs - timeSinceAnswered) / (60 * 1000));
+                    console.log(`🔥 PRIORITY 2 OVERRIDE CANDIDATE: Question ${selectedQuestionId} answered ${minutesAgo} min ago (${thresholdPercent.toFixed(1)}% through threshold, ${timeRemaining} min remaining) with ${selectedPerformance.successRate}% success rate`);
+                }
+            }
             
             return selectedQuestionId;
         }
