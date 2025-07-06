@@ -227,6 +227,203 @@
       "timeCreated": 1720052340
     },
     {
+      "id": 12,
+      "audioText": "Le marteau n'est pas sur la table, il est juste dessous, sur la chaise.",
+      "question": "Le marteau est juste ______, sur la chaise.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "dessus",
+        "à côté",
+        "dessous",
+        "loin"
+      ],
+      "correct": 2,
+      "explanation": "The text states '<em>Le marteau n'est pas sur la table, il est juste dessous, sur la chaise.</em>' - The hammer is not on the table, it is just underneath, on the chair. The adverb 'dessous' means 'underneath' or 'below', describing the hammer's location under the table.",
+      "difficulty": "A2",
+      "source": "Gemini CLI",
+      "tags": [
+        "tools",
+        "household-items",
+        "location"
+      ],
+      "timeCreated": 1720181357
+    },
+    {
+      "id": 13,
+      "audioText": "Normalement, je prends mon petit-déjeuner à 8h, mais aujourd'hui, je suis en retard.",
+      "question": "______, je prends mon petit-déjeuner à 8h.",
+      "questionType": "FIB-reading",
+      "options": [
+        "Jamais",
+        "Parfois",
+        "Normalement",
+        "Toujours"
+      ],
+      "correct": 2,
+      "explanation": "The adverb 'Normalement' (normally) is used to describe a habitual action or routine, which is contrasted with the situation today.",
+      "difficulty": "A2",
+      "source": "Gemini CLI",
+      "tags": [
+        "house",
+        "daily-routine",
+        "food"
+      ],
+      "timeCreated": 1720181355
+    },
+    {
+      "id": 14,
+      "audioText": "J'ai acheté cette voiture récemment.",
+      "question": "J'ai acheté cette voiture ______.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "récemment",
+        "souvent",
+        "toujours",
+        "jamais"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>J'ai acheté cette voiture récemment</em>' - I bought this car recently. 'Récemment' means 'recently' and indicates the purchase happened in the near past.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "shopping",
+        "past-events"
+      ],
+      "timeCreated": 1720134000
+    },
+    {
+      "id": 15,
+      "audioText": "Cette soupe est décidément trop salée, je ne peux pas la manger.",
+      "question": "Cette soupe est ______ trop salée.",
+      "questionType": "FIB-reading",
+      "options": [
+        "vraiment",
+        "un peu",
+        "décidément",
+        "pas"
+      ],
+      "correct": 2,
+      "explanation": "The adverb 'décidément' is used to express a confirmed observation, similar to 'definitely' or 'certainly'. It emphasizes that the soup is unquestionably too salty.",
+      "difficulty": "A2",
+      "source": "Gemini CLI",
+      "tags": [
+        "culinary-vocabulary",
+        "food",
+        "restaurant"
+      ],
+      "timeCreated": 1720181349
+    },
+    {
+      "id": 16,
+      "audioText": "Nous sortons ensemble ce soir car c'est important pour notre amitié.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Nous sortons ensemble ce soir car c'est important pour notre amitié.",
+        "Nous restons ensemble ce soir car c'est important pour notre amitié.",
+        "Nous sortons ensemble demain car c'est important pour notre amitié.",
+        "Nous sortons ensemble ce soir car c'est important pour notre famille."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous sortons ensemble ce soir car c'est important pour notre amitié</em>' - We're going out together tonight because it's important for our friendship. 'Sortons' is the first person plural form of 'sortir' (to go out). The distractors test verb choice (rester), time confusion (demain), and relationship type (famille).",
+      "difficulty": "A2",
+      "source": "Friendship plans",
+      "tags": [
+        "importance",
+        "friendship",
+        "evening"
+      ],
+      "timeCreated": 1704416400
+    },
+    {
+      "id": 17,
+      "audioText": "Nous pensons que mijoter est la meilleure technique de cuisson.",
+      "question": "Nous ______ que mijoter est la meilleure technique de cuisson.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pensons",
+        "pense",
+        "pensez",
+        "pensent"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous pensons que mijoter est la meilleure technique de cuisson</em>' - We think that simmering is the best cooking technique. 'Pensons' is the first person plural form of 'penser' (to think), used with 'nous'.",
+      "difficulty": "A2",
+      "source": "Cooking discussion",
+      "tags": [
+        "cooking-techniques",
+        "cooking",
+        "techniques"
+      ],
+      "timeCreated": 1704416280
+    },
+    {
+      "id": 18,
+      "audioText": "Vous perdez votre guitare si vous ne faites pas attention.",
+      "question": "What will happen if you don't pay attention?",
+      "questionType": "comprehension",
+      "options": [
+        "You'll lose your guitar",
+        "You'll break your piano",
+        "You'll forget your music",
+        "You'll miss your lesson"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous perdez votre guitare si vous ne faites pas attention</em>' - You lose your guitar if you don't pay attention. 'Perdez' is the second person plural form of 'perdre' (to lose), used with 'vous'.",
+      "difficulty": "A2",
+      "source": "Musical care",
+      "tags": [
+        "guitar",
+        "musical-instruments",
+        "care"
+      ],
+      "timeCreated": 1704416100
+    },
+    {
+      "id": 19,
+      "audioText": "Vous vivez sainement si vous mangez des céréales chaque matin.",
+      "question": "Vous ______ sainement si vous mangez des céréales chaque matin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "vivez",
+        "vivons",
+        "vivent",
+        "vis"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous vivez sainement si vous mangez des céréales chaque matin</em>' - You live healthily if you eat cereals every morning. 'Vivez' is the second person plural form of 'vivre' (to live), used with 'vous'.",
+      "difficulty": "A2",
+      "source": "Healthy eating",
+      "tags": [
+        "cereals",
+        "health",
+        "breakfast"
+      ],
+      "timeCreated": 1704416040
+    },
+    {
+      "id": 20,
+      "audioText": "Nous rentrons à la maison ce soir après le dîner.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Nous rentrons à la maison ce soir après le dîner.",
+        "Nous rentrons à la maison ce soir après le déjeuner.",
+        "Nous restons à la maison ce soir après le dîner.",
+        "Nous rentrons à la maison demain après le dîner."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous rentrons à la maison ce soir après le dîner</em>' - We're coming home tonight after dinner. 'Rentrons' is the first person plural form of 'rentrer' (to return home). The distractors test meal confusion (déjeuner), verb choice (rester), and time confusion (demain).",
+      "difficulty": "A2",
+      "source": "Evening plans",
+      "tags": [
+        "evening",
+        "home",
+        "dinner"
+      ],
+      "timeCreated": 1704415800
+    },
+    {
       "id": 21,
       "audioText": "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
       "parentQuestion": 320,
@@ -321,6 +518,50 @@
         "change",
         "cereals"
       ]
+    },
+    {
+      "id": 23,
+      "audioText": "Tu rentres à la maison en bus ou en voiture ?",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Tu rentres à la maison en bus ou en voiture ?",
+        "Tu rentres à la maison en train ou en voiture ?",
+        "Tu rentres à la maison en bus ou en vélo ?",
+        "Tu retournes à la maison en bus ou en voiture ?"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu rentres à la maison en bus ou en voiture ?</em>' - Are you coming home by bus or by car? 'Rentres' is the second person singular form of 'rentrer' (to return/come home). The distractors test transportation mode confusion and verb choice (rentrer vs. retourner).",
+      "difficulty": "A2",
+      "source": "Transportation choice",
+      "tags": [
+        "transportation",
+        "home",
+        "choice"
+      ],
+      "timeCreated": 1704415560
+    },
+    {
+      "id": 24,
+      "audioText": "Ma fille a fait une bonne rentrée à l'école cette année.",
+      "question": "How did the daughter's school year begin?",
+      "questionType": "comprehension",
+      "options": [
+        "She had a good start back at school",
+        "She struggled with the new schedule",
+        "She missed many classes early on",
+        "She was nervous about meeting teachers"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma fille a fait une bonne rentrée à l'école cette année</em>' - My daughter had a good start back at school this year. 'Rentrée' refers to the return to school after vacation, particularly the beginning of the school year.",
+      "difficulty": "A2",
+      "source": "School year",
+      "tags": [
+        "school",
+        "daughter",
+        "beginning"
+      ],
+      "timeCreated": 1704415500
     },
     {
       "id": 27,
@@ -1328,8 +1569,7 @@
       "tags": [
         "family",
         "time",
-        "importance",
-        "trouver"
+        "importance"
       ],
       "timeCreated": 1735500648
     },
@@ -1425,8 +1665,7 @@
         "french-cuisine",
         "cooking-techniques",
         "culinary-vocabulary",
-        "time-management",
-        "listening-comprehension"
+        "time-management"
       ],
       "timeCreated": 1751216829
     },
@@ -1522,7 +1761,6 @@
       "difficulty": "A2",
       "source": "Daily conversation about family thoughts",
       "tags": [
-        "penser",
         "family",
         "daily-life"
       ],
@@ -1544,30 +1782,28 @@
       "difficulty": "A2",
       "source": "Family description and past abilities",
       "tags": [
-        "family",
-        "imperfect"
+        "family"
       ],
       "timeCreated": 1704067200
     },
     {
       "id": 87,
-      "audioText": "Quand j'étais petit, j'aimais beaucoup les gâteaux.",
+      "audioText": "Pendant mon enfance, j'aimais beaucoup les gâteaux.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
       "options": [
-        "Quand j'étais petit, j'aimais beaucoup les gâteaux.",
-        "Quand j'étais petit, j'aime beaucoup les gâteaux.",
-        "Quand j'étais petit, j'aimerais beaucoup les gâteaux.",
-        "Quand j'étais petit, j'aimé beaucoup les gâteaux."
+        "Pendant mon enfance, j'aimais beaucoup les gâteaux.",
+        "Pendant mon enfance, j'aime beaucoup les gâteaux.",
+        "Pendant mon enfance, j'aimerais beaucoup les gâteaux.",
+        "Pendant mon enfance, j'aimé beaucoup les gâteaux."
       ],
       "correct": 0,
-      "explanation": "The correct form is 'j'aimais' - first person singular imperfect of 'aimer' (I used to like). This form was missing from our conjugation coverage despite being essential for past descriptions.",
+      "explanation": "The text states '<em>Pendant mon enfance, j'aimais beaucoup les gâteaux</em>' - During my childhood, I used to love cakes. 'J'aimais' is the imperfect form of 'aimer' (to like/love). The distractors test tense confusion (aime), conditional confusion (aimerais), and past participle confusion (aimé).",
       "difficulty": "A2",
       "source": "Childhood memories and preferences",
       "tags": [
         "childhood",
-        "food",
-        "imperfect"
+        "food"
       ],
       "timeCreated": 1704067200
     },
@@ -1725,7 +1961,6 @@
       "source": "School Life",
       "tags": [
         "education",
-        "adjectives",
         "exams",
         "school"
       ],
@@ -2120,7 +2355,7 @@
         "pourrais"
       ],
       "correct": 0,
-      "explanation": "The future tense 'pourras' (you will be able to) is used to express future possibility dependent on parental permission.",
+      "explanation": "The text states '<em>Tu pourras venir à la fête samedi soir si tes parents sont d'accord</em>' - You will be able to come to the party Saturday night if your parents agree. 'Pourras' is the second person singular future form of 'pouvoir' (to be able to), expressing future possibility dependent on parental permission.",
       "difficulty": "A2",
       "source": "Invitation to party with parental permission condition",
       "tags": [
@@ -3777,17 +4012,17 @@
     },
     {
       "id": 185,
-      "audioText": "Quand j'étais petit, je parlais souvent avec mes animaux domestiques.",
+      "audioText": "Dans ma jeunesse, je parlais souvent avec mes animaux domestiques.",
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
-        "Quand j'étais petit, je parlais souvent avec mes animaux domestiques.",
-        "Quand j'étais petit, je jouais souvent avec mes animaux domestiques.",
-        "Quand j'étais petit, je gardais souvent mes animaux domestiques.",
-        "Quand j'étais petit, je nourrissais souvent mes animaux domestiques."
+        "Dans ma jeunesse, je parlais souvent avec mes animaux domestiques.",
+        "Dans ma jeunesse, je jouais souvent avec mes animaux domestiques.",
+        "Dans ma jeunesse, je gardais souvent mes animaux domestiques.",
+        "Dans ma jeunesse, je nourrissais souvent mes animaux domestiques."
       ],
       "correct": 0,
-      "explanation": "La phrase exacte était 'Quand j'étais petit, je parlais souvent avec mes animaux domestiques.' - When I was little, I often talked with my pets. 'Parlais' is the imperfect form of 'parler' for je.",
+      "explanation": "The text states '<em>Dans ma jeunesse, je parlais souvent avec mes animaux domestiques</em>' - In my youth, I often talked with my pets. 'Parlais' is the imperfect form of 'parler' (to talk). The distractors test verb confusion (jouais, gardais, nourrissais).",
       "difficulty": "A2",
       "source": "Childhood pet memories",
       "tags": [
@@ -4918,11 +5153,166 @@
         "returning"
       ],
       "timeCreated": 1704415320
+    },
+    {
+      "id": 237,
+      "audioText": "Tu rends les livres à la bibliothèque aujourd'hui ?",
+      "question": "Tu ______ les livres à la bibliothèque aujourd'hui ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "rends",
+        "rend",
+        "rendez",
+        "rendons"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu rends les livres à la bibliothèque aujourd'hui ?</em>' - Are you returning the books to the library today? 'Rends' is the second person singular form of 'rendre' (to return/give back), agreeing with 'tu'.",
+      "difficulty": "A2",
+      "source": "Library visit",
+      "tags": [
+        "library",
+        "books",
+        "returning"
+      ],
+      "timeCreated": 1704415380
+    },
+    {
+      "id": 238,
+      "audioText": "Vous tuez les insectes dans votre jardin avec ce produit ?",
+      "question": "What do you do to the insects in your garden with this product?",
+      "questionType": "comprehension",
+      "options": [
+        "Kill them",
+        "Catch them",
+        "Feed them",
+        "Scare them away"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous tuez les insectes dans votre jardin avec ce produit ?</em>' - Do you kill the insects in your garden with this product? 'Tuez' is the second person plural form of 'tuer' (to kill), used with 'vous'.",
+      "difficulty": "A2",
+      "source": "Garden pest control",
+      "tags": [
+        "gardening",
+        "insects",
+        "pest-control"
+      ],
+      "timeCreated": 1704415440
+    },
+    {
+      "id": 239,
+      "audioText": "Ils entendent souvent des demandes similaires.",
+      "question": "Ils ______ souvent des demandes similaires.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "entendent",
+        "reçoivent",
+        "écoutent",
+        "comprennent"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ils entendent souvent des demandes similaires</em>' - They often hear similar requests. 'Entendent' is the present form of 'entendre' (to hear), targeting missing verb conjugate with requests theme.",
+      "difficulty": "A2",
+      "source": "Customer service",
+      "tags": [
+        "requests",
+        "frequency",
+        "workplace",
+        "listening"
+      ],
+      "timeCreated": 1736105400
+    },
+    {
+      "id": 240,
+      "audioText": "Ça fait peur, cette tempête !",
+      "question": "What does the speaker think about the storm?",
+      "questionType": "comprehension",
+      "options": [
+        "It's beautiful",
+        "It's scary",
+        "It's interesting",
+        "It's quiet"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Ça fait peur, cette tempête !</em>' - That's scary, this storm! The informal pronoun 'ça' (that/it) refers to the storm, and 'fait peur' means 'is scary' or 'makes one afraid'.",
+      "difficulty": "A2",
+      "source": "Weather and natural events",
+      "tags": [
+        "natural-disasters",
+        "weather",
+        "emotions"
+      ],
+      "timeCreated": 1751765866
+    },
+    {
+      "id": 241,
+      "audioText": "Marc joue normalement au tennis le dimanche.",
+      "question": "When does Marc usually play tennis?",
+      "questionType": "comprehension",
+      "options": [
+        "On Saturday",
+        "On Sunday",
+        "On Monday",
+        "On Friday"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Marc joue normalement au tennis le dimanche</em>' - Marc normally plays tennis on Sunday. The adverb 'normalement' means usually/normally, and 'le dimanche' means on Sunday.",
+      "difficulty": "A2",
+      "source": "Sports and weekly routines",
+      "tags": [
+        "sports",
+        "recreation",
+        "routine"
+      ],
+      "timeCreated": 1751776003
+    },
+    {
+      "id": 242,
+      "audioText": "Sophie se lave les mains avant de manger.",
+      "question": "What does Sophie wash before eating?",
+      "questionType": "comprehension",
+      "options": [
+        "Her face",
+        "Her hands",
+        "Her hair",
+        "Her feet"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Sophie se lave les mains</em>' - Sophie washes her hands. The noun 'mains' (hands) is plural of 'main' and refers to both hands, which is a hygiene routine before eating.",
+      "difficulty": "A2",
+      "source": "Daily hygiene and meal preparation",
+      "tags": [
+        "daily-life",
+        "hygiene",
+        "meals"
+      ],
+      "timeCreated": 1751776887
+    },
+    {
+      "id": 243,
+      "audioText": "Tu sentiras ton coeur battre plus fort si tu cours actuellement.",
+      "question": "When will you feel your heart beat stronger?",
+      "questionType": "comprehension",
+      "options": [
+        "If you sleep",
+        "If you run now",
+        "If you eat",
+        "If you read"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Tu sentiras ton coeur battre plus fort si tu cours actuellement</em>' - You will feel your heart beat stronger if you run now. 'Sentiras' is future tense of sentir, 'coeur' means heart, and 'actuellement' means currently/now.",
+      "difficulty": "A2",
+      "source": "Exercise and health awareness",
+      "tags": [
+        "health",
+        "exercise",
+        "body"
+      ],
+      "timeCreated": 1751777362
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-05T15:21:40.725Z",
-    "totalQuestions": 215,
+    "compiledAt": "2025-07-06T04:50:59.854Z",
+    "totalQuestions": 233,
     "level": "A",
     "idRange": "1-251",
     "difficulties": [

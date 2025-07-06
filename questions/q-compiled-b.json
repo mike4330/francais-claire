@@ -245,7 +245,7 @@
       "id": 262,
       "audioText": "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
       "ssml": "<speak>Ce don agace certains internautes qui reprennent l'expression <break time=\"250ms\"/>«C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</speak>",
-      "parentQuestion": 842,
+      "parentQuestion": 1032,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -271,7 +271,7 @@
     {
       "id": 263,
       "audioText": "Le tunnel de Tende a eu des retards à cause d'un vol de métaux et de la tempête Alex. Son ouverture est une grande joie pour les habitants qui étaient isolés depuis des années.",
-      "parentQuestion": 812,
+      "parentQuestion": 1172,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -362,8 +362,7 @@
         "medical",
         "body-parts",
         "examination",
-        "eyes",
-        "pouvoir"
+        "eyes"
       ],
       "timeCreated": 1735500702
     },
@@ -413,8 +412,7 @@
         "personal-development",
         "choices",
         "work-life-balance",
-        "vie",
-        "listening-comprehension"
+        "vie"
       ],
       "timeCreated": 1751216829
     },
@@ -525,7 +523,6 @@
       "difficulty": "B2",
       "source": "Reflection on past conversations",
       "tags": [
-        "penser",
         "reflection",
         "conversation"
       ],
@@ -793,8 +790,7 @@
         "technology",
         "smartphones",
         "digital-storage",
-        "modern-life",
-        "adjectives"
+        "modern-life"
       ],
       "timeCreated": 1751325573
     },
@@ -1187,8 +1183,8 @@
     },
     {
       "id": 301,
-      "audioText": "Quand j'étais petit, mes grands-parents parlaient toujours en français à la maison pour préserver la tradition familiale.",
-      "question": "Mes grands-parents ______ toujours en français à la maison pour préserver la tradition familiale.",
+      "audioText": "Étant enfant, mes grands-parents parlaient toujours en français à la maison pour préserver la tradition familiale.",
+      "question": "Étant enfant, mes grands-parents ______ toujours en français à la maison pour préserver la tradition familiale.",
       "questionType": "fill-in-the-blank",
       "options": [
         "parlaient",
@@ -1197,7 +1193,7 @@
         "ont parlé"
       ],
       "correct": 0,
-      "explanation": "The imperfect tense 'parlaient' is used to describe a habitual action in the past ('toujours' = always), indicated by the context 'quand j'étais petit' (when I was little).",
+      "explanation": "The text states '<em>Étant enfant, mes grands-parents parlaient toujours en français à la maison pour préserver la tradition familiale</em>' - As a child, my grandparents always spoke French at home to preserve family tradition. 'Étant enfant' is a gerund construction meaning 'being a child/as a child'.",
       "difficulty": "B1",
       "source": "Childhood memory about family language traditions",
       "tags": [
@@ -1269,7 +1265,7 @@
         "jambe"
       ],
       "correct": 0,
-      "explanation": "The word 'voix' (voice) fits perfectly as it's logical for someone's voice to tremble with emotion when announcing important musical competition results.",
+      "explanation": "The text states '<em>Sa voix tremblait d'émotion quand elle a annoncé les résultats du concours musical</em>' - Her voice was trembling with emotion when she announced the results of the musical competition. 'Voix' (voice) is the logical choice as voices tremble when expressing strong emotions.",
       "difficulty": "B2",
       "source": "Emotional announcement of musical competition results",
       "tags": [
@@ -1766,7 +1762,7 @@
     {
       "id": 326,
       "audioText": "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.",
-      "parentQuestion": 890,
+      "parentQuestion": 1080,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -1813,7 +1809,7 @@
     {
       "id": 328,
       "audioText": "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.",
-      "parentQuestion": 893,
+      "parentQuestion": 1083,
       "audioTemplate": "Une {political_person} a {reporting_verb} qu'elle pense {uncertainty} ne pas pouvoir {action_verb} aux {event_type}.",
       "templateVariables": {
         "political_person": {
@@ -2132,7 +2128,7 @@
     },
     {
       "id": 339,
-      "audioText": "Quand j'étais petit, je faisais du vélo tous les jours après l'école.",
+      "audioText": "Autrefois, je faisais du vélo tous les jours après l'école.",
       "question": "What did the speaker do when they were little?",
       "questionType": "comprehension",
       "options": [
@@ -2142,7 +2138,7 @@
         "They watched TV every evening after dinner"
       ],
       "correct": 0,
-      "explanation": "The sentence uses 'faisais' (imperfect tense of faire). The speaker rode their bike every day after school when they were little.",
+      "explanation": "The text states '<em>Autrefois, je faisais du vélo tous les jours après l'école</em>' - In the past, I used to ride my bike every day after school. 'Faisais' is the imperfect form of 'faire' (to do/make), and 'autrefois' means 'in the past/formerly'.",
       "difficulty": "B2",
       "source": "Childhood Memories",
       "tags": [
@@ -2201,8 +2197,8 @@
     },
     {
       "id": 342,
-      "audioText": "Quand j'étais enfant, ma grand-mère m'appelait toujours mon petit trésor.",
-      "question": "Quand j'étais enfant, ma grand-mère m'______ toujours mon petit trésor.",
+      "audioText": "Jadis, ma grand-mère m'appelait toujours mon petit trésor.",
+      "question": "Jadis, ma grand-mère m'______ toujours mon petit trésor.",
       "questionType": "FIB-reading",
       "options": [
         "appelait",
@@ -2211,7 +2207,7 @@
         "a appelé"
       ],
       "correct": 0,
-      "explanation": "The correct form is 'appelait' (imperfect tense of 'appeler'). The imperfect is used for repeated actions in the past - grandmother used to call them 'my little treasure' regularly.",
+      "explanation": "The text states '<em>Jadis, ma grand-mère m'appelait toujours mon petit trésor</em>' - In the old days, my grandmother always called me her little treasure. 'Appelait' is the imperfect form of 'appeler' (to call), and 'jadis' means 'in the old days/formerly'.",
       "difficulty": "B1",
       "source": "Family Memories",
       "tags": [
@@ -3122,7 +3118,7 @@
     {
       "id": 383,
       "audioText": "Après les émeutes de l'année dernière, un député nous dévoile son «plan banlieues». Le député, ciblé durant les violences urbaines, présente une vingtaine de propositions pour «rétablir la République» dans les quartiers populaires",
-      "parentQuestion": 925,
+      "parentQuestion": 1115,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -3453,7 +3449,7 @@
     {
       "id": 398,
       "audioText": "« Je vais m'éloigner de cet environnement dangereux » : un jeune homme, membre d'un groupe d'extrême droite, sort de prison. L'homme de 22 ans et huit autres personnes sont accusés d'avoir attaqué un homme de 30 ans qui assistait à un événement contre le fascisme, dans Paris.",
-      "parentQuestion": 924,
+      "parentQuestion": 1114,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -4061,7 +4057,7 @@
     },
     {
       "id": 424,
-      "audioText": "Quand j'étais petit, mes parents pouvaient toujours m'emmener au parc le dimanche.",
+      "audioText": "Mes parents pouvaient toujours m'emmener au parc le dimanche à l'époque où j'étais petit.",
       "question": "What did the speaker's parents always do when he was little?",
       "questionType": "comprehension",
       "options": [
@@ -4071,7 +4067,7 @@
         "They wanted to take him to the park on Sundays"
       ],
       "correct": 0,
-      "explanation": "The sentence uses 'pouvaient' (imperfect of 'pouvoir') meaning 'could/were able to'. In this context, it expresses past ability or possibility: 'mes parents pouvaient toujours m'emmener' means 'my parents could always take me'. The imperfect here shows a repeated past action.",
+      "explanation": "The text states '<em>Mes parents pouvaient toujours m'emmener au parc le dimanche à l'époque où j'étais petit</em>' - My parents could always take me to the park on Sundays back when I was little. 'Pouvaient' is the imperfect of 'pouvoir' (could/were able to), with the temporal clause repositioned at the end.",
       "difficulty": "B2",
       "source": "Childhood Memories",
       "tags": [
@@ -4149,6 +4145,29 @@
         "legal-consequences"
       ],
       "timeCreated": 1720108800
+    },
+    {
+      "id": 428,
+      "audioText": "Je vous aiderai à répondre à ces questions difficiles si vous restés concentrés.",
+      "question": "Je vous aiderai à répondre à ces ______ difficiles si vous restez concentrés.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "questions",
+        "problèmes",
+        "exercices",
+        "examens"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je vous aiderai à répondre à ces questions difficiles si vous restez concentrés</em>' - I will help you answer these difficult questions if you stay focused. 'Aiderai' is the future form of 'aider' (to help), targeting the missing conjugate plus under-represented 'helping', 'questions', and 'difficulty' topics.",
+      "difficulty": "B1",
+      "source": "Educational assistance",
+      "tags": [
+        "helping",
+        "questions",
+        "difficulty",
+        "education"
+      ],
+      "timeCreated": 1736103720
     },
     {
       "id": 429,
@@ -6412,24 +6431,26 @@
     },
     {
       "id": 530,
-      "audioText": "J'ai acheté cette voiture récemment.",
-      "question": "J'ai acheté cette voiture ______.",
-      "questionType": "fill-in-the-blank",
+      "audioText": "Il vieillit visiblement depuis qu'il a commencé ce travail trop difficile pour son âge.",
+      "question": "How has he changed since starting this job?",
+      "questionType": "comprehension",
       "options": [
-        "récemment",
-        "souvent",
-        "toujours",
-        "jamais"
+        "He is visibly aging",
+        "He has gained significant weight",
+        "He has become more energetic",
+        "He has improved his skills considerably"
       ],
       "correct": 0,
-      "explanation": "'Récemment' means 'recently'. The sentence indicates a recent purchase.",
-      "difficulty": "B1",
-      "source": "Gemini-generated",
+      "explanation": "The text states '<em>Il vieillit visiblement depuis qu'il a commencé ce travail trop difficile pour son âge</em>' - He is visibly aging since he started this job too difficult for his age. 'Visiblement' means 'visibly/obviously', targeting the missing adverb plus under-represented 'age' and 'difficulty' topics.",
+      "difficulty": "B2",
+      "source": "Work impact on aging",
       "tags": [
-        "shopping",
-        "past-events"
+        "age",
+        "difficulty",
+        "workplace",
+        "health"
       ],
-      "timeCreated": 1720134000
+      "timeCreated": 1736103660
     },
     {
       "id": 531,
@@ -6885,6 +6906,28 @@
       ]
     },
     {
+      "id": 552,
+      "audioText": "Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande bâche pour ne rien perdre. C'était sa façon de rester organisé.",
+      "question": "What did he do with his tools before starting a DIY project?",
+      "questionType": "comprehension",
+      "options": [
+        "He would hide them",
+        "He would put them all on a large tarp",
+        "He would clean them",
+        "He would lend them to his neighbor"
+      ],
+      "correct": 1,
+      "explanation": "The sentence uses 'mettait', the imparfait tense of 'mettre', to describe a habitual action. He used to put his tools on a tarp to stay organized.",
+      "difficulty": "B1",
+      "source": "Gemini CLI",
+      "tags": [
+        "tools",
+        "DIY",
+        "organization"
+      ],
+      "timeCreated": 1720181358
+    },
+    {
       "id": 553,
       "audioText": "Météo France a placé treize départements en vigilance orange canicule pour le weekend. Les fortes chaleurs touchent le sud et l'est de la France avec des températures très élevées.",
       "question": "What weather warning has Météo France issued?",
@@ -6956,7 +6999,7 @@
     {
       "id": 556,
       "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-      "parentQuestion": 784,
+      "parentQuestion": 1164,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -7390,17 +7433,17 @@
     },
     {
       "id": 576,
-      "audioText": "Sa voix tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.",
-      "question": "Sa ______ tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.",
+      "audioText": "Ses mains tremblaient de nervosité pendant qu'elle préparait son discours de démission.",
+      "question": "Ses ______ tremblaient de nervosité pendant qu'elle préparait son discours de démission.",
       "questionType": "fill-in-the-blank",
       "options": [
+        "mains",
         "voix",
-        "main",
-        "respiration",
-        "présentation"
+        "jambes",
+        "épaules"
       ],
       "correct": 0,
-      "explanation": "Le mot manquant est 'voix'. La phrase complète est 'Sa voix tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.' - Her voice was trembling with emotion when she announced her resignation during the meeting. 'Voix' refers to the vocal expression that can convey emotion.",
+      "explanation": "The text states '<em>Ses mains tremblaient de nervosité pendant qu'elle préparait son discours de démission</em>' - Her hands were trembling with nervousness while she prepared her resignation speech. 'Mains' (hands) is correct as hands commonly tremble when someone is nervous or anxious.",
       "difficulty": "B1",
       "source": "Workplace resignation announcement",
       "tags": [
@@ -7758,18 +7801,41 @@
       "timeCreated": 1735949220
     },
     {
+      "id": 592,
+      "audioText": "En laissant ses affaires dans cette pièce, il montre pratiquement qu'il compte rester.",
+      "question": "What does leaving his things in this room practically show?",
+      "questionType": "comprehension",
+      "options": [
+        "That he plans to stay",
+        "That he forgot where he put them",
+        "That he doesn't trust the security",
+        "That he needs more storage space"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>En laissant ses affaires dans cette pièce, il montre pratiquement qu'il compte rester</em>' - By leaving his things in this room, he practically shows that he plans to stay. 'Laissant' is the present participle of 'laisser' (to leave), and 'pratiquement' means 'practically/virtually', targeting missing conjugate and adverb plus 'rooms' topic.",
+      "difficulty": "B2",
+      "source": "Behavioral indication",
+      "tags": [
+        "rooms",
+        "behavior",
+        "intentions",
+        "belongings"
+      ],
+      "timeCreated": 1736103600
+    },
+    {
       "id": 593,
-      "audioText": "Quand j'étais petit, je voyais souvent mes grands-parents le dimanche après-midi.",
+      "audioText": "Petit, je voyais souvent mes grands-parents le dimanche après-midi.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
       "options": [
-        "Quand j'étais petit, je voyais souvent mes grands-parents le dimanche après-midi.",
-        "Quand j'étais petit, je visitais souvent mes grands-parents le dimanche après-midi.",
-        "Quand j'étais petit, je voyais souvent mes grands-parents le samedi après-midi.",
-        "Quand j'étais petit, je voyais toujours mes grands-parents le dimanche après-midi."
+        "Petit, je voyais souvent mes grands-parents le dimanche après-midi.",
+        "Petit, je visitais souvent mes grands-parents le dimanche après-midi.",
+        "Petit, je voyais souvent mes grands-parents le samedi après-midi.",
+        "Petit, je voyais toujours mes grands-parents le dimanche après-midi."
       ],
       "correct": 0,
-      "explanation": "The exact phrase was 'Quand j'étais petit, je voyais souvent mes grands-parents le dimanche après-midi.' - When I was little, I often saw my grandparents on Sunday afternoon. Note 'voyais' vs 'visitais', 'dimanche' vs 'samedi', and 'souvent' vs 'toujours'. 'Voyais' is the imperfect form of 'voir' (to see).",
+      "explanation": "The text states '<em>Petit, je voyais souvent mes grands-parents le dimanche après-midi</em>' - As a child, I often saw my grandparents on Sunday afternoon. 'Petit' functions as an absolute adjective meaning 'as a child'. The distractors test verb confusion (visitais), day confusion (samedi), and frequency confusion (toujours).",
       "difficulty": "B1",
       "source": "Childhood memories and family traditions",
       "tags": [
@@ -7802,6 +7868,29 @@
         "workplace"
       ],
       "timeCreated": 1735949400
+    },
+    {
+      "id": 595,
+      "audioText": "Cette nouvelle technologie internet est largement utilisée par les jeunes de son âge.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cette nouvelle technologie internet est largement utilisée par les jeunes de son âge.",
+        "Cette nouvelle technologie internet est largement utilisée par les jeunes de tout âge.",
+        "Cette nouvelle technologie internet est facilement utilisée par les jeunes de son âge.",
+        "Cette nouvelle technologie internet est récemment utilisée par les jeunes de son âge."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette nouvelle technologie internet est largement utilisée par les jeunes de son âge</em>' - This new internet technology is widely used by young people of his age. 'Largement' means 'widely/extensively', targeting the missing adverb plus under-represented 'internet' and 'age' topics. The distractors test adverb confusion (facilement, récemment) and scope confusion (tout âge).",
+      "difficulty": "B2",
+      "source": "Technology adoption",
+      "tags": [
+        "internet",
+        "technology",
+        "age",
+        "usage"
+      ],
+      "timeCreated": 1736103540
     },
     {
       "id": 596,
@@ -7917,6 +8006,28 @@
         "leadership"
       ],
       "timeCreated": 1735949820
+    },
+    {
+      "id": 602,
+      "audioText": "Je te rendrai ta perceuse demain sans faute. Je ne suis pas encore prêt à commencer les travaux, j'attends une livraison de matériel.",
+      "question": "Je te ______ ta perceuse demain, je ne suis pas encore ______.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "rends / prêt",
+        "rendrai / prêt",
+        "rendais / près",
+        "rendre / prêter"
+      ],
+      "correct": 1,
+      "explanation": "'Rendrai' is the first-person singular of the futur simple of 'rendre' (to give back). 'Prêt' is an adjective meaning 'ready'.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "tools",
+        "borrowing",
+        "planning"
+      ],
+      "timeCreated": 1720181359
     },
     {
       "id": 603,
@@ -8540,6 +8651,29 @@
       "timeCreated": 1735952640
     },
     {
+      "id": 648,
+      "audioText": "En passant devant cette chambre vide, je t'aiderai à choisir les nouveaux meubles.",
+      "question": "En ______ devant cette chambre vide, je t'aiderai à choisir les nouveaux meubles.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "passant",
+        "restant",
+        "regardant",
+        "entrant"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>En passant devant cette chambre vide, je t'aiderai à choisir les nouveaux meubles</em>' - While passing by this empty room, I will help you choose the new furniture. 'Passant' is the present participle of 'passer' (to pass), and 'aiderai' is the future form of 'aider' (to help), targeting multiple missing conjugates plus the under-represented 'helping' and 'rooms' topics.",
+      "difficulty": "B2",
+      "source": "Home assistance",
+      "tags": [
+        "helping",
+        "rooms",
+        "furniture",
+        "assistance"
+      ],
+      "timeCreated": 1736103480
+    },
+    {
       "id": 649,
       "audioText": "Il faut que je suive les instructions de lavage sur cette étiquette pour éviter d'abîmer ce pull en laine.",
       "question": "Il faut que je ______ les instructions de lavage sur cette étiquette pour éviter d'abîmer ce pull en laine.",
@@ -8561,6 +8695,29 @@
         "household"
       ],
       "timeCreated": 1735952760
+    },
+    {
+      "id": 650,
+      "audioText": "Les clients sentent immédiatement la différence avec notre nouveau service personnalisé.",
+      "question": "What do clients immediately notice?",
+      "questionType": "comprehension",
+      "options": [
+        "The difference with our new personalized service",
+        "The higher prices for premium products",
+        "The longer waiting times during peak hours",
+        "The changes in the store layout design"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les clients sentent immédiatement la différence avec notre nouveau service personnalisé</em>' - The clients immediately feel/notice the difference with our new personalized service. 'Sentent' is the third person plural present form of 'sentir' (to feel/sense), targeting both the missing verb conjugate and under-represented 'service' topic.",
+      "difficulty": "B1",
+      "source": "Customer service",
+      "tags": [
+        "service",
+        "customers",
+        "business",
+        "improvement"
+      ],
+      "timeCreated": 1736103420
     },
     {
       "id": 651,
@@ -8609,6 +8766,29 @@
       "timeCreated": 1735952940
     },
     {
+      "id": 653,
+      "audioText": "Il est nécessaire de comprendre que cette solution n'est pas parfaite mais reste utile.",
+      "question": "What is necessary to understand?",
+      "questionType": "comprehension",
+      "options": [
+        "That this solution isn't perfect but remains useful",
+        "That this solution requires immediate improvement",
+        "That this solution should be completely abandoned",
+        "That this solution works perfectly in all cases"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il est nécessaire de comprendre que cette solution n'est pas parfaite mais reste utile</em>' - It is necessary to understand that this solution isn't perfect but remains useful. 'Nécessaire' (necessary) emphasizes the importance of this balanced perspective on imperfect but practical solutions.",
+      "difficulty": "B2",
+      "source": "Problem-solving perspective",
+      "tags": [
+        "problem-solving",
+        "perspective",
+        "practicality",
+        "understanding"
+      ],
+      "timeCreated": 1736103360
+    },
+    {
       "id": 654,
       "audioText": "Tu parleras de cette pièce de puzzle manquante avec tes coéquipiers lors du tournoi d'échecs.",
       "question": "Qu'est-ce que vous avez entendu ?",
@@ -8630,6 +8810,29 @@
         "tournaments"
       ],
       "timeCreated": 1735953060
+    },
+    {
+      "id": 655,
+      "audioText": "Après cette journée chaude et sèche, nous avons besoin d'un peu d'eau fraîche.",
+      "question": "Après cette journée chaude et ______, nous avons besoin d'un peu d'eau fraîche.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sèche",
+        "humide",
+        "froide",
+        "longue"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Après cette journée chaude et sèche, nous avons besoin d'un peu d'eau fraîche</em>' - After this hot and dry day, we need some fresh water. 'Sèche' (dry) pairs naturally with 'chaude' (hot) to describe weather conditions, contrasting with the desired 'fraîche' (fresh) water.",
+      "difficulty": "B1",
+      "source": "Weather and thirst",
+      "tags": [
+        "weather",
+        "temperature",
+        "thirst",
+        "water"
+      ],
+      "timeCreated": 1736103300
     },
     {
       "id": 656,
@@ -8699,6 +8902,29 @@
         "celebrations"
       ],
       "timeCreated": 1735953300
+    },
+    {
+      "id": 659,
+      "audioText": "Cette idée géniale lui est venue en observant la main gauche du pianiste.",
+      "question": "How did this brilliant idea come to him?",
+      "questionType": "comprehension",
+      "options": [
+        "By observing the pianist's left hand",
+        "By listening to the piano melody carefully",
+        "By reading about musical techniques",
+        "By practicing scales every morning"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette idée géniale lui est venue en observant la main gauche du pianiste</em>' - This brilliant idea came to him by observing the pianist's left hand. 'Géniale' (brilliant/genius) and 'gauche' (left) describe the inspiration source and specific hand position.",
+      "difficulty": "B1",
+      "source": "Musical inspiration",
+      "tags": [
+        "music",
+        "piano",
+        "inspiration",
+        "observation"
+      ],
+      "timeCreated": 1736103240
     },
     {
       "id": 660,
@@ -8793,6 +9019,29 @@
       "timeCreated": 1735953600
     },
     {
+      "id": 664,
+      "audioText": "L'écart immense entre les riches et les pauvres nécessaire une réforme urgente.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "L'écart immense entre les riches et les pauvres nécessite une réforme urgente.",
+        "L'écart immense entre les riches et les pauvres nécessaire une réforme urgente.",
+        "L'écart énorme entre les riches et les pauvres nécessite une réforme urgente.",
+        "L'écart immense entre les riches et les pauvres nécessitent une réforme urgente."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>L'écart immense entre les riches et les pauvres nécessite une réforme urgente</em>' - The immense gap between the rich and the poor requires urgent reform. 'Immense' (immense/huge), 'riches' (rich), and 'nécessaire/nécessite' show the scale and urgency. The distractors test verb form errors (nécessaire, nécessitent) and adjective confusion (énorme).",
+      "difficulty": "B2",
+      "source": "Social inequality",
+      "tags": [
+        "politics",
+        "inequality",
+        "social-issues",
+        "reform"
+      ],
+      "timeCreated": 1736103180
+    },
+    {
       "id": 665,
       "audioText": "Pour organiser sa garde-robe, elle classe simplement ses vêtements par couleur et par saison.",
       "question": "How does she organize her wardrobe?",
@@ -8838,27 +9087,25 @@
     },
     {
       "id": 667,
-      "type": "fill-in-the-blank",
-      "question": "Si vous _______ mes conseils, vous auriez réussi.",
       "audioText": "Si vous suiviez mes conseils, vous auriez réussi.",
-      "answer": "suiviez",
-      "hint": "Imperfect subjunctive of 'suivre'",
-      "level": "b",
-      "tags": [
-        "advice",
-        "hypothetical"
-      ],
+      "question": "Si vous _______ mes conseils, vous auriez réussi.",
       "questionType": "fill-in-the-blank",
       "options": [
         "suiviez",
         "suivez",
-        "suiviez",
+        "suivies",
         "suivrons"
       ],
       "correct": 0,
-      "explanation": "'Suiviez' is the imperfect subjunctive of 'suivre', used in a hypothetical clause with 'si'.",
+      "explanation": "The text states '<em>Si vous suiviez mes conseils, vous auriez réussi.</em>' - If you had followed my advice, you would have succeeded. The imperfect subjunctive 'suiviez' is used in the conditional clause with 'si' to express a hypothetical situation in the past.",
       "difficulty": "B2",
-      "source": "Gemini CLI"
+      "source": "Gemini CLI",
+      "tags": [
+        "workplace",
+        "mentoring",
+        "professional-advice"
+      ],
+      "timeCreated": 1751761790
     },
     {
       "id": 668,
@@ -9229,8 +9476,7 @@
         "tokyo",
         "japan",
         "gardens",
-        "cultural-experience",
-        "trouver"
+        "cultural-experience"
       ]
     },
     {
@@ -9641,6 +9887,29 @@
       "timeCreated": 1736066800
     },
     {
+      "id": 703,
+      "audioText": "Son explication était si claire qu'elle a corrigé toutes ses réponses fausses immédiatement.",
+      "question": "Son explication était si ______ qu'elle a corrigé toutes ses réponses fausses immédiatement.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "claire",
+        "longue",
+        "difficile",
+        "rapide"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Son explication était si claire qu'elle a corrigé toutes ses réponses fausses immédiatement</em>' - His explanation was so clear that she corrected all her false answers immediately. 'Claire' (clear) contrasts with 'fausses' (false), showing how clarity helped fix errors.",
+      "difficulty": "B2",
+      "source": "Educational correction",
+      "tags": [
+        "education",
+        "explanations",
+        "corrections",
+        "clarity"
+      ],
+      "timeCreated": 1736103120
+    },
+    {
       "id": 704,
       "audioText": "Pourquoi demandez-vous toujours des explications supplémentaires pendant les réunions?",
       "question": "Pourquoi ______ toujours des explications supplémentaires pendant les réunions?",
@@ -9691,16 +9960,16 @@
     {
       "id": 706,
       "audioText": "Pourquoi essayez-vous toujours de résoudre les problèmes seuls sans demander d'aide?",
-      "question": "Why do they always try to solve problems alone?",
+      "question": "How do they always try to solve problems?",
       "questionType": "comprehension",
       "options": [
-        "Without asking for help",
-        "Because they don't trust others",
-        "To prove they are capable",
-        "To avoid bothering their colleagues"
+        "Alone, without asking for help",
+        "By working in small teams",
+        "By consulting with supervisors first",
+        "Through collaborative brainstorming"
       ],
       "correct": 0,
-      "explanation": "The text states 'Pourquoi essayez-vous toujours de résoudre les problèmes seuls sans demander d'aide?' - Why do you always try to solve problems alone without asking for help? 'Essayez' is the second person plural present tense of 'essayer' (to try) in interrogative form.",
+      "explanation": "The text states '<em>Pourquoi essayez-vous toujours de résoudre les problèmes seuls sans demander d'aide?</em>' - Why do you always try to solve problems alone without asking for help? The question describes their method: working 'seuls sans demander d'aide' (alone without asking for help). 'Essayez' is the second person plural present tense of 'essayer' (to try) in interrogative form.",
       "difficulty": "B2",
       "source": "Problem-solving and teamwork",
       "tags": [
@@ -9834,17 +10103,17 @@
     },
     {
       "id": 712,
-      "audioText": "Qu'est-ce que vous avez entendu ?",
-      "question": "La dissertation est enfin finie après trois semaines de recherches intensives.",
+      "audioText": "La dissertation est enfin finie après trois semaines de recherches intensives.",
+      "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
       "options": [
         "La dissertation est enfin finie après trois semaines de recherches intensives.",
-        "La dissertation est enfin finie après trois semaines de recherches intensives.",
         "La dissertation est enfin fini après trois semaines de recherches intensives.",
-        "La dissertation est enfin terminée après trois semaines de recherches intensives."
+        "La dissertation est enfin terminée après trois semaines de recherches intensives.",
+        "La dissertation est enfin complétée après trois semaines de recherches intensives."
       ],
       "correct": 0,
-      "explanation": "The speaker said 'La dissertation est enfin finie après trois semaines de recherches intensives.' - The dissertation is finally finished after three weeks of intensive research. 'Finie' is the feminine past participle of 'finir' (to finish), agreeing with 'dissertation'.",
+      "explanation": "The text states '<em>La dissertation est enfin finie après trois semaines de recherches intensives.</em>' - The dissertation is finally finished after three weeks of intensive research. 'Finie' is the feminine past participle of 'finir' (to finish), agreeing with the feminine noun 'dissertation'. The distractors test gender agreement ('fini' - incorrect masculine) and synonym variations ('terminée', 'complétée').",
       "difficulty": "B2",
       "source": "Academic writing completion",
       "tags": [
@@ -9930,7 +10199,7 @@
     },
     {
       "id": 716,
-      "audioText": "Quand j'étais petit, ma grand-mère jouait du piano tous les dimanches après-midi.",
+      "audioText": "Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit.",
       "question": "What did the grandmother do every Sunday afternoon?",
       "questionType": "comprehension",
       "options": [
@@ -9940,7 +10209,7 @@
         "She worked in her garden"
       ],
       "correct": 0,
-      "explanation": "The text states 'Quand j'étais petit, ma grand-mère jouait du piano tous les dimanches après-midi' - When I was little, my grandmother played the piano every Sunday afternoon. 'Jouait' is the third person singular imperfect tense of 'jouer' (to play), describing a past habit.",
+      "explanation": "The text states '<em>Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit</em>' - My grandmother played the piano every Sunday afternoon when I was little. 'Jouait' is the imperfect form of 'jouer' (to play), describing a past habit with the temporal clause repositioned.",
       "difficulty": "B2",
       "source": "Childhood music memories",
       "tags": [
@@ -10613,13 +10882,2770 @@
         "efficiency"
       ],
       "timeCreated": 1704415200
+    },
+    {
+      "id": 748,
+      "audioText": "Quand j'étais enfant, je sentais toujours le chlore sur ma peau après la piscine.",
+      "question": "What did the speaker always feel on their skin as a child?",
+      "questionType": "comprehension",
+      "options": [
+        "Chlorine after swimming",
+        "Sunscreen at the beach",
+        "Sand from the playground",
+        "Soap from the shower"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Quand j'étais enfant, je sentais toujours le chlore sur ma peau après la piscine</em>' - When I was a child, I always felt the chlorine on my skin after the pool. 'Sentais' is the first person singular imperfect form of 'sentir' (to feel/smell).",
+      "difficulty": "B1",
+      "source": "Childhood memories",
+      "tags": [
+        "swimming",
+        "childhood",
+        "pool"
+      ],
+      "timeCreated": 1704415620
+    },
+    {
+      "id": 749,
+      "audioText": "Il tenait fermement le parapluie pendant l'orage extraordinaire qui a duré trois heures.",
+      "question": "Il ______ fermement le parapluie pendant l'orage extraordinaire qui a duré trois heures.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "tenait",
+        "tient",
+        "tiendrait",
+        "a tenu"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il tenait fermement le parapluie pendant l'orage extraordinaire qui a duré trois heures</em>' - He held the umbrella firmly during the extraordinary storm that lasted three hours. 'Tenait' is the third person singular imperfect form of 'tenir' (to hold), describing a continuous action in the past.",
+      "difficulty": "B1",
+      "source": "Unusual weather event",
+      "tags": [
+        "rare-events",
+        "weather",
+        "storm"
+      ],
+      "timeCreated": 1704415680
+    },
+    {
+      "id": 750,
+      "audioText": "Le chat tuera sûrement les oiseaux dans le jardin si on ne fait rien.",
+      "question": "What will the cat definitely do to the birds in the garden?",
+      "questionType": "comprehension",
+      "options": [
+        "Kill them if nothing is done",
+        "Chase them away peacefully",
+        "Play with them gently",
+        "Ignore them completely"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le chat tuera sûrement les oiseaux dans le jardin si on ne fait rien</em>' - The cat will surely kill the birds in the garden if we don't do anything. 'Tuera' is the third person singular future form of 'tuer' (to kill).",
+      "difficulty": "B1",
+      "source": "Pet behavior",
+      "tags": [
+        "birds",
+        "pets",
+        "garden"
+      ],
+      "timeCreated": 1704415740
+    },
+    {
+      "id": 751,
+      "audioText": "Elle sortira de la maison très tôt demain matin pour commencer sa routine d'exercice.",
+      "question": "When will she leave the house tomorrow?",
+      "questionType": "comprehension",
+      "options": [
+        "Very early in the morning to start her exercise routine",
+        "Late in the evening after finishing work",
+        "In the afternoon for a shopping trip",
+        "Around noon for a lunch meeting"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle sortira de la maison très tôt demain matin pour commencer sa routine d'exercice</em>' - She will leave the house very early tomorrow morning to start her exercise routine. 'Sortira' is the third person singular future form of 'sortir' (to go out/leave).",
+      "difficulty": "B1",
+      "source": "Daily routine",
+      "tags": [
+        "morning-routine",
+        "exercise",
+        "early"
+      ],
+      "timeCreated": 1704415860
+    },
+    {
+      "id": 752,
+      "audioText": "Vous trouverez les fruits les plus frais au marché tôt le matin.",
+      "question": "Vous ______ les fruits les plus frais au marché tôt le matin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "trouverez",
+        "trouvez",
+        "trouveriez",
+        "avez trouvé"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous trouverez les fruits les plus frais au marché tôt le matin</em>' - You will find the freshest fruits at the market early in the morning. 'Trouverez' is the second person plural future form of 'trouver' (to find).",
+      "difficulty": "B1",
+      "source": "Market shopping",
+      "tags": [
+        "fruits",
+        "market",
+        "morning"
+      ],
+      "timeCreated": 1704415920
+    },
+    {
+      "id": 753,
+      "audioText": "Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été.",
+      "question": "What did the children do too much of during summer vacation?",
+      "questionType": "comprehension",
+      "options": [
+        "Spent time in front of screens",
+        "Played outside in the garden",
+        "Read books in the library",
+        "Visited friends and family"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été</em>' - The children spent too much time in front of screens during summer vacation. 'Passés' here appears in the compound past tense 'ont passé', with 'passés' being the past participle of 'passer' (to spend time).",
+      "difficulty": "B1",
+      "source": "Summer activities",
+      "tags": [
+        "screen-time",
+        "children",
+        "summer"
+      ],
+      "timeCreated": 1704415980
+    },
+    {
+      "id": 754,
+      "audioText": "Si tu continues à me provoquer de la sorte, je te jure que je ne répondrai plus de mes actes et je te tuerai sans hésitation. C'est une menace sérieuse.",
+      "question": "What is the speaker threatening to do?",
+      "questionType": "comprehension",
+      "options": [
+        "Leave the room",
+        "Call the police",
+        "Kill the other person",
+        "Start a fight"
+      ],
+      "correct": 2,
+      "explanation": "The phrase 'je te tuerai' is the future tense of the verb 'tuer' (to kill), meaning 'I will kill you'. The speaker is making a direct and serious threat.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "conflict",
+        "threat",
+        "formal-discussion"
+      ],
+      "timeCreated": 1720181341
+    },
+    {
+      "id": 755,
+      "audioText": "Si tu essaies de réparer cette vieille horloge toi-même sans les bons outils, tu risques de l'endommager encore plus. Il vaut mieux appeler un professionnel.",
+      "question": "What is the speaker advising against?",
+      "questionType": "comprehension",
+      "options": [
+        "Buying a new clock",
+        "Trying to fix the old clock without proper tools",
+        "Calling a professional for help",
+        "Cleaning the clock"
+      ],
+      "correct": 1,
+      "explanation": "The verb 'essaies' is the present subjunctive of 'essayer' (to try). The sentence warns against trying to repair the clock yourself, suggesting it could lead to more damage.",
+      "difficulty": "B1",
+      "source": "Gemini CLI",
+      "tags": [
+        "advice",
+        "repairs",
+        "daily-life"
+      ],
+      "timeCreated": 1720181342
+    },
+    {
+      "id": 756,
+      "audioText": "Demain, je passerai un entretien d'embauche pour un poste de chef de projet. J'espère vraiment que ça se passera bien.",
+      "question": "Demain, je ______ un entretien d'embauche pour un poste de chef de projet.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "passerons",
+        "passerez",
+        "passerai",
+        "passeras"
+      ],
+      "correct": 2,
+      "explanation": "The sentence requires the first-person singular of the futur simple tense for the verb 'passer', which is 'passerai'. This translates to 'I will have a job interview'.",
+      "difficulty": "B1",
+      "source": "Gemini CLI",
+      "tags": [
+        "career",
+        "job-interview",
+        "workplace"
+      ],
+      "timeCreated": 1720181343
+    },
+    {
+      "id": 757,
+      "audioText": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
+      "question": "Why did the father and his friends go out?",
+      "questionType": "comprehension",
+      "options": [
+        "To celebrate a birthday",
+        "To watch a movie",
+        "To celebrate winning a pétanque tournament",
+        "To have a quiet dinner"
+      ],
+      "correct": 2,
+      "explanation": "The text states, 'Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque', which means 'My father and his friends went out last night to celebrate their victory in the pétanque tournament'.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "father",
+        "celebration",
+        "sports",
+        "friends"
+      ],
+      "timeCreated": 1720181344
+    },
+    {
+      "id": 758,
+      "audioText": "Je ne pense pas qu'elle revienne dans sa chambre avant minuit.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Je ne pense pas qu'elle revienne dans sa chambre avant minuit.",
+        "Je ne pense pas qu'elle revient dans sa chambre avant minuit.",
+        "Je ne pense pas qu'elle reviendra dans sa chambre avant minuit.",
+        "Je ne pense pas qu'elle revienne dans son bureau avant minuit."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je ne pense pas qu'elle revienne dans sa chambre avant minuit</em>' - I don't think she'll come back to her bedroom before midnight. 'Revienne' is the third person singular subjunctive form of 'revenir' (to come back), used after 'Je ne pense pas que'. The distractors test subjunctive vs. indicative mood and location confusion.",
+      "difficulty": "B2",
+      "source": "Evening routine",
+      "tags": [
+        "bedroom",
+        "evening",
+        "subjunctive"
+      ],
+      "timeCreated": 1704416160
+    },
+    {
+      "id": 759,
+      "audioText": "Il faut qu'elle meure de peur avant que l'alerte ne se déclenche.",
+      "question": "What must happen before the alert goes off?",
+      "questionType": "comprehension",
+      "options": [
+        "She must be scared to death",
+        "She must call for help",
+        "She must run away quickly",
+        "She must hide somewhere safe"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il faut qu'elle meure de peur avant que l'alerte ne se déclenche</em>' - She must be scared to death before the alert goes off. 'Meure' is the third person singular subjunctive form of 'mourir' (to die), used after 'Il faut que'. The expression 'mourir de peur' means to be scared to death.",
+      "difficulty": "B2",
+      "source": "Emergency scenario",
+      "tags": [
+        "alert",
+        "fear",
+        "emergency"
+      ],
+      "timeCreated": 1704416220
+    },
+    {
+      "id": 760,
+      "audioText": "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage.",
+      "question": "What does the doctor believe will happen if the symptoms worsen further?",
+      "questionType": "comprehension",
+      "options": [
+        "The patient will die",
+        "The patient will recover quickly",
+        "The patient will need surgery",
+        "The patient will be discharged"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage</em>' - The doctor believes this patient will die if the symptoms worsen further. 'Mourra' is the third person singular future form of 'mourir' (to die).",
+      "difficulty": "B1",
+      "source": "Medical prognosis",
+      "tags": [
+        "symptoms",
+        "medical",
+        "prognosis"
+      ],
+      "timeCreated": 1704416340
+    },
+    {
+      "id": 761,
+      "audioText": "Elle était fatiguée après ses devoirs, alors elle s'est couchée très tôt ce soir-là.",
+      "question": "Why did she go to bed very early that night?",
+      "questionType": "comprehension",
+      "options": [
+        "She was tired after her homework",
+        "She had an early class the next day",
+        "She wanted to wake up for breakfast",
+        "She was feeling sick from studying"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle était fatiguée après ses devoirs, alors elle s'est couchée très tôt ce soir-là</em>' - She was tired after her homework, so she went to bed very early that night. 'Alors' means 'so/therefore' and introduces a logical consequence.",
+      "difficulty": "B1",
+      "source": "Student routine",
+      "tags": [
+        "homework",
+        "tiredness",
+        "bedtime"
+      ],
+      "timeCreated": 1704416460
+    },
+    {
+      "id": 762,
+      "audioText": "Ma grand-mère a toujours vécu ici, mais maintenant elle habite ailleurs dans une maison de retraite.",
+      "question": "Ma grand-mère a toujours vécu ici, mais maintenant elle habite ______ dans une maison de retraite.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "ailleurs",
+        "ici",
+        "là-bas",
+        "partout"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma grand-mère a toujours vécu ici, mais maintenant elle habite ailleurs dans une maison de retraite</em>' - My grandmother always lived here, but now she lives elsewhere in a retirement home. 'Ailleurs' means 'elsewhere/somewhere else' and contrasts with 'ici' (here).",
+      "difficulty": "B1",
+      "source": "Family changes",
+      "tags": [
+        "grandmother",
+        "relocation",
+        "retirement"
+      ],
+      "timeCreated": 1704416520
+    },
+    {
+      "id": 763,
+      "audioText": "Cette soirée était géniale, surtout la musique et l'ambiance festive qui régnaient.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cette soirée était géniale, surtout la musique et l'ambiance festive qui régnaient.",
+        "Cette soirée était géniale, même la musique et l'ambiance festive qui régnaient.",
+        "Cette soirée était géniale, surtout la musique et l'ambiance calme qui régnait.",
+        "Cette fête était géniale, surtout la musique et l'ambiance festive qui régnaient."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette soirée était géniale, surtout la musique et l'ambiance festive qui régnaient</em>' - This evening was awesome, especially the music and festive atmosphere that prevailed. 'Surtout' means 'especially/above all' and emphasizes particular aspects. The distractors test word choice (même), adjective confusion (calme), and noun substitution (fête).",
+      "difficulty": "B1",
+      "source": "Party review",
+      "tags": [
+        "parties",
+        "social-events",
+        "atmosphere"
+      ],
+      "timeCreated": 1704416580
+    },
+    {
+      "id": 764,
+      "audioText": "Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part.",
+      "question": "Where did he look for his keys?",
+      "questionType": "comprehension",
+      "options": [
+        "Everywhere in the house but found them nowhere",
+        "Only in the living room and kitchen",
+        "Outside in the garden and garage",
+        "In his car and office building"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part</em>' - He looked for his keys everywhere in the house but didn't find them anywhere. 'Partout' means 'everywhere' and contrasts with 'nulle part' (nowhere).",
+      "difficulty": "B1",
+      "source": "Daily search",
+      "tags": [
+        "cleaning",
+        "searching",
+        "keys"
+      ],
+      "timeCreated": 1704416640
+    },
+    {
+      "id": 765,
+      "audioText": "Elle observait tranquillement les étoiles quand soudain un météore a traversé le ciel nocturne.",
+      "question": "Elle observait tranquillement les étoiles quand ______ un météore a traversé le ciel nocturne.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "soudain",
+        "souvent",
+        "lentement",
+        "doucement"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle observait tranquillement les étoiles quand soudain un météore a traversé le ciel nocturne</em>' - She was quietly observing the stars when suddenly a meteor crossed the night sky. 'Soudain' means 'suddenly' and indicates an unexpected, abrupt event.",
+      "difficulty": "B1",
+      "source": "Night observation",
+      "tags": [
+        "night",
+        "observation",
+        "astronomy"
+      ],
+      "timeCreated": 1704416700
+    },
+    {
+      "id": 766,
+      "audioText": "Il a pris ses médicaments et aussitôt son état de santé s'est amélioré considérablement.",
+      "question": "What happened immediately after he took his medication?",
+      "questionType": "comprehension",
+      "options": [
+        "His health improved considerably",
+        "He felt dizzy and nauseous",
+        "He went to sleep for hours",
+        "He called his doctor for advice"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il a pris ses médicaments et aussitôt son état de santé s'est amélioré considérablement</em>' - He took his medication and immediately his health improved considerably. 'Aussitôt' means 'immediately/right away' and indicates something happening without delay.",
+      "difficulty": "B1",
+      "source": "Medical recovery",
+      "tags": [
+        "wellness",
+        "medication",
+        "recovery"
+      ],
+      "timeCreated": 1704416760
+    },
+    {
+      "id": 767,
+      "audioText": "Chaque fois que le clown entrait en scène, on sentait une vague de rire monter dans le public. Son humour était si contagieux que même les plus sérieux ne pouvaient s'empêcher de sourire.",
+      "question": "What was the common feeling when the clown appeared?",
+      "questionType": "comprehension",
+      "options": [
+        "A sense of fear",
+        "A wave of laughter",
+        "A feeling of sadness",
+        "A moment of silence"
+      ],
+      "correct": 1,
+      "explanation": "The text says, 'on sentait une vague de rire monter', which means 'one felt a wave of laughter rising'. The verb 'sentait' is the imparfait tense of 'sentir' (to feel).",
+      "difficulty": "B1",
+      "source": "Gemini CLI",
+      "tags": [
+        "humor",
+        "entertainment",
+        "circus"
+      ],
+      "timeCreated": 1720181346
+    },
+    {
+      "id": 768,
+      "audioText": "Il est tout à fait humain de faire des erreurs, mais pour progresser, il faut s'analyser régulièrement et apprendre de ses échecs.",
+      "question": "Pour progresser, il faut s'analyser ______ et apprendre de ses échecs.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "rarement",
+        "régulièrement",
+        "parfois",
+        "jamais"
+      ],
+      "correct": 1,
+      "explanation": "The sentence discusses the necessity of frequent self-analysis for personal growth. The adverb 'régulièrement' (regularly) fits this context perfectly. The adjective 'humain' (human) is also used.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "psychology",
+        "self-improvement",
+        "learning"
+      ],
+      "timeCreated": 1720181347
+    },
+    {
+      "id": 769,
+      "audioText": "Chaque fois que je passais devant ce vieux théâtre, j'imaginais les événements incroyables qui avaient dû s'y dérouler il y a des décennies. C'était comme un voyage dans le temps.",
+      "question": "What did the speaker imagine when walking past the old theater?",
+      "questionType": "comprehension",
+      "options": [
+        "The modern plays being performed",
+        "The incredible events that must have taken place there decades ago",
+        "The price of the tickets",
+        "The actors getting ready backstage"
+      ],
+      "correct": 1,
+      "explanation": "The sentence uses 'passais', the imparfait tense of 'passer', to describe a repeated action in the past. The speaker imagined the historical events inside the theater.",
+      "difficulty": "B1",
+      "source": "Gemini CLI",
+      "tags": [
+        "events",
+        "history",
+        "imagination",
+        "daily-life"
+      ],
+      "timeCreated": 1720181350
+    },
+    {
+      "id": 770,
+      "audioText": "Personnellement, je trouve que le mur blanc donne une impression d'espace et de lumière, mais le designer pense qu'une couleur plus audacieuse serait plus appropriée pour ce design.",
+      "question": "______, je trouve que le mur blanc donne une impression d'espace.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "Objectivement",
+        "Généralement",
+        "Personnellement",
+        "Finalement"
+      ],
+      "correct": 2,
+      "explanation": "The adverb 'Personnellement' (personally) is used to introduce a personal opinion, which is contrasted with the designer's opinion. The adjective 'blanc' (white) is also featured.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "design",
+        "opinion",
+        "interior-design"
+      ],
+      "timeCreated": 1720181351
+    },
+    {
+      "id": 771,
+      "audioText": "Depuis juillet, les femmes danoises peuvent être appelées au service militaire obligatoire.",
+      "question": "What change occurred in Denmark regarding military service?",
+      "questionType": "comprehension",
+      "options": [
+        "Women can now be called for mandatory military service",
+        "Military service is no longer mandatory for anyone",
+        "Only men over 21 can serve in the military",
+        "Foreign nationals can now join the Danish army"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Depuis juillet, les femmes danoises peuvent être appelées au service militaire obligatoire</em>' - Since July, Danish women can be called for mandatory military service. This represents a significant policy change expanding military conscription to include women alongside men.",
+      "difficulty": "B1",
+      "source": "News policy",
+      "tags": [
+        "politics",
+        "military",
+        "policy",
+        "gender-equality"
+      ],
+      "timeCreated": 1736102400
+    },
+    {
+      "id": 772,
+      "audioText": "Le chat noir sortait souvent la nuit et sautait dessus le toit de la maison.",
+      "question": "Where did the black cat jump at night?",
+      "questionType": "comprehension",
+      "options": [
+        "On top of the house roof",
+        "Into the neighbor's garden",
+        "Through the front door",
+        "Under the old wooden table"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le chat noir sortait souvent la nuit et sautait dessus le toit de la maison</em>' - The black cat would often go out at night and jump on top of the house roof. 'Sortait' is the imperfect form of 'sortir' (to go out), 'dessus' means 'on top of', and 'noir' describes the cat's color.",
+      "difficulty": "B1",
+      "source": "Animal behavior",
+      "tags": [
+        "animals",
+        "nighttime",
+        "house"
+      ],
+      "timeCreated": 1736102460
+    },
+    {
+      "id": 773,
+      "audioText": "J'ai cherché mes clés partout mais je les ai perdus, c'est fou autrement je serais déjà parti.",
+      "question": "J'ai cherché mes clés partout mais je les ai ______, c'est fou autrement je serais déjà parti.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "perdus",
+        "trouvés",
+        "rangés",
+        "oubliés"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>J'ai cherché mes clés partout mais je les ai perdus, c'est fou autrement je serais déjà parti</em>' - I looked for my keys everywhere but I lost them, it's crazy otherwise I would have already left. 'Perdus' is the past participle of 'perdre' (to lose), 'fou' means 'crazy', and 'autrement' means 'otherwise'.",
+      "difficulty": "B2",
+      "source": "Daily frustration",
+      "tags": [
+        "searching",
+        "keys",
+        "frustration"
+      ],
+      "timeCreated": 1736102520
+    },
+    {
+      "id": 774,
+      "audioText": "Il tiendra naturellement sa promesse même si cela semble impossible à réaliser maintenant.",
+      "question": "What will he naturally do despite the apparent difficulty?",
+      "questionType": "comprehension",
+      "options": [
+        "Keep his promise even if it seems impossible",
+        "Cancel his plans due to the challenges",
+        "Ask for help from his family members",
+        "Delay the project until next year"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il tiendra naturellement sa promesse même si cela semble impossible à réaliser maintenant</em>' - He will naturally keep his promise even if it seems impossible to achieve now. 'Tiendra' is the future form of 'tenir' (to hold/keep), 'naturellement' means 'naturally', and 'impossible' describes the apparent difficulty.",
+      "difficulty": "B2",
+      "source": "Personal commitment",
+      "tags": [
+        "promises",
+        "determination",
+        "challenges"
+      ],
+      "timeCreated": 1736102580
+    },
+    {
+      "id": 775,
+      "audioText": "Je resterai environ trois jours chez ma grand-mère car elle est malade.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Je resterai environ trois jours chez ma grand-mère car elle est malade.",
+        "Je resterai exactement trois jours chez ma grand-mère car elle est malade.",
+        "Je resterai environ trois jours chez ma grand-mère car elle est fatiguée.",
+        "Je reviendrai environ trois jours chez ma grand-mère car elle est malade."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je resterai environ trois jours chez ma grand-mère car elle est malade</em>' - I will stay about three days at my grandmother's because she is sick. 'Resterai' is the future form of 'rester' (to stay), 'environ' means 'about/approximately', and 'malade' means 'sick'. The distractors test precision confusion (exactement), symptom confusion (fatiguée), and verb confusion (reviendrai).",
+      "difficulty": "B1",
+      "source": "Family care",
+      "tags": [
+        "family",
+        "health",
+        "visiting"
+      ],
+      "timeCreated": 1736102640
+    },
+    {
+      "id": 776,
+      "audioText": "Pour que la démocratie vive et prospère, il est impératif que chaque citoyen participe activement au processus électoral et exprime ses opinions de manière constructive.",
+      "question": "Pour que la démocratie ______, il est impératif que chaque citoyen participe.",
+      "questionType": "listening",
+      "options": [
+        "vit",
+        "vivra",
+        "vive",
+        "vivait"
+      ],
+      "correct": 2,
+      "explanation": "The phrase 'Pour que' (in order that) requires the subjunctive mood. 'Vive' is the present subjunctive form of the verb 'vivre' (to live), used here to express a goal or necessity.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "goals",
+        "politics",
+        "democracy",
+        "civic-duty"
+      ],
+      "timeCreated": 1720181353
+    },
+    {
+      "id": 777,
+      "audioText": "Mes nouveaux voisins sont vraiment sympas. Ils tiennent toujours la porte et proposent leur aide quand ils voient que j'ai les bras chargés. C'est un geste de courtoisie simple mais appréciable.",
+      "question": "How do the new neighbors show courtesy?",
+      "questionType": "comprehension",
+      "options": [
+        "They play loud music",
+        "They ignore the speaker",
+        "They hold the door and offer help",
+        "They ask for favors"
+      ],
+      "correct": 2,
+      "explanation": "The text mentions 'Ils tiennent toujours la porte' (They always hold the door), using the verb 'tiennent' (from 'tenir'). It also describes them as 'sympas' (nice).",
+      "difficulty": "B1",
+      "source": "Gemini CLI",
+      "tags": [
+        "courtesy",
+        "neighbors",
+        "daily-life"
+      ],
+      "timeCreated": 1720181354
+    },
+    {
+      "id": 778,
+      "audioText": "Il travaille seul dans son bureau depuis le matin car il préfère la tranquillité.",
+      "question": "Why does he work alone in his office?",
+      "questionType": "comprehension",
+      "options": [
+        "Because he prefers the quiet",
+        "Because his colleagues are absent",
+        "Because he has too much work",
+        "Because the meeting was cancelled"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il travaille seul dans son bureau depuis le matin car il préfère la tranquillité</em>' - He works alone in his office since morning because he prefers the quiet. 'Seul' means 'alone' and describes his work preference for solitude.",
+      "difficulty": "B1",
+      "source": "Workplace preference",
+      "tags": [
+        "workplace",
+        "preferences",
+        "solitude"
+      ],
+      "timeCreated": 1736102760
+    },
+    {
+      "id": 779,
+      "audioText": "Cette histoire étrange m'a fasciné toute la soirée et j'ai eu du mal à dormir.",
+      "question": "Cette histoire ______ m'a fasciné toute la soirée et j'ai eu du mal à dormir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "étrange",
+        "amusante",
+        "courte",
+        "simple"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette histoire étrange m'a fasciné toute la soirée et j'ai eu du mal à dormir</em>' - This strange story fascinated me all evening and I had trouble sleeping. 'Étrange' means 'strange/odd' and explains why the story was so captivating.",
+      "difficulty": "B2",
+      "source": "Evening reading",
+      "tags": [
+        "stories",
+        "reading",
+        "emotions",
+        "mystery"
+      ],
+      "timeCreated": 1736102820
+    },
+    {
+      "id": 780,
+      "audioText": "Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner.",
+        "Le service parfait de ce restaurant impressionne tous les clients qui viennent déjeuner.",
+        "Le service rapide de ce restaurant impressionne tous les clients qui viennent dîner.",
+        "Le service rapide de ce restaurant intéresse tous les clients qui viennent déjeuner."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner</em>' - The fast service of this restaurant impresses all the clients who come for lunch. 'Rapide' means 'fast/quick'. The distractors test adjective confusion (parfait), meal confusion (dîner), and verb confusion (intéresse).",
+      "difficulty": "B1",
+      "source": "Restaurant service",
+      "tags": [
+        "restaurant",
+        "service",
+        "customers",
+        "speed"
+      ],
+      "timeCreated": 1736102880
+    },
+    {
+      "id": 781,
+      "audioText": "Son talent incroyable pour la musique lui a permis de réussir dans tous les concours.",
+      "question": "What allowed him to succeed in all competitions?",
+      "questionType": "comprehension",
+      "options": [
+        "His incredible talent for music",
+        "His expensive musical instruments",
+        "His years of formal training",
+        "His family connections in music"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Son talent incroyable pour la musique lui a permis de réussir dans tous les concours</em>' - His incredible talent for music allowed him to succeed in all competitions. 'Incroyable' means 'incredible/amazing' and emphasizes the exceptional nature of his musical ability.",
+      "difficulty": "B2",
+      "source": "Musical talent",
+      "tags": [
+        "music",
+        "talent",
+        "competitions",
+        "success"
+      ],
+      "timeCreated": 1736102940
+    },
+    {
+      "id": 782,
+      "audioText": "Il trouve cette idée complètement bête et refuse d'y participer avec nous.",
+      "question": "Il trouve cette idée complètement ______ et refuse d'y participer avec nous.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "bête",
+        "géniale",
+        "difficile",
+        "nouvelle"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il trouve cette idée complètement bête et refuse d'y participer avec nous</em>' - He finds this idea completely stupid and refuses to participate with us. 'Bête' means 'stupid/silly' and explains his refusal to join the activity.",
+      "difficulty": "B1",
+      "source": "Group disagreement",
+      "tags": [
+        "opinions",
+        "disagreement",
+        "participation",
+        "judgment"
+      ],
+      "timeCreated": 1736103000
+    },
+    {
+      "id": 783,
+      "audioText": "Cette chambre vide et sombre a besoin d'être rénovée avec des meubles blancs.",
+      "question": "What does this room need according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "To be renovated with white furniture",
+        "To have the windows cleaned thoroughly",
+        "To be painted with bright colors",
+        "To have new electrical installations"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette chambre vide et sombre a besoin d'être rénovée avec des meubles blancs</em>' - This empty and dark room needs to be renovated with white furniture. The adjectives 'vide' (empty), 'sombre' (dark), and 'blancs' (white) create a contrast between the current state and desired improvement.",
+      "difficulty": "B1",
+      "source": "Home renovation",
+      "tags": [
+        "home",
+        "renovation",
+        "furniture",
+        "colors"
+      ],
+      "timeCreated": 1736103060
+    },
+    {
+      "id": 784,
+      "audioText": "Si Marie avait plus de temps libre, elle mettrait ses affaires en ordre et rangerait enfin sa chambre. Elle dit toujours qu'elle le ferait si elle n'était pas si occupée au travail.",
+      "question": "What would Marie do if she had more free time?",
+      "questionType": "comprehension",
+      "options": [
+        "She would organize her belongings and finally tidy her room",
+        "She would spend more time at work to earn extra money",
+        "She would travel and visit her family more often",
+        "She would look for a new job with better hours"
+      ],
+      "correct": 0,
+      "explanation": "Marie 'mettrait ses affaires en ordre et rangerait enfin sa chambre' - would organize her belongings and finally tidy her room. The conditional 'mettrait' (would put/organize) shows what she would do in a hypothetical situation with more time. The verb 'mettre en ordre' means to organize or put in order.",
+      "difficulty": "B1",
+      "source": "Daily Life Scenarios",
+      "tags": [
+        "daily-life",
+        "household-vocabulary",
+        "planning"
+      ]
+    },
+    {
+      "id": 785,
+      "audioText": "Elle a été appelée pour un entretien demain matin.",
+      "question": "What happened to her regarding tomorrow morning?",
+      "questionType": "comprehension",
+      "options": [
+        "She was called for an interview tomorrow morning",
+        "She has to call someone tomorrow morning",
+        "She will call her boss tomorrow morning",
+        "She missed a call from work yesterday"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Elle a été appelée pour un entretien demain matin' - She was called for an interview tomorrow morning. 'Appelée' is the feminine past participle of 'appeler' (to call), used here in the passive voice.",
+      "difficulty": "B1",
+      "source": "Job Interview",
+      "tags": [
+        "job-interview",
+        "work",
+        "appointments",
+        "phone-calls"
+      ],
+      "timeCreated": 1720051380
+    },
+    {
+      "id": 786,
+      "audioText": "S'il avait plus d'argent, il irait en vacances en Italie.",
+      "question": "What would he do if he had more money?",
+      "questionType": "comprehension",
+      "options": [
+        "Go on vacation to Italy",
+        "Buy a new car",
+        "Move to a bigger apartment",
+        "Start his own business"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'S'il avait plus d'argent, il irait en vacances en Italie' - If he had more money, he would go on vacation to Italy. 'Irait' is the conditional form of 'aller' (to go), expressing a hypothetical action.",
+      "difficulty": "B1",
+      "source": "Hypothetical Vacation",
+      "tags": [
+        "travel",
+        "vacation",
+        "italy",
+        "hypothetical"
+      ],
+      "timeCreated": 1720051620
+    },
+    {
+      "id": 787,
+      "audioText": "Cette famille riche contribue généreusement aux œuvres de charité locales et finance plusieurs programmes éducatifs dans la région.",
+      "question": "Cette famille ______ contribue généreusement aux œuvres de charité locales et finance plusieurs programmes éducatifs dans la région.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "riche",
+        "généreuse",
+        "connue",
+        "influente"
+      ],
+      "correct": 0,
+      "explanation": "Le mot manquant est 'riche'. La phrase complète est 'Cette famille riche contribue généreusement aux œuvres de charité locales et finance plusieurs programmes éducatifs dans la région.' - This wealthy family generously contributes to local charities and finances several educational programs in the region. 'Riche' means wealthy or rich.",
+      "difficulty": "B1",
+      "source": "Philanthropy and community support",
+      "tags": [
+        "philanthropy",
+        "charity",
+        "education",
+        "community"
+      ],
+      "timeCreated": 1735949160
+    },
+    {
+      "id": 788,
+      "audioText": "Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre.",
+      "question": "What advice is being given about data?",
+      "questionType": "comprehension",
+      "options": [
+        "You should back up your data more often to avoid losing it",
+        "You should delete old data to free up space",
+        "You should share your data with colleagues",
+        "You should encrypt your data for security"
+      ],
+      "correct": 0,
+      "explanation": "The sentence says 'Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre' - You should back up your data more often to avoid losing it. 'Devriez' is the conditional form expressing advice.",
+      "difficulty": "B1",
+      "source": "Technology Advice",
+      "tags": [
+        "technology",
+        "data",
+        "backup",
+        "advice"
+      ],
+      "timeCreated": 1720051860
+    },
+    {
+      "id": 789,
+      "audioText": "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine. Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport.",
+      "question": "What advice is given to travelers?",
+      "questionType": "comprehension",
+      "options": [
+        "To buy their train tickets in advance to avoid problems",
+        "To postpone their trips or use other means of transportation",
+        "To arrive at the station early because trains will be delayed",
+        "To contact SNCF customer service for more information"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport' - travelers are invited to postpone their trips or use other means of transportation due to the three-day SNCF strike.",
+      "difficulty": "B1",
+      "source": "French Transportation News",
+      "tags": [
+        "strikes",
+        "transportation",
+        "SNCF",
+        "travel",
+        "labor",
+        "social-movements"
+      ]
+    },
+    {
+      "id": 790,
+      "audioText": "Si tu me rends ce livre maintenant, je pourrai le prêter à ma sœur demain matin.",
+      "question": "What happens if the person returns the book now?",
+      "questionType": "comprehension",
+      "options": [
+        "The speaker can lend it to their sister tomorrow morning",
+        "The book will be returned to the library",
+        "The speaker will read it tonight",
+        "The sister will have to wait until next week"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Si tu me rends ce livre maintenant, je pourrai le prêter à ma sœur demain matin</em>' - If you return this book to me now, I will be able to lend it to my sister tomorrow morning. 'Rends' is the second person singular form of 'rendre' (to return/give back).",
+      "difficulty": "B1",
+      "source": "Family conversation",
+      "tags": [
+        "family",
+        "books",
+        "sharing"
+      ],
+      "timeCreated": 1704414000
+    },
+    {
+      "id": 791,
+      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+      "parentQuestion": 1164,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des récompenses au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne veulent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.' Les distracteurs modifient soit l'adjectif clé (choqués/surpris), le mot 'pénalités' (pénalités/récompenses), ou le verbe (ne peuvent pas/ne veulent pas).",
+      "difficulty": "B2",
+      "source": "French Healthcare Policy - Medical Deserts - Listening",
+      "tags": [
+        "healthcare",
+        "policy",
+        "medical-deserts",
+        "penalties",
+        "doctors"
+      ]
+    },
+    {
+      "id": 792,
+      "audioText": "Il faut que les étudiants aient terminé leur projet avant vendredi.",
+      "question": "Il faut que les étudiants ______ terminé leur projet avant vendredi.",
+      "questionType": "FIB-reading",
+      "options": [
+        "aient",
+        "ont",
+        "avaient",
+        "auront"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'aient' (subjunctive of 'avoir'). After 'il faut que', we must use the subjunctive mood. 'Aient terminé' is the subjunctive perfect, expressing necessity: 'The students must have finished their project before Friday.'",
+      "difficulty": "B2",
+      "source": "School Project Deadline",
+      "tags": [
+        "education",
+        "deadlines",
+        "projects",
+        "school"
+      ],
+      "timeCreated": 1720051560
+    },
+    {
+      "id": 793,
+      "audioText": "Il fallait améliorer notre stratégie commerciale pour rester compétitifs sur le marché.",
+      "question": "Il ______ améliorer notre stratégie commerciale pour rester compétitifs sur le marché.",
+      "questionType": "FIB-reading",
+      "options": [
+        "fallait",
+        "faudra",
+        "faut",
+        "fallût"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'fallait' (imperfect of 'falloir'). It expresses a past necessity: 'We needed to improve our business strategy to stay competitive in the market.'",
+      "difficulty": "B2",
+      "source": "Business Strategy",
+      "tags": [
+        "business",
+        "strategy",
+        "competition",
+        "market"
+      ],
+      "timeCreated": 1720051800
+    },
+    {
+      "id": 794,
+      "audioText": "Il faut que tu dise la vérité à tes parents.",
+      "question": "Il faut que tu ______ la vérité à tes parents.",
+      "questionType": "FIB-reading",
+      "options": [
+        "dises",
+        "dis",
+        "dise",
+        "disais"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'dises' (2nd person singular subjunctive of 'dire'). After 'il faut que', we must use the subjunctive mood. Since the subject is 'tu', we need 'dises': 'You must tell the truth to your parents.'",
+      "difficulty": "B2",
+      "source": "Family Honesty",
+      "tags": [
+        "family",
+        "honesty",
+        "truth",
+        "parents"
+      ],
+      "timeCreated": 1720051740
+    },
+    {
+      "id": 795,
+      "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active. Cette amélioration s'explique principalement par la création d'emplois dans le secteur des services.",
+      "question": "What does the speaker say about the unemployment rate?",
+      "questionType": "comprehension",
+      "options": [
+        "It increased by 0.2 percentage points due to job losses in services",
+        "It decreased by 0.2 percentage points, reaching 7.3% of the active population",
+        "It remained stable at 7.3% despite job creation in services",
+        "It reached a historic low of 0.2% thanks to government policies"
+      ],
+      "correct": 1,
+      "explanation": "The text states 'Le taux de chômage a baissé de 0,2 point... atteignant 7,3% de la population active' - the unemployment rate fell by 0.2 percentage points, reaching 7.3% of the active population. This improvement is explained by job creation in the service sector.",
+      "difficulty": "B2",
+      "source": "French Economic News",
+      "tags": [
+        "economy",
+        "unemployment",
+        "statistics",
+        "employment",
+        "services",
+        "economic-indicators"
+      ]
+    },
+    {
+      "id": 796,
+      "audioText": "Cette entreprise travaille uniquement avec des fournisseurs locaux pour réduire son empreinte carbone.",
+      "question": "How does this company source its suppliers?",
+      "questionType": "comprehension",
+      "options": [
+        "It works exclusively with local suppliers",
+        "It partners with international suppliers only",
+        "It uses a mix of local and international suppliers",
+        "It changes suppliers frequently based on cost"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette entreprise travaille uniquement avec des fournisseurs locaux pour réduire son empreinte carbone</em>' - This company works exclusively with local suppliers to reduce its carbon footprint. 'Uniquement' means exclusively or only.",
+      "difficulty": "B2",
+      "source": "Business sustainability",
+      "tags": [
+        "business",
+        "sustainability",
+        "environment"
+      ],
+      "timeCreated": 1704414060
+    },
+    {
+      "id": 797,
+      "audioText": "L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing.",
+      "question": "What did the company achieve this year?",
+      "questionType": "comprehension",
+      "options": [
+        "The company made enormous profits thanks to its new marketing strategy",
+        "The company made small profits thanks to its new marketing strategy",
+        "The company made enormous losses thanks to its new marketing strategy",
+        "The company made enormous profits thanks to its old marketing strategy"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing' - The company made enormous profits this year thanks to its new marketing strategy. 'Énormes' means 'enormous' or 'huge'.",
+      "difficulty": "B2",
+      "source": "Business report",
+      "tags": [
+        "business",
+        "profits",
+        "marketing"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 798,
+      "audioText": "Le vent était si fort cette nuit que les arbres ont été déracinés dans le parc municipal.",
+      "question": "Le vent était si ______ cette nuit que les arbres ont été déracinés dans le parc municipal.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "fort",
+        "léger",
+        "doux",
+        "calme"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'fort' meaning 'strong'. The wind was so strong last night that trees were uprooted in the municipal park. 'Fort' describes the intensity of the wind that caused significant damage.",
+      "difficulty": "B2",
+      "source": "Weather report",
+      "tags": [
+        "weather",
+        "storms",
+        "damage"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 799,
+      "audioText": "En pensant à cette technique stupide, nous perdons notre temps précieux sur ce projet.",
+      "question": "En ______ à cette technique stupide, nous perdons notre temps précieux sur ce projet.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pensant",
+        "regardant",
+        "parlant",
+        "écoutant"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>En pensant à cette technique stupide, nous perdons notre temps précieux sur ce projet</em>' - By thinking about this stupid technique, we are wasting our precious time on this project. 'Pensant' is the present participle of 'penser' (to think), 'stupide' means 'stupid', and 'perdons' is first person plural of 'perdre' (to lose/waste).",
+      "difficulty": "B2",
+      "source": "Project reflection",
+      "tags": [
+        "techniques",
+        "choice",
+        "workplace",
+        "time-management"
+      ],
+      "timeCreated": 1736103780
+    },
+    {
+      "id": 800,
+      "audioText": "Je rentrerai tard ce soir car j'ai une réunion horrible qui finira vers dix heures.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Je rentrerai tard ce soir car j'ai une réunion horrible qui finira vers dix heures.",
+        "Je rentrerai tard ce soir car j'ai une réunion horrible qui commencera vers dix heures.",
+        "Je resterai tard ce soir car j'ai une réunion horrible qui finira vers dix heures.",
+        "Je rentrerai tard ce soir car j'ai une réunion terrible qui finira vers dix heures."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je rentrerai tard ce soir car j'ai une réunion horrible qui finira vers dix heures</em>' - I will come home late tonight because I have a horrible meeting that will end around ten o'clock. 'Rentrerai' is the future form of 'rentrer' (to return home), and 'horrible' means 'horrible/awful'. The distractors test verb confusion (commencera, resterai) and adjective confusion (terrible).",
+      "difficulty": "B1",
+      "source": "Evening schedule",
+      "tags": [
+        "household-vocabulary",
+        "workplace",
+        "schedule",
+        "past-events"
+      ],
+      "timeCreated": 1736103840
+    },
+    {
+      "id": 801,
+      "audioText": "Cette femme mince portait une belle robe rose pour la fête de mariage.",
+      "question": "Cette femme mince portait une belle robe ______ pour la fête de mariage.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "rose",
+        "rouge",
+        "bleue",
+        "verte"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette femme mince portait une belle robe rose pour la fête de mariage</em>' - This thin woman was wearing a beautiful pink dress for the wedding celebration. 'Mince' means 'thin/slim' and 'rose' means 'pink', targeting two missing adjectives in a social context.",
+      "difficulty": "B1",
+      "source": "Wedding celebration",
+      "tags": [
+        "celebrations",
+        "clothing",
+        "colors",
+        "appearance"
+      ],
+      "timeCreated": 1736103900
+    },
+    {
+      "id": 802,
+      "audioText": "Il faut que vous nous rendiez ces données informatiques avant la réunion de demain.",
+      "question": "Il faut que vous nous ______ ces données informatiques avant la réunion de demain.",
+      "questionType": "FIB-reading",
+      "options": [
+        "rendiez",
+        "rendez",
+        "rendiez",
+        "rendront"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il faut que vous nous rendiez ces données informatiques avant la réunion de demain</em>' - You must return these computer data to us before tomorrow's meeting. After 'il faut que', we must use the subjunctive mood. 'Rendiez' is the second person plural subjunctive of 'rendre' (to return/give back).",
+      "difficulty": "B2",
+      "source": "Data sharing",
+      "tags": [
+        "data",
+        "sharing",
+        "workplace",
+        "technology"
+      ],
+      "timeCreated": 1736103960
+    },
+    {
+      "id": 803,
+      "audioText": "Mon collègue sympa m'a aidé avec cette analyse profonde des résultats financiers.",
+      "question": "Mon collègue ______ m'a aidé avec cette analyse profonde des résultats financiers.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sympa",
+        "intelligent",
+        "expérimenté",
+        "disponible"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mon collègue sympa m'a aidé avec cette analyse profonde des résultats financiers</em>' - My nice colleague helped me with this deep analysis of the financial results. 'Sympa' means 'nice/friendly' (informal) and 'profonde' means 'deep/thorough', targeting two missing adjectives in a workplace context.",
+      "difficulty": "B1",
+      "source": "Workplace collaboration",
+      "tags": [
+        "workplace",
+        "sharing",
+        "data",
+        "collaboration"
+      ],
+      "timeCreated": 1736104020
+    },
+    {
+      "id": 804,
+      "audioText": "En rentrant du travail hier soir, j'ai découvert que quelqu'un avait cassé ma fenêtre.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "En rentrant du travail hier soir, j'ai découvert que quelqu'un avait cassé ma fenêtre.",
+        "En revenant du travail hier soir, j'ai découvert que quelqu'un avait cassé ma fenêtre.",
+        "En rentrant du travail hier matin, j'ai découvert que quelqu'un avait cassé ma fenêtre.",
+        "En rentrant du travail hier soir, j'ai vu que quelqu'un avait cassé ma fenêtre."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>En rentrant du travail hier soir, j'ai découvert que quelqu'un avait cassé ma fenêtre</em>' - Coming home from work last night, I discovered that someone had broken my window. 'Rentrant' is the present participle of 'rentrer' (to return home). The distractors test participle confusion (revenant), time confusion (matin), and verb confusion (vu).",
+      "difficulty": "B2",
+      "source": "Home security incident",
+      "tags": [
+        "past-events",
+        "household-vocabulary",
+        "security",
+        "discovery"
+      ],
+      "timeCreated": 1736104080
+    },
+    {
+      "id": 805,
+      "audioText": "Nous devons faire un choix difficile entre ces deux techniques d'analyse de données.",
+      "question": "Nous devons faire un ______ difficile entre ces deux techniques d'analyse de données.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "choix",
+        "effort",
+        "test",
+        "rapport"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous devons faire un choix difficile entre ces deux techniques d'analyse de données</em>' - We must make a difficult choice between these two data analysis techniques. 'Choix' means 'choice/decision', targeting the under-represented topic while combining with 'techniques' and 'data' themes.",
+      "difficulty": "B1",
+      "source": "Technical decision",
+      "tags": [
+        "choice",
+        "techniques",
+        "data",
+        "decision-making"
+      ],
+      "timeCreated": 1736104140
+    },
+    {
+      "id": 806,
+      "audioText": "Cette situation était vraiment horrible et nous perdons encore du temps à en parler.",
+      "question": "Cette situation était vraiment ______ et nous perdons encore du temps à en parler.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "horrible",
+        "difficile",
+        "compliquée",
+        "surprenante"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette situation était vraiment horrible et nous perdons encore du temps à en parler</em>' - This situation was really horrible and we are still wasting time talking about it. 'Horrible' means 'horrible/awful' and 'perdons' is first person plural present of 'perdre' (to lose/waste), combining missing adjective with verb form.",
+      "difficulty": "B1",
+      "source": "Past situation analysis",
+      "tags": [
+        "past-events",
+        "workplace",
+        "time-management",
+        "discussion"
+      ],
+      "timeCreated": 1736104200
+    },
+    {
+      "id": 807,
+      "audioText": "Il rentrera certainement à la maison quand il aura fini son travail de nettoyage.",
+      "question": "Il ______ certainement à la maison quand il aura fini son travail de nettoyage.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "rentrera",
+        "retournera",
+        "reviendra",
+        "restera"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il rentrera certainement à la maison quand il aura fini son travail de nettoyage</em>' - He will certainly come home when he has finished his cleaning work. 'Rentrera' is the future form of 'rentrer' (to return home), targeting missing verb conjugate with cleanliness/house themes.",
+      "difficulty": "B1",
+      "source": "Household chores",
+      "tags": [
+        "cleanliness",
+        "house-layout",
+        "daily-life",
+        "routine"
+      ],
+      "timeCreated": 1736104260
+    },
+    {
+      "id": 808,
+      "audioText": "Nous avons connus cette expression quotidienne grâce à notre professeur de français.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Nous avons connu cette expression quotidienne grâce à notre professeur de français.",
+        "Nous avons connus cette expression quotidienne grâce à notre professeur de français.",
+        "Nous avons compris cette expression quotidienne grâce à notre professeur de français.",
+        "Nous avons trouvé cette expression quotidienne grâce à notre professeur de français."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous avons connu cette expression quotidienne grâce à notre professeur de français</em>' - We learned this daily expression thanks to our French teacher. The past participle 'connu' (from connaître) doesn't agree when used with 'avoir' unless there's a direct object before the verb. The distractors test agreement errors (connus), verb confusion (compris, trouvé).",
+      "difficulty": "B2",
+      "source": "Language learning",
+      "tags": [
+        "daily-expressions",
+        "student-life",
+        "education",
+        "language"
+      ],
+      "timeCreated": 1736104320
+    },
+    {
+      "id": 809,
+      "audioText": "Tu sortiras de cette situation difficile avec une double dose de patience et de courage.",
+      "question": "Tu sortiras de cette situation difficile avec une ______ dose de patience et de courage.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "double",
+        "grande",
+        "forte",
+        "bonne"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu sortiras de cette situation difficile avec une double dose de patience et de courage</em>' - You will get out of this difficult situation with a double dose of patience and courage. 'Sortiras' is the future form of 'sortir' (to get out), and 'double' means 'double', targeting missing verb conjugate and adjective.",
+      "difficulty": "B2",
+      "source": "Encouragement advice",
+      "tags": [
+        "student-life",
+        "frustration",
+        "encouragement",
+        "difficulty"
+      ],
+      "timeCreated": 1736104380
+    },
+    {
+      "id": 810,
+      "audioText": "Il faut qu'il me rende ma clé avant de partir en vacances seul.",
+      "question": "Il faut qu'il me ______ ma clé avant de partir en vacances seul.",
+      "questionType": "FIB-reading",
+      "options": [
+        "rende",
+        "rend",
+        "rendu",
+        "rendait"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il faut qu'il me rende ma clé avant de partir en vacances seul</em>' - He must return my key to me before going on vacation alone. After 'il faut que', we must use the subjunctive mood. 'Rende' is the third person singular subjunctive of 'rendre' (to return/give back), targeting missing subjunctive conjugate with solitude theme.",
+      "difficulty": "B2",
+      "source": "Vacation preparation",
+      "tags": [
+        "solitude",
+        "house-layout",
+        "travel",
+        "keys"
+      ],
+      "timeCreated": 1736104440
+    },
+    {
+      "id": 811,
+      "audioText": "En essayant de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur.",
+      "question": "En ______ de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "essayant",
+        "apprenant",
+        "commençant",
+        "tentant"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>En essayant de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur</em>' - While trying to drive alone for the first time, he had a deep discussion with his instructor. 'Essayant' is the present participle of 'essayer' (to try), and 'profonde' means 'deep', targeting missing verb conjugate and adjective with driving/clarity themes.",
+      "difficulty": "B2",
+      "source": "Driving lesson",
+      "tags": [
+        "driving",
+        "student-life",
+        "clarity",
+        "learning"
+      ],
+      "timeCreated": 1736104500
+    },
+    {
+      "id": 812,
+      "audioText": "Quand j'étais jeune, je vivais dehors presque tout l'été avec mes amis du quartier.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Quand j'étais jeune, je vivais dehors presque tout l'été avec mes amis du quartier.",
+        "Quand j'étais jeune, je restais dehors presque tout l'été avec mes amis du quartier.",
+        "Quand j'étais jeune, je vivais dehors presque tout l'hiver avec mes amis du quartier.",
+        "Quand j'étais jeune, je vivais dedans presque tout l'été avec mes amis du quartier."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Quand j'étais jeune, je vivais dehors presque tout l'été avec mes amis du quartier</em>' - When I was young, I lived outside almost all summer with my neighborhood friends. 'Vivais' is the imperfect form of 'vivre' (to live), targeting missing verb conjugate with outdoor theme. The distractors test verb confusion (restais), season confusion (hiver), and location confusion (dedans).",
+      "difficulty": "B1",
+      "source": "Childhood memories",
+      "tags": [
+        "outdoor",
+        "student-life",
+        "childhood",
+        "friends"
+      ],
+      "timeCreated": 1736104560
+    },
+    {
+      "id": 813,
+      "audioText": "Cette étudiante a été aidée par son professeur pour clarifier ses idées confuses.",
+      "question": "Cette étudiante a été ______ par son professeur pour clarifier ses idées confuses.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aidée",
+        "encouragée",
+        "conseillée",
+        "soutenue"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette étudiante a été aidée par son professeur pour clarifier ses idées confuses</em>' - This student was helped by her teacher to clarify her confused ideas. 'Aidée' is the feminine past participle of 'aider' (to help), agreeing with 'étudiante', targeting missing verb conjugate with student-life/clarity themes.",
+      "difficulty": "B1",
+      "source": "Academic support",
+      "tags": [
+        "student-life",
+        "clarity",
+        "education",
+        "confusion"
+      ],
+      "timeCreated": 1736104620
+    },
+    {
+      "id": 814,
+      "audioText": "Il partait toujours tôt le matin pour éviter la frustration des embouteillages urbains.",
+      "question": "Il ______ toujours tôt le matin pour éviter la frustration des embouteillages urbains.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "partait",
+        "sortait",
+        "quittait",
+        "démarrait"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il partait toujours tôt le matin pour éviter la frustration des embouteillages urbains</em>' - He always left early in the morning to avoid the frustration of urban traffic jams. 'Partait' is the imperfect form of 'partir' (to leave/depart), targeting missing verb conjugate with frustration/driving themes.",
+      "difficulty": "B1",
+      "source": "Commuting strategy",
+      "tags": [
+        "frustration",
+        "driving",
+        "daily-life",
+        "transportation"
+      ],
+      "timeCreated": 1736104680
+    },
+    {
+      "id": 815,
+      "audioText": "Nous trouverons sûrement une solution pour améliorer l'aménagement de notre cuisine.",
+      "question": "Nous ______ sûrement une solution pour améliorer l'aménagement de notre cuisine.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "trouverons",
+        "chercherons",
+        "découvrirons",
+        "proposerons"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous trouverons sûrement une solution pour améliorer l'aménagement de notre cuisine</em>' - We will surely find a solution to improve our kitchen layout. 'Trouverons' is the future form of 'trouver' (to find), targeting missing verb conjugate with house-layout theme.",
+      "difficulty": "B1",
+      "source": "Home improvement",
+      "tags": [
+        "house-layout",
+        "daily-life",
+        "home",
+        "improvement"
+      ],
+      "timeCreated": 1736104740
+    },
+    {
+      "id": 816,
+      "audioText": "La décision a été rendue hier.",
+      "question": "Quand la décision a-t-elle été rendue ?",
+      "questionType": "listening",
+      "options": [
+        "Aujourd'hui",
+        "Demain",
+        "Hier",
+        "La semaine prochaine"
+      ],
+      "correct": 2,
+      "explanation": "The text states '<em>La décision a été rendue hier</em>' - The decision was rendered yesterday. 'Rendue' is the past participle of the verb 'rendre' (to render/give back), used here in the passive voice. The distractors test time confusion.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "legal",
+        "news"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 817,
+      "audioText": "Il a dit qu'il tuerait le temps en lisant.",
+      "question": "Que ferait-il pour tuer le temps ?",
+      "questionType": "listening",
+      "options": [
+        "Il regarderait la télévision.",
+        "Il lirait un livre.",
+        "Il ferait du sport.",
+        "Il dormirait."
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Il a dit qu'il tuerait le temps en lisant</em>' - He said he would kill time by reading. 'Tuerait' is the conditional form of 'tuer' (to kill). The distractors test comprehension of the activity.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "leisure",
+        "daily-life"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 818,
+      "audioText": "Le spectacle lui plaisait beaucoup.",
+      "question": "Qu'est-ce qui lui plaisait ?",
+      "questionType": "listening",
+      "options": [
+        "Le film",
+        "Le livre",
+        "Le spectacle",
+        "La musique"
+      ],
+      "correct": 2,
+      "explanation": "The text states '<em>Le spectacle lui plaisait beaucoup</em>' - The show pleased him/her a lot. 'Plaisait' is the imperfect tense of 'plaire' (to please). The distractors test comprehension of the subject.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "entertainment",
+        "arts"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 819,
+      "audioText": "Je tiendrai ma promesse, c'est sûr.",
+      "question": "Que fera-t-il ?",
+      "questionType": "listening",
+      "options": [
+        "Il partira.",
+        "Il tiendra sa promesse.",
+        "Il oubliera.",
+        "Il changera d'avis."
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Je tiendrai ma promesse, c'est sûr</em>' - I will keep my promise, for sure. 'Tiendrai' is the future tense of 'tenir' (to hold/keep). The distractors test comprehension of the action.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "commitment",
+        "daily-life"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 820,
+      "audioText": "Ces étudiants se tueront à la tâche si on ne limite pas leurs heures d'étude quotidiennes.",
+      "question": "Ces étudiants se ______ à la tâche si on ne limite pas leurs heures d'étude quotidiennes.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "tueront",
+        "fatigueront",
+        "épuiseront",
+        "usent"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ces étudiants se tueront à la tâche si on ne limite pas leurs heures d'étude quotidiennes</em>' - These students will kill themselves with work if we don't limit their daily study hours. 'Tueront' is the future form of 'tuer' (to kill), targeting missing verb conjugate with students theme.",
+      "difficulty": "B2",
+      "source": "Academic stress",
+      "tags": [
+        "students",
+        "education",
+        "health",
+        "stress"
+      ],
+      "timeCreated": 1736104800
+    },
+    {
+      "id": 821,
+      "audioText": "Elle attendra patiemment au bar que ses amis finissent de choisir leurs boissons préférées.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Elle attendra patiemment au bar que ses amis finissent de choisir leurs boissons préférées.",
+        "Elle attendait patiemment au bar que ses amis finissent de choisir leurs boissons préférées.",
+        "Elle attendra patiemment au café que ses amis finissent de choisir leurs boissons préférées.",
+        "Elle attendra patiemment au bar que ses amis commencent de choisir leurs boissons préférées."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle attendra patiemment au bar que ses amis finissent de choisir leurs boissons préférées</em>' - She will wait patiently at the bar for her friends to finish choosing their favorite drinks. 'Attendra' is the future form of 'attendre' (to wait), targeting missing verb conjugate with drinks theme. The distractors test tense confusion (attendait), location confusion (café), and verb confusion (commencent).",
+      "difficulty": "B1",
+      "source": "Social gathering",
+      "tags": [
+        "drinks",
+        "friends",
+        "patience",
+        "social"
+      ],
+      "timeCreated": 1736104860
+    },
+    {
+      "id": 822,
+      "audioText": "En automne, plusieurs oiseaux perdent leurs plumes et préparent ainsi leur départ vers le sud.",
+      "question": "En automne, plusieurs oiseaux ______ leurs plumes et préparent ainsi leur départ vers le sud.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "perdent",
+        "changent",
+        "renouvellent",
+        "remplacent"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>En automne, plusieurs oiseaux perdent leurs plumes et préparent ainsi leur départ vers le sud</em>' - In autumn, several birds lose their feathers and thus prepare their departure to the south. 'Perdent' is the present form of 'perdre' (to lose), targeting missing verb conjugate with seasons/departure themes.",
+      "difficulty": "B1",
+      "source": "Bird migration",
+      "tags": [
+        "seasons",
+        "departure",
+        "nature",
+        "animals"
+      ],
+      "timeCreated": 1736104920
+    },
+    {
+      "id": 823,
+      "audioText": "Les manifestants ont été arrêtés par la police après avoir refusé de quitter la bibliothèque universitaire.",
+      "question": "Les manifestants ont été ______ par la police après avoir refusé de quitter la bibliothèque universitaire.",
+      "questionType": "FIB-reading",
+      "options": [
+        "arrêtés",
+        "interpellés",
+        "contrôlés",
+        "interviewés"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les manifestants ont été arrêtés par la police après avoir refusé de quitter la bibliothèque universitaire</em>' - The protesters were arrested by police after refusing to leave the university library. 'Arrêtés' is the past participle of 'arrêter' (to arrest), targeting missing verb conjugate with library theme.",
+      "difficulty": "B2",
+      "source": "Student protest",
+      "tags": [
+        "library",
+        "students",
+        "politics",
+        "conflict"
+      ],
+      "timeCreated": 1736104980
+    },
+    {
+      "id": 824,
+      "audioText": "Toutes ces heures passées à observer les insectes dans le jardin lui ont donné une passion durable.",
+      "question": "Toutes ces heures ______ à observer les insectes dans le jardin lui ont donné une passion durable.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "passées",
+        "consacrées",
+        "dédiées",
+        "employées"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Toutes ces heures passées à observer les insectes dans le jardin lui ont donné une passion durable</em>' - All these hours spent observing insects in the garden gave her a lasting passion. 'Passées' is the feminine past participle of 'passer' (to spend/pass), agreeing with 'heures', targeting missing verb conjugate with insects theme.",
+      "difficulty": "B1",
+      "source": "Entomology hobby",
+      "tags": [
+        "insects",
+        "nature",
+        "hobbies",
+        "observation"
+      ],
+      "timeCreated": 1736105040
+    },
+    {
+      "id": 825,
+      "audioText": "Désolé, nous finissons toujours nos réunions de département très tard le vendredi soir.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Désolé, nous finissons toujours nos réunions de département très tard le vendredi soir.",
+        "Désolé, nous finissons toujours nos réunions de département très tard le jeudi soir.",
+        "Désolé, nous commençons toujours nos réunions de département très tard le vendredi soir.",
+        "Désolé, nous finissons toujours nos réunions d'étudiant très tard le vendredi soir."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Désolé, nous finissons toujours nos réunions de département très tard le vendredi soir</em>' - Sorry, we always finish our department meetings very late on Friday evening. 'Finissons' is the present form of 'finir' (to finish) with 'nous', targeting missing verb conjugate with departure/meeting themes. The distractors test day confusion (jeudi), verb confusion (commençons), and meeting type confusion (étudiant).",
+      "difficulty": "B1",
+      "source": "Department schedule",
+      "tags": [
+        "departure",
+        "workplace",
+        "meetings",
+        "schedule"
+      ],
+      "timeCreated": 1736105100
+    },
+    {
+      "id": 826,
+      "audioText": "Demain matin, je sortirai tôt pour profiter des sensations fraîches de l'automne naissant.",
+      "question": "Demain matin, je ______ tôt pour profiter des sensations fraîches de l'automne naissant.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sortirai",
+        "partirai",
+        "me lèverai",
+        "irai"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Demain matin, je sortirai tôt pour profiter des sensations fraîches de l'automne naissant</em>' - Tomorrow morning, I will go out early to enjoy the fresh sensations of early autumn. 'Sortirai' is the future form of 'sortir' (to go out), targeting missing verb conjugate with senses/seasons themes.",
+      "difficulty": "B1",
+      "source": "Morning routine",
+      "tags": [
+        "senses",
+        "seasons",
+        "morning",
+        "nature"
+      ],
+      "timeCreated": 1736105160
+    },
+    {
+      "id": 827,
+      "audioText": "Tu mourras de soif si tu ne bois que des boissons caféinées pendant tes examens d'été.",
+      "question": "Tu ______ de soif si tu ne bois que des boissons caféinées pendant tes examens d'été.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "mourras",
+        "souffriras",
+        "pâtiras",
+        "languiras"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu mourras de soif si tu ne bois que des boissons caféinées pendant tes examens d'été</em>' - You will die of thirst if you only drink caffeinated beverages during your summer exams. 'Mourras' is the future form of 'mourir' (to die), targeting missing verb conjugate with drinks/students themes.",
+      "difficulty": "B2",
+      "source": "Study habits",
+      "tags": [
+        "drinks",
+        "students",
+        "health",
+        "exams"
+      ],
+      "timeCreated": 1736105220
+    },
+    {
+      "id": 828,
+      "audioText": "Tu reviendras certainement à la bibliothèque quand tu découvriras toutes ses ressources spécialisées.",
+      "question": "Tu ______ certainement à la bibliothèque quand tu découvriras toutes ses ressources spécialisées.",
+      "questionType": "FIB-reading",
+      "options": [
+        "reviendras",
+        "retourneras",
+        "repartiras",
+        "rentreras"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu reviendras certainement à la bibliothèque quand tu découvriras toutes ses ressources spécialisées</em>' - You will certainly come back to the library when you discover all its specialized resources. 'Reviendras' is the future form of 'revenir' (to come back), targeting missing verb conjugate with library theme.",
+      "difficulty": "B1",
+      "source": "Library visit",
+      "tags": [
+        "library",
+        "returning",
+        "discovery",
+        "resources"
+      ],
+      "timeCreated": 1736105280
+    },
+    {
+      "id": 829,
+      "audioText": "Le professeur demandera aux étudiants de présenter leurs observations sur les insectes d'automne.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Le professeur demandera aux étudiants de présenter leurs observations sur les insectes d'automne.",
+        "Le professeur demandait aux étudiants de présenter leurs observations sur les insectes d'automne.",
+        "Le professeur demandera aux étudiants de présenter leurs observations sur les insectes d'été.",
+        "Le professeur demandera aux élèves de présenter leurs observations sur les insectes d'automne."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le professeur demandera aux étudiants de présenter leurs observations sur les insectes d'automne</em>' - The teacher will ask the students to present their observations on autumn insects. 'Demandera' is the future form of 'demander' (to ask), targeting missing verb conjugate with students/insects/seasons themes. The distractors test tense confusion (demandait), season confusion (été), and student level confusion (élèves).",
+      "difficulty": "B1",
+      "source": "Science class",
+      "tags": [
+        "students",
+        "insects",
+        "seasons",
+        "presentation"
+      ],
+      "timeCreated": 1736105340
+    },
+    {
+      "id": 830,
+      "audioText": "Les participants aident généralement les organisateurs à faire leurs choix difficiles avec respect et compromis.",
+      "question": "Les participants ______ généralement les organisateurs à faire leurs choix difficiles avec respect et compromis.",
+      "questionType": "FIB-reading",
+      "options": [
+        "aident",
+        "assistent",
+        "accompagnent",
+        "soutiennent"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les participants aident généralement les organisateurs à faire leurs choix difficiles avec respect et compromis</em>' - The participants generally help the organizers make their difficult choices with respect and compromise. 'Aident' is the present form of 'aider' (to help), targeting missing verb conjugate with choices/respect/compromise themes.",
+      "difficulty": "B2",
+      "source": "Group decision-making",
+      "tags": [
+        "choices",
+        "respect",
+        "compromise",
+        "teamwork"
+      ],
+      "timeCreated": 1736105460
+    },
+    {
+      "id": 831,
+      "audioText": "Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir.",
+        "Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde de l'espace pour guérir.",
+        "Cette tristesse légère affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir.",
+        "Cette tristesse profonde affecte sa vie sociale et mérite qu'on lui accorde du temps pour guérir."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir</em>' - This deep sadness affects her daily life and deserves that we give her time to heal. 'Profonde' means 'deep', targeting missing adjective with sadness/vie themes. The distractors test word confusion (espace), intensity confusion (légère), and context confusion (sociale).",
+      "difficulty": "B1",
+      "source": "Emotional support",
+      "tags": [
+        "sadness",
+        "vie",
+        "healing",
+        "emotions"
+      ],
+      "timeCreated": 1736105520
+    },
+    {
+      "id": 832,
+      "audioText": "Le gouvernement mit en place une nouvelle politique de dépenses publiques, mais de nombreux citoyens la trouvèrent complètement idiote, car elle semblait gaspiller l'argent des contribuables sans apporter de bénéfices tangibles à la communauté.",
+      "question": "What was the public's reaction to the government's new policy?",
+      "questionType": "comprehension",
+      "options": [
+        "They fully supported it.",
+        "They found it wasteful and ineffective.",
+        "They were indifferent to it.",
+        "They believed it would greatly benefit the community."
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Le gouvernement mit en place une nouvelle politique de dépenses publiques, mais de nombreux citoyens la trouvèrent complètement idiote, car elle semblait gaspiller l'argent des contribuables sans apporter de bénéfices tangibles à la communauté.</em>' - 'The government implemented a new public spending policy, but many citizens found it completely idiotic, as it seemed to waste taxpayers' money without bringing tangible benefits to the community.' The verb 'mit' is the third person singular past simple of 'mettre' (to put/implement). The adjective 'idiote' describes the policy as foolish or wasteful. The phrase 'dépenses publiques' refers to public spending. The distractors test for misinterpretation of the public's negative reaction.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "public-spending",
+        "politics",
+        "economy"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 833,
+      "audioText": "Elle revenait souvent sur ses pas, se sentant plutôt triste après chaque dispute avec son ami. Le silence qui s'installait entre eux était lourd, et elle se demandait si leur relation, autrefois si claire, ne devenait pas de plus en plus complexe, teintée d'une mélancolie persistante.",
+      "question": "What is the woman's emotional state after arguments with her friend?",
+      "questionType": "comprehension",
+      "options": [
+        "She feels happy and relieved.",
+        "She feels rather sad and reflective.",
+        "She is angry and resentful.",
+        "She is indifferent to the situation."
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Elle revenait souvent sur ses pas, se sentant plutôt triste après chaque dispute avec son ami. Le silence qui s'installait entre eux était lourd, et elle se demandait si leur relation, autrefois si claire, ne devenait pas de plus en plus complexe, teintée d'une mélancolie persistante.</em>' - 'She often retraced her steps, feeling rather sad after each argument with her friend. The silence that settled between them was heavy, and she wondered if their relationship, once so clear, was not becoming increasingly complex, tinged with a persistent melancholy.' The verb 'revenait' is the third person singular imperfect of 'revenir' (to return/come back). The adverb 'plutôt' means 'rather'. The adjective 'triste' means 'sad'. The question focuses on her emotional state, which is clearly described as 'plutôt triste'. The distractors test for misinterpretation of her feelings.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "interpersonal-relationships",
+        "emotions",
+        "friendship"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 834,
+      "audioText": "Tu finiras par comprendre que le monde, pourtant si vaste, est souvent perçu à travers le prisme de nos propres expériences. Cette réflexion, bien que parfois difficile, est essentielle pour grandir et apprécier la diversité des perspectives qui nous entourent.",
+      "question": "What is the main idea conveyed about understanding the world?",
+      "questionType": "comprehension",
+      "options": [
+        "The world is too vast to be fully understood.",
+        "Personal experiences shape our perception of the world, and reflection is crucial for growth.",
+        "Understanding the world is an easy and straightforward process.",
+        "Diversity of perspectives is not important for personal growth."
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Tu finiras par comprendre que le monde, pourtant si vaste, est souvent perçu à travers le prisme de nos propres expériences. Cette réflexion, bien que parfois difficile, est essentielle pour grandir et apprécier la diversité des perspectives qui nous entourent.</em>' - 'You will eventually understand that the world, though so vast, is often perceived through the prism of our own experiences. This reflection, though sometimes difficult, is essential for growing and appreciating the diversity of perspectives that surround us.' The verb 'finiras' is the second person singular future simple of 'finir' (to finish/end up). The adverb 'pourtant' means 'yet' or 'however'. The noun 'monde' means 'world'. The tag 'reflection' is directly addressed by the text. The distractors test for misinterpretation of the central message about personal perception and the importance of reflection.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "reflection",
+        "personal-growth",
+        "philosophy"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 835,
+      "audioText": "Vous attendiez avec impatience le train, et ensuite, vous avez réalisé que vous aviez oublié votre billet. C'était une situation frustrante, mais vous avez trouvé une solution rapidement.",
+      "question": "What was the main problem encountered by the person?",
+      "questionType": "comprehension",
+      "options": [
+        "They missed their train.",
+        "They forgot their ticket.",
+        "They were late for an appointment.",
+        "They couldn't find the train station."
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Vous attendiez avec impatience le train, et ensuite, vous avez réalisé que vous aviez oublié votre billet.</em>' - 'You were impatiently waiting for the train, and then, you realized you had forgotten your ticket.' The verb 'attendiez' is the second person plural imperfect of 'attendre' (to wait for). The adverb 'ensuite' means 'then' or 'afterwards'. The distractors test for misinterpretation of the specific problem.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "transportation",
+        "daily-life",
+        "travel"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 836,
+      "audioText": "Les légumes, souvent laissés de côté dans nos assiettes, ne sont guère appréciés à leur juste valeur. Pourtant, ils sont essentiels pour une alimentation équilibrée et une bonne santé. Il est temps de leur donner la place qu'ils méritent.",
+      "question": "What is the main point about vegetables?",
+      "questionType": "comprehension",
+      "options": [
+        "They are often overlooked but are crucial for health.",
+        "They are difficult to cook and prepare.",
+        "They are not very tasty.",
+        "They are only for specific diets."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les légumes, souvent laissés de côté dans nos assiettes, ne sont guère appréciés à leur juste valeur. Pourtant, ils sont essentiels pour une alimentation équilibrée et une bonne santé.</em>' - 'Vegetables, often left aside on our plates, are hardly appreciated at their true value. Yet, they are essential for a balanced diet and good health.' The verb 'laissés' is the past participle of 'laisser' (to leave). The adverb 'guère' means 'hardly' or 'scarcely'. The noun 'légumes' means 'vegetables'. The distractors test for misinterpretation of the text's emphasis on the importance of vegetables.",
+      "difficulty": "B2",
+      "source": "Gemini CLI",
+      "tags": [
+        "vegetables",
+        "health",
+        "food"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 837,
+      "audioText": "Les étudiants sont là pour apprendre, pas pour critiquer constamment.",
+      "question": "Les étudiants sont ______ pour apprendre, pas pour critiquer constamment.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "là",
+        "ici",
+        "présents",
+        "venus"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les étudiants sont là pour apprendre, pas pour critiquer constamment</em>' - The students are there to learn, not to constantly criticize. 'Là' means 'there' and indicates presence or purpose in this context.",
+      "difficulty": "B1",
+      "source": "Educational purpose",
+      "tags": [
+        "education",
+        "purpose",
+        "students",
+        "criticism"
+      ],
+      "timeCreated": 1736105640
+    },
+    {
+      "id": 838,
+      "audioText": "Elle préfère plutôt travailler en équipe que de rester seule au bureau.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Elle préfère plutôt travailler en équipe que de rester seule au bureau.",
+        "Elle préfère plutot travailler en équipe que de rester seule au bureau.",
+        "Elle préfère plutôt travailler en groupe que de rester seule au bureau.",
+        "Elle préfère plutôt travailler en équipe que de rester seule à la maison."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle préfère plutôt travailler en équipe que de rester seule au bureau</em>' - She rather prefers to work as a team than to stay alone at the office. 'Plutôt' means 'rather' and expresses preference. The distractors test spelling confusion (plutôt), synonym confusion (groupe), and location confusion (maison).",
+      "difficulty": "B1",
+      "source": "Work preference",
+      "tags": [
+        "workplace",
+        "teamwork",
+        "preference",
+        "collaboration"
+      ],
+      "timeCreated": 1736105700
+    },
+    {
+      "id": 839,
+      "audioText": "Il ne comprend pas cette décision, pourtant elle semble logique aux autres collègues.",
+      "question": "Il ne comprend pas cette décision, ______ elle semble logique aux autres collègues.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pourtant",
+        "cependant",
+        "néanmoins",
+        "toutefois"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il ne comprend pas cette décision, pourtant elle semble logique aux autres collègues</em>' - He doesn't understand this decision, yet it seems logical to other colleagues. 'Pourtant' means 'yet/however' and introduces a contrast.",
+      "difficulty": "B2",
+      "source": "Workplace disagreement",
+      "tags": [
+        "workplace",
+        "disagreement",
+        "logic",
+        "contrast"
+      ],
+      "timeCreated": 1736105760
+    },
+    {
+      "id": 840,
+      "audioText": "Cette famille dépense autant pour les loisirs que pour l'éducation de leurs enfants.",
+      "question": "Cette famille dépense ______ pour les loisirs que pour l'éducation de leurs enfants.",
+      "questionType": "FIB-reading",
+      "options": [
+        "autant",
+        "beaucoup",
+        "énormément",
+        "suffisamment"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette famille dépense autant pour les loisirs que pour l'éducation de leurs enfants</em>' - This family spends as much on leisure as on their children's education. 'Autant' means 'as much' and is used for comparisons of equal quantity.",
+      "difficulty": "B1",
+      "source": "Family budget",
+      "tags": [
+        "family",
+        "budget",
+        "education",
+        "comparison"
+      ],
+      "timeCreated": 1736105820
+    },
+    {
+      "id": 841,
+      "audioText": "Nous finirons ce projet, ensuite nous pourrons enfin prendre nos vacances bien méritées.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Nous finirons ce projet, ensuite nous pourrons enfin prendre nos vacances bien méritées.",
+        "Nous finirons ce projet, ensuite nous pourrons enfin prendre nos vacances bien mérités.",
+        "Nous finirons ce projet, puis nous pourrons enfin prendre nos vacances bien méritées.",
+        "Nous finirons ce projet, ensuite nous pourrons enfin prendre nos congés bien mérités."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous finirons ce projet, ensuite nous pourrons enfin prendre nos vacances bien méritées</em>' - We will finish this project, then we can finally take our well-deserved vacation. 'Ensuite' means 'then/afterwards' and indicates sequence. The distractors test agreement error (mérités), synonym confusion (puis), and word choice (congés).",
+      "difficulty": "B1",
+      "source": "Work completion",
+      "tags": [
+        "workplace",
+        "vacation",
+        "sequence",
+        "completion"
+      ],
+      "timeCreated": 1736105880
+    },
+    {
+      "id": 842,
+      "audioText": "Le garde reste debout toute la nuit pour surveiller l'entrée du musée.",
+      "question": "Le garde reste ______ toute la nuit pour surveiller l'entrée du musée.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "debout",
+        "éveillé",
+        "vigilant",
+        "attentif"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le garde reste debout toute la nuit pour surveiller l'entrée du musée</em>' - The guard stays standing all night to watch the museum entrance. 'Debout' means 'standing up' and indicates physical position.",
+      "difficulty": "B1",
+      "source": "Security work",
+      "tags": [
+        "security",
+        "museum",
+        "surveillance",
+        "night-shift"
+      ],
+      "timeCreated": 1736105940
+    },
+    {
+      "id": 843,
+      "audioText": "Les enfants se cachent derrière l'arbre pour surprendre leurs parents dans le jardin.",
+      "question": "Les enfants se cachent ______ l'arbre pour surprendre leurs parents dans le jardin.",
+      "questionType": "FIB-reading",
+      "options": [
+        "derrière",
+        "sous",
+        "près de",
+        "contre"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les enfants se cachent derrière l'arbre pour surprendre leurs parents dans le jardin</em>' - The children hide behind the tree to surprise their parents in the garden. 'Derrière' means 'behind' and indicates position.",
+      "difficulty": "B1",
+      "source": "Family play",
+      "tags": [
+        "family",
+        "children",
+        "play",
+        "surprise"
+      ],
+      "timeCreated": 1736106000
+    },
+    {
+      "id": 844,
+      "audioText": "Cette politique ne profite guère aux petites entreprises locales selon les derniers rapports.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cette politique ne profite guère aux petites entreprises locales selon les derniers rapports.",
+        "Cette politique ne profite pas aux petites entreprises locales selon les derniers rapports.",
+        "Cette politique ne profite guère aux grandes entreprises locales selon les derniers rapports.",
+        "Cette politique ne profite guère aux petites entreprises nationales selon les derniers rapports."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette politique ne profite guère aux petites entreprises locales selon les derniers rapports</em>' - This policy hardly benefits local small businesses according to the latest reports. 'Guère' means 'hardly/scarcely' and expresses minimal degree. The distractors test negation simplification (pas), size confusion (grandes), and scope confusion (nationales).",
+      "difficulty": "B2",
+      "source": "Economic policy",
+      "tags": [
+        "politics",
+        "business",
+        "economics",
+        "reports"
+      ],
+      "timeCreated": 1736106060
+    },
+    {
+      "id": 845,
+      "audioText": "Cette réaction est évidemment liée au stress qu'elle ressent au travail chaque jour.",
+      "question": "Cette réaction est ______ liée au stress qu'elle ressent au travail chaque jour.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "évidemment",
+        "certainement",
+        "probablement",
+        "clairement"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette réaction est évidemment liée au stress qu'elle ressent au travail chaque jour</em>' - This reaction is obviously linked to the stress she feels at work every day. 'Évidemment' means 'obviously/evidently' and expresses certainty.",
+      "difficulty": "B2",
+      "source": "Workplace stress",
+      "tags": [
+        "workplace",
+        "stress",
+        "emotions",
+        "health"
+      ],
+      "timeCreated": 1736106120
+    },
+    {
+      "id": 846,
+      "audioText": "J'en ai marre de ces réunions interminables qui ne mènent à aucune décision concrète.",
+      "question": "J'en ai ______ de ces réunions interminables qui ne mènent à aucune décision concrète.",
+      "questionType": "FIB-reading",
+      "options": [
+        "marre",
+        "assez",
+        "plein",
+        "ras-le-bol"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>J'en ai marre de ces réunions interminables qui ne mènent à aucune décision concrète</em>' - I'm fed up with these endless meetings that lead to no concrete decisions. 'Marre' in the expression 'en avoir marre' means 'to be fed up/tired of'.",
+      "difficulty": "B2",
+      "source": "Meeting frustration",
+      "tags": [
+        "workplace",
+        "frustration",
+        "meetings",
+        "decisions"
+      ],
+      "timeCreated": 1736106180
+    },
+    {
+      "id": 847,
+      "audioText": "Elle travaille tantôt le matin, tantôt le soir selon les besoins du restaurant.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Elle travaille tantôt le matin, tantôt le soir selon les besoins du restaurant.",
+        "Elle travaille parfois le matin, parfois le soir selon les besoins du restaurant.",
+        "Elle travaille tantôt le matin, tantôt l'après-midi selon les besoins du restaurant.",
+        "Elle travaille tantôt le matin, tantôt le soir selon les besoins du café."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle travaille tantôt le matin, tantôt le soir selon les besoins du restaurant</em>' - She works sometimes in the morning, sometimes in the evening according to the restaurant's needs. 'Tantôt... tantôt' means 'sometimes... sometimes' and indicates alternation. The distractors test synonym confusion (parfois), time confusion (après-midi), and place confusion (café).",
+      "difficulty": "B2",
+      "source": "Flexible schedule",
+      "tags": [
+        "workplace",
+        "schedule",
+        "flexibility",
+        "restaurant"
+      ],
+      "timeCreated": 1736106240
+    },
+    {
+      "id": 848,
+      "audioText": "Cette blessure guérit légèrement plus vite que prévu grâce aux nouveaux traitements.",
+      "question": "Cette blessure guérit ______ plus vite que prévu grâce aux nouveaux traitements.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "légèrement",
+        "un peu",
+        "nettement",
+        "beaucoup"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette blessure guérit légèrement plus vite que prévu grâce aux nouveaux traitements</em>' - This injury is healing slightly faster than expected thanks to new treatments. 'Légèrement' means 'slightly/lightly' and indicates a small degree.",
+      "difficulty": "B2",
+      "source": "Medical progress",
+      "tags": [
+        "health",
+        "recovery",
+        "treatment",
+        "progress"
+      ],
+      "timeCreated": 1736106300
+    },
+    {
+      "id": 849,
+      "audioText": "Je participerais volontiers à ce projet si j'avais plus de temps libre ce mois-ci.",
+      "question": "Je participerais ______ à ce projet si j'avais plus de temps libre ce mois-ci.",
+      "questionType": "FIB-reading",
+      "options": [
+        "volontiers",
+        "avec plaisir",
+        "certainement",
+        "probablement"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je participerais volontiers à ce projet si j'avais plus de temps libre ce mois-ci</em>' - I would gladly participate in this project if I had more free time this month. 'Volontiers' means 'gladly/willingly' and expresses willingness.",
+      "difficulty": "B2",
+      "source": "Project participation",
+      "tags": [
+        "willingness",
+        "projects",
+        "time-management",
+        "volunteering"
+      ],
+      "timeCreated": 1736106360
+    },
+    {
+      "id": 850,
+      "audioText": "Cette nouvelle l'a touchée profondément et elle a besoin de temps pour réfléchir.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cette nouvelle l'a touchée profondément et elle a besoin de temps pour réfléchir.",
+        "Cette nouvelle l'a touchée profondément et elle a besoin d'espace pour réfléchir.",
+        "Cette nouvelle l'a touchée vivement et elle a besoin de temps pour réfléchir.",
+        "Cette nouvelle l'a touchée profondément et elle a besoin de temps pour guérir."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette nouvelle l'a touchée profondément et elle a besoin de temps pour réfléchir</em>' - This news affected her deeply and she needs time to reflect. 'Profondément' means 'deeply/profoundly' and indicates intensity. The distractors test word confusion (espace), synonym confusion (vivement), and action confusion (guérir).",
+      "difficulty": "B2",
+      "source": "Emotional impact",
+      "tags": [
+        "emotions",
+        "news",
+        "reflection",
+        "impact"
+      ],
+      "timeCreated": 1736106420
+    },
+    {
+      "id": 851,
+      "audioText": "Si tu refuses cette offre, tu devras forcément chercher une autre opportunité ailleurs.",
+      "question": "Si tu refuses cette offre, tu devras ______ chercher une autre opportunité ailleurs.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "forcément",
+        "obligatoirement",
+        "nécessairement",
+        "absolument"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Si tu refuses cette offre, tu devras forcément chercher une autre opportunité ailleurs</em>' - If you refuse this offer, you will necessarily have to look for another opportunity elsewhere. 'Forcément' means 'necessarily/inevitably' and expresses logical consequence.",
+      "difficulty": "B2",
+      "source": "Career decision",
+      "tags": [
+        "career",
+        "decisions",
+        "consequences",
+        "opportunities"
+      ],
+      "timeCreated": 1736106480
+    },
+    {
+      "id": 852,
+      "audioText": "Ces familles pauvres trouveront certainement des solutions créatives pour améliorer leur situation financière.",
+      "question": "Ces familles ______ trouveront certainement des solutions créatives pour améliorer leur situation financière.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pauvres",
+        "modestes",
+        "démunies",
+        "précaires"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ces familles pauvres trouveront certainement des solutions créatives pour améliorer leur situation financière</em>' - These poor families will certainly find creative solutions to improve their financial situation. 'Pauvres' means 'poor' and 'trouveront' targets missing verb conjugate, combining adjective and verb synergy.",
+      "difficulty": "B1",
+      "source": "Economic hardship",
+      "tags": [
+        "family",
+        "economics",
+        "solutions",
+        "poverty"
+      ],
+      "timeCreated": 1736106540
+    },
+    {
+      "id": 853,
+      "audioText": "Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques.",
+        "Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats scolaires.",
+        "Les étudiants contents plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques.",
+        "Les étudiants heureux plaisent beaucoup aux professeurs et obtiennent de meilleurs résultats académiques."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques</em>' - Happy students please teachers more and achieve better academic results. 'Heureux' means 'happy' and 'plaisent' targets missing verb conjugate, combining adjective and verb synergy. The distractors test synonym confusion (scolaires, contents) and degree confusion (beaucoup).",
+      "difficulty": "B2",
+      "source": "Academic success",
+      "tags": [
+        "students",
+        "education",
+        "happiness",
+        "success"
+      ],
+      "timeCreated": 1736106600
+    },
+    {
+      "id": 854,
+      "audioText": "Cette décision mauvaise va forcément créer des tensions entre les différents départements de l'entreprise.",
+      "question": "Cette décision ______ va forcément créer des tensions entre les différents départements de l'entreprise.",
+      "questionType": "FIB-reading",
+      "options": [
+        "mauvaise",
+        "incorrecte",
+        "inadaptée",
+        "regrettable"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette décision mauvaise va forcément créer des tensions entre les différents départements de l'entreprise</em>' - This bad decision will necessarily create tensions between the different company departments. 'Mauvaise' means 'bad' and 'forcément' reinforces recently covered adverb, creating lexical synergy.",
+      "difficulty": "B2",
+      "source": "Corporate conflict",
+      "tags": [
+        "workplace",
+        "decisions",
+        "conflict",
+        "management"
+      ],
+      "timeCreated": 1736106660
+    },
+    {
+      "id": 855,
+      "audioText": "Cette histoire drôle que nous entendons souvent fait toujours rire aux éclats.",
+      "question": "Cette histoire ______ que nous entendons souvent fait toujours rire aux éclats.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "drôle",
+        "amusante",
+        "comique",
+        "marrante"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette histoire drôle que nous entendons souvent fait toujours rire aux éclats</em>' - This funny story that we often hear always makes us burst out laughing. 'Drôle' means 'funny' and 'entendons' targets missing verb conjugate, combining adjective and verb synergy with frequency theme.",
+      "difficulty": "B1",
+      "source": "Storytelling humor",
+      "tags": [
+        "humor",
+        "frequency",
+        "entertainment",
+        "laughter"
+      ],
+      "timeCreated": 1736106720
+    },
+    {
+      "id": 856,
+      "audioText": "Ces quartiers tranquilles attirent les familles qui cherchent un environnement paisible pour leurs enfants.",
+      "question": "Ces quartiers ______ attirent les familles qui cherchent un environnement paisible pour leurs enfants.",
+      "questionType": "FIB-reading",
+      "options": [
+        "tranquilles",
+        "calmes",
+        "paisibles",
+        "silencieux"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ces quartiers tranquilles attirent les familles qui cherchent un environnement paisible pour leurs enfants</em>' - These quiet neighborhoods attract families looking for a peaceful environment for their children. 'Tranquilles' means 'quiet/calm' and 'cherchent' targets missing verb conjugate, combining adjective and verb synergy.",
+      "difficulty": "B1",
+      "source": "Neighborhood choice",
+      "tags": [
+        "family",
+        "housing",
+        "environment",
+        "peace"
+      ],
+      "timeCreated": 1736106780
+    },
+    {
+      "id": 857,
+      "audioText": "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale.",
+        "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté régionale.",
+        "Cette nouvelle grave concernant la taxation affecte profondément toute la communauté locale.",
+        "Cette nouvelle triste concernant les impôts affecte profondément toute la communauté locale."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale</em>' - This sad news about taxation deeply affects the entire local community. 'Triste' means 'sad', 'profondément' reinforces recently covered adverb, and 'taxation' targets under-represented topic, creating triple synergy. The distractors test scope confusion (régionale), synonym confusion (grave), and terminology confusion (impôts).",
+      "difficulty": "B2",
+      "source": "Tax policy impact",
+      "tags": [
+        "taxation",
+        "sadness",
+        "community",
+        "impact"
+      ],
+      "timeCreated": 1736106840
+    },
+    {
+      "id": 858,
+      "audioText": "Ce professeur gentil aide volontiers tous les étudiants qui rencontrent des difficultés académiques.",
+      "question": "Ce professeur ______ aide volontiers tous les étudiants qui rencontrent des difficultés académiques.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "gentil",
+        "sympa",
+        "bienveillant",
+        "attentionné"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce professeur gentil aide volontiers tous les étudiants qui rencontrent des difficultés académiques</em>' - This kind teacher gladly helps all students who encounter academic difficulties. 'Gentil' means 'kind/nice', 'volontiers' reinforces recently covered adverb, and 'aide' targets missing verb conjugate, creating triple synergy.",
+      "difficulty": "B1",
+      "source": "Teacher support",
+      "tags": [
+        "education",
+        "kindness",
+        "students",
+        "support"
+      ],
+      "timeCreated": 1736106900
+    },
+    {
+      "id": 859,
+      "audioText": "Toutes les solutions pareilles qu'ils proposent ne conviennent guère aux besoins spécifiques du projet.",
+      "question": "Toutes les solutions ______ qu'ils proposent ne conviennent guère aux besoins spécifiques du projet.",
+      "questionType": "FIB-reading",
+      "options": [
+        "pareilles",
+        "identiques",
+        "similaires",
+        "uniformes"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Toutes les solutions pareilles qu'ils proposent ne conviennent guère aux besoins spécifiques du projet</em>' - All the similar solutions they propose hardly suit the specific needs of the project. 'Pareilles' means 'similar/alike' and 'guère' reinforces recently covered adverb, creating adjective-adverb synergy.",
+      "difficulty": "B2",
+      "source": "Project planning",
+      "tags": [
+        "projects",
+        "solutions",
+        "specificity",
+        "adequacy"
+      ],
+      "timeCreated": 1736106960
+    },
+    {
+      "id": 860,
+      "audioText": "Ces animaux vivants que nous observons là constituent un écosystème remarquable dans cette région.",
+      "question": "Ces animaux ______ que nous observons là constituent un écosystème remarquable dans cette région.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "vivants",
+        "sauvages",
+        "libres",
+        "naturels"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ces animaux vivants que nous observons là constituent un écosystème remarquable dans cette région</em>' - These living animals that we observe there constitute a remarkable ecosystem in this region. 'Vivants' means 'living/alive' and 'là' reinforces recently covered adverb, creating adjective-adverb synergy.",
+      "difficulty": "B2",
+      "source": "Wildlife observation",
+      "tags": [
+        "animals",
+        "nature",
+        "ecosystem",
+        "observation"
+      ],
+      "timeCreated": 1736107020
+    },
+    {
+      "id": 861,
+      "audioText": "Cette situation dangereuse que vous décrivez nécessite évidemment une intervention immédiate des autorités.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cette situation dangereuse que vous décrivez nécessite évidemment une intervention immédiate des autorités.",
+        "Cette situation dangereuse que vous décrivez nécessite évidemment une intervention rapide des autorités.",
+        "Cette situation grave que vous décrivez nécessite évidemment une intervention immédiate des autorités.",
+        "Cette situation dangereuse que vous décrivez nécessite certainement une intervention immédiate des autorités."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette situation dangereuse que vous décrivez nécessite évidemment une intervention immédiate des autorités</em>' - This dangerous situation you describe obviously requires immediate intervention by authorities. 'Dangereuse' means 'dangerous' and 'évidemment' reinforces recently covered adverb, creating adjective-adverb synergy. The distractors test speed confusion (rapide), severity confusion (grave), and certainty confusion (certainement).",
+      "difficulty": "B2",
+      "source": "Emergency response",
+      "tags": [
+        "danger",
+        "emergency",
+        "authorities",
+        "intervention"
+      ],
+      "timeCreated": 1736107080
+    },
+    {
+      "id": 862,
+      "audioText": "Mes voisins proches m'aident toujours quand j'ai besoin de quelque chose d'urgent pour la maison.",
+      "question": "Mes voisins ______ m'aident toujours quand j'ai besoin de quelque chose d'urgent pour la maison.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "proches",
+        "voisins",
+        "gentils",
+        "serviables"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mes voisins proches m'aident toujours quand j'ai besoin de quelque chose d'urgent pour la maison</em>' - My close neighbors always help me when I need something urgent for the house. 'Proches' means 'close/nearby' and 'aident' targets missing verb conjugate, creating adjective-verb synergy.",
+      "difficulty": "B1",
+      "source": "Neighborhood support",
+      "tags": [
+        "neighbors",
+        "help",
+        "community",
+        "urgency"
+      ],
+      "timeCreated": 1736107140
+    },
+    {
+      "id": 863,
+      "audioText": "Ces boissons chaudes qu'il prépare tantôt le matin tantôt le soir réconfortent tout le monde.",
+      "question": "Ces boissons ______ qu'il prépare tantôt le matin tantôt le soir réconfortent tout le monde.",
+      "questionType": "FIB-reading",
+      "options": [
+        "chaudes",
+        "aromatisées",
+        "délicieuses",
+        "réconfortantes"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ces boissons chaudes qu'il prépare tantôt le matin tantôt le soir réconfortent tout le monde</em>' - These hot drinks that he prepares sometimes in the morning, sometimes in the evening, comfort everyone. 'Chaudes' means 'hot/warm', 'tantôt' reinforces recently covered adverb, and 'boissons' targets under-represented drinks topic, creating triple synergy.",
+      "difficulty": "B2",
+      "source": "Comfort beverages",
+      "tags": [
+        "drinks",
+        "comfort",
+        "warmth",
+        "routine"
+      ],
+      "timeCreated": 1736107200
+    },
+    {
+      "id": 864,
+      "audioText": "Il faut que ce restaurant vous plaise pour votre anniversaire.",
+      "question": "What does the speaker suggest about the restaurant?",
+      "questionType": "comprehension",
+      "options": [
+        "It must be expensive for your birthday",
+        "It must please you for your birthday",
+        "It must be reserved for your birthday",
+        "It must be nearby for your birthday"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Il faut que ce restaurant vous plaise pour votre anniversaire</em>' - It's necessary that this restaurant pleases you for your birthday. The subjunctive form 'plaise' is used after 'Il faut que' (it is necessary that) to express necessity or obligation.",
+      "difficulty": "B1",
+      "source": "Restaurant recommendation conversation",
+      "tags": [
+        "restaurant",
+        "birthday",
+        "recommendation"
+      ],
+      "timeCreated": 1751765448
+    },
+    {
+      "id": 865,
+      "audioText": "Marie s'est sentie soulagée après avoir reçu de bonnes nouvelles.",
+      "question": "How did Marie feel after receiving the news?",
+      "questionType": "comprehension",
+      "options": [
+        "She felt worried",
+        "She felt relieved",
+        "She felt confused",
+        "She felt angry"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Marie s'est sentie soulagée</em>' - Marie felt relieved. The past participle 'sentie' agrees with the feminine subject Marie, and 'soulagée' means relieved.",
+      "difficulty": "B1",
+      "source": "Personal news and emotional relief",
+      "tags": [
+        "relief",
+        "emotions",
+        "good-news"
+      ],
+      "timeCreated": 1751765866
+    },
+    {
+      "id": 866,
+      "audioText": "La réunion passerait au prochain moment disponible si nous avions plus de participants.",
+      "question": "When would the meeting be rescheduled?",
+      "questionType": "comprehension",
+      "options": [
+        "To the previous available time",
+        "To the next available time",
+        "To next week definitely",
+        "To the same time tomorrow"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>La réunion passerait au prochain moment disponible</em>' - The meeting would move to the next available time. The conditional 'passerait' expresses a hypothetical action, 'prochain' means next, and 'moment' refers to a time slot.",
+      "difficulty": "B2",
+      "source": "Meeting scheduling and workplace coordination",
+      "tags": [
+        "workplace",
+        "meetings",
+        "scheduling"
+      ],
+      "timeCreated": 1751776003
+    },
+    {
+      "id": 867,
+      "audioText": "La fille de mon voisin étudie la médecine à l'université.",
+      "question": "What is the neighbor's daughter studying?",
+      "questionType": "comprehension",
+      "options": [
+        "Engineering",
+        "Medicine",
+        "Literature",
+        "Business"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>La fille de mon voisin étudie la médecine</em>' - The neighbor's daughter studies medicine. The noun 'fille' can mean both girl and daughter, here meaning daughter in the family relationship context.",
+      "difficulty": "B1",
+      "source": "Neighbor relationships and education",
+      "tags": [
+        "family",
+        "education",
+        "university"
+      ],
+      "timeCreated": 1751776887
+    },
+    {
+      "id": 868,
+      "audioText": "Il faut que tu comprennes que dire merci est vraiment sympa et important.",
+      "question": "What should you understand about saying thanks?",
+      "questionType": "comprehension",
+      "options": [
+        "It's unnecessary",
+        "It's really nice and important",
+        "It's only for adults",
+        "It's too formal"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Il faut que tu comprennes que dire merci est vraiment sympa et important</em>' - You must understand that saying thanks is really nice and important. 'Comprennes' is subjunctive, 'merci' means thanks, and 'sympa' means nice/kind.",
+      "difficulty": "B1",
+      "source": "Social etiquette and politeness",
+      "tags": [
+        "kindness",
+        "politeness",
+        "social-skills"
+      ],
+      "timeCreated": 1751777362
+    },
+    {
+      "id": 869,
+      "audioText": "Les habitants vivaient au bout de la forêt verte, totalement isolés de la ville polluée.",
+      "question": "Where did the inhabitants live in relation to the polluted city?",
+      "questionType": "comprehension",
+      "options": [
+        "Partially connected to it",
+        "Totally isolated from it",
+        "Right next to it",
+        "Occasionally visiting it"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Les habitants vivaient au bout de la forêt verte, totalement isolés de la ville polluée</em>' - The inhabitants lived at the edge of the green forest, totally isolated from the polluted city. 'Vivaient' is imperfect tense, 'bout' means end/edge, 'verte' means green, and 'totalement' means totally.",
+      "difficulty": "B2",
+      "source": "Environmental contrast and rural life",
+      "tags": [
+        "environment",
+        "rural-life",
+        "pollution"
+      ],
+      "timeCreated": 1751777362
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-05T15:21:40.728Z",
-    "totalQuestions": 462,
+    "compiledAt": "2025-07-06T04:50:59.857Z",
+    "totalQuestions": 596,
     "level": "B",
-    "idRange": "252-781",
+    "idRange": "252-999",
     "difficulties": [
       "B1",
       "B2"

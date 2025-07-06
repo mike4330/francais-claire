@@ -1,643 +1,7 @@
 {
   "questions": [
     {
-      "id": 782,
-      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-      "parentQuestion": 963,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-        "Le gouvernement français a annoncé de nouvelles mesures écologiques pour soutenir les entreprises touchées par la crise.",
-        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les étudiants touchés par la crise.",
-        "Le gouvernement français a proposé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.'",
-      "difficulty": "C1",
-      "source": "France24 Economics - Listening",
-      "tags": [
-        "politics",
-        "economy"
-      ]
-    },
-    {
-      "id": 783,
-      "audioText": "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-        "La Cour suprême américaine étend les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"justifiées\".",
-        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Joe Biden crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"nécessaires\"."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était : 'La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.' Les distracteurs modifient soit le verbe clé (limite/étend), le président mentionné (Trump/Biden), ou la justification de la Cour (excèdent/justifiées/nécessaires).",
-      "difficulty": "C2",
-      "source": "French summary of US Supreme Court news, June 2024",
-      "tags": [
-        "law",
-        "politics",
-        "us",
-        "judiciary",
-        "supreme-court",
-        "news"
-      ]
-    },
-    {
-      "id": 784,
-      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-      "question": "What is Sophie Bauer's reaction to the proposed penalties for doctors regarding medical deserts?",
-      "questionType": "comprehension",
-      "options": [
-        "She was extremely shocked that penalties would be associated if doctors feel unable to reinforce in the most complicated areas.",
-        "She supports the penalties as a way to encourage doctors to work in difficult areas.",
-        "She believes the penalties are not strict enough to solve the problem of medical deserts.",
-        "She thinks the penalties should only apply to new doctors, not experienced ones."
-      ],
-      "correct": 0,
-      "explanation": "Sophie Bauer says she was 'extrêmement choquée' (extremely shocked) to see that penalties would be associated in cases where doctors consider themselves unable to reinforce in the most complicated areas. She does not support the penalties, but rather expresses surprise and disapproval.",
-      "difficulty": "C1",
-      "source": "French Healthcare Policy - Medical Deserts",
-      "tags": [
-        "healthcare",
-        "policy",
-        "medical-deserts",
-        "penalties",
-        "doctors",
-        "reaction"
-      ]
-    },
-    {
-      "id": 785,
-      "audioText": "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
-        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre la récession.",
-        "Il serait simple de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
-        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats probants dans la lutte contre l'inflation."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.' - It would be easy to criticize this government policy, but we must acknowledge that it has produced tangible results in the fight against inflation.",
-      "difficulty": "C1",
-      "source": "Economic Policy Analysis",
-      "tags": [
-        "economics",
-        "politics",
-        "policy",
-        "inflation"
-      ],
-      "timeCreated": 1720023360
-    },
-    {
-      "id": 786,
-      "audioText": "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
-        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques sérieuses.",
-        "Cette situation est franchement bizarre : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
-        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocalisant sa production vers des pays aux normes écologiques dérisoires."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.' - This situation is frankly funny: here's a multinational that preaches environmental sustainability while relocating its production to countries with derisory ecological standards.",
-      "difficulty": "C1",
-      "source": "Corporate Environmental Analysis",
-      "tags": [
-        "environment",
-        "business",
-        "sustainability",
-        "hypocrisy"
-      ],
-      "timeCreated": 1720023420
-    },
-    {
-      "id": 787,
-      "audioText": "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
-        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en cours.",
-        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Extérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
-        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment calme, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.' - Despite the media agitation around this case, the Interior Minister remains surprisingly quiet, which fuels speculation about possible behind-the-scenes negotiations.",
-      "difficulty": "C1",
-      "source": "Political Media Analysis",
-      "tags": [
-        "politics",
-        "media",
-        "speculation",
-        "negotiations"
-      ],
-      "timeCreated": 1720023480
-    },
-    {
-      "id": 788,
-      "audioText": "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
-        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie visible.",
-        "Les conséquences de cette réforme des retraites sont particulièrement graves pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
-        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions privées, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.' - The consequences of this pension reform are particularly serious for liberal professions, who see their contributions increase substantially without obvious compensation.",
-      "difficulty": "C1",
-      "source": "Pension Reform Analysis",
-      "tags": [
-        "politics",
-        "economy",
-        "pensions",
-        "professions"
-      ],
-      "timeCreated": 1720023540
-    },
-    {
-      "id": 789,
-      "audioText": "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
-        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation scientifique.",
-        "L'impact de l'intelligence artificielle sur l'emploi représente un défi immense pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
-        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs économiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était 'L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.' - The impact of artificial intelligence on employment represents an enormous challenge for political decision-makers, who must anticipate societal upheavals without slowing technological innovation.",
-      "difficulty": "C1",
-      "source": "AI Policy Discussion",
-      "tags": [
-        "technology",
-        "artificial-intelligence",
-        "employment",
-        "policy"
-      ],
-      "timeCreated": 1720023600
-    },
-    {
-      "id": 790,
-      "audioText": "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
-      "options": [
-        "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
-        "Cette situation économique est meilleure que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
-        "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures ordinaires pour stabiliser les marchés financiers.",
-        "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stimuler les marchés financiers."
-      ],
-      "correct": 0,
-      "explanation": "The speaker used 'pire' meaning 'worse' to compare this year's economic situation to last year's. 'Pire' is the comparative form of 'mauvais' (bad). The other options change 'pire' to 'meilleure' (better), 'urgence' to 'ordinaires' (ordinary), or 'stabiliser' to 'stimuler' (stimulate).",
-      "difficulty": "C1",
-      "source": "Economic analysis",
-      "tags": [
-        "economics",
-        "comparison",
-        "crisis"
-      ],
-      "timeCreated": 1720077400
-    },
-    {
-      "id": 793,
-      "audioText": "Le prix est de cinquante euros, service compris, pour ce menu gastronomique exceptionnel.",
-      "question": "Le prix est de cinquante euros, service ______, pour ce menu gastronomique exceptionnel.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "compris",
-        "exclu",
-        "supplémentaire",
-        "optionnel"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'compris' meaning 'included'. The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
-      "difficulty": "C1",
-      "source": "Fine dining",
-      "tags": [
-        "restaurant",
-        "pricing",
-        "gastronomy"
-      ],
-      "timeCreated": 1720077400
-    },
-    {
-      "id": 794,
-      "audioText": "Si tu arrives en retard au travail, tu seras forcément réprimandé par ton chef de service.",
-      "question": "Si tu arrives en retard au travail, tu seras ______ réprimandé par ton chef de service.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "forcément",
-        "probablement",
-        "rarement",
-        "jamais"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'forcément' meaning 'necessarily' or 'inevitably'. If you arrive late to work, you will necessarily be reprimanded by your supervisor. 'Forcément' expresses certainty about the consequence.",
-      "difficulty": "C1",
-      "source": "Workplace consequences",
-      "tags": [
-        "workplace",
-        "punctuality",
-        "consequences"
-      ],
-      "timeCreated": 1720077400
-    },
-    {
-      "id": 795,
-      "audioText": "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
-      "options": [
-        "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-        "Le projet est coûteux ; cependant, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-        "Le projet est coûteux ; néanmoins, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-        "Le projet est coûteux ; par conséquent, il représente un investissement stratégique essentiel pour notre développement technologique à long terme."
-      ],
-      "correct": 0,
-      "explanation": "The speaker used 'toutefois' meaning 'however' or 'nevertheless' to introduce a contrasting point. Despite the project being expensive, it represents essential strategic investment. The other options change 'toutefois' to 'cependant' (however), 'néanmoins' (nevertheless), or 'par conséquent' (therefore).",
-      "difficulty": "C1",
-      "source": "Strategic planning",
-      "tags": [
-        "business",
-        "strategy",
-        "investment"
-      ],
-      "timeCreated": 1720077400
-    },
-    {
-      "id": 796,
-      "audioText": "Certes, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
-      "options": [
-        "Certes, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
-        "Certes, la situation économique est facile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
-        "Certes, la situation économique est difficile, mais nous devons abandonner notre optimisme et notre détermination face aux défis.",
-        "Bien sûr, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis."
-      ],
-      "correct": 0,
-      "explanation": "The speaker used 'certes' meaning 'certainly' or 'admittedly' to acknowledge the economic situation. The other options change 'difficile' to 'facile' (easy), 'maintenir' to 'abandonner' (abandon), or 'certes' to 'bien sûr' (of course).",
-      "difficulty": "C1",
-      "source": "Economic discourse",
-      "tags": [
-        "economics",
-        "challenges",
-        "optimism"
-      ],
-      "timeCreated": 1720077400
-    },
-    {
-      "id": 797,
-      "audioText": "Si nous échouons dans cette négociation cruciale, ce sera pis que tout ce que nous avons vécu auparavant dans notre histoire commerciale.",
-      "question": "Si nous échouons dans cette négociation cruciale, ce sera ______ que tout ce que nous avons vécu auparavant dans notre histoire commerciale.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "pis",
-        "mieux",
-        "pareil",
-        "différent"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'pis' meaning 'worse'. If we fail in this crucial negotiation, it will be worse than everything we have experienced before in our commercial history. 'Pis' is a more formal/literary variant of 'pire' (worse).",
-      "difficulty": "C2",
-      "source": "Business negotiations",
-      "tags": [
-        "business",
-        "negotiations",
-        "consequences"
-      ],
-      "timeCreated": 1720077400
-    },
-    {
-      "id": 798,
-      "audioText": "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
-      "parentQuestion": 953,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
-        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions centrales envers les centres financiers dominants.",
-        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus riches constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
-        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles locales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte contenait 'nations les plus pauvres', 'régions périphériques' et 'inégalités structurelles globales'. Les distracteurs changent des éléments clés : 'pauvres'/'riches', 'périphériques'/'centrales', et 'globales'/'locales'.",
-      "difficulty": "C2",
-      "source": "Economic theory and global policy analysis - Listening",
-      "tags": [
-        "economics",
-        "austerity",
-        "neoliberalism",
-        "inequality",
-        "policy-analysis"
-      ],
-      "timeCreated": 1720023660
-    },
-    {
-      "id": 799,
-      "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
-      "parentQuestion": 845,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
-        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons méthodologiques.",
-        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer progressivement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
-        "Cette idée révolutionnaire, bien qu'elle suscite des polémiques, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte contenait 'controverses' (pas 'polémiques'), 'radicalement' (pas 'progressivement'), et 'épistémologiques' (pas 'méthodologiques'). Ces distinctions subtiles testent l'écoute précise à un niveau C2.",
-      "difficulty": "C2",
-      "source": "Academic Research - Listening",
-      "tags": [
-        "technology",
-        "artificial-intelligence",
-        "philosophy",
-        "research",
-        "innovation",
-        "epistemology"
-      ],
-      "timeCreated": 1720023720
-    },
-    {
-      "id": 800,
-      "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
-      "parentQuestion": 846,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
-        "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions pratiques.",
-        "Vous pensiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
-        "Vous disiez toujours que les réformes sociales étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte utilisait 'disiez' (pas 'pensiez'), 'réformes économiques' (pas 'sociales'), et 'solutions concrètes' (pas 'pratiques'). Ces nuances testent la compréhension précise du discours politique.",
-      "difficulty": "C1",
-      "source": "Political Discourse - Listening",
-      "tags": [
-        "politics",
-        "economics",
-        "criticism",
-        "rhetoric",
-        "policy-analysis",
-        "contradictions"
-      ],
-      "timeCreated": 1720023780
-    },
-    {
-      "id": 801,
-      "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
-      "parentQuestion": 851,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
-        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances diplomatiques traditionnelles.",
-        "Cette guerre commerciale entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
-        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques importantes qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte utilisait 'guerre économique' (pas 'commerciale'), 'répercussions... majeures' (pas 'importantes'), et 'alliances stratégiques' (pas 'diplomatiques'). Ces distinctions lexicales sont cruciales dans l'analyse géopolitique.",
-      "difficulty": "C1",
-      "source": "International Relations Analysis - Listening",
-      "tags": [
-        "politics",
-        "international-relations",
-        "economics",
-        "geopolitics",
-        "global-affairs",
-        "strategic-alliances"
-      ],
-      "timeCreated": 1720023840
-    },
-    {
-      "id": 802,
-      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-      "parentQuestion": 784,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-        "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des sanctions au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
-        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller travailler dans les zones les plus compliquées\", explique Sophie Bauer."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte utilisait 'choqués' (pas 'surpris'), 'pénalités' (pas 'sanctions'), et 'aller renforcer' (pas 'aller travailler'). Cette citation directe teste la précision de l'écoute dans un contexte de politique de santé.",
-      "difficulty": "C1",
-      "source": "French Healthcare Policy - Medical Deserts - Listening",
-      "tags": [
-        "healthcare",
-        "policy",
-        "medical-deserts",
-        "penalties",
-        "doctors",
-        "reaction"
-      ],
-      "timeCreated": 1720023900
-    },
-    {
-      "id": 803,
-      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-      "parentQuestion": 963,
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises affectées par la crise.",
-        "Le gouvernement français a annoncé de nouvelles mesures financières pour soutenir les entreprises touchées par la crise.",
-        "Le gouvernement français a présenté de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte utilisait 'annoncé' (pas 'présenté'), 'mesures économiques' (pas 'financières'), et 'touchées' (pas 'affectées'). Ces nuances lexicales sont importantes dans le discours politique et économique.",
-      "difficulty": "C1",
-      "source": "France24 Economics - Listening",
-      "tags": [
-        "politics",
-        "economy",
-        "government",
-        "crisis"
-      ],
-      "timeCreated": 1720023960
-    },
-    {
-      "id": 804,
-      "audioText": "La suite de cet événement diplomatique sans précédent demeure incertaine, les négociateurs étant confrontés à des divergences fondamentales qui remettent en question l'architecture même des accords internationaux établis depuis plusieurs décennies.",
-      "question": "What makes the continuation of this diplomatic event uncertain?",
-      "questionType": "comprehension",
-      "options": [
-        "Fundamental disagreements that question the very architecture of established international agreements",
-        "Technical difficulties in organizing the meeting venues and logistics",
-        "Language barriers preventing effective communication between delegates",
-        "Budget constraints limiting the scope of potential agreements"
-      ],
-      "correct": 0,
-      "explanation": "The text indicates that 'la suite' (the continuation/what follows) remains uncertain because negotiators face 'des divergences fondamentales qui remettent en question l'architecture même des accords internationaux' - fundamental disagreements that question the very architecture of international agreements. 'Suite' here means continuation or what follows next.",
-      "difficulty": "C2",
-      "source": "International Diplomacy",
-      "tags": [
-        "diplomacy",
-        "international-relations",
-        "negotiations",
-        "political-uncertainty",
-        "global-agreements"
-      ],
-      "timeCreated": 1720025220
-    },
-    {
-      "id": 806,
-      "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
-      "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
-      "questionType": "comprehension",
-      "options": [
-        "To completely ban American technology companies from operating in France",
-        "To strengthen digital sovereignty through new regulatory safeguards for data protection",
-        "To force American companies to relocate their headquarters to Europe",
-        "To create French alternatives to replace all American digital platforms"
-      ],
-      "correct": 1,
-      "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
-      "difficulty": "C2",
-      "source": "French Digital Policy",
-      "tags": [
-        "digital-sovereignty",
-        "technology",
-        "regulation",
-        "data-protection",
-        "policy",
-        "european-union",
-        "algorithms",
-        "privacy"
-      ]
-    },
-    {
-      "id": 807,
-      "audioText": "Alban Gervaise a été tué de plusieurs coups de couteaux devant une école à Marseille, en mai 2022. Ce mercredi 25 juin, son meurtrier vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison.",
-      "question": "What happened to the person who killed Alban Gervaise?",
-      "questionType": "comprehension",
-      "options": [
-        "He was declared criminally irresponsible and will not serve prison time",
-        "He was sentenced to life imprisonment",
-        "He was released immediately after the trial",
-        "He was transferred to another jurisdiction"
-      ],
-      "correct": 0,
-      "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
-      "difficulty": "C1",
-      "source": "French Legal News",
-      "tags": [
-        "crime",
-        "legal-system",
-        "criminal-responsibility",
-        "mental-health",
-        "justice"
-      ]
-    },
-    {
-      "id": 808,
-      "audioText": "Le tunnel de Tende, projet lancé en 2007, a connu de longs retards à cause d'un vol de métaux chez une société italienne et de la tempête Alex en 2020. Son ouverture, après des années d'isolement et de scandales, est vécue comme une bouffée d'oxygène pour les habitants de la vallée de la Roya et de l'Italie.",
-      "question": "What factors contributed to the delays and challenges in the Tende tunnel project, and what does its opening represent for local residents?",
-      "questionType": "comprehension",
-      "options": [
-        "Theft of metals, storm damage, and scandals delayed the project; its opening is a relief after years of isolation.",
-        "A lack of funding and political disagreements delayed the project; its opening is mainly a tourist attraction.",
-        "Environmental protests and technical errors delayed the project; its opening is controversial among residents.",
-        "The project was completed on time but was delayed for ceremonial reasons; its opening is largely symbolic."
-      ],
-      "correct": 0,
-      "explanation": "The text explains that the Tende tunnel project was delayed by a major theft of metals, the storm Alex, and scandals. Its opening is described as 'une bouffée d'oxygène' (a breath of fresh air) for residents who suffered years of isolation and frustration.",
-      "difficulty": "C1",
-      "source": "French Infrastructure News - Tende Tunnel",
-      "tags": [
-        "infrastructure",
-        "tunnel",
-        "France",
-        "Italy",
-        "delays",
-        "storm",
-        "scandal",
-        "relief"
-      ]
-    },
-    {
-      "id": 809,
-      "audioText": "Les résultats de l'enquête ont été reçus par la commission indépendante hier soir.",
-      "question": "Complétez avec le participe passé du verbe 'recevoir' : Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "reçus",
-        "reçu",
-        "recevés",
-        "recevoir"
-      ],
-      "correct": 0,
-      "explanation": "La bonne réponse est 'reçus'. Accord avec 'les résultats' (masculin pluriel). Le participe passé de 'recevoir' est 'reçu', qui s'accorde ici en nombre et en genre.",
-      "difficulty": "C1",
-      "source": "Formal News - Investigation Results",
-      "tags": [
-        "news",
-        "investigation"
-      ]
-    },
-    {
-      "id": 810,
-      "audioText": "L'exécution provisoire des peines d'inéligibilité a été prononcée 50 fois plus souvent l'an dernier qu'il y a six ans, touchant de nombreux élus de façon indéterminée. Selon un expert, cela représente une déviance profonde de l'État de droit.",
-      "question": "What concern is raised about the recent increase in provisional ineligibility sentences?",
-      "questionType": "comprehension",
-      "options": [
-        "It represents a serious deviation from the rule of law, affecting many elected officials in an indefinite manner.",
-        "It has made the legal process more efficient and transparent.",
-        "It has reduced the number of appeals by convicted officials.",
-        "It is welcomed by all political parties as a necessary reform."
-      ],
-      "correct": 0,
-      "explanation": "The text highlights that the sharp rise in provisional ineligibility sentences is seen as a profound deviation from the rule of law, with many elected officials affected in an indefinite way. This is presented as a negative development, not a positive reform.",
-      "difficulty": "C1",
-      "source": "Legal News - Points de Vue",
-      "tags": [
-        "law",
-        "ineligibility",
-        "rule-of-law",
-        "politics",
-        "justice",
-        "trend"
-      ]
-    },
-    {
-      "id": 812,
-      "audioText": "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-        "La communauté monastique attendait depuis des décennies la canonisation de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement national de leur ordre contemplatif.",
-        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par Rome consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif."
-      ],
-      "correct": 0,
-      "explanation": "La phrase exacte était avec 'béatification' (pas canonisation), 'Vatican' (pas Rome), et 'rayonnement international' (pas national). Les distracteurs testent la précision de l'écoute sur les termes techniques religieux et les nuances institutionnelles.",
-      "difficulty": "C1",
-      "source": "Vatican Religious Affairs",
-      "tags": [
-        "religion",
-        "monasticism",
-        "vatican",
-        "beatification",
-        "spiritual-heritage",
-        "contemplative-orders"
-      ]
-    },
-    {
-      "id": 813,
+      "id": 1000,
       "audioText": "Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme. Cette œuvre révèle comment les représentations littéraires occidentales ont façonné notre compréhension de l'Autre et perpétué des hiérarchies culturelles héritées de l'empire colonial.",
       "question": "What literary approach is the speaker taking and what do they expect to find?",
       "questionType": "comprehension",
@@ -661,7 +25,7 @@
       ]
     },
     {
-      "id": 814,
+      "id": 1001,
       "audioText": "Quand je regardais ces archives napoléoniennes au musée, je réalisais combien les propagandes d'époque avaient façonné la perception publique. Ces documents révèlent l'écart entre la réalité historique et les mythes patriotiques construits par le régime impérial pour légitimer ses ambitions expansionnistes en Europe.",
       "question": "What realization did the speaker have while examining the Napoleonic archives?",
       "questionType": "comprehension",
@@ -686,7 +50,7 @@
       ]
     },
     {
-      "id": 815,
+      "id": 1002,
       "audioText": "Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens. L'analyse stylistique révèle des influences clairement méditerranéennes dans les progressions d'accords, particulièrement dans les mouvements lents où la mélodie adopte des ornementations typiques de l'école napolitaine.",
       "question": "What would a musicologist never believe about Bach's composition according to this analysis?",
       "questionType": "comprehension",
@@ -710,7 +74,7 @@
       ]
     },
     {
-      "id": 816,
+      "id": 1003,
       "audioText": "Il est essentiel que j'aie terminé cette présentation stratégique avant la réunion avec le conseil d'administration. Cette analyse comparative des marchés émergents déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives.",
       "question": "Why is it essential for the speaker to complete their strategic presentation?",
       "questionType": "comprehension",
@@ -733,7 +97,7 @@
       ]
     },
     {
-      "id": 817,
+      "id": 1004,
       "audioText": "Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires et sa vision stratégique à long terme.",
       "question": "What makes this innovative company remarkable?",
       "questionType": "comprehension",
@@ -757,7 +121,7 @@
       "timeCreated": 1720025700
     },
     {
-      "id": 818,
+      "id": 1005,
       "audioText": "Les explications du professeur étaient parfaitement clair et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement.",
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
@@ -779,7 +143,7 @@
       "timeCreated": 1720026320
     },
     {
-      "id": 819,
+      "id": 1006,
       "audioText": "L'analyse socio-économique révèle que les populations les plus pauvre subissent de manière disproportionnée les conséquences du changement climatique, exacerbant ainsi les inégalités structurelles préexistantes dans nos sociétés contemporaines occidentales.",
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
@@ -802,7 +166,7 @@
       "timeCreated": 1720026680
     },
     {
-      "id": 820,
+      "id": 1007,
       "audioText": "L'ambassadeur croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels entre nos nations. Il arguait que cette bureaucratie excessive entravait non seulement le tourisme mais également les collaborations académiques et scientifiques essentielles au développement de partenariats diplomatiques durables.",
       "question": "What was the ambassador's belief about current visa restrictions and their broader impact?",
       "questionType": "comprehension",
@@ -826,7 +190,7 @@
       ]
     },
     {
-      "id": 821,
+      "id": 1008,
       "audioText": "Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse poststructuraliste particulièrement percutante. Cette méthodologie épistémologique révolutionnaire interroge fondamentalement les présupposés idéologiques sous-jacents aux dispositifs de gouvernance supranationaux et aux mécanismes d'hégémonie culturelle perpétués par les institutions académiques traditionnelles.",
       "question": "What methodological approach was used to challenge neoliberal economic paradigms at this interdisciplinary conference?",
       "questionType": "comprehension",
@@ -851,7 +215,7 @@
       ]
     },
     {
-      "id": 822,
+      "id": 1009,
       "audioText": "Ce soir, je vais préparer une poêlée de seiche avec du gingembre.",
       "question": "Ce soir, je vais préparer une poêlée de ______ avec du gingembre.",
       "questionType": "fill-in-the-blank",
@@ -874,7 +238,7 @@
       ]
     },
     {
-      "id": 823,
+      "id": 1010,
       "audioText": "L'analyse psychanalytique révèle que son père faisait preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
       "question": "L'analyse psychanalytique révèle que son père ______ preuve d'une rigidité émotionnelle caractéristique des générations marquées par les traumatismes historiques, influençant profondément les dynamiques familiales contemporaines et les mécanismes de transmission intergénérationnelle.",
       "questionType": "fill-in-the-blank",
@@ -899,7 +263,7 @@
       ]
     },
     {
-      "id": 824,
+      "id": 1011,
       "audioText": "L'herméneutique phénoménologique révèle que ces zones gris de l'interprétation textuelle nécessitent une approche méthodologique plus nuancée, intégrant les dimensions sociopolitiques et épistémologiques inhérentes aux processus de signification contemporains.",
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
@@ -922,7 +286,7 @@
       "timeCreated": 1720027100
     },
     {
-      "id": 825,
+      "id": 1012,
       "audioText": "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaire dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
@@ -945,7 +309,7 @@
       "timeCreated": 1720027160
     },
     {
-      "id": 826,
+      "id": 1013,
       "audioText": "La spécialiste en neurosciences cognitives a été appelée à témoigner devant la commission parlementaire sur les implications éthiques de l'intelligence artificielle dans le domaine médical.",
       "question": "La spécialiste en neurosciences cognitives a été ______ à témoigner devant la commission parlementaire sur les implications éthiques de l'intelligence artificielle dans le domaine médical.",
       "questionType": "fill-in-the-blank",
@@ -969,7 +333,7 @@
       "timeCreated": 1720027580
     },
     {
-      "id": 827,
+      "id": 1014,
       "audioText": "Arrête ! Tu ne peux pas traverser maintenant, le feu est rouge.",
       "question": "______ ! Tu ne peux pas traverser maintenant, le feu est rouge.",
       "questionType": "fill-in-the-blank",
@@ -992,7 +356,7 @@
       "timeCreated": 1720027640
     },
     {
-      "id": 828,
+      "id": 1015,
       "audioText": "Il est essentiel que nos collaborateurs fassent preuve de créativité dans leurs projets innovants pour maintenir notre avantage concurrentiel.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -1014,7 +378,7 @@
       "timeCreated": 1720077400
     },
     {
-      "id": 829,
+      "id": 1016,
       "audioText": "Nous voulions absolument visiter le château de Versailles pendant notre séjour parisien, mais malheureusement le temps nous a manqué.",
       "question": "Nous ______ absolument visiter le château de Versailles pendant notre séjour parisien, mais malheureusement le temps nous a manqué.",
       "questionType": "fill-in-the-blank",
@@ -1036,7 +400,7 @@
       "timeCreated": 1720077400
     },
     {
-      "id": 830,
+      "id": 1017,
       "audioText": "Vous verrez que cette nouvelle stratégie marketing révolutionnaire transformera complètement notre approche commerciale et notre positionnement concurrentiel.",
       "question": "Vous ______ que cette nouvelle stratégie marketing révolutionnaire transformera complètement notre approche commerciale et notre positionnement concurrentiel.",
       "questionType": "fill-in-the-blank",
@@ -1058,7 +422,7 @@
       "timeCreated": 1720077400
     },
     {
-      "id": 831,
+      "id": 1018,
       "audioText": "Quand j'étais étudiant, je venais souvent à cette bibliothèque pour étudier les mathématiques et la physique quantique.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -1080,7 +444,7 @@
       "timeCreated": 1720077400
     },
     {
-      "id": 832,
+      "id": 1019,
       "audioText": "Je vous parlerai de cette proposition innovante lors de notre prochaine réunion stratégique mensuelle.",
       "question": "Je vous ______ de cette proposition innovante lors de notre prochaine réunion stratégique mensuelle.",
       "questionType": "fill-in-the-blank",
@@ -1102,7 +466,7 @@
       "timeCreated": 1720077400
     },
     {
-      "id": 833,
+      "id": 1020,
       "audioText": "Il faut que tu veuilles bien faire les choses.",
       "question": "Il faut que tu ______ bien faire les choses.",
       "questionType": "fill-in-the-blank",
@@ -1123,7 +487,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 834,
+      "id": 1021,
       "audioText": "Il était essentiel que vous connaissiez les risques avant de commencer.",
       "question": "Il était essentiel que vous ______ les risques avant de commencer.",
       "questionType": "fill-in-the-blank",
@@ -1145,7 +509,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 835,
+      "id": 1022,
       "audioText": "Si tu m'expliquais, je comprendrais mieux la situation.",
       "question": "Si tu m'expliquais, je ______ mieux la situation.",
       "questionType": "fill-in-the-blank",
@@ -1166,7 +530,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 836,
+      "id": 1023,
       "audioText": "Cette information est fausse, elle a été démentie par la source officielle.",
       "question": "Cette information est ______, elle a été démentie par la source officielle.",
       "questionType": "fill-in-the-blank",
@@ -1187,7 +551,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 837,
+      "id": 1024,
       "audioText": "C'est une bête erreur de ne pas vérifier les faits.",
       "question": "What kind of mistake is it to not verify facts?",
       "questionType": "comprehension",
@@ -1208,7 +572,75 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 838,
+      "id": 1025,
+      "audioText": "Les citoyens qui seront appelés à témoigner devront révéler comment la taxation excessive a nui à leurs relations professionnelles et personnelles.",
+      "question": "Les citoyens qui seront ______ à témoigner devront révéler comment la taxation excessive a nui à leurs relations professionnelles et personnelles.",
+      "questionType": "FIB-reading",
+      "options": [
+        "appelés",
+        "convoqués",
+        "invités",
+        "sollicités"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les citoyens qui seront appelés à témoigner devront révéler comment la taxation excessive a nui à leurs relations professionnelles et personnelles</em>' - The citizens who will be called to testify will have to reveal how excessive taxation has harmed their professional and personal relationships. 'Appelés' is the past participle of 'appeler' (to call), targeting missing verb conjugate with taxation/professional-relationships themes.",
+      "difficulty": "C1",
+      "source": "Legal testimony",
+      "tags": [
+        "taxation",
+        "professional-relationships",
+        "legal",
+        "testimony"
+      ],
+      "timeCreated": 1736105580
+    },
+    {
+      "id": 1026,
+      "audioText": "Dans le débat houleux sur l'impact des nouvelles technologies, ma grand-mère, avec son regard profond et son expérience de vie, a souvent dit : 'Je mourrai probablement avant de comprendre pleinement ce qu'il y a là-dedans, dans cet écran lumineux qui captive vos yeux. Les jeunes d'aujourd'hui semblent vivre dans un monde parallèle, une réalité virtuelle où les interactions humaines directes s'estompent. C'est un fossé générationnel que je ne parviens pas à franchir, une énigme pour mon vieil œil. Mais je reconnais que cela a ses avantages, même si je ne les perçois pas toujours.' Sa sagesse, bien que teintée d'une certaine mélancolie face à l'inconnu, résonnait avec une vérité universelle sur l'évolution constante de la société.",
+      "question": "What is the grandmother's primary sentiment regarding new technologies and the younger generation?",
+      "questionType": "listening",
+      "options": [
+        "She is entirely dismissive and critical of their impact.",
+        "She expresses a mix of bewilderment, acceptance, and a sense of being left behind.",
+        "She fully embraces and understands the benefits of digital interaction.",
+        "She believes the younger generation is wasting their lives on screens."
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Je mourrai probablement avant de comprendre pleinement ce qu'il y a là-dedans, dans cet écran lumineux qui captive vos yeux. Les jeunes d'aujourd'hui semblent vivre dans un monde parallèle, une réalité virtuelle où les interactions humaines directes s'estompent. C'est un fossé générationnel que je ne parviens pas à franchir, une énigme pour mon vieil œil. Mais je reconnais que cela a ses avantages, même si je ne les perçois pas toujours.</em>' - 'I will probably die before fully understanding what is in there, in that luminous screen that captivates your eyes. Young people today seem to live in a parallel world, a virtual reality where direct human interactions fade away. It's a generational gap that I cannot cross, an enigma for my old eye. But I recognize that it has its advantages, even if I don't always perceive them.' The grandmother expresses a feeling of not fully understanding ('comprendre pleinement'), a sense of a 'fossé générationnel' (generational gap) she cannot cross, and calls it an 'énigme pour mon vieil œil' (enigma for my old eye), indicating bewilderment and being left behind. However, she also acknowledges 'cela a ses avantages' (it has its advantages), showing acceptance. The distractors test for misinterpretation of her nuanced feelings.",
+      "difficulty": "C2",
+      "source": "Gemini CLI",
+      "tags": [
+        "generational-differences",
+        "technology",
+        "family",
+        "social-commentary"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 1027,
+      "audioText": "Quand tu partes là, dans l'immense toile du web, n'oublie pas que chaque action est sous l'œil vigilant des algorithmes. Ce n'est pas toujours un chemin blanc et sans embûches, car la culture internet, avec ses pièges et ses merveilles, exige une prudence constante. Ce qui est mis en ligne reste là pour toujours, façonnant ta réputation numérique.",
+      "question": "What is the main message about online presence and internet culture?",
+      "questionType": "listening",
+      "options": [
+        "Online actions are permanent and require constant vigilance.",
+        "The internet is a safe and easy place for everyone.",
+        "Algorithms are not concerned with individual online behavior.",
+        "Online reputation is easily changed and forgotten."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Quand tu partes là, dans l'immense toile du web, n'oublie pas que chaque action est sous l'œil vigilant des algorithmes. Ce n'est pas toujours un chemin blanc et sans embûches, car la culture internet, avec ses pièges et ses merveilles, exige une prudence constante. Ce qui est mis en ligne reste là pour toujours, façonnant ta réputation numérique.</em>' - 'When you leave there, into the immense web, don't forget that every action is under the vigilant eye of algorithms. It's not always a white and smooth path, because internet culture, with its traps and wonders, requires constant prudence. What is put online remains there forever, shaping your digital reputation.' The explanation highlights the permanence of online actions ('reste là pour toujours') and the need for constant vigilance ('exige une prudence constante'). The verb 'partes' is the second person singular subjunctive present of 'partir', used here in a subordinate clause expressing a condition or hypothesis. The adverb 'là' indicates location. The adjective 'blanc' is used metaphorically to describe an easy path. The noun 'œil' refers to the watchful eye of algorithms. The distractors test for misinterpretation of the text's warnings and advice regarding online behavior.",
+      "difficulty": "C1",
+      "source": "Gemini CLI",
+      "tags": [
+        "internet-culture",
+        "technology",
+        "digital-literacy"
+      ],
+      "timeCreated": 1720176000
+    },
+    {
+      "id": 1028,
       "audioText": "Les déléguées diplomatiques, arrivées hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
       "question": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
       "questionType": "fill-in-the-blank",
@@ -1234,7 +666,7 @@
       ]
     },
     {
-      "id": 839,
+      "id": 1029,
       "audioText": "Maîtres boulangers, sauriez-vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
       "question": "Maîtres boulangers, ______ -vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux ?",
       "questionType": "fill-in-the-blank",
@@ -1260,7 +692,7 @@
       ]
     },
     {
-      "id": 840,
+      "id": 1030,
       "audioText": "Les sociologues contemporains croient que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
       "question": "Les sociologues contemporains ______ que l'évolution des inégalités socioéconomiques reflète des mutations structurelles profondes, exacerbées par la digitalisation accélérée et la précarisation généralisée du marché du travail, remettant en question les fondements mêmes de la cohésion sociale républicaine française.",
       "questionType": "fill-in-the-blank",
@@ -1288,7 +720,7 @@
       ]
     },
     {
-      "id": 841,
+      "id": 1031,
       "audioText": "L'écrivain célèbre eut soudain une peur terrible lorsqu'il réalisa que son histoire la plus importante venait d'être perdue à jamais dans l'incendie de sa maison, et que toutes ces années de travail acharné s'envolaient en fumée.",
       "question": "What did the famous writer suddenly experience?",
       "questionType": "comprehension",
@@ -1311,7 +743,7 @@
       "timeCreated": 1735489380
     },
     {
-      "id": 842,
+      "id": 1032,
       "audioText": "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
       "ssml": "<speak>Ce don agace certains internautes qui reprennent l'expression <break time=\"250ms\"/>«C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</speak>",
       "question": "What does the internet expression «C'est Nicolas qui paie» represent in this context?",
@@ -1337,7 +769,7 @@
       "timeCreated": 1735496889
     },
     {
-      "id": 843,
+      "id": 1033,
       "audioText": "Il faut ouvrir chaque porte métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.",
       "question": "Il faut ouvrir chaque ______ métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.",
       "questionType": "fill-in-the-blank",
@@ -1362,7 +794,7 @@
       "timeCreated": 1751219400
     },
     {
-      "id": 844,
+      "id": 1034,
       "audioText": "Les collectionneurs passionnés de timbres philatéliques consacrent énormément de temps à analyser minutieusement les nuances esthétiques et historiques de chaque spécimen, transformant cette activité de loisir en véritable passion érudite qui révèle des aspects insoupçonnés de l'histoire postale mondiale.",
       "question": "Les collectionneurs passionnés de timbres philatéliques consacrent énormément de ______ à analyser minutieusement les nuances esthétiques et historiques de chaque spécimen, transformant cette activité de loisir en véritable passion érudite qui révèle des aspects insoupçonnés de l'histoire postale mondiale.",
       "questionType": "fill-in-the-blank",
@@ -1389,7 +821,7 @@
       "timeCreated": 1751219400
     },
     {
-      "id": 845,
+      "id": 1035,
       "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
       "question": "What is the significance of this revolutionary idea according to the text?",
       "questionType": "comprehension",
@@ -1414,7 +846,7 @@
       "timeCreated": 1751300995
     },
     {
-      "id": 846,
+      "id": 1036,
       "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
       "question": "What criticism is being made in this statement?",
       "questionType": "comprehension",
@@ -1439,7 +871,7 @@
       "timeCreated": 1751325934
     },
     {
-      "id": 847,
+      "id": 1037,
       "audioText": "Il faut que tu puisses comprendre cette situation complexe avant de décider.",
       "question": "What does the speaker think is necessary?",
       "questionType": "comprehension",
@@ -1461,7 +893,7 @@
       "timeCreated": 1720108800
     },
     {
-      "id": 848,
+      "id": 1038,
       "audioText": "Je doute qu'ils puissent terminer ce projet dans les délais impartis.",
       "question": "What does the speaker doubt?",
       "questionType": "comprehension",
@@ -1483,7 +915,7 @@
       "timeCreated": 1720108800
     },
     {
-      "id": 849,
+      "id": 1039,
       "audioText": "Dîtes-moi ce que vous pensez de cette proposition importante.",
       "question": "What is the speaker asking?",
       "questionType": "comprehension",
@@ -1505,7 +937,7 @@
       "timeCreated": 1720108800
     },
     {
-      "id": 850,
+      "id": 1040,
       "audioText": "Il faut que tu ailles chercher les documents au bureau avant cinq heures.",
       "question": "What does the person need to do before five o'clock?",
       "questionType": "comprehension",
@@ -1527,7 +959,7 @@
       "timeCreated": 1720108800
     },
     {
-      "id": 851,
+      "id": 1041,
       "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
       "question": "What are the consequences of this economic war according to the text?",
       "questionType": "comprehension",
@@ -1552,7 +984,7 @@
       "timeCreated": 1751326285
     },
     {
-      "id": 852,
+      "id": 1042,
       "audioText": "Après de longues années de recherche, l'équipe a finalement trouvé une place pour leur laboratoire dans le nouveau centre scientifique.",
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
@@ -1575,7 +1007,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 853,
+      "id": 1043,
       "audioText": "Le concept de la relativité, c'est-à-dire que le temps et l'espace sont relatifs à l'observateur, a révolutionné la physique.",
       "question": "What does the phrase 'c'est-à-dire' introduce in this sentence?",
       "questionType": "comprehension",
@@ -1597,7 +1029,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 854,
+      "id": 1044,
       "type": "fill-in-the-blank",
       "question": "Si j'avais plus de temps, j'_______ de nouvelles recettes.",
       "audioText": "Si j'avais plus de temps, j'essaierais de nouvelles recettes.",
@@ -1621,7 +1053,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 855,
+      "id": 1045,
       "type": "fill-in-the-blank",
       "question": "_______-moi à porter ces sacs, s'il vous plaît.",
       "audioText": "Aidez-moi à porter ces sacs, s'il vous plaît.",
@@ -1645,7 +1077,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 856,
+      "id": 1046,
       "type": "fill-in-the-blank",
       "question": "La victime a été _______ dans l'attaque.",
       "audioText": "La victime a été tuée dans l'attaque.",
@@ -1669,7 +1101,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 857,
+      "id": 1047,
       "type": "fill-in-the-blank",
       "question": "Je n'ai pas _______ ce qu'il a dit.",
       "audioText": "Je n'ai pas entendu ce qu'il a dit.",
@@ -1693,7 +1125,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 858,
+      "id": 1048,
       "type": "fill-in-the-blank",
       "question": "Nous _______ le livre que tu nous as recommandé.",
       "audioText": "Nous cherchons le livre que tu nous as recommandé.",
@@ -1717,7 +1149,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 859,
+      "id": 1049,
       "type": "fill-in-the-blank",
       "question": "Il _______ toujours à la même heure.",
       "audioText": "Il revient toujours à la même heure.",
@@ -1741,31 +1173,30 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 860,
-      "type": "fill-in-the-blank",
-      "question": "Beaucoup de gens _______ de faim dans le monde.",
-      "audioText": "Beaucoup de gens meurent de faim dans le monde.",
-      "answer": "meurent",
-      "hint": "Present tense of 'mourir'",
-      "level": "c",
-      "tags": [
-        "social_issues",
-        "global_issues"
-      ],
-      "questionType": "fill-in-the-blank",
+      "id": 1050,
+      "audioText": "Les analystes économiques contemporains soutiennent que l'automatisation progressive des processus industriels pourrait fondamentalement transformer les structures traditionnelles de l'emploi au cours des prochaines décennies, nécessitant une adaptation considérable des systèmes éducatifs et des politiques publiques pour accompagner cette transition technologique majeure.",
+      "question": "What do contemporary economic analysts argue about automation?",
+      "questionType": "comprehension",
       "options": [
-        "meurent",
-        "meurt",
-        "mourront",
-        "mouraient"
+        "It could fundamentally transform traditional employment structures",
+        "It will completely eliminate all manufacturing jobs immediately",
+        "It should be banned to protect current worker positions",
+        "It has no significant impact on educational systems"
       ],
       "correct": 0,
-      "explanation": "'Meurent' is the present tense of 'mourir' for 'ils/elles'.",
+      "explanation": "The text states '<em>Les analystes économiques contemporains soutiennent que l'automatisation progressive des processus industriels pourrait fondamentalement transformer les structures traditionnelles de l'emploi au cours des prochaines décennies</em>' - Contemporary economic analysts argue that the progressive automation of industrial processes could fundamentally transform traditional employment structures over the coming decades. This C1-level text discusses complex economic and social concepts.",
       "difficulty": "C1",
-      "source": "Gemini CLI"
+      "source": "Economic analysis",
+      "tags": [
+        "economics",
+        "technology",
+        "employment",
+        "automation"
+      ],
+      "timeCreated": 1736102700
     },
     {
-      "id": 861,
+      "id": 1051,
       "type": "fill-in-the-blank",
       "question": "Je me _______ si elle viendra demain.",
       "audioText": "Je me demande si elle viendra demain.",
@@ -1789,7 +1220,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 862,
+      "id": 1052,
       "type": "fill-in-the-blank",
       "question": "Il est _______ de la maison sans dire un mot.",
       "audioText": "Il est sorti de la maison sans dire un mot.",
@@ -1813,7 +1244,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 863,
+      "id": 1053,
       "type": "fill-in-the-blank",
       "question": "Ils _______ en un monde meilleur.",
       "audioText": "Ils croyaient en un monde meilleur.",
@@ -1837,7 +1268,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 864,
+      "id": 1054,
       "type": "fill-in-the-blank",
       "question": "Ce film ne me _______ pas du tout.",
       "audioText": "Ce film ne me plaît pas du tout.",
@@ -1861,7 +1292,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 865,
+      "id": 1055,
       "type": "fill-in-the-blank",
       "question": "Les chasseurs _______ le gibier.",
       "audioText": "Les chasseurs tuent le gibier.",
@@ -1885,7 +1316,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 866,
+      "id": 1056,
       "type": "fill-in-the-blank",
       "question": "Je n'ai pas _______ ce qu'il a dit.",
       "audioText": "Je n'ai pas entendu ce qu'il a dit.",
@@ -1909,7 +1340,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 867,
+      "id": 1057,
       "type": "fill-in-the-blank",
       "question": "Cela ne me _______ pas de faire des efforts.",
       "audioText": "Cela ne me plaît pas de faire des efforts.",
@@ -1933,7 +1364,7 @@
       "source": "Gemini CLI"
     },
     {
-      "id": 868,
+      "id": 1058,
       "audioText": "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -1955,11 +1386,11 @@
         "nostalgia",
         "bobos"
       ],
-      "parentQuestion": 958,
+      "parentQuestion": 1148,
       "timeCreated": 1736064000
     },
     {
-      "id": 869,
+      "id": 1059,
       "audioText": "Le conseil municipal a voté pour interdire le port de signes religieux ostensibles lors des sorties scolaires, invoquant le principe de laïcité. Cette décision divise les parents d'élèves et relance le débat sur l'application de la laïcité.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -1983,11 +1414,11 @@
         "policy",
         "controversy"
       ],
-      "parentQuestion": 962,
+      "parentQuestion": 1152,
       "timeCreated": 1736064100
     },
     {
-      "id": 870,
+      "id": 1060,
       "audioText": "Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires et sa vision stratégique à long terme.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -2008,11 +1439,11 @@
         "business-strategy",
         "industry-transformation"
       ],
-      "parentQuestion": 817,
+      "parentQuestion": 1004,
       "timeCreated": 1736064200
     },
     {
-      "id": 871,
+      "id": 1061,
       "audioText": "Vous sortez du cadre traditionnel de la négociation diplomatique en proposant cette approche révolutionnaire qui bouleverse les conventions établies depuis des décennies.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -2036,7 +1467,7 @@
       "timeCreated": 1736064700
     },
     {
-      "id": 872,
+      "id": 1062,
       "audioText": "Ma fille aînée, devenue médecin après des années d'études acharnées, m'a expliqué que l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération contemporaine.",
       "question": "What challenge does the daughter's generation face according to the text?",
       "questionType": "comprehension",
@@ -2060,7 +1491,7 @@
       "timeCreated": 1735689600
     },
     {
-      "id": 873,
+      "id": 1063,
       "audioText": "Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre, nécessitant des mesures urgentes pour préserver la biodiversité et les écosystèmes fragiles pour les générations futures qui hériteront de cette planète transformée.",
       "question": "According to the scientists, what does climate change threaten?",
       "questionType": "comprehension",
@@ -2084,7 +1515,7 @@
       "timeCreated": 1735689600
     },
     {
-      "id": 874,
+      "id": 1064,
       "audioText": "Le directeur général allait annoncer sa démission lors de l'assemblée générale extraordinaire, mais les négociations de dernière minute avec le conseil d'administration ont changé la donne, permettant ainsi d'éviter une crise institutionnelle majeure qui aurait pu déstabiliser l'ensemble de l'organisation.",
       "question": "What was the CEO going to do before last-minute negotiations changed the situation?",
       "questionType": "comprehension",
@@ -2108,7 +1539,7 @@
       "timeCreated": 1735689600
     },
     {
-      "id": 875,
+      "id": 1065,
       "audioText": "Je ferai en sorte que cette réforme constitutionnelle soit adoptée dans les délais impartis, même si cela implique de convaincre les parlementaires les plus récalcitrants et de négocier des compromis substantiels avec l'opposition pour garantir une majorité suffisante lors du vote final.",
       "question": "Je ______ en sorte que cette réforme constitutionnelle soit adoptée dans les délais impartis, même si cela implique de convaincre les parlementaires les plus récalcitrants.",
       "questionType": "fill-in-the-blank",
@@ -2132,7 +1563,7 @@
       "timeCreated": 1735689600
     },
     {
-      "id": 876,
+      "id": 1066,
       "audioText": "Les experts en géopolitique disaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables qui ont finalement transformé les rapports de force bien au-delà des prévisions initiales.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -2156,7 +1587,7 @@
       "timeCreated": 1735689600
     },
     {
-      "id": 877,
+      "id": 1067,
       "audioText": "Si nous mobilisions l'ensemble des ressources disponibles et que nous coordonnions efficacement nos efforts avec les organisations partenaires, nous pourrions réaliser une transformation systémique durable de ce secteur d'activité, créant ainsi un modèle reproductible à l'échelle internationale.",
       "question": "Nous ______ réaliser une transformation systémique durable de ce secteur d'activité, créant ainsi un modèle reproductible à l'échelle internationale.",
       "questionType": "FIB-reading",
@@ -2180,7 +1611,7 @@
       "timeCreated": 1735689600
     },
     {
-      "id": 878,
+      "id": 1068,
       "audioText": "Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.",
       "question": "What will happen when the project is finished?",
       "questionType": "comprehension",
@@ -2202,7 +1633,7 @@
       "timeCreated": 1719936000
     },
     {
-      "id": 879,
+      "id": 1069,
       "audioText": "Le ministre fut contraint de démissionner suite aux révélations sur ses liens avec cette affaire de corruption.",
       "question": "What happened to the minister?",
       "questionType": "comprehension",
@@ -2224,7 +1655,7 @@
       "timeCreated": 1719936060
     },
     {
-      "id": 880,
+      "id": 1070,
       "audioText": "Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bruyants en classe.",
       "question": "Why were the children often punished?",
       "questionType": "comprehension",
@@ -2246,7 +1677,7 @@
       "timeCreated": 1719936120
     },
     {
-      "id": 881,
+      "id": 1071,
       "audioText": "Nous serons certainement en retard si nous ne partons pas maintenant pour rejoindre nos collègues.",
       "question": "What will happen if they don't leave now?",
       "questionType": "comprehension",
@@ -2268,7 +1699,7 @@
       "timeCreated": 1719936180
     },
     {
-      "id": 882,
+      "id": 1072,
       "audioText": "Soyons honnêtes sur cette situation complexe qui nécessite une approche nuancée et réfléchie.",
       "question": "What does the speaker suggest about their approach?",
       "questionType": "comprehension",
@@ -2290,7 +1721,7 @@
       "timeCreated": 1719936240
     },
     {
-      "id": 883,
+      "id": 1073,
       "audioText": "Vous seriez probablement surpris de découvrir combien de personnes partagent cette opinion controversée sur la question.",
       "question": "What would happen if people discovered the information?",
       "questionType": "comprehension",
@@ -2312,7 +1743,7 @@
       "timeCreated": 1719936300
     },
     {
-      "id": 884,
+      "id": 1074,
       "audioText": "Nous serions reconnaissants si vous pouviez nous accorder quelques minutes pour discuter de cette proposition importante.",
       "question": "What are the speakers requesting?",
       "questionType": "comprehension",
@@ -2334,7 +1765,7 @@
       "timeCreated": 1719936360
     },
     {
-      "id": 885,
+      "id": 1075,
       "audioText": "Les dirigeants furent unanimement critiqués par la presse internationale pour leur gestion de cette crise sanitaire majeure.",
       "question": "How did the international press react to the leaders?",
       "questionType": "comprehension",
@@ -2356,7 +1787,7 @@
       "timeCreated": 1719936420
     },
     {
-      "id": 886,
+      "id": 1076,
       "audioText": "Les investisseurs institutionnels auront bientôt accès à des instruments financiers sophistiqués qui transformeront radicalement les mécanismes de financement des infrastructures publiques européennes, créant de nouvelles opportunités d'investissement durable à long terme.",
       "question": "What will institutional investors soon have access to?",
       "questionType": "comprehension",
@@ -2382,7 +1813,7 @@
       "timeCreated": 1719937000
     },
     {
-      "id": 887,
+      "id": 1077,
       "audioText": "Quand j'étais adolescent, j'allais souvent à la bibliothèque municipale pour découvrir des œuvres littéraires classiques qui nourrissaient ma passion grandissante pour la philosophie existentialiste et les grands courants de pensée contemporains.",
       "question": "Where did the speaker frequently go as a teenager?",
       "questionType": "comprehension",
@@ -2409,7 +1840,7 @@
       "timeCreated": 1719937060
     },
     {
-      "id": 888,
+      "id": 1078,
       "audioText": "L'historiographie contemporaine révèle que cette histoire officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque, remettant ainsi en question les paradigmes établis par plusieurs générations d'érudits.",
       "question": "L'historiographie contemporaine révèle que cette ______ officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque.",
       "questionType": "FIB-reading",
@@ -2433,7 +1864,7 @@
       "timeCreated": 1751488532
     },
     {
-      "id": 889,
+      "id": 1079,
       "audioText": "Quand j'étais jeune, je croyais que tous les adultes savaient exactement quoi faire dans la vie.",
       "question": "What did the narrator believe when they were young?",
       "questionType": "comprehension",
@@ -2456,7 +1887,7 @@
       "timeCreated": 1719962300
     },
     {
-      "id": 890,
+      "id": 1080,
       "audioText": "Le mariage du milliardaire et de l'ancienne journaliste Lauren Sanchez doit se tenir dans la cité des Doges. Il aurait décidé de donner un million d'euros à une association de protection de la lagune, ainsi qu'à deux autres organisations locales, pour calmer les esprits.",
       "question": "Why is the billionaire giving money to local organizations?",
       "questionType": "comprehension",
@@ -2478,7 +1909,7 @@
       ]
     },
     {
-      "id": 891,
+      "id": 1081,
       "audioText": "Le PS renoue avec la censure, mais pas avec LFI : « Les socialistes sont revenus à la maison, mais tout n'est pas oublié. C'est à cause d'eux que le gouvernement a pu adopter le pire budget depuis des années »",
       "question": "What is the relationship between PS and LFI regarding the censure motion?",
       "questionType": "comprehension",
@@ -2502,7 +1933,7 @@
       ]
     },
     {
-      "id": 892,
+      "id": 1082,
       "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
       "parentQuestion": 8,
       "question": "What did you hear?",
@@ -2524,7 +1955,7 @@
       ]
     },
     {
-      "id": 893,
+      "id": 1083,
       "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
       "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
       "questionType": "comprehension",
@@ -2547,7 +1978,7 @@
       ]
     },
     {
-      "id": 894,
+      "id": 1084,
       "audioText": "Il faut qu'elle mette ses affaires en ordre avant le déménagement.",
       "question": "What does she need to do before moving?",
       "questionType": "comprehension",
@@ -2569,7 +2000,7 @@
       "timeCreated": 1720108800
     },
     {
-      "id": 895,
+      "id": 1085,
       "audioText": "Je ne croie pas que cette méthode de jardinage soit vraiment efficace pour cultiver ces plantes exotiques.",
       "question": "What is the speaker's opinion about the gardening method?",
       "questionType": "comprehension",
@@ -2591,7 +2022,7 @@
       "timeCreated": 1720108800
     },
     {
-      "id": 896,
+      "id": 1086,
       "audioText": "Les manifestants se sont rassemblés là-bas près du monument pour exprimer leur mécontentement concernant les nouvelles politiques gouvernementales.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -2613,7 +2044,7 @@
       "timeCreated": 1720076400
     },
     {
-      "id": 897,
+      "id": 1087,
       "audioText": "Les négociations diplomatiques ont duré longtemps avant qu'un accord ne soit finalement conclu entre les deux nations.",
       "question": "Les négociations diplomatiques ont duré ______ avant qu'un accord ne soit finalement conclu entre les deux nations.",
       "questionType": "fill-in-the-blank",
@@ -2635,7 +2066,7 @@
       "timeCreated": 1720076460
     },
     {
-      "id": 898,
+      "id": 1088,
       "audioText": "Pour résoudre ce conflit complexe, nous devons d'abord comprendre les perspectives historiques et culturelles de chaque partie impliquée.",
       "question": "According to the speaker, what is the first step to resolving this complex conflict?",
       "questionType": "comprehension",
@@ -2657,7 +2088,7 @@
       "timeCreated": 1720076460
     },
     {
-      "id": 899,
+      "id": 1089,
       "audioText": "Les négociateurs ont progressé lentement vers un compromis acceptable pour toutes les parties concernées par ce conflit territorial complexe.",
       "question": "Les négociateurs ont progressé ______ vers un compromis acceptable pour toutes les parties concernées par ce conflit territorial complexe.",
       "questionType": "fill-in-the-blank",
@@ -2679,7 +2110,7 @@
       "timeCreated": 1720076520
     },
     {
-      "id": 900,
+      "id": 1090,
       "audioText": "Les experts affirment que cette nouvelle technologie révolutionnera sûrement l'industrie pharmaceutique dans les décennies à venir.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -2701,7 +2132,7 @@
       "timeCreated": 1720076520
     },
     {
-      "id": 901,
+      "id": 1091,
       "audioText": "L'infirmière a parlé doucement au patient pour l'apaiser avant l'intervention chirurgicale délicate qui l'attendait.",
       "question": "How did the nurse speak to the patient before the surgery?",
       "questionType": "comprehension",
@@ -2723,7 +2154,7 @@
       "timeCreated": 1720076520
     },
     {
-      "id": 902,
+      "id": 1092,
       "audioText": "Le bureau du directeur se trouve au-dessus de la bibliothèque dans ce bâtiment administratif moderne.",
       "question": "Le bureau du directeur se trouve ______ de la bibliothèque dans ce bâtiment administratif moderne.",
       "questionType": "fill-in-the-blank",
@@ -2745,7 +2176,7 @@
       "timeCreated": 1720076580
     },
     {
-      "id": 903,
+      "id": 1093,
       "audioText": "Les résultats économiques sont encourageants cette année ; cependant, l'inflation demeure un défi majeur pour les autorités monétaires.",
       "question": "What is the speaker's overall assessment of the economic situation?",
       "questionType": "comprehension",
@@ -2767,7 +2198,7 @@
       "timeCreated": 1720076580
     },
     {
-      "id": 904,
+      "id": 1094,
       "audioText": "Autrefois, cette région était couverte de forêts denses avant l'expansion urbaine massive.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -2789,7 +2220,7 @@
       "timeCreated": 1720076580
     },
     {
-      "id": 905,
+      "id": 1095,
       "audioText": "Il fait trop froid dehors, restons dedans près du feu pour nous réchauffer.",
       "question": "Il fait trop froid dehors, restons ______ près du feu pour nous réchauffer.",
       "questionType": "fill-in-the-blank",
@@ -2811,7 +2242,7 @@
       "timeCreated": 1720076580
     },
     {
-      "id": 906,
+      "id": 1096,
       "audioText": "Cette affirmation est complètement fausse selon les dernières recherches scientifiques publiées dans les revues académiques spécialisées.",
       "question": "Cette affirmation est complètement ______ selon les dernières recherches scientifiques publiées dans les revues académiques spécialisées.",
       "questionType": "fill-in-the-blank",
@@ -2833,7 +2264,7 @@
       "timeCreated": 1720077400
     },
     {
-      "id": 907,
+      "id": 1097,
       "audioText": "Après cette longue maladie, son visage était devenu étrangement pâle et ses traits tirés révélaient l'épuisement physique.",
       "question": "Après cette longue maladie, son visage était devenu étrangement ______ et ses traits tirés révélaient l'épuisement physique.",
       "questionType": "fill-in-the-blank",
@@ -2855,7 +2286,7 @@
       "timeCreated": 1720077400
     },
     {
-      "id": 908,
+      "id": 1098,
       "audioText": "Le ministre des Armées, Sébastien Lecornu, a révélé, mercredi 2 juillet, que des navires de la Marine nationale partaient en mission sans assez de munitions sous de précédents gouvernements. Et des cas récents illustrant le problème sont consternants.",
       "question": "According to Sébastien Lecornu, what was a significant issue with French Navy ships under previous governments?",
       "questionType": "comprehension",
@@ -2879,7 +2310,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 909,
+      "id": 1099,
       "audioText": "Un rapport de l’administration au gouvernement préconise \"un coup de rabot sur les réductions fiscales\" selon Le Parisien. L'objectif : économiser 450 millions d'euros dans les caisses de l’État. Mais cela se ferait au détriment des associations et également des familles.",
       "question": "What is the main objective of the government report mentioned in the text?",
       "questionType": "comprehension",
@@ -2903,7 +2334,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 910,
+      "id": 1100,
       "audioText": "Le rapport des Nations Unies souligne que la pénurie d'eau potable menace des millions de vies, exacerbant les tensions géopolitiques dans plusieurs régions du monde.",
       "question": "According to the UN report, what is a major consequence of drinking water scarcity?",
       "questionType": "comprehension",
@@ -2927,7 +2358,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 911,
+      "id": 1101,
       "audioText": "Le plaisir esthétique que procure cette œuvre d'art contemporaine transcende les conventions artistiques traditionnelles et interpelle notre sensibilité moderne.",
       "question": "What does the speaker say about the aesthetic pleasure from this artwork?",
       "questionType": "comprehension",
@@ -2950,7 +2381,7 @@
       "timeCreated": 1735948320
     },
     {
-      "id": 912,
+      "id": 1102,
       "audioText": "Il faut que je connaisse parfaitement tous les détails de cette négociation complexe avant la réunion stratégique de demain.",
       "question": "What must the speaker know before tomorrow's meeting?",
       "questionType": "comprehension",
@@ -2974,7 +2405,7 @@
       "timeCreated": 1736065700
     },
     {
-      "id": 913,
+      "id": 1103,
       "audioText": "Je partirai en randonnée dans les Alpes dès que les conditions météorologiques seront favorables pour l'expédition.",
       "question": "When will the speaker go hiking in the Alps?",
       "questionType": "comprehension",
@@ -2998,7 +2429,7 @@
       "timeCreated": 1736066400
     },
     {
-      "id": 914,
+      "id": 1104,
       "audioText": "L'intelligence artificielle trouvera certainement des solutions innovantes aux défis complexes de notre époque.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3022,7 +2453,7 @@
       "timeCreated": 1736066700
     },
     {
-      "id": 915,
+      "id": 1105,
       "audioText": "La conférence a été entendue par des milliers de personnes dans le monde entier.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3046,7 +2477,7 @@
       "timeCreated": 1736067100
     },
     {
-      "id": 916,
+      "id": 1106,
       "audioText": "Les soldats morts pendant cette bataille historique sont commémorés chaque année par la nation entière.",
       "question": "Les soldats ______ pendant cette bataille historique sont commémorés chaque année par la nation entière.",
       "questionType": "fill-in-the-blank",
@@ -3070,7 +2501,7 @@
       "timeCreated": 1736067400
     },
     {
-      "id": 917,
+      "id": 1107,
       "audioText": "Cette approche pédagogique unique révolutionne complètement l'enseignement des mathématiques dans les écoles primaires.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3094,7 +2525,7 @@
       "timeCreated": 1736067800
     },
     {
-      "id": 918,
+      "id": 1108,
       "audioText": "Notre ancien directeur reviendra dans l'entreprise après avoir terminé ses études de management international.",
       "question": "When will the former director return to the company?",
       "questionType": "comprehension",
@@ -3118,7 +2549,7 @@
       "timeCreated": 1736068000
     },
     {
-      "id": 919,
+      "id": 1109,
       "audioText": "Cette entreprise unique développe des solutions technologiques révolutionnaires pour l'environnement.",
       "question": "What type of company is being described?",
       "questionType": "comprehension",
@@ -3140,7 +2571,7 @@
       "timeCreated": 1704413880
     },
     {
-      "id": 920,
+      "id": 1110,
       "audioText": "Cette peur viscale de l'échec paralyse souvent les individus les plus talentueux et les empêche de réaliser leur véritable potentiel créatif et professionnel.",
       "question": "What effect does this fear have on talented individuals?",
       "questionType": "comprehension",
@@ -3163,7 +2594,7 @@
       "timeCreated": 1735948620
     },
     {
-      "id": 921,
+      "id": 1111,
       "audioText": "La température a chuté brusquement pendant la nuit, provoquant du verglas sur toutes les routes principales de la région.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3185,7 +2616,7 @@
       "timeCreated": 1720076580
     },
     {
-      "id": 922,
+      "id": 1112,
       "audioText": "Au fond, cette réforme éducative ne changera rien aux inégalités sociales profondes qui persistent dans notre système scolaire depuis des décennies.",
       "question": "What is the speaker's opinion about the educational reform?",
       "questionType": "comprehension",
@@ -3209,7 +2640,7 @@
       "timeCreated": 1719962800
     },
     {
-      "id": 923,
+      "id": 1113,
       "audioText": "La réaction qu'elle a eue face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion.",
       "question": "La réaction qu'elle a ______ face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion.",
       "questionType": "FIB-reading",
@@ -3232,7 +2663,7 @@
       "timeCreated": 1719964500
     },
     {
-      "id": 924,
+      "id": 1114,
       "audioText": "« Je vais m'éloigner de ce milieu nocif » : un jeune homme, membre de l'extrême droite radicale, sort de prison. L'homme de 22 ans et huit autres suspects sont soupçonnés d'avoir violemment agressé un trentenaire qui assistait à une projection contre le fascisme, dans un arrondissement parisien.",
       "question": "What is the irony in this situation?",
       "questionType": "comprehension",
@@ -3257,7 +2688,7 @@
       ]
     },
     {
-      "id": 925,
+      "id": 1115,
       "audioText": "Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.",
       "question": "What did the deputy from Pas-de-Calais say about the upcoming elections?",
       "questionType": "comprehension",
@@ -3280,7 +2711,7 @@
       ]
     },
     {
-      "id": 926,
+      "id": 1116,
       "audioText": "Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible",
       "parentQuestion": 8,
       "question": "What did you hear?",
@@ -3302,7 +2733,33 @@
       ]
     },
     {
-      "id": 928,
+      "id": 1117,
+      "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+      "parentQuestion": 1036,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+        "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions pratiques.",
+        "Vous pensiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
+        "Vous disiez toujours que les réformes sociales étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'disiez' (pas 'pensiez'), 'réformes économiques' (pas 'sociales'), et 'solutions concrètes' (pas 'pratiques'). Ces nuances testent la compréhension précise du discours politique.",
+      "difficulty": "C1",
+      "source": "Political Discourse - Listening",
+      "tags": [
+        "politics",
+        "economics",
+        "criticism",
+        "rhetoric",
+        "policy-analysis",
+        "contradictions"
+      ],
+      "timeCreated": 1720023780
+    },
+    {
+      "id": 1118,
       "audioText": "Le maire du 12e arrondissement de Marseille, Sylvain Souvestre a condamné cet incendie, précisant: «les propriétaires sont des gens du quartier, un couple qui n'a rien à voir avec le conflit israélo-palestinien».",
       "question": "Why did the mayor specifically clarify that the property owners have nothing to do with the Israeli-Palestinian conflict?",
       "questionType": "comprehension",
@@ -3329,7 +2786,7 @@
       "timeCreated": 1735500536
     },
     {
-      "id": 929,
+      "id": 1119,
       "audioText": "Dès que j'eus terminé mon travail, je partis rejoindre mes amis au café.",
       "question": "What did the speaker do after finishing work?",
       "questionType": "comprehension",
@@ -3352,7 +2809,59 @@
       "timeCreated": 1720051500
     },
     {
-      "id": 932,
+      "id": 1120,
+      "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+      "parentQuestion": 1041,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances diplomatiques traditionnelles.",
+        "Cette guerre commerciale entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+        "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques importantes qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'guerre économique' (pas 'commerciale'), 'répercussions... majeures' (pas 'importantes'), et 'alliances stratégiques' (pas 'diplomatiques'). Ces distinctions lexicales sont cruciales dans l'analyse géopolitique.",
+      "difficulty": "C1",
+      "source": "International Relations Analysis - Listening",
+      "tags": [
+        "politics",
+        "international-relations",
+        "economics",
+        "geopolitics",
+        "global-affairs",
+        "strategic-alliances"
+      ],
+      "timeCreated": 1720023840
+    },
+    {
+      "id": 1121,
+      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+      "parentQuestion": 1164,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des sanctions au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+        "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller travailler dans les zones les plus compliquées\", explique Sophie Bauer."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'choqués' (pas 'surpris'), 'pénalités' (pas 'sanctions'), et 'aller renforcer' (pas 'aller travailler'). Cette citation directe teste la précision de l'écoute dans un contexte de politique de santé.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Medical Deserts - Listening",
+      "tags": [
+        "healthcare",
+        "policy",
+        "medical-deserts",
+        "penalties",
+        "doctors",
+        "reaction"
+      ],
+      "timeCreated": 1720023900
+    },
+    {
+      "id": 1122,
       "audioText": "Il est vrai que l'impact épistémologique de cette théorie post-structuraliste transcende les paradigmes conventionnels de l'hermeneutique contemporaine et remet en question nos présupposés fondamentaux concernant la nature de l'interprétation textuelle.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3375,7 +2884,7 @@
       "timeCreated": 1735948740
     },
     {
-      "id": 933,
+      "id": 1123,
       "audioText": "Cette idée completement folle de transformer radicalement l'architecture urbaine contemporaine pourrait néanmoins revêtir une pertinence inattendue dans le contexte de la transition écologique et de la durabilité environnementale.",
       "question": "What does the speaker think about this idea?",
       "questionType": "comprehension",
@@ -3398,7 +2907,7 @@
       "timeCreated": 1735948860
     },
     {
-      "id": 934,
+      "id": 1124,
       "audioText": "Les produits biologiques coûtent généralement plus cher que les produits conventionnels, mais ils offrent des avantages nutritionnels et environnementaux significatifs pour la santé publique et la préservation des écosystèmes.",
       "question": "Les produits biologiques coûtent généralement plus ______ que les produits conventionnels, mais ils offrent des avantages nutritionnels et environnementaux significatifs.",
       "questionType": "fill-in-the-blank",
@@ -3421,7 +2930,7 @@
       "timeCreated": 1735948980
     },
     {
-      "id": 935,
+      "id": 1125,
       "audioText": "Cette approche méthodologique rigoureusement sérieuse de l'analyse comparative transculturelle nécessite une compréhension approfondie des nuances sociologiques et anthropologiques qui caractérisent les différentes communautés étudiées.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3444,7 +2953,31 @@
       "timeCreated": 1735949100
     },
     {
-      "id": 937,
+      "id": 1126,
+      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+      "parentQuestion": 1153,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises affectées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures financières pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a présenté de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte utilisait 'annoncé' (pas 'présenté'), 'mesures économiques' (pas 'financières'), et 'touchées' (pas 'affectées'). Ces nuances lexicales sont importantes dans le discours politique et économique.",
+      "difficulty": "C1",
+      "source": "France24 Economics - Listening",
+      "tags": [
+        "politics",
+        "economy",
+        "government",
+        "crisis"
+      ],
+      "timeCreated": 1720023960
+    },
+    {
+      "id": 1127,
       "audioText": "Quand il a vu l'accident, il s'est naturellement arrêté pour porter secours aux victimes.",
       "question": "Quand il a vu l'accident, il s'est ______ arrêté pour porter secours aux victimes.",
       "questionType": "fill-in-the-blank",
@@ -3466,7 +2999,7 @@
       "timeCreated": 1720076940
     },
     {
-      "id": 938,
+      "id": 1128,
       "audioText": "Certes, cette solution n'est pas parfaite, mais elle présente néanmoins des avantages considérables.",
       "question": "What is the speaker's attitude toward the solution?",
       "questionType": "comprehension",
@@ -3488,7 +3021,7 @@
       "timeCreated": 1720077000
     },
     {
-      "id": 939,
+      "id": 1129,
       "audioText": "Si vous continuez ainsi, tant pis pour les conséquences que cela pourrait engendrer.",
       "question": "What is the speaker's attitude in this statement?",
       "questionType": "comprehension",
@@ -3510,7 +3043,7 @@
       "timeCreated": 1720077200
     },
     {
-      "id": 940,
+      "id": 1130,
       "audioText": "Jadis, ce quartier était considéré comme l'un des plus élégants de la ville.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3532,7 +3065,7 @@
       "timeCreated": 1720077200
     },
     {
-      "id": 941,
+      "id": 1131,
       "audioText": "L'économie mondiale traverse une période difficile ; cependant, certains secteurs continuent de prospérer.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3554,7 +3087,7 @@
       "timeCreated": 1720077400
     },
     {
-      "id": 942,
+      "id": 1132,
       "audioText": "Les experts en géopolitique pensent que ces tensions diplomatiques complexes arriveraient à un point de non-retour si les négociations multilatérales échouaient dans les prochains mois, compromettant irrémédiablement l'équilibre géostratégique régional.",
       "question": "Les experts en géopolitique pensent que ces tensions diplomatiques complexes ______ à un point de non-retour si les négociations multilatérales échouaient dans les prochains mois, compromettant irrémédiablement l'équilibre géostratégique régional.",
       "questionType": "fill-in-the-blank",
@@ -3579,7 +3112,82 @@
       "timeCreated": 1735500648
     },
     {
-      "id": 946,
+      "id": 1133,
+      "audioText": "La suite de cet événement diplomatique sans précédent demeure incertaine, les négociateurs étant confrontés à des divergences fondamentales qui remettent en question l'architecture même des accords internationaux établis depuis plusieurs décennies.",
+      "question": "What makes the continuation of this diplomatic event uncertain?",
+      "questionType": "comprehension",
+      "options": [
+        "Fundamental disagreements that question the very architecture of established international agreements",
+        "Technical difficulties in organizing the meeting venues and logistics",
+        "Language barriers preventing effective communication between delegates",
+        "Budget constraints limiting the scope of potential agreements"
+      ],
+      "correct": 0,
+      "explanation": "The text indicates that 'la suite' (the continuation/what follows) remains uncertain because negotiators face 'des divergences fondamentales qui remettent en question l'architecture même des accords internationaux' - fundamental disagreements that question the very architecture of international agreements. 'Suite' here means continuation or what follows next.",
+      "difficulty": "C2",
+      "source": "International Diplomacy",
+      "tags": [
+        "diplomacy",
+        "international-relations",
+        "negotiations",
+        "political-uncertainty",
+        "global-agreements"
+      ],
+      "timeCreated": 1720025220
+    },
+    {
+      "id": 1134,
+      "audioText": "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
+      "parentQuestion": 1143,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
+        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions centrales envers les centres financiers dominants.",
+        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus riches constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants.",
+        "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles locales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait 'nations les plus pauvres', 'régions périphériques' et 'inégalités structurelles globales'. Les distracteurs changent des éléments clés : 'pauvres'/'riches', 'périphériques'/'centrales', et 'globales'/'locales'.",
+      "difficulty": "C2",
+      "source": "Economic theory and global policy analysis - Listening",
+      "tags": [
+        "economics",
+        "austerity",
+        "neoliberalism",
+        "inequality",
+        "policy-analysis"
+      ],
+      "timeCreated": 1720023660
+    },
+    {
+      "id": 1135,
+      "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
+      "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
+      "questionType": "comprehension",
+      "options": [
+        "To completely ban American technology companies from operating in France",
+        "To strengthen digital sovereignty through new regulatory safeguards for data protection",
+        "To force American companies to relocate their headquarters to Europe",
+        "To create French alternatives to replace all American digital platforms"
+      ],
+      "correct": 1,
+      "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
+      "difficulty": "C2",
+      "source": "French Digital Policy",
+      "tags": [
+        "digital-sovereignty",
+        "technology",
+        "regulation",
+        "data-protection",
+        "policy",
+        "european-union",
+        "algorithms",
+        "privacy"
+      ]
+    },
+    {
+      "id": 1136,
       "audioText": "L'expert en sécurité dirait que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
       "question": "L'expert en sécurité ______ que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
       "questionType": "fill-in-the-blank",
@@ -3603,7 +3211,7 @@
       "timeCreated": 1735500702
     },
     {
-      "id": 947,
+      "id": 1137,
       "audioText": "Il est crucial que le gouvernement ait une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
       "question": "Il est crucial que le gouvernement ______ une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
       "questionType": "fill-in-the-blank",
@@ -3627,7 +3235,7 @@
       "timeCreated": 1735500702
     },
     {
-      "id": 948,
+      "id": 1138,
       "audioText": "Dans les relations amoureuses modernes, vous laissez souvent vos partenaires exprimer leurs émotions sans jugement, favorisant ainsi une communication authentique et respectueuse.",
       "question": "What approach do modern romantic relationships take regarding emotional expression?",
       "questionType": "comprehension",
@@ -3653,7 +3261,7 @@
       "timeCreated": 1751217041
     },
     {
-      "id": 949,
+      "id": 1139,
       "audioText": "Si tu étudiais la composition musicale contemporaine, tu pourrais comprendre comment les harmonies dissonantes reflètent l'aliénation existentielle de notre époque postmoderne, créant des résonances émotionnelles qui transcendent les conventions esthétiques traditionnelles.",
       "question": "According to this analysis, what would studying contemporary musical composition help you understand?",
       "questionType": "comprehension",
@@ -3673,13 +3281,12 @@
         "philosophy",
         "postmodernism",
         "academic-discourse",
-        "aesthetic-theory",
-        "pouvoir"
+        "aesthetic-theory"
       ],
       "timeCreated": 1751217041
     },
     {
-      "id": 950,
+      "id": 1140,
       "audioText": "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3702,7 +3309,7 @@
       "timeCreated": 1704067200
     },
     {
-      "id": 951,
+      "id": 1141,
       "audioText": "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3725,7 +3332,7 @@
       "timeCreated": 1704067200
     },
     {
-      "id": 952,
+      "id": 1142,
       "audioText": "Les sociologues observent que les populations les plus heureuses ne sont pas nécessairement celles qui possèdent le plus de richesses matérielles, mais plutôt celles qui bénéficient de liens sociaux solides, d'un sentiment de sécurité collective et d'une harmonie culturelle profonde.",
       "question": "According to sociologists, what makes populations happiest?",
       "questionType": "comprehension",
@@ -3750,7 +3357,7 @@
       "timeCreated": 1704067200
     },
     {
-      "id": 953,
+      "id": 1143,
       "audioText": "L'économiste distingué soutient avec véhémence que les politiques d'austérité imposées systématiquement aux nations les plus pauvres constituent une stratégie néolibérale délibérément conçue pour maintenir les inégalités structurelles globales et perpétuer la dépendance économique des régions périphériques envers les centres financiers dominants, créant ainsi un cercle vicieux d'appauvrissement institutionnalisé.",
       "question": "What does the distinguished economist argue about austerity policies?",
       "questionType": "comprehension",
@@ -3774,7 +3381,7 @@
       "timeCreated": 1704067200
     },
     {
-      "id": 954,
+      "id": 1144,
       "audioText": "Cette réforme du système de retraites pourrait transformer radicalement l'équilibre entre vie professionnelle et vieillesse. Selon l'expert en politiques sociales, elle pourrait également créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires.",
       "question": "According to the social policy expert, what potential risks does the pension reform pose?",
       "questionType": "comprehension",
@@ -3798,7 +3405,7 @@
       "timeCreated": 1751550600
     },
     {
-      "id": 955,
+      "id": 1145,
       "audioText": "L'expertise judiciaire révèle que la contamination chimique du site industriel s'étend sur plusieurs hectares. Le rapport officiel viendra corroborer les témoignages des riverains qui dénoncent depuis des années les négligences environnementales de l'entreprise multinationale impliquée dans ce scandale sanitaire.",
       "question": "What role will the official report play in this environmental scandal?",
       "questionType": "comprehension",
@@ -3822,7 +3429,7 @@
       "timeCreated": 1751550700
     },
     {
-      "id": 956,
+      "id": 1146,
       "audioText": "L'une des plus grandes entreprises publiques françaises va devoir se passer de patron parce que l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant.",
       "question": "Why will one of France's largest public companies have to go without a CEO?",
       "questionType": "comprehension",
@@ -3845,7 +3452,7 @@
       ]
     },
     {
-      "id": 957,
+      "id": 1147,
       "audioText": "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
       "question": "What is the central tension described in this situation?",
       "questionType": "comprehension",
@@ -3869,7 +3476,7 @@
       "timeCreated": 1720134000
     },
     {
-      "id": 958,
+      "id": 1148,
       "audioText": "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
       "question": "What is ironic about the future of roadside restaurants according to the speaker?",
       "questionType": "comprehension",
@@ -3893,7 +3500,7 @@
       ]
     },
     {
-      "id": 959,
+      "id": 1149,
       "audioText": "Un nouveau cas d'intoxication à la bactérie Escherichia coli a été annoncé par la préfecture, portant à plus de vingt le nombre de personnes contaminées jusqu'à présent.",
       "question": "What does the phrase 'portant à plus de vingt' indicate?",
       "questionType": "comprehension",
@@ -3916,7 +3523,56 @@
       ]
     },
     {
-      "id": 962,
+      "id": 1150,
+      "audioText": "Alban Gervaise a été tué de plusieurs coups de couteaux devant une école à Marseille, en mai 2022. Ce mercredi 25 juin, son meurtrier vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison.",
+      "question": "What happened to the person who killed Alban Gervaise?",
+      "questionType": "comprehension",
+      "options": [
+        "He was declared criminally irresponsible and will not serve prison time",
+        "He was sentenced to life imprisonment",
+        "He was released immediately after the trial",
+        "He was transferred to another jurisdiction"
+      ],
+      "correct": 0,
+      "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
+      "difficulty": "C1",
+      "source": "French Legal News",
+      "tags": [
+        "crime",
+        "legal-system",
+        "criminal-responsibility",
+        "mental-health",
+        "justice"
+      ]
+    },
+    {
+      "id": 1151,
+      "audioText": "Le tunnel de Tende, projet lancé en 2007, a connu de longs retards à cause d'un vol de métaux chez une société italienne et de la tempête Alex en 2020. Son ouverture, après des années d'isolement et de scandales, est vécue comme une bouffée d'oxygène pour les habitants de la vallée de la Roya et de l'Italie.",
+      "question": "What factors contributed to the delays and challenges in the Tende tunnel project, and what does its opening represent for local residents?",
+      "questionType": "comprehension",
+      "options": [
+        "Theft of metals, storm damage, and scandals delayed the project; its opening is a relief after years of isolation.",
+        "A lack of funding and political disagreements delayed the project; its opening is mainly a tourist attraction.",
+        "Environmental protests and technical errors delayed the project; its opening is controversial among residents.",
+        "The project was completed on time but was delayed for ceremonial reasons; its opening is largely symbolic."
+      ],
+      "correct": 0,
+      "explanation": "The text explains that the Tende tunnel project was delayed by a major theft of metals, the storm Alex, and scandals. Its opening is described as 'une bouffée d'oxygène' (a breath of fresh air) for residents who suffered years of isolation and frustration.",
+      "difficulty": "C1",
+      "source": "French Infrastructure News - Tende Tunnel",
+      "tags": [
+        "infrastructure",
+        "tunnel",
+        "France",
+        "Italy",
+        "delays",
+        "storm",
+        "scandal",
+        "relief"
+      ]
+    },
+    {
+      "id": 1152,
       "audioText": "Le conseil municipal a voté pour interdire le port de signes religieux ostensibles lors des sorties scolaires, invoquant le principe de laïcité. Cette décision divise les parents d'élèves et relance le débat sur l'application de la laïcité.",
       "question": "What principle is being invoked by the municipal council?",
       "questionType": "comprehension",
@@ -3942,7 +3598,7 @@
       ]
     },
     {
-      "id": 963,
+      "id": 1153,
       "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
       "question": "What did the French government announce?",
       "questionType": "comprehension",
@@ -3964,7 +3620,7 @@
       ]
     },
     {
-      "id": 964,
+      "id": 1154,
       "audioText": "Cette envie irrépressible de voyager et de découvrir de nouveaux horizons caractérise toute une génération de jeunes aventuriers contemporains qui refusent la sédentarité.",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
@@ -3987,7 +3643,51 @@
       "timeCreated": 1735948440
     },
     {
-      "id": 967,
+      "id": 1155,
+      "audioText": "Les résultats de l'enquête ont été reçus par la commission indépendante hier soir.",
+      "question": "Complétez avec le participe passé du verbe 'recevoir' : Les résultats de l'enquête ont été ______ par la commission indépendante hier soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "reçus",
+        "reçu",
+        "recevés",
+        "recevoir"
+      ],
+      "correct": 0,
+      "explanation": "La bonne réponse est 'reçus'. Accord avec 'les résultats' (masculin pluriel). Le participe passé de 'recevoir' est 'reçu', qui s'accorde ici en nombre et en genre.",
+      "difficulty": "C1",
+      "source": "Formal News - Investigation Results",
+      "tags": [
+        "news",
+        "investigation"
+      ]
+    },
+    {
+      "id": 1156,
+      "audioText": "L'exécution provisoire des peines d'inéligibilité a été prononcée 50 fois plus souvent l'an dernier qu'il y a six ans, touchant de nombreux élus de façon indéterminée. Selon un expert, cela représente une déviance profonde de l'État de droit.",
+      "question": "What concern is raised about the recent increase in provisional ineligibility sentences?",
+      "questionType": "comprehension",
+      "options": [
+        "It represents a serious deviation from the rule of law, affecting many elected officials in an indefinite manner.",
+        "It has made the legal process more efficient and transparent.",
+        "It has reduced the number of appeals by convicted officials.",
+        "It is welcomed by all political parties as a necessary reform."
+      ],
+      "correct": 0,
+      "explanation": "The text highlights that the sharp rise in provisional ineligibility sentences is seen as a profound deviation from the rule of law, with many elected officials affected in an indefinite way. This is presented as a negative development, not a positive reform.",
+      "difficulty": "C1",
+      "source": "Legal News - Points de Vue",
+      "tags": [
+        "law",
+        "ineligibility",
+        "rule-of-law",
+        "politics",
+        "justice",
+        "trend"
+      ]
+    },
+    {
+      "id": 1157,
       "audioText": "Cette ancienne bibliothèque contenait jadis les plus précieux manuscrits de l'Empire romain.",
       "question": "What did this ancient library once contain?",
       "questionType": "comprehension",
@@ -4009,7 +3709,7 @@
       "timeCreated": 1704414300
     },
     {
-      "id": 968,
+      "id": 1158,
       "audioText": "Une couche de neige a recouvert une partie du désert d'Atacama au Chili ce 26 juin. Ce dernier situé au nord du Chili, est le plus aride au monde. Cet enneigement soudain est un phénomène qui n'avait pas été vu depuis dix ans selon le centre astronomique ALMA.",
       "question": "What is remarkable about this snowfall in Chile's Atacama Desert?",
       "questionType": "comprehension",
@@ -4031,13 +3731,769 @@
         "climate",
         "rare-events"
       ]
+    },
+    {
+      "id": 1159,
+      "audioText": "L'antiquaire mettra en vente une collection de meubles rares la semaine prochaine. Parmi les possessions, on trouvera un bureau du XVIIIe siècle et une commode Louis XV.",
+      "question": "L'antiquaire ______ en vente une collection de meubles rares.",
+      "questionType": "listening",
+      "options": [
+        "mettras",
+        "mettrai",
+        "mettra",
+        "mettront"
+      ],
+      "correct": 2,
+      "explanation": "The sentence uses the third-person singular of the futur simple, 'mettra', because the subject is 'L'antiquaire' (the antique dealer). It means 'The antique dealer will put up for sale...'",
+      "difficulty": "C1",
+      "source": "Gemini CLI",
+      "tags": [
+        "antiques",
+        "furniture",
+        "possessions",
+        "auction"
+      ],
+      "timeCreated": 1720181345
+    },
+    {
+      "id": 1160,
+      "audioText": "Certains gestes, plus que les mots, rendent compte de la sincérité d'une excuse. Un regard direct et une posture ouverte sont souvent plus éloquents qu'une simple phrase.",
+      "question": "Certains gestes ______ compte de la sincérité d'une excuse.",
+      "questionType": "listening",
+      "options": [
+        "rend",
+        "rendez",
+        "rends",
+        "rendent"
+      ],
+      "correct": 3,
+      "explanation": "The subject of the verb is 'Certains gestes' (Certain gestures), which is plural. Therefore, the third-person plural form of the present tense of 'rendre', which is 'rendent', is required.",
+      "difficulty": "C1",
+      "source": "Gemini CLI",
+      "tags": [
+        "apology",
+        "non-verbal-communication",
+        "psychology"
+      ],
+      "timeCreated": 1720181348
+    },
+    {
+      "id": 1161,
+      "audioText": "La signature de ce contrat rendra l'accord juridiquement contraignant pour les deux parties. Il est donc crucial de relire attentivement toutes les clauses avant de s'engager.",
+      "question": "La signature de ce contrat ______ l'accord juridiquement contraignant.",
+      "questionType": "listening",
+      "options": [
+        "rendras",
+        "rendrez",
+        "rendront",
+        "rendra"
+      ],
+      "correct": 3,
+      "explanation": "The subject of the verb is 'La signature de ce contrat' (The signing of this contract), which is a singular noun phrase. Therefore, the third-person singular form of the futur simple of 'rendre', which is 'rendra', is required.",
+      "difficulty": "C1",
+      "source": "Gemini CLI",
+      "tags": [
+        "agreements",
+        "contract",
+        "legal",
+        "business"
+      ],
+      "timeCreated": 1720181352
+    },
+    {
+      "id": 1162,
+      "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+      "parentQuestion": 1153,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures écologiques pour soutenir les entreprises touchées par la crise.",
+        "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les étudiants touchés par la crise.",
+        "Le gouvernement français a proposé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.'",
+      "difficulty": "C1",
+      "source": "France24 Economics - Listening",
+      "tags": [
+        "politics",
+        "economy"
+      ]
+    },
+    {
+      "id": 1163,
+      "audioText": "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+        "La Cour suprême américaine étend les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"justifiées\".",
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Joe Biden crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
+        "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"nécessaires\"."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était : 'La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.' Les distracteurs modifient soit le verbe clé (limite/étend), le président mentionné (Trump/Biden), ou la justification de la Cour (excèdent/justifiées/nécessaires).",
+      "difficulty": "C2",
+      "source": "French summary of US Supreme Court news, June 2024",
+      "tags": [
+        "law",
+        "politics",
+        "us",
+        "judiciary",
+        "supreme-court",
+        "news"
+      ]
+    },
+    {
+      "id": 1164,
+      "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+      "question": "What is Sophie Bauer's reaction to the proposed penalties for doctors regarding medical deserts?",
+      "questionType": "comprehension",
+      "options": [
+        "She was extremely shocked that penalties would be associated if doctors feel unable to reinforce in the most complicated areas.",
+        "She supports the penalties as a way to encourage doctors to work in difficult areas.",
+        "She believes the penalties are not strict enough to solve the problem of medical deserts.",
+        "She thinks the penalties should only apply to new doctors, not experienced ones."
+      ],
+      "correct": 0,
+      "explanation": "Sophie Bauer says she was 'extrêmement choquée' (extremely shocked) to see that penalties would be associated in cases where doctors consider themselves unable to reinforce in the most complicated areas. She does not support the penalties, but rather expresses surprise and disapproval.",
+      "difficulty": "C1",
+      "source": "French Healthcare Policy - Medical Deserts",
+      "tags": [
+        "healthcare",
+        "policy",
+        "medical-deserts",
+        "penalties",
+        "doctors",
+        "reaction"
+      ]
+    },
+    {
+      "id": 1165,
+      "audioText": "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
+        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre la récession.",
+        "Il serait simple de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
+        "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats probants dans la lutte contre l'inflation."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.' - It would be easy to criticize this government policy, but we must acknowledge that it has produced tangible results in the fight against inflation.",
+      "difficulty": "C1",
+      "source": "Economic Policy Analysis",
+      "tags": [
+        "economics",
+        "politics",
+        "policy",
+        "inflation"
+      ],
+      "timeCreated": 1720023360
+    },
+    {
+      "id": 1166,
+      "audioText": "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques sérieuses.",
+        "Cette situation est franchement bizarre : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
+        "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocalisant sa production vers des pays aux normes écologiques dérisoires."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.' - This situation is frankly funny: here's a multinational that preaches environmental sustainability while relocating its production to countries with derisory ecological standards.",
+      "difficulty": "C1",
+      "source": "Corporate Environmental Analysis",
+      "tags": [
+        "environment",
+        "business",
+        "sustainability",
+        "hypocrisy"
+      ],
+      "timeCreated": 1720023420
+    },
+    {
+      "id": 1167,
+      "audioText": "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en cours.",
+        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Extérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.",
+        "Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment calme, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Malgré l'agitation médiatique autour de cette affaire, le ministre de l'Intérieur reste étonnamment tranquille, ce qui alimente les spéculations sur d'éventuelles négociations en coulisses.' - Despite the media agitation around this case, the Interior Minister remains surprisingly quiet, which fuels speculation about possible behind-the-scenes negotiations.",
+      "difficulty": "C1",
+      "source": "Political Media Analysis",
+      "tags": [
+        "politics",
+        "media",
+        "speculation",
+        "negotiations"
+      ],
+      "timeCreated": 1720023480
+    },
+    {
+      "id": 1168,
+      "audioText": "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
+        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie visible.",
+        "Les conséquences de cette réforme des retraites sont particulièrement graves pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
+        "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions privées, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.' - The consequences of this pension reform are particularly serious for liberal professions, who see their contributions increase substantially without obvious compensation.",
+      "difficulty": "C1",
+      "source": "Pension Reform Analysis",
+      "tags": [
+        "politics",
+        "economy",
+        "pensions",
+        "professions"
+      ],
+      "timeCreated": 1720023540
+    },
+    {
+      "id": 1169,
+      "audioText": "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
+        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation scientifique.",
+        "L'impact de l'intelligence artificielle sur l'emploi représente un défi immense pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.",
+        "L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs économiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était 'L'impact de l'intelligence artificielle sur l'emploi représente un défi énorme pour les décideurs politiques, qui doivent anticiper les bouleversements sociétaux sans freiner l'innovation technologique.' - The impact of artificial intelligence on employment represents an enormous challenge for political decision-makers, who must anticipate societal upheavals without slowing technological innovation.",
+      "difficulty": "C1",
+      "source": "AI Policy Discussion",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "employment",
+        "policy"
+      ],
+      "timeCreated": 1720023600
+    },
+    {
+      "id": 1170,
+      "audioText": "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
+        "Cette situation économique est meilleure que celle de l'année dernière, nécessitant des mesures d'urgence pour stabiliser les marchés financiers.",
+        "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures ordinaires pour stabiliser les marchés financiers.",
+        "Cette situation économique est pire que celle de l'année dernière, nécessitant des mesures d'urgence pour stimuler les marchés financiers."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'pire' meaning 'worse' to compare this year's economic situation to last year's. 'Pire' is the comparative form of 'mauvais' (bad). The other options change 'pire' to 'meilleure' (better), 'urgence' to 'ordinaires' (ordinary), or 'stabiliser' to 'stimuler' (stimulate).",
+      "difficulty": "C1",
+      "source": "Economic analysis",
+      "tags": [
+        "economics",
+        "comparison",
+        "crisis"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 1171,
+      "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+      "parentQuestion": 1035,
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons méthodologiques.",
+        "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer progressivement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+        "Cette idée révolutionnaire, bien qu'elle suscite des polémiques, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte contenait 'controverses' (pas 'polémiques'), 'radicalement' (pas 'progressivement'), et 'épistémologiques' (pas 'méthodologiques'). Ces distinctions subtiles testent l'écoute précise à un niveau C2.",
+      "difficulty": "C2",
+      "source": "Academic Research - Listening",
+      "tags": [
+        "technology",
+        "artificial-intelligence",
+        "philosophy",
+        "research",
+        "innovation",
+        "epistemology"
+      ],
+      "timeCreated": 1720023720
+    },
+    {
+      "id": 1172,
+      "audioText": "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la canonisation de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement national de leur ordre contemplatif.",
+        "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par Rome consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif."
+      ],
+      "correct": 0,
+      "explanation": "La phrase exacte était avec 'béatification' (pas canonisation), 'Vatican' (pas Rome), et 'rayonnement international' (pas national). Les distracteurs testent la précision de l'écoute sur les termes techniques religieux et les nuances institutionnelles.",
+      "difficulty": "C1",
+      "source": "Vatican Religious Affairs",
+      "tags": [
+        "religion",
+        "monasticism",
+        "vatican",
+        "beatification",
+        "spiritual-heritage",
+        "contemplative-orders"
+      ]
+    },
+    {
+      "id": 1173,
+      "audioText": "Le prix est de cinquante euros, service compris, pour ce menu gastronomique exceptionnel.",
+      "question": "Le prix est de cinquante euros, service ______, pour ce menu gastronomique exceptionnel.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "compris",
+        "exclu",
+        "supplémentaire",
+        "optionnel"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'compris' meaning 'included'. The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
+      "difficulty": "C1",
+      "source": "Fine dining",
+      "tags": [
+        "restaurant",
+        "pricing",
+        "gastronomy"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 1174,
+      "audioText": "Si tu arrives en retard au travail, tu seras forcément réprimandé par ton chef de service.",
+      "question": "Si tu arrives en retard au travail, tu seras ______ réprimandé par ton chef de service.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "forcément",
+        "probablement",
+        "rarement",
+        "jamais"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'forcément' meaning 'necessarily' or 'inevitably'. If you arrive late to work, you will necessarily be reprimanded by your supervisor. 'Forcément' expresses certainty about the consequence.",
+      "difficulty": "C1",
+      "source": "Workplace consequences",
+      "tags": [
+        "workplace",
+        "punctuality",
+        "consequences"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 1175,
+      "audioText": "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
+        "Le projet est coûteux ; cependant, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
+        "Le projet est coûteux ; néanmoins, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
+        "Le projet est coûteux ; par conséquent, il représente un investissement stratégique essentiel pour notre développement technologique à long terme."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'toutefois' meaning 'however' or 'nevertheless' to introduce a contrasting point. Despite the project being expensive, it represents essential strategic investment. The other options change 'toutefois' to 'cependant' (however), 'néanmoins' (nevertheless), or 'par conséquent' (therefore).",
+      "difficulty": "C1",
+      "source": "Strategic planning",
+      "tags": [
+        "business",
+        "strategy",
+        "investment"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 1176,
+      "audioText": "Certes, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Certes, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
+        "Certes, la situation économique est facile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
+        "Certes, la situation économique est difficile, mais nous devons abandonner notre optimisme et notre détermination face aux défis.",
+        "Bien sûr, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis."
+      ],
+      "correct": 0,
+      "explanation": "The speaker used 'certes' meaning 'certainly' or 'admittedly' to acknowledge the economic situation. The other options change 'difficile' to 'facile' (easy), 'maintenir' to 'abandonner' (abandon), or 'certes' to 'bien sûr' (of course).",
+      "difficulty": "C1",
+      "source": "Economic discourse",
+      "tags": [
+        "economics",
+        "challenges",
+        "optimism"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 1177,
+      "audioText": "Même si ce vieil ordinateur est lent, j'essaierai de récupérer les fichiers importants avant de le remplacer. Ma détermination est grande.",
+      "question": "Même si ce ______ ordinateur est lent, j'______ de récupérer les fichiers.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "vieux / essaieras",
+        "vieil / essaierai",
+        "vieille / essaiera",
+        "vieils / essayeront"
+      ],
+      "correct": 1,
+      "explanation": "'Vieil' is the form of the adjective 'vieux' used before a masculine noun starting with a vowel or silent h ('ordinateur'). 'Essaierai' is the first-person singular of the futur simple of 'essayer'.",
+      "difficulty": "C1",
+      "source": "Gemini CLI",
+      "tags": [
+        "determination",
+        "technology",
+        "computers",
+        "workplace"
+      ],
+      "timeCreated": 1720181356
+    },
+    {
+      "id": 1178,
+      "audioText": "Pour que le chef de chantier entende bien les instructions malgré le bruit, il faut utiliser un talkie-walkie. Effectivement, c'est le seul outil de communication fiable sur ce site.",
+      "question": "Pour que le chef de chantier ______ bien les instructions, il faut utiliser un talkie-walkie.",
+      "questionType": "listening",
+      "options": [
+        "entendra",
+        "entendait",
+        "entendu",
+        "entende"
+      ],
+      "correct": 3,
+      "explanation": "The phrase 'Pour que' requires the subjunctive mood. 'Entende' is the present subjunctive of 'entendre' (to hear). The adverb 'effectivement' (indeed, effectively) confirms the necessity of the tool.",
+      "difficulty": "C1",
+      "source": "Gemini CLI",
+      "tags": [
+        "tools",
+        "construction",
+        "workplace",
+        "communication"
+      ],
+      "timeCreated": 1720181360
+    },
+    {
+      "id": 1179,
+      "audioText": "Ils appellent cette nouvelle méthode pédagogique révolutionnaire pour l'apprentissage des langues.",
+      "question": "What do they call this new pedagogical method?",
+      "questionType": "comprehension",
+      "options": [
+        "Revolutionary for language learning",
+        "Traditional but effective for students",
+        "Expensive but worth the investment",
+        "Complicated but scientifically proven"
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Ils appellent cette nouvelle méthode pédagogique révolutionnaire pour l'apprentissage des langues' - They call this new pedagogical method revolutionary for language learning. 'Appellent' is the third person plural present tense of 'appeler' (to call).",
+      "difficulty": "C1",
+      "source": "Educational innovation",
+      "tags": [
+        "education",
+        "language-learning",
+        "innovation",
+        "methodology",
+        "pedagogy"
+      ],
+      "timeCreated": 1736066900
+    },
+    {
+      "id": 1180,
+      "audioText": "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
+        "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour commencer leurs albums.",
+        "Les vrais collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
+        "Les autres collectionneurs de cartes cherchent ailleurs des pièces rares pour compléter leurs albums."
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.' - The other stamp collectors look elsewhere for rare pieces to complete their albums. Note 'autres' vs 'vrais', 'timbres' vs 'cartes', and 'compléter' vs 'commencer'. 'Ailleurs' means 'elsewhere' or 'somewhere else'.",
+      "difficulty": "C1",
+      "source": "Stamp collecting and hobby communities",
+      "tags": [
+        "collecting",
+        "stamps",
+        "hobbies",
+        "rare-items"
+      ],
+      "timeCreated": 1735953660
+    },
+    {
+      "id": 1181,
+      "audioText": "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.",
+        "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres objets décoratifs.",
+        "Si elle avait plus de temps libre, elle suivrait des cours de poterie pour créer ses propres vases décoratifs.",
+        "Si elle avait plus de temps libre, elle prendrait des cours de sculpture pour créer ses propres vases décoratifs."
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.' - If she had more free time, she would take pottery classes to create her own decorative vases. Note 'prendrait' vs 'suivrait', 'poterie' vs 'sculpture', and 'vases' vs 'objets'. 'Prendrait' is the conditional form of 'prendre' (to take), third person singular.",
+      "difficulty": "C1",
+      "source": "Pottery and creative hobbies",
+      "tags": [
+        "pottery",
+        "crafting",
+        "hobbies",
+        "creativity"
+      ],
+      "timeCreated": 1735953360
+    },
+    {
+      "id": 1182,
+      "audioText": "Si le moustique persistait à bourdonner, elle prendrait le spray anti-insectes pour dormir tranquillement en camping.",
+      "question": "What would she take if the mosquito kept buzzing?",
+      "questionType": "comprehension",
+      "options": [
+        "Insect repellent spray.",
+        "A camping lantern.",
+        "Her sleeping bag.",
+        "Some earplugs."
+      ],
+      "correct": 0,
+      "explanation": "The text states 'Si le moustique persistait à bourdonner, elle prendrait le spray anti-insectes pour dormir tranquillement en camping' - If the mosquito kept buzzing, she would take the insect repellent spray to sleep peacefully while camping. 'Prendrait' is the conditional form of 'prendre' (to take), third person singular.",
+      "difficulty": "C1",
+      "source": "Camping annoyances and insect problems",
+      "tags": [
+        "camping",
+        "minor-annoyances",
+        "insects",
+        "outdoor-activities"
+      ],
+      "timeCreated": 1735953120
+    },
+    {
+      "id": 1183,
+      "audioText": "En attendant que la machine à laver finisse son cycle, elle planifie ses courses alimentaires pour économiser de l'argent.",
+      "question": "What does she do while waiting for the washing machine to finish?",
+      "questionType": "comprehension",
+      "options": [
+        "Plans her grocery shopping to save money.",
+        "Organizes her clothes in the closet.",
+        "Prepares dinner for the whole family.",
+        "Cleans other rooms in the house."
+      ],
+      "correct": 0,
+      "explanation": "The text states 'En attendant que la machine à laver finisse son cycle, elle planifie ses courses alimentaires pour économiser de l'argent' - While waiting for the washing machine to finish its cycle, she plans her grocery shopping to save money. 'Attendant' is the present participle of 'attendre' (to wait), used here in the expression 'en attendant' (while waiting).",
+      "difficulty": "C1",
+      "source": "Household multitasking and budget planning",
+      "tags": [
+        "laundry",
+        "household-budgeting",
+        "grocery-planning",
+        "multitasking"
+      ],
+      "timeCreated": 1735953000
+    },
+    {
+      "id": 1184,
+      "audioText": "Tu parleras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses domestiques.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Tu parleras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses domestiques.",
+        "Tu parleras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses personnelles.",
+        "Tu discuteras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses domestiques.",
+        "Tu parleras de ton budget familial avec ton conseiller financier pour optimiser tes dépenses domestiques."
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Tu parleras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses domestiques.' - You will talk about your household budget with your financial advisor to optimize your domestic expenses. Note 'parleras' vs 'discuteras', 'ménager' vs 'familial', and 'domestiques' vs 'personnelles'. 'Parleras' is the future form of 'parler' (to talk), second person singular.",
+      "difficulty": "C1",
+      "source": "Household budgeting and financial planning",
+      "tags": [
+        "household-budgeting",
+        "financial-planning",
+        "domestic-expenses",
+        "financial-advice"
+      ],
+      "timeCreated": 1735952820
+    },
+    {
+      "id": 1185,
+      "audioText": "Le chef trouvera sûrement une solution créative pour ce défi culinaire complexe.",
+      "question": "Le chef ______ sûrement une solution créative pour ce défi culinaire complexe.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "trouvera",
+        "cherchera",
+        "inventera",
+        "découvrira"
+      ],
+      "correct": 0,
+      "explanation": "The missing word is 'trouvera'. The complete sentence is 'Le chef trouvera sûrement une solution créative pour ce défi culinaire complexe' - The chef will surely find a creative solution for this complex culinary challenge. 'Trouvera' is the future form of 'trouver' (to find), third person singular.",
+      "difficulty": "C1",
+      "source": "Professional cuisine and culinary challenges",
+      "tags": [
+        "cuisine",
+        "culinary-challenges",
+        "professional-cooking",
+        "creativity"
+      ],
+      "timeCreated": 1735952700
+    },
+    {
+      "id": 1186,
+      "audioText": "Personne ne saurait prédire avec certitude l'évolution future du marché financier international.",
+      "question": "Personne ne ______ prédire avec certitude l'évolution future du marché financier international.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "saurait",
+        "pourrait",
+        "devrait",
+        "voudrait"
+      ],
+      "correct": 0,
+      "explanation": "The missing word is 'saurait'. The complete sentence is 'Personne ne saurait prédire avec certitude l'évolution future du marché financier international' - No one could predict with certainty the future evolution of the international financial market. 'Saurait' is the conditional form of 'savoir' (to know), expressing ability or possibility.",
+      "difficulty": "C1",
+      "source": "Financial market analysis and predictions",
+      "tags": [
+        "finance",
+        "market-analysis",
+        "predictions",
+        "economics"
+      ],
+      "timeCreated": 1735949280
+    },
+    {
+      "id": 1187,
+      "audioText": "Les rapports ont été soigneusement suivis et analysés par notre équipe d'experts financiers.",
+      "question": "Les rapports ont été soigneusement ______ et analysés par notre équipe d'experts financiers.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "suivis",
+        "étudiés",
+        "préparés",
+        "rédigés"
+      ],
+      "correct": 0,
+      "explanation": "The missing word is 'suivis'. The complete sentence is 'Les rapports ont été soigneusement suivis et analysés par notre équipe d'experts financiers' - The reports were carefully followed and analyzed by our team of financial experts. 'Suivis' is the past participle of 'suivre' (to follow), used here in the passive voice.",
+      "difficulty": "C1",
+      "source": "Financial report analysis and monitoring",
+      "tags": [
+        "finance",
+        "reports",
+        "analysis",
+        "monitoring"
+      ],
+      "timeCreated": 1735949460
+    },
+    {
+      "id": 1188,
+      "audioText": "Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
+        "Les instructions ont été minutieusement suivies par l'équipe de développement pour garantir la qualité du produit final.",
+        "Les directives ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
+        "Les instructions ont été soigneusement suivis par l'équipe de développement pour garantir la qualité du produit final."
+      ],
+      "correct": 0,
+      "explanation": "The exact phrase was 'Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.' Note 'instructions' vs 'directives', 'minutieusement' vs 'soigneusement', and 'suivis' vs 'suivies'. 'Suivis' is the past participle of 'suivre' (to follow).",
+      "difficulty": "C1",
+      "source": "Software development and quality assurance",
+      "tags": [
+        "software-development",
+        "quality-assurance",
+        "instructions",
+        "teamwork"
+      ],
+      "timeCreated": 1735949700
+    },
+    {
+      "id": 1189,
+      "audioText": "La rivière était en crue après les fortes pluies de la semaine dernière.",
+      "question": "La rivière était en ______ après les fortes pluies de la semaine dernière.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "crue",
+        "débordement",
+        "montée",
+        "inondation"
+      ],
+      "correct": 0,
+      "explanation": "The missing word is 'crue'. The complete sentence is 'La rivière était en crue après les fortes pluies de la semaine dernière' - The river was in flood after last week's heavy rains. 'Crue' means flood or high water level, and 'en crue' means 'in flood'.",
+      "difficulty": "C1",
+      "source": "Weather conditions and natural phenomena",
+      "tags": [
+        "weather",
+        "natural-disasters",
+        "rivers",
+        "flooding"
+      ],
+      "timeCreated": 1735949880
+    },
+    {
+      "id": 1190,
+      "audioText": "En cherchant directement dans la base de données, les ingénieurs ont identifié la cause des pannes régulières du tunnel ferroviaire.",
+      "question": "How did the engineers identify the cause of the railway tunnel problems?",
+      "questionType": "comprehension",
+      "options": [
+        "By searching indirectly through reports",
+        "By searching directly in the database",
+        "By asking other engineers",
+        "By conducting field inspections"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>En cherchant directement dans la base de données</em>' - By searching directly in the database. The present participle 'cherchant' means searching, and the adverb 'directement' emphasizes the direct approach to problem-solving.",
+      "difficulty": "C1",
+      "source": "Railway engineering and technical troubleshooting",
+      "tags": [
+        "technology",
+        "tunnel",
+        "engineering"
+      ],
+      "timeCreated": 1751776003
+    },
+    {
+      "id": 1192,
+      "audioText": "Nous tenons à cet instant de réflexion profonde, personnellement essentiel pour notre développement intellectuel.",
+      "question": "How do the speakers view this moment of deep reflection?",
+      "questionType": "comprehension",
+      "options": [
+        "As professionally required",
+        "As personally essential",
+        "As socially expected",
+        "As academically mandated"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Nous tenons à cet instant de réflexion profonde, personnellement essentiel</em>' - We value this moment of deep reflection, personally essential. 'Tenons' means we hold/value, 'instant' means moment, 'profonde' means deep, and 'personnellement' means personally.",
+      "difficulty": "C1",
+      "source": "Philosophical reflection and personal development",
+      "tags": [
+        "philosophy",
+        "personal-development",
+        "reflection"
+      ],
+      "timeCreated": 1751777362
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-05T15:21:40.733Z",
-    "totalQuestions": 172,
+    "compiledAt": "2025-07-06T04:50:59.862Z",
+    "totalQuestions": 192,
     "level": "C",
-    "idRange": "782-999",
+    "idRange": "1000-5000",
     "difficulties": [
       "C1",
       "C2"
