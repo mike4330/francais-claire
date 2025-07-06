@@ -1,25 +1,18 @@
 {
-  "id": 764,
-  "audioText": "L'expert en sécurité dirait que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
-  "question": "L'expert en sécurité ______ que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "dirait",
-    "dit",
-    "disait",
-    "dira"
-  ],
-  "correct": 0,
-  "explanation": "The correct answer is 'dirait' - the conditional form of 'dire' (to say). In this cybersecurity context, the conditional expresses what the expert would say about this potential cyber-attack threat. 'Coup' here refers to a cyber-attack strike.",
-  "difficulty": "C1",
-  "source": "Cybersecurity Expert Analysis",
-  "tags": [
-    "cybersecurity",
-    "cyber-attacks",
-    "coup",
-    "digital-infrastructure",
-    "national-security",
-    "dire"
-  ],
-  "timeCreated": 1735500702
+    "id": 764,
+    "audioText": "Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part.",
+    "question": "Where did he look for his keys?",
+    "questionType": "comprehension",
+    "options": [
+        "Everywhere in the house but found them nowhere",
+        "Only in the living room and kitchen",
+        "Outside in the garden and garage",
+        "In his car and office building"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part</em>' - He looked for his keys everywhere in the house but didn't find them anywhere. 'Partout' means 'everywhere' and contrasts with 'nulle part' (nowhere).",
+    "difficulty": "B1",
+    "source": "Daily search",
+    "tags": ["cleaning", "searching", "keys"],
+    "timeCreated": 1704416640
 }

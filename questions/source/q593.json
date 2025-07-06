@@ -1,16 +1,16 @@
 {
     "id": 593,
-    "audioText": "Quand j'étais petit, je voyais souvent mes grands-parents le dimanche après-midi.",
+    "audioText": "Petit, je voyais souvent mes grands-parents le dimanche après-midi.",
     "question": "Qu'est-ce que vous avez entendu ?",
     "questionType": "listening",
     "options": [
-        "Quand j'étais petit, je voyais souvent mes grands-parents le dimanche après-midi.",
-        "Quand j'étais petit, je visitais souvent mes grands-parents le dimanche après-midi.",
-        "Quand j'étais petit, je voyais souvent mes grands-parents le samedi après-midi.",
-        "Quand j'étais petit, je voyais toujours mes grands-parents le dimanche après-midi."
+        "Petit, je voyais souvent mes grands-parents le dimanche après-midi.",
+        "Petit, je visitais souvent mes grands-parents le dimanche après-midi.",
+        "Petit, je voyais souvent mes grands-parents le samedi après-midi.",
+        "Petit, je voyais toujours mes grands-parents le dimanche après-midi."
     ],
     "correct": 0,
-    "explanation": "The exact phrase was 'Quand j'étais petit, je voyais souvent mes grands-parents le dimanche après-midi.' - When I was little, I often saw my grandparents on Sunday afternoon. Note 'voyais' vs 'visitais', 'dimanche' vs 'samedi', and 'souvent' vs 'toujours'. 'Voyais' is the imperfect form of 'voir' (to see).",
+    "explanation": "The text states '<em>Petit, je voyais souvent mes grands-parents le dimanche après-midi</em>' - As a child, I often saw my grandparents on Sunday afternoon. 'Petit' functions as an absolute adjective meaning 'as a child'. The distractors test verb confusion (visitais), day confusion (samedi), and frequency confusion (toujours).",
     "difficulty": "B1",
     "source": "Childhood memories and family traditions",
     "tags": ["childhood", "family", "grandparents", "traditions"],

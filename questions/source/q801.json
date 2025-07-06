@@ -1,26 +1,18 @@
 {
-  "id": 801,
-  "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
-  "parentQuestion": 851,
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
-    "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances diplomatiques traditionnelles.",
-    "Cette guerre commerciale entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
-    "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques importantes qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte utilisait 'guerre économique' (pas 'commerciale'), 'répercussions... majeures' (pas 'importantes'), et 'alliances stratégiques' (pas 'diplomatiques'). Ces distinctions lexicales sont cruciales dans l'analyse géopolitique.",
-  "difficulty": "C1",
-  "source": "International Relations Analysis - Listening",
-  "tags": [
-    "politics",
-    "international-relations",
-    "economics",
-    "geopolitics",
-    "global-affairs",
-    "strategic-alliances"
-  ],
-  "timeCreated": 1720023840
+    "id": 801,
+    "audioText": "Cette femme mince portait une belle robe rose pour la fête de mariage.",
+    "question": "Cette femme mince portait une belle robe ______ pour la fête de mariage.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "rose",
+        "rouge",
+        "bleue",
+        "verte"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette femme mince portait une belle robe rose pour la fête de mariage</em>' - This thin woman was wearing a beautiful pink dress for the wedding celebration. 'Mince' means 'thin/slim' and 'rose' means 'pink', targeting two missing adjectives in a social context.",
+    "difficulty": "B1",
+    "source": "Wedding celebration",
+    "tags": ["celebrations", "clothing", "colors", "appearance"],
+    "timeCreated": 1736103900
 }

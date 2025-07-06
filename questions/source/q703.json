@@ -1,18 +1,23 @@
 {
-    "id": 703,
-    "audioText": "Ils appellent cette nouvelle méthode pédagogique révolutionnaire pour l'apprentissage des langues.",
-    "question": "What do they call this new pedagogical method?",
-    "questionType": "comprehension",
-    "options": [
-        "Revolutionary for language learning",
-        "Traditional but effective for students",
-        "Expensive but worth the investment",
-        "Complicated but scientifically proven"
-    ],
-    "correct": 0,
-    "explanation": "The text states 'Ils appellent cette nouvelle méthode pédagogique révolutionnaire pour l'apprentissage des langues' - They call this new pedagogical method revolutionary for language learning. 'Appellent' is the third person plural present tense of 'appeler' (to call).",
-    "difficulty": "C1",
-    "source": "Educational innovation",
-    "tags": ["education", "language-learning", "innovation", "methodology", "pedagogy"],
-    "timeCreated": 1736066900
+  "id": 703,
+  "audioText": "Son explication était si claire qu'elle a corrigé toutes ses réponses fausses immédiatement.",
+  "question": "Son explication était si ______ qu'elle a corrigé toutes ses réponses fausses immédiatement.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "claire",
+    "longue",
+    "difficile",
+    "rapide"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son explication était si claire qu'elle a corrigé toutes ses réponses fausses immédiatement</em>' - His explanation was so clear that she corrected all her false answers immediately. 'Claire' (clear) contrasts with 'fausses' (false), showing how clarity helped fix errors.",
+  "difficulty": "B2",
+  "source": "Educational correction",
+  "tags": [
+    "education",
+    "explanations",
+    "corrections",
+    "clarity"
+  ],
+  "timeCreated": 1736103120
 }

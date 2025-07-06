@@ -1,21 +1,18 @@
 {
-  "id": 782,
-  "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-  "parentQuestion": 963,
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-    "Le gouvernement français a annoncé de nouvelles mesures écologiques pour soutenir les entreprises touchées par la crise.",
-    "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les étudiants touchés par la crise.",
-    "Le gouvernement français a proposé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte était 'Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.'",
-  "difficulty": "C1",
-  "source": "France24 Economics - Listening",
-  "tags": [
-    "politics",
-    "economy"
-  ]
+    "id": 782,
+    "audioText": "Il trouve cette idée complètement bête et refuse d'y participer avec nous.",
+    "question": "Il trouve cette idée complètement ______ et refuse d'y participer avec nous.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "bête",
+        "géniale",
+        "difficile",
+        "nouvelle"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il trouve cette idée complètement bête et refuse d'y participer avec nous</em>' - He finds this idea completely stupid and refuses to participate with us. 'Bête' means 'stupid/silly' and explains his refusal to join the activity.",
+    "difficulty": "B1",
+    "source": "Group disagreement",
+    "tags": ["opinions", "disagreement", "participation", "judgment"],
+    "timeCreated": 1736103000
 }

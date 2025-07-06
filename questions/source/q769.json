@@ -1,23 +1,19 @@
+
 {
   "id": 769,
-  "audioText": "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "Chaque fois que je passais devant ce vieux théâtre, j'imaginais les événements incroyables qui avaient dû s'y dérouler il y a des décennies. C'était comme un voyage dans le temps.",
+  "question": "What did the speaker imagine when walking past the old theater?",
+  "questionType": "comprehension",
   "options": [
-    "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
-    "Vous voyez bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
-    "Vous voyait bien que cette analyse socio-économique révèle des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable.",
-    "Vous voyez bien que cette analyse socio-économique révéla des inégalités structurelles profondes qui nécessitent des réformes institutionnelles ambitieuses pour transformer durablement notre système de redistribution des richesses et promouvoir une justice sociale plus équitable."
+    "The modern plays being performed",
+    "The incredible events that must have taken place there decades ago",
+    "The price of the tickets",
+    "The actors getting ready backstage"
   ],
-  "correct": 0,
-  "explanation": "The correct form is 'vous voyez' - second person plural present of 'voir' (you see). This form was identified as missing from our coverage despite being highly frequent in formal discourse and academic discussions.",
-  "difficulty": "C2",
-  "source": "Academic discussion on social and economic policy",
-  "tags": [
-    "socio-economics",
-    "policy",
-    "academic",
-    "formal-discourse"
-  ],
-  "timeCreated": 1704067200
+  "correct": 1,
+  "explanation": "The sentence uses 'passais', the imparfait tense of 'passer', to describe a repeated action in the past. The speaker imagined the historical events inside the theater.",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["events", "history", "imagination", "daily-life"],
+  "timeCreated": 1720181350
 }

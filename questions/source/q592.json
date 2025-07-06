@@ -1,18 +1,23 @@
 {
-    "id": 592,
-    "audioText": "Personne ne saurait prédire avec certitude l'évolution future du marché financier international.",
-    "question": "Personne ne ______ prédire avec certitude l'évolution future du marché financier international.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "saurait",
-        "pourrait",
-        "devrait",
-        "voudrait"
-    ],
-    "correct": 0,
-    "explanation": "The missing word is 'saurait'. The complete sentence is 'Personne ne saurait prédire avec certitude l'évolution future du marché financier international' - No one could predict with certainty the future evolution of the international financial market. 'Saurait' is the conditional form of 'savoir' (to know), expressing ability or possibility.",
-    "difficulty": "C1",
-    "source": "Financial market analysis and predictions",
-    "tags": ["finance", "market-analysis", "predictions", "economics"],
-    "timeCreated": 1735949280
+  "id": 592,
+  "audioText": "En laissant ses affaires dans cette pièce, il montre pratiquement qu'il compte rester.",
+  "question": "What does leaving his things in this room practically show?",
+  "questionType": "comprehension",
+  "options": [
+    "That he plans to stay",
+    "That he forgot where he put them",
+    "That he doesn't trust the security",
+    "That he needs more storage space"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>En laissant ses affaires dans cette pièce, il montre pratiquement qu'il compte rester</em>' - By leaving his things in this room, he practically shows that he plans to stay. 'Laissant' is the present participle of 'laisser' (to leave), and 'pratiquement' means 'practically/virtually', targeting missing conjugate and adverb plus 'rooms' topic.",
+  "difficulty": "B2",
+  "source": "Behavioral indication",
+  "tags": [
+    "rooms",
+    "behavior",
+    "intentions",
+    "belongings"
+  ],
+  "timeCreated": 1736103600
 }

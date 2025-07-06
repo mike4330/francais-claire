@@ -1,7 +1,7 @@
 {
   "id": 328,
   "audioText": "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.",
-  "parentQuestion": 893,
+  "parentQuestion": 1083,
   "audioTemplate": "Une {political_person} a {reporting_verb} qu'elle pense {uncertainty} ne pas pouvoir {action_verb} aux {event_type}.",
   "templateVariables": {
     "political_person": {

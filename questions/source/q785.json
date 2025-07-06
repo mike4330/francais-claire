@@ -1,23 +1,23 @@
 {
   "id": 785,
-  "audioText": "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "Elle a été appelée pour un entretien demain matin.",
+  "question": "What happened to her regarding tomorrow morning?",
+  "questionType": "comprehension",
   "options": [
-    "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
-    "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre la récession.",
-    "Il serait simple de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.",
-    "Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats probants dans la lutte contre l'inflation."
+    "She was called for an interview tomorrow morning",
+    "She has to call someone tomorrow morning",
+    "She will call her boss tomorrow morning",
+    "She missed a call from work yesterday"
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Il serait facile de critiquer cette politique gouvernementale, mais force est de constater qu'elle a produit des résultats tangibles dans la lutte contre l'inflation.' - It would be easy to criticize this government policy, but we must acknowledge that it has produced tangible results in the fight against inflation.",
-  "difficulty": "C1",
-  "source": "Economic Policy Analysis",
+  "explanation": "The sentence says 'Elle a été appelée pour un entretien demain matin' - She was called for an interview tomorrow morning. 'Appelée' is the feminine past participle of 'appeler' (to call), used here in the passive voice.",
+  "difficulty": "B1",
+  "source": "Job Interview",
   "tags": [
-    "economics",
-    "politics",
-    "policy",
-    "inflation"
+    "job-interview",
+    "work",
+    "appointments",
+    "phone-calls"
   ],
-  "timeCreated": 1720023360
+  "timeCreated": 1720051380
 }

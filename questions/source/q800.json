@@ -1,26 +1,18 @@
 {
-  "id": 800,
-  "audioText": "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
-  "parentQuestion": 846,
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
-    "Vous disiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions pratiques.",
-    "Vous pensiez toujours que les réformes économiques étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes.",
-    "Vous disiez toujours que les réformes sociales étaient nécessaires, mais vous n'avez jamais proposé de solutions concrètes."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte utilisait 'disiez' (pas 'pensiez'), 'réformes économiques' (pas 'sociales'), et 'solutions concrètes' (pas 'pratiques'). Ces nuances testent la compréhension précise du discours politique.",
-  "difficulty": "C1",
-  "source": "Political Discourse - Listening",
-  "tags": [
-    "politics",
-    "economics",
-    "criticism",
-    "rhetoric",
-    "policy-analysis",
-    "contradictions"
-  ],
-  "timeCreated": 1720023780
+    "id": 800,
+    "audioText": "Je rentrerai tard ce soir car j'ai une réunion horrible qui finira vers dix heures.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Je rentrerai tard ce soir car j'ai une réunion horrible qui finira vers dix heures.",
+        "Je rentrerai tard ce soir car j'ai une réunion horrible qui commencera vers dix heures.",
+        "Je resterai tard ce soir car j'ai une réunion horrible qui finira vers dix heures.",
+        "Je rentrerai tard ce soir car j'ai une réunion terrible qui finira vers dix heures."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je rentrerai tard ce soir car j'ai une réunion horrible qui finira vers dix heures</em>' - I will come home late tonight because I have a horrible meeting that will end around ten o'clock. 'Rentrerai' is the future form of 'rentrer' (to return home), and 'horrible' means 'horrible/awful'. The distractors test verb confusion (commencera, resterai) and adjective confusion (terrible).",
+    "difficulty": "B1",
+    "source": "Evening schedule",
+    "tags": ["household-vocabulary", "workplace", "schedule", "past-events"],
+    "timeCreated": 1736103840
 }

@@ -1,22 +1,24 @@
 {
   "id": 795,
-  "audioText": "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active. Cette amélioration s'explique principalement par la création d'emplois dans le secteur des services.",
+  "question": "What does the speaker say about the unemployment rate?",
+  "questionType": "comprehension",
   "options": [
-    "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-    "Le projet est coûteux ; cependant, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-    "Le projet est coûteux ; néanmoins, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-    "Le projet est coûteux ; par conséquent, il représente un investissement stratégique essentiel pour notre développement technologique à long terme."
+    "It increased by 0.2 percentage points due to job losses in services",
+    "It decreased by 0.2 percentage points, reaching 7.3% of the active population",
+    "It remained stable at 7.3% despite job creation in services",
+    "It reached a historic low of 0.2% thanks to government policies"
   ],
-  "correct": 0,
-  "explanation": "The speaker used 'toutefois' meaning 'however' or 'nevertheless' to introduce a contrasting point. Despite the project being expensive, it represents essential strategic investment. The other options change 'toutefois' to 'cependant' (however), 'néanmoins' (nevertheless), or 'par conséquent' (therefore).",
-  "difficulty": "C1",
-  "source": "Strategic planning",
+  "correct": 1,
+  "explanation": "The text states 'Le taux de chômage a baissé de 0,2 point... atteignant 7,3% de la population active' - the unemployment rate fell by 0.2 percentage points, reaching 7.3% of the active population. This improvement is explained by job creation in the service sector.",
+  "difficulty": "B2",
+  "source": "French Economic News",
   "tags": [
-    "business",
-    "strategy",
-    "investment"
-  ],
-  "timeCreated": 1720077400
+    "economy",
+    "unemployment",
+    "statistics",
+    "employment",
+    "services",
+    "economic-indicators"
+  ]
 }

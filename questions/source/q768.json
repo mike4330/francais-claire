@@ -1,23 +1,19 @@
+
 {
   "id": 768,
-  "audioText": "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "Il est tout à fait humain de faire des erreurs, mais pour progresser, il faut s'analyser régulièrement et apprendre de ses échecs.",
+  "question": "Pour progresser, il faut s'analyser ______ et apprendre de ses échecs.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
-    "Elle aime passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétaient la société bourgeoise de l'époque.",
-    "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflètent la société bourgeoise de l'époque.",
-    "Elle aimait passionnément la littérature française du dix-neuvième siècle, particulièrement les romans de Balzac et de Flaubert qui reflétèrent la société bourgeoise de l'époque."
+    "rarement",
+    "régulièrement",
+    "parfois",
+    "jamais"
   ],
-  "correct": 0,
-  "explanation": "The correct form is 'elle aimait' - third person singular imperfect of 'aimer' (she loved/used to love). This form was missing from our conjugation coverage despite being frequent in literary and biographical contexts.",
-  "difficulty": "C1",
-  "source": "Literary discussion and cultural preferences",
-  "tags": [
-    "literature",
-    "culture",
-    "19th-century",
-    "authors"
-  ],
-  "timeCreated": 1704067200
+  "correct": 1,
+  "explanation": "The sentence discusses the necessity of frequent self-analysis for personal growth. The adverb 'régulièrement' (regularly) fits this context perfectly. The adjective 'humain' (human) is also used.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": ["psychology", "self-improvement", "learning"],
+  "timeCreated": 1720181347
 }

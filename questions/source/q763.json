@@ -1,23 +1,18 @@
 {
-  "id": 763,
-  "audioText": "Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre.",
-  "question": "What advice is being given about data?",
-  "questionType": "comprehension",
-  "options": [
-    "You should back up your data more often to avoid losing it",
-    "You should delete old data to free up space",
-    "You should share your data with colleagues",
-    "You should encrypt your data for security"
-  ],
-  "correct": 0,
-  "explanation": "The sentence says 'Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre' - You should back up your data more often to avoid losing it. 'Devriez' is the conditional form expressing advice.",
-  "difficulty": "B1",
-  "source": "Technology Advice",
-  "tags": [
-    "technology",
-    "data",
-    "backup",
-    "advice"
-  ],
-  "timeCreated": 1720051860
+    "id": 763,
+    "audioText": "Cette soirée était géniale, surtout la musique et l'ambiance festive qui régnaient.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cette soirée était géniale, surtout la musique et l'ambiance festive qui régnaient.",
+        "Cette soirée était géniale, même la musique et l'ambiance festive qui régnaient.",
+        "Cette soirée était géniale, surtout la musique et l'ambiance calme qui régnait.",
+        "Cette fête était géniale, surtout la musique et l'ambiance festive qui régnaient."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette soirée était géniale, surtout la musique et l'ambiance festive qui régnaient</em>' - This evening was awesome, especially the music and festive atmosphere that prevailed. 'Surtout' means 'especially/above all' and emphasizes particular aspects. The distractors test word choice (même), adjective confusion (calme), and noun substitution (fête).",
+    "difficulty": "B1",
+    "source": "Party review",
+    "tags": ["parties", "social-events", "atmosphere"],
+    "timeCreated": 1704416580
 }

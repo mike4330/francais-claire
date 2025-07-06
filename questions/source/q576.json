@@ -1,16 +1,16 @@
 {
     "id": 576,
-    "audioText": "Sa voix tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.",
-    "question": "Sa ______ tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.",
+    "audioText": "Ses mains tremblaient de nervosité pendant qu'elle préparait son discours de démission.",
+    "question": "Ses ______ tremblaient de nervosité pendant qu'elle préparait son discours de démission.",
     "questionType": "fill-in-the-blank",
     "options": [
+        "mains",
         "voix",
-        "main",
-        "respiration",
-        "présentation"
+        "jambes",
+        "épaules"
     ],
     "correct": 0,
-    "explanation": "Le mot manquant est 'voix'. La phrase complète est 'Sa voix tremblait d'émotion quand elle a annoncé sa démission lors de la réunion.' - Her voice was trembling with emotion when she announced her resignation during the meeting. 'Voix' refers to the vocal expression that can convey emotion.",
+    "explanation": "The text states '<em>Ses mains tremblaient de nervosité pendant qu'elle préparait son discours de démission</em>' - Her hands were trembling with nervousness while she prepared her resignation speech. 'Mains' (hands) is correct as hands commonly tremble when someone is nervous or anxious.",
     "difficulty": "B1",
     "source": "Workplace resignation announcement",
     "tags": ["workplace", "emotions", "resignation", "voice", "communication"],

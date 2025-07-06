@@ -1,18 +1,22 @@
 {
-    "id": 599,
-    "audioText": "Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
-        "Les instructions ont été minutieusement suivies par l'équipe de développement pour garantir la qualité du produit final.",
-        "Les directives ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
-        "Les instructions ont été soigneusement suivis par l'équipe de développement pour garantir la qualité du produit final."
-    ],
-    "correct": 0,
-    "explanation": "The exact phrase was 'Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.' Note 'instructions' vs 'directives', 'minutieusement' vs 'soigneusement', and 'suivis' vs 'suivies'. 'Suivis' is the past participle of 'suivre' (to follow).",
-    "difficulty": "C1",
-    "source": "Software development and quality assurance",
-    "tags": ["software-development", "quality-assurance", "instructions", "teamwork"],
-    "timeCreated": 1735949700
+  "id": 599,
+  "audioText": "Si nous échouons dans cette négociation cruciale, ce sera pis que tout ce que nous avons vécu auparavant dans notre histoire commerciale.",
+  "question": "Si nous échouons dans cette négociation cruciale, ce sera ______ que tout ce que nous avons vécu auparavant dans notre histoire commerciale.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pis",
+    "mieux",
+    "pareil",
+    "différent"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'pis' meaning 'worse'. If we fail in this crucial negotiation, it will be worse than everything we have experienced before in our commercial history. 'Pis' is a more formal/literary variant of 'pire' (worse).",
+  "difficulty": "C2",
+  "source": "Business negotiations",
+  "tags": [
+    "business",
+    "negotiations",
+    "consequences"
+  ],
+  "timeCreated": 1720077400
 }

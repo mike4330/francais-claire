@@ -1,24 +1,18 @@
 {
-  "id": 817,
-  "audioText": "Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires et sa vision stratégique à long terme.",
-  "question": "What makes this innovative company remarkable?",
-  "questionType": "comprehension",
-  "options": [
-    "Its ability to radically transform the tech industry through revolutionary AI algorithms and long-term strategic vision",
-    "Its capacity to reduce production costs while maintaining high quality standards",
-    "Its skill in recruiting the most talented engineers from prestigious universities",
-    "Its potential to expand internationally through strategic partnerships and acquisitions"
-  ],
-  "correct": 0,
-  "explanation": "The text states the company 'est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires et sa vision stratégique à long terme' - is capable of radically transforming the tech industry thanks to its revolutionary AI algorithms and long-term strategic vision. 'Capable' means able/capable of doing something.",
-  "difficulty": "C1",
-  "source": "Technology Innovation",
-  "tags": [
-    "technology",
-    "artificial-intelligence",
-    "innovation",
-    "business-strategy",
-    "industry-transformation"
-  ],
-  "timeCreated": 1720025700
+    "id": 817,
+    "audioText": "Il a dit qu'il tuerait le temps en lisant.",
+    "question": "Que ferait-il pour tuer le temps ?",
+    "questionType": "listening",
+    "options": [
+        "Il regarderait la télévision.",
+        "Il lirait un livre.",
+        "Il ferait du sport.",
+        "Il dormirait."
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Il a dit qu'il tuerait le temps en lisant</em>' - He said he would kill time by reading. 'Tuerait' is the conditional form of 'tuer' (to kill). The distractors test comprehension of the activity.",
+    "difficulty": "B2",
+    "source": "Gemini CLI",
+    "tags": ["leisure", "daily-life"],
+    "timeCreated": 1720176000
 }

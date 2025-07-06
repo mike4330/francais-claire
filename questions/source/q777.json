@@ -1,23 +1,19 @@
+
 {
   "id": 777,
-  "audioText": "Un nouveau cas d'intoxication à la bactérie Escherichia coli a été annoncé par la préfecture, portant à plus de vingt le nombre de personnes contaminées jusqu'à présent.",
-  "question": "What does the phrase 'portant à plus de vingt' indicate?",
+  "audioText": "Mes nouveaux voisins sont vraiment sympas. Ils tiennent toujours la porte et proposent leur aide quand ils voient que j'ai les bras chargés. C'est un geste de courtoisie simple mais appréciable.",
+  "question": "How do the new neighbors show courtesy?",
   "questionType": "comprehension",
   "options": [
-    "The new case brings the total number of contaminated people to more than twenty",
-    "More than twenty people were involved in reporting the new case",
-    "The prefecture is carrying more than twenty investigation files",
-    "More than twenty bacteria strains have been identified in this case"
+    "They play loud music",
+    "They ignore the speaker",
+    "They hold the door and offer help",
+    "They ask for favors"
   ],
-  "correct": 0,
-  "explanation": "The phrase 'portant à plus de vingt le nombre de personnes contaminées' means 'bringing to more than twenty the number of contaminated people.' This construction indicates that the new case increases the running total to more than twenty affected individuals.",
-  "difficulty": "C1",
-  "source": "French Health News",
-  "tags": [
-    "health",
-    "medical",
-    "administrative",
-    "numbers",
-    "contamination"
-  ]
+  "correct": 2,
+  "explanation": "The text mentions 'Ils tiennent toujours la porte' (They always hold the door), using the verb 'tiennent' (from 'tenir'). It also describes them as 'sympas' (nice).",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["courtesy", "neighbors", "daily-life"],
+  "timeCreated": 1720181354
 }

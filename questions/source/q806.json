@@ -1,26 +1,18 @@
 {
-  "id": 806,
-  "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
-  "question": "What is the main objective of France's new regulatory approach to American tech platforms?",
-  "questionType": "comprehension",
-  "options": [
-    "To completely ban American technology companies from operating in France",
-    "To strengthen digital sovereignty through new regulatory safeguards for data protection",
-    "To force American companies to relocate their headquarters to Europe",
-    "To create French alternatives to replace all American digital platforms"
-  ],
-  "correct": 1,
-  "explanation": "France is 'renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires' - strengthening digital sovereignty by imposing new regulatory safeguards. The strategy aims to protect European citizens' personal data against invasive advertising targeting and recommendation algorithms from tech giants.",
-  "difficulty": "C2",
-  "source": "French Digital Policy",
-  "tags": [
-    "digital-sovereignty",
-    "technology",
-    "regulation",
-    "data-protection",
-    "policy",
-    "european-union",
-    "algorithms",
-    "privacy"
-  ]
+    "id": 806,
+    "audioText": "Cette situation était vraiment horrible et nous perdons encore du temps à en parler.",
+    "question": "Cette situation était vraiment ______ et nous perdons encore du temps à en parler.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "horrible",
+        "difficile",
+        "compliquée",
+        "surprenante"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette situation était vraiment horrible et nous perdons encore du temps à en parler</em>' - This situation was really horrible and we are still wasting time talking about it. 'Horrible' means 'horrible/awful' and 'perdons' is first person plural present of 'perdre' (to lose/waste), combining missing adjective with verb form.",
+    "difficulty": "B1",
+    "source": "Past situation analysis",
+    "tags": ["past-events", "workplace", "time-management", "discussion"],
+    "timeCreated": 1736104200
 }

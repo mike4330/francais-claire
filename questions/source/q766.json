@@ -1,26 +1,18 @@
 {
-  "id": 766,
-  "audioText": "Dans les relations amoureuses modernes, vous laissez souvent vos partenaires exprimer leurs émotions sans jugement, favorisant ainsi une communication authentique et respectueuse.",
-  "question": "What approach do modern romantic relationships take regarding emotional expression?",
-  "questionType": "comprehension",
-  "options": [
-    "You often let your partners express their emotions without judgment, promoting authentic and respectful communication",
-    "You should control your partners' emotional expressions to maintain relationship stability",
-    "You typically discourage emotional expression to avoid conflicts and misunderstandings",
-    "You focus primarily on logical discussions rather than emotional communication"
-  ],
-  "correct": 0,
-  "explanation": "The text states 'vous laissez souvent vos partenaires exprimer leurs émotions sans jugement, favorisant ainsi une communication authentique et respectueuse' - you often let your partners express their emotions without judgment, promoting authentic and respectful communication. 'Laissez' is the second person plural form of 'laisser' (to let/allow), demonstrating this crucial relationship conjugate. This introduces 'porte' context (opening doors to communication).",
-  "difficulty": "C1",
-  "source": "Modern Dating and Relationship Psychology",
-  "tags": [
-    "dating",
-    "interpersonal-relationships",
-    "emotional-intelligence",
-    "communication",
-    "psychology",
-    "romantic-relationships",
-    "laisser"
-  ],
-  "timeCreated": 1751217041
+    "id": 766,
+    "audioText": "Il a pris ses médicaments et aussitôt son état de santé s'est amélioré considérablement.",
+    "question": "What happened immediately after he took his medication?",
+    "questionType": "comprehension",
+    "options": [
+        "His health improved considerably",
+        "He felt dizzy and nauseous",
+        "He went to sleep for hours",
+        "He called his doctor for advice"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a pris ses médicaments et aussitôt son état de santé s'est amélioré considérablement</em>' - He took his medication and immediately his health improved considerably. 'Aussitôt' means 'immediately/right away' and indicates something happening without delay.",
+    "difficulty": "B1",
+    "source": "Medical recovery",
+    "tags": ["wellness", "medication", "recovery"],
+    "timeCreated": 1704416760
 }

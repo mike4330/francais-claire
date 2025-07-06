@@ -1,19 +1,18 @@
-
 {
     "id": 775,
-    "audioText": "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
-    "question": "What is the central tension described in this situation?",
-    "questionType": "comprehension",
+    "audioText": "Je resterai environ trois jours chez ma grand-mère car elle est malade.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
     "options": [
-        "Employees are protesting a new biometric time clock, which management justifies due to an underlying reason.",
-        "The minister is demanding a toxic management style from employees.",
-        "Employees are requesting a biometric time clock for better control.",
-        "The management is being accused of excessive surveillance without justification."
+        "Je resterai environ trois jours chez ma grand-mère car elle est malade.",
+        "Je resterai exactement trois jours chez ma grand-mère car elle est malade.",
+        "Je resterai environ trois jours chez ma grand-mère car elle est fatiguée.",
+        "Je reviendrai environ trois jours chez ma grand-mère car elle est malade."
     ],
     "correct": 0,
-    "explanation": "The text describes employees rebelling against 'toxic management' due to the minister's demand for a biometric time clock, and this 'flicage' (surveillance) is justified by an underlying reason.",
-    "difficulty": "C2",
-    "source": "French Media (Generalized)",
-    "tags": ["workplace", "management", "labor-relations", "surveillance", "protest"],
-    "timeCreated": 1720134000
+    "explanation": "The text states '<em>Je resterai environ trois jours chez ma grand-mère car elle est malade</em>' - I will stay about three days at my grandmother's because she is sick. 'Resterai' is the future form of 'rester' (to stay), 'environ' means 'about/approximately', and 'malade' means 'sick'. The distractors test precision confusion (exactement), symptom confusion (fatiguée), and verb confusion (reviendrai).",
+    "difficulty": "B1",
+    "source": "Family care",
+    "tags": ["family", "health", "visiting"],
+    "timeCreated": 1736102640
 }

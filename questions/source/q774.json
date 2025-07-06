@@ -1,23 +1,18 @@
 {
-  "id": 774,
-  "audioText": "L'une des plus grandes entreprises publiques françaises va devoir se passer de patron parce que l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant.",
-  "question": "Why will one of France's largest public companies have to go without a CEO?",
-  "questionType": "comprehension",
-  "options": [
-    "Because the previous CEO refused to continue in their position",
-    "Because the Elysée has not yet deigned to designate a successor to the previous CEO",
-    "Because the company is facing financial difficulties",
-    "Because there are no qualified candidates available"
-  ],
-  "correct": 1,
-  "explanation": "The text states 'l'Elysée n'a toujours pas encore daigné désigner un successeur au précédent dirigeant' - the Elysée has not yet deigned/bothered to designate a successor to the previous CEO. The verb 'daigner' suggests disdain or reluctance from the presidential palace.",
-  "difficulty": "C1",
-  "source": "French Political/Corporate News",
-  "tags": [
-    "politics",
-    "corporate",
-    "leadership",
-    "public-enterprise",
-    "elysee"
-  ]
+    "id": 774,
+    "audioText": "Il tiendra naturellement sa promesse même si cela semble impossible à réaliser maintenant.",
+    "question": "What will he naturally do despite the apparent difficulty?",
+    "questionType": "comprehension",
+    "options": [
+        "Keep his promise even if it seems impossible",
+        "Cancel his plans due to the challenges",
+        "Ask for help from his family members",
+        "Delay the project until next year"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il tiendra naturellement sa promesse même si cela semble impossible à réaliser maintenant</em>' - He will naturally keep his promise even if it seems impossible to achieve now. 'Tiendra' is the future form of 'tenir' (to hold/keep), 'naturellement' means 'naturally', and 'impossible' describes the apparent difficulty.",
+    "difficulty": "B2",
+    "source": "Personal commitment",
+    "tags": ["promises", "determination", "challenges"],
+    "timeCreated": 1736102580
 }

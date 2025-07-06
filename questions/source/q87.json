@@ -1,22 +1,21 @@
 {
   "id": 87,
-  "audioText": "Quand j'étais petit, j'aimais beaucoup les gâteaux.",
+  "audioText": "Pendant mon enfance, j'aimais beaucoup les gâteaux.",
   "question": "Qu'est-ce que vous avez entendu ?",
   "questionType": "listening",
   "options": [
-    "Quand j'étais petit, j'aimais beaucoup les gâteaux.",
-    "Quand j'étais petit, j'aime beaucoup les gâteaux.",
-    "Quand j'étais petit, j'aimerais beaucoup les gâteaux.",
-    "Quand j'étais petit, j'aimé beaucoup les gâteaux."
+    "Pendant mon enfance, j'aimais beaucoup les gâteaux.",
+    "Pendant mon enfance, j'aime beaucoup les gâteaux.",
+    "Pendant mon enfance, j'aimerais beaucoup les gâteaux.",
+    "Pendant mon enfance, j'aimé beaucoup les gâteaux."
   ],
   "correct": 0,
-  "explanation": "The correct form is 'j'aimais' - first person singular imperfect of 'aimer' (I used to like). This form was missing from our conjugation coverage despite being essential for past descriptions.",
+  "explanation": "The text states '<em>Pendant mon enfance, j'aimais beaucoup les gâteaux</em>' - During my childhood, I used to love cakes. 'J'aimais' is the imperfect form of 'aimer' (to like/love). The distractors test tense confusion (aime), conditional confusion (aimerais), and past participle confusion (aimé).",
   "difficulty": "A2",
   "source": "Childhood memories and preferences",
   "tags": [
     "childhood",
-    "food",
-    "imperfect"
+    "food"
   ],
   "timeCreated": 1704067200
 }

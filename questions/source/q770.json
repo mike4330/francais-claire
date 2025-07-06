@@ -1,25 +1,19 @@
+
 {
   "id": 770,
-  "audioText": "Les sociologues observent que les populations les plus heureuses ne sont pas nécessairement celles qui possèdent le plus de richesses matérielles, mais plutôt celles qui bénéficient de liens sociaux solides, d'un sentiment de sécurité collective et d'une harmonie culturelle profonde.",
-  "question": "According to sociologists, what makes populations happiest?",
-  "questionType": "comprehension",
+  "audioText": "Personnellement, je trouve que le mur blanc donne une impression d'espace et de lumière, mais le designer pense qu'une couleur plus audacieuse serait plus appropriée pour ce design.",
+  "question": "______, je trouve que le mur blanc donne une impression d'espace.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "Strong social bonds, collective security, and deep cultural harmony",
-    "Material wealth, property ownership, and economic prosperity",
-    "Individual achievements, personal freedom, and competitive success",
-    "Urban development, technological advancement, and modern infrastructure"
+    "Objectivement",
+    "Généralement",
+    "Personnellement",
+    "Finalement"
   ],
-  "correct": 0,
-  "explanation": "The text states that the happiest populations ('heureuses') are not those with material wealth, but those who benefit from strong social bonds, collective security, and deep cultural harmony. The adjective 'heureux/heureuses' was completely missing from our question bank.",
-  "difficulty": "C1",
-  "source": "Sociological research on happiness and well-being",
-  "tags": [
-    "heureux",
-    "sociology",
-    "happiness",
-    "social-bonds",
-    "well-being",
-    "materialism"
-  ],
-  "timeCreated": 1704067200
+  "correct": 2,
+  "explanation": "The adverb 'Personnellement' (personally) is used to introduce a personal opinion, which is contrasted with the designer's opinion. The adjective 'blanc' (white) is also featured.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": ["design", "opinion", "interior-design"],
+  "timeCreated": 1720181351
 }

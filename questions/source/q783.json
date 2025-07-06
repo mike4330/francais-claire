@@ -1,24 +1,18 @@
 {
-  "id": 783,
-  "audioText": "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-    "La Cour suprême américaine étend les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"justifiées\".",
-    "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Joe Biden crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.",
-    "La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux sont \"nécessaires\"."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte était : 'La Cour suprême américaine limite les pouvoirs des juges de suspendre des décisions de l'exécutif, Donald Trump crie \"victoire\". La plus haute juridiction des Etats-Unis considère que les suspensions de portée nationale émises par des juges fédéraux \"excèdent\" leur pouvoir.' Les distracteurs modifient soit le verbe clé (limite/étend), le président mentionné (Trump/Biden), ou la justification de la Cour (excèdent/justifiées/nécessaires).",
-  "difficulty": "C2",
-  "source": "French summary of US Supreme Court news, June 2024",
-  "tags": [
-    "law",
-    "politics",
-    "us",
-    "judiciary",
-    "supreme-court",
-    "news"
-  ]
+    "id": 783,
+    "audioText": "Cette chambre vide et sombre a besoin d'être rénovée avec des meubles blancs.",
+    "question": "What does this room need according to the speaker?",
+    "questionType": "comprehension",
+    "options": [
+        "To be renovated with white furniture",
+        "To have the windows cleaned thoroughly",
+        "To be painted with bright colors",
+        "To have new electrical installations"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette chambre vide et sombre a besoin d'être rénovée avec des meubles blancs</em>' - This empty and dark room needs to be renovated with white furniture. The adjectives 'vide' (empty), 'sombre' (dark), and 'blancs' (white) create a contrast between the current state and desired improvement.",
+    "difficulty": "B1",
+    "source": "Home renovation",
+    "tags": ["home", "renovation", "furniture", "colors"],
+    "timeCreated": 1736103060
 }

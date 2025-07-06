@@ -1,23 +1,23 @@
 {
   "id": 786,
-  "audioText": "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "S'il avait plus d'argent, il irait en vacances en Italie.",
+  "question": "What would he do if he had more money?",
+  "questionType": "comprehension",
   "options": [
-    "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
-    "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques sérieuses.",
-    "Cette situation est franchement bizarre : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.",
-    "Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocalisant sa production vers des pays aux normes écologiques dérisoires."
+    "Go on vacation to Italy",
+    "Buy a new car",
+    "Move to a bigger apartment",
+    "Start his own business"
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Cette situation est franchement drôle : voilà une multinationale qui prêche la durabilité environnementale tout en délocisant sa production vers des pays aux normes écologiques dérisoires.' - This situation is frankly funny: here's a multinational that preaches environmental sustainability while relocating its production to countries with derisory ecological standards.",
-  "difficulty": "C1",
-  "source": "Corporate Environmental Analysis",
+  "explanation": "The sentence says 'S'il avait plus d'argent, il irait en vacances en Italie' - If he had more money, he would go on vacation to Italy. 'Irait' is the conditional form of 'aller' (to go), expressing a hypothetical action.",
+  "difficulty": "B1",
+  "source": "Hypothetical Vacation",
   "tags": [
-    "environment",
-    "business",
-    "sustainability",
-    "hypocrisy"
+    "travel",
+    "vacation",
+    "italy",
+    "hypothetical"
   ],
-  "timeCreated": 1720023420
+  "timeCreated": 1720051620
 }

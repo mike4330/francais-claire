@@ -1,22 +1,24 @@
 {
   "id": 791,
-  "audioText": "L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing.",
-  "question": "What did the company achieve this year?",
-  "questionType": "comprehension",
+  "audioText": "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+  "parentQuestion": 1164,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
   "options": [
-    "The company made enormous profits thanks to its new marketing strategy",
-    "The company made small profits thanks to its new marketing strategy",
-    "The company made enormous losses thanks to its new marketing strategy",
-    "The company made enormous profits thanks to its old marketing strategy"
+    "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+    "Déserts médicaux : \"Nous avons été extrêmement surpris de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+    "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des récompenses au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.",
+    "Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne veulent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer."
   ],
   "correct": 0,
-  "explanation": "The text states 'L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing' - The company made enormous profits this year thanks to its new marketing strategy. 'Énormes' means 'enormous' or 'huge'.",
+  "explanation": "La phrase exacte était 'Déserts médicaux : \"Nous avons été extrêmement choqués de voir qu'on y associait des pénalités au cas où les médecins considèrent qu'ils ne peuvent pas aller renforcer dans les zones les plus compliquées\", explique Sophie Bauer.' Les distracteurs modifient soit l'adjectif clé (choqués/surpris), le mot 'pénalités' (pénalités/récompenses), ou le verbe (ne peuvent pas/ne veulent pas).",
   "difficulty": "B2",
-  "source": "Business report",
+  "source": "French Healthcare Policy - Medical Deserts - Listening",
   "tags": [
-    "business",
-    "profits",
-    "marketing"
-  ],
-  "timeCreated": 1720077400
+    "healthcare",
+    "policy",
+    "medical-deserts",
+    "penalties",
+    "doctors"
+  ]
 }

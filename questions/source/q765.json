@@ -1,24 +1,18 @@
 {
-  "id": 765,
-  "audioText": "Il est crucial que le gouvernement ait une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
-  "question": "Il est crucial que le gouvernement ______ une stratégie de communication transparente concernant les enjeux géopolitiques contemporains, afin que la population puisse comprendre les défis diplomatiques complexes auxquels la nation fait face dans un contexte international en mutation perpétuelle.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "ait",
-    "a",
-    "avait",
-    "aura"
-  ],
-  "correct": 0,
-  "explanation": "The correct answer is 'ait' - the subjunctive form of 'avoir' (to have). After expressions of necessity like 'il est crucial que' (it is crucial that), French requires the subjunctive mood. This advanced C2 structure tests mastery of subjunctive usage in formal governmental and diplomatic discourse.",
-  "difficulty": "C2",
-  "source": "Advanced Governmental Communication Strategy",
-  "tags": [
-    "government",
-    "communication-strategy",
-    "geopolitics",
-    "diplomatic-challenges",
-    "formal-discourse"
-  ],
-  "timeCreated": 1735500702
+    "id": 765,
+    "audioText": "Elle observait tranquillement les étoiles quand soudain un météore a traversé le ciel nocturne.",
+    "question": "Elle observait tranquillement les étoiles quand ______ un météore a traversé le ciel nocturne.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "soudain",
+        "souvent",
+        "lentement",
+        "doucement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle observait tranquillement les étoiles quand soudain un météore a traversé le ciel nocturne</em>' - She was quietly observing the stars when suddenly a meteor crossed the night sky. 'Soudain' means 'suddenly' and indicates an unexpected, abrupt event.",
+    "difficulty": "B1",
+    "source": "Night observation",
+    "tags": ["night", "observation", "astronomy"],
+    "timeCreated": 1704416700
 }

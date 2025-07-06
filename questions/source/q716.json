@@ -1,6 +1,6 @@
 {
     "id": 716,
-    "audioText": "Quand j'étais petit, ma grand-mère jouait du piano tous les dimanches après-midi.",
+    "audioText": "Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit.",
     "question": "What did the grandmother do every Sunday afternoon?",
     "questionType": "comprehension",
     "options": [
@@ -10,7 +10,7 @@
         "She worked in her garden"
     ],
     "correct": 0,
-    "explanation": "The text states 'Quand j'étais petit, ma grand-mère jouait du piano tous les dimanches après-midi' - When I was little, my grandmother played the piano every Sunday afternoon. 'Jouait' is the third person singular imperfect tense of 'jouer' (to play), describing a past habit.",
+    "explanation": "The text states '<em>Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit</em>' - My grandmother played the piano every Sunday afternoon when I was little. 'Jouait' is the imperfect form of 'jouer' (to play), describing a past habit with the temporal clause repositioned.",
     "difficulty": "B2",
     "source": "Childhood music memories",
     "tags": ["childhood", "family", "music", "piano", "memories"],

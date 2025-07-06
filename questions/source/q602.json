@@ -1,18 +1,22 @@
 {
-    "id": 602,
-    "audioText": "La rivière était en crue après les fortes pluies de la semaine dernière.",
-    "question": "La rivière était en ______ après les fortes pluies de la semaine dernière.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "crue",
-        "débordement",
-        "montée",
-        "inondation"
-    ],
-    "correct": 0,
-    "explanation": "The missing word is 'crue'. The complete sentence is 'La rivière était en crue après les fortes pluies de la semaine dernière' - The river was in flood after last week's heavy rains. 'Crue' means flood or high water level, and 'en crue' means 'in flood'.",
-    "difficulty": "C1",
-    "source": "Weather conditions and natural phenomena",
-    "tags": ["weather", "natural-disasters", "rivers", "flooding"],
-    "timeCreated": 1735949880
+  "id": 602,
+  "audioText": "Je te rendrai ta perceuse demain sans faute. Je ne suis pas encore prêt à commencer les travaux, j'attends une livraison de matériel.",
+  "question": "Je te ______ ta perceuse demain, je ne suis pas encore ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rends / prêt",
+    "rendrai / prêt",
+    "rendais / près",
+    "rendre / prêter"
+  ],
+  "correct": 1,
+  "explanation": "'Rendrai' is the first-person singular of the futur simple of 'rendre' (to give back). 'Prêt' is an adjective meaning 'ready'.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "tools",
+    "borrowing",
+    "planning"
+  ],
+  "timeCreated": 1720181359
 }

@@ -1,6 +1,6 @@
 {
   "id": 424,
-  "audioText": "Quand j'étais petit, mes parents pouvaient toujours m'emmener au parc le dimanche.",
+  "audioText": "Mes parents pouvaient toujours m'emmener au parc le dimanche à l'époque où j'étais petit.",
   "question": "What did the speaker's parents always do when he was little?",
   "questionType": "comprehension",
   "options": [
@@ -10,7 +10,7 @@
     "They wanted to take him to the park on Sundays"
   ],
   "correct": 0,
-  "explanation": "The sentence uses 'pouvaient' (imperfect of 'pouvoir') meaning 'could/were able to'. In this context, it expresses past ability or possibility: 'mes parents pouvaient toujours m'emmener' means 'my parents could always take me'. The imperfect here shows a repeated past action.",
+  "explanation": "The text states '<em>Mes parents pouvaient toujours m'emmener au parc le dimanche à l'époque où j'étais petit</em>' - My parents could always take me to the park on Sundays back when I was little. 'Pouvaient' is the imperfect of 'pouvoir' (could/were able to), with the temporal clause repositioned at the end.",
   "difficulty": "B2",
   "source": "Childhood Memories",
   "tags": [

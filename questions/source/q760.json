@@ -1,25 +1,18 @@
 {
-  "id": 760,
-  "audioText": "Les experts en géopolitique pensent que ces tensions diplomatiques complexes arriveraient à un point de non-retour si les négociations multilatérales échouaient dans les prochains mois, compromettant irrémédiablement l'équilibre géostratégique régional.",
-  "question": "Les experts en géopolitique pensent que ces tensions diplomatiques complexes ______ à un point de non-retour si les négociations multilatérales échouaient dans les prochains mois, compromettant irrémédiablement l'équilibre géostratégique régional.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "arriveraient",
-    "arriveront",
-    "arrivent",
-    "arrivaient"
-  ],
-  "correct": 0,
-  "explanation": "The correct answer is 'arriveraient' - the conditional form of 'arriver' (to arrive/reach). In this complex diplomatic analysis, the conditional expresses a hypothetical consequence: these tensions would reach a point of no return if multilateral negotiations failed. The conditional mood is required after 'si' clauses expressing hypothetical situations in formal diplomatic discourse.",
-  "difficulty": "C2",
-  "source": "Advanced Geopolitical Analysis",
-  "tags": [
-    "geopolitics",
-    "diplomacy",
-    "international-relations",
-    "multilateral-negotiations",
-    "regional-stability",
-    "crisis-analysis"
-  ],
-  "timeCreated": 1735500648
+    "id": 760,
+    "audioText": "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage.",
+    "question": "What does the doctor believe will happen if the symptoms worsen further?",
+    "questionType": "comprehension",
+    "options": [
+        "The patient will die",
+        "The patient will recover quickly",
+        "The patient will need surgery",
+        "The patient will be discharged"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage</em>' - The doctor believes this patient will die if the symptoms worsen further. 'Mourra' is the third person singular future form of 'mourir' (to die).",
+    "difficulty": "B1",
+    "source": "Medical prognosis",
+    "tags": ["symptoms", "medical", "prognosis"],
+    "timeCreated": 1704416340
 }

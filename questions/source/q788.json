@@ -1,23 +1,23 @@
 {
   "id": 788,
-  "audioText": "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre.",
+  "question": "What advice is being given about data?",
+  "questionType": "comprehension",
   "options": [
-    "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
-    "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie visible.",
-    "Les conséquences de cette réforme des retraites sont particulièrement graves pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.",
-    "Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions privées, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente."
+    "You should back up your data more often to avoid losing it",
+    "You should delete old data to free up space",
+    "You should share your data with colleagues",
+    "You should encrypt your data for security"
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Les conséquences de cette réforme des retraites sont particulièrement sérieuses pour les professions libérales, qui voient leurs cotisations augmenter de manière substantielle sans contrepartie évidente.' - The consequences of this pension reform are particularly serious for liberal professions, who see their contributions increase substantially without obvious compensation.",
-  "difficulty": "C1",
-  "source": "Pension Reform Analysis",
+  "explanation": "The sentence says 'Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre' - You should back up your data more often to avoid losing it. 'Devriez' is the conditional form expressing advice.",
+  "difficulty": "B1",
+  "source": "Technology Advice",
   "tags": [
-    "politics",
-    "economy",
-    "pensions",
-    "professions"
+    "technology",
+    "data",
+    "backup",
+    "advice"
   ],
-  "timeCreated": 1720023540
+  "timeCreated": 1720051860
 }

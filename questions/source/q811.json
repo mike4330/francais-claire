@@ -1,21 +1,18 @@
 {
-  "id": 811,
-  "audioText": "Si Marie avait plus de temps libre, elle mettrait ses affaires en ordre et rangerait enfin sa chambre. Elle dit toujours qu'elle le ferait si elle n'était pas si occupée au travail.",
-  "question": "What would Marie do if she had more free time?",
-  "questionType": "comprehension",
-  "options": [
-    "She would organize her belongings and finally tidy her room",
-    "She would spend more time at work to earn extra money",
-    "She would travel and visit her family more often",
-    "She would look for a new job with better hours"
-  ],
-  "correct": 0,
-  "explanation": "Marie 'mettrait ses affaires en ordre et rangerait enfin sa chambre' - would organize her belongings and finally tidy her room. The conditional 'mettrait' (would put/organize) shows what she would do in a hypothetical situation with more time. The verb 'mettre en ordre' means to organize or put in order.",
-  "difficulty": "B1",
-  "source": "Daily Life Scenarios",
-  "tags": [
-    "daily-life",
-    "household-vocabulary",
-    "planning"
-  ]
+    "id": 811,
+    "audioText": "En essayant de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur.",
+    "question": "En ______ de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "essayant",
+        "apprenant",
+        "commençant",
+        "tentant"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>En essayant de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur</em>' - While trying to drive alone for the first time, he had a deep discussion with his instructor. 'Essayant' is the present participle of 'essayer' (to try), and 'profonde' means 'deep', targeting missing verb conjugate and adjective with driving/clarity themes.",
+    "difficulty": "B2",
+    "source": "Driving lesson",
+    "tags": ["driving", "student-life", "clarity", "learning"],
+    "timeCreated": 1736104500
 }

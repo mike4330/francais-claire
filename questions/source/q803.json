@@ -1,24 +1,18 @@
 {
-  "id": 803,
-  "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-  "parentQuestion": 963,
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
-    "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises affectées par la crise.",
-    "Le gouvernement français a annoncé de nouvelles mesures financières pour soutenir les entreprises touchées par la crise.",
-    "Le gouvernement français a présenté de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte utilisait 'annoncé' (pas 'présenté'), 'mesures économiques' (pas 'financières'), et 'touchées' (pas 'affectées'). Ces nuances lexicales sont importantes dans le discours politique et économique.",
-  "difficulty": "C1",
-  "source": "France24 Economics - Listening",
-  "tags": [
-    "politics",
-    "economy",
-    "government",
-    "crisis"
-  ],
-  "timeCreated": 1720023960
+    "id": 803,
+    "audioText": "Mon collègue sympa m'a aidé avec cette analyse profonde des résultats financiers.",
+    "question": "Mon collègue ______ m'a aidé avec cette analyse profonde des résultats financiers.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "sympa",
+        "intelligent",
+        "expérimenté",
+        "disponible"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon collègue sympa m'a aidé avec cette analyse profonde des résultats financiers</em>' - My nice colleague helped me with this deep analysis of the financial results. 'Sympa' means 'nice/friendly' (informal) and 'profonde' means 'deep/thorough', targeting two missing adjectives in a workplace context.",
+    "difficulty": "B1",
+    "source": "Workplace collaboration",
+    "tags": ["workplace", "sharing", "data", "collaboration"],
+    "timeCreated": 1736104020
 }

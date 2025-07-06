@@ -1,24 +1,18 @@
 {
-  "id": 820,
-  "audioText": "L'ambassadeur croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels entre nos nations. Il arguait que cette bureaucratie excessive entravait non seulement le tourisme mais également les collaborations académiques et scientifiques essentielles au développement de partenariats diplomatiques durables.",
-  "question": "What was the ambassador's belief about current visa restrictions and their broader impact?",
-  "questionType": "comprehension",
-  "options": [
-    "They seriously compromised intercultural exchanges and hindered tourism, academic collaborations, and diplomatic partnerships",
-    "They were necessary for national security despite some inconvenience to international travelers",
-    "They primarily affected business travelers while having minimal impact on cultural and academic exchanges",
-    "They should be further strengthened to prevent illegal immigration and protect domestic interests"
-  ],
-  "correct": 0,
-  "explanation": "The ambassador 'croyait fermement que les restrictions de visa actuelles compromettaient gravement les échanges interculturels' - firmly believed that current visa restrictions seriously compromised intercultural exchanges. He argued that this excessive bureaucracy hindered not only tourism but also academic and scientific collaborations essential for developing lasting diplomatic partnerships.",
-  "difficulty": "C1",
-  "source": "Diplomatic Relations",
-  "tags": [
-    "international-travel",
-    "diplomacy",
-    "visa-policy",
-    "intercultural-exchange",
-    "academic-collaboration",
-    "bureaucracy"
-  ]
+    "id": 820,
+    "audioText": "Ces étudiants se tueront à la tâche si on ne limite pas leurs heures d'étude quotidiennes.",
+    "question": "Ces étudiants se ______ à la tâche si on ne limite pas leurs heures d'étude quotidiennes.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "tueront",
+        "fatigueront",
+        "épuiseront",
+        "usent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces étudiants se tueront à la tâche si on ne limite pas leurs heures d'étude quotidiennes</em>' - These students will kill themselves with work if we don't limit their daily study hours. 'Tueront' is the future form of 'tuer' (to kill), targeting missing verb conjugate with students theme.",
+    "difficulty": "B2",
+    "source": "Academic stress",
+    "tags": ["students", "education", "health", "stress"],
+    "timeCreated": 1736104800
 }

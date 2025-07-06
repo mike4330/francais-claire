@@ -1,22 +1,23 @@
 {
   "id": 794,
-  "audioText": "Si tu arrives en retard au travail, tu seras forcément réprimandé par ton chef de service.",
-  "question": "Si tu arrives en retard au travail, tu seras ______ réprimandé par ton chef de service.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Il faut que tu dise la vérité à tes parents.",
+  "question": "Il faut que tu ______ la vérité à tes parents.",
+  "questionType": "FIB-reading",
   "options": [
-    "forcément",
-    "probablement",
-    "rarement",
-    "jamais"
+    "dises",
+    "dis",
+    "dise",
+    "disais"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'forcément' meaning 'necessarily' or 'inevitably'. If you arrive late to work, you will necessarily be reprimanded by your supervisor. 'Forcément' expresses certainty about the consequence.",
-  "difficulty": "C1",
-  "source": "Workplace consequences",
+  "explanation": "The correct form is 'dises' (2nd person singular subjunctive of 'dire'). After 'il faut que', we must use the subjunctive mood. Since the subject is 'tu', we need 'dises': 'You must tell the truth to your parents.'",
+  "difficulty": "B2",
+  "source": "Family Honesty",
   "tags": [
-    "workplace",
-    "punctuality",
-    "consequences"
+    "family",
+    "honesty",
+    "truth",
+    "parents"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720051740
 }

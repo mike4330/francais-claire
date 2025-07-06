@@ -1,24 +1,18 @@
 {
-  "id": 772,
-  "audioText": "Cette réforme du système de retraites pourrait transformer radicalement l'équilibre entre vie professionnelle et vieillesse. Selon l'expert en politiques sociales, elle pourrait également créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires.",
-  "question": "According to the social policy expert, what potential risks does the pension reform pose?",
-  "questionType": "comprehension",
-  "options": [
-    "It could guarantee equal pensions for all workers regardless of their career path",
-    "It could create major intergenerational inequalities without adequate compensatory measures for precarious workers",
-    "It could eliminate all forms of workplace discrimination and improve working conditions",
-    "It could reduce government spending while maintaining current benefit levels"
-  ],
-  "correct": 1,
-  "explanation": "The expert warns that the reform 'pourrait créer des inégalités intergénérationnelles majeures si elle n'est pas accompagnée de mesures compensatoires adéquates pour les travailleurs précaires' - could create major intergenerational inequalities if not accompanied by adequate compensatory measures for precarious workers. The conditional 'pourrait' expresses potential negative consequences that need to be addressed.",
-  "difficulty": "C1",
-  "source": "French Social Policy Analysis",
-  "tags": [
-    "pension-reform",
-    "social-policy",
-    "intergenerational-equity",
-    "precarious-work",
-    "policy-analysis"
-  ],
-  "timeCreated": 1751550600
+    "id": 772,
+    "audioText": "Le chat noir sortait souvent la nuit et sautait dessus le toit de la maison.",
+    "question": "Where did the black cat jump at night?",
+    "questionType": "comprehension",
+    "options": [
+        "On top of the house roof",
+        "Into the neighbor's garden",
+        "Through the front door",
+        "Under the old wooden table"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le chat noir sortait souvent la nuit et sautait dessus le toit de la maison</em>' - The black cat would often go out at night and jump on top of the house roof. 'Sortait' is the imperfect form of 'sortir' (to go out), 'dessus' means 'on top of', and 'noir' describes the cat's color.",
+    "difficulty": "B1",
+    "source": "Animal behavior",
+    "tags": ["animals", "nighttime", "house"],
+    "timeCreated": 1736102460
 }

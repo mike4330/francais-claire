@@ -1,24 +1,19 @@
+
 {
   "id": 776,
-  "audioText": "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
-  "question": "What is ironic about the future of roadside restaurants according to the speaker?",
-  "questionType": "comprehension",
+  "audioText": "Pour que la démocratie vive et prospère, il est impératif que chaque citoyen participe activement au processus électoral et exprime ses opinions de manière constructive.",
+  "question": "Pour que la démocratie ______, il est impératif que chaque citoyen participe.",
+  "questionType": "listening",
   "options": [
-    "They have a future without truck drivers, attracting urban professionals seeking authenticity",
-    "They are closing down because truck drivers no longer eat there",
-    "They are becoming too expensive for their traditional clientele",
-    "They are losing their nostalgic charm to modernization"
+    "vit",
+    "vivra",
+    "vive",
+    "vivait"
   ],
-  "correct": 0,
-  "explanation": "The speaker says 'C'est un comble, ils ont un avenir sans les chauffeurs routiers' - It's ironic/absurd that they have a future without truck drivers. The restaurants now 'attirent les bobos en quête d'authenticité' - attract bourgeois bohemians (urban professionals) seeking authenticity, replacing their original clientele.",
-  "difficulty": "C1",
-  "source": "French Cultural Commentary",
-  "tags": [
-    "culture",
-    "society",
-    "irony",
-    "gentrification",
-    "nostalgia",
-    "bobos"
-  ]
+  "correct": 2,
+  "explanation": "The phrase 'Pour que' (in order that) requires the subjunctive mood. 'Vive' is the present subjunctive form of the verb 'vivre' (to live), used here to express a goal or necessity.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": ["goals", "politics", "democracy", "civic-duty"],
+  "timeCreated": 1720181353
 }

@@ -1,7 +1,7 @@
 {
   "id": 301,
-  "audioText": "Quand j'étais petit, mes grands-parents parlaient toujours en français à la maison pour préserver la tradition familiale.",
-  "question": "Mes grands-parents ______ toujours en français à la maison pour préserver la tradition familiale.",
+  "audioText": "Étant enfant, mes grands-parents parlaient toujours en français à la maison pour préserver la tradition familiale.",
+  "question": "Étant enfant, mes grands-parents ______ toujours en français à la maison pour préserver la tradition familiale.",
   "questionType": "fill-in-the-blank",
   "options": [
     "parlaient",
@@ -10,7 +10,7 @@
     "ont parlé"
   ],
   "correct": 0,
-  "explanation": "The imperfect tense 'parlaient' is used to describe a habitual action in the past ('toujours' = always), indicated by the context 'quand j'étais petit' (when I was little).",
+  "explanation": "The text states '<em>Étant enfant, mes grands-parents parlaient toujours en français à la maison pour préserver la tradition familiale</em>' - As a child, my grandparents always spoke French at home to preserve family tradition. 'Étant enfant' is a gerund construction meaning 'being a child/as a child'.",
   "difficulty": "B1",
   "source": "Childhood memory about family language traditions",
   "tags": [

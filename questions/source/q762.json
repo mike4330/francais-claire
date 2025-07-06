@@ -1,23 +1,18 @@
 {
-  "id": 762,
-  "audioText": "Il fallait améliorer notre stratégie commerciale pour rester compétitifs sur le marché.",
-  "question": "Il ______ améliorer notre stratégie commerciale pour rester compétitifs sur le marché.",
-  "questionType": "FIB-reading",
-  "options": [
-    "fallait",
-    "faudra",
-    "faut",
-    "fallût"
-  ],
-  "correct": 0,
-  "explanation": "The correct form is 'fallait' (imperfect of 'falloir'). It expresses a past necessity: 'We needed to improve our business strategy to stay competitive in the market.'",
-  "difficulty": "B2",
-  "source": "Business Strategy",
-  "tags": [
-    "business",
-    "strategy",
-    "competition",
-    "market"
-  ],
-  "timeCreated": 1720051800
+    "id": 762,
+    "audioText": "Ma grand-mère a toujours vécu ici, mais maintenant elle habite ailleurs dans une maison de retraite.",
+    "question": "Ma grand-mère a toujours vécu ici, mais maintenant elle habite ______ dans une maison de retraite.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "ailleurs",
+        "ici",
+        "là-bas",
+        "partout"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma grand-mère a toujours vécu ici, mais maintenant elle habite ailleurs dans une maison de retraite</em>' - My grandmother always lived here, but now she lives elsewhere in a retirement home. 'Ailleurs' means 'elsewhere/somewhere else' and contrasts with 'ici' (here).",
+    "difficulty": "B1",
+    "source": "Family changes",
+    "tags": ["grandmother", "relocation", "retirement"],
+    "timeCreated": 1704416520
 }

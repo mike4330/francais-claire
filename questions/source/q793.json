@@ -1,22 +1,23 @@
 {
   "id": 793,
-  "audioText": "Le prix est de cinquante euros, service compris, pour ce menu gastronomique exceptionnel.",
-  "question": "Le prix est de cinquante euros, service ______, pour ce menu gastronomique exceptionnel.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Il fallait améliorer notre stratégie commerciale pour rester compétitifs sur le marché.",
+  "question": "Il ______ améliorer notre stratégie commerciale pour rester compétitifs sur le marché.",
+  "questionType": "FIB-reading",
   "options": [
-    "compris",
-    "exclu",
-    "supplémentaire",
-    "optionnel"
+    "fallait",
+    "faudra",
+    "faut",
+    "fallût"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'compris' meaning 'included'. The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
-  "difficulty": "C1",
-  "source": "Fine dining",
+  "explanation": "The correct form is 'fallait' (imperfect of 'falloir'). It expresses a past necessity: 'We needed to improve our business strategy to stay competitive in the market.'",
+  "difficulty": "B2",
+  "source": "Business Strategy",
   "tags": [
-    "restaurant",
-    "pricing",
-    "gastronomy"
+    "business",
+    "strategy",
+    "competition",
+    "market"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720051800
 }

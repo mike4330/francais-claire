@@ -1,24 +1,18 @@
 {
-  "id": 778,
-  "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active. Cette amélioration s'explique principalement par la création d'emplois dans le secteur des services.",
-  "question": "What does the speaker say about the unemployment rate?",
-  "questionType": "comprehension",
-  "options": [
-    "It increased by 0.2 percentage points due to job losses in services",
-    "It decreased by 0.2 percentage points, reaching 7.3% of the active population",
-    "It remained stable at 7.3% despite job creation in services",
-    "It reached a historic low of 0.2% thanks to government policies"
-  ],
-  "correct": 1,
-  "explanation": "The text states 'Le taux de chômage a baissé de 0,2 point... atteignant 7,3% de la population active' - the unemployment rate fell by 0.2 percentage points, reaching 7.3% of the active population. This improvement is explained by job creation in the service sector.",
-  "difficulty": "B2",
-  "source": "French Economic News",
-  "tags": [
-    "economy",
-    "unemployment",
-    "statistics",
-    "employment",
-    "services",
-    "economic-indicators"
-  ]
+    "id": 778,
+    "audioText": "Il travaille seul dans son bureau depuis le matin car il préfère la tranquillité.",
+    "question": "Why does he work alone in his office?",
+    "questionType": "comprehension",
+    "options": [
+        "Because he prefers the quiet",
+        "Because his colleagues are absent",
+        "Because he has too much work",
+        "Because the meeting was cancelled"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il travaille seul dans son bureau depuis le matin car il préfère la tranquillité</em>' - He works alone in his office since morning because he prefers the quiet. 'Seul' means 'alone' and describes his work preference for solitude.",
+    "difficulty": "B1",
+    "source": "Workplace preference",
+    "tags": ["workplace", "preferences", "solitude"],
+    "timeCreated": 1736102760
 }
