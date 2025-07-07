@@ -1,5 +1,7 @@
 # French Language Learning System - Claude Code Assistant
 
+## Base directory the project is /var/www/html/language/
+
 ## 🚨 CRITICAL: Tag Content Policy
 
 **TAGS MUST DESCRIBE REAL-WORLD CONTENT TOPICS ONLY**
@@ -17,13 +19,6 @@
 
 **Think: "What real-world situation is this question about?" NOT "What grammar does it test?"**
 
-## 🚨 CRITICAL: Topic Coverage Guidelines
-
-**AVOID OVER-COVERED TOPICS:**
-- **Environment/Ecology**: We have extensive coverage of environmental topics (climate change, sustainability, conservation, etc.). Minimize creating new questions about environmental themes unless specifically requested.
-
-**PRIORITIZE UNDER-COVERED TOPICS:**
-- Daily life situations, hobbies, sports, arts, entertainment, personal relationships, shopping, transportation, healthcare appointments, etc.
 
 ## 🚨 CRITICAL: Question File Organization
 
@@ -48,9 +43,71 @@
 - **Compiled B**: `questions/q-compiled-b.json` → B1 & B2 levels (ID range: 200-399)  
 - **Compiled C**: `questions/q-compiled-c.json` → C1 & C2 levels (ID range: 400-510)
 
+## 🎯 Strategic Question Creation
+
+**Before adding questions, use data-driven analysis to identify the highest-priority vocabulary gaps.**
+
+### Running Lemma Coverage Analysis
+
+Use the comprehensive lemma analysis tool to identify coverage gaps:
+
+```bash
+cd util
+python3 lemma-coverage.py --limit 20
+```
+
+**This analysis provides:**
+- **Verb Conjugation Gaps**: Missing conjugated forms of high-frequency verbs (sorted by Lexique frequency)
+- **Adjective Coverage**: Adjectives needing attention based on questions-containing-lemma methodology  
+- **Adverb Coverage**: High-frequency adverbs with low question bank representation
+- **Noun Coverage**: Essential nouns below optimal coverage thresholds
+- **Question Type Distribution**: Balance of comprehension vs listening vs fill-in-the-blank
+- **CEFR Level Distribution**: Identify under-represented difficulty levels
+
+### Strategic Targeting Methodology
+
+**✅ PRIORITIZE: Questions that address multiple gaps simultaneously**
+
+Create questions targeting:
+1. **High-frequency lemmas** (top of analysis priority lists)
+2. **Under-represented CEFR levels** (check statistics section)
+3. **Imbalanced question types** (ensure variety)
+4. **Cross-category synergies** (verb + adjective + noun + adverb combinations)
+
+### Example Strategic Workflow:
+
+```bash
+# 1. Run analysis
+python3 lemma-coverage.py --limit 15
+
+# 2. Identify targets (example results):
+#    - Verb: "rendrait" (conditional, missing)  
+#    - Adjective: "normal" (0.2% coverage)
+#    - Noun: "chance" (0.3% coverage)
+#    - Adverb: "précisément" (0.001% coverage)
+
+# 3. Create synergistic question:
+#    "Cette formation normale rendrait précisément plus de chances..."
+#    (Targets 4 vocabulary gaps in one question)
+
+# 4. Verify improvements with follow-up analysis
+```
+
+### Coverage Improvement Tracking
+
+The questions-containing-lemma methodology (used for nouns and adjectives) provides stable metrics:
+- **Before**: "normal" in 3 questions (0.3% coverage)  
+- **After**: "normal" in 4 questions (0.4% coverage)
+- **Progress**: +33% improvement visible immediately
+
+**Key Benefits:**
+- **Immune to expanding denominator problem**: Coverage percentages remain meaningful as question bank grows
+- **Pedagogically relevant**: Tracks actual learning opportunities, not just word frequency
+- **Actionable targets**: Clear thresholds (e.g., "get this word to 2% coverage")
+
 ## 📋 Adding New Questions
 
-**🔄 CORRECT SEQUENCE: Generate → Classify → Pick ID → Write**
+**🔄 CORRECT SEQUENCE: Analyze → Generate → Classify → Pick ID → Write**
 
 ### Step 1: Generate Content & Question Type
 - Create French `audioText` with target vocabulary/grammar
@@ -78,6 +135,8 @@
 
 # Get next ID for C1/C2 levels (questions-c.json)
 ./getid c
+
+# note: getid can be run with the switch '-a' to generate a simple oneline tuple output of available ranges for all levels
 ```
 
 **ID Validation Workflow:**
@@ -316,6 +375,7 @@ bash util/analyze-questions.sh
 6. **Don't create implausible distractors** - reduces pedagogical value
 7. **Always append the question json files** - don't try to parse and insert in the middle
 8. **🚨 CRITICAL: Fill-in-the-blank `audioText` must contain complete sentences** - Never use literal underscores `______` in `audioText` field for fill-in-the-blank questions. The `audioText` must contain the complete French sentence with the correct word filled in for proper audio synthesis. Only the `question` field should show blanks to users.
+9. **🚨 CRITICAL: Avoid proper names in questions** - Never include specific people's names (like "Sophie Bauer", "Marie Dupont", etc.) in questions as they add unnecessary complexity without pedagogical value. Use generic references like "le médecin", "la femme", "l'homme", "le professeur" instead.
 
 ## 🎯 Claude Code Specific Instructions
 

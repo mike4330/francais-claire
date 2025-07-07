@@ -161,6 +161,8 @@ The app uses a revolutionary **pure intelligent selection** system that eliminat
 4. Enter AWS credentials and select region
 5. Choose French voice (Céline, Mathieu, or Léa)
 
+**🔒 Security Note**: For shared deployments, AWS credentials are stored server-side in `tts-proxy.php` for security. Voice settings are accessible through the hamburger menu (🔊 Voice Settings) with a clean, credential-free interface for family use.
+
 ## 📁 File Structure
 
 ```
