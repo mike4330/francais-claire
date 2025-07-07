@@ -21,6 +21,8 @@
             <div class="menu-dropdown" id="menuDropdown">
                 <a href="student.html">👤 Student Dashboard</a>
                 <a href="planning.html">🗂️ Planning & Management</a>
+                <div class="menu-divider"></div>
+                <a href="#" onclick="toggleVoiceSettings(); return false;">🔊 Voice Settings</a>
             </div>
         </div>
         
@@ -52,100 +54,7 @@
             </div>
         </div>
 
-        <!-- AWS Polly Configuration -->
-        <div class="aws-config">
-            <div class="config-header" onclick="toggleConfig()">
-                <h3>🔧 AWS Polly Configuration</h3>
-                <button class="config-toggle-btn" id="configToggleBtn">🔽</button>
-            </div>
-            <div class="config-summary" id="configSummary">
-                Using Polly with Léa voice in us-east-1
-            </div>
-            <div class="config-content collapsed" id="configContent">
-                <div class="config-toggle">
-                    <input type="checkbox" id="usePolly" checked>
-                    <label for="usePolly">Use Amazon Polly (uncheck for browser TTS fallback)</label>
-                </div>
-                <div id="pollyConfig">
-                    <div class="config-row">
-                        <label>Access Key:</label>
-                        <input type="text" id="awsAccessKey" placeholder="Your AWS Access Key ID">
-                    </div>
-                    <div class="config-row">
-                        <label>Secret Key:</label>
-                        <input type="password" id="awsSecretKey" placeholder="Your AWS Secret Access Key">
-                    </div>
-                    <div class="config-row">
-                        <label>Region:</label>
-                        <select id="awsRegion">
-                            <option value="us-east-1">US East (N. Virginia)</option>
-                            <option value="us-west-2">US West (Oregon)</option>
-                            <option value="eu-west-1">Europe (Ireland)</option>
-                            <option value="eu-central-1">Europe (Frankfurt)</option>
-                            <option value="ap-southeast-2">Asia Pacific (Sydney)</option>
-                        </select>
-                    </div>
-                    <div class="config-row">
-                        <label>Voice:</label>
-                        <select id="pollyVoice">
-                            <option value="Lea">Léa (Female, French - Neural)</option>
-                            <option value="Remi">Rémi (Male, French - Neural)</option>
-                        </select>
-                    </div>
-                    <div class="config-status" id="configStatus">
-                        ⚠️ Please configure AWS credentials
-                    </div>
-                    <div style="margin-top: 15px;">
-                        <div style="display: flex; gap: 10px; margin-bottom: 10px; flex-wrap: wrap;">
-                            <button class="btn btn-secondary" onclick="clearSettings()" style="font-size: 0.9em; padding: 8px 15px;">
-                                🗑️ Clear Settings
-                            </button>
-                            <button class="btn btn-secondary" onclick="preCacheAllQuestions()" style="font-size: 0.9em; padding: 8px 15px;">
-                                🔄 Pre-Cache All
-                            </button>
-                            <button class="btn btn-secondary" onclick="clearRedisCache()" style="font-size: 0.9em; padding: 8px 15px;">
-                                🗑️ Clear Redis Cache
-                            </button>
-                            <button class="btn btn-secondary" onclick="regenerateVariations()" style="font-size: 0.9em; padding: 8px 15px;">
-                                🎲 New Variations
-                            </button>
-                            <button class="btn btn-secondary" id="cacheStatsBtn" style="font-size: 0.9em; padding: 8px 15px; cursor: default;" disabled>
-                                📊 Redis: Connecting...
-                            </button>
-                        </div>
-                        <div id="cacheStatus" class="config-status not-ready" style="margin-bottom: 10px;">
-                            Connecting to Redis cache server...
-                        </div>
-                        <small style="color: #666;">Audio cached in Redis via WebSocket • Automatic caching enabled • Settings auto-saved</small>
-                    </div>
-                </div>
-            </div>
-        </div>
 
-        <!-- Scoring Statistics -->
-        <div class="aws-config" style="border-left-color: #28a745;">
-            <div class="config-header" onclick="toggleScoringStats()">
-                <h3>📊 Success Rate by Level</h3>
-                <button class="config-toggle-btn" id="scoringToggleBtn">🔽</button>
-            </div>
-            <div class="config-summary" id="scoringSummary">
-                Overall performance across CEFR levels
-            </div>
-            <div class="config-content collapsed" id="scoringContent">
-                <div id="scoringStatsContainer" style="margin-bottom: 15px;">
-                    <!-- Scoring stats will be populated by JavaScript -->
-                </div>
-                <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-                    <button class="btn btn-secondary" onclick="refreshScoringStats()" style="font-size: 0.9em; padding: 8px 15px;">
-                        🔄 Refresh Stats
-                    </button>
-                    <button class="btn btn-secondary" onclick="clearScoringStats()" style="font-size: 0.9em; padding: 8px 15px;">
-                        🗑️ Clear All Stats
-                    </button>
-                </div>
-                <small style="color: #666; margin-top: 10px; display: block;">Stats tracked per user • Stored in Redis • Persistent across sessions</small>
-            </div>
-        </div>
 
         <div class="progress">
             <div class="progress-bar" id="progressBar"></div>
@@ -195,8 +104,77 @@
         <div class="score" id="scoreDisplay">Score: 0/0</div>
     </div>
 
-    <!-- AWS SDK -->
-    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1691.0.min.js"></script>
+    <!-- Explanation Modal -->
+    <div class="modal-overlay" id="explanationModal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle">Question Result</h3>
+                <button class="modal-close" id="modalCloseBtn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modalFeedback" class="modal-feedback"></div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" id="modalNextBtn">Next Question</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Voice Settings Modal -->
+    <div class="modal-overlay" id="voiceSettingsModal" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>🔊 Voice Settings</h3>
+                <button class="modal-close" id="voiceModalCloseBtn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="config-toggle">
+                    <input type="checkbox" id="usePolly" checked>
+                    <label for="usePolly">Use Neural TTS (uncheck for browser TTS fallback)</label>
+                </div>
+                <div id="pollyConfig">
+                    <div class="config-row">
+                        <label>Voice:</label>
+                        <select id="pollyVoice">
+                            <option value="Lea">Léa (Female, French - Neural)</option>
+                            <option value="Remi">Rémi (Male, French - Neural)</option>
+                        </select>
+                    </div>
+                    <div class="config-status" id="configStatus">
+                        ✅ Neural TTS ready
+                    </div>
+                    <div style="margin-top: 15px;">
+                        <div style="display: flex; gap: 10px; margin-bottom: 10px; flex-wrap: wrap;">
+                            <button class="btn btn-secondary" onclick="clearSettings()" style="font-size: 0.9em; padding: 8px 15px;">
+                                🗑️ Clear Settings
+                            </button>
+                            <button class="btn btn-secondary" onclick="preCacheAllQuestions()" style="font-size: 0.9em; padding: 8px 15px;">
+                                🔄 Pre-Cache All
+                            </button>
+                            <button class="btn btn-secondary" onclick="clearRedisCache()" style="font-size: 0.9em; padding: 8px 15px;">
+                                🗑️ Clear Redis Cache
+                            </button>
+                            <button class="btn btn-secondary" onclick="regenerateVariations()" style="font-size: 0.9em; padding: 8px 15px;">
+                                🎲 New Variations
+                            </button>
+                            <button class="btn btn-secondary" id="cacheStatsBtn" style="font-size: 0.9em; padding: 8px 15px; cursor: default;" disabled>
+                                📊 Redis: Connecting...
+                            </button>
+                        </div>
+                        <div id="cacheStatus" class="config-status not-ready" style="margin-bottom: 10px;">
+                            Connecting to Redis cache server...
+                        </div>
+                        <small style="color: #666;">Audio cached in Redis via WebSocket • Automatic caching enabled • Settings auto-saved</small>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" onclick="closeVoiceSettings()">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- External scripts -->
     <script src="function.js"></script>
 
     <script>
@@ -234,8 +212,7 @@
         let userAnswers = [];
         let questionStartTime = null;
 
-        // AWS Polly configuration
-        let polly = null;
+        // TTS configuration
         let currentAudio = null;
 
         // Settings persistence
@@ -256,17 +233,18 @@
         const scoreDisplay = document.getElementById('scoreDisplay');
         const feedback = document.getElementById('feedback');
 
-        // AWS Config elements
+        // Modal elements
+        const explanationModal = document.getElementById('explanationModal');
+        const modalTitle = document.getElementById('modalTitle');
+        const modalFeedback = document.getElementById('modalFeedback');
+        const modalCloseBtn = document.getElementById('modalCloseBtn');
+        const modalNextBtn = document.getElementById('modalNextBtn');
+
+        // TTS Config elements
         const usePollyCheckbox = document.getElementById('usePolly');
         const pollyConfigDiv = document.getElementById('pollyConfig');
-        const awsAccessKeyInput = document.getElementById('awsAccessKey');
-        const awsSecretKeyInput = document.getElementById('awsSecretKey');
-        const awsRegionSelect = document.getElementById('awsRegion');
         const pollyVoiceSelect = document.getElementById('pollyVoice');
         const configStatusEl = document.getElementById('configStatus');
-        const configToggleBtn = document.getElementById('configToggleBtn');
-        const configContent = document.getElementById('configContent');
-        const configSummary = document.getElementById('configSummary');
 
         // Difficulty system elements
         const difficultyToggleBtn = document.getElementById('difficultyToggleBtn');
@@ -294,37 +272,15 @@
             }
         });
 
-        // AWS Polly Setup
+        // TTS Setup
         function initializePolly() {
             if (!usePollyCheckbox.checked) {
                 updateConfigStatus('Browser TTS mode', 'ready');
                 return true;
             }
 
-            const accessKey = awsAccessKeyInput.value.trim();
-            const secretKey = awsSecretKeyInput.value.trim();
-            const region = awsRegionSelect.value;
-
-            if (!accessKey || !secretKey) {
-                updateConfigStatus('Please configure AWS credentials', 'not-ready');
-                return false;
-            }
-
-            try {
-                AWS.config.update({
-                    accessKeyId: accessKey,
-                    secretAccessKey: secretKey,
-                    region: region
-                });
-
-                polly = new AWS.Polly();
-                updateConfigStatus('AWS Polly configured successfully', 'ready');
-                return true;
-            } catch (error) {
-                console.error('AWS configuration error:', error);
-                updateConfigStatus('AWS configuration error', 'not-ready');
-                return false;
-            }
+            updateConfigStatus('✅ Neural TTS ready', 'ready');
+            return true;
         }
 
         function updateConfigStatus(message, status) {
@@ -334,18 +290,7 @@
         }
 
         function updateConfigSummary() {
-            const isPollyEnabled = usePollyCheckbox.checked;
-            const voice = pollyVoiceSelect.value;
-            const region = awsRegionSelect.value;
-            const hasCredentials = awsAccessKeyInput.value.trim() && awsSecretKeyInput.value.trim();
-            
-            if (!isPollyEnabled) {
-                configSummary.textContent = "Using browser TTS fallback";
-            } else if (hasCredentials) {
-                configSummary.textContent = `Using Polly with ${voice} voice in ${region}`;
-            } else {
-                configSummary.textContent = "Polly enabled but credentials needed";
-            }
+            // Summary is now in the modal - no need to update main page
         }
 
         // Settings persistence functions
@@ -354,11 +299,7 @@
             
             const settings = {
                 usePolly: usePollyCheckbox.checked,
-                accessKey: awsAccessKeyInput.value,
-                secretKey: awsSecretKeyInput.value,
-                region: awsRegionSelect.value,
-                voice: pollyVoiceSelect.value,
-                configCollapsed: configContent.classList.contains('collapsed')
+                voice: pollyVoiceSelect.value
             };
             
             try {
@@ -379,18 +320,8 @@
                 
                 // Restore form values
                 if (settings.usePolly !== undefined) usePollyCheckbox.checked = settings.usePolly;
-                if (settings.accessKey) awsAccessKeyInput.value = settings.accessKey;
-                if (settings.secretKey) awsSecretKeyInput.value = settings.secretKey;
-                if (settings.region) awsRegionSelect.value = settings.region;
                 if (settings.voice) pollyVoiceSelect.value = settings.voice;
                 
-                // Restore collapsed state
-                if (settings.configCollapsed) {
-                    configContent.classList.add('collapsed');
-                    configToggleBtn.classList.add('collapsed');
-                    configToggleBtn.textContent = '▶️';
-                    configSummary.classList.add('show');
-                }
                 
                 // Re-initialize Polly with loaded settings
                 initializePolly();
@@ -408,16 +339,8 @@
                 
                 // Reset form to defaults
                 usePollyCheckbox.checked = true;
-                awsAccessKeyInput.value = '';
-                awsSecretKeyInput.value = '';
-                awsRegionSelect.value = 'us-east-1';
                 pollyVoiceSelect.value = 'Lea';
                 
-                // Expand config panel
-                configContent.classList.remove('collapsed');
-                configToggleBtn.classList.remove('collapsed');
-                configToggleBtn.textContent = '🔽';
-                configSummary.classList.remove('show');
                 
                 // Re-initialize
                 initializePolly();
@@ -527,8 +450,8 @@
         }
 
         async function preCacheAllQuestions() {
-            if (!polly || !usePollyCheckbox.checked) {
-                alert('Please configure AWS Polly first!');
+            if (!usePollyCheckbox.checked) {
+                alert('Please enable Neural TTS first!');
                 return;
             }
 
@@ -591,26 +514,6 @@
             setTimeout(updateCacheStats, 2000);
         }
 
-        function toggleConfig() {
-            const isCollapsed = configContent.classList.contains('collapsed');
-            
-            if (isCollapsed) {
-                // Expand
-                configContent.classList.remove('collapsed');
-                configToggleBtn.classList.remove('collapsed');
-                configToggleBtn.textContent = '🔽';
-                configSummary.classList.remove('show');
-            } else {
-                // Collapse
-                configContent.classList.add('collapsed');
-                configToggleBtn.classList.add('collapsed');
-                configToggleBtn.textContent = '▶️';
-                configSummary.classList.add('show');
-            }
-            
-            // Save the collapsed state
-            saveSettings();
-        }
 
         // WebSocket Redis Cache Integration
         let cacheSocket = null;
@@ -796,17 +699,12 @@
             }
         }
 
-        // Audio synthesis with Polly and Redis caching
+        // Audio synthesis with TTS proxy and Redis caching
         async function synthesizeWithPolly(text, speed = 1.0, ssml = null) {
-            if (!polly) {
-                throw new Error('Polly not configured');
-            }
-
             const voiceId = pollyVoiceSelect.value;
             
             // Use SSML if provided, otherwise use plain text
             const audioContent = ssml || text;
-            const textType = ssml ? 'ssml' : 'text';
             
             if (ssml) {
                 console.log('🎤 SSML detected - using enhanced speech synthesis');
@@ -819,19 +717,36 @@
                 return cachedAudio;
             }
 
-            // Cache miss - synthesize with Polly
-            debugLog(4, `🔊 Synthesizing with Polly (${textType}): ${text.substring(0, 30)}...`);
-            const params = {
-                Text: audioContent,
-                TextType: textType,
-                OutputFormat: 'mp3',
-                VoiceId: voiceId,
-                Engine: 'neural' // Use neural engine for better quality
-            };
+            // Cache miss - synthesize with TTS proxy
+            debugLog(4, `🔊 Synthesizing with TTS proxy: ${text.substring(0, 30)}...`);
 
             try {
-                const data = await polly.synthesizeSpeech(params).promise();
-                const audioBlob = new Blob([data.AudioStream], { type: 'audio/mpeg' });
+                const response = await fetch('tts-proxy.php', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        text: audioContent,
+                        voiceId: voiceId,
+                        engine: 'neural'
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`TTS proxy error: ${response.status}`);
+                }
+
+                const data = await response.json();
+                
+                if (!data.success) {
+                    throw new Error(data.error || 'TTS synthesis failed');
+                }
+
+                // Convert base64 to blob
+                const audioBlob = new Blob([
+                    Uint8Array.from(atob(data.audio), c => c.charCodeAt(0))
+                ], { type: 'audio/mpeg' });
                 
                 // Save to Redis cache (use original text for cache key)
                 await saveToCache(audioBlob, text, voiceId);
@@ -842,7 +757,7 @@
                 
                 return audio;
             } catch (error) {
-                console.error('❌ Polly synthesis error:', error);
+                console.error('❌ TTS synthesis error:', error);
                 throw error;
             }
         }
@@ -893,8 +808,8 @@
             playBtn.innerHTML = '<span>🔊</span> Playing...';
             
             try {
-                if (usePollyCheckbox.checked && polly) {
-                    // Use Amazon Polly with SSML support (using generated audio text)
+                if (usePollyCheckbox.checked) {
+                    // Use Neural TTS with SSML support (using generated audio text)
                     currentAudio = await synthesizeWithPolly(audioText, speed, question.ssml);
                     
                     currentAudio.onended = () => {
@@ -959,12 +874,113 @@
             }
         }
 
+        // Background Image Rotator
+        async function initializeImageRotator() {
+            // Check if image rotator is enabled in config
+            const rotatorConfig = appConfig.imageRotator || {
+                intervalMinutes: 2,
+                directory: 'res/photos/',
+                enabled: true
+            };
+            
+            if (!rotatorConfig.enabled) {
+                debugLog(2, '🎨 Image rotator disabled in config');
+                return;
+            }
+            
+            // Dynamically discover available images
+            const discoveredImages = await discoverImages(rotatorConfig.directory);
+            
+            if (discoveredImages.length === 0) {
+                debugLog(1, '❌ No background images found in', rotatorConfig.directory);
+                return;
+            }
+            
+            // Randomize the order of images
+            const images = [...discoveredImages];
+            shuffleArray(images);
+            debugLog(3, `🔀 Randomized image order:`, images);
+            
+            let currentImageIndex = 0;
+            
+            // Function to change background image
+            function rotateBackground() {
+                const questionContainer = document.querySelector('.question-container');
+                if (questionContainer) {
+                    questionContainer.style.setProperty('--bg-image', `url('${images[currentImageIndex]}')`);
+                    debugLog(3, `🖼️ Background rotated to: ${images[currentImageIndex]}`);
+                    
+                    // Move to next image
+                    currentImageIndex = (currentImageIndex + 1) % images.length;
+                }
+            }
+            
+            // Set initial image
+            rotateBackground();
+            
+            // Calculate interval from config (convert minutes to milliseconds)
+            const intervalMs = rotatorConfig.intervalMinutes * 60 * 1000;
+            
+            // Rotate at configured interval
+            setInterval(rotateBackground, intervalMs);
+            
+            debugLog(2, `🎨 Image rotator initialized with ${images.length} images, rotating every ${rotatorConfig.intervalMinutes} minutes`);
+        }
+        
+        // Discover available images by testing if they exist
+        async function discoverImages(directory) {
+            const images = [];
+            const maxImages = 50; // Safety limit to prevent infinite loop
+            
+            // Test single digit numbers (1.jpg, 2.jpg, etc.)
+            for (let i = 1; i <= 9; i++) {
+                const imagePath = `${directory}${i}.jpg`;
+                if (await imageExists(imagePath)) {
+                    images.push(imagePath);
+                    debugLog(4, `✅ Found image: ${imagePath}`);
+                } else {
+                    debugLog(4, `❌ Image not found: ${imagePath}`);
+                }
+            }
+            
+            // Test double digit numbers (10.jpg, 11.jpg, etc.)
+            for (let i = 10; i <= maxImages; i++) {
+                const imagePath = `${directory}${i}.jpg`;
+                if (await imageExists(imagePath)) {
+                    images.push(imagePath);
+                    debugLog(4, `✅ Found image: ${imagePath}`);
+                } else {
+                    // Stop looking if we hit 3 consecutive missing images
+                    break;
+                }
+            }
+            
+            debugLog(3, `🔍 Discovered ${images.length} background images:`, images);
+            return images;
+        }
+        
+        // Check if an image exists by trying to load it
+        function imageExists(src) {
+            return new Promise((resolve) => {
+                const img = new Image();
+                img.onload = () => resolve(true);
+                img.onerror = () => resolve(false);
+                img.src = src;
+                
+                // Timeout after 2 seconds
+                setTimeout(() => resolve(false), 2000);
+            });
+        }
+
         // Initialize app
         async function init() {
             await loadConfig(); // Load configuration first
             await loadQuestionBankMulti(); // Load questions from multiple JSON files
             setupDifficultyButtons();
             loadSettings(); // Load saved settings first
+            
+            // Initialize background image rotator
+            await initializeImageRotator();
             
             // Load user performance data for intelligent question selection
             // Wait a bit for cache socket to be ready, then load performance data
@@ -1222,7 +1238,7 @@
             const performanceDataForLevel = userPerformanceData.filter(p => p.difficulty === level).length;
             
             debugLog(2, `🎯 Finding best question for level ${level}:`);
-            debugLog(2, `   📊 Total questions in level: ${questionsInLevel.length}`);
+            debugLog(3, `   📊 Total questions in level: ${questionsInLevel.length}`);
             debugLog(2, `   📈 User has performance data for: ${performanceDataForLevel} questions in ${level} level (${userPerformanceData.length} total across all levels)`);
             debugLog(3, `🔍 Performance data details:`, userPerformanceData.map(p => `Q${p.questionId}(${p.difficulty || 'unknown'})`).join(', '));
             
@@ -1958,15 +1974,20 @@
             
             // Auto-advance logic with different delays for correct vs incorrect
             // With intelligent selection, always advance to next optimal question
+            // Modal allows user to read explanation, but will auto-advance if no interaction
             if (isCorrect) {
                 // Correct answers: advance after configured delay
                 setTimeout(() => {
-                    nextQuestion();
+                    if (explanationModal.style.display === 'flex') {
+                        modalNext();
+                    }
                 }, appConfig.interQuestionDelays.correct);
             } else {
                 // Incorrect answers: advance after configured delay (longer to read explanation)
                 setTimeout(() => {
-                    nextQuestion();
+                    if (explanationModal.style.display === 'flex') {
+                        modalNext();
+                    }
                 }, appConfig.interQuestionDelays.incorrect);
             }
 
@@ -1974,12 +1995,16 @@
         }
 
         function showFeedback(question, isCorrect) {
-            feedback.style.display = 'block';
-            feedback.className = `feedback ${isCorrect ? 'correct' : 'incorrect'}`;
-            feedback.innerHTML = `
-                <strong>${isCorrect ? '✅ Correct!' : '❌ Incorrect'}</strong><br>
-                ${question.explanation}
-            `;
+            // Hide the old inline feedback
+            feedback.style.display = 'none';
+            
+            // Update modal content
+            modalTitle.textContent = isCorrect ? '✅ Correct!' : '❌ Incorrect';
+            modalFeedback.className = `modal-feedback ${isCorrect ? 'correct' : 'incorrect'}`;
+            modalFeedback.innerHTML = question.explanation;
+            
+            // Show the modal
+            explanationModal.style.display = 'flex';
         }
 
         function nextQuestion() {
@@ -2171,6 +2196,27 @@
             }
         }
 
+        // Modal functions
+        function closeModal() {
+            explanationModal.style.display = 'none';
+        }
+
+        function modalNext() {
+            closeModal();
+            nextQuestion();
+        }
+
+        // Voice Settings Modal functions
+        function toggleVoiceSettings() {
+            const voiceModal = document.getElementById('voiceSettingsModal');
+            voiceModal.style.display = 'flex';
+        }
+
+        function closeVoiceSettings() {
+            const voiceModal = document.getElementById('voiceSettingsModal');
+            voiceModal.style.display = 'none';
+        }
+
         // Event listeners
         playBtn.addEventListener('click', playAudio);
         submitBtn.addEventListener('click', submitAnswer);
@@ -2178,14 +2224,45 @@
         nextBtn.addEventListener('click', nextQuestion);
         prevBtn.addEventListener('click', prevQuestion);
 
-        // AWS config event listeners
+        // Modal event listeners
+        modalCloseBtn.addEventListener('click', closeModal);
+        modalNextBtn.addEventListener('click', modalNext);
+        
+        // Close modal when clicking overlay
+        explanationModal.addEventListener('click', (e) => {
+            if (e.target === explanationModal) {
+                closeModal();
+            }
+        });
+        
+        // Close modal with Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && explanationModal.style.display === 'flex') {
+                closeModal();
+            }
+            if (e.key === 'Escape' && document.getElementById('voiceSettingsModal').style.display === 'flex') {
+                closeVoiceSettings();
+            }
+        });
+
+        // Voice Settings Modal event listeners
+        document.getElementById('voiceModalCloseBtn').addEventListener('click', closeVoiceSettings);
+        
+        // Close voice settings modal when clicking overlay
+        document.getElementById('voiceSettingsModal').addEventListener('click', (e) => {
+            if (e.target === document.getElementById('voiceSettingsModal')) {
+                closeVoiceSettings();
+            }
+        });
+
+        // TTS config event listeners
         usePollyCheckbox.addEventListener('change', () => {
             pollyConfigDiv.style.display = usePollyCheckbox.checked ? 'block' : 'none';
             initializePolly();
             saveSettings();
         });
 
-        [awsAccessKeyInput, awsSecretKeyInput, awsRegionSelect, pollyVoiceSelect].forEach(el => {
+        [pollyVoiceSelect].forEach(el => {
             el.addEventListener('change', () => {
                 initializePolly();
                 updateConfigSummary();
