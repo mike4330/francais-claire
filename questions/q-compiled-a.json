@@ -764,25 +764,25 @@
     },
     {
       "id": 41,
-      "audioText": "Il a neigé dans le désert le plus sec du monde au Chili. C'est très rare, cela n'était pas arrivé depuis dix ans.",
+      "audioText": "Il a neigé au Chili dans le désert. C'est très rare.",
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
-        "Il a neigé dans le désert le plus sec du monde au Chili. C'est très rare, cela n'était pas arrivé depuis dix ans.",
-        "Il a plu dans le désert le plus sec du monde au Chili. C'est très rare, cela n'était pas arrivé depuis dix ans.",
-        "Il a neigé dans le désert le plus sec du monde au Pérou. C'est très rare, cela n'était pas arrivé depuis dix ans.",
-        "Il a neigé dans le désert le plus sec du monde au Chili. C'est très rare, cela n'était pas arrivé depuis vingt ans."
+        "Il a neigé au Chili dans le désert. C'est très rare.",
+        "Il a plu au Chili dans le désert. C'est très rare.",
+        "Il a neigé au Pérou dans le désert. C'est très rare.",
+        "Il a neigé au Chili dans la montagne. C'est très rare."
       ],
       "correct": 0,
-      "explanation": "La phrase simplifiée était 'Il a neigé dans le désert le plus sec du monde au Chili. C'est très rare, cela n'était pas arrivé depuis dix ans.' - It snowed in the world's driest desert in Chile. It's very rare, it hadn't happened for ten years.",
+      "explanation": "The text states '<em>Il a neigé au Chili dans le désert. C'est très rare.</em>' - It snowed in Chile in the desert. It's very rare. This describes an unusual weather event in an unexpected location.",
       "difficulty": "A2",
-      "source": "Chile Weather - Simplified Listening",
+      "source": "Weather news report",
       "tags": [
         "weather",
-        "snow",
-        "chile",
-        "rare-events"
-      ]
+        "news",
+        "geography"
+      ],
+      "timeCreated": 1736184000
     },
     {
       "id": 42,
@@ -1647,7 +1647,7 @@
     {
       "id": 81,
       "audioText": "Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant une heure.",
-      "parentQuestion": 257,
+      "parentQuestion": 917,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -5216,8 +5216,7 @@
       "tags": [
         "requests",
         "frequency",
-        "workplace",
-        "listening"
+        "workplace"
       ],
       "timeCreated": 1736105400
     },
@@ -5289,7 +5288,7 @@
     },
     {
       "id": 243,
-      "audioText": "Tu sentiras ton coeur battre plus fort si tu cours actuellement.",
+      "audioText": "Tu sentiras ton cœur battre plus fort si tu cours actuellement.",
       "question": "When will you feel your heart beat stronger?",
       "questionType": "comprehension",
       "options": [
@@ -5299,7 +5298,7 @@
         "If you read"
       ],
       "correct": 1,
-      "explanation": "The text states '<em>Tu sentiras ton coeur battre plus fort si tu cours actuellement</em>' - You will feel your heart beat stronger if you run now. 'Sentiras' is future tense of sentir, 'coeur' means heart, and 'actuellement' means currently/now.",
+      "explanation": "The text states '<em>Tu sentiras ton cœur battre plus fort si tu cours actuellement</em>' - You will feel your heart beat stronger if you run now. 'Sentiras' is future tense of sentir, 'cœur' means heart, and 'actuellement' means currently/now.",
       "difficulty": "A2",
       "source": "Exercise and health awareness",
       "tags": [
@@ -5308,13 +5307,608 @@
         "body"
       ],
       "timeCreated": 1751777362
+    },
+    {
+      "id": 244,
+      "audioText": "Mon chat jouera avec le cheveu bleu que j'ai trouvé.",
+      "question": "What will the cat play with?",
+      "questionType": "comprehension",
+      "options": [
+        "A red toy",
+        "A blue hair",
+        "A green ball",
+        "A yellow string"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Mon chat jouera avec le cheveu bleu</em>' - My cat will play with the blue hair. 'Jouera' is future tense of jouer (to play), 'cheveu' means hair/strand, and 'bleu' means blue.",
+      "difficulty": "A2",
+      "source": "Pet behavior and found objects",
+      "tags": [
+        "pets",
+        "animals",
+        "play"
+      ],
+      "timeCreated": 1751778561
+    },
+    {
+      "id": 245,
+      "audioText": "Je travaille sérieusement pour finir mon projet avant vendredi.",
+      "question": "How does the person work?",
+      "questionType": "comprehension",
+      "options": [
+        "Quickly",
+        "Seriously",
+        "Happily",
+        "Lazily"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Je travaille sérieusement pour finir mon projet avant vendredi.</em>' - I work seriously to finish my project before Friday. The adverb 'sérieusement' means seriously, indicating a focused and dedicated approach to work.",
+      "difficulty": "A2",
+      "source": "Workplace conversation",
+      "tags": [
+        "workplace",
+        "education",
+        "time-management"
+      ],
+      "timeCreated": 1736184000
+    },
+    {
+      "id": 246,
+      "audioText": "Cet enfant joue avec son petit chien dans le jardin.",
+      "question": "Where is the child playing?",
+      "questionType": "comprehension",
+      "options": [
+        "In the garden",
+        "In the house",
+        "At school",
+        "In the park"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cet enfant joue avec son petit chien dans le jardin</em>' - This child is playing with his little dog in the garden. 'Enfant' means child.",
+      "difficulty": "A2",
+      "source": "Children playing with pets outdoors",
+      "tags": [
+        "family",
+        "children",
+        "pets"
+      ],
+      "timeCreated": 1751786400
+    },
+    {
+      "id": 247,
+      "audioText": "Ma maman prépare un gâteau délicieux pour mon anniversaire.",
+      "question": "What is mom preparing?",
+      "questionType": "comprehension",
+      "options": [
+        "A delicious cake",
+        "A nice dinner",
+        "A warm soup",
+        "A fresh salad"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma maman prépare un gâteau délicieux</em>' - My mom is preparing a delicious cake. 'Maman' is an affectionate term for mother/mom.",
+      "difficulty": "A1",
+      "source": "Family celebrations and birthday preparations",
+      "tags": [
+        "family",
+        "celebrations",
+        "food"
+      ],
+      "timeCreated": 1751786460
+    },
+    {
+      "id": 248,
+      "audioText": "Chaque jour, nous mangeons longuement ce vrai repas traditionnel en famille.",
+      "question": "How often do they eat the traditional meal?",
+      "questionType": "comprehension",
+      "options": [
+        "Every day",
+        "Every week",
+        "Every month",
+        "Every year"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Chaque jour, nous mangeons longuement ce vrai repas traditionnel</em>' - Every day, we eat this real traditional meal at length. 'Jour' means day, 'longuement' means at length/for a long time, and 'vrai' means real/true.",
+      "difficulty": "A2",
+      "source": "Family meal traditions and daily dining habits",
+      "tags": [
+        "family",
+        "meals",
+        "tradition"
+      ],
+      "timeCreated": 1751787260
+    },
+    {
+      "id": 249,
+      "audioText": "Je mange actuellement une pomme rouge.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Je mange actuellement une pomme rouge.",
+        "Je mange maintenant une pomme rouge.",
+        "Je mange actuellement une pomme verte.",
+        "Je bois actuellement une pomme rouge."
+      ],
+      "correct": 0,
+      "explanation": "The correct phrase is 'Je mange actuellement une pomme rouge' - I am currently eating a red apple. 'Actuellement' means currently/presently. The other options change 'actuellement' to 'maintenant', change the color to 'verte', or change the verb to 'bois'.",
+      "difficulty": "A2",
+      "source": "Current actions and food consumption",
+      "tags": [
+        "food",
+        "present-actions",
+        "daily-life"
+      ],
+      "timeCreated": 1751812620
+    },
+    {
+      "id": 250,
+      "audioText": "Elle utilise un spray anti-moustiques quand elle fait du camping.",
+      "question": "What does she use when camping?",
+      "questionType": "comprehension",
+      "options": [
+        "Insect repellent spray.",
+        "A camping lantern.",
+        "Her sleeping bag.",
+        "Some sunscreen."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle utilise un spray anti-moustiques quand elle fait du camping.</em>' - She uses insect repellent spray when she goes camping. This describes a regular camping practice to avoid mosquito bites.",
+      "difficulty": "A2",
+      "source": "Camping annoyances and insect problems",
+      "tags": [
+        "camping",
+        "minor-annoyances",
+        "insects",
+        "outdoor-activities"
+      ],
+      "timeCreated": 1735953120
+    },
+    {
+      "id": 251,
+      "audioText": "Notre tente est delà la rivière.",
+      "question": "Where is their tent?",
+      "questionType": "comprehension",
+      "options": [
+        "Beyond the river",
+        "Beside the river",
+        "Before the river",
+        "Below the river"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Notre tente est delà la rivière</em>' - Our tent is beyond the river. 'Delà' means 'beyond' or 'on the other side of'.",
+      "difficulty": "A2",
+      "source": "Camping trip",
+      "tags": [
+        "camping",
+        "nature",
+        "location"
+      ],
+      "timeCreated": 1720442460
+    },
+    {
+      "id": 252,
+      "audioText": "Les enfants jouent gaiement dans le parc.",
+      "question": "How are the children playing?",
+      "questionType": "comprehension",
+      "options": [
+        "Cheerfully",
+        "Quietly",
+        "Carelessly",
+        "Competitively"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Les enfants jouent gaiement dans le parc</em>' - The children are playing cheerfully in the park. 'Gaiement' means 'cheerfully' or 'happily'.",
+      "difficulty": "A2",
+      "source": "Children at play",
+      "tags": [
+        "play",
+        "children",
+        "park"
+      ],
+      "timeCreated": 1720442640
+    },
+    {
+      "id": 253,
+      "audioText": "La neige tombe sur mes cheveux.",
+      "question": "What is falling on the speaker's hair?",
+      "questionType": "comprehension",
+      "options": [
+        "Snow",
+        "Rain",
+        "Leaves",
+        "Dust"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>La neige tombe sur mes cheveux</em>' - The snow is falling on my hair. 'Cheveux' is the plural form of 'cheveu' meaning 'hair'.",
+      "difficulty": "A2",
+      "source": "Winter weather",
+      "tags": [
+        "snow",
+        "weather",
+        "winter"
+      ],
+      "timeCreated": 1720442700
+    },
+    {
+      "id": 254,
+      "audioText": "Mon mari laisse toujours ses chaussettes sur le sol.",
+      "question": "What does the speaker's husband always do?",
+      "questionType": "comprehension",
+      "options": [
+        "Leaves his socks on the floor",
+        "Forgets to buy new socks",
+        "Wears dirty socks to work",
+        "Loses his socks in the laundry"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Mon mari laisse toujours ses chaussettes sur le sol</em>' - My husband always leaves his socks on the floor. 'Mari' means 'husband'.",
+      "difficulty": "A2",
+      "source": "Household habits",
+      "tags": [
+        "minor-annoyances",
+        "marriage",
+        "household"
+      ],
+      "timeCreated": 1720442760
+    },
+    {
+      "id": 260,
+      "audioText": "Ce beau lit procure un immense plaisir.",
+      "question": "What does the beautiful bed provide?",
+      "questionType": "comprehension",
+      "options": [
+        "Immense pleasure",
+        "Good support",
+        "Warm comfort",
+        "Deep sleep"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Ce beau lit procure un immense plaisir</em>' - This beautiful bed provides immense pleasure. 'Beau' means 'beautiful', 'plaisir' means 'pleasure'.",
+      "difficulty": "A2",
+      "source": "Bedroom comfort",
+      "tags": [
+        "retirement",
+        "comfort",
+        "rest"
+      ],
+      "timeCreated": 1720443540
+    },
+    {
+      "id": 261,
+      "audioText": "Ce vieux bois contient le silence des années.",
+      "question": "What does the old wood contain?",
+      "questionType": "comprehension",
+      "options": [
+        "The silence of years",
+        "The sounds of nature",
+        "The marks of time",
+        "The strength of trees"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Ce vieux bois contient le silence des années</em>' - This old wood contains the silence of years. 'Vieux' means 'old', 'silence' means 'silence'.",
+      "difficulty": "A2",
+      "source": "Nature observation",
+      "tags": [
+        "spirituality",
+        "nature",
+        "time"
+      ],
+      "timeCreated": 1720443600
+    },
+    {
+      "id": 262,
+      "audioText": "Ce gros livre parle librement de la guerre.",
+      "question": "What does the big book do?",
+      "questionType": "comprehension",
+      "options": [
+        "Speaks freely about the war",
+        "Describes battles in detail",
+        "Criticizes military leaders",
+        "Hides sensitive information"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Ce gros livre parle librement de la guerre</em>' - This big book speaks freely about the war. 'Gros' means 'big/thick', 'librement' means 'freely', 'guerre' means 'war'.",
+      "difficulty": "A2",
+      "source": "Historical literature",
+      "tags": [
+        "war",
+        "literature",
+        "history"
+      ],
+      "timeCreated": 1720443660
+    },
+    {
+      "id": 263,
+      "audioText": "Cette femme pauvre garde peine dans son cœur.",
+      "question": "What does the poor woman keep in her heart?",
+      "questionType": "comprehension",
+      "options": [
+        "Sorrow",
+        "Hope",
+        "Anger",
+        "Love"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Cette femme pauvre garde peine dans son cœur</em>' - This poor woman keeps sorrow in her heart. 'Pauvre' means 'poor', 'peine' means 'sorrow/pain', 'cœur' means 'heart'.",
+      "difficulty": "A2",
+      "source": "Human emotion",
+      "tags": [
+        "spirituality",
+        "emotion",
+        "poverty"
+      ],
+      "timeCreated": 1720443720
+    },
+    {
+      "id": 264,
+      "audioText": "Il garde sa maison propre, proprement dit.",
+      "question": "How does he keep his house?",
+      "questionType": "comprehension",
+      "options": [
+        "Clean, properly speaking",
+        "Large and comfortable",
+        "Quiet and peaceful",
+        "Warm and welcoming"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Il garde sa maison propre, proprement dit</em>' - He keeps his house clean, properly speaking. 'Propre' means 'clean', 'proprement' means 'properly'.",
+      "difficulty": "A2",
+      "source": "Home maintenance",
+      "tags": [
+        "retirement",
+        "home",
+        "cleanliness"
+      ],
+      "timeCreated": 1720443780
+    },
+    {
+      "id": 265,
+      "audioText": "Cet homme fou court quasi partout en ville.",
+      "question": "How does the crazy man run around town?",
+      "questionType": "comprehension",
+      "options": [
+        "Almost everywhere",
+        "Very slowly",
+        "Only at night",
+        "With great purpose"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Cet homme fou court quasi partout en ville</em>' - This crazy man runs almost everywhere in town. 'Fou' means 'crazy/mad', 'quasi' means 'almost'.",
+      "difficulty": "A2",
+      "source": "Urban observation",
+      "tags": [
+        "child-development",
+        "behavior",
+        "urban"
+      ],
+      "timeCreated": 1720443840
+    },
+    {
+      "id": 266,
+      "audioText": "Ce cheval noir apparaît voire disparaît dans le bras de l'homme.",
+      "question": "What does the black horse do?",
+      "questionType": "comprehension",
+      "options": [
+        "Appears or even disappears in the man's arm",
+        "Runs quickly through the forest",
+        "Stands quietly in the stable",
+        "Jumps high over the fence"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Ce cheval noir apparaît voire disparaît dans le bras de l'homme</em>' - This black horse appears or even disappears in the man's arm. 'Noir' means 'black', 'voire' means 'or even', 'bras' means 'arm'.",
+      "difficulty": "A2",
+      "source": "Magic show",
+      "tags": [
+        "spirituality",
+        "magic",
+        "illusion"
+      ],
+      "timeCreated": 1720443900
+    },
+    {
+      "id": 267,
+      "audioText": "Ce travail dur demande constamment de la concentration.",
+      "question": "What does the hard work constantly require?",
+      "questionType": "comprehension",
+      "options": [
+        "Concentration",
+        "Physical strength",
+        "Special tools",
+        "Extra time"
+      ],
+      "correct": 0,
+      "explanation": "The speaker says '<em>Ce travail dur demande constamment de la concentration</em>' - This hard work constantly requires concentration. 'Dur' means 'hard/difficult', 'constamment' means 'constantly'.",
+      "difficulty": "A2",
+      "source": "Work requirements",
+      "tags": [
+        "child-development",
+        "learning",
+        "focus"
+      ],
+      "timeCreated": 1720443960
+    },
+    {
+      "id": 268,
+      "audioText": "Merci, mais je reviendrai après-demain pour récupérer le tour de poterie.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Merci, mais je reviendrai après-demain pour récupérer le tour de poterie.",
+        "Merci, mais je reviendrai avant-demain pour récupérer le tour de poterie.",
+        "Merci, mais je reviendrai après-demain pour réparer le tour de poterie.",
+        "Merci, mais je reviendrais après-demain pour récupérer le tour de poterie."
+      ],
+      "correct": 0,
+      "explanation": "The correct sentence is '<em>Merci, mais je reviendrai après-demain pour récupérer le tour de poterie</em>' - Thank you, but I will come back the day after tomorrow to pick up the pottery wheel. 'Après-demain' means 'the day after tomorrow', 'tour' means 'wheel/turn', and 'merci' expresses gratitude.",
+      "difficulty": "A2",
+      "source": "Art studio visit",
+      "tags": [
+        "art",
+        "pottery",
+        "scheduling"
+      ],
+      "timeCreated": 1720443720
+    },
+    {
+      "id": 269,
+      "audioText": "Il marchait silencieusement au fond du bois pour observer les animaux.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Il marchait silencieusement au fond du bois pour observer les animaux.",
+        "Il marchait silencieusement au bord du bois pour observer les animaux.",
+        "Il marchait rapidement au fond du bois pour observer les animaux.",
+        "Il marche silencieusement au fond du bois pour observer les animaux."
+      ],
+      "correct": 0,
+      "explanation": "The correct sentence is '<em>Il marchait silencieusement au fond du bois pour observer les animaux</em>' - He was walking silently deep in the woods to observe the animals. 'Silencieusement' means 'silently', 'fond' means 'depth/back', and 'bois' means 'woods'.",
+      "difficulty": "A2",
+      "source": "Nature observation",
+      "tags": [
+        "park",
+        "animals",
+        "nature"
+      ],
+      "timeCreated": 1720443780
+    },
+    {
+      "id": 270,
+      "audioText": "Il passa tout l'instant silencieusement au bout du parc.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Il passa tout l'instant silencieusement au bout du parc.",
+        "Il passe tout l'instant silencieusement au bout du parc.",
+        "Il passa tout l'instant rapidement au bout du parc.",
+        "Il passa tout l'instant silencieusement au bout du bois."
+      ],
+      "correct": 0,
+      "explanation": "The correct sentence is '<em>Il passa tout l'instant silencieusement au bout du parc</em>' - He spent the whole moment silently at the end of the park. 'Passa' is the passé simple of 'passer', 'instant' means 'moment', 'silencieusement' means 'silently', and 'bout' means 'end'.",
+      "difficulty": "A2",
+      "source": "Park visit",
+      "tags": [
+        "park",
+        "rest",
+        "nature"
+      ],
+      "timeCreated": 1720443960
+    },
+    {
+      "id": 271,
+      "audioText": "Merci, nous attendras-tu au bout de l'émission culinaire?",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Merci, nous attendras-tu au bout de l'émission culinaire?",
+        "Merci, nous attendes-tu au bout de l'émission culinaire?",
+        "Merci, nous attendras-tu au bout de l'émission culturelle?",
+        "Merci, vous attendras-tu au bout de l'émission culinaire?"
+      ],
+      "correct": 0,
+      "explanation": "The correct sentence is '<em>Merci, nous attendras-tu au bout de l'émission culinaire?</em>' - Thank you, will you wait for us at the end of the culinary show? 'Attendras' is the future tense of 'attendre' (tu form), 'bout' means 'end', and 'émission culinaire' means 'culinary show'.",
+      "difficulty": "A2",
+      "source": "TV cooking show",
+      "tags": [
+        "french-cuisine",
+        "culinary-vocabulary",
+        "cooking-techniques"
+      ],
+      "timeCreated": 1720444020
+    },
+    {
+      "id": 272,
+      "audioText": "Sa bouche est très facile à voir.",
+      "question": "What is easy to see?",
+      "questionType": "comprehension",
+      "options": [
+        "Her mouth",
+        "Her eyes",
+        "Her nose",
+        "Her ears"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Sa bouche est très facile à voir</em>' - Her mouth is very easy to see. The French word 'bouche' means mouth, and the sentence indicates that her mouth is easily visible.",
+      "difficulty": "A1",
+      "source": "Strategic vocabulary targeting for 'bouche' (mouth)",
+      "tags": [
+        "physical-description",
+        "daily-life",
+        "health"
+      ],
+      "timeCreated": 1751853190
+    },
+    {
+      "id": 273,
+      "audioText": "Son bras cher lui fait mal après l'accident.",
+      "question": "What hurts after the accident?",
+      "questionType": "comprehension",
+      "options": [
+        "His precious arm",
+        "His expensive car",
+        "His dear friend",
+        "His old leg"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Son bras cher lui fait mal après l'accident</em>' - His precious/dear arm hurts him after the accident. 'Bras' means arm, 'cher' can mean dear/precious or expensive, and the context indicates physical pain from an accident.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting for 'bras' and 'cher'",
+      "tags": [
+        "accident",
+        "health",
+        "physical-description"
+      ],
+      "timeCreated": 1751853190
+    },
+    {
+      "id": 274,
+      "audioText": "Le lit prêt pour dormir.",
+      "question": "Le ______ prêt pour dormir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "lit",
+        "chat",
+        "mur",
+        "sac"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le lit prêt pour dormir</em>' - The bed ready for sleeping. 'Lit' means bed and 'prêt' means ready/prepared. The context clearly indicates a bed that is prepared for sleeping.",
+      "difficulty": "A1",
+      "source": "Strategic vocabulary targeting for 'lit' and 'prêt'",
+      "tags": [
+        "daily-life",
+        "home",
+        "bedroom"
+      ],
+      "timeCreated": 1751853190
+    },
+    {
+      "id": 275,
+      "audioText": "Elle dit tendrement au revoir avant leur séparation.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Elle dit tendrement au revoir avant leur séparation.",
+        "Elle dit tristement au revoir avant leur séparation.",
+        "Elle dit doucement au revoir avant leur séparation.",
+        "Elle dit calmement au revoir avant leur séparation."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle dit tendrement au revoir avant leur séparation</em>' - She tenderly says goodbye before their separation. 'Tendrement' means tenderly or lovingly, showing affection in a difficult moment of parting.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting for 'tendrement'",
+      "tags": [
+        "separation",
+        "family",
+        "emotion"
+      ],
+      "timeCreated": 1751853190
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-06T04:50:59.854Z",
-    "totalQuestions": 233,
+    "compiledAt": "2025-07-07T02:06:06.604Z",
+    "totalQuestions": 260,
     "level": "A",
-    "idRange": "1-251",
+    "idRange": "1-314",
     "difficulties": [
       "A1",
       "A2"
