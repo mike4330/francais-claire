@@ -1,25 +1,18 @@
 {
-  "id": 260,
-  "audioText": "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
-    "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique économique française.",
-    "Le journaliste a annoncé la retraite de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
-    "Le journaliste a critiqué l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte était 'Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.' - The journalist announced the death of the former minister with respect, highlighting his important contributions to French environmental policy. This shows death in news context.",
-  "difficulty": "B2",
-  "source": "Political News and Obituary",
-  "tags": [
-    "news",
-    "politics",
-    "journalism",
-    "obituary",
-    "environmental-policy",
-    "respect",
-    "public-figures"
-  ]
+    "id": 260,
+    "audioText": "Ce beau lit procure un immense plaisir.",
+    "question": "What does the beautiful bed provide?",
+    "questionType": "comprehension",
+    "options": [
+        "Immense pleasure",
+        "Good support", 
+        "Warm comfort",
+        "Deep sleep"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Ce beau lit procure un immense plaisir</em>' - This beautiful bed provides immense pleasure. 'Beau' means 'beautiful', 'plaisir' means 'pleasure'.",
+    "difficulty": "A2",
+    "source": "Bedroom comfort",
+    "tags": ["retirement", "comfort", "rest"],
+    "timeCreated": 1720443540
 }
