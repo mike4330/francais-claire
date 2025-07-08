@@ -201,6 +201,9 @@
 
         // Question bank loaded from external JSON file
         let questionBank = [];
+        
+        // Sublevel mapping for precise question selection
+        let sublevelMapping = {};
 
         let currentDifficulty = 'A1';
 
@@ -976,6 +979,7 @@
         async function init() {
             await loadConfig(); // Load configuration first
             await loadQuestionBankMulti(); // Load questions from multiple JSON files
+            await loadSublevelDictionary(); // Load sublevel mapping for precise question selection
             setupDifficultyButtons();
             loadSettings(); // Load saved settings first
             
@@ -1048,6 +1052,30 @@
             } catch (error) {
                 debugLog(1, '❌ Could not load question bank:', error);
                 questionBank = [];
+            }
+        }
+
+        // Load sublevel dictionary for precise question selection
+        async function loadSublevelDictionary() {
+            try {
+                const response = await fetch('questions/sublevel-dictionary.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    sublevelMapping = data.sublevelMapping || {};
+                    debugLog(2, `📊 Loaded sublevel mappings for: ${Object.keys(sublevelMapping).join(', ')}`);
+                    
+                    // Log distribution for debugging
+                    if (appConfig.debugLevel >= 3) {
+                        Object.entries(sublevelMapping).forEach(([level, questions]) => {
+                            debugLog(3, `   ${level}: ${questions.length} questions`);
+                        });
+                    }
+                } else {
+                    debugLog(1, '❌ Could not load sublevel dictionary:', response.status);
+                }
+            } catch (error) {
+                debugLog(1, '❌ Error loading sublevel dictionary:', error);
+                sublevelMapping = {};
             }
         }
 
@@ -1244,12 +1272,11 @@
             
             // Try random selection first if enabled
             if (appConfig.intelligentSelection?.randomization?.enabled) {
-                const levelRange = appConfig.levelRanges[level.toLowerCase()] || 
-                                 appConfig.levelRanges[Object.keys(appConfig.levelRanges).find(key => 
-                                     appConfig.levelRanges[key].levels.includes(level))];
-                
-                if (levelRange) {
-                    const randomId = Math.floor(Math.random() * (levelRange.maxId - levelRange.minId + 1)) + levelRange.minId;
+                // Use sublevel mapping for precise selection instead of broad level ranges
+                if (sublevelMapping[level] && sublevelMapping[level].length > 0) {
+                    const availableIds = sublevelMapping[level];
+                    const randomIndex = Math.floor(Math.random() * availableIds.length);
+                    const randomId = availableIds[randomIndex];
                     const randomQuestion = questionBank.find(q => q.id === randomId);
                     
                     if (randomQuestion && questionsInLevel.includes(randomQuestion)) {
@@ -1259,16 +1286,18 @@
                                                  (now - performance.lastAnswered) < recentThresholdMs;
                         
                         if (!isRecentlyAnswered) {
-                            debugLog(2, `🎲 RANDOM SELECTION: Chose question ${randomId} from ${level} range (${levelRange.minId}-${levelRange.maxId})`);
-                            debugLog(2, `   📝 Reason: Random selection within level constraints`);
+                            debugLog(2, `🎲 RANDOM SELECTION: Chose question ${randomId} from ${level} sublevel (${availableIds.length} available)`);
+                            debugLog(2, `   📝 Reason: Random selection within precise sublevel constraints`);
                             return randomId;
                         } else {
                             const minutesAgo = Math.round((now - performance.lastAnswered) / (60 * 1000));
                             debugLog(2, `🎲 Random selection failed (Q${randomId} answered ${minutesAgo} minutes ago), falling back to intelligent selection`);
                         }
                     } else {
-                        debugLog(2, `🎲 Random selection failed (Q${randomId} not found or wrong level), falling back to intelligent selection`);
+                        debugLog(2, `🎲 Random selection failed (Q${randomId} not found in sublevel), falling back to intelligent selection`);
                     }
+                } else {
+                    debugLog(2, `🎲 Random selection skipped (no sublevel mapping for ${level}), using intelligent selection`);
                 }
             }
             
