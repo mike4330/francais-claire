@@ -18,10 +18,10 @@ from collections import defaultdict, Counter
 # ============================================================================
 # THRESHOLD CONFIGURATION - Adjust these values to tune analysis sensitivity
 # ============================================================================
-ATTENTION_THRESHOLD_ADVERBS = 0.005      # 0.005% threshold for adverbs
-ATTENTION_THRESHOLD_ADJECTIVES = 0.01    # 0.01% threshold for adjectives  
-ATTENTION_THRESHOLD_NOUNS = 0.046        # 0.046% threshold for nouns
-CONJUGATION_COVERAGE_FILTER = 56         # Skip verbs with coverage above this percentage
+ATTENTION_THRESHOLD_ADVERBS = 0.004      # 0.005% threshold for adverbs
+ATTENTION_THRESHOLD_ADJECTIVES = 0.0038    # 0.01% threshold for adjectives  
+ATTENTION_THRESHOLD_NOUNS = 0.0043        
+CONJUGATION_COVERAGE_FILTER = 55         # Skip verbs with coverage above this percentage
 # ============================================================================
 
 # Blacklist for conjugate forms that are used as nouns/other parts of speech in questions
@@ -42,6 +42,11 @@ class Colors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
     END = '\033[0m'
+    
+    # Status indicators with colors
+    SUCCESS = f'{GREEN}[OK]{END}'
+    FAIL = f'{RED}[MISS]{END}'
+    WARNING = f'{YELLOW}[WARN]{END}'
 
 def determine_paths():
     """Determine correct paths for database and question files"""
@@ -108,9 +113,9 @@ def load_question_files(paths):
                 continue
     
     if loaded_files > 0:
-        print(f"{Colors.GREEN}✅ Loaded {len(all_questions)} questions from {loaded_files} files{Colors.END}")
+        print(f"{Colors.SUCCESS} Loaded {len(all_questions)} questions from {loaded_files} files")
     else:
-        print(f"{Colors.RED}❌ Failed to load question files{Colors.END}")
+        print(f"{Colors.FAIL} Failed to load question files")
     
     return all_questions
 
@@ -136,14 +141,14 @@ def extract_text_from_questions(questions, respect_blacklist=False):
         # Process text and apply blacklist if requested
         if respect_blacklist:
             for text_part in text_parts:
-                words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç]+\b', text_part.lower())
+                words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñçœ]+\b', text_part.lower())
                 filtered_words = []
                 
                 for word in words:
                     if not is_word_blacklisted(word, question_id):
                         filtered_words.append(word)
                     else:
-                        print(f"{Colors.YELLOW}⚠️  Blacklisted '{word}' in question {question_id} (not a conjugate){Colors.END}")
+                        print(f"{Colors.WARNING} Blacklisted '{word}' in question {question_id} (not a conjugate)")
                 
                 all_text += " " + " ".join(filtered_words)
         else:
@@ -163,14 +168,14 @@ def is_word_blacklisted(word, question_id):
 def connect_to_lexique(paths):
     """Connect to the Lexique database"""
     if not os.path.exists(paths['lexique_db']):
-        print(f"{Colors.RED}❌ Lexique database not found at {paths['lexique_db']}{Colors.END}")
+        print(f"{Colors.FAIL} Lexique database not found at {paths['lexique_db']}")
         return None
     
     try:
         conn = sqlite3.connect(paths['lexique_db'])
         return conn
     except Exception as e:
-        print(f"{Colors.RED}❌ Error connecting to database: {e}{Colors.END}")
+        print(f"{Colors.FAIL} Error connecting to database: {e}")
         return None
 
 def get_top_verbs(paths, limit=50):
@@ -195,7 +200,7 @@ def get_top_verbs(paths, limit=50):
         return [verb for verb, freq in top_verbs]
         
     except Exception as e:
-        print(f"❌ Error getting top verbs: {e}")
+        print(f"{Colors.FAIL} Error getting top verbs: {e}")
         if conn:
             conn.close()
         return []
@@ -221,7 +226,7 @@ def get_all_conjugated_forms(verb_infinitive, paths):
         return [(form, grammar, freq) for form, grammar, freq in forms if form != verb_infinitive]
         
     except Exception as e:
-        print(f"❌ Error getting conjugated forms for {verb_infinitive}: {e}")
+        print(f"{Colors.FAIL} Error getting conjugated forms for {verb_infinitive}: {e}")
         if conn:
             conn.close()
         return []
@@ -234,13 +239,13 @@ def analyze_verb_conjugations(paths, question_text, limit=50):
     # Get top verbs
     top_verbs = get_top_verbs(paths, limit)
     if not top_verbs:
-        print(f"{Colors.RED}❌ Cannot proceed without verb data{Colors.END}")
+        print(f"{Colors.FAIL} Cannot proceed without verb data")
         return []
     
     print(f"{Colors.CYAN}📊 Analyzing top {limit} verbs for conjugation coverage...{Colors.END}")
     
     # Extract words from question text (respecting blacklist)
-    words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç]+\b', question_text)
+    words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñçœ]+\b', question_text)
     word_counts = Counter(words)
     
     # Collect all missing conjugates with their frequencies
@@ -295,7 +300,7 @@ def analyze_verb_conjugations(paths, question_text, limit=50):
     verbs_needing_attention = [verb for verb in top_verbs if total_coverage.get(verb, {}).get('coverage', 0) <= CONJUGATION_COVERAGE_FILTER]
     verbs_to_analyze = verbs_needing_attention[:25]  # Take first 25 that need attention
     
-    print(f"\n{Colors.GREEN}✅ Skipping {len(skipped_verbs)} well-covered verbs (>{CONJUGATION_COVERAGE_FILTER}% coverage){Colors.END}")
+    print(f"\n{Colors.SUCCESS} Skipping {len(skipped_verbs)} well-covered verbs (>{CONJUGATION_COVERAGE_FILTER}% coverage)")
     print(f"{Colors.CYAN}📋 Analyzing {len(verbs_to_analyze)} verbs needing attention (≤{CONJUGATION_COVERAGE_FILTER}% coverage){Colors.END}")
     
     # Sort all missing conjugates by frequency (highest first)
@@ -330,7 +335,7 @@ def load_adverbs_from_csv(paths, limit=50, question_text=None):
     adv_file = paths['adv_csv']
     
     if not os.path.exists(adv_file):
-        print(f"{Colors.RED}❌ Adverbs file not found at {adv_file}{Colors.END}")
+        print(f"{Colors.FAIL} Adverbs file not found at {adv_file}")
         return []
     
     adverbs_data = []
@@ -348,15 +353,29 @@ def load_adverbs_from_csv(paths, limit=50, question_text=None):
                 })
     
     except Exception as e:
-        print(f"{Colors.RED}❌ Error loading adverbs: {e}{Colors.END}")
+        print(f"{Colors.FAIL} Error loading adverbs: {e}")
         return []
     
     # Sort by frequency 
     adverbs_data.sort(key=lambda x: x['freq'], reverse=True)
     
     # Calculate usage in question bank
-    words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç\'-]+\b', question_text)
+    words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñçœ\'-]+\b', question_text)
     word_counts = Counter(words)
+    
+    # Special handling for compound adverbs like "à tâtons"
+    # These are treated as single units in the corpus but appear as separate words in regex
+    compound_adverbs = {
+        'à tâtons': ['à', 'tâtons']
+    }
+    
+    # Check for compound adverbs in the full text
+    for compound, components in compound_adverbs.items():
+        # Count occurrences of the full compound phrase
+        compound_count = len(re.findall(r'\b' + re.escape(compound) + r'\b', question_text, re.IGNORECASE))
+        if compound_count > 0:
+            word_counts[compound] = compound_count
+    
     total_word_instances = sum(word_counts.values())
     
     # Find adverbs needing attention (below threshold)
@@ -398,7 +417,7 @@ def analyze_adverbs(paths, question_text, limit=50):
     missing_adverbs = load_adverbs_from_csv(paths, limit, question_text)
     
     if not missing_adverbs:
-        print(f"{Colors.RED}❌ Cannot proceed without adverb data{Colors.END}")
+        print(f"{Colors.FAIL} Cannot proceed without adverb data")
         return []
     
     print(f"{Colors.CYAN}📊 Analyzing adverbs needing attention (below {ATTENTION_THRESHOLD_ADVERBS}% threshold)...{Colors.END}")
@@ -409,17 +428,46 @@ def analyze_adverbs(paths, question_text, limit=50):
     print("   " + "-" * 50)
     
     for i, adverb in enumerate(missing_adverbs[:30], 1):
-        status = "✅" if adverb['usage'] > 0 else "❌"
-        print(f"   {i:2d}. {adverb['lemme']:15} - freq: {adverb['freq']:6.1f} ({adverb['percentage']:5.3f}%) {status}")
+        status = Colors.SUCCESS if adverb['usage'] > 0 else Colors.FAIL
+        print(f"   {i:2d}. {adverb['lemme']:15} - freq: {adverb['freq']:6.1f} ({adverb['percentage']:6.4f}%) {status}")
     
     return missing_adverbs
 
-def load_adjectives_from_csv(paths, limit=50, question_text=None):
-    """Load top frequent adjectives from CSV file and return those needing attention"""
+def load_adjectives_from_csv(paths, limit=50, questions=None):
+    """Load top frequent adjectives from CSV file and return those needing attention.
+    
+    Uses the questions-containing-lemma approach instead of word percentage to avoid
+    the expanding denominator problem. This method is more stable and pedagogically
+    meaningful than traditional word frequency analysis.
+    
+    Traditional approach problems:
+    - Denominator = total_words (grows ~25-50 words per question added)
+    - Adding questions dilutes existing lemma percentages
+    - Example: "normal" 3/50000 = 0.006% → 3/65000 = 0.005% (appears worse)
+    
+    Questions-containing-lemma approach benefits:
+    - Denominator = total_questions (grows 1 per question added)
+    - Much more stable coverage metrics
+    - Pedagogically meaningful: "% of learning opportunities containing this word"
+    - Example: "normal" in 5/200 = 2.5% → 5/300 = 1.67% (still meaningful)
+    
+    Args:
+        paths: Dictionary containing file paths
+        limit: Maximum number of adjectives to return
+        questions: List of question objects to analyze
+        
+    Returns:
+        List of adjective dictionaries with coverage data including:
+        - lemme: The adjective lemma
+        - freq: Corpus frequency from Lexique
+        - questions_with_lemma: Number of questions containing this adjective
+        - question_coverage: Percentage of questions containing this adjective
+        - rank: Frequency rank in corpus
+    """
     adj_file = paths['adj_csv']
     
     if not os.path.exists(adj_file):
-        print(f"{Colors.RED}❌ Adjectives file not found at {adj_file}{Colors.END}")
+        print(f"{Colors.FAIL} Adjectives file not found at {adj_file}")
         return []
     
     adjectives_data = defaultdict(list)
@@ -442,7 +490,7 @@ def load_adjectives_from_csv(paths, limit=50, question_text=None):
                 })
     
     except Exception as e:
-        print(f"{Colors.RED}❌ Error loading adjectives: {e}{Colors.END}")
+        print(f"{Colors.FAIL} Error loading adjectives: {e}")
         return []
     
     # Get top adjectives by highest frequency form
@@ -459,31 +507,56 @@ def load_adjectives_from_csv(paths, limit=50, question_text=None):
                               key=lambda x: x[1]['max_freq'], 
                               reverse=True)
     
-    # Calculate usage in question bank
-    words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç]+\b', question_text)
-    word_counts = Counter(words)
-    total_word_instances = sum(word_counts.values())
+    # Pre-extract text from all questions for efficient lookup (avoids O(adjectives × questions) complexity)
+    total_questions = len(questions) if questions else 0
+    question_word_sets = []
+    
+    if questions:
+        for q in questions:
+            question_text = ""
+            # Extract text from all fields
+            if 'audioText' in q:
+                question_text += " " + q['audioText']
+            if 'question' in q:
+                question_text += " " + q['question']
+            if 'options' in q:
+                for option in q['options']:
+                    question_text += " " + option
+            if 'explanation' in q:
+                question_text += " " + q['explanation']
+            
+            # Extract words and store as set for fast lookup
+            words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñçœ]+\b', question_text.lower())
+            question_word_sets.append(set(words))
     
     # Find adjectives needing attention (below threshold)
     adjectives_needing_attention = []
     
     for i, (lemme, data) in enumerate(sorted_adjectives):
         corpus_freq = data['max_freq']
-        question_usage = word_counts.get(lemme, 0)
         
-        # Calculate percentage weight
-        if total_word_instances > 0:
-            percentage = (question_usage / total_word_instances) * 100
+        # Count questions containing this lemma (fast O(1) lookup per question)
+        questions_with_lemma = 0
+        if question_word_sets:
+            for word_set in question_word_sets:
+                if lemme.lower() in word_set:
+                    questions_with_lemma += 1
+        
+        # Calculate question coverage percentage
+        if total_questions > 0:
+            question_coverage = (questions_with_lemma / total_questions) * 100
         else:
-            percentage = 0.0
+            question_coverage = 0.0
         
-        # Only include adjectives with weight below threshold
-        if percentage < ATTENTION_THRESHOLD_ADJECTIVES:
+        # Only include adjectives with coverage below threshold
+        # ATTENTION_THRESHOLD_ADJECTIVES is a fraction (e.g., 0.008), multiply by 100 to match percentage scale
+        question_threshold = ATTENTION_THRESHOLD_ADJECTIVES * 100
+        if question_coverage < question_threshold:
             adjectives_needing_attention.append({
                 'lemme': lemme,
                 'freq': corpus_freq,
-                'usage': question_usage,
-                'percentage': percentage,
+                'questions_with_lemma': questions_with_lemma,
+                'question_coverage': question_coverage,
                 'rank': i + 1
             })
             
@@ -493,37 +566,79 @@ def load_adjectives_from_csv(paths, limit=50, question_text=None):
     
     return adjectives_needing_attention
 
-def analyze_adjectives(paths, question_text, limit=50):
-    """Analyze adjective coverage and return prioritized missing adjectives"""
+def analyze_adjectives(paths, questions, limit=50):
+    """Analyze adjective coverage and return prioritized missing adjectives.
+    
+    This function implements the questions-containing-lemma methodology to solve
+    the expanding denominator problem that affects traditional word frequency analysis.
+    
+    Methodology:
+    - Counts how many questions contain each adjective (not word instances)
+    - Calculates percentage based on total questions (not total words)
+    - Uses ATTENTION_THRESHOLD_ADJECTIVES as question coverage threshold (configurable)
+    - Provides both absolute counts and percentages for clarity
+    
+    Output format: "lemme - freq: X.X (N questions, P%) ✅/❌"
+    This shows corpus frequency, absolute question count, and coverage percentage.
+    """
     print(f"\n{Colors.BOLD}{Colors.BLUE}🔍 ADJECTIVE ANALYSIS{Colors.END}")
     print("=" * 60)
     
     # Load adjectives needing attention
-    missing_adjectives = load_adjectives_from_csv(paths, limit, question_text)
+    missing_adjectives = load_adjectives_from_csv(paths, limit, questions)
     
     if not missing_adjectives:
-        print(f"{Colors.RED}❌ Cannot proceed without adjective data{Colors.END}")
+        print(f"{Colors.FAIL} Cannot proceed without adjective data")
         return []
     
-    print(f"{Colors.CYAN}📊 Analyzing adjectives needing attention (below {ATTENTION_THRESHOLD_ADJECTIVES}% threshold)...{Colors.END}")
+    print(f"{Colors.CYAN}📊 Analyzing adjectives needing attention (below {ATTENTION_THRESHOLD_ADJECTIVES * 100}% question coverage threshold)...{Colors.END}")
     
     # Display prioritized missing adjectives
     print(f"\n{Colors.BOLD}{Colors.MAGENTA}🎯 PRIORITIZED MISSING ADJECTIVES:{Colors.END}")
-    print(f"{Colors.CYAN}   (Sorted by Lexique frequency){Colors.END}")
-    print("   " + "-" * 50)
+    print(f"{Colors.CYAN}   (Sorted by Lexique frequency, showing question coverage){Colors.END}")
+    print("   " + "-" * 65)
     
     for i, adjective in enumerate(missing_adjectives[:30], 1):
-        status = "✅" if adjective['usage'] > 0 else "❌"
-        print(f"   {i:2d}. {adjective['lemme']:15} - freq: {adjective['freq']:6.1f} ({adjective['percentage']:5.3f}%) {status}")
+        status = Colors.SUCCESS if adjective['questions_with_lemma'] > 0 else Colors.FAIL
+        print(f"   {i:2d}. {adjective['lemme']:15} - freq: {adjective['freq']:6.1f} ({adjective['questions_with_lemma']:2d} questions, {adjective['question_coverage']:6.4f}%) {status}")
     
     return missing_adjectives
 
-def load_nouns_from_csv(paths, limit=50, question_text=None):
-    """Load top frequent nouns from CSV file and return those needing attention"""
+def load_nouns_from_csv(paths, limit=50, questions=None):
+    """Load top frequent nouns from CSV file and return those needing attention.
+    
+    Uses the questions-containing-lemma approach instead of word percentage to avoid
+    the expanding denominator problem. This method is more stable and pedagogically
+    meaningful than traditional word frequency analysis.
+    
+    Traditional approach problems:
+    - Denominator = total_words (grows ~25-50 words per question added)
+    - Adding questions dilutes existing lemma percentages
+    - Example: "main" 8/50000 = 0.016% → 8/65000 = 0.012% (appears worse)
+    
+    Questions-containing-lemma approach benefits:
+    - Denominator = total_questions (grows 1 per question added)
+    - Much more stable coverage metrics
+    - Pedagogically meaningful: "% of learning opportunities containing this word"
+    - Example: "main" in 5/200 = 2.5% → 5/300 = 1.67% (still meaningful)
+    
+    Args:
+        paths: Dictionary containing file paths
+        limit: Maximum number of nouns to return
+        questions: List of question objects to analyze
+        
+    Returns:
+        List of noun dictionaries with coverage data including:
+        - lemme: The noun lemma
+        - freq: Corpus frequency from Lexique
+        - questions_with_lemma: Number of questions containing this noun
+        - question_coverage: Percentage of questions containing this noun
+        - rank: Frequency rank in corpus
+    """
     nouns_file = paths['nouns_csv']
     
     if not os.path.exists(nouns_file):
-        print(f"{Colors.RED}❌ Nouns file not found at {nouns_file}{Colors.END}")
+        print(f"{Colors.FAIL} Nouns file not found at {nouns_file}")
         return []
     
     nouns_data = []
@@ -541,16 +656,33 @@ def load_nouns_from_csv(paths, limit=50, question_text=None):
                 })
     
     except Exception as e:
-        print(f"{Colors.RED}❌ Error loading nouns: {e}{Colors.END}")
+        print(f"{Colors.FAIL} Error loading nouns: {e}")
         return []
     
     # Sort by frequency 
     nouns_data.sort(key=lambda x: x['freq'], reverse=True)
     
-    # Calculate usage in question bank
-    words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç]+\b', question_text)
-    word_counts = Counter(words)
-    total_word_instances = sum(word_counts.values())
+    # Pre-extract text from all questions for efficient lookup (avoids O(nouns × questions) complexity)
+    total_questions = len(questions) if questions else 0
+    question_word_sets = []
+    
+    if questions:
+        for q in questions:
+            question_text = ""
+            # Extract text from all fields
+            if 'audioText' in q:
+                question_text += " " + q['audioText']
+            if 'question' in q:
+                question_text += " " + q['question']
+            if 'options' in q:
+                for option in q['options']:
+                    question_text += " " + option
+            if 'explanation' in q:
+                question_text += " " + q['explanation']
+            
+            # Extract words and store as set for fast lookup
+            words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñçœ]+\b', question_text.lower())
+            question_word_sets.append(set(words))
     
     # Find nouns needing attention (below threshold)
     nouns_needing_attention = []
@@ -558,21 +690,29 @@ def load_nouns_from_csv(paths, limit=50, question_text=None):
     for i, noun_data in enumerate(nouns_data):
         lemme = noun_data['lemme']
         corpus_freq = noun_data['freq']
-        question_usage = word_counts.get(lemme, 0)
         
-        # Calculate percentage weight
-        if total_word_instances > 0:
-            percentage = (question_usage / total_word_instances) * 100
+        # Count questions containing this lemma (fast O(1) lookup per question)
+        questions_with_lemma = 0
+        if question_word_sets:
+            for word_set in question_word_sets:
+                if lemme.lower() in word_set:
+                    questions_with_lemma += 1
+        
+        # Calculate question coverage percentage
+        if total_questions > 0:
+            question_coverage = (questions_with_lemma / total_questions) * 100
         else:
-            percentage = 0.0
+            question_coverage = 0.0
         
-        # Only include nouns with weight below threshold
-        if percentage < ATTENTION_THRESHOLD_NOUNS:
+        # Only include nouns with coverage below threshold
+        # ATTENTION_THRESHOLD_NOUNS is a fraction (e.g., 0.02), multiply by 100 to match percentage scale
+        question_threshold = ATTENTION_THRESHOLD_NOUNS * 100
+        if question_coverage < question_threshold:
             nouns_needing_attention.append({
                 'lemme': lemme,
                 'freq': corpus_freq,
-                'usage': question_usage,
-                'percentage': percentage,
+                'questions_with_lemma': questions_with_lemma,
+                'question_coverage': question_coverage,
                 'rank': i + 1
             })
             
@@ -582,28 +722,41 @@ def load_nouns_from_csv(paths, limit=50, question_text=None):
     
     return nouns_needing_attention
 
-def analyze_nouns(paths, question_text, limit=50):
-    """Analyze noun coverage and return prioritized missing nouns"""
+def analyze_nouns(paths, questions, limit=50):
+    """Analyze noun coverage and return prioritized missing nouns.
+    
+    This function implements the questions-containing-lemma methodology to solve
+    the expanding denominator problem that affects traditional word frequency analysis.
+    
+    Methodology:
+    - Counts how many questions contain each noun (not word instances)
+    - Calculates percentage based on total questions (not total words)
+    - Uses ATTENTION_THRESHOLD_NOUNS as question coverage threshold (configurable)
+    - Provides both absolute counts and percentages for clarity
+    
+    Output format: "lemme - freq: X.X (N questions, P%) ✅/❌"
+    This shows corpus frequency, absolute question count, and coverage percentage.
+    """
     print(f"\n{Colors.BOLD}{Colors.BLUE}🔍 NOUN ANALYSIS{Colors.END}")
     print("=" * 60)
     
     # Load nouns needing attention
-    missing_nouns = load_nouns_from_csv(paths, limit, question_text)
+    missing_nouns = load_nouns_from_csv(paths, limit, questions)
     
     if not missing_nouns:
-        print(f"{Colors.RED}❌ Cannot proceed without noun data{Colors.END}")
+        print(f"{Colors.FAIL} Cannot proceed without noun data")
         return []
     
-    print(f"{Colors.CYAN}📊 Analyzing nouns needing attention (below {ATTENTION_THRESHOLD_NOUNS}% threshold)...{Colors.END}")
+    print(f"{Colors.CYAN}📊 Analyzing nouns needing attention (below {ATTENTION_THRESHOLD_NOUNS * 100}% question coverage threshold)...{Colors.END}")
     
     # Display prioritized missing nouns
     print(f"\n{Colors.BOLD}{Colors.MAGENTA}🎯 PRIORITIZED MISSING NOUNS:{Colors.END}")
-    print(f"{Colors.CYAN}   (Sorted by Lexique frequency){Colors.END}")
-    print("   " + "-" * 50)
+    print(f"{Colors.CYAN}   (Sorted by Lexique frequency, showing question coverage){Colors.END}")
+    print("   " + "-" * 65)
     
     for i, noun in enumerate(missing_nouns[:30], 1):
-        status = "✅" if noun['usage'] > 0 else "❌"
-        print(f"   {i:2d}. {noun['lemme']:15} - freq: {noun['freq']:6.1f} ({noun['percentage']:5.3f}%) {status}")
+        status = Colors.SUCCESS if noun['questions_with_lemma'] > 0 else Colors.FAIL
+        print(f"   {i:2d}. {noun['lemme']:15} - freq: {noun['freq']:6.1f} ({noun['questions_with_lemma']:2d} questions, {noun['question_coverage']:4.3f}%) {status}")
     
     return missing_nouns
 
@@ -619,7 +772,7 @@ def analyze_tags(questions, limit=10):
             all_tags.extend(q['tags'])
     
     if not all_tags:
-        print(f"{Colors.RED}❌ No tags found in questions{Colors.END}")
+        print(f"{Colors.FAIL} No tags found in questions")
         return []
     
     # Count tag frequency
@@ -766,7 +919,7 @@ def main():
     questions = load_question_files(paths)
     
     if not questions:
-        print(f"{Colors.RED}❌ No questions found{Colors.END}")
+        print(f"{Colors.FAIL} No questions found")
         return 1
     
     # Extract text for word analysis (with blacklist only for verb analysis)
@@ -780,10 +933,10 @@ def main():
     missing_adverbs = analyze_adverbs(paths, question_text_simple, args.limit)
     
     # Run adjective analysis
-    missing_adjectives = analyze_adjectives(paths, question_text_simple, args.limit)
+    missing_adjectives = analyze_adjectives(paths, questions, args.limit)
     
     # Run noun analysis
-    missing_nouns = analyze_nouns(paths, question_text_simple, args.limit)
+    missing_nouns = analyze_nouns(paths, questions, args.limit)
     
     # Run tag analysis (uses original questions, not text)
     top_tags = analyze_tags(questions, 10)  # Fixed limit of 10 for tags
@@ -791,7 +944,7 @@ def main():
     # Run question statistics analysis
     question_stats = analyze_question_stats(questions)
     
-    print(f"\n{Colors.GREEN}✅ Analysis complete!{Colors.END}")
+    print(f"\n{Colors.SUCCESS} Analysis complete!")
     return 0
 
 if __name__ == "__main__":
