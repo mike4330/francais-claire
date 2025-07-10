@@ -67,6 +67,9 @@ class QuestionCompiler {
                 await this.compileLevel(level, sourceQuestions);
             }
             
+            // Generate sublevel dictionary
+            await this.generateSublevelDictionary(sourceQuestions);
+            
             this.log('info', '🎉 Compilation completed successfully!');
             
         } catch (error) {
@@ -228,6 +231,73 @@ class QuestionCompiler {
         this.log('info', `✅ Level ${level.toUpperCase()}: ${compiledQuestions.length} questions → ${compiledFile}`);
     }
 
+    async generateSublevelDictionary(sourceQuestions) {
+        try {
+            const sublevelMapping = {};
+            const distribution = {};
+            
+            // Initialize sublevel arrays and counters
+            const sublevels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+            sublevels.forEach(sublevel => {
+                sublevelMapping[sublevel] = [];
+                distribution[sublevel] = 0;
+            });
+            
+            // Load legacy questions and merge with source questions
+            const allQuestions = [];
+            
+            // Load from compiled files to get complete question set
+            for (const level of ['a', 'b', 'c']) {
+                const compiledFile = `${this.outputDir}/${this.compiledPrefix}${level}.json`;
+                if (fs.existsSync(compiledFile)) {
+                    try {
+                        const compiledData = JSON.parse(fs.readFileSync(compiledFile, 'utf8'));
+                        allQuestions.push(...compiledData.questions);
+                    } catch (error) {
+                        this.log('warn', `Error reading ${compiledFile}:`, error.message);
+                    }
+                }
+            }
+            
+            // Sort by ID and categorize by sublevel
+            allQuestions.sort((a, b) => a.id - b.id);
+            
+            allQuestions.forEach(question => {
+                const sublevel = question.difficulty;
+                if (sublevelMapping[sublevel]) {
+                    sublevelMapping[sublevel].push(question.id);
+                    distribution[sublevel]++;
+                }
+            });
+            
+            // Create dictionary structure
+            const dictionary = {
+                sublevelMapping,
+                metadata: {
+                    generatedAt: new Date().toISOString(),
+                    totalQuestions: allQuestions.length,
+                    distribution,
+                    sublevels: sublevels.map(sublevel => ({
+                        level: sublevel,
+                        count: distribution[sublevel],
+                        idRange: sublevelMapping[sublevel].length > 0 ? 
+                            `${Math.min(...sublevelMapping[sublevel])}-${Math.max(...sublevelMapping[sublevel])}` : 
+                            'empty'
+                    }))
+                }
+            };
+            
+            // Write dictionary file
+            const dictionaryFile = `${this.outputDir}/sublevel-dictionary.json`;
+            fs.writeFileSync(dictionaryFile, JSON.stringify(dictionary, null, 2));
+            
+            this.log('info', `📚 Generated sublevel dictionary → ${dictionaryFile}`);
+            this.log('info', `📊 Distribution: ${sublevels.map(s => `${s}:${distribution[s]}`).join(', ')}`);
+            
+        } catch (error) {
+            this.log('error', 'Failed to generate sublevel dictionary:', error.message);
+        }
+    }
 
     // Utility method to create a new question template
     createQuestionTemplate(id, difficulty) {

@@ -6,7 +6,7 @@
         "skipped": 1000
     },
     "intelligentSelection": {
-        "recentAnswerThresholdMinutes": 480,
+        "recentAnswerThresholdMinutes": 960,
         "description": "Avoid questions answered within this many minutes",
         "randomization": {
             "enabled": true,
@@ -14,22 +14,36 @@
             "description": "Randomly select from top N candidates in each priority tier"
         }
     },
+    "redis": {
+        "dataRetentionDays": {
+            "individualResponses": 7,
+            "audioCache": 30,
+            "questionStats": 30,
+            "userQuestionStats": 7 
+        }
+    },
+    "imageRotator": {
+        "intervalMinutes": 2,
+        "directory": "res/photos/",
+        "enabled": true,
+        "description": "Time-based background image rotation for question container"
+    },
     "levelRanges": {
         "a": {
             "levels": ["A1", "A2"],
             "minId": 1,
-            "maxId": 251,
+            "maxId": 364,
             "description": "Beginner/Elementary"
         },
         "b": {
             "levels": ["B1", "B2"],
-            "minId": 252,
-            "maxId": 999,
+            "minId": 365,
+            "maxId": 1349,
             "description": "Intermediate/Upper-Intermediate"
         },
         "c": {
             "levels": ["C1", "C2"],
-            "minId": 1000,
+            "minId": 1350,
             "maxId": 5000,
             "description": "Advanced/Proficiency"
         }

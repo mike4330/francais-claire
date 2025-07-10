@@ -426,7 +426,7 @@
     {
       "id": 21,
       "audioText": "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
-      "parentQuestion": 320,
+      "parentQuestion": 1087,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -467,7 +467,7 @@
           "options": [
             "céréales",
             "produits céréaliers",
-            "aliments transformés"
+            "ces aliments"
           ],
           "weights": [
             0.6,
@@ -478,8 +478,8 @@
         "loss_verb": {
           "options": [
             "ont perdu",
-            "ont fait perdre",
-            "se sont vus retirer"
+            "ont vu diminuer",
+            "ont vu baisser"
           ],
           "weights": [
             0.6,
@@ -491,7 +491,7 @@
           "options": [
             "la moitié",
             "50%",
-            "une grande partie"
+            "la moitié exacte"
           ],
           "weights": [
             0.6,
@@ -3188,7 +3188,6 @@
       "tags": [
         "family",
         "visit",
-        "past-tense",
         "agreement"
       ],
       "timeCreated": 1751550100
@@ -5333,16 +5332,16 @@
     {
       "id": 245,
       "audioText": "Je travaille sérieusement pour finir mon projet avant vendredi.",
-      "question": "How does the person work?",
+      "question": "What is the person's approach to completing their project?",
       "questionType": "comprehension",
       "options": [
-        "Quickly",
-        "Seriously",
-        "Happily",
-        "Lazily"
+        "They work casually without much concern for deadlines",
+        "They work with focus and dedication to meet the deadline",
+        "They work quickly but without much attention to detail",
+        "They work only when they feel motivated to do so"
       ],
       "correct": 1,
-      "explanation": "The text states '<em>Je travaille sérieusement pour finir mon projet avant vendredi.</em>' - I work seriously to finish my project before Friday. The adverb 'sérieusement' means seriously, indicating a focused and dedicated approach to work.",
+      "explanation": "The text states '<em>Je travaille sérieusement pour finir mon projet avant vendredi.</em>' - 'I work seriously to finish my project before Friday.' The adverb 'sérieusement' indicates a focused, dedicated approach to work, showing the person is committed to completing the project by the specified deadline.",
       "difficulty": "A2",
       "source": "Workplace conversation",
       "tags": [
@@ -5902,13 +5901,1299 @@
         "emotion"
       ],
       "timeCreated": 1751853190
+    },
+    {
+      "id": 276,
+      "audioText": "Arrêtons cette tour bizarre maintenant.",
+      "question": "What does the speaker want to do with the tower?",
+      "questionType": "comprehension",
+      "options": [
+        "Stop the strange tower now",
+        "Continue building the tower",
+        "Visit the tower later",
+        "Admire the beautiful tower"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Arrêtons cette tour bizarre maintenant</em>' - Let's stop this strange tower now. The imperative form 'arrêtons' (let's stop) expresses a collective decision to halt something related to the 'bizarre' tower.",
+      "difficulty": "A2",
+      "source": "Strategic conjugate + high-frequency noun combination",
+      "tags": [
+        "workplace",
+        "decision-making",
+        "construction"
+      ],
+      "timeCreated": 1735992000
+    },
+    {
+      "id": 277,
+      "audioText": "Les garçons rentrent jolis à la maison.",
+      "question": "What do the boys do at home?",
+      "questionType": "comprehension",
+      "options": [
+        "Return home looking nice",
+        "Stay at home all day",
+        "Leave home early",
+        "Work at home"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les garçons rentrent jolis à la maison</em>' - The boys return home looking nice. 'Rentrent' is the third person plural present form of 'rentrer' (to return), and 'jolis' means 'nice/pretty'.",
+      "difficulty": "A2",
+      "source": "Strategic conjugate + high-frequency noun/adjective combination",
+      "tags": [
+        "family",
+        "daily-life",
+        "appearance"
+      ],
+      "timeCreated": 1735992000
+    },
+    {
+      "id": 278,
+      "audioText": "Vous finissez votre travail avec ce mari gentil.",
+      "question": "Who helps complete the work?",
+      "questionType": "comprehension",
+      "options": [
+        "A kind husband",
+        "A strict boss",
+        "Several colleagues",
+        "A new employee"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous finissez votre travail avec ce mari gentil</em>' - You finish your work with this kind husband. 'Finissez' is the second person plural form of 'finir' (to finish), and 'mari gentil' means 'kind husband'.",
+      "difficulty": "A2",
+      "source": "Strategic conjugate + high-frequency noun/adjective combination",
+      "tags": [
+        "family",
+        "workplace",
+        "cooperation"
+      ],
+      "timeCreated": 1735992000
+    },
+    {
+      "id": 279,
+      "audioText": "Aucun doute : cette façon simple aide notre ami.",
+      "question": "Listening comprehension: What helps our friend?",
+      "questionType": "listening",
+      "options": [
+        "Cette façon simple",
+        "Cette façon complexe",
+        "Cette façon rapide",
+        "Cette façon difficile"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Aucun doute : cette façon simple aide notre ami.</em>' - 'No doubt: this simple way helps our friend.' The correct answer is 'cette façon simple' (this simple way).",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "friendship",
+        "help",
+        "certainty"
+      ],
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 280,
+      "audioText": "Avant-hier, Marie regardait là-dedans. Dorénavant, elle cherche ailleurs.",
+      "question": "Listening: When did Marie look inside?",
+      "questionType": "listening",
+      "options": [
+        "Avant-hier",
+        "Hier soir",
+        "Ce matin",
+        "Demain"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Avant-hier, Marie regardait là-dedans. Dorénavant, elle cherche ailleurs.</em>' - 'The day before yesterday, Marie was looking in there. From now on, she looks elsewhere.' The time reference is clearly 'avant-hier' (the day before yesterday).",
+      "difficulty": "A2",
+      "source": "Strategic adverb targeting",
+      "tags": [
+        "time-reference",
+        "search",
+        "change"
+      ],
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 281,
+      "audioText": "Quoi de plus beau ? Le premier homme est heureux !",
+      "question": "Listening: What is beautiful about the first man?",
+      "questionType": "listening",
+      "options": [
+        "Il est heureux",
+        "Il est pauvre",
+        "Il est vieux",
+        "Il est gros"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Quoi de plus beau ? Le premier homme est heureux !</em>' - 'What is more beautiful? The first man is happy!' The beautiful thing about the first man is that he is happy ('il est heureux').",
+      "difficulty": "A2",
+      "source": "Strategic adjective-tag intersection",
+      "tags": [
+        "gratitude",
+        "happiness",
+        "simplicity"
+      ],
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 282,
+      "audioText": "L'instant de plaisir : regarder le feu ! Cette envie simple apporte la paix.",
+      "question": "Listening: What brings peace?",
+      "questionType": "listening",
+      "options": [
+        "Cette envie simple",
+        "Cette envie grande",
+        "Cette envie forte",
+        "Cette envie nouvelle"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>L'instant de plaisir : regarder le feu ! Cette envie simple apporte la paix.</em>' - 'The moment of pleasure: watching the fire! This simple desire brings peace.' The correct answer is 'cette envie simple' (this simple desire) which brings peace.",
+      "difficulty": "A2",
+      "source": "Strategic noun-tag intersection",
+      "tags": [
+        "rural-life",
+        "simplicity",
+        "peace"
+      ],
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 283,
+      "audioText": "La lumière sur la mer est belle ! Ce truc dans le verre brille.",
+      "question": "Listening: What shines in the glass?",
+      "questionType": "listening",
+      "options": [
+        "Ce truc",
+        "Ce truck",
+        "Ce troc",
+        "Ce trac"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La lumière sur la mer est belle ! Ce truc dans le verre brille.</em>' - 'The light on the sea is beautiful! This thing in the glass shines.' The correct answer is 'ce truc' (this thing) which shines in the glass.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "maritime-beauty",
+        "light",
+        "simple-observation"
+      ],
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 284,
+      "audioText": "Demain, je resterai à la maison pour finir mon projet d'art numérique.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Demain, je resterai à la maison pour finir mon projet d'art numérique.",
+        "Demain, je resterai à la maison pour finir mon projet d'art moderne.",
+        "Demain, je rentrerai à la maison pour finir mon projet d'art numérique.",
+        "Demain, je resterai à la maison pour finir mon projet de art numérique."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Demain, je resterai à la maison pour finir mon projet d'art numérique.</em>' - 'Tomorrow, I will stay home to finish my digital art project.' This listening version tests auditory discrimination between 'resterai' vs 'rentrerai', 'numérique' vs 'moderne', and correct use of 'd'art' vs 'de art'.",
+      "difficulty": "A2",
+      "source": "Listening version of q638",
+      "tags": [
+        "digital-art",
+        "creative-projects",
+        "art",
+        "hobbies"
+      ],
+      "parentQuestion": 638,
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 285,
+      "audioText": "L'air frais de la montagne est vraiment pur.",
+      "question": "What is pure according to the speaker?",
+      "questionType": "comprehension",
+      "options": [
+        "The fresh mountain air",
+        "The mountain water",
+        "The mountain snow",
+        "The mountain flowers"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>L'air frais de la montagne est vraiment pur.</em>' - 'The fresh mountain air is really pure.' The noun 'air' refers to the atmosphere we breathe, and 'frais' means fresh or cool.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "nature",
+        "environment",
+        "mountain"
+      ],
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 286,
+      "audioText": "Le coup de téléphone a changé sa vie complètement.",
+      "question": "What changed his life completely?",
+      "questionType": "comprehension",
+      "options": [
+        "The phone call",
+        "The job interview",
+        "The accident",
+        "The meeting"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le coup de téléphone a changé sa vie complètement.</em>' - 'The phone call changed his life completely.' The noun 'coup' in 'coup de téléphone' means a phone call or telephone ring.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "communication",
+        "life-change",
+        "phone"
+      ],
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 287,
+      "audioText": "Son nom apparaît fréquemment dans les journaux locaux.",
+      "question": "Where does his name appear frequently?",
+      "questionType": "comprehension",
+      "options": [
+        "In local newspapers",
+        "In online forums",
+        "On television shows",
+        "In academic journals"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Son nom apparaît fréquemment dans les journaux locaux.</em>' - 'His name appears frequently in local newspapers.' The noun 'nom' means name, and 'fréquemment' is an adverb meaning frequently or often.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "media",
+        "recognition",
+        "news"
+      ],
+      "timeCreated": 1720713600
+    },
+    {
+      "id": 288,
+      "audioText": "Le jeune homme nettoie relativement sa chambre sale.",
+      "question": "How does the young man clean his dirty room?",
+      "questionType": "comprehension",
+      "options": [
+        "Relatively",
+        "Perfectly",
+        "Quickly",
+        "Carefully"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le jeune homme nettoie relativement sa chambre sale.</em>' - 'The young man cleans his dirty room relatively.' The adjective 'jeune' means young, 'sale' means dirty, and 'relativement' means relatively or to some degree.",
+      "difficulty": "A2",
+      "source": "Strategic adjective targeting",
+      "tags": [
+        "daily-life",
+        "cleanliness",
+        "young-people"
+      ],
+      "timeCreated": 1720714200
+    },
+    {
+      "id": 289,
+      "audioText": "Cette décision juste arrive distraitement au mauvais moment.",
+      "question": "When does this fair decision arrive?",
+      "questionType": "comprehension",
+      "options": [
+        "Distractedly at the wrong time",
+        "Perfectly at the right time",
+        "Quickly during the meeting",
+        "Carefully when needed"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette décision juste arrive distraitement au mauvais moment.</em>' - 'This fair decision arrives distractedly at the wrong time.' The adjective 'juste' means fair/just, 'mauvais' means bad/wrong, and 'distraitement' means distractedly or absent-mindedly.",
+      "difficulty": "A2",
+      "source": "Strategic adjective targeting",
+      "tags": [
+        "fairness",
+        "decision-making",
+        "timing"
+      ],
+      "timeCreated": 1720714200
+    },
+    {
+      "id": 290,
+      "audioText": "Le garçon répond poliment quand il a mal aux dents.",
+      "question": "How does the boy respond when he has a toothache?",
+      "questionType": "comprehension",
+      "options": [
+        "Politely",
+        "Loudly",
+        "Quickly",
+        "Sadly"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le garçon répond poliment quand il a mal aux dents.</em>' - 'The boy responds politely when he has a toothache.' The noun 'garçon' means boy, and 'poliment' means politely or courteously.",
+      "difficulty": "A2",
+      "source": "Strategic adverb targeting",
+      "tags": [
+        "health",
+        "politeness",
+        "young-people"
+      ],
+      "timeCreated": 1720714500
+    },
+    {
+      "id": 291,
+      "audioText": "Il répond sèchement par-ci par-là selon ses rêves impossibles.",
+      "question": "How does he respond here and there according to his impossible dreams?",
+      "questionType": "comprehension",
+      "options": [
+        "Dryly",
+        "Warmly",
+        "Softly",
+        "Clearly"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il répond sèchement par-ci par-là selon ses rêves impossibles.</em>' - 'He responds dryly here and there according to his impossible dreams.' The adverbs 'sèchement' means dryly/curtly and 'par-ci par-là' means here and there. The adjective 'impossibles' means impossible.",
+      "difficulty": "A2",
+      "source": "Strategic adverb targeting",
+      "tags": [
+        "dreams",
+        "communication",
+        "alternatives"
+      ],
+      "timeCreated": 1720714500
+    },
+    {
+      "id": 292,
+      "audioText": "La vache blanche mange facilement ici sous la pluie.",
+      "question": "How does the white cow eat here in the rain?",
+      "questionType": "comprehension",
+      "options": [
+        "Easily",
+        "Slowly",
+        "Quietly",
+        "Carefully"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La vache blanche mange facilement ici sous la pluie.</em>' - 'The white cow eats easily here in the rain.' The noun 'vache' means cow, the adjective 'blanche' means white, and 'facilement' means easily.",
+      "difficulty": "A1",
+      "source": "Strategic animal targeting",
+      "tags": [
+        "animals",
+        "rain",
+        "farm"
+      ],
+      "timeCreated": 1720714800
+    },
+    {
+      "id": 293,
+      "audioText": "La chèvre drôle mange ci et là près du canard dur.",
+      "question": "Where does the funny goat eat near the tough duck?",
+      "questionType": "comprehension",
+      "options": [
+        "Here and there",
+        "Only inside",
+        "Far away",
+        "Very quickly"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La chèvre drôle mange ci et là près du canard dur.</em>' - 'The funny goat eats here and there near the tough duck.' The nouns 'chèvre' means goat and 'canard' means duck, while 'ci et là' means here and there.",
+      "difficulty": "A2",
+      "source": "Strategic animal targeting",
+      "tags": [
+        "animals",
+        "farm",
+        "young-people"
+      ],
+      "timeCreated": 1720714800
+    },
+    {
+      "id": 294,
+      "audioText": "Cette grand-mère cuisine tranquillement dans sa cuisine blanche.",
+      "question": "How does the grandmother cook?",
+      "questionType": "comprehension",
+      "options": [
+        "Quietly and calmly",
+        "Quickly and loudly",
+        "Slowly and angrily",
+        "Carelessly and messily"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette grand-mère cuisine tranquillement dans sa cuisine blanche.</em>' - This grandmother cooks quietly and calmly in her white kitchen. 'Tranquillement' means quietly/calmly, describing her peaceful cooking style, and 'blanche' means white, describing the kitchen.",
+      "difficulty": "A1",
+      "source": "Strategic food targeting",
+      "tags": [
+        "food",
+        "cooking",
+        "preparation"
+      ],
+      "timeCreated": 1720715100
+    },
+    {
+      "id": 295,
+      "audioText": "La carotte claire et la laitue pareille restent drôles dans ce ragoût faux.",
+      "question": "What remains funny in this fake stew?",
+      "questionType": "comprehension",
+      "options": [
+        "The light carrot and similar lettuce",
+        "The expensive vegetables and herbs",
+        "The traditional recipe and spices",
+        "The cooking method and timing"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La carotte claire et la laitue pareille restent drôles dans ce ragoût faux.</em>' - 'The light carrot and similar lettuce remain funny in this fake stew.' The nouns 'carotte' means carrot, 'laitue' means lettuce, and 'ragoût' means stew. The adjectives 'claire' means light/clear, 'pareille' means similar, 'drôles' means funny, and 'faux' means fake.",
+      "difficulty": "A2",
+      "source": "Strategic food targeting",
+      "tags": [
+        "food",
+        "cooking",
+        "vegetables"
+      ],
+      "timeCreated": 1720715100
+    },
+    {
+      "id": 296,
+      "audioText": "Le tournevis clair reste pareil à la scie drôle.",
+      "question": "How does the clear screwdriver remain compared to the funny saw?",
+      "questionType": "comprehension",
+      "options": [
+        "The same",
+        "Different",
+        "Bigger",
+        "Newer"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le tournevis clair reste pareil à la scie drôle.</em>' - 'The clear screwdriver remains the same as the funny saw.' The nouns 'tournevis' means screwdriver and 'scie' means saw. The adjectives 'clair' means clear, 'pareil' means same/similar, and 'drôle' means funny.",
+      "difficulty": "A2",
+      "source": "Strategic tool targeting",
+      "tags": [
+        "tools",
+        "professional-tools",
+        "construction"
+      ],
+      "timeCreated": 1720715400
+    },
+    {
+      "id": 297,
+      "audioText": "La perceuse moindre et l'aspirateur impossible cassent le boulon clair facilement.",
+      "question": "What breaks the clear bolt easily?",
+      "questionType": "comprehension",
+      "options": [
+        "The lesser drill and impossible vacuum cleaner",
+        "The heavy hammer and sharp chisel",
+        "The new screwdriver and old saw",
+        "The electric motor and metal blade"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La perceuse moindre et l'aspirateur impossible cassent le boulon clair facilement.</em>' - 'The lesser drill and impossible vacuum cleaner break the clear bolt easily.' The nouns 'perceuse' means drill, 'aspirateur' means vacuum cleaner, and 'boulon' means bolt. The adjectives 'moindre' means lesser and 'impossible' means impossible.",
+      "difficulty": "A2",
+      "source": "Strategic tool targeting",
+      "tags": [
+        "tools",
+        "household",
+        "maintenance"
+      ],
+      "timeCreated": 1720715400
+    },
+    {
+      "id": 298,
+      "audioText": "Ce truc tranquille reste au bout du lit pareil.",
+      "question": "Where does this quiet thing remain the same?",
+      "questionType": "comprehension",
+      "options": [
+        "At the end of the bed",
+        "Under the table",
+        "Near the window",
+        "Inside the closet"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce truc tranquille reste au bout du lit pareil.</em>' - 'This quiet thing remains the same at the end of the bed.' The nouns 'truc' means thing/stuff and 'lit' means bed, 'bout' means end, and the adjectives 'tranquille' means quiet and 'pareil' means same.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "daily-life",
+        "household",
+        "bedroom"
+      ],
+      "timeCreated": 1720715700
+    },
+    {
+      "id": 299,
+      "audioText": "Cette sorte de général désolé cherche des opportunités de soutien.",
+      "question": "What kind of sorry general is looking for support opportunities?",
+      "questionType": "comprehension",
+      "options": [
+        "This sort",
+        "A new",
+        "An old",
+        "The best"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette sorte de général désolé cherche des opportunités de soutien.</em>' - 'This sort of sorry general is looking for support opportunities.' The nouns 'sorte' means sort/kind and 'général' means general, and the adjective 'désolé' means sorry.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "military",
+        "support",
+        "opportunities"
+      ],
+      "timeCreated": 1720715700
+    },
+    {
+      "id": 300,
+      "audioText": "Cette photo qu'elle a cherchée montre un joli papa avec son gars.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette photo qu'elle a cherchée montre un joli papa avec son gars.",
+        "Cette photo qu'elle a trouvée montre un joli papa avec son gars.",
+        "Cette photo qu'elle a cherchée montre un beau papa avec son gars.",
+        "Cette photo qu'elle a cherchée montre un joli papa avec sa fille."
+      ],
+      "correct": 0,
+      "explanation": "The audio states '<em>Cette photo qu'elle a cherchée montre un joli papa avec son gars.</em>' - 'This photo that she searched for shows a pretty dad with his guy.' The verb 'cherchée' is the past participle of 'chercher' (to search), agreeing with the feminine noun 'photo'.",
+      "difficulty": "A2",
+      "source": "Strategic verb conjugate targeting",
+      "tags": [
+        "family",
+        "photography",
+        "casual-conversation"
+      ],
+      "timeCreated": 1720715700
+    },
+    {
+      "id": 301,
+      "audioText": "En demandant le salut poliment, ce garçon capable montre son âge.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "En demandant le salut poliment, ce garçon capable montre son âge.",
+        "En demandant le salut sèchement, ce garçon capable montre son âge.",
+        "En demandant le salut poliment, ce garçon capable cache son âge.",
+        "En demandant le salut poliment, ce garçon timide montre son âge."
+      ],
+      "correct": 0,
+      "explanation": "The audio states '<em>En demandant le salut poliment, ce garçon capable montre son âge.</em>' - 'By asking for the greeting politely, this capable boy shows his age.' The verb 'demandant' is the present participle of 'demander' (to ask).",
+      "difficulty": "A2",
+      "source": "Strategic verb conjugate targeting",
+      "tags": [
+        "politeness",
+        "youth",
+        "social-interaction"
+      ],
+      "timeCreated": 1720715700
+    },
+    {
+      "id": 302,
+      "audioText": "Je rentrais à la maison le prochain demi-jour avec cette veste bleue.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Je rentrais à la maison le prochain demi-jour avec cette veste bleue.",
+        "Je rentrais à la maison le prochain demi-jour avec cette veste noire.",
+        "Je rentrerai à la maison le prochain demi-jour avec cette veste bleue.",
+        "Je rentrais à la maison le prochain jour avec cette veste bleue."
+      ],
+      "correct": 0,
+      "explanation": "The audio states '<em>Je rentrais à la maison le prochain demi-jour avec cette veste bleue.</em>' - 'I was coming home the next half-day with this blue jacket.' The verb 'rentrais' is the imperfect first person singular of 'rentrer' (to come home).",
+      "difficulty": "A2",
+      "source": "Strategic verb conjugate targeting",
+      "tags": [
+        "home",
+        "clothing",
+        "timing"
+      ],
+      "timeCreated": 1720715700
+    },
+    {
+      "id": 303,
+      "audioText": "Cette drôle de journée commence tristement mais finit bien.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette drôle de journée commence tristement mais finit bien.",
+        "Cette drôle de journée commence tristement mais finit mal.",
+        "Cette belle journée commence tristement mais finit bien.",
+        "Cette drôle de journée commence lentement mais finit bien."
+      ],
+      "correct": 0,
+      "explanation": "The audio states '<em>Cette drôle de journée commence tristement mais finit bien.</em>' - 'This funny day starts sadly but ends well.' The noun 'journée' means day, 'drôle' means funny/strange, and 'tristement' means sadly.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "stories",
+        "emotions",
+        "time"
+      ],
+      "timeCreated": 1720715800
+    },
+    {
+      "id": 304,
+      "audioText": "Ce chemin facile mène à demi vers la forêt.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Ce chemin facile mène à demi vers la forêt.",
+        "Ce chemin facile mène directement vers la forêt.",
+        "Ce chemin difficile mène à demi vers la forêt.",
+        "Ce chemin facile mène à demi vers la maison."
+      ],
+      "correct": 0,
+      "explanation": "The audio states '<em>Ce chemin facile mène à demi vers la forêt.</em>' - 'This easy path leads halfway to the forest.' The noun 'chemin' means path/way, 'facile' means easy, and 'à demi' means halfway.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting",
+      "tags": [
+        "nature",
+        "directions",
+        "travel"
+      ],
+      "timeCreated": 1720715800
+    },
+    {
+      "id": 305,
+      "audioText": "Ma grand-mère est malade mais elle reste gentille.",
+      "question": "What is the grandmother's condition?",
+      "questionType": "comprehension",
+      "options": [
+        "She is sick but remains kind",
+        "She is tired but stays strong",
+        "She is old but still works",
+        "She is sad but stays positive"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma grand-mère est malade mais elle reste gentille</em>' - My grandmother is sick but she remains kind. The adjective 'malade' means sick/ill, and 'gentille' means kind/gentle.",
+      "difficulty": "A2",
+      "source": "Family health conversation",
+      "tags": [
+        "family",
+        "health",
+        "emotions"
+      ],
+      "timeCreated": 1720447200
+    },
+    {
+      "id": 306,
+      "audioText": "Ce garçon comprend tout pendant la journée d'école.",
+      "question": "What does the boy do during the school day?",
+      "questionType": "comprehension",
+      "options": [
+        "He understands everything during the school day",
+        "He sleeps through most of the school day",
+        "He plays outside during the school day",
+        "He argues with teachers during the school day"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce garçon comprend tout pendant la journée d'école.</em>' - This boy understands everything during the school day. The noun 'garçon' means boy, and 'journée' means day/daytime, specifically referring to the duration of the school day.",
+      "difficulty": "A2",
+      "source": "School context",
+      "tags": [
+        "education",
+        "children",
+        "understanding"
+      ],
+      "timeCreated": 1720447200
+    },
+    {
+      "id": 307,
+      "audioText": "La circulation aujourd'hui est pire qu'hier.",
+      "question": "La circulation aujourd'hui est ______ qu'hier.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "pire",
+        "mieux",
+        "plus grand",
+        "moins rapide"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La circulation aujourd'hui est pire qu'hier.</em>' - Today's traffic is worse than yesterday's. 'Pire' is the French comparative adjective for 'worse'. The distractors test antonyms (mieux - better), size (plus grand - bigger), and speed (moins rapide - less fast).",
+      "difficulty": "A2",
+      "source": "Gemini CLI",
+      "tags": [
+        "daily-life",
+        "transportation"
+      ],
+      "timeCreated": 1751998984
+    },
+    {
+      "id": 308,
+      "audioText": "Il faut garder ta chambre propre.",
+      "question": "You must keep your room ____.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "propre",
+        "sale",
+        "grande",
+        "petite"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il faut garder ta chambre propre.</em>' - You must keep your room clean. 'Propre' means clean. The distractors test antonyms and other adjectives: 'sale' (dirty), 'grande' (big), and 'petite' (small).",
+      "difficulty": "A2",
+      "source": "Gemini CLI",
+      "tags": [
+        "daily-life",
+        "home"
+      ],
+      "timeCreated": 1752006732
+    },
+    {
+      "id": 309,
+      "audioText": "Le mec fait du bruit dans le milieu de la nuit.",
+      "question": "What does the guy do in the middle of the night?",
+      "questionType": "comprehension",
+      "options": [
+        "Makes noise",
+        "Sleeps quietly",
+        "Reads books",
+        "Watches television"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le mec fait du bruit dans le milieu de la nuit.</em>' - The guy makes noise in the middle of the night. 'Fait du bruit' means makes noise, 'milieu' means middle, and 'nuit' means night.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting",
+      "tags": [
+        "noise",
+        "night",
+        "disturbance"
+      ],
+      "timeCreated": 1720821600
+    },
+    {
+      "id": 310,
+      "audioText": "Le sang sur la bouche, il dit habituellement salut à dieu avant le jeu.",
+      "question": "When does he usually say hello to God?",
+      "questionType": "comprehension",
+      "options": [
+        "Before the game",
+        "After the game",
+        "During the game",
+        "Never"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le sang sur la bouche, il dit habituellement salut à dieu avant le jeu.</em>' - With blood on his mouth, he usually says hello to God before the game. 'Avant le jeu' means before the game, indicating the timing of his greeting.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting",
+      "tags": [
+        "ritual",
+        "spirituality",
+        "game",
+        "greeting"
+      ],
+      "timeCreated": 1720822400
+    },
+    {
+      "id": 311,
+      "audioText": "Demain, je jouerai avec mes pieds et ils essayent de me suivre.",
+      "question": "When will I play with my feet?",
+      "questionType": "comprehension",
+      "options": [
+        "Tomorrow",
+        "Today",
+        "Yesterday",
+        "Never"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Demain, je jouerai avec mes pieds et ils essayent de me suivre.</em>' - Tomorrow, I will play with my feet and they try to follow me. 'Demain' means tomorrow, indicating when the action will take place.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting",
+      "tags": [
+        "future",
+        "play",
+        "movement",
+        "following"
+      ],
+      "timeCreated": 1720823200
+    },
+    {
+      "id": 312,
+      "audioText": "Tu vivras une minute géniale et vous entendrez mon salut présent.",
+      "question": "What kind of minute will you live?",
+      "questionType": "comprehension",
+      "options": [
+        "A brilliant minute",
+        "A sad minute",
+        "A long minute",
+        "A quiet minute"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu vivras une minute géniale et vous entendrez mon salut présent.</em>' - You will live a brilliant minute and you will hear my present greeting. 'Géniale' means brilliant/fantastic, describing the quality of the minute.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting",
+      "tags": [
+        "future",
+        "experience",
+        "greeting",
+        "positivity"
+      ],
+      "timeCreated": 1720824000
+    },
+    {
+      "id": 313,
+      "audioText": "Ma sœur et son chien font du bruit génial dans cet endroit.",
+      "question": "What kind of noise do the sister and dog make?",
+      "questionType": "comprehension",
+      "options": [
+        "Brilliant noise",
+        "Quiet noise",
+        "Sad noise",
+        "Strange noise"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma sœur et son chien font du bruit génial dans cet endroit.</em>' - My sister and her dog make brilliant noise in this place. 'Génial' means brilliant/fantastic, describing the type of noise they make.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting",
+      "tags": [
+        "family",
+        "pets",
+        "noise",
+        "location"
+      ],
+      "timeCreated": 1720825000
+    },
+    {
+      "id": 314,
+      "audioText": "Tu mettais tes pieds sur le dos du genre de pied qu'on voit.",
+      "question": "Tu ______ tes pieds sur le dos du genre de pied qu'on voit.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "mettais",
+        "mets",
+        "mettrai",
+        "mettes"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'mettais' (2nd person singular imperfect of 'mettre'). The imperfect tense expresses a habitual or ongoing action in the past: 'You used to put your feet on the back of the kind of foot that we see.' The sentence includes '<em>Tu mettais tes pieds sur le dos du genre de pied qu'on voit.</em>' - You used to put your feet on the back of the kind of foot that we see.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting",
+      "tags": [
+        "body-parts",
+        "habits",
+        "positioning",
+        "observation"
+      ],
+      "timeCreated": 1720825200
+    },
+    {
+      "id": 315,
+      "audioText": "Le mec joyeusement salue son papa dans l'endroit.",
+      "question": "Le mec ______ salue son papa dans l'endroit.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "joyeusement",
+        "joyeuse",
+        "joyeux",
+        "joie"
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'joyeusement' (joyfully), an adverb modifying how the guy greets his father. Adverbs in French typically end in -ment and describe how an action is performed. The complete sentence is '<em>Le mec joyeusement salue son papa dans l'endroit.</em>' - The guy joyfully greets his father in the place.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting",
+      "tags": [
+        "family",
+        "greeting",
+        "emotions",
+        "location"
+      ],
+      "timeCreated": 1720825500
+    },
+    {
+      "id": 316,
+      "audioText": "Sophie se lave les mains avant de manger.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Sophie se lave les mains avant de manger.",
+        "Sophie se lave les pieds avant de manger.",
+        "Sophie se lave le visage avant de manger.",
+        "Sophie se lave les cheveux avant de manger."
+      ],
+      "correct": 0,
+      "explanation": "The correct option is 'Sophie se lave les mains avant de manger.' - Sophie washes her hands before eating. This listening exercise tests recognition of 'les mains' (the hands) versus other body parts like 'les pieds' (feet), 'le visage' (face), or 'les cheveux' (hair).",
+      "difficulty": "A2",
+      "source": "Daily hygiene and meal preparation",
+      "tags": [
+        "daily-life",
+        "hygiene",
+        "meals"
+      ],
+      "parentQuestion": 242,
+      "timeCreated": 1720826220
+    },
+    {
+      "id": 317,
+      "audioText": "Le tournevis clair reste pareil à la scie drôle.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Le tournevis clair reste pareil à la scie drôle.",
+        "Le tournevis clair reste pareil à la soie drôle.",
+        "Le tournevis claire reste pareil à la scie drôle.",
+        "Le tournevis clair reste pareille à la scie drôle."
+      ],
+      "correct": 0,
+      "explanation": "The correct option is 'Le tournevis clair reste pareil à la scie drôle.' - The clear screwdriver remains the same as the funny saw. This listening exercise tests recognition of homophones ('scie' vs 'soie') and adjective agreement ('clair' masculine vs 'claire' feminine, 'pareil' vs 'pareille').",
+      "difficulty": "A2",
+      "source": "Strategic tool targeting",
+      "tags": [
+        "tools",
+        "professional-tools",
+        "construction"
+      ],
+      "parentQuestion": 296,
+      "timeCreated": 1720826280
+    },
+    {
+      "id": 318,
+      "audioText": "Tu vivras une minute géniale et vous entendrez mon salut présent.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Tu vivras une minute géniale et vous entendrez mon salut présent.",
+        "Tu vivras une minute géniale et vous entendez mon salut présent.",
+        "Tu vivras une minute géniale et vous entendrez mon salut présente.",
+        "Tu vivra une minute géniale et vous entendrez mon salut présent."
+      ],
+      "correct": 0,
+      "explanation": "The correct option is 'Tu vivras une minute géniale et vous entendrez mon salut présent.' - You will live a brilliant minute and you will hear my present greeting. This listening exercise tests future tense recognition ('vivras' vs 'vivra') and present vs future tense ('entendrez' vs 'entendez').",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting",
+      "tags": [
+        "future",
+        "experience",
+        "greeting",
+        "positivity"
+      ],
+      "parentQuestion": 312,
+      "timeCreated": 1720826340
+    },
+    {
+      "id": 319,
+      "audioText": "Ma mère habituellement fait ses courses le samedi matin.",
+      "question": "Ma mère ______ fait ses courses le samedi matin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "habituellement",
+        "rarement",
+        "jamais",
+        "parfois"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma mère habituellement fait ses courses le samedi matin</em>' - My mother usually does her shopping on Saturday morning. 'Habituellement' means usually or habitually, indicating a regular routine.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting for 'habituellement'",
+      "tags": [
+        "shopping",
+        "routine",
+        "family"
+      ],
+      "timeCreated": 1720867000
+    },
+    {
+      "id": 320,
+      "audioText": "La petite fille timidement demande de l'aide à son professeur.",
+      "question": "La petite fille ______ demande de l'aide à son professeur.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "timidement",
+        "rapidement",
+        "bruyamment",
+        "clairement"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La petite fille timidement demande de l'aide à son professeur</em>' - The little girl timidly asks for help from her teacher. 'Timidement' means timidly or shyly, describing how she asks for help.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary targeting for 'timidement'",
+      "tags": [
+        "education",
+        "children",
+        "behavior"
+      ],
+      "timeCreated": 1720867060
+    },
+    {
+      "id": 321,
+      "audioText": "Elle a une petite blessure sur la lèvre supérieure.",
+      "question": "Where does she have a small injury?",
+      "questionType": "comprehension",
+      "options": [
+        "On her upper lip",
+        "On her lower chin",
+        "On her right cheek",
+        "On her left eyebrow"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle a une petite blessure sur la lèvre supérieure</em>' - She has a small injury on her upper lip. 'Lèvre' means lip, and 'supérieure' means upper.",
+      "difficulty": "A2",
+      "source": "Strategic noun coverage + body parts vocabulary",
+      "tags": [
+        "health",
+        "body",
+        "physical-description"
+      ],
+      "timeCreated": 1752093000
+    },
+    {
+      "id": 322,
+      "audioText": "Le chat blanc dort tranquillement sur le lit.",
+      "question": "What color is the cat?",
+      "questionType": "comprehension",
+      "options": [
+        "White",
+        "Black",
+        "Gray",
+        "Brown"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le chat blanc dort tranquillement sur le lit</em>' - The white cat is sleeping peacefully on the bed. 'Blanc' means white, and 'tranquillement' means peacefully.",
+      "difficulty": "A2",
+      "source": "Strategic adjective coverage reinforcement",
+      "tags": [
+        "animals",
+        "colors",
+        "home"
+      ],
+      "timeCreated": 1752094101
+    },
+    {
+      "id": 323,
+      "audioText": "Elle porte une joli robe pour la fête ce soir.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Elle porte une joli robe pour la fête ce soir",
+        "Elle porte une jolie robe pour la fête ce soir",
+        "Elle porte une joli robe pour la fête demain",
+        "Elle porte une belle robe pour la fête ce soir"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle porte une joli robe pour la fête ce soir</em>' - She is wearing a pretty dress for the party tonight. 'Joli' means pretty or nice, and 'fête' means party or celebration.",
+      "difficulty": "A2",
+      "source": "Strategic adjective coverage reinforcement",
+      "tags": [
+        "clothing",
+        "social-events",
+        "appearance"
+      ],
+      "timeCreated": 1752094101
+    },
+    {
+      "id": 324,
+      "audioText": "Le ciel bleu est magnifique aujourd'hui.",
+      "question": "What is beautiful today?",
+      "questionType": "comprehension",
+      "options": [
+        "The blue sky",
+        "The white clouds",
+        "The green grass",
+        "The red flowers"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le ciel bleu est magnifique aujourd'hui</em>' - The blue sky is beautiful today. 'Bleu' means blue, and 'magnifique' means beautiful or magnificent.",
+      "difficulty": "A2",
+      "source": "Strategic adjective coverage reinforcement",
+      "tags": [
+        "weather",
+        "colors",
+        "nature"
+      ],
+      "timeCreated": 1752094101
+    },
+    {
+      "id": 325,
+      "audioText": "J'ai écrit une lettre importante à ma famille hier soir.",
+      "question": "What did I write to my family last night?",
+      "questionType": "comprehension",
+      "options": [
+        "An important letter",
+        "A short message",
+        "A birthday card",
+        "A shopping list"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>J'ai écrit une lettre importante à ma famille hier soir</em>' - I wrote an important letter to my family last night. 'Lettre' means letter, and 'importante' means important.",
+      "difficulty": "A2",
+      "source": "Strategic noun coverage reinforcement",
+      "tags": [
+        "family",
+        "communication",
+        "writing"
+      ],
+      "timeCreated": 1752094300
+    },
+    {
+      "id": 326,
+      "audioText": "Elle a un cheveu blanc sur la tête maintenant.",
+      "question": "What does she have on her head now?",
+      "questionType": "comprehension",
+      "options": [
+        "A white hair",
+        "A black hat",
+        "A red ribbon",
+        "A blue flower"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle a un cheveu blanc sur la tête maintenant</em>' - She has a white hair on her head now. 'Cheveu' means hair (singular), and 'blanc' means white.",
+      "difficulty": "A2",
+      "source": "Strategic noun threshold reinforcement",
+      "tags": [
+        "appearance",
+        "body",
+        "aging"
+      ],
+      "timeCreated": 1752094700
+    },
+    {
+      "id": 327,
+      "audioText": "Ce genre de film est très populaire chez les jeunes.",
+      "question": "What is very popular among young people?",
+      "questionType": "comprehension",
+      "options": [
+        "This type of film",
+        "This new book",
+        "This old song",
+        "This video game"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce genre de film est très populaire chez les jeunes</em>' - This type of film is very popular among young people. 'Genre' means type or kind, and 'populaire' means popular.",
+      "difficulty": "A2",
+      "source": "Strategic noun threshold reinforcement",
+      "tags": [
+        "entertainment",
+        "movies",
+        "youth"
+      ],
+      "timeCreated": 1752094800
+    },
+    {
+      "id": 328,
+      "audioText": "Salut ! Comment ça va aujourd'hui ?",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Salut ! Comment ça va aujourd'hui ?",
+        "Bonjour ! Comment ça va aujourd'hui ?",
+        "Salut ! Comment allez-vous aujourd'hui ?",
+        "Salut ! Comment ça va demain ?"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Salut ! Comment ça va aujourd'hui ?</em>' - Hi! How are you today? 'Salut' is an informal greeting meaning hi or bye, and 'aujourd'hui' means today.",
+      "difficulty": "A1",
+      "source": "Strategic noun threshold reinforcement",
+      "tags": [
+        "greeting",
+        "casual-conversation",
+        "social-interaction"
+      ],
+      "timeCreated": 1752094900
+    },
+    {
+      "id": 329,
+      "audioText": "J'ai mal au dos après le travail physique.",
+      "question": "What hurts after physical work?",
+      "questionType": "comprehension",
+      "options": [
+        "My back",
+        "My head",
+        "My arms",
+        "My legs"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>J'ai mal au dos après le travail physique</em>' - My back hurts after physical work. 'Dos' means back, and 'mal au dos' means back pain.",
+      "difficulty": "A2",
+      "source": "Strategic noun threshold reinforcement",
+      "tags": [
+        "health",
+        "work",
+        "body"
+      ],
+      "timeCreated": 1752095000
+    },
+    {
+      "id": 330,
+      "audioText": "Mon téléphone ne marche pas bien ce matin.",
+      "question": "What is not working well this morning?",
+      "questionType": "comprehension",
+      "options": [
+        "My telephone",
+        "My computer",
+        "My television",
+        "My radio"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mon téléphone ne marche pas bien ce matin</em>' - My telephone is not working well this morning. 'Téléphone' means telephone, and 'ne marche pas bien' means is not working well.",
+      "difficulty": "A2",
+      "source": "Strategic noun threshold reinforcement",
+      "tags": [
+        "technology",
+        "communication",
+        "daily-life"
+      ],
+      "timeCreated": 1752095100
+    },
+    {
+      "id": 331,
+      "audioText": "Mon parent travaille dans un hôpital chaque jour.",
+      "question": "Where does my parent work every day?",
+      "questionType": "comprehension",
+      "options": [
+        "In a hospital",
+        "In a school",
+        "In a store",
+        "In an office"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mon parent travaille dans un hôpital chaque jour</em>' - My parent works in a hospital every day. 'Parent' means parent, and 'hôpital' means hospital.",
+      "difficulty": "A2",
+      "source": "Strategic noun threshold reinforcement",
+      "tags": [
+        "family",
+        "healthcare",
+        "work"
+      ],
+      "timeCreated": 1752095200
+    },
+    {
+      "id": 332,
+      "audioText": "Ce mec est très sympa et intelligent.",
+      "question": "How is this guy described?",
+      "questionType": "comprehension",
+      "options": [
+        "Very nice and intelligent",
+        "Very tall and strong",
+        "Very young and energetic",
+        "Very serious and quiet"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce mec est très sympa et intelligent</em>' - This guy is very nice and intelligent. 'Mec' is an informal word for guy, 'sympa' means nice, and 'intelligent' means intelligent.",
+      "difficulty": "A2",
+      "source": "Strategic noun threshold reinforcement",
+      "tags": [
+        "personality",
+        "casual-conversation",
+        "description"
+      ],
+      "timeCreated": 1752095300
+    },
+    {
+      "id": 333,
+      "audioText": "Son retour à la maison était très émouvant pour toute la famille.",
+      "question": "What was very moving for the whole family?",
+      "questionType": "comprehension",
+      "options": [
+        "His return home",
+        "His departure from home",
+        "His new job",
+        "His birthday party"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Son retour à la maison était très émouvant pour toute la famille</em>' - His return home was very moving for the whole family. 'Retour' means return, and 'émouvant' means moving or touching.",
+      "difficulty": "A2",
+      "source": "Strategic noun threshold reinforcement",
+      "tags": [
+        "family",
+        "emotions",
+        "homecoming"
+      ],
+      "timeCreated": 1752095400
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-07T02:06:06.604Z",
-    "totalQuestions": 260,
+    "compiledAt": "2025-07-09T22:17:51.511Z",
+    "totalQuestions": 318,
     "level": "A",
-    "idRange": "1-314",
+    "idRange": "1-364",
     "difficulties": [
       "A1",
       "A2"

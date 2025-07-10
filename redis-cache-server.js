@@ -1,18 +1,43 @@
 const WebSocket = require('ws');
 const redis = require('redis');
 const crypto = require('crypto');
+const fs = require('fs');
 
-// Redis client setup
+// Load configuration
+const config = JSON.parse(fs.readFileSync('./config.json', 'utf8'));
+
+// Convert days to seconds for Redis TTL
+const REDIS_TTL = {
+    individualResponses: config.redis.dataRetentionDays.individualResponses * 24 * 60 * 60,
+    audioCache: config.redis.dataRetentionDays.audioCache * 24 * 60 * 60,
+    questionStats: config.redis.dataRetentionDays.questionStats * 24 * 60 * 60,
+    userQuestionStats: config.redis.dataRetentionDays.userQuestionStats * 24 * 60 * 60
+};
+
+// Redis client setup with resilience settings
 const redisClient = redis.createClient({
     socket: {
         host: 'localhost',
-        port: 6379
-    }
+        port: 6379,
+        reconnectOnError: (err) => {
+            console.log('🔄 Redis reconnection attempt:', err.message);
+            // Only reconnect for specific errors
+            if (err.message.includes('READONLY')) {
+                console.error('🚨 READONLY error detected - will not reconnect to avoid replica issues');
+                return false;
+            }
+            return true;
+        }
+    },
+    retryDelayOnFailover: 100,
+    maxRetriesPerRequest: 3,
+    lazyConnect: true  // Don't auto-connect, wait for explicit connect()
 });
 
-// WebSocket server setup
+// WebSocket server setup - LOCAL ONLY for security
 const wss = new WebSocket.Server({ 
     port: 8080,
+    host: '127.0.0.1',  // Bind to localhost only - prevent external access
     perMessageDeflate: false 
 });
 
@@ -35,14 +60,75 @@ redisClient.on('end', () => {
     console.log('❌ Redis connection ended');
 });
 
-// Initialize Redis connection
+// Initialize Redis connection with resilience
 async function initializeRedis() {
     try {
         await redisClient.connect();
         console.log('✅ Redis connection established');
     } catch (error) {
         console.error('❌ Failed to connect to Redis:', error);
-        process.exit(1);
+        console.log('⚠️  Continuing without Redis - degraded functionality');
+        // Don't exit - allow app to run without Redis
+    }
+}
+
+// Safe Redis operation wrapper with local verification
+async function safeRedisWrite(operation, key, value, ttl = null) {
+    try {
+        if (!redisClient.isReady) {
+            console.warn('⚠️  Redis not ready - skipping write operation');
+            return false;
+        }
+        
+        // Perform the write operation
+        if (ttl) {
+            await redisClient.setEx(key, ttl, value);
+        } else {
+            await redisClient.set(key, value);
+        }
+        
+        // Verify write completed locally (protect against remote replica issues)
+        const verification = await redisClient.get(key);
+        if (verification !== value && typeof value === 'string') {
+            throw new Error('Write verification failed - possible replica sync issue');
+        }
+        
+        return true;
+    } catch (error) {
+        console.error(`❌ Redis write failed for ${key}:`, error.message);
+        if (error.message.includes('READONLY')) {
+            console.error('🚨 READONLY error detected - remote replica issue affecting local Redis');
+        }
+        return false;
+    }
+}
+
+// Safe Redis hash operation
+async function safeRedisHash(key, fieldValues, ttl = null) {
+    try {
+        if (!redisClient.isReady) {
+            console.warn('⚠️  Redis not ready - skipping hash operation');
+            return false;
+        }
+        
+        await redisClient.hSet(key, fieldValues);
+        if (ttl) {
+            await redisClient.expire(key, ttl);
+        }
+        
+        // Verify at least one field was written
+        const verification = await redisClient.hExists(key, Object.keys(fieldValues)[0]);
+        if (!verification) {
+            throw new Error('Hash write verification failed');
+        }
+        
+        return true;
+    } catch (error) {
+        console.error(`❌ Redis hash operation failed for ${key}:`, error.message);
+        if (error.message.includes('READONLY')) {
+            console.error('🚨 READONLY error detected - remote replica issue affecting local Redis');
+        }
+        return false;
     }
 }
 
@@ -168,25 +254,27 @@ async function handleCacheCheck(ws, cacheKey) {
 
 async function handleCacheStore(ws, cacheKey, audioData) {
     try {
-        if (!redisClient.isReady) {
-            throw new Error('Redis client not ready');
-        }
-        
-        // Store with expiration (30 days) - using newer Redis API
-        await redisClient.setEx(`audio:${cacheKey}`, 2592000, audioData);
+        // Use safe Redis write with verification
+        const success = await safeRedisWrite('setEx', `audio:${cacheKey}`, audioData, REDIS_TTL.audioCache);
         
         ws.send(JSON.stringify({
             type: 'cache_store_result',
             cacheKey: cacheKey,
-            success: true
+            success: success
         }));
         
-        log(`💾 Cached audio: ${cacheKey}`);
+        if (success) {
+            log(`💾 Cached audio: ${cacheKey}`);
+        } else {
+            log(`⚠️  Audio cache failed (degraded mode): ${cacheKey}`);
+        }
     } catch (error) {
         log('❌ Cache store error:', error.message);
         ws.send(JSON.stringify({
-            type: 'error',
-            message: 'Cache store failed'
+            type: 'cache_store_result',
+            cacheKey: cacheKey,
+            success: false,
+            error: 'Cache store failed - continuing without cache'
         }));
     }
 }
@@ -490,8 +578,8 @@ async function handleTrackDetailedQuestionResponse(ws, data) {
         };
         
         try {
-            // Store individual response (expires after 90 days)
-            await redisClient.setEx(responseKey, 7776000, JSON.stringify(responseData));
+            // Store individual response (expires after configured days)
+            await redisClient.setEx(responseKey, REDIS_TTL.individualResponses, JSON.stringify(responseData));
             log('✅ DETAILED TRACKING - Individual response stored successfully');
         } catch (storeError) {
             throw new Error(`Failed to store individual response: ${storeError.message}`);
@@ -514,24 +602,23 @@ async function handleTrackDetailedQuestionResponse(ws, data) {
         const successRate = Math.round((correctAttempts / totalAttempts) * 100);
         const avgResponseTime = responseTime ? Math.round(totalResponseTime / totalAttempts) : null;
         
-        try {
-            // Update question statistics
-            await redisClient.hSet(questionStatsKey, {
-                total_attempts: totalAttempts.toString(),
-                correct_attempts: correctAttempts.toString(),
-                success_rate: successRate.toString(),
-                total_response_time: totalResponseTime.toString(),
-                avg_response_time: avgResponseTime ? avgResponseTime.toString() : '0',
-                last_answered: timestamp.toString(),
-                difficulty: difficulty || 'unknown',
-                question_type: questionType || 'unknown'
-            });
-            
-            // Set expiration for question stats (1 year)
-            await redisClient.expire(questionStatsKey, 31536000);
-            log('✅ DETAILED TRACKING - Question stats updated successfully');
-        } catch (updateStatsError) {
-            throw new Error(`Failed to update question stats: ${updateStatsError.message}`);
+        // Update question statistics with safe hash operation
+        const statsData = {
+            total_attempts: totalAttempts.toString(),
+            correct_attempts: correctAttempts.toString(),
+            success_rate: successRate.toString(),
+            total_response_time: totalResponseTime.toString(),
+            avg_response_time: avgResponseTime ? avgResponseTime.toString() : '0',
+            last_answered: timestamp.toString(),
+            difficulty: difficulty || 'unknown',
+            question_type: questionType || 'unknown'
+        };
+        
+        const statsUpdated = await safeRedisHash(questionStatsKey, statsData, REDIS_TTL.questionStats);
+        if (statsUpdated) {
+            log('✅ DETAILED TRACKING - Question statistics updated successfully');
+        } else {
+            log('⚠️ DETAILED TRACKING - Question statistics update failed (degraded mode)');
         }
         
         // Step 5: Update per-user, per-question statistics
@@ -558,22 +645,22 @@ async function handleTrackDetailedQuestionResponse(ws, data) {
             newSuccessRate: userSuccessRate + '%'
         });
         
-        try {
-            await redisClient.hSet(userQuestionKey, {
-                attempts: userTotalAttempts.toString(),
-                correct: userCorrectAttempts.toString(),
-                success_rate: userSuccessRate.toString(),
-                last_attempted: timestamp.toString(),
-                question_id: numericQuestionId.toString(),
-                difficulty: difficulty || 'unknown',
-                question_type: questionType || 'unknown'
-            });
-            
-            // Set expiration for user question stats (1 year)
-            await redisClient.expire(userQuestionKey, 31536000);
+        // Update user question statistics with safe hash operation
+        const userStatsData = {
+            attempts: userTotalAttempts.toString(),
+            correct: userCorrectAttempts.toString(),
+            success_rate: userSuccessRate.toString(),
+            last_attempted: timestamp.toString(),
+            question_id: numericQuestionId.toString(),
+            difficulty: difficulty || 'unknown',
+            question_type: questionType || 'unknown'
+        };
+        
+        const userStatsUpdated = await safeRedisHash(userQuestionKey, userStatsData, REDIS_TTL.userQuestionStats);
+        if (userStatsUpdated) {
             log('✅ DETAILED TRACKING - User question stats updated successfully');
-        } catch (updateUserStatsError) {
-            throw new Error(`Failed to update user question stats: ${updateUserStatsError.message}`);
+        } else {
+            log('⚠️ DETAILED TRACKING - User question stats update failed (degraded mode)');
         }
         
         log('💾 DETAILED TRACKING - Saved user question stats to Redis');
