@@ -1,0 +1,25 @@
+{
+  "id": 1856,
+  "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
+  "question": "What are the consequences of this economic war according to the text?",
+  "questionType": "comprehension",
+  "options": [
+    "It has major geopolitical repercussions that transform global balance and redefine traditional strategic alliances",
+    "It primarily affects bilateral trade relationships without broader international impact",
+    "It strengthens existing military partnerships and reinforces current power structures",
+    "It leads to increased cooperation and diplomatic dialogue between the nations"
+  ],
+  "correct": 0,
+  "explanation": "The text describes an economic 'guerre' (war) that has 'répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles' (major geopolitical repercussions that transform the global balance and redefine traditional strategic alliances).",
+  "difficulty": "C1",
+  "source": "International Relations Analysis",
+  "tags": [
+    "politics",
+    "international-relations",
+    "economics",
+    "geopolitics",
+    "global-affairs",
+    "strategic-alliances"
+  ],
+  "timeCreated": 1751326285
+}

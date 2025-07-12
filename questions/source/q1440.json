@@ -1,0 +1,18 @@
+{
+    "id": 1440,
+    "audioText": "Tu tiendras le microphone près de ta jambe pour modifier le timbre de ta voix pendant l'enregistrement.",
+    "question": "Where will you hold the microphone to modify your voice?",
+    "questionType": "comprehension",
+    "options": [
+        "Near your leg to change the timber of your voice during recording",
+        "Close to your chest to amplify the sound projection naturally",
+        "Behind your back to create an echo effect in the studio",
+        "Above your head to capture the room's acoustic characteristics"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Near your leg to change the timber of your voice during recording'. The text states '<em>Tu tiendras le microphone près de ta jambe pour modifier le timbre de ta voix pendant l'enregistrement</em>' - You will hold the microphone near your leg to modify the timber of your voice during recording. 'Tiendras' is the future form of 'tenir' (to hold), 'jambe' means 'leg', and 'voix' means 'voice'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - audio recording context",
+    "tags": ["voice", "recording", "audio-production"],
+    "timeCreated": 1720821060
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1411,
+    "audioText": "Cette espèce d'oiseau rural vit en mangeant principalement des graines dans la campagne environnante.",
+    "question": "How does this species of rural bird live?",
+    "questionType": "comprehension",
+    "options": [
+        "By eating mainly seeds in the surrounding countryside",
+        "By hunting small insects in urban gardens",
+        "By fishing for worms in nearby rivers",
+        "By gathering fruits from cultivated orchards"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'By eating mainly seeds in the surrounding countryside'. The text states '<em>Cette espèce d'oiseau rural vit en mangeant principalement des graines dans la campagne environnante</em>' - This species of rural bird lives by eating mainly seeds in the surrounding countryside. 'Espèce' means 'species', 'mangeant' is the present participle of 'manger' (to eat), and the text describes countryside life.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - rural wildlife context",
+    "tags": ["countryside", "animal-behavior", "nature"],
+    "timeCreated": 1720818180
+}

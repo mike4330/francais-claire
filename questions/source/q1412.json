@@ -1,0 +1,18 @@
+{
+    "id": 1412,
+    "audioText": "Les enfants finiront par prendre l'habitude de manger lentement pendant les repas familiaux.",
+    "question": "What will the children end up doing?",
+    "questionType": "comprehension",
+    "options": [
+        "Getting into the habit of eating slowly during family meals",
+        "Learning to cook traditional dishes for special occasions",
+        "Helping to prepare breakfast every morning before school",
+        "Choosing their own food preferences without guidance"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Getting into the habit of eating slowly during family meals'. The text states '<em>Les enfants finiront par prendre l'habitude de manger lentement pendant les repas familiaux</em>' - The children will end up getting into the habit of eating slowly during family meals. 'Finiront' is the future tense of 'finir' (to finish), 'habitude' means 'habit', and 'manger' means 'to eat'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - family eating context",
+    "tags": ["eating", "family", "habits"],
+    "timeCreated": 1720818240
+}

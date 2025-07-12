@@ -1,0 +1,18 @@
+{
+    "id": 1437,
+    "audioText": "Les soldats de l'armée paieront leurs cours en ligne pour obtenir des diplômes universitaires.",
+    "question": "What will the army soldiers pay for?",
+    "questionType": "comprehension",
+    "options": [
+        "Their online courses to obtain university degrees",
+        "Their advanced military training equipment and materials",
+        "Their family housing accommodation on the military base",
+        "Their medical insurance coverage for active duty personnel"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Their online courses to obtain university degrees'. The text states '<em>Les soldats de l'armée paieront leurs cours en ligne pour obtenir des diplômes universitaires</em>' - The army soldiers will pay for their online courses to obtain university degrees. 'Paieront' is the future form of 'payer' (to pay), and 'armée' means 'army'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - military education context",
+    "tags": ["online-learning", "military", "education"],
+    "timeCreated": 1720820880
+}

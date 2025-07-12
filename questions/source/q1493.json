@@ -1,0 +1,22 @@
+{
+  "id": 1493,
+  "audioText": "Les lapins suivent un régime alimentaire composé principalement de légumes du jardin.",
+  "question": "What do the rabbits follow?",
+  "questionType": "comprehension",
+  "options": [
+    "A diet mainly composed of garden vegetables",
+    "A strict exercise routine in the garden",
+    "A daily schedule for garden maintenance",
+    "A path through the garden every morning"
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'suivent' - the present form of 'suivre' (to follow) for ils/elles. 'Les lapins suivent un régime alimentaire' means 'the rabbits follow a diet'. The diet consists mainly of garden vegetables.",
+  "difficulty": "B1",
+  "source": "Animal diet information",
+  "tags": [
+    "animals",
+    "gardening",
+    "diet"
+  ],
+  "timeCreated": 1720108800
+}

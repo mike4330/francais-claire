@@ -1,0 +1,18 @@
+{
+    "id": 1454,
+    "audioText": "Tu sentis une atmosphère tendue sur la scène culinaire quand les chefs des restaurants rivaux se rencontrèrent.",
+    "question": "When did you sense a tense atmosphere on the culinary scene?",
+    "questionType": "comprehension",
+    "options": [
+        "When rival restaurant chefs met",
+        "During the final judging of the cooking competition",
+        "When the food critics arrived for their reviews",
+        "During the preparation of the signature dishes"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'When rival restaurant chefs met'. The text states '<em>Tu sentis une atmosphère tendue sur la scène culinaire quand les chefs des restaurants rivaux se rencontrèrent</em>' - You sensed a tense atmosphere on the culinary scene when rival restaurant chefs met. 'Sentis' is the second-person singular past simple of 'sentir' (to sense), and 'scène' means 'scene'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - restaurant competition context",
+    "tags": ["restaurants", "culinary", "competition"],
+    "timeCreated": 1720821900
+}

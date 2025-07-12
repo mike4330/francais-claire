@@ -1,0 +1,18 @@
+{
+    "id": 1429,
+    "audioText": "Les acteurs travaillaient dur sur cette scène difficile pour maintenir la qualité artistique exceptionnelle du spectacle.",
+    "question": "Why were the actors working hard on this difficult scene?",
+    "questionType": "comprehension",
+    "options": [
+        "To maintain the exceptional artistic quality of the show",
+        "To impress the theater critics who were reviewing tonight",
+        "To finish rehearsals before the deadline next week",
+        "To prepare for the auditions with the famous director"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'To maintain the exceptional artistic quality of the show'. The text states '<em>Les acteurs travaillaient dur sur cette scène difficile pour maintenir la qualité artistique exceptionnelle du spectacle</em>' - The actors were working hard on this difficult scene to maintain the exceptional artistic quality of the show. 'Travaillaient' is the imperfect form of 'travailler' (to work), 'scène' means 'scene', and 'qualité' means 'quality'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - theatrical quality context",
+    "tags": ["quality", "theater", "performance"],
+    "timeCreated": 1720820400
+}

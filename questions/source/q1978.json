@@ -1,0 +1,23 @@
+{
+  "id": 1978,
+  "audioText": "Ce mec extraordinaire a découvert une espèce inconnue lors de son retour d'une mission scientifique complexe, révolutionnant ainsi notre compréhension du prix de la biodiversité dans les écosystèmes fragiles.",
+  "question": "What did this extraordinary man discover upon his return that revolutionized our understanding?",
+  "questionType": "comprehension",
+  "options": [
+    "An unknown species that changed our understanding of biodiversity's value in fragile ecosystems",
+    "A new method for preserving endangered habitats in remote locations",
+    "Evidence of climate change impact on arctic wildlife populations",
+    "Innovative techniques for sustainable resource management in developing regions"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce mec extraordinaire a découvert une espèce inconnue lors de son retour d'une mission scientifique complexe, révolutionnant ainsi notre compréhension du prix de la biodiversité dans les écosystèmes fragiles</em>' - This extraordinary man discovered an unknown species upon his return from a complex scientific mission, thus revolutionizing our understanding of the value of biodiversity in fragile ecosystems. 'Mec' means guy/man, 'espèce' means species, 'retour' means return, and 'prix' means value/price.",
+  "difficulty": "C1",
+  "source": "Strategic noun targeting: mec, espèce, retour, prix",
+  "tags": [
+    "science",
+    "discovery",
+    "biodiversity",
+    "research"
+  ],
+  "timeCreated": 1752112300
+}

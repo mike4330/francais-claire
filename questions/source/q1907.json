@@ -1,0 +1,22 @@
+{
+  "id": 1907,
+  "audioText": "Le bureau du directeur se trouve au-dessus de la bibliothèque dans ce bâtiment administratif moderne.",
+  "question": "Le bureau du directeur se trouve ______ de la bibliothèque dans ce bâtiment administratif moderne.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "au-dessus",
+    "au-dessous",
+    "à côté",
+    "en face"
+  ],
+  "correct": 0,
+  "explanation": "The adverb 'au-dessus' means 'above' or 'over'. It indicates that the director's office is located on a floor above the library in this modern administrative building.",
+  "difficulty": "C1",
+  "source": "Office building description",
+  "tags": [
+    "workplace",
+    "building",
+    "location"
+  ],
+  "timeCreated": 1720076580
+}

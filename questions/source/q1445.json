@@ -1,0 +1,18 @@
+{
+    "id": 1445,
+    "audioText": "Conformément aux prédictions du psychologue, sa motivation tombait chaque fois qu'il échouait à ses examens.",
+    "question": "According to the psychologist's predictions, when did his motivation fall?",
+    "questionType": "comprehension",
+    "options": [
+        "Every time he failed his exams",
+        "When he received criticism from his teachers",
+        "After spending too many hours studying alone",
+        "During periods of intense academic pressure"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Every time he failed his exams'. The text states '<em>Conformément aux prédictions du psychologue, sa motivation tombait chaque fois qu'il échouait à ses examens</em>' - According to the psychologist's predictions, his motivation fell every time he failed his exams. 'Tombait' is the imperfect form of 'tomber' (to fall), and 'conformément' means 'in accordance with'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - academic motivation context",
+    "tags": ["motivation", "psychology", "education"],
+    "timeCreated": 1720821360
+}

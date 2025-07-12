@@ -1,0 +1,18 @@
+{
+    "id": 1416,
+    "audioText": "Tu payes l'abonnement au journal agricole qui traite des techniques de récolte modernes.",
+    "question": "What do you pay for?",
+    "questionType": "comprehension",
+    "options": [
+        "A subscription to the agricultural journal about modern harvesting techniques",
+        "A membership to the gardening club for weekend activities",
+        "A monthly fee for the cooking magazine with seasonal recipes",
+        "An annual pass to the farmers market for fresh produce"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'A subscription to the agricultural journal about modern harvesting techniques'. The text states '<em>Tu payes l'abonnement au journal agricole qui traite des techniques de récolte modernes</em>' - You pay for the subscription to the agricultural journal that deals with modern harvesting techniques. 'Payes' is the second-person singular present of 'payer' (to pay), 'journal' means 'newspaper/journal', and 'récolte' refers to harvesting.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - agricultural journalism context",
+    "tags": ["harvesting", "agriculture", "media"],
+    "timeCreated": 1720818480
+}

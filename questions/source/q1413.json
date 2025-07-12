@@ -1,0 +1,18 @@
+{
+    "id": 1413,
+    "audioText": "Je changerai complètement l'intérieur de cette maison avant de la mettre en vente sur le marché immobilier.",
+    "question": "What will I change before putting the house on the market?",
+    "questionType": "comprehension",
+    "options": [
+        "Completely change the interior of this house",
+        "Partially renovate the exterior garden area",
+        "Slightly modify the basement storage space",
+        "Entirely rebuild the garage and driveway"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Completely change the interior of this house'. The text states '<em>Je changerai complètement l'intérieur de cette maison avant de la mettre en vente sur le marché immobilier</em>' - I will completely change the interior of this house before putting it on sale on the real estate market. 'Changerai' is the future tense of 'changer' (to change), 'intérieur' means 'interior', and the text refers to real estate sales.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - real estate context",
+    "tags": ["real-estate", "renovation", "business"],
+    "timeCreated": 1720818300
+}

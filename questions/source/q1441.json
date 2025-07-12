@@ -1,0 +1,18 @@
+{
+    "id": 1441,
+    "audioText": "Ces légumes biologiques tombent sacrément vite quand ils sont trop mûrs pour la vente.",
+    "question": "What happens to these organic vegetables when they are too ripe for sale?",
+    "questionType": "comprehension",
+    "options": [
+        "They fall incredibly fast",
+        "They lose their nutritional value completely",
+        "They develop an unpleasant bitter taste",
+        "They attract harmful insects and pests"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'They fall incredibly fast'. The text states '<em>Ces légumes biologiques tombent sacrément vite quand ils sont trop mûrs pour la vente</em>' - These organic vegetables fall incredibly fast when they are too ripe for sale. 'Tombent' is the third-person plural present of 'tomber' (to fall), and 'sacrément' is an intensifying adverb meaning 'incredibly/really'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - organic farming context",
+    "tags": ["organic-farming", "agriculture", "food"],
+    "timeCreated": 1720821120
+}

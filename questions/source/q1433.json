@@ -1,0 +1,18 @@
+{
+    "id": 1433,
+    "audioText": "Après cette série de malchances, toutes mes économies sont perdues et je dois vendre mon cheval.",
+    "question": "What does the speaker have to do after this series of bad luck?",
+    "questionType": "comprehension",
+    "options": [
+        "Sell their horse because all savings are lost",
+        "Move to a smaller apartment to reduce monthly expenses",
+        "Find a second job to supplement their current income",
+        "Ask family members for temporary financial assistance"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Sell their horse because all savings are lost'. The text states '<em>Après cette série de malchances, toutes mes économies sont perdues et je dois vendre mon cheval</em>' - After this series of bad luck, all my savings are lost and I have to sell my horse. 'Perdues' is the feminine past participle of 'perdre' (to lose), and 'cheval' means 'horse'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - financial hardship context",
+    "tags": ["bad-luck", "finance", "animals"],
+    "timeCreated": 1720820640
+}

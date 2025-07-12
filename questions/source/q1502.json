@@ -1,18 +1,18 @@
 {
     "id": 1502,
-    "audioText": "Le patron lui a parlé rudement après cette erreur grave, exprimant clairement sa déception profonde.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
+    "audioText": "Tu joueras un rôle important dans l'échange interculturel quand tu visiteras ce village traditionnel avec les étudiants internationaux.",
+    "question": "What role will you play when visiting this traditional village with international students?",
+    "questionType": "comprehension",
     "options": [
-        "Le patron lui a parlé rudement après cette erreur grave, exprimant clairement sa déception profonde.",
-        "Le patron lui a parlé rudement après cette erreur grave, exprimant clairement sa déception profond.",
-        "Le patron lui a parlé rudement après cette erreur grosse, exprimant clairement sa déception profonde.",
-        "Le patron lui a parlé raidement après cette erreur grave, exprimant clairement sa déception profonde."
+        "An important role in intercultural exchange",
+        "A guide explaining local customs and traditions to visitors",
+        "A translator helping with communication barriers effectively",
+        "A coordinator organizing educational activities for the group"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le patron lui a parlé rudement après cette erreur grave, exprimant clairement sa déception profonde.</em>' - 'The boss spoke to him harshly after this serious mistake, clearly expressing his deep disappointment.' This tests the high-priority adverb 'rudement' (harshly/roughly) in a workplace discipline context.",
-    "difficulty": "C1",
-    "source": "Workplace discipline and professional criticism",
-    "tags": ["workplace", "criticism", "discipline", "disappointment"],
-    "timeCreated": 1736347500
+    "explanation": "The correct answer is 'An important role in intercultural exchange'. The text states '<em>Tu joueras un rôle important dans l'échange interculturel quand tu visiteras ce village traditionnel avec les étudiants internationaux</em>' - You will play an important role in intercultural exchange when you visit this traditional village with international students. 'Joueras' is the future form of 'jouer' (to play), and 'village' means 'village'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - cultural exchange context",
+    "tags": ["intercultural-exchange", "education", "tradition"],
+    "timeCreated": 1720822440
 }

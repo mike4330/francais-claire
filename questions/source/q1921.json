@@ -1,0 +1,24 @@
+{
+  "id": 1921,
+  "audioText": "Les soldats morts pendant cette bataille historique sont commémorés chaque année par la nation entière.",
+  "question": "Les soldats ______ pendant cette bataille historique sont commémorés chaque année par la nation entière.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "morts",
+    "mourants",
+    "mortels",
+    "mourront"
+  ],
+  "correct": 0,
+  "explanation": "The text contains 'Les soldats morts pendant cette bataille historique sont commémorés chaque année par la nation entière' - The soldiers who died during this historic battle are commemorated every year by the entire nation. 'Morts' is the plural past participle of 'mourir' (to die), used as an adjective.",
+  "difficulty": "C1",
+  "source": "Military history and commemoration",
+  "tags": [
+    "history",
+    "military",
+    "commemoration",
+    "sacrifice",
+    "national-memory"
+  ],
+  "timeCreated": 1736067400
+}

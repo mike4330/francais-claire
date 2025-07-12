@@ -1,0 +1,22 @@
+{
+  "id": 1943,
+  "audioText": "Certes, cette solution n'est pas parfaite, mais elle présente néanmoins des avantages considérables.",
+  "question": "What is the speaker's attitude toward the solution?",
+  "questionType": "comprehension",
+  "options": [
+    "They acknowledge it's not perfect but recognize its considerable advantages",
+    "They completely reject the solution because it's imperfect",
+    "They believe the solution is absolutely perfect",
+    "They are uncertain about whether the solution has any benefits"
+  ],
+  "correct": 0,
+  "explanation": "'Certes' means 'certainly' or 'admittedly' and is used to acknowledge a point before presenting a counterargument. The speaker admits the solution isn't perfect but then uses 'néanmoins' (nevertheless) to highlight its considerable advantages.",
+  "difficulty": "C1",
+  "source": "Strategic decision analysis",
+  "tags": [
+    "business",
+    "decision-making",
+    "analysis"
+  ],
+  "timeCreated": 1720077000
+}

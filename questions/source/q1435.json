@@ -1,0 +1,18 @@
+{
+    "id": 1435,
+    "audioText": "Quand je vivais aux États-Unis, je perdais souvent l'appétit à cause de la faim émotionnelle.",
+    "question": "What did the speaker often lose when living in the United States?",
+    "questionType": "comprehension",
+    "options": [
+        "Their appetite due to emotional hunger",
+        "Their motivation to exercise regularly and stay healthy",
+        "Their ability to sleep peacefully through the night",
+        "Their confidence to speak in public social situations"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Their appetite due to emotional hunger'. The text states '<em>Quand je vivais aux États-Unis, je perdais souvent l'appétit à cause de la faim émotionnelle</em>' - When I was living in the United States, I often lost my appetite due to emotional hunger. 'Perdais' is the imperfect form of 'perdre' (to lose), and 'faim' means 'hunger'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - American experience context",
+    "tags": ["us", "emotions", "health"],
+    "timeCreated": 1720820760
+}

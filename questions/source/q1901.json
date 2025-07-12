@@ -1,0 +1,22 @@
+{
+  "id": 1901,
+  "audioText": "Les manifestants se sont rassemblés là-bas près du monument pour exprimer leur mécontentement concernant les nouvelles politiques gouvernementales.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les manifestants se sont rassemblés là-bas près du monument pour exprimer leur mécontentement concernant les nouvelles politiques gouvernementales.",
+    "Les manifestants se sont rassemblés là-haut près du monument pour exprimer leur mécontentement concernant les nouvelles politiques gouvernementales.",
+    "Les manifestants se sont rassemblés là-bas près du monument pour exprimer leur contentement concernant les nouvelles politiques gouvernementales.",
+    "Les manifestants se sont rassemblés là-bas près du bâtiment pour exprimer leur mécontentement concernant les nouvelles politiques gouvernementales."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'là-bas' (over there) to indicate where the protesters gathered. The other options change key details: 'là-haut' (up there), 'contentement' (satisfaction instead of dissatisfaction), or 'bâtiment' (building instead of monument).",
+  "difficulty": "C1",
+  "source": "News report about political demonstration",
+  "tags": [
+    "politics",
+    "news",
+    "demonstration"
+  ],
+  "timeCreated": 1720076400
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1840,
+  "audioText": "Attendez juste une minute, s'il vous plaît, je dois terminer cette tâche importante avant de partir.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Attendez juste une minute, s'il vous plaît, je dois terminer cette tâche importante avant de partir.",
+    "Attendez juste une minute, s'il vous plait, je dois terminer cette tâche importante avant de partir.",
+    "Attendez juste un minute, s'il vous plaît, je dois terminer cette tâche importante avant de partir.",
+    "Attendez juste une minute, s'il vous plaît, je dois terminer cette tâche importante avant de partez."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Attendez juste une minute, s'il vous plaît, je dois terminer cette tâche importante avant de partir.</em>' - 'Wait just a minute, please, I need to finish this important task before leaving.' This tests the high-frequency noun 'minute' (minute) in a time management context.",
+  "difficulty": "A2",
+  "source": "Time management and polite requests",
+  "tags": [
+    "time",
+    "politeness",
+    "workplace",
+    "tasks"
+  ],
+  "timeCreated": 1736347800
+}

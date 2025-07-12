@@ -1,0 +1,18 @@
+{
+    "id": 1408,
+    "audioText": "Tu n'oublieras aucunement cette décision idiote que tu as prise hier soir.",
+    "question": "What won't you forget?",
+    "questionType": "comprehension",
+    "options": [
+        "The stupid decision you made last night",
+        "The smart choice you avoided yesterday",
+        "The brilliant idea you had this morning",
+        "The careful plan you developed last week"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'The stupid decision you made last night'. The text states '<em>Tu n'oublieras aucunement cette décision idiote que tu as prise hier soir</em>' - You will not forget at all this stupid decision that you made last night. 'Aucunement' means 'not at all/in no way', 'oublieras' is the future tense of 'oublier' (to forget), and 'idiote' (stupid) agrees with the feminine noun 'décision'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - personal regret context",
+    "tags": ["emotions", "regret", "memory"],
+    "timeCreated": 1720818000
+}

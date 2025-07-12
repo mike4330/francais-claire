@@ -1,0 +1,22 @@
+{
+  "id": 1944,
+  "audioText": "Si vous continuez ainsi, tant pis pour les conséquences que cela pourrait engendrer.",
+  "question": "What is the speaker's attitude in this statement?",
+  "questionType": "comprehension",
+  "options": [
+    "They're expressing indifference to potential negative consequences",
+    "They're worried about the potential consequences",
+    "They're trying to prevent any consequences from occurring",
+    "They're promising to help with any consequences"
+  ],
+  "correct": 0,
+  "explanation": "'Tant pis' is an expression meaning 'too bad' or 'so much the worse'. The speaker is expressing a resigned or indifferent attitude - if you continue this way, too bad for whatever consequences might result. They're washing their hands of responsibility.",
+  "difficulty": "C1",
+  "source": "Warning with resignation",
+  "tags": [
+    "consequences",
+    "resignation",
+    "warning"
+  ],
+  "timeCreated": 1720077200
+}

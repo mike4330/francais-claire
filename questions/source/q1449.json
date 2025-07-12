@@ -1,0 +1,18 @@
+{
+    "id": 1449,
+    "audioText": "Vous travailliez obscurément sur les questions de gouvernance d'entreprise sans révéler vos véritables intentions aux actionnaires.",
+    "question": "How were you working on corporate governance issues?",
+    "questionType": "comprehension",
+    "options": [
+        "Obscurely without revealing your true intentions to shareholders",
+        "Transparently by providing detailed reports to all stakeholders",
+        "Collaboratively with external consultants and legal experts",
+        "Systematically following established industry best practices"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Obscurely without revealing your true intentions to shareholders'. The text states '<em>Vous travailliez obscurément sur les questions de gouvernance d'entreprise sans révéler vos véritables intentions aux actionnaires</em>' - You were working obscurely on corporate governance issues without revealing your true intentions to shareholders. 'Travailliez' is the second-person plural imperfect of 'travailler' (to work), and 'obscurément' means 'obscurely'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - corporate governance context",
+    "tags": ["corporate-governance", "business", "transparency"],
+    "timeCreated": 1720821600
+}

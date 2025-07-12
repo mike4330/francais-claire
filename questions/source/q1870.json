@@ -1,0 +1,24 @@
+{
+  "id": 1870,
+  "type": "fill-in-the-blank",
+  "question": "Les chasseurs _______ le gibier.",
+  "audioText": "Les chasseurs tuent le gibier.",
+  "answer": "tuent",
+  "hint": "Present tense of 'tuer'",
+  "level": "c",
+  "tags": [
+    "hunting",
+    "animals"
+  ],
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "tuent",
+    "tues",
+    "tue",
+    "tuons"
+  ],
+  "correct": 0,
+  "explanation": "'Tuent' is the present tense of 'tuer' for 'ils/elles'.",
+  "difficulty": "C1",
+  "source": "Gemini CLI"
+}

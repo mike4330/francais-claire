@@ -1,0 +1,18 @@
+{
+    "id": 1444,
+    "audioText": "Vous tombez nerveusement dans les pièges de la politique d'entreprise lors des réunions stratégiques.",
+    "question": "What do you nervously fall into during strategic meetings?",
+    "questionType": "comprehension",
+    "options": [
+        "The traps of corporate politics",
+        "The pressure of making quick decisions under scrutiny",
+        "The habit of interrupting colleagues during presentations",
+        "The temptation to avoid difficult controversial topics"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'The traps of corporate politics'. The text states '<em>Vous tombez nerveusement dans les pièges de la politique d'entreprise lors des réunions stratégiques</em>' - You nervously fall into the traps of corporate politics during strategic meetings. 'Tombez' is the second-person plural present of 'tomber' (to fall), and 'nerveusement' means 'nervously'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - corporate politics context",
+    "tags": ["corporate", "politics", "meetings"],
+    "timeCreated": 1720821300
+}

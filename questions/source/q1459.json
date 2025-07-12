@@ -1,0 +1,23 @@
+{
+  "id": 1459,
+  "audioText": "Il semble impossible de résoudre ce problème technique sans assistance externe spécialisée.",
+  "question": "What seems impossible according to the speaker?",
+  "questionType": "comprehension",
+  "options": [
+    "Solving this technical problem without specialized external assistance",
+    "Finding the right technical documentation for this problem",
+    "Completing the project within the given deadline",
+    "Understanding the complexity of the technical requirements"
+  ],
+  "correct": 0,
+  "explanation": "The speaker states 'Il semble impossible de résoudre ce problème technique sans assistance externe spécialisée' - it seems impossible to solve this technical problem without specialized external assistance. The adjective 'impossible' means impossible/unfeasible.",
+  "difficulty": "B2",
+  "source": "Technical Problem Solving",
+  "tags": [
+    "technology",
+    "problem-solving",
+    "technical-support",
+    "workplace"
+  ],
+  "timeCreated": 1720026560
+}

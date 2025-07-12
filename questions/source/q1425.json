@@ -1,0 +1,18 @@
+{
+    "id": 1425,
+    "audioText": "Quand j'aidais le capitaine pendant le déjeuner, il me racontait ses aventures maritimes extraordinaires.",
+    "question": "What did the captain do during lunch?",
+    "questionType": "comprehension",
+    "options": [
+        "He told me about his extraordinary maritime adventures",
+        "He showed me his collection of ancient navigation instruments",
+        "He taught me how to read nautical charts properly",
+        "He explained the different types of sailing knots used"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'He told me about his extraordinary maritime adventures'. The text states '<em>Quand j'aidais le capitaine pendant le déjeuner, il me racontait ses aventures maritimes extraordinaires</em>' - When I was helping the captain during lunch, he was telling me about his extraordinary maritime adventures. 'Aidais' is the imperfect form of 'aider' (to help), and 'capitaine' means 'captain'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - maritime lunch context",
+    "tags": ["lunch", "maritime", "storytelling"],
+    "timeCreated": 1720820160
+}

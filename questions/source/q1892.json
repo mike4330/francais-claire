@@ -1,0 +1,27 @@
+{
+  "id": 1892,
+  "audioText": "Quand j'étais adolescent, j'allais souvent à la bibliothèque municipale pour découvrir des œuvres littéraires classiques qui nourrissaient ma passion grandissante pour la philosophie existentialiste et les grands courants de pensée contemporains.",
+  "question": "Where did the speaker frequently go as a teenager?",
+  "questionType": "comprehension",
+  "options": [
+    "To the municipal library to discover classical literary works",
+    "To university lectures on existentialist philosophy",
+    "To bookstores to purchase contemporary philosophy books",
+    "To literary cafes to discuss philosophical movements with peers"
+  ],
+  "correct": 0,
+  "explanation": "The speaker states 'j'allais souvent à la bibliothèque municipale' - I often went to the municipal library. The imperfect tense 'allais' (1st/2nd person singular of aller) expresses a habitual action in the past, indicating regular visits to discover classical literary works that nourished their growing passion for existentialist philosophy.",
+  "difficulty": "C1",
+  "source": "Personal memoir about intellectual development and literary discovery",
+  "tags": [
+    "literature",
+    "philosophy",
+    "education",
+    "adolescence",
+    "intellectual-development",
+    "libraries",
+    "existentialism",
+    "classical-works"
+  ],
+  "timeCreated": 1719937060
+}

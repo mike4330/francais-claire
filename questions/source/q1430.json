@@ -1,0 +1,18 @@
+{
+    "id": 1430,
+    "audioText": "Tu tireras le câble électrique à travers le sol avant d'installer toi-même les prises murales.",
+    "question": "What will you do before installing the wall outlets yourself?",
+    "questionType": "comprehension",
+    "options": [
+        "Pull the electrical cable through the floor",
+        "Test the circuit breaker in the main electrical panel",
+        "Measure the distance between each outlet location carefully",
+        "Purchase the appropriate tools from the hardware store"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Pull the electrical cable through the floor'. The text states '<em>Tu tireras le câble électrique à travers le sol avant d'installer toi-même les prises murales</em>' - You will pull the electrical cable through the floor before installing the wall outlets yourself. 'Tireras' is the future form of 'tirer' (to pull), 'sol' means 'floor/ground', and 'toi-même' means 'yourself'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - DIY electrical context",
+    "tags": ["DIY", "electrical", "construction"],
+    "timeCreated": 1720820460
+}

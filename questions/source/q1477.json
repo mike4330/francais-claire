@@ -1,0 +1,22 @@
+{
+  "id": 1477,
+  "audioText": "Cette proposition me paraît complètement ridicule.",
+  "question": "What does the speaker think about the proposal?",
+  "questionType": "comprehension",
+  "options": [
+    "It seems completely ridiculous to them.",
+    "It seems completely reasonable to them.",
+    "It seems completely interesting to them.",
+    "It seems completely necessary to them."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'ridicule' meaning 'ridiculous/absurd'. 'Cette proposition me paraît complètement ridicule' means 'this proposal seems completely ridiculous to me'. The speaker finds the proposal absurd.",
+  "difficulty": "B1",
+  "source": "Opinion expression in discussion",
+  "tags": [
+    "opinion",
+    "discussion",
+    "criticism"
+  ],
+  "timeCreated": 1720108800
+}

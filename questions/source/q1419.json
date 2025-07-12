@@ -1,0 +1,18 @@
+{
+    "id": 1419,
+    "audioText": "Cette fleur rouge perdra sa couleur si vous ne la protégez pas du soleil intense.",
+    "question": "What will happen to this red flower?",
+    "questionType": "comprehension",
+    "options": [
+        "It will lose its color if you don't protect it from intense sun",
+        "It will grow larger if you water it regularly each morning",
+        "It will change varieties if you transplant it to new soil",
+        "It will bloom again if you trim the dead leaves carefully"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'It will lose its color if you don't protect it from intense sun'. The text states '<em>Cette fleur rouge perdra sa couleur si vous ne la protégez pas du soleil intense</em>' - This red flower will lose its color if you don't protect it from intense sun. 'Fleur' (singular) means 'flower', 'perdra' is the future tense of 'perdre' (to lose), and the text describes plant care advice.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - gardening care context",
+    "tags": ["gardening", "plant-care", "nature"],
+    "timeCreated": 1720818660
+}

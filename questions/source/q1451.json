@@ -1,0 +1,18 @@
+{
+    "id": 1451,
+    "audioText": "En tirant cet équipement lourd, il s'est blessé l'épaule droite pendant l'entraînement sportif.",
+    "question": "What happened while pulling this heavy equipment?",
+    "questionType": "comprehension",
+    "options": [
+        "He injured his right shoulder during sports training",
+        "He developed muscle cramps in his legs and back",
+        "He lost his balance and fell on the training ground",
+        "He damaged the equipment beyond repair accidentally"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'He injured his right shoulder during sports training'. The text states '<em>En tirant cet équipement lourd, il s'est blessé l'épaule droite pendant l'entraînement sportif</em>' - While pulling this heavy equipment, he injured his right shoulder during sports training. 'Tirant' is the present participle of 'tirer' (to pull), and 'épaule' means 'shoulder'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - sports equipment context",
+    "tags": ["equipment", "sports", "injury"],
+    "timeCreated": 1720821720
+}

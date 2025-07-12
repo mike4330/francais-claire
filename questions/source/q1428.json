@@ -1,0 +1,18 @@
+{
+    "id": 1428,
+    "audioText": "La dame âgée avait tenue sa ferme de poulets pendant cinquante années avant de la vendre.",
+    "question": "What had the elderly lady done?",
+    "questionType": "comprehension",
+    "options": [
+        "Kept her chicken farm for fifty years before selling it",
+        "Raised sheep on her countryside property for decades",
+        "Operated a small bakery in the village center successfully",
+        "Taught elementary school students reading and mathematics"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Kept her chicken farm for fifty years before selling it'. The text states '<em>La dame âgée avait tenue sa ferme de poulets pendant cinquante années avant de la vendre</em>' - The elderly lady had kept her chicken farm for fifty years before selling it. 'Tenue' is the past participle of 'tenir' (to keep/hold), 'dame' means 'lady', and 'poulets' means 'chickens'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - rural farming context",
+    "tags": ["chicken", "farming", "rural-life"],
+    "timeCreated": 1720820340
+}

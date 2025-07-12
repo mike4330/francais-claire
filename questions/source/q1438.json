@@ -1,0 +1,18 @@
+{
+    "id": 1438,
+    "audioText": "Plus la durée du spectacle s'allongeait, plus je devenais fatigué et ma vue se troublait.",
+    "question": "What happened as the duration of the show got longer?",
+    "questionType": "comprehension",
+    "options": [
+        "The speaker became tired and their vision got blurry",
+        "The audience became more engaged and attentive to details",
+        "The performers increased their energy and stage presence",
+        "The lighting effects became more dramatic and impressive"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'The speaker became tired and their vision got blurry'. The text states '<em>Plus la durée du spectacle s'allongeait, plus je devenais fatigué et ma vue se troublait</em>' - The longer the duration of the show got, the more tired I became and my vision got blurry. 'Devenais' is the imperfect form of 'devenir' (to become), and 'vue' means 'vision/sight'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - performance duration context",
+    "tags": ["duration", "performance", "health"],
+    "timeCreated": 1720820940
+}

@@ -1,19 +1,23 @@
 {
-    "id": 1179,
-    "audioText": "Le bétail reste immobile pendant la forte chaleur estivale.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Le bétail reste immobile pendant la forte chaleur estivale.",
-        "Le bétail reste immobile pendant la forte chaleur estival.",
-        "Le bétail reste immobiles pendant la forte chaleur estivale.",
-        "Le bétail reste immobile pendant la fort chaleur estivale."
-    ],
-    "correct": 0,
-    "explanation": "The correct option is '<em>Le bétail reste immobile pendant la forte chaleur estivale</em>' - The livestock stays motionless during the intense summer heat. This listening exercise tests adjective agreement: 'estivale' (feminine) agreeing with 'chaleur', 'immobile' (singular) agreeing with 'bétail', and 'forte' (feminine) agreeing with 'chaleur'.",
-    "difficulty": "B1",
-    "source": "Agricultural livestock management",
-    "tags": ["agriculture", "livestock", "animal-behavior"],
-    "parentQuestion": 434,
-    "timeCreated": 1752110520
+  "id": 1179,
+  "audioText": "Le bétail reste immobile pendant la forte chaleur estivale.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Le bétail reste immobile pendant la forte chaleur estivale.",
+    "Le bétail reste immobile pendant la forte chaleur estival.",
+    "Le bétail reste immobiles pendant la forte chaleur estivale.",
+    "Le bétail reste immobile pendant la fort chaleur estivale."
+  ],
+  "correct": 0,
+  "explanation": "The correct option is '<em>Le bétail reste immobile pendant la forte chaleur estivale</em>' - The livestock stays motionless during the intense summer heat. This listening exercise tests adjective agreement: 'estivale' (feminine) agreeing with 'chaleur', 'immobile' (singular) agreeing with 'bétail', and 'forte' (feminine) agreeing with 'chaleur'.",
+  "difficulty": "B1",
+  "source": "Agricultural livestock management",
+  "tags": [
+    "agriculture",
+    "livestock",
+    "animal-behavior"
+  ],
+  "parentQuestion": 1476,
+  "timeCreated": 1752110520
 }

@@ -1,0 +1,18 @@
+{
+    "id": 1406,
+    "audioText": "Les bureaux sont maintenant ouverts et les dossiers ont été ouverts séparément pour faciliter l'enquête.",
+    "question": "How were the files handled?",
+    "questionType": "comprehension",
+    "options": [
+        "They were opened separately to facilitate the investigation",
+        "They were closed together to protect confidential information",
+        "They were moved collectively to a secure storage location",
+        "They were reviewed simultaneously by the entire team"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'They were opened separately to facilitate the investigation'. The text states '<em>Les bureaux sont maintenant ouverts et les dossiers ont été ouverts séparément pour faciliter l'enquête</em>' - The offices are now open and the files have been opened separately to facilitate the investigation. 'Ouvert' means 'open', 'ouverts' is the past participle agreeing with 'dossiers' (files), and 'séparément' means 'separately'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - business/investigation context",
+    "tags": ["business", "investigation", "workplace"],
+    "timeCreated": 1720817820
+}

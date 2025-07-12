@@ -1,18 +1,18 @@
 {
     "id": 1506,
-    "audioText": "Après cette longue randonnée en montagne, il avait mal au pied droit et boitait légèrement.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
+    "audioText": "Vous écoutiez attentivement les annonces de départ des trains pendant que nous attendions sur le quai.",
+    "question": "What were you listening to attentively while we waited on the platform?",
+    "questionType": "comprehension",
     "options": [
-        "Après cette longue randonnée en montagne, il avait mal au pied droit et boitait légèrement.",
-        "Après cette longue randonnée en montagne, il avait mal au pied droit et boitaient légèrement.",
-        "Après cette longue randonnée en montagne, il avait mal au pieds droit et boitait légèrement.",
-        "Après cette longue randonnée en montagne, il avait mal aux pied droit et boitait légèrement."
+        "Train departure announcements",
+        "Weather updates for our destination city today",
+        "Safety instructions from the station personnel",
+        "Conversations between other passengers nearby"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Après cette longue randonnée en montagne, il avait mal au pied droit et boitait légèrement.</em>' - 'After this long mountain hike, he had pain in his right foot and was limping slightly.' This tests the high-frequency noun 'pied' (foot) in a hiking injury context.",
+    "explanation": "The correct answer is 'Train departure announcements'. The text states '<em>Vous écoutiez attentivement les annonces de départ des trains pendant que nous attendions sur le quai</em>' - You were listening attentively to train departure announcements while we waited on the platform. 'Écoutiez' is the second-person plural imperfect of 'écouter' (to listen), and 'départ' means 'departure'.",
     "difficulty": "B1",
-    "source": "Mountain hiking and foot injuries",
-    "tags": ["hiking", "health", "injury", "mountains"],
-    "timeCreated": 1736347740
+    "source": "Strategic vocabulary development - train station context",
+    "tags": ["travel", "transportation", "departure"],
+    "timeCreated": 1720822680
 }

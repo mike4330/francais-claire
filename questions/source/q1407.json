@@ -1,0 +1,18 @@
+{
+    "id": 1407,
+    "audioText": "Ce nouveau restaurant ouvrira bientôt avec une vue merveilleuse sur la montagne et la vallée.",
+    "question": "What will the restaurant have?",
+    "questionType": "comprehension",
+    "options": [
+        "A wonderful view of the mountain and valley",
+        "A basic terrace facing the city center",
+        "A small window overlooking the parking lot",
+        "A covered patio facing the busy street"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'A wonderful view of the mountain and valley'. The text states '<em>Ce nouveau restaurant ouvrira bientôt avec une vue merveilleuse sur la montagne et la vallée</em>' - This new restaurant will open soon with a wonderful view of the mountain and valley. 'Ouvrira' is the future tense of 'ouvrir' (to open), 'vue' means 'view', and 'merveilleuse' (wonderful) agrees with the feminine noun 'vue'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - restaurant/travel context",
+    "tags": ["restaurant", "travel", "scenery"],
+    "timeCreated": 1720817880
+}

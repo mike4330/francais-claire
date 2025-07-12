@@ -1,18 +1,18 @@
 {
     "id": 1503,
-    "audioText": "Cette entreprise travaille exclusivement avec des partenaires locaux, refusant catégoriquement toute collaboration internationale.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
+    "audioText": "Je perdrais complètement le contrôle de mes gestes si tu me laisses seul avec cette responsabilité écrasante.",
+    "question": "What would the speaker completely lose control of if left alone with this overwhelming responsibility?",
+    "questionType": "comprehension",
     "options": [
-        "Cette entreprise travaille exclusivement avec des partenaires locaux, refusant catégoriquement toute collaboration internationale.",
-        "Cette entreprise travaille exclusivement avec des partenaires locales, refusant catégoriquement toute collaboration internationale.",
-        "Cette entreprise travaille exclusivement avec des partenaires locaux, refusant catégoriquement toutes collaboration internationale.",
-        "Cette entreprise travaille excessivement avec des partenaires locaux, refusant catégoriquement toute collaboration internationale."
+        "Their gestures",
+        "Their emotional reactions to stressful situations completely",
+        "Their ability to make rational decisions under pressure",
+        "Their capacity to communicate effectively with others"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette entreprise travaille exclusivement avec des partenaires locaux, refusant catégoriquement toute collaboration internationale.</em>' - 'This company works exclusively with local partners, categorically refusing any international collaboration.' This tests the high-priority adverb 'exclusivement' (exclusively) in a business strategy context.",
-    "difficulty": "C1",
-    "source": "Business partnership strategies and local economics",
-    "tags": ["business", "partnerships", "local-economy", "strategy"],
-    "timeCreated": 1736347560
+    "explanation": "The correct answer is 'Their gestures'. The text states '<em>Je perdrais complètement le contrôle de mes gestes si tu me laisses seul avec cette responsabilité écrasante</em>' - I would completely lose control of my gestures if you leave me alone with this overwhelming responsibility. 'Perdrais' is the conditional form of 'perdre' (to lose), and 'geste' means 'gesture'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - letting go context",
+    "tags": ["laisser", "emotions", "control"],
+    "timeCreated": 1720822500
 }

@@ -1,0 +1,22 @@
+{
+  "id": 1475,
+  "audioText": "Ce pesticide est devenu inutile contre les nouveaux parasites agricoles.",
+  "question": "What has happened to the pesticide?",
+  "questionType": "comprehension",
+  "options": [
+    "It has become useless against new agricultural pests.",
+    "It has become useful against new agricultural pests.",
+    "It has become dangerous for new agricultural pests.",
+    "It has become expensive for new agricultural pests."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'inutile' meaning 'useless/pointless'. 'Ce pesticide est devenu inutile' means 'this pesticide has become useless'. The context is agricultural pest control.",
+  "difficulty": "B1",
+  "source": "Agricultural pest management",
+  "tags": [
+    "agriculture",
+    "pest-control",
+    "farming"
+  ],
+  "timeCreated": 1720108800
+}

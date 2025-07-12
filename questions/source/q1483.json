@@ -1,0 +1,22 @@
+{
+  "id": 1483,
+  "audioText": "Cette émission a été regardée par des millions de téléspectateurs.",
+  "question": "What happened to this TV show?",
+  "questionType": "comprehension",
+  "options": [
+    "It was watched by millions of viewers.",
+    "It was criticized by millions of viewers.",
+    "It was ignored by millions of viewers.",
+    "It was recorded by millions of viewers."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'regardée' - the past participle feminine form of 'regarder' (to watch). 'Cette émission a été regardée' means 'this show was watched'. The past participle agrees with the feminine noun 'émission'.",
+  "difficulty": "B2",
+  "source": "Media audience statistics",
+  "tags": [
+    "media",
+    "television",
+    "statistics"
+  ],
+  "timeCreated": 1720108800
+}

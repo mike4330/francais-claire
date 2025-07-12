@@ -1,0 +1,18 @@
+{
+    "id": 1436,
+    "audioText": "Même devant la Cour suprême, je ne mangerais jamais quelque chose avec cette odeur épouvantable.",
+    "question": "What would the speaker never do, even in front of the Supreme Court?",
+    "questionType": "comprehension",
+    "options": [
+        "Eat something with that terrible smell",
+        "Speak without proper legal representation present",
+        "Wear casual clothing instead of formal business attire",
+        "Challenge the authority of the presiding judges directly"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Eat something with that terrible smell'. The text states '<em>Même devant la Cour suprême, je ne mangerais jamais quelque chose avec cette odeur épouvantable</em>' - Even in front of the Supreme Court, I would never eat something with that terrible smell. 'Mangerais' is the conditional form of 'manger' (to eat), and 'odeur' means 'smell/odor'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - Supreme Court context",
+    "tags": ["supreme-court", "legal", "food"],
+    "timeCreated": 1720820820
+}

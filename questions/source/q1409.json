@@ -1,0 +1,18 @@
+{
+    "id": 1409,
+    "audioText": "Vous paierez finement cet exemple de travail artisanal avec des matériaux de qualité supérieure.",
+    "question": "How will you pay for this example of artisanal work?",
+    "questionType": "comprehension",
+    "options": [
+        "Finely, with superior quality materials",
+        "Quickly, with standard cash payment",
+        "Roughly, with basic materials only",
+        "Slowly, with delayed installment plans"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Finely, with superior quality materials'. The text states '<em>Vous paierez finement cet exemple de travail artisanal avec des matériaux de qualité supérieure</em>' - You will pay finely for this example of artisanal work with superior quality materials. 'Paierez' is the future tense of 'payer' (to pay), 'finement' means 'finely/subtly', and 'exemple' means 'example'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - craftsmanship context",
+    "tags": ["business", "craftsmanship", "quality"],
+    "timeCreated": 1720818060
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1490,
+  "audioText": "Il faut que tu saches comment arroser les plantes du jardin.",
+  "question": "What does the speaker want the listener to know?",
+  "questionType": "comprehension",
+  "options": [
+    "How to water the garden plants",
+    "How to plant seeds in the garden",
+    "How to trim the garden hedges",
+    "How to harvest the garden vegetables"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut que tu saches comment arroser les plantes du jardin</em>' - You must know how to water the garden plants. The verb 'saches' is the subjunctive form of 'savoir' (to know), which is required after 'il faut que' (it's necessary that).",
+  "difficulty": "B1",
+  "source": "Garden care instruction",
+  "tags": [
+    "gardening",
+    "plants",
+    "watering"
+  ],
+  "timeCreated": 1720108800
+}

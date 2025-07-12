@@ -1,0 +1,23 @@
+{
+  "id": 1848,
+  "audioText": "Au-dehors, la tempête faisait rage tandis qu'à l'intérieur, la famille se réchauffait près du feu.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Au-dehors, la tempête faisait rage tandis qu'à l'intérieur, la famille se réchauffait près du feu.",
+    "Au-dehors, la tempête faisait rage tandis qu'à l'intérieur, la famille se réchauffaient près du feu.",
+    "Au-dehors, la tempête faisaient rage tandis qu'à l'intérieur, la famille se réchauffait près du feu.",
+    "Au-derrière, la tempête faisait rage tandis qu'à l'intérieur, la famille se réchauffait près du feu."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Au-dehors, la tempête faisait rage tandis qu'à l'intérieur, la famille se réchauffait près du feu.</em>' - 'Outside, the storm was raging while inside, the family was warming up by the fire.' This tests the high-priority adverb 'au-dehors' (outside) in a storm and family warmth context.",
+  "difficulty": "B2",
+  "source": "Storm weather and family shelter",
+  "tags": [
+    "weather",
+    "family",
+    "storm",
+    "shelter"
+  ],
+  "timeCreated": 1736348280
+}

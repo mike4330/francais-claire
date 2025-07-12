@@ -1,0 +1,24 @@
+{
+  "id": 1869,
+  "type": "fill-in-the-blank",
+  "question": "Ce film ne me _______ pas du tout.",
+  "audioText": "Ce film ne me plaît pas du tout.",
+  "answer": "plaît",
+  "hint": "Present tense of 'plaire'",
+  "level": "c",
+  "tags": [
+    "movies",
+    "opinion"
+  ],
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "plaît",
+    "plais",
+    "plaire",
+    "plaira"
+  ],
+  "correct": 0,
+  "explanation": "'Plaît' is the present tense of 'plaire' for 'il/elle/on'.",
+  "difficulty": "C1",
+  "source": "Gemini CLI"
+}

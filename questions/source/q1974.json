@@ -1,0 +1,22 @@
+{
+  "id": 1974,
+  "audioText": "Le roi absolutiste a exercé un pouvoir tyrannique sur son peuple pendant des décennies entières.",
+  "question": "What kind of power did the absolutist king exercise over his people?",
+  "questionType": "comprehension",
+  "options": [
+    "Tyrannical power for entire decades",
+    "Democratic power for entire decades",
+    "Limited power for entire decades",
+    "Symbolic power for entire decades"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le roi absolutiste a exercé un pouvoir tyrannique sur son peuple pendant des décennies entières</em>' - The absolutist king exercised tyrannical power over his people for entire decades. 'Roi' means king, 'tyrannique' means tyrannical, and 'décennies' means decades.",
+  "difficulty": "C1",
+  "source": "Strategic bottom noun coverage",
+  "tags": [
+    "history",
+    "politics",
+    "monarchy"
+  ],
+  "timeCreated": 1752096100
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1448,
+    "audioText": "Le patient entra vraisemblablement en rémission après ce traitement médical expérimental innovant.",
+    "question": "What probably happened to the patient after this innovative experimental medical treatment?",
+    "questionType": "comprehension",
+    "options": [
+        "He probably entered remission",
+        "He experienced significant side effects requiring monitoring",
+        "He developed resistance to conventional therapy methods",
+        "He showed improved symptoms but required additional treatment"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'He probably entered remission'. The text states '<em>Le patient entra vraisemblablement en rémission après ce traitement médical expérimental innovant</em>' - The patient probably entered remission after this innovative experimental medical treatment. 'Entra' is the third-person singular past simple of 'entrer' (to enter), and 'vraisemblablement' means 'probably/likely'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - medical treatment context",
+    "tags": ["medical-treatment", "health", "recovery"],
+    "timeCreated": 1720821540
+}

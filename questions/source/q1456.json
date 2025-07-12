@@ -1,0 +1,18 @@
+{
+    "id": 1456,
+    "audioText": "Tu mangeras tes mots écrits sur ce papier si les clients se plaignent de notre service clientèle.",
+    "question": "What will you eat if customers complain about our customer service?",
+    "questionType": "comprehension",
+    "options": [
+        "Your words written on this paper",
+        "A humble meal while apologizing to disappointed clients",
+        "Your pride and admit mistakes to improve service quality",
+        "The cost of refunds and compensation for unhappy customers"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Your words written on this paper'. The text states '<em>Tu mangeras tes mots écrits sur ce papier si les clients se plaignent de notre service clientèle</em>' - You will eat your words written on this paper if customers complain about our customer service. 'Mangeras' is the future form of 'manger' (to eat), and 'papier' means 'paper'. The expression 'manger ses mots' means 'to eat one's words'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - customer service context",
+    "tags": ["customers", "service", "business"],
+    "timeCreated": 1720822020
+}

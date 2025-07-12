@@ -1,0 +1,23 @@
+{
+  "id": 1467,
+  "audioText": "Le directeur donnera sa réponse demain matin lors de la réunion.",
+  "question": "Le directeur ______ sa réponse demain matin lors de la réunion.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "donnera",
+    "donne",
+    "donnait",
+    "donnerait"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'donnera' (future of 'donner'). The future tense is used because of 'demain matin' (tomorrow morning), indicating a future action. 'Le directeur donnera sa réponse' means 'The director will give his answer.'",
+  "difficulty": "B1",
+  "source": "Business Meeting",
+  "tags": [
+    "business",
+    "meetings",
+    "workplace",
+    "decision-making"
+  ],
+  "timeCreated": 1720027460
+}

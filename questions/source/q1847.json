@@ -1,0 +1,23 @@
+{
+  "id": 1847,
+  "audioText": "Elle danse follement sur cette musique entraînante, oubliant complètement tous ses soucis quotidiens.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Elle danse follement sur cette musique entraînante, oubliant complètement tous ses soucis quotidiens.",
+    "Elle danse follement sur cette musique entraînante, oubliant complètement tout ses soucis quotidiens.",
+    "Elle danse follement sur cette musique entraînante, oubliant complètement tous ses soucis quotidien.",
+    "Elle dance follement sur cette musique entraînante, oubliant complètement tous ses soucis quotidiens."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle danse follement sur cette musique entraînante, oubliant complètement tous ses soucis quotidiens.</em>' - 'She dances wildly to this catchy music, completely forgetting all her daily worries.' This tests the adverb 'follement' (wildly/madly) in a dancing and stress relief context.",
+  "difficulty": "B2",
+  "source": "Dancing as stress relief and emotional expression",
+  "tags": [
+    "dancing",
+    "music",
+    "stress-relief",
+    "emotions"
+  ],
+  "timeCreated": 1736348220
+}

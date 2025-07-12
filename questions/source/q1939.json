@@ -1,0 +1,23 @@
+{
+  "id": 1939,
+  "audioText": "Les produits biologiques coûtent généralement plus cher que les produits conventionnels, mais ils offrent des avantages nutritionnels et environnementaux significatifs pour la santé publique et la préservation des écosystèmes.",
+  "question": "Les produits biologiques coûtent généralement plus ______ que les produits conventionnels, mais ils offrent des avantages nutritionnels et environnementaux significatifs.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "cher",
+    "lourd",
+    "complexe",
+    "difficile"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les produits biologiques coûtent généralement plus cher que les produits conventionnels, mais ils offrent des avantages nutritionnels et environnementaux significatifs pour la santé publique et la préservation des écosystèmes.</em>' - 'Organic products generally cost more expensive than conventional products, but they offer significant nutritional and environmental benefits for public health and ecosystem preservation.' The missing word is 'cher' (expensive), and 'plus cher' means 'more expensive'.",
+  "difficulty": "C1",
+  "source": "Organic food economics and environmental impact",
+  "tags": [
+    "organic-farming",
+    "economics",
+    "environment",
+    "health"
+  ],
+  "timeCreated": 1735948980
+}

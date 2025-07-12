@@ -1,22 +1,22 @@
 {
     "id": 282,
-    "audioText": "L'instant de plaisir : regarder le feu ! Cette envie simple apporte la paix.",
-    "question": "Listening: What brings peace?",
+    "audioText": "Regarder le feu apporte cette paix simple que nous cherchons tous.",
+    "question": "Qu'est-ce que vous avez entendu ?",
     "questionType": "listening",
     "options": [
-        "Cette envie simple",
-        "Cette envie grande",
-        "Cette envie forte",
-        "Cette envie nouvelle"
+        "Regarder le feu apporte cette paix simple que nous cherchons tous",
+        "Regarder le feu apporte cette paix grande que nous cherchons tous",
+        "Regarder le feu apporte cette paix forte que nous cherchons tous",
+        "Regarder le feu apporte cette paix nouvelle que nous cherchons tous"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>L'instant de plaisir : regarder le feu ! Cette envie simple apporte la paix.</em>' - 'The moment of pleasure: watching the fire! This simple desire brings peace.' The correct answer is 'cette envie simple' (this simple desire) which brings peace.",
+    "explanation": "The correct answer is '<em>Regarder le feu apporte cette paix simple que nous cherchons tous</em>' - Watching the fire brings this simple peace that we all seek. The key word is 'simple' (simple) which distinguishes it from the other options with 'grande' (big), 'forte' (strong), or 'nouvelle' (new).",
     "difficulty": "A2",
-    "source": "Strategic noun-tag intersection",
+    "source": "Strategic vocabulary development - relaxation context",
     "tags": [
-        "rural-life",
+        "relaxation",
         "simplicity",
-        "peace"
+        "emotions"
     ],
     "timeCreated": 1720713600
 }

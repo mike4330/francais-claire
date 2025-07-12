@@ -1,0 +1,18 @@
+{
+    "id": 1984,
+    "audioText": "Merde, j'ouvrirai ces énigmes complexes seulement après avoir développé une méthodologie systématique d'analyse cognitive approfondie pour résoudre les problèmes les plus ardus.",
+    "question": "When will the speaker open these complex puzzles?",
+    "questionType": "comprehension",
+    "options": [
+        "Only after developing a systematic methodology of thorough cognitive analysis to solve the most difficult problems",
+        "When they have acquired sufficient mathematical background knowledge",
+        "After consulting with expert puzzle designers and researchers",
+        "Once they have practiced with simpler puzzles for several months"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Only after developing a systematic methodology of thorough cognitive analysis to solve the most difficult problems'. The text states '<em>Merde, j'ouvrirai ces énigmes complexes seulement après avoir développé une méthodologie systématique d'analyse cognitive approfondie pour résoudre les problèmes les plus ardus</em>' - Damn, I will open these complex puzzles only after developing a systematic methodology of thorough cognitive analysis to solve the most difficult problems. 'Ouvrirai' is the future form of 'ouvrir' (to open), and 'merde' is a strong expletive.",
+    "difficulty": "C2",
+    "source": "Strategic vocabulary development - complex puzzle solving context",
+    "tags": ["puzzles", "methodology", "problem-solving"],
+    "timeCreated": 1720822140
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1482,
+  "audioText": "Que feriez-vous si vous aviez plus de temps libre ?",
+  "question": "What kind of question is being asked?",
+  "questionType": "comprehension",
+  "options": [
+    "A hypothetical question about having more free time.",
+    "A direct question about current free time activities.",
+    "A question about past free time activities.",
+    "A question about someone else's free time."
+  ],
+  "correct": 0,
+  "explanation": "The full French question is \"Que feriez-vous si vous aviez plus de temps libre ?\". It uses 'feriez' - the conditional form of 'faire' (to do/make) for vous. 'Que feriez-vous si...' means 'what would you do if...'. This is a hypothetical conditional question structure.",
+  "difficulty": "B2",
+  "source": "Hypothetical discussion scenario",
+  "tags": [
+    "hypothetical",
+    "leisure",
+    "conversation"
+  ],
+  "timeCreated": 1720108800
+}

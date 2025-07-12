@@ -1,0 +1,25 @@
+{
+  "id": 1977,
+  "audioText": "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
+    "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministère. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
+    "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacents.",
+    "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifiée par une raison sous-jacente."
+  ],
+  "correct": 0,
+  "explanation": "The correct option is '<em>Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.</em>' - Employees are protesting against 'toxic management' following the minister's demand for a biometric time clock. This 'surveillance' is however justified by an underlying reason. This listening exercise tests subtle distinctions: 'ministre' vs 'ministère', 'sous-jacente' vs 'sous-jacents', and 'justifié' vs 'justifiée'.",
+  "difficulty": "C2",
+  "source": "French Media (Generalized)",
+  "tags": [
+    "workplace",
+    "management",
+    "labor-relations",
+    "surveillance",
+    "protest"
+  ],
+  "parentQuestion": 1686,
+  "timeCreated": 1752110580
+}

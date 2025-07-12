@@ -1,0 +1,18 @@
+{
+    "id": 1442,
+    "audioText": "Quand tu tombes sur des documents familiaux, nous nous aidons mutuellement à préserver cet héritage précieux.",
+    "question": "What do we do when you come across family documents?",
+    "questionType": "comprehension",
+    "options": [
+        "We help each other mutually to preserve this precious heritage",
+        "We organize them chronologically by date and family member",
+        "We scan them digitally to create permanent backup copies",
+        "We consult professional archivists for proper storage advice"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'We help each other mutually to preserve this precious heritage'. The text states '<em>Quand tu tombes sur des documents familiaux, nous nous aidons mutuellement à préserver cet héritage précieux</em>' - When you come across family documents, we help each other mutually to preserve this precious heritage. 'Tombes' is the second-person singular present of 'tomber' (to fall/come across), and 'mutuellement' means 'mutually'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - family heritage context",
+    "tags": ["heritage", "family", "preservation"],
+    "timeCreated": 1720821180
+}

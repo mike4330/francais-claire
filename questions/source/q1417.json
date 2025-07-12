@@ -1,0 +1,18 @@
+{
+    "id": 1417,
+    "audioText": "Les enfants payent leurs jouets avec des fleurs en plastique dans ce magasin imaginaire.",
+    "question": "How do the children pay for their toys?",
+    "questionType": "comprehension",
+    "options": [
+        "With plastic flowers in this imaginary store",
+        "With colorful buttons from their collection box",
+        "With wooden coins they made in craft class",
+        "With paper money they drew during art time"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'With plastic flowers in this imaginary store'. The text states '<em>Les enfants payent leurs jouets avec des fleurs en plastique dans ce magasin imaginaire</em>' - The children pay for their toys with plastic flowers in this imaginary store. 'Payent' is the third-person plural present of 'payer' (to pay), 'fleurs' means 'flowers', and 'jouets' means 'toys'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - imaginative play context",
+    "tags": ["toys", "childhood", "imagination"],
+    "timeCreated": 1720818540
+}

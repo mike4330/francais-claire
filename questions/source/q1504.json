@@ -1,18 +1,18 @@
 {
     "id": 1504,
-    "audioText": "Pendant l'été, les enfants jouent souvent au-dehors jusqu'à tard le soir, profitant des longues journées ensoleillées.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
+    "audioText": "Je mourais d'envie de rejoindre cette scène de collaboration académique internationale entre chercheurs multidisciplinaires.",
+    "question": "What was the speaker dying to join?",
+    "questionType": "comprehension",
     "options": [
-        "Pendant l'été, les enfants jouent souvent au-dehors jusqu'à tard le soir, profitant des longues journées ensoleillées.",
-        "Pendant l'été, les enfants jouent souvent au-dehors jusqu'à tard le soir, profitant des longues journées ensoleillée.",
-        "Pendant l'été, les enfants jouent souvent au-dehors jusqu'à tard le soire, profitant des longues journées ensoleillées.",
-        "Pendant l'été, les enfants jouent souvent au-derrière jusqu'à tard le soir, profitant des longues journées ensoleillées."
+        "This scene of international academic collaboration between multidisciplinary researchers",
+        "A prestigious research institute with advanced laboratory facilities",
+        "An exclusive conference for leading experts in their field",
+        "A competitive fellowship program for outstanding scholars"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Pendant l'été, les enfants jouent souvent au-dehors jusqu'à tard le soir, profitant des longues journées ensoleillées.</em>' - 'During summer, children often play outside until late in the evening, taking advantage of the long sunny days.' This tests the high-priority adverb 'au-dehors' (outside/outdoors) in a summer childhood context.",
+    "explanation": "The correct answer is 'This scene of international academic collaboration between multidisciplinary researchers'. The text states '<em>Je mourais d'envie de rejoindre cette scène de collaboration académique internationale entre chercheurs multidisciplinaires</em>' - I was dying to join this scene of international academic collaboration between multidisciplinary researchers. 'Mourais' is the imperfect form of 'mourir' (to die), and 'scène' means 'scene'.",
     "difficulty": "B2",
-    "source": "Summer activities and outdoor childhood play",
-    "tags": ["summer", "children", "outdoor-activities", "play"],
-    "timeCreated": 1736347620
+    "source": "Strategic vocabulary development - academic collaboration context",
+    "tags": ["academic-collaboration", "research", "international"],
+    "timeCreated": 1720822560
 }

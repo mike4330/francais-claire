@@ -1,0 +1,18 @@
+{
+    "id": 1446,
+    "audioText": "Premièrement, en tombant sur cette conférence internationale, nous avons découvert de nouvelles opportunités de collaboration.",
+    "question": "What did we discover first by coming across this international conference?",
+    "questionType": "comprehension",
+    "options": [
+        "New opportunities for collaboration",
+        "Advanced research methodologies in our field",
+        "Innovative technological solutions for current problems",
+        "Potential funding sources for future projects"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'New opportunities for collaboration'. The text states '<em>Premièrement, en tombant sur cette conférence internationale, nous avons découvert de nouvelles opportunités de collaboration</em>' - First, by coming across this international conference, we discovered new opportunities for collaboration. 'Tombant' is the present participle of 'tomber' (to fall/come across), and 'premièrement' means 'firstly'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - academic conferences context",
+    "tags": ["conferences", "collaboration", "international"],
+    "timeCreated": 1720821420
+}

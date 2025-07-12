@@ -1,0 +1,18 @@
+{
+    "id": 1423,
+    "audioText": "Si je vais en prison, je perdrai certainement mon âme et ma spiritualité dans ce lieu sombre.",
+    "question": "What will the speaker lose if they go to prison?",
+    "questionType": "comprehension",
+    "options": [
+        "Their soul and spirituality in that dark place",
+        "Their professional reputation and career opportunities completely",
+        "Their financial savings and investment portfolio permanently",
+        "Their family relationships and personal connections entirely"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Their soul and spirituality in that dark place'. The text states '<em>Si je vais en prison, je perdrai certainement mon âme et ma spiritualité dans ce lieu sombre</em>' - If I go to prison, I will certainly lose my soul and my spirituality in that dark place. 'Perdrai' is the future tense of 'perdre' (to lose), 'prison' means 'prison', and 'âme' means 'soul'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - spiritual reflection context",
+    "tags": ["soul", "prison", "spirituality"],
+    "timeCreated": 1720820100
+}

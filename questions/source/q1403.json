@@ -1,0 +1,18 @@
+{
+    "id": 1403,
+    "audioText": "Elle écoutera véritablement cette présentation intéressante sur les nouvelles technologies demain matin.",
+    "question": "When will she listen to the presentation?",
+    "questionType": "comprehension",
+    "options": [
+        "Tomorrow morning",
+        "This afternoon",
+        "Next week",
+        "Tonight"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Tomorrow morning'. The text states '<em>Elle écoutera véritablement cette présentation intéressante sur les nouvelles technologies demain matin</em>' - She will truly listen to this interesting presentation on new technologies tomorrow morning. 'Écoutera' is the future tense of 'écouter' (to listen), 'véritablement' means 'truly/genuinely', and 'intéressante' (interesting) agrees with the feminine noun 'présentation'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - technology context",
+    "tags": ["technology", "workplace", "presentation"],
+    "timeCreated": 1720817640
+}

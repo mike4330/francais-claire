@@ -1,0 +1,18 @@
+{
+    "id": 1452,
+    "audioText": "Je t'aiderais volontiers à comprendre les signes de fatigue musculaire dans la salle de sport.",
+    "question": "What would the speaker gladly help you understand?",
+    "questionType": "comprehension",
+    "options": [
+        "The signs of muscle fatigue in the gym",
+        "The proper techniques for weight lifting exercises safely",
+        "The best nutrition plans for athletic performance improvement",
+        "The correct use of various fitness machines and equipment"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'The signs of muscle fatigue in the gym'. The text states '<em>Je t'aiderais volontiers à comprendre les signes de fatigue musculaire dans la salle de sport</em>' - I would gladly help you understand the signs of muscle fatigue in the gym. 'Aiderais' is the conditional form of 'aider' (to help), and 'signes' means 'signs'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - gym fitness context",
+    "tags": ["gym", "fitness", "health"],
+    "timeCreated": 1720821780
+}

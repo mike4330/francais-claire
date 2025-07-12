@@ -1,0 +1,18 @@
+{
+    "id": 1418,
+    "audioText": "Nous ouvrons le débat sur le sujet controversé de l'élevage intensif des bovins.",
+    "question": "What do we open?",
+    "questionType": "comprehension",
+    "options": [
+        "The debate on the controversial subject of intensive cattle farming",
+        "The discussion about traditional fishing techniques in rural areas",
+        "The conference on modern agricultural machinery and equipment",
+        "The meeting about organic vegetable production methods"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'The debate on the controversial subject of intensive cattle farming'. The text states '<em>Nous ouvrons le débat sur le sujet controversé de l'élevage intensif des bovins</em>' - We open the debate on the controversial subject of intensive cattle farming. 'Ouvrons' is the first-person plural present of 'ouvrir' (to open), 'sujet' means 'subject/topic', and 'élevage' refers to livestock farming.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - agricultural debate context",
+    "tags": ["livestock", "agriculture", "debate"],
+    "timeCreated": 1720818600
+}

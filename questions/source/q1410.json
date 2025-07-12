@@ -1,0 +1,18 @@
+{
+    "id": 1410,
+    "audioText": "Nous écoutons aux aguets les mouvements de l'armée ennemie dans la vallée ce matin.",
+    "question": "How are we listening to the enemy army movements?",
+    "questionType": "comprehension",
+    "options": [
+        "Alertly, on the lookout in the valley this morning",
+        "Casually, from a distance this afternoon",
+        "Carelessly, without proper attention tonight",
+        "Lazily, while resting comfortably yesterday"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Alertly, on the lookout in the valley this morning'. The text states '<em>Nous écoutons aux aguets les mouvements de l'armée ennemie dans la vallée ce matin</em>' - We are listening alertly to the movements of the enemy army in the valley this morning. 'Écoutons' is the first-person plural present of 'écouter' (to listen), 'aux aguets' means 'on the lookout/alert', and 'armée' means 'army'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - military surveillance context",
+    "tags": ["military", "surveillance", "alertness"],
+    "timeCreated": 1720818120
+}

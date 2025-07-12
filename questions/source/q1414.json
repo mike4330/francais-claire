@@ -1,0 +1,18 @@
+{
+    "id": 1414,
+    "audioText": "Tu aideras à organiser cette cérémonie de mariage qui apportera tant de bonheur aux familles.",
+    "question": "What will you help organize?",
+    "questionType": "comprehension",
+    "options": [
+        "A wedding ceremony that will bring so much happiness to the families",
+        "A birthday party that will entertain all the neighborhood children",
+        "A business meeting that will solve the company's financial problems",
+        "A school graduation that will celebrate the students' achievements"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'A wedding ceremony that will bring so much happiness to the families'. The text states '<em>Tu aideras à organiser cette cérémonie de mariage qui apportera tant de bonheur aux familles</em>' - You will help organize this wedding ceremony that will bring so much happiness to the families. 'Aideras' is the future tense of 'aider' (to help), 'cérémonie' means 'ceremony', and 'bonheur' means 'happiness'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - wedding ceremony context",
+    "tags": ["ceremony", "family", "emotions"],
+    "timeCreated": 1720818360
+}

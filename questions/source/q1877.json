@@ -1,0 +1,24 @@
+{
+  "id": 1877,
+  "audioText": "Ma fille aînée, devenue médecin après des années d'études acharnées, m'a expliqué que l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération contemporaine.",
+  "question": "What challenge does the daughter's generation face according to the text?",
+  "questionType": "comprehension",
+  "options": [
+    "Balancing professional life and parenthood",
+    "Finding affordable housing in cities",
+    "Adapting to new medical technologies",
+    "Managing student loan debt effectively"
+  ],
+  "correct": 0,
+  "explanation": "The daughter explains that 'l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération' - the balance between professional life and parenthood represents one of the most complex challenges of her generation.",
+  "difficulty": "C1",
+  "source": "Family discussion about generational challenges",
+  "tags": [
+    "family",
+    "generational-issues",
+    "work-life-balance",
+    "parenting",
+    "professional-life"
+  ],
+  "timeCreated": 1735689600
+}

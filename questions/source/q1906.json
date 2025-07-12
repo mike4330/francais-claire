@@ -1,0 +1,22 @@
+{
+  "id": 1906,
+  "audioText": "L'infirmière a parlé doucement au patient pour l'apaiser avant l'intervention chirurgicale délicate qui l'attendait.",
+  "question": "How did the nurse speak to the patient before the surgery?",
+  "questionType": "comprehension",
+  "options": [
+    "Gently and softly to calm him down",
+    "Loudly to get his attention",
+    "Quickly to save time",
+    "Strictly to give clear instructions"
+  ],
+  "correct": 0,
+  "explanation": "The adverb 'doucement' means 'gently' or 'softly'. The nurse spoke in a gentle, soft manner to calm and reassure the patient before his delicate surgical procedure, showing compassionate bedside manner.",
+  "difficulty": "C1",
+  "source": "Medical care scenario",
+  "tags": [
+    "healthcare",
+    "patient-care",
+    "surgery"
+  ],
+  "timeCreated": 1720076520
+}

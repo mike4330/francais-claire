@@ -1,5 +1,6 @@
 {
   "id": 28,
+  "audioText": "La météo prévoit du soleil pour la fête ce week-end.",
   "audioTemplate": "La météo prévoit {weather} pour {event} {day}.",
   "templateVariables": {
     "weather": {
@@ -45,21 +46,22 @@
       ]
     }
   },
-  "question": "What does the weather forecast predict for the event?",
+  "question": "What does the weather forecast predict?",
   "questionType": "comprehension",
   "options": [
-    "Sunshine for the festival this weekend.",
-    "Rain for the market tomorrow.",
-    "Wind for the concert tonight.",
-    "Snow for the match on Monday."
+    "Sunshine for the festival this weekend",
+    "Rain for a different event tomorrow",
+    "Wind for another event tonight", 
+    "Snow for a sporting event on Monday"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'La météo prévoit du soleil pour la fête ce week-end' – the weather forecast predicts sunshine for the festival this weekend.",
+  "explanation": "The weather forecast predicts 'du soleil pour la fête ce week-end' – sunshine for the festival this weekend. All template variations describe a weather prediction for a specific event and time, with the core meaning preserved across different combinations.",
   "difficulty": "A2",
-  "source": "Synthetic Weather",
+  "source": "Weather forecast template",
   "tags": [
     "weather",
     "forecast",
-    "festival"
-  ]
+    "events"
+  ],
+  "timeCreated": 1720817940
 }

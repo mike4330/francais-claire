@@ -1,0 +1,18 @@
+{
+    "id": 1405,
+    "audioText": "Sa peau pâle a changée dangereusement après l'exposition prolongée au soleil intense hier.",
+    "question": "What happened to her skin?",
+    "questionType": "comprehension",
+    "options": [
+        "Her pale skin dangerously changed after prolonged sun exposure",
+        "Her dark skin became slightly red from brief outdoor activity",
+        "Her normal skin turned slightly brown from a short walk",
+        "Her tanned skin improved gradually from regular moisturizing"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Her pale skin dangerously changed after prolonged sun exposure'. The text states '<em>Sa peau pâle a changée dangereusement après l'exposition prolongée au soleil intense hier</em>' - Her pale skin dangerously changed after prolonged exposure to intense sun yesterday. 'Pâle' means 'pale', 'changée' is the past participle of 'changer' (to change), and 'dangereusement' means 'dangerously'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - health context",
+    "tags": ["health", "weather", "safety"],
+    "timeCreated": 1720817760
+}

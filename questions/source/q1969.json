@@ -1,0 +1,23 @@
+{
+  "id": 1969,
+  "audioText": "Le gouvernement déclare que dorénavant, les citoyens pourront vivre de manière plus tranquille grâce aux nouvelles réformes économiques et sociales mises en place.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Le gouvernement déclare que dorénavant, les citoyens pourront vivre de manière plus tranquille grâce aux nouvelles réformes économiques et sociales mises en place.",
+    "Le gouvernement déclare que dorénavant, les citoyens pourront vivre de manière plus tranquilles grâce aux nouvelles réformes économiques et sociales mises en place.",
+    "Le gouvernement déclare que dorénavant, les citoyens pourront vivre de manière plus tranquille grâce aux nouvelles réformes économiques et sociales mise en place.",
+    "Le gouvernement déclare que dorénavant, les citoyens pourrons vivre de manière plus tranquille grâce aux nouvelles réformes économiques et sociales mises en place."
+  ],
+  "correct": 0,
+  "explanation": "The correct option maintains proper agreements: 'tranquille' (invariable after 'manière'), not 'tranquilles', 'mises' (feminine plural with 'réformes'), not 'mise', and 'pourront' (third person plural future), not 'pourrons' (first person plural). This listening exercise tests advanced political vocabulary and complex grammatical structures.",
+  "difficulty": "C1",
+  "source": "Strategic vocabulary targeting for 'dorénavant'",
+  "tags": [
+    "politics",
+    "government",
+    "reform"
+  ],
+  "parentQuestion": 1789,
+  "timeCreated": 1720866120
+}

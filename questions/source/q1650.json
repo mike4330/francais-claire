@@ -1,19 +1,23 @@
 {
-    "id": 1650,
-    "audioText": "Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.",
-        "Tu seras probablement satisfaite du résultat quand nous aurons terminé ce projet ambitieux.",
-        "Tu seras probablement satisfait du résultat quand nous avons terminé ce projet ambitieux.",
-        "Tu seras probablement satisfait du résultat quand nous aurons terminés ce projet ambitieux."
-    ],
-    "correct": 0,
-    "explanation": "The correct text is 'Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.' The distractors test gender agreement of the adjective (satisfaite vs satisfait - assuming masculine), temporal concordance (avons vs aurons), and past participle agreement (terminés vs terminé).",
-    "difficulty": "C1",
-    "source": "Future tense conjugation with être",
-    "tags": ["workplace", "projects", "future-planning"],
-    "parentQuestion": 1550,
-    "timeCreated": 1752116280
+  "id": 1650,
+  "audioText": "Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.",
+    "Tu seras probablement satisfaite du résultat quand nous aurons terminé ce projet ambitieux.",
+    "Tu seras probablement satisfait du résultat quand nous avons terminé ce projet ambitieux.",
+    "Tu seras probablement satisfait du résultat quand nous aurons terminés ce projet ambitieux."
+  ],
+  "correct": 0,
+  "explanation": "The correct text is 'Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.' The distractors test gender agreement of the adjective (satisfaite vs satisfait - assuming masculine), temporal concordance (avons vs aurons), and past participle agreement (terminés vs terminé).",
+  "difficulty": "C1",
+  "source": "Future tense conjugation with être",
+  "tags": [
+    "workplace",
+    "projects",
+    "future-planning"
+  ],
+  "parentQuestion": 1883,
+  "timeCreated": 1752116280
 }

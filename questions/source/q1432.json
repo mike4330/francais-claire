@@ -1,0 +1,18 @@
+{
+    "id": 1432,
+    "audioText": "Au contraire de nos attentes, les manœuvres navales sont finies plus tôt que prévu.",
+    "question": "What happened contrary to expectations?",
+    "questionType": "comprehension",
+    "options": [
+        "The naval maneuvers finished earlier than expected",
+        "The weather conditions became worse than forecasted originally",
+        "The supply ships arrived later than scheduled this morning",
+        "The communication systems failed during the critical operations"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'The naval maneuvers finished earlier than expected'. The text states '<em>Au contraire de nos attentes, les manœuvres navales sont finies plus tôt que prévu</em>' - Contrary to our expectations, the naval maneuvers are finished earlier than expected. 'Contraire' means 'contrary', 'finies' is the past participle of 'finir' (to finish), and 'navales' refers to naval operations.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - naval operations context",
+    "tags": ["maritime", "military", "operations"],
+    "timeCreated": 1720820580
+}

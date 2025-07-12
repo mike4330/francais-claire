@@ -1,0 +1,22 @@
+{
+  "id": 1485,
+  "audioText": "Quand nous étions jeunes, nous allions souvent au parc le dimanche.",
+  "question": "Where did they often go on Sundays when they were young?",
+  "questionType": "comprehension",
+  "options": [
+    "To the park.",
+    "To the beach.",
+    "To the cinema.",
+    "To the museum."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'allions' - the imperfect form of 'aller' (to go) for nous. 'Nous allions' means 'we used to go/were going'. The imperfect describes a habitual action in the past.",
+  "difficulty": "B1",
+  "source": "Childhood memories discussion",
+  "tags": [
+    "childhood",
+    "memories",
+    "family"
+  ],
+  "timeCreated": 1720108800
+}

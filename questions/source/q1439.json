@@ -1,0 +1,18 @@
+{
+    "id": 1439,
+    "audioText": "Si vous mourez dans cette démission, vous mordrez votre lèvre de regret pour le reste de l'éternité.",
+    "question": "What will happen if you die in this resignation?",
+    "questionType": "comprehension",
+    "options": [
+        "You will bite your lip with regret for all eternity",
+        "You will lose all your professional reputation permanently",
+        "You will disappoint your family and close friends deeply",
+        "You will miss all future career advancement opportunities"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'You will bite your lip with regret for all eternity'. The text states '<em>Si vous mourez dans cette démission, vous mordrez votre lèvre de regret pour le reste de l'éternité</em>' - If you die in this resignation, you will bite your lip with regret for all eternity. 'Mourez' is the second-person plural present form of 'mourir' (to die), and 'lèvre' means 'lip'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - workplace resignation context",
+    "tags": ["resignation", "workplace", "regret"],
+    "timeCreated": 1720821000
+}

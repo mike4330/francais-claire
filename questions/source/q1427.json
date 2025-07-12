@@ -1,0 +1,18 @@
+{
+    "id": 1427,
+    "audioText": "Si j'étais avocat, je deviendrais spécialiste du système judiciaire pour sortir les innocents de prison.",
+    "question": "What would the speaker become a specialist in?",
+    "questionType": "comprehension",
+    "options": [
+        "The judicial system to get innocent people out of prison",
+        "Criminal psychology to understand defendant behavior patterns",
+        "Corporate law to help businesses navigate legal regulations",
+        "International treaties to resolve diplomatic conflicts peacefully"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'The judicial system to get innocent people out of prison'. The text states '<em>Si j'étais avocat, je deviendrais spécialiste du système judiciaire pour sortir les innocents de prison</em>' - If I were a lawyer, I would become a specialist in the judicial system to get innocent people out of prison. 'Deviendrais' is the conditional form of 'devenir' (to become), and 'prison' means 'prison'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - legal justice context",
+    "tags": ["judiciary", "justice", "legal"],
+    "timeCreated": 1720820280
+}

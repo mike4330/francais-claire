@@ -1,18 +1,18 @@
 {
     "id": 1500,
-    "audioText": "Outre ses qualités professionnelles remarquables, elle possède une personnalité charmante qui séduit tous ses interlocuteurs.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
+    "audioText": "Dans l'armée, vous teniez à maintenir vos routines de soins personnels malgré les conditions difficiles sur le terrain.",
+    "question": "What did you insist on maintaining in the army despite difficult field conditions?",
+    "questionType": "comprehension",
     "options": [
-        "Outre ses qualités professionnelles remarquables, elle possède une personnalité charmante qui séduit tous ses interlocuteurs.",
-        "Autre ses qualités professionnelles remarquables, elle possède une personnalité charmante qui séduit tous ses interlocuteurs.",
-        "Outre ses qualités professionnelles remarquables, elle possède une personnalité charmante qui séduisent tous ses interlocuteurs.",
-        "Outre ses qualités professionnelles remarquables, elle possède une personnalité charmante qui séduit tous ces interlocuteurs."
+        "Your personal care routines",
+        "Regular communication with family members back home",
+        "Strict adherence to scheduled meal times daily",
+        "Weekly physical fitness training sessions consistently"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Outre ses qualités professionnelles remarquables, elle possède une personnalité charmante qui séduit tous ses interlocuteurs.</em>' - 'Besides her remarkable professional qualities, she has a charming personality that seduces all her interlocutors.' This tests the adverb 'outre' (besides/in addition to) in a professional evaluation context.",
-    "difficulty": "C2",
-    "source": "Professional evaluation and personal qualities assessment",
-    "tags": ["workplace", "personality", "assessment", "professional-qualities"],
-    "timeCreated": 1736347380
+    "explanation": "The correct answer is 'Your personal care routines'. The text states '<em>Dans l'armée, vous teniez à maintenir vos routines de soins personnels malgré les conditions difficiles sur le terrain</em>' - In the army, you insisted on maintaining your personal care routines despite difficult field conditions. 'Teniez' is the second-person plural imperfect of 'tenir' (to hold/insist), and 'armée' means 'army'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - military personal care context",
+    "tags": ["personal-care", "military", "routine"],
+    "timeCreated": 1720822320
 }

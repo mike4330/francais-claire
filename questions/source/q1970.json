@@ -1,0 +1,22 @@
+{
+  "id": 1970,
+  "audioText": "Le directeur général a accepté illico la proposition de rachat de l'entreprise concurrente, transformant instantanément le marché.",
+  "question": "How did the CEO accept the buyout proposal?",
+  "questionType": "comprehension",
+  "options": [
+    "Immediately",
+    "Reluctantly",
+    "After long consideration",
+    "Conditionally"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le directeur général a accepté illico la proposition de rachat de l'entreprise concurrente, transformant instantanément le marché</em>' - The CEO immediately accepted the buyout proposal of the competing company, instantly transforming the market. 'Illico' means immediately or right away, indicating swift action.",
+  "difficulty": "C1",
+  "source": "Strategic vocabulary targeting for 'illico'",
+  "tags": [
+    "business",
+    "mergers",
+    "corporate-decisions"
+  ],
+  "timeCreated": 1720867180
+}

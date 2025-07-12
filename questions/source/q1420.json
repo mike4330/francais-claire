@@ -1,0 +1,18 @@
+{
+    "id": 1420,
+    "audioText": "Les syndicats croient que les négociations aideront le peuple travailleur à obtenir de meilleures conditions de travail.",
+    "question": "What do the unions believe the negotiations will help with?",
+    "questionType": "comprehension",
+    "options": [
+        "Help working people get better working conditions",
+        "Help employers reduce their operational costs significantly",
+        "Help government officials understand industry regulations better",
+        "Help local communities develop new recreational facilities"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Help working people get better working conditions'. The text states '<em>Les syndicats croient que les négociations aideront le peuple travailleur à obtenir de meilleures conditions de travail</em>' - The unions believe that the negotiations will help working people get better working conditions. 'Aideront' is the future tense of 'aider' (to help), 'peuple' means 'people', and 'travailleur' means 'working/worker'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - labor negotiations context",
+    "tags": ["labor", "workplace", "negotiations"],
+    "timeCreated": 1720819920
+}

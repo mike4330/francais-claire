@@ -1,0 +1,22 @@
+{
+  "id": 1472,
+  "audioText": "L'information a été donnée aux journalistes hier soir.",
+  "question": "What happened to the information?",
+  "questionType": "comprehension",
+  "options": [
+    "It was given to journalists yesterday evening.",
+    "It was given to journalists this morning.",
+    "It was taken from journalists yesterday evening.",
+    "It was hidden from journalists yesterday evening."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'donnée' - the past participle feminine form of 'donner' (to give). 'L'information a été donnée' means 'the information was given'. The past participle agrees with the feminine noun 'information'.",
+  "difficulty": "B2",
+  "source": "Media and journalism context",
+  "tags": [
+    "media",
+    "journalism",
+    "information"
+  ],
+  "timeCreated": 1720108800
+}
