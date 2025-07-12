@@ -1,0 +1,18 @@
+{
+    "id": 1254,
+    "audioText": "N'oubliez pas cette double vérification avant votre départ demain matin.",
+    "question": "N'______ pas cette double vérification avant votre départ demain matin.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "oubliez",
+        "oublies",
+        "oublie",
+        "oublions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>N'oubliez pas cette double vérification avant votre départ demain matin</em>' - Don't forget this double check before your departure tomorrow morning. 'Oubliez' is the second person plural imperative form of 'oublier' (to forget), used when giving instructions to multiple people or speaking formally to someone.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: oubliez + double",
+    "tags": ["workplace", "instructions", "reminders"],
+    "timeCreated": 1736622000
+}

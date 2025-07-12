@@ -1,0 +1,18 @@
+{
+    "id": 593,
+    "audioText": "Petit, je voyais souvent mes grands-parents le dimanche après-midi.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Petit, je voyais souvent mes grands-parents le dimanche après-midi.",
+        "Petit, je visitais souvent mes grands-parents le dimanche après-midi.",
+        "Petit, je voyais souvent mes grands-parents le samedi après-midi.",
+        "Petit, je voyais toujours mes grands-parents le dimanche après-midi."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Petit, je voyais souvent mes grands-parents le dimanche après-midi</em>' - As a child, I often saw my grandparents on Sunday afternoon. 'Petit' functions as an absolute adjective meaning 'as a child'. The distractors test verb confusion (visitais), day confusion (samedi), and frequency confusion (toujours).",
+    "difficulty": "B1",
+    "source": "Childhood memories and family traditions",
+    "tags": ["childhood", "family", "grandparents", "traditions"],
+    "timeCreated": 1735949340
+}

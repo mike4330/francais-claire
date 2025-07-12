@@ -1,0 +1,18 @@
+{
+    "id": 1284,
+    "audioText": "Le revoir de ces documents confidentiels nécessite effectivement une autorisation spéciale du directeur.",
+    "question": "Le ______ de ces documents confidentiels nécessite effectivement une autorisation spéciale du directeur.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "revoir",
+        "révision",
+        "regard",
+        "contrôle"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le revoir de ces documents confidentiels nécessite effectivement une autorisation spéciale du directeur</em>' - The review of these confidential documents actually requires special authorization from the director. 'Revoir' is used here as a masculine noun meaning 'review/re-examination'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: revoir + effectivement + autorisation",
+    "tags": ["workplace", "documentation", "authorization"],
+    "timeCreated": 1736624100
+}

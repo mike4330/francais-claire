@@ -1,0 +1,18 @@
+{
+    "id": 1023,
+    "audioText": "Dans cette affaire architecturale complexe, l'ouvrier utilise stratégiquement son tournevis pour négocier un compromis concernant la tour de perceuse défectueuse.",
+    "question": "In this complex architectural affair, how does the worker use his screwdriver?",
+    "questionType": "comprehension",
+    "options": [
+        "Strategically to negotiate a compromise concerning the defective drill tower",
+        "Carefully to repair the broken construction equipment",
+        "Quickly to finish the building project on time",
+        "Safely to avoid workplace accidents"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans cette affaire architecturale complexe, l'ouvrier utilise stratégiquement son tournevis pour négocier un compromis concernant la tour de perceuse défectueuse.</em>' - 'In this complex architectural affair, the worker strategically uses his screwdriver to negotiate a compromise concerning the defective drill tower.' The nouns 'tournevis' means screwdriver, 'tour' means tower, 'perceuse' means drill, and 'affaire' means affair/matter.",
+    "difficulty": "B1",
+    "source": "Strategic tool targeting",
+    "tags": ["tools", "architecture", "compromise"],
+    "timeCreated": 1720715400
+}

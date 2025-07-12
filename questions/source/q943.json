@@ -1,0 +1,24 @@
+{
+  "id": 943,
+  "audioText": "Les deux parties ont signé un accord commercial important.",
+  "question": "Les deux parties ont signé un ______ commercial important.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "accord",
+    "accès",
+    "accueil",
+    "accès"
+  ],
+  "correct": 0,
+  "explanation": "The sentence means 'The two parties signed an important commercial agreement.' The word 'accord' means agreement or accord. This is a common term in business and political contexts.",
+  "difficulty": "B1",
+  "source": "Business News",
+  "tags": [
+    "business",
+    "agreements",
+    "commerce",
+    "negotiations",
+    "formal-language"
+  ],
+  "timeCreated": 1751301389
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1173,
+    "audioText": "Il s'est arrêté au bord de la route pour examiner le pneu endommagé de sa voiture.",
+    "question": "Where did he stop to examine his damaged tire?",
+    "questionType": "comprehension",
+    "options": [
+        "At the edge of the road",
+        "In the middle of the road",
+        "At the gas station",
+        "In the parking lot"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il s'est arrêté au bord de la route pour examiner le pneu endommagé de sa voiture</em>' - He stopped at the edge of the road to examine the damaged tire of his car. 'Bord' means edge or border, and 'endommagé' means damaged.",
+    "difficulty": "B2",
+    "source": "Strategic bottom noun coverage",
+    "tags": ["transportation", "car-trouble", "roadside"],
+    "timeCreated": 1752095700
+}

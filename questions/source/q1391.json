@@ -1,0 +1,18 @@
+{
+    "id": 1391,
+    "audioText": "Cette région sévèrement touchée par les inondations reste occupé par les équipes de secours.",
+    "question": "What is grammatically incorrect in this sentence?",
+    "questionType": "comprehension",
+    "options": [
+        "The past participle 'occupé' should agree with the feminine noun 'région' as 'occupée'",
+        "The adverb 'sévèrement' should be placed after the verb",
+        "The verb 'reste' should be in past tense as 'restait'",
+        "The word 'inondations' should be singular as 'inondation'"
+    ],
+    "correct": 0,
+    "explanation": "The text should read '<em>Cette région sévèrement touchée par les inondations reste occupée par les équipes de secours</em>' - This region severely affected by floods remains occupied by rescue teams. 'Occupée' (feminine) must agree with 'région' (feminine noun). 'Sévèrement' means severely.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: occupé → occupée + sévèrement",
+    "tags": ["natural-disasters", "grammar", "rescue"],
+    "timeCreated": 1736629980
+}

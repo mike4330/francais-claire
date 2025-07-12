@@ -1,0 +1,18 @@
+{
+    "id": 1222,
+    "audioText": "Il trouve inutile de porter cette charge légère quand il y a des machines vivantes plus efficaces.",
+    "question": "What does he find pointless?",
+    "questionType": "comprehension",
+    "options": [
+        "Carrying this light load when there are more efficient living machines",
+        "Using modern technology for heavy tasks",
+        "Working with automated systems",
+        "Relying on manual labor for everything"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il trouve inutile de porter cette charge légère quand il y a des machines vivantes plus efficaces</em>' - He finds it pointless to carry this light load when there are more efficient living machines. This targets the adjectives 'inutile', 'légère', and 'vivante' in a technology context.",
+    "difficulty": "B2",
+    "source": "Strategic adjective targeting: inutile, léger, vivant",
+    "tags": ["technology", "efficiency", "automation"],
+    "timeCreated": 1720962300
+}

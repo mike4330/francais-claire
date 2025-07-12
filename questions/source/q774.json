@@ -1,0 +1,18 @@
+{
+    "id": 774,
+    "audioText": "Il tiendra naturellement sa promesse même si cela semble impossible à réaliser maintenant.",
+    "question": "What will he naturally do despite the apparent difficulty?",
+    "questionType": "comprehension",
+    "options": [
+        "Keep his promise even if it seems impossible",
+        "Cancel his plans due to the challenges",
+        "Ask for help from his family members",
+        "Delay the project until next year"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il tiendra naturellement sa promesse même si cela semble impossible à réaliser maintenant</em>' - He will naturally keep his promise even if it seems impossible to achieve now. 'Tiendra' is the future form of 'tenir' (to hold/keep), 'naturellement' means 'naturally', and 'impossible' describes the apparent difficulty.",
+    "difficulty": "B2",
+    "source": "Personal commitment",
+    "tags": ["promises", "determination", "challenges"],
+    "timeCreated": 1736102580
+}

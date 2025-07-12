@@ -1,0 +1,18 @@
+{
+    "id": 1187,
+    "audioText": "Le parent inquiet attend le retour de son fils qui cherche du boulot en ville.",
+    "question": "What is the worried parent waiting for?",
+    "questionType": "comprehension",
+    "options": [
+        "The return of their son who is looking for work in the city",
+        "News about their daughter's university admission",
+        "The delivery of an important package",
+        "The results of a medical examination"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le parent inquiet attend le retour de son fils qui cherche du boulot en ville</em>' - The worried parent is waiting for the return of their son who is looking for work in the city. 'Parent' means parent, 'retour' means return, and 'boulot' means job/work.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: parent, retour, boulot",
+    "tags": ["family", "work", "city", "worry"],
+    "timeCreated": 1752112180
+}

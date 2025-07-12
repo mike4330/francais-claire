@@ -1,0 +1,18 @@
+{
+    "id": 1256,
+    "audioText": "Cette impression pâle deviendra plus profonde avec le temps et l'expérience.",
+    "question": "Cette impression pâle ______ plus profonde avec le temps et l'expérience.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "deviendra",
+        "devient",
+        "devenait",
+        "deviennent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette impression pâle deviendra plus profonde avec le temps et l'expérience</em>' - This pale impression will become deeper with time and experience. 'Deviendra' is the third person singular future form of 'devenir' (to become), indicating a change that will happen over time.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: deviendra + pâle + impression + profonde",
+    "tags": ["emotions", "personal-development", "time"],
+    "timeCreated": 1736622180
+}

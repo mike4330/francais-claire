@@ -1,0 +1,18 @@
+{
+    "id": 849,
+    "audioText": "Je participerais volontiers à ce projet si j'avais plus de temps libre ce mois-ci.",
+    "question": "Je participerais ______ à ce projet si j'avais plus de temps libre ce mois-ci.",
+    "questionType": "FIB-reading",
+    "options": [
+        "volontiers",
+        "avec plaisir",
+        "certainement",
+        "probablement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je participerais volontiers à ce projet si j'avais plus de temps libre ce mois-ci</em>' - I would gladly participate in this project if I had more free time this month. 'Volontiers' means 'gladly/willingly' and expresses willingness.",
+    "difficulty": "B2",
+    "source": "Project participation",
+    "tags": ["willingness", "projects", "time-management", "volunteering"],
+    "timeCreated": 1736106360
+}

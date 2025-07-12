@@ -1,0 +1,18 @@
+{
+    "id": 1264,
+    "audioText": "Il faut que tu connaisses ce vieil oncle fier avant ton prochain voyage.",
+    "question": "Il faut que tu ______ ce vieil oncle fier avant ton prochain voyage.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "connaisses",
+        "connais",
+        "connaisse",
+        "connaissez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il faut que tu connaisses ce vieil oncle fier avant ton prochain voyage</em>' - You must know this proud old uncle before your next trip. 'Connaisses' is the second person singular subjunctive form of 'connaître' (to know), used after 'il faut que' which requires the subjunctive mood.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: connaisses + vieil + oncle + fier",
+    "tags": ["family", "travel", "obligations"],
+    "timeCreated": 1736622660
+}

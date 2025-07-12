@@ -1,0 +1,18 @@
+{
+    "id": 1296,
+    "audioText": "Il faut que cette tradition meure naturellement pour que notre société évolue librement.",
+    "question": "Il faut que cette tradition ______ naturellement pour que notre société évolue librement.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "meure",
+        "meurt",
+        "mourra",
+        "mourait"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il faut que cette tradition meure naturellement pour que notre société évolue librement</em>' - This tradition must die naturally so that our society can evolve freely. 'Meure' is the subjunctive form of 'mourir' (to die), used after 'il faut que' which requires the subjunctive mood.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: meure + naturellement + société + librement",
+    "tags": ["social-change", "tradition", "evolution"],
+    "timeCreated": 1736624820
+}

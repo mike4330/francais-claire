@@ -1,0 +1,18 @@
+{
+    "id": 176,
+    "audioText": "Tu connais bien cette ville ?",
+    "question": "What is being asked?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "connais",
+        "connaît",
+        "connaissez",
+        "connaissent"
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'connais' - the present form of 'connaître' (to know/be familiar with) for tu. 'Tu connais' means 'you know/are familiar with'. The question asks if you know this city well.",
+    "difficulty": "A1",
+    "source": "Asking about familiarity with places",
+    "tags": ["travel", "familiarity", "cities"],
+    "timeCreated": 1720108800
+}

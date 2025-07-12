@@ -1,0 +1,18 @@
+{
+    "id": 1501,
+    "audioText": "Les enfants jouaient bruyamment dans la cour de récréation, créant une atmosphère joyeuse.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Les enfants jouaient bruyamment dans la cour de récréation, créant une atmosphère joyeuse.",
+        "Les enfants jouaient brillamment dans la cour de récréation, créant une atmosphère joyeuse.",
+        "Les enfants jouaient bruyamment dans la cours de récréation, créant une atmosphère joyeuse.",
+        "Les enfants jouaient bruyamment dans la cour de récréation, créent une atmosphère joyeuse."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les enfants jouaient bruyamment dans la cour de récréation, créant une atmosphère joyeuse.</em>' - 'The children were playing noisily in the playground, creating a joyful atmosphere.' This tests the adverb 'bruyamment' (noisily) in a school playground context.",
+    "difficulty": "B2",
+    "source": "School playground activities and childhood",
+    "tags": ["education", "children", "playground", "noise"],
+    "timeCreated": 1736347440
+}

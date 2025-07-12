@@ -1,0 +1,22 @@
+{
+  "id": 228,
+  "audioText": "Ils diront la vérité demain matin.",
+  "question": "When will they tell the truth?",
+  "questionType": "comprehension",
+  "options": [
+    "Tomorrow morning.",
+    "Yesterday morning.",
+    "This morning.",
+    "Next week."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ils diront la vérité demain matin</em>' - They will tell the truth tomorrow morning. The verb 'diront' is the future tense of 'dire' (to say/tell) and 'demain matin' means tomorrow morning.",
+  "difficulty": "A2",
+  "source": "Future planning conversation",
+  "tags": [
+    "truth",
+    "future-plans",
+    "conversation"
+  ],
+  "timeCreated": 1720108800
+}

@@ -1,0 +1,18 @@
+{
+    "id": 312,
+    "audioText": "Tu vivras une minute géniale et vous entendrez mon salut présent.",
+    "question": "What kind of minute will you live?",
+    "questionType": "comprehension",
+    "options": [
+        "A brilliant minute",
+        "A sad minute",
+        "A long minute",
+        "A quiet minute"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu vivras une minute géniale et vous entendrez mon salut présent.</em>' - You will live a brilliant minute and you will hear my present greeting. 'Géniale' means brilliant/fantastic, describing the quality of the minute.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["future", "experience", "greeting", "positivity"],
+    "timeCreated": 1720824000
+}

@@ -1,0 +1,18 @@
+{
+    "id": 982,
+    "audioText": "Il organise secrètement ce rendez-vous pour lui faire plaisir malgré son emploi du temps chargé.",
+    "question": "Il organise ______ ce rendez-vous pour lui faire plaisir malgré son emploi du temps chargé.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "secrètement",
+        "rapidement",
+        "facilement",
+        "simplement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il organise secrètement ce rendez-vous pour lui faire plaisir malgré son emploi du temps chargé</em>' - He secretly organizes this appointment to please him/her despite his busy schedule. 'Secrètement' means secretly, and 'plaisir' means pleasure or to please someone.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting for 'secrètement'",
+    "tags": ["scheduling", "relationships", "planning"],
+    "timeCreated": 1751853190
+}

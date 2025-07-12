@@ -1,0 +1,18 @@
+{
+    "id": 827,
+    "audioText": "Tu mourras de soif si tu ne bois que des boissons caféinées pendant tes examens d'été.",
+    "question": "Tu ______ de soif si tu ne bois que des boissons caféinées pendant tes examens d'été.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "mourras",
+        "souffriras",
+        "pâtiras",
+        "languiras"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu mourras de soif si tu ne bois que des boissons caféinées pendant tes examens d'été</em>' - You will die of thirst if you only drink caffeinated beverages during your summer exams. 'Mourras' is the future form of 'mourir' (to die), targeting missing verb conjugate with drinks/students themes.",
+    "difficulty": "B2",
+    "source": "Study habits",
+    "tags": ["drinks", "students", "health", "exams"],
+    "timeCreated": 1736105220
+}

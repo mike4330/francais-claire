@@ -1,0 +1,18 @@
+{
+    "id": 1058,
+    "audioText": "Elle arrêterait certainement de travailler si elle gagnait à la loterie nationale.",
+    "question": "Elle ______ certainement de travailler si elle gagnait à la loterie nationale.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêterait",
+        "arrête",
+        "arrêtera",
+        "arrêtait"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle arrêterait certainement de travailler si elle gagnait à la loterie nationale.</em>' - 'She would certainly stop working if she won the national lottery.' The missing word is 'arrêterait' (would stop), the conditional tense third person singular of 'arrêter'.",
+    "difficulty": "B2",
+    "source": "Lottery dreams and work retirement fantasies",
+    "tags": ["lottery", "work", "dreams", "retirement"],
+    "timeCreated": 1736349660
+}

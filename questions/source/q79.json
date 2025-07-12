@@ -1,0 +1,24 @@
+{
+  "id": 79,
+  "audioText": "Tu vas acheter un peu de pain pour le dîner ce soir.",
+  "question": "Tu ______ acheter un peu de pain pour le dîner ce soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "vas",
+    "va",
+    "vont",
+    "allez"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'vas' - the second person singular form of 'aller' (to go). With 'tu' (you), we use 'vas'. The sentence means 'You are going to buy a little bread for dinner tonight.' 'Peu' means little/a bit.",
+  "difficulty": "A1",
+  "source": "Daily Shopping and Meals",
+  "tags": [
+    "shopping",
+    "food",
+    "bread",
+    "dinner",
+    "daily-life"
+  ],
+  "timeCreated": 1735500702
+}

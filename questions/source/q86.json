@@ -1,0 +1,20 @@
+{
+  "id": 86,
+  "audioText": "Mon père parlait français très bien.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Mon père parlait français très bien.",
+    "Mon père parle français très bien.",
+    "Mon père parlera français très bien.",
+    "Mon père parlons français très bien."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon père parlait français très bien</em>' - My father spoke French very well. The correct form is 'parlait', the imperfect tense of 'parler' (to speak), indicating a past habitual action. The distractors test tense confusion (present 'parle', future 'parlera') and agreement error ('parlons').",
+  "difficulty": "A2",
+  "source": "Family description and past abilities",
+  "tags": [
+    "family"
+  ],
+  "timeCreated": 1704067200
+}

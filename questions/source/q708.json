@@ -1,0 +1,18 @@
+{
+    "id": 708,
+    "audioText": "Mon projet finit toujours par être retardé à cause de problèmes techniques.",
+    "question": "Mon projet ______ toujours par être retardé à cause de problèmes techniques.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "finit",
+        "finis",
+        "finissent",
+        "finira"
+    ],
+    "correct": 0,
+    "explanation": "The text contains 'Mon projet finit toujours par être retardé à cause de problèmes techniques' - My project always ends up being delayed because of technical problems. 'Finit' is the third person singular present tense of 'finir' (to finish/end), expressing a recurring pattern.",
+    "difficulty": "B1",
+    "source": "Project management challenges",
+    "tags": ["workplace", "projects", "delays", "technology", "problems"],
+    "timeCreated": 1736067600
+}

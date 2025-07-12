@@ -1,0 +1,24 @@
+{
+  "id": 1343,
+  "audioText": "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit suffisant. Je crois qu'il vaut mieux continuer à étudier.'",
+  "parentQuestion": 973,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit suffisant. Je crois qu'il vaut mieux continuer à étudier.'",
+    "Marie dit : 'Je sais parler trois langues, mais je ne pense pas que ce soit suffisant. Je crois qu'il vaut mieux continuer à étudier.'",
+    "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit suffisant. Je pense qu'il vaut mieux continuer à étudier.'",
+    "Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit assez. Je crois qu'il vaut mieux continuer à étudier.'"
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'crois' (pas 'pense') dans les deux occurrences, et 'suffisant' (pas 'assez'). Cette distinction entre 'croire' et 'penser' est importante pour exprimer des opinions personnelles en français.",
+  "difficulty": "B1",
+  "source": "Savoir vs Croire Grammar - Listening",
+  "tags": [
+    "education",
+    "language-learning",
+    "self-assessment",
+    "personal-development"
+  ],
+  "timeCreated": 1720024500
+}

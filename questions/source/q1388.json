@@ -1,0 +1,18 @@
+{
+    "id": 1388,
+    "audioText": "Excusez-moi, pourriez-vous froidement expliquer cette situation moralement compliquée?",
+    "question": "______-moi, pourriez-vous froidement expliquer cette situation moralement compliquée?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "Excusez",
+        "Excusée",
+        "Excusé",
+        "Excuser"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Excusez-moi, pourriez-vous froidement expliquer cette situation moralement compliquée?</em>' - Excuse me, could you coldly explain this morally complicated situation? 'Excusez' is the polite imperative form for 'vous' (formal address). 'Froidement' means coldly and 'moralement' means morally.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: excusez + froidement + moralement",
+    "tags": ["politeness", "explanation", "ethics"],
+    "timeCreated": 1736629800
+}

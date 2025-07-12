@@ -1,0 +1,18 @@
+{
+    "id": 875,
+    "audioText": "Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer.",
+    "question": "What do many people think about modern technologies?",
+    "questionType": "comprehension",
+    "options": [
+        "They change how we communicate",
+        "They are too expensive",
+        "They are difficult to use",
+        "They should be avoided"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer</em>' - Many people think that modern technologies are rapidly changing our way of communicating. 'Gens' means people.",
+    "difficulty": "B2",
+    "source": "Public opinion on modern technology and communication",
+    "tags": ["technology", "communication", "social-opinion"],
+    "timeCreated": 1751786580
+}

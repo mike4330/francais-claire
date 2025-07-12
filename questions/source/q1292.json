@@ -1,0 +1,18 @@
+{
+    "id": 1292,
+    "audioText": "Tu travailles vivement sur ce projet merveilleux malgré les nombreuses difficultés rencontrées.",
+    "question": "Tu ______ vivement sur ce projet merveilleux malgré les nombreuses difficultés rencontrées.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "travailles",
+        "travaille",
+        "travaillez",
+        "travaillent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu travailles vivement sur ce projet merveilleux malgré les nombreuses difficultés rencontrées</em>' - You work vigorously on this wonderful project despite the numerous difficulties encountered. 'Travailles' is the second person singular present form of 'travailler' (to work).",
+    "difficulty": "B1",
+    "source": "Strategic targeting: travailles + vivement + merveilleux",
+    "tags": ["projects", "perseverance", "dedication"],
+    "timeCreated": 1736624580
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1386,
+    "audioText": "Entrons fraîchement dans cette salle affreusement décorée pour la réunion.",
+    "question": "Entrons ______ dans cette salle affreusement décorée pour la réunion.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fraîchement",
+        "frais",
+        "fraîche",
+        "fraîches"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Entrons fraîchement dans cette salle affreusement décorée pour la réunion</em>' - Let's freshly enter this horribly decorated room for the meeting. 'Entrons' means 'let's enter' (imperative), 'fraîchement' means freshly/newly, and 'affreusement' means horribly/terribly.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: entrons + fraîchement + affreusement",
+    "tags": ["meetings", "rooms", "decoration"],
+    "timeCreated": 1736629380
+}

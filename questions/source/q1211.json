@@ -1,0 +1,18 @@
+{
+    "id": 1211,
+    "audioText": "Son téléphone sonne au bord de la piscine de l'hôtel pendant qu'elle bronze.",
+    "question": "Where is her phone ringing?",
+    "questionType": "comprehension",
+    "options": [
+        "By the edge of the hotel pool while she's sunbathing",
+        "In her room while she's in the restaurant",
+        "At the reception desk while she's checking out",
+        "In the lobby while she's at the spa"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son téléphone sonne au bord de la piscine de l'hôtel pendant qu'elle bronze</em>' - Her phone rings by the edge of the hotel pool while she's sunbathing. This targets the nouns 'téléphone', 'bord', and 'hôtel' in a vacation relaxation context.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: téléphone, bord, hôtel",
+    "tags": ["vacation", "technology", "relaxation"],
+    "timeCreated": 1720618280
+}

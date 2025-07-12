@@ -1,0 +1,23 @@
+{
+  "id": 1112,
+  "audioText": "Je doute qu'elle aille à la fête ce soir parce qu'elle est très fatiguée.",
+  "question": "Je doute qu'elle ______ à la fête ce soir parce qu'elle est très fatiguée.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "aille",
+    "va",
+    "ira",
+    "allait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je doute qu'elle aille à la fête ce soir parce qu'elle est très fatiguée.</em>' - 'I doubt that she will go to the party tonight because she is very tired.' The correct form is 'aille' (subjunctive of 'aller'). After expressions of doubt like 'je doute que', French requires the subjunctive mood.",
+  "difficulty": "B2",
+  "source": "Social Plans",
+  "tags": [
+    "social-events",
+    "doubt",
+    "fatigue",
+    "evening-plans"
+  ],
+  "timeCreated": 1719964700
+}

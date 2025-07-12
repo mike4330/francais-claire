@@ -1,0 +1,19 @@
+{
+    "id": 1000,
+    "audioText": "Cet homme très beau croirait apparemment que tous les gens l'admirent sincèrement.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cet homme très beau croirait apparemment que tous les gens l'admirent sincèrement.",
+        "Cet homme très beau croirait apparemment que tous les gens l'aiment sincèrement.",
+        "Cet homme très beau croirait vraiment que tous les gens l'admirent sincèrement.",
+        "Cet homme très beau pourrait apparemment que tous les gens l'admirent sincèrement."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cet homme très beau croirait apparemment que tous les gens l'admirent sincèrement.</em>' - 'This very handsome man would apparently believe that everyone admires him sincerely.' This listening version tests precise auditory comprehension of the conditional 'croirait' and adverb 'apparemment', along with the key verb 'admirent'.",
+    "difficulty": "B2",
+    "source": "Listening version of q876",
+    "tags": ["social-psychology", "appearance", "self-perception"],
+    "parentQuestion": 876,
+    "timeCreated": 1720713600
+}

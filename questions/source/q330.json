@@ -1,0 +1,18 @@
+{
+    "id": 330,
+    "audioText": "Mon téléphone ne marche pas bien ce matin.",
+    "question": "What is not working well this morning?",
+    "questionType": "comprehension",
+    "options": [
+        "My telephone",
+        "My computer",
+        "My television",
+        "My radio"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon téléphone ne marche pas bien ce matin</em>' - My telephone is not working well this morning. 'Téléphone' means telephone, and 'ne marche pas bien' means is not working well.",
+    "difficulty": "A2",
+    "source": "Strategic noun threshold reinforcement",
+    "tags": ["technology", "communication", "daily-life"],
+    "timeCreated": 1752095100
+}

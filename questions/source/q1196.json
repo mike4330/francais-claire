@@ -1,0 +1,19 @@
+{
+    "id": 1196,
+    "audioText": "Cette décision a été prise après consultation de tous les propriétaires d'animaux du quartier.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cette décision a été prise après consultation de tous les propriétaires d'animaux du quartier.",
+        "Cette décision a été pris après consultation de tous les propriétaires d'animaux du quartier.",
+        "Cette décision a été prise après consultation de tous les propriétaires d'animaux de quartier.",
+        "Cette décision a été prise après consultation de tout les propriétaires d'animaux du quartier."
+    ],
+    "correct": 0,
+    "explanation": "The correct text is 'Cette décision a été prise après consultation de tous les propriétaires d'animaux du quartier.' The distractors test past participle agreement (pris vs prise), article usage (de vs du), and plural agreement (tout vs tous).",
+    "difficulty": "B2",
+    "source": "Neighborhood pet policy",
+    "tags": ["animals", "neighborhood", "decision"],
+    "parentQuestion": 452,
+    "timeCreated": 1752116040
+}

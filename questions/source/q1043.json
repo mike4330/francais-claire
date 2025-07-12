@@ -1,0 +1,18 @@
+{
+    "id": 1043,
+    "audioText": "Ce château magnifique attire des milliers de touristes chaque année.",
+    "question": "Ce château ______ attire des milliers de touristes chaque année.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "magnifique",
+        "historique",
+        "ancien",
+        "célèbre"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce château magnifique attire des milliers de touristes chaque année.</em>' - 'This magnificent castle attracts thousands of tourists each year.' The missing word is 'magnifique' (magnificent/splendid), describing something beautiful and impressive.",
+    "difficulty": "B1",
+    "source": "Tourism and historical attractions",
+    "tags": ["tourism", "castle", "beauty", "attractions"],
+    "timeCreated": 1736348760
+}

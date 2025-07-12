@@ -1,0 +1,22 @@
+{
+  "id": 934,
+  "audioText": "Nous avons exactement la même voiture que nos voisins.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous avons exactement la même voiture que nos voisins.",
+    "Nous avons exactement la mème voiture que nos voisins.",
+    "Nous avons exactement la mem voiture que nos voisins.",
+    "Nous avons exactement la mime voiture que nos voisins."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'même' (same). This adjective requires a circumflex accent on the 'e' to distinguish it from other similar words. 'La même voiture' means 'the same car' - we have exactly the same car as our neighbors.",
+  "difficulty": "B1",
+  "source": "Comparison with neighbors and possessions",
+  "tags": [
+    "comparison",
+    "neighbors",
+    "possessions"
+  ],
+  "timeCreated": 1704067200
+}

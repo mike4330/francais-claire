@@ -1,0 +1,18 @@
+{
+    "id": 1026,
+    "audioText": "Cette émission de téléréalité montre comment chaque général désolé gère les affaires militaires tout en maintenant une tour de contrôle efficace malgré les défis logistiques.",
+    "question": "What does this reality TV show demonstrate about each sorry general?",
+    "questionType": "comprehension",
+    "options": [
+        "How they manage military affairs while maintaining an efficient control tower despite logistical challenges",
+        "Their personal relationships with family members during deployment",
+        "Their training methods for new military recruits",
+        "Their strategies for international diplomatic negotiations"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette émission de téléréalité montre comment chaque général désolé gère les affaires militaires tout en maintenant une tour de contrôle efficace malgré les défis logistiques.</em>' - 'This reality TV show shows how each sorry general manages military affairs while maintaining an efficient control tower despite logistical challenges.' The nouns 'général' means general, 'affaire' means affairs, and 'tour' means tower.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting",
+    "tags": ["reality-tv", "military", "management"],
+    "timeCreated": 1720715700
+}

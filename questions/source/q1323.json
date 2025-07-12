@@ -1,0 +1,22 @@
+{
+  "id": 1323,
+  "audioText": "Restez calme pendant que nous réglons ce problème technique.",
+  "question": "What should people do while they fix the technical problem?",
+  "questionType": "comprehension",
+  "options": [
+    "Stay calm",
+    "Leave immediately",
+    "Call for help",
+    "Wait outside"
+  ],
+  "correct": 0,
+  "explanation": "The instruction says 'Restez calme pendant que nous réglons ce problème technique' - Stay calm while we fix this technical problem. 'Restez' is the 2nd person plural imperative form of 'rester' (to stay/remain).",
+  "difficulty": "B1",
+  "source": "Technical Support",
+  "tags": [
+    "technology",
+    "instructions",
+    "calm"
+  ],
+  "timeCreated": 1720022520
+}

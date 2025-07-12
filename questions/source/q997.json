@@ -1,0 +1,23 @@
+{
+    "id": 997,
+    "audioText": "L'artisanat moderne provoque cette guerre d'opinions : l'instant de création révèle l'envie profonde. Le feu de la forge illumine le plaisir du créateur, et son regard exprime ce langage corporel unique.",
+    "question": "Fill in the blank: 'L'instant de création révèle l'_____ profonde.'",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "envie",
+        "invite",
+        "envoie",
+        "année"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'artisanat moderne provoque cette guerre d'opinions : l'instant de création révèle l'envie profonde. Le feu de la forge illumine le plaisir du créateur, et son regard exprime ce langage corporel unique.</em>' - 'Modern crafting provokes this war of opinions: the moment of creation reveals the deep desire. The fire of the forge illuminates the creator's pleasure, and his gaze expresses this unique body language.' The missing word is 'envie' (desire/longing), referring to the deep creative urge.",
+    "difficulty": "B1",
+    "source": "Strategic noun-tag intersection",
+    "tags": [
+        "crafting",
+        "social-opinion",
+        "body-language",
+        "creativity"
+    ],
+    "timeCreated": 1720713600
+}

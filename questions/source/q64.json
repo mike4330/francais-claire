@@ -1,0 +1,22 @@
+{
+  "id": 64,
+  "audioText": "Tu aimes cette chose rouge ?",
+  "question": "Tu ______ cette chose rouge ?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "aimes",
+    "aimer",
+    "aimez",
+    "aimons"
+  ],
+  "correct": 0,
+  "explanation": "With 'tu' (you), we use 'aimes' - the second person singular form of 'aimer'. The phrase 'cette chose rouge' means 'this red thing'. This tests the conjugation of 'aimer' (to like/love) with the important noun 'chose' (thing).",
+  "difficulty": "A1",
+  "source": "Basic preference expression with color adjective",
+  "tags": [
+    "basic-vocabulary",
+    "colors",
+    "preferences",
+    "daily-life"
+  ]
+}

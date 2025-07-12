@@ -1,0 +1,18 @@
+{
+    "id": 841,
+    "audioText": "Nous finirons ce projet, ensuite nous pourrons enfin prendre nos vacances bien méritées.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Nous finirons ce projet, ensuite nous pourrons enfin prendre nos vacances bien méritées.",
+        "Nous finirons ce projet, ensuite nous pourrons enfin prendre nos vacances bien mérités.",
+        "Nous finirons ce projet, puis nous pourrons enfin prendre nos vacances bien méritées.",
+        "Nous finirons ce projet, ensuite nous pourrons enfin prendre nos congés bien mérités."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous finirons ce projet, ensuite nous pourrons enfin prendre nos vacances bien méritées</em>' - We will finish this project, then we can finally take our well-deserved vacation. 'Ensuite' means 'then/afterwards' and indicates sequence. The distractors test agreement error (mérités), synonym confusion (puis), and word choice (congés).",
+    "difficulty": "B1",
+    "source": "Work completion",
+    "tags": ["workplace", "vacation", "sequence", "completion"],
+    "timeCreated": 1736105880
+}

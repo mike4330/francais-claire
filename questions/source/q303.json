@@ -1,0 +1,18 @@
+{
+    "id": 303,
+    "audioText": "Cette drôle de journée commence tristement mais finit bien.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Cette drôle de journée commence tristement mais finit bien.",
+        "Cette drôle de journée commence tristement mais finit mal.",
+        "Cette belle journée commence tristement mais finit bien.",
+        "Cette drôle de journée commence lentement mais finit bien."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Cette drôle de journée commence tristement mais finit bien.</em>' - 'This funny day starts sadly but ends well.' The noun 'journée' means day, 'drôle' means funny/strange, and 'tristement' means sadly.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": ["stories", "emotions", "time"],
+    "timeCreated": 1720715800
+}

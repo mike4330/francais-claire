@@ -1,0 +1,18 @@
+{
+    "id": 252,
+    "audioText": "Les enfants jouent gaiement dans le parc.",
+    "question": "How are the children playing?",
+    "questionType": "comprehension",
+    "options": [
+        "Cheerfully",
+        "Quietly", 
+        "Carelessly",
+        "Competitively"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Les enfants jouent gaiement dans le parc</em>' - The children are playing cheerfully in the park. 'Gaiement' means 'cheerfully' or 'happily'.",
+    "difficulty": "A2",
+    "source": "Children at play",
+    "tags": ["play", "children", "park"],
+    "timeCreated": 1720442640
+}

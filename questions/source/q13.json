@@ -1,0 +1,22 @@
+{
+  "id": 13,
+  "audioText": "Normalement, je prends mon petit-déjeuner à 8h, mais aujourd'hui, je suis en retard.",
+  "question": "______, je prends mon petit-déjeuner à 8h.",
+  "questionType": "FIB-reading",
+  "options": [
+    "Jamais",
+    "Parfois",
+    "Normalement",
+    "Toujours"
+  ],
+  "correct": 2,
+  "explanation": "The adverb 'Normalement' (normally) is used to describe a habitual action or routine, which is contrasted with the situation today.",
+  "difficulty": "A2",
+  "source": "Gemini CLI",
+  "tags": [
+    "house",
+    "daily-routine",
+    "food"
+  ],
+  "timeCreated": 1720181355
+}

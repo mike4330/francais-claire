@@ -1,0 +1,18 @@
+{
+    "id": 322,
+    "audioText": "Le chat blanc dort tranquillement sur le lit.",
+    "question": "What color is the cat?",
+    "questionType": "comprehension",
+    "options": [
+        "White",
+        "Black",
+        "Gray",
+        "Brown"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le chat blanc dort tranquillement sur le lit</em>' - The white cat is sleeping peacefully on the bed. 'Blanc' means white, and 'tranquillement' means peacefully.",
+    "difficulty": "A2",
+    "source": "Strategic adjective coverage reinforcement",
+    "tags": ["animals", "colors", "home"],
+    "timeCreated": 1752094101
+}

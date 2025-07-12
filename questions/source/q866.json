@@ -1,0 +1,18 @@
+{
+    "id": 866,
+    "audioText": "La réunion passerait au prochain moment disponible si nous avions plus de participants.",
+    "question": "When would the meeting be rescheduled?",
+    "questionType": "comprehension",
+    "options": [
+        "To the previous available time",
+        "To the next available time",
+        "To next week definitely",
+        "To the same time tomorrow"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>La réunion passerait au prochain moment disponible</em>' - The meeting would move to the next available time. The conditional 'passerait' expresses a hypothetical action, 'prochain' means next, and 'moment' refers to a time slot.",
+    "difficulty": "B2",
+    "source": "Meeting scheduling and workplace coordination",
+    "tags": ["workplace", "meetings", "scheduling"],
+    "timeCreated": 1751776003
+}

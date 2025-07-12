@@ -1,0 +1,18 @@
+{
+    "id": 1374,
+    "audioText": "Son doigt tirée alentour révélait bruyamment les secrets que tout le monde cherchait dernièrement.",
+    "question": "What is the grammatical issue in this sentence?",
+    "questionType": "comprehension",
+    "options": [
+        "The past participle 'tirée' should agree with the masculine noun 'doigt' as 'tiré'",
+        "The adverb 'alentour' is in the wrong position",
+        "The verb 'révélait' should be in present tense",
+        "The word 'bruyamment' needs to be plural"
+    ],
+    "correct": 0,
+    "explanation": "The text contains '<em>Son doigt tiré alentour révélait bruyamment les secrets que tout le monde cherchait dernièrement</em>' - His finger, pulled around, noisily revealed the secrets everyone was seeking lately. 'Tiré' (masculine) must agree with 'doigt' (masculine), not 'tirée' (feminine). 'Doigt' means finger, 'alentour' means around, 'bruyamment' means noisily, and 'dernièrement' means lately.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: doigt + tirée → tiré + alentour + bruyamment + dernièrement",
+    "tags": ["body-parts", "grammar", "secrets"],
+    "timeCreated": 1736628000
+}

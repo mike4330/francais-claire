@@ -1,0 +1,18 @@
+{
+    "id": 1189,
+    "audioText": "Le numéro inscrit sur le mur du petit coin sombre indique l'adresse exacte.",
+    "question": "What does the number written on the wall of the small dark corner indicate?",
+    "questionType": "comprehension",
+    "options": [
+        "The exact address",
+        "The building height",
+        "The construction year",
+        "The parking space"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le numéro inscrit sur le mur du petit coin sombre indique l'adresse exacte</em>' - The number written on the wall of the small dark corner indicates the exact address. 'Numéro' means number, 'mur' means wall, and 'coin' means corner.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: numéro, mur, coin",
+    "tags": ["address", "location", "building", "identification"],
+    "timeCreated": 1752115260
+}

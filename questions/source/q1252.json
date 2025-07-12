@@ -1,0 +1,18 @@
+{
+    "id": 1252,
+    "audioText": "Tu demanderas aux femmes connues de ce milieu professionnel si elles ont entendu parler de cette formidable opportunité d'emploi.",
+    "question": "What will the person ask the known women in this professional environment?",
+    "questionType": "comprehension",
+    "options": [
+        "If they have heard about this wonderful job opportunity",
+        "When they plan to retire from their current positions",
+        "How they manage to balance work and family life",
+        "Whether they recommend changing career paths"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu demanderas aux femmes connues de ce milieu professionnel si elles ont entendu parler de cette formidable opportunité d'emploi</em>' - You will ask the known women in this professional environment if they have heard about this wonderful job opportunity. This combines 'demanderas' (will ask) with 'connues' (known) and references hearing.",
+    "difficulty": "B2",
+    "source": "Strategic question targeting multiple missing conjugates 'demanderas' and 'connues' with synergistic vocabulary",
+    "tags": ["workplace", "networking", "job-opportunities"],
+    "timeCreated": 1720656540
+}

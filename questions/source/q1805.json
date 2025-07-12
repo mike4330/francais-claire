@@ -1,0 +1,23 @@
+{
+  "id": 1805,
+  "audioText": "Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bruyants en classe.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bruyants en classe.",
+    "Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bavards en classe.",
+    "Quand nous étions enfants, nous étions toujours punis parce que nous étions trop bruyants en classe.",
+    "Quand nous étions enfants, nous étions souvent punis parce que nous étions très bruyants en classe."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bruyants en classe.</em>' - 'When we were children, we were often punished because we were too noisy in class.' This listening version tests precise auditory comprehension of temporal adverbs 'souvent' vs 'toujours', intensity markers 'trop' vs 'très', and behavioral descriptions 'bruyants' vs 'bavards'.",
+  "difficulty": "C1",
+  "source": "Listening version of q1280",
+  "tags": [
+    "education",
+    "childhood",
+    "behavior"
+  ],
+  "parentQuestion": 1552,
+  "timeCreated": 1720713600
+}

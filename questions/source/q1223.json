@@ -1,0 +1,19 @@
+{
+    "id": 1223,
+    "audioText": "Elle regarderait la télévision si elle avait du temps libre.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Elle regarderait la télévision si elle avait du temps libre",
+        "Elle regarde la télévision si elle a du temps libre",
+        "Elle regardait la télévision si elle avait du temps libre",
+        "Elle va regarder la télévision si elle a du temps libre"
+    ],
+    "correct": 0,
+    "parentQuestion": 431,
+    "explanation": "The correct text is '<em>Elle regarderait la télévision si elle avait du temps libre</em>' - She would watch television if she had free time. This uses the conditional 'regarderait' (would watch), not present 'regarde' (watches), imperfect 'regardait' (was watching), or near future 'va regarder' (is going to watch).",
+    "difficulty": "B1",
+    "source": "Listening version of Q431",
+    "tags": ["entertainment", "leisure", "hypothetical"],
+    "timeCreated": 1720962540
+}

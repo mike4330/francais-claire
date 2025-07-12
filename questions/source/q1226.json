@@ -1,0 +1,19 @@
+{
+    "id": 1226,
+    "audioText": "Ce verre était plein ce matin, maintenant il est complètement vide.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Ce verre était plein ce matin, maintenant il est complètement vide",
+        "Ce verre était vide ce matin, maintenant il est complètement plein",
+        "Cette bouteille était pleine ce matin, maintenant elle est complètement vide",
+        "Ce verre était plein hier soir, maintenant il est complètement vide"
+    ],
+    "correct": 0,
+    "parentQuestion": 1015,
+    "explanation": "The correct text is '<em>Ce verre était plein ce matin, maintenant il est complètement vide</em>' - This glass was full this morning, now it is completely empty. Key details: 'verre' (glass, not 'bouteille' - bottle), 'plein...vide' (full...empty, not the reverse), and 'ce matin' (this morning, not 'hier soir' - last night).",
+    "difficulty": "B1",
+    "source": "Listening version of Q1015",
+    "tags": ["restaurant", "behavior", "beverages"],
+    "timeCreated": 1720962720
+}

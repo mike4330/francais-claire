@@ -1,0 +1,24 @@
+{
+  "id": 1686,
+  "audioText": "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
+  "question": "What is the central tension described in this situation?",
+  "questionType": "comprehension",
+  "options": [
+    "Employees are protesting a new biometric time clock, which management justifies due to an underlying reason.",
+    "The minister is demanding a toxic management style from employees.",
+    "Employees are requesting a biometric time clock for better control.",
+    "The management is being accused of excessive surveillance without justification."
+  ],
+  "correct": 0,
+  "explanation": "The text describes employees rebelling against 'toxic management' due to the minister's demand for a biometric time clock, and this 'flicage' (surveillance) is justified by an underlying reason.",
+  "difficulty": "C2",
+  "source": "French Media (Generalized)",
+  "tags": [
+    "workplace",
+    "management",
+    "labor-relations",
+    "surveillance",
+    "protest"
+  ],
+  "timeCreated": 1720134000
+}

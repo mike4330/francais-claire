@@ -1,0 +1,23 @@
+{
+  "id": 21,
+  "audioText": "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
+  "parentQuestion": 1087,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.",
+    "Demain il va pleuvoir dans le sud et il y aura du soleil dans le nord.",
+    "Demain il va neiger dans le nord et il y aura du soleil dans le sud.",
+    "Demain il va pleuvoir dans le nord et il y aura des nuages dans le sud."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Demain il va pleuvoir dans le nord et il y aura du soleil dans le sud.' - Tomorrow it will rain in the north and there will be sun in the south.",
+  "difficulty": "A2",
+  "source": "Weather Report - Listening",
+  "tags": [
+    "weather",
+    "geography",
+    "forecast",
+    "basic-vocabulary"
+  ]
+}

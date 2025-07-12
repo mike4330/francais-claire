@@ -1,0 +1,19 @@
+{
+    "id": 1236,
+    "audioText": "Le nouveau voisin est très gentil et serviable.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Le nouveau voisin est très gentil et serviable",
+        "Le nouveau voisin est très gentil et sensible",
+        "Le nouveau voisin est très gentille et serviable",
+        "Le nouvel voisin est très gentil et serviable"
+    ],
+    "correct": 0,
+    "parentQuestion": 1075,
+    "explanation": "The correct text is '<em>Le nouveau voisin est très gentil et serviable</em>' - The new neighbor is very kind and helpful. Key distinctions: 'serviable' (helpful, not 'sensible' - sensitive), 'gentil' (masculine form, not 'gentille' - feminine), and 'nouveau' (correct form before masculine noun starting with consonant, not 'nouvel' which is used before vowels).",
+    "difficulty": "B1",
+    "source": "Listening version of Q1075",
+    "tags": ["neighborhood", "relationships"],
+    "timeCreated": 1720963740
+}

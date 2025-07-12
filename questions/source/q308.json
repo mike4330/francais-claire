@@ -1,0 +1,19 @@
+
+{
+  "id": 308,
+  "audioText": "Il faut garder ta chambre propre.",
+  "question": "You must keep your room ____.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "propre",
+    "sale",
+    "grande",
+    "petite"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut garder ta chambre propre.</em>' - You must keep your room clean. 'Propre' means clean. The distractors test antonyms and other adjectives: 'sale' (dirty), 'grande' (big), and 'petite' (small).",
+  "difficulty": "A2",
+  "source": "Gemini CLI",
+  "tags": ["daily-life", "home"],
+  "timeCreated": 1752006732
+}

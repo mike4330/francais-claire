@@ -1,0 +1,18 @@
+{
+    "id": 293,
+    "audioText": "La chèvre drôle mange ci et là près du canard dur.",
+    "question": "Where does the funny goat eat near the tough duck?",
+    "questionType": "comprehension",
+    "options": [
+        "Here and there",
+        "Only inside",
+        "Far away",
+        "Very quickly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La chèvre drôle mange ci et là près du canard dur.</em>' - 'The funny goat eats here and there near the tough duck.' The nouns 'chèvre' means goat and 'canard' means duck, while 'ci et là' means here and there.",
+    "difficulty": "A2",
+    "source": "Strategic animal targeting",
+    "tags": ["animals", "farm", "young-people"],
+    "timeCreated": 1720714800
+}

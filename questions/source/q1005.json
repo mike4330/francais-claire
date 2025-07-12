@@ -1,0 +1,23 @@
+{
+  "id": 1005,
+  "audioText": "Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute.",
+    "Nous devrions partir plus tard pour éviter les embouteillages sur l'autoroute.",
+    "Nous devrions partir plus tôt pour éviter les embouteillages sur la route.",
+    "Nous devions partir plus tôt pour éviter les embouteillages sur l'autoroute."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute.</em>' - 'We should leave earlier to avoid traffic jams on the highway.' This listening version tests auditory discrimination between 'plus tôt' vs 'plus tard', 'autoroute' vs 'route', and conditional forms 'devrions' vs 'devions'.",
+  "difficulty": "B2",
+  "source": "Listening version of q370",
+  "tags": [
+    "transportation",
+    "planning",
+    "traffic"
+  ],
+  "timeCreated": 1720713600,
+  "parentQuestion": 1309
+}

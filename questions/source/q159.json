@@ -1,0 +1,22 @@
+{
+  "id": 159,
+  "audioText": "Les instructions sont claires et faciles à suivre.",
+  "question": "Les instructions sont ______ et faciles à suivre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "clair",
+    "claires",
+    "claire",
+    "clairs"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'claires' (feminine plural) to agree with 'instructions' (feminine plural). The adjective 'clair' means clear/obvious, and must agree in gender and number with the noun it modifies.",
+  "difficulty": "A2",
+  "source": "Instructions - Grammar Agreement",
+  "tags": [
+    "instructions",
+    "clarity",
+    "grammar-practice"
+  ],
+  "timeCreated": 1720026440
+}

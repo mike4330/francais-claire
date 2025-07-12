@@ -1,0 +1,18 @@
+{
+    "id": 264,
+    "audioText": "Il garde sa maison propre, proprement dit.",
+    "question": "How does he keep his house?",
+    "questionType": "comprehension",
+    "options": [
+        "Clean, properly speaking",
+        "Large and comfortable",
+        "Quiet and peaceful",
+        "Warm and welcoming"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Il garde sa maison propre, proprement dit</em>' - He keeps his house clean, properly speaking. 'Propre' means 'clean', 'proprement' means 'properly'.",
+    "difficulty": "A2",
+    "source": "Home maintenance",
+    "tags": ["retirement", "home", "cleanliness"],
+    "timeCreated": 1720443780
+}

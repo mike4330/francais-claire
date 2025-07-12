@@ -1,0 +1,18 @@
+{
+    "id": 332,
+    "audioText": "Ce mec est très sympa et intelligent.",
+    "question": "How is this guy described?",
+    "questionType": "comprehension",
+    "options": [
+        "Very nice and intelligent",
+        "Very tall and strong",
+        "Very young and energetic",
+        "Very serious and quiet"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce mec est très sympa et intelligent</em>' - This guy is very nice and intelligent. 'Mec' is an informal word for guy, 'sympa' means nice, and 'intelligent' means intelligent.",
+    "difficulty": "A2",
+    "source": "Strategic noun threshold reinforcement",
+    "tags": ["personality", "casual-conversation", "description"],
+    "timeCreated": 1752095300
+}

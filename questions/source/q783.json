@@ -1,0 +1,18 @@
+{
+    "id": 783,
+    "audioText": "Cette chambre vide et sombre a besoin d'être rénovée avec des meubles blancs.",
+    "question": "What does this room need according to the speaker?",
+    "questionType": "comprehension",
+    "options": [
+        "To be renovated with white furniture",
+        "To have the windows cleaned thoroughly",
+        "To be painted with bright colors",
+        "To have new electrical installations"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette chambre vide et sombre a besoin d'être rénovée avec des meubles blancs</em>' - This empty and dark room needs to be renovated with white furniture. The adjectives 'vide' (empty), 'sombre' (dark), and 'blancs' (white) create a contrast between the current state and desired improvement.",
+    "difficulty": "B1",
+    "source": "Home renovation",
+    "tags": ["home", "renovation", "furniture", "colors"],
+    "timeCreated": 1736103060
+}

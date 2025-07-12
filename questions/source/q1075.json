@@ -1,0 +1,19 @@
+
+{
+  "id": 1075,
+  "audioText": "Le nouveau voisin est très gentil et serviable.",
+  "question": "What is the new neighbor like?",
+  "questionType": "comprehension",
+  "options": [
+    "Gentil",
+    "Méchant",
+    "Timide",
+    "Bruyant"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le nouveau voisin est très gentil et serviable.</em>' - The new neighbor is very kind and helpful. 'Gentil' means kind. The distractors test antonyms and other personality traits: 'méchant' (mean), 'timide' (shy), and 'bruyant' (noisy).",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["neighborhood", "relationships"],
+  "timeCreated": 1752006732
+}

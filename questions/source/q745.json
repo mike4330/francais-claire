@@ -1,0 +1,18 @@
+{
+    "id": 745,
+    "audioText": "Cette librairie vend uniquement des livres d'occasion en parfait état.",
+    "question": "Cette librairie vend ______ des livres d'occasion en parfait état.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "uniquement",
+        "principalement",
+        "rarement",
+        "également"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette librairie vend uniquement des livres d'occasion en parfait état</em>' - This bookstore sells exclusively second-hand books in perfect condition. 'Uniquement' means exclusively or only, emphasizing that they sell nothing but second-hand books.",
+    "difficulty": "B2",
+    "source": "Bookstore description",
+    "tags": ["books", "shopping", "exclusivity"],
+    "timeCreated": 1704414840
+}

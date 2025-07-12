@@ -1,0 +1,18 @@
+{
+    "id": 1064,
+    "audioText": "Les montagnes s'étendent bien delà ces forêts denses.",
+    "question": "What does the text say about the mountains?",
+    "questionType": "comprehension",
+    "options": [
+        "They are located right before the forests",
+        "They extend well beyond these dense forests",
+        "They are hidden inside the dense forests",
+        "They are smaller than the forests"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Les montagnes s'étendent bien delà ces forêts denses</em>' - The mountains extend well beyond these dense forests. 'Delà' means 'beyond' or 'further than' in this context.",
+    "difficulty": "B1",
+    "source": "Mountain landscape description",
+    "tags": ["nature", "geography", "landscape"],
+    "timeCreated": 1720401600
+}

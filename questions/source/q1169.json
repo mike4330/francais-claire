@@ -1,0 +1,18 @@
+{
+    "id": 1169,
+    "audioText": "L'environnement militaire est très différent de la vie civile normale selon les témoignages.",
+    "question": "How is the military environment compared to normal civilian life?",
+    "questionType": "comprehension",
+    "options": [
+        "It is very different from normal civilian life",
+        "It is exactly the same as civilian life",
+        "It is slightly similar to civilian life",
+        "It is better than civilian life"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'environnement militaire est très différent de la vie civile normale selon les témoignages</em>' - The military environment is very different from normal civilian life according to testimonies. 'Militaire' means military, 'différent' means different, and 'témoignages' means testimonies.",
+    "difficulty": "B1",
+    "source": "Strategic adjective coverage reinforcement",
+    "tags": ["military", "comparison", "society"],
+    "timeCreated": 1752094400
+}

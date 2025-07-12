@@ -1,0 +1,18 @@
+{
+    "id": 237,
+    "audioText": "Tu rends les livres à la bibliothèque aujourd'hui ?",
+    "question": "Tu ______ les livres à la bibliothèque aujourd'hui ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "rends",
+        "rend",
+        "rendez",
+        "rendons"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu rends les livres à la bibliothèque aujourd'hui ?</em>' - Are you returning the books to the library today? 'Rends' is the second person singular form of 'rendre' (to return/give back), agreeing with 'tu'.",
+    "difficulty": "A2",
+    "source": "Library visit",
+    "tags": ["library", "books", "returning"],
+    "timeCreated": 1704415380
+}

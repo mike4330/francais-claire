@@ -1,0 +1,18 @@
+{
+    "id": 899,
+    "audioText": "Le drap noir était quasi entièrement couvert de sang après l'accident médical qui avait profondément traumatisé toute l'équipe chirurgicale.",
+    "question": "What was the black sheet almost entirely covered with?",
+    "questionType": "comprehension",
+    "options": [
+        "Blood after a medical accident that traumatized the surgical team",
+        "Paint from a renovation project in the hospital",
+        "Water from a broken pipe in the operating room",
+        "Dust from old equipment being moved around"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le drap noir était quasi entièrement couvert de sang après l'accident médical</em>' - The black sheet was almost entirely covered with blood after the medical accident. 'Quasi' means almost/nearly, 'noir' means black, and 'sang' means blood. The text describes a traumatic medical incident.",
+    "difficulty": "B2",
+    "source": "Medical accident trauma in surgical setting",
+    "tags": ["medical", "trauma", "hospital", "accident"],
+    "timeCreated": 1751813580
+}

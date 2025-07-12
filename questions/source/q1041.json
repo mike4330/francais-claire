@@ -1,0 +1,18 @@
+{
+    "id": 1041,
+    "audioText": "Il paraît très triste depuis qu'il a appris cette mauvaise nouvelle familiale.",
+    "question": "Il paraît très ______ depuis qu'il a appris cette mauvaise nouvelle familiale.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "triste",
+        "fâché",
+        "inquiet",
+        "surpris"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il paraît très triste depuis qu'il a appris cette mauvaise nouvelle familiale.</em>' - 'He seems very sad since he learned this bad family news.' The missing word is 'triste' (sad), describing an emotional state of sadness.",
+    "difficulty": "A2",
+    "source": "Family news and emotional responses",
+    "tags": ["emotions", "family", "sadness", "news"],
+    "timeCreated": 1736348640
+}

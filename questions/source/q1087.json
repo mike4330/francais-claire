@@ -1,0 +1,21 @@
+{
+  "id": 1087,
+  "audioText": "La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France.",
+  "question": "What does tomorrow's weather forecast predict?",
+  "questionType": "comprehension",
+  "options": [
+    "Rain everywhere in France",
+    "Sun everywhere in France",
+    "Showers in the north, sun in the south",
+    "Snow in the mountains only"
+  ],
+  "correct": 2,
+  "explanation": "'Averses dans le nord et du soleil dans le sud' means showers in the north and sun in the south of France.",
+  "difficulty": "B1",
+  "source": "Weather Report",
+  "tags": [
+    "weather",
+    "geography",
+    "forecast"
+  ]
+}

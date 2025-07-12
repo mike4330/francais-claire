@@ -1,0 +1,18 @@
+{
+    "id": 1159,
+    "audioText": "Sa confiance en elle-même s'est renforcée grâce aux encouragements de ses collègues durant ce projet difficile.",
+    "question": "How did her self-confidence develop during this difficult project?",
+    "questionType": "comprehension",
+    "options": [
+        "It strengthened thanks to her colleagues' encouragement",
+        "It decreased due to constant criticism",
+        "It remained unchanged throughout the project",
+        "It improved only after the project ended"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa confiance en elle-même s'est renforcée grâce aux encouragements de ses collègues durant ce projet difficile</em>' - Her self-confidence strengthened thanks to her colleagues' encouragement during this difficult project. 'Confiance' means confidence, and 'se renforcer' means to strengthen or grow stronger.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage + workplace psychology context",
+    "tags": ["workplace", "emotions", "teamwork"],
+    "timeCreated": 1752093360
+}

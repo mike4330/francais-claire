@@ -1,0 +1,22 @@
+{
+  "id": 1309,
+  "audioText": "Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute.",
+  "question": "According to the speaker, why should they leave earlier?",
+  "questionType": "comprehension",
+  "options": [
+    "To avoid traffic jams on the highway",
+    "To arrive before the store opens",
+    "To pick up someone on the way",
+    "To have time for breakfast"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute' - We should leave earlier to avoid traffic jams on the highway. 'Devrions' is the 1st person plural conditional of 'devoir', expressing what they should do.",
+  "difficulty": "B2",
+  "source": "Travel Planning",
+  "tags": [
+    "transportation",
+    "planning",
+    "traffic"
+  ],
+  "timeCreated": 1720021680
+}

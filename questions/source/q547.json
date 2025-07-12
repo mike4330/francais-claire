@@ -1,0 +1,18 @@
+{
+    "id": 547,
+    "audioText": "Cet exercice de mathématiques est complètement inutile pour comprendre le théorème.",
+    "question": "How does the speaker describe the math exercise?",
+    "questionType": "comprehension",
+    "options": [
+        "It's completely useless for understanding the theorem",
+        "It's completely useful for understanding the theorem",
+        "It's somewhat difficult for understanding the theorem",
+        "It's perfectly designed for understanding the theorem"
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'Cet exercice de mathématiques est complètement inutile' - This math exercise is completely useless. 'Inutile' means 'useless' or 'pointless' for understanding the theorem.",
+    "difficulty": "B1",
+    "source": "Educational critique",
+    "tags": ["education", "mathematics", "criticism"],
+    "timeCreated": 1720077400
+}

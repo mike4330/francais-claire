@@ -1,0 +1,18 @@
+{
+    "id": 224,
+    "audioText": "Mon frère aidera papa à réparer la voiture samedi matin.",
+    "question": "Mon frère ______ papa à réparer la voiture samedi matin.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "aidera",
+        "aide",
+        "aidait",
+        "aiderait"
+    ],
+    "correct": 0,
+    "explanation": "The text contains '<em>Mon frère aidera papa à réparer la voiture samedi matin</em>' - My brother will help dad repair the car Saturday morning. 'Aidera' is the future tense of 'aider' (to help), indicating a planned action for Saturday.",
+    "difficulty": "A2",
+    "source": "Family car repair",
+    "tags": ["family", "help", "cars", "weekend", "father"],
+    "timeCreated": 1736065800
+}

@@ -1,0 +1,22 @@
+{
+  "id": 915,
+  "audioText": "Ce beau parc me donne beaucoup de plaisir.",
+  "question": "What does the beautiful park give the speaker?",
+  "questionType": "comprehension",
+  "options": [
+    "A lot of pleasure",
+    "Some fresh air",
+    "New energy",
+    "Good memories"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says '<em>Ce beau parc me donne beaucoup de plaisir</em>' - This beautiful park gives me a lot of pleasure. 'Beau' means 'beautiful' and 'plaisir' means 'pleasure'.",
+  "difficulty": "A2",
+  "source": "Park enjoyment",
+  "tags": [
+    "park",
+    "nature",
+    "leisure"
+  ],
+  "timeCreated": 1720442940
+}

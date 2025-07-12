@@ -1,0 +1,23 @@
+{
+  "id": 11,
+  "audioText": "J'aime me promener dans ce parc tranquille pour me détendre après le travail.",
+  "question": "J'aime me promener dans ce parc ______ pour me détendre après le travail.",
+  "questionType": "FIB-reading",
+  "options": [
+    "tranquille",
+    "bruyant",
+    "animé",
+    "moderne"
+  ],
+  "correct": 0,
+  "explanation": "The correct word is 'tranquille' (calm/quiet). The sentence means 'I like to walk in this quiet park to relax after work.' A tranquil environment is perfect for relaxation and unwinding.",
+  "difficulty": "A2",
+  "source": "Leisure Activities",
+  "tags": [
+    "leisure",
+    "parks",
+    "relaxation",
+    "work-life-balance"
+  ],
+  "timeCreated": 1720052340
+}

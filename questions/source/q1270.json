@@ -1,0 +1,18 @@
+{
+    "id": 1270,
+    "audioText": "Ce garçon curieux découvre effectivement l'intérieur de ce sac mystérieux.",
+    "question": "Ce garçon ______ découvre effectivement l'intérieur de ce sac mystérieux.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "curieux",
+        "curieuse",
+        "curieuses",
+        "curieusement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce garçon curieux découvre effectivement l'intérieur de ce sac mystérieux</em>' - This curious boy actually discovers the interior of this mysterious bag. 'Curieux' is the masculine singular form of the adjective meaning 'curious', agreeing with 'garçon' (boy).",
+    "difficulty": "B1",
+    "source": "Strategic targeting: curieux + effectivement + intérieur + sac",
+    "tags": ["discovery", "curiosity", "mystery"],
+    "timeCreated": 1736623140
+}

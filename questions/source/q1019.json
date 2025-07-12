@@ -1,0 +1,18 @@
+{
+    "id": 1019,
+    "audioText": "L'oie désolée traverse efficacement l'aéroport pour rencontrer le jeune fermier prêt à discuter des affaires agricoles importantes.",
+    "question": "How does the sorry goose cross the airport to meet the young farmer?",
+    "questionType": "comprehension",
+    "options": [
+        "Efficiently to discuss important agricultural affairs",
+        "Slowly to avoid security problems",
+        "Quietly to prevent disturbing travelers",
+        "Carefully to reach the parking area"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'oie désolée traverse efficacement l'aéroport pour rencontrer le jeune fermier prêt à discuter des affaires agricoles importantes.</em>' - 'The sorry goose efficiently crosses the airport to meet the young farmer ready to discuss important agricultural affairs.' The noun 'oie' means goose, and the adjectives 'désolée' means sorry and 'prêt' means ready.",
+    "difficulty": "B1",
+    "source": "Strategic animal targeting",
+    "tags": ["animals", "airport", "efficiency"],
+    "timeCreated": 1720714800
+}

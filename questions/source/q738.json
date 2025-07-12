@@ -1,0 +1,18 @@
+{
+    "id": 738,
+    "audioText": "En 1789, le peuple français a rendu le pouvoir au parlement après la révolution.",
+    "question": "What did the French people do with power in 1789?",
+    "questionType": "comprehension",
+    "options": [
+        "They returned power to parliament after the revolution",
+        "They gave power to the military leaders",
+        "They established a new monarchy",
+        "They created a federal system of government"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>En 1789, le peuple français a rendu le pouvoir au parlement après la révolution</em>' - In 1789, the French people returned power to parliament after the revolution. 'Rendu' is the past participle of 'rendre' (to return/give back).",
+    "difficulty": "B2",
+    "source": "Historical documentary",
+    "tags": ["history", "france", "revolution"],
+    "timeCreated": 1704414180
+}

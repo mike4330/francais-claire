@@ -1,0 +1,18 @@
+{
+    "id": 1207,
+    "audioText": "Il y a un truc qui cloche avec ce vent, ça sent l'orage toute la journée.",
+    "question": "What's wrong with the weather?",
+    "questionType": "comprehension",
+    "options": [
+        "There's something off about this wind, it smells like a storm all day",
+        "The temperature keeps changing unexpectedly",
+        "There's too much humidity in the air",
+        "The sun is too bright and hot"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il y a un truc qui cloche avec ce vent, ça sent l'orage toute la journée</em>' - There's something wrong with this wind, it smells like a storm all day. This targets the nouns 'truc', 'vent', and 'journée' in a weather observation context.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: truc, vent, journée",
+    "tags": ["weather", "storm", "observation"],
+    "timeCreated": 1720617800
+}

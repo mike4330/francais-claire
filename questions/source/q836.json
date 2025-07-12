@@ -1,0 +1,18 @@
+{
+    "id": 836,
+    "audioText": "Les légumes, souvent laissés de côté dans nos assiettes, ne sont guère appréciés à leur juste valeur. Pourtant, ils sont essentiels pour une alimentation équilibrée et une bonne santé. Il est temps de leur donner la place qu'ils méritent.",
+    "question": "What is the main point about vegetables?",
+    "questionType": "comprehension",
+    "options": [
+        "They are often overlooked but are crucial for health.",
+        "They are difficult to cook and prepare.",
+        "They are not very tasty.",
+        "They are only for specific diets."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les légumes, souvent laissés de côté dans nos assiettes, ne sont guère appréciés à leur juste valeur. Pourtant, ils sont essentiels pour une alimentation équilibrée et une bonne santé.</em>' - 'Vegetables, often left aside on our plates, are hardly appreciated at their true value. Yet, they are essential for a balanced diet and good health.' The verb 'laissés' is the past participle of 'laisser' (to leave). The adverb 'guère' means 'hardly' or 'scarcely'. The noun 'légumes' means 'vegetables'. The distractors test for misinterpretation of the text's emphasis on the importance of vegetables.",
+    "difficulty": "B2",
+    "source": "Gemini CLI",
+    "tags": ["vegetables", "health", "food"],
+    "timeCreated": 1720176000
+}

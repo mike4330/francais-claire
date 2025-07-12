@@ -1,0 +1,18 @@
+{
+    "id": 905,
+    "audioText": "Honnêtement, ce consultant financier n'a pas donné les bons conseils à mes clients.",
+    "question": "What is the speaker's opinion about the financial consultant?",
+    "questionType": "comprehension",
+    "options": [
+        "The consultant didn't give good advice to their clients",
+        "The consultant was very honest with their clients",
+        "The consultant charged too much for their services", 
+        "The consultant needs more time to help their clients"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Honnêtement, ce consultant financier n'a pas donné les bons conseils à mes clients</em>' - Honestly, this financial consultant didn't give good advice to my clients. 'Honnêtement' means 'honestly' or 'frankly'.",
+    "difficulty": "B1",
+    "source": "Financial consulting",
+    "tags": ["professional-services", "finance", "advice"],
+    "timeCreated": 1720442520
+}

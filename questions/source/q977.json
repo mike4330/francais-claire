@@ -1,0 +1,18 @@
+{
+    "id": 977,
+    "audioText": "Si vous partiez maintenant, vous laisserait-elle vraiment tous ces documents physiquement au bureau?",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Si vous partiez maintenant, vous laisserait-elle vraiment tous ces documents physiquement au bureau?",
+        "Si vous partez maintenant, vous laisserait-elle vraiment tous ces documents physiquement au bureau?",
+        "Si vous partiez maintenant, vous laisserait-elle vraiment tous ces documents pratiquement au bureau?",
+        "Si vous partiez maintenant, nous laisserait-elle vraiment tous ces documents physiquement au bureau?"
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is '<em>Si vous partiez maintenant, vous laisserait-elle vraiment tous ces documents physiquement au bureau?</em>' - If you left now, would she really leave you all these documents physically at the office? 'Partiez' is the imperfect subjunctive of 'partir', 'laisserait' is the conditional of 'laisser', and 'physiquement' means 'physically'.",
+    "difficulty": "B2",
+    "source": "Office transition",
+    "tags": ["workplace", "emotion", "management"],
+    "timeCreated": 1720444080
+}

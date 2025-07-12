@@ -1,0 +1,22 @@
+{
+    "id": 281,
+    "audioText": "Quoi de plus beau ? Le premier homme est heureux !",
+    "question": "Listening: What is beautiful about the first man?",
+    "questionType": "listening",
+    "options": [
+        "Il est heureux",
+        "Il est pauvre",
+        "Il est vieux",
+        "Il est gros"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Quoi de plus beau ? Le premier homme est heureux !</em>' - 'What is more beautiful? The first man is happy!' The beautiful thing about the first man is that he is happy ('il est heureux').",
+    "difficulty": "A2",
+    "source": "Strategic adjective-tag intersection",
+    "tags": [
+        "gratitude",
+        "happiness",
+        "simplicity"
+    ],
+    "timeCreated": 1720713600
+}

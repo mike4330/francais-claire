@@ -1,0 +1,22 @@
+{
+  "id": 1696,
+  "audioText": "Cette ancienne bibliothèque contenait jadis les plus précieux manuscrits de l'Empire romain.",
+  "question": "What did this ancient library once contain?",
+  "questionType": "comprehension",
+  "options": [
+    "The most precious manuscripts of the Roman Empire",
+    "Modern translations of classical texts",
+    "Religious documents from the Byzantine period",
+    "Military records from various ancient civilizations"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette ancienne bibliothèque contenait jadis les plus précieux manuscrits de l'Empire romain</em>' - This ancient library once contained the most precious manuscripts of the Roman Empire. 'Jadis' means formerly/once upon a time, indicating something from the distant past.",
+  "difficulty": "C1",
+  "source": "Archaeological report",
+  "tags": [
+    "history",
+    "archaeology",
+    "ancient-rome"
+  ],
+  "timeCreated": 1704414300
+}

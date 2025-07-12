@@ -1,0 +1,18 @@
+{
+    "id": 222,
+    "audioText": "Elle part en vacances demain matin très tôt.",
+    "question": "Elle ______ en vacances demain matin très tôt.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "part",
+        "parte",
+        "partir",
+        "partez"
+    ],
+    "correct": 0,
+    "explanation": "The text contains '<em>Elle part en vacances demain matin très tôt</em>' - She leaves/goes on vacation tomorrow morning very early. 'Part' is the 3rd person singular present form of 'partir' (to leave/go), used with 'elle' (she).",
+    "difficulty": "A2",
+    "source": "Travel departure",
+    "tags": ["travel", "vacation", "departure", "time"],
+    "timeCreated": 1736065200
+}

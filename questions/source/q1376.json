@@ -1,0 +1,18 @@
+{
+    "id": 1376,
+    "audioText": "Pourquoi vous ne payez jamais jusque-là les factures avant la date limite?",
+    "question": "Pourquoi vous ne ______ jamais jusque-là les factures avant la date limite?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "payez",
+        "payées",
+        "paies",
+        "paiez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Pourquoi vous ne payez jamais jusque-là les factures avant la date limite?</em>' - Why don't you ever pay the bills by then before the deadline? 'Payez' is the correct present tense form for 'vous' (second person plural). 'Jusque-là' means 'by then' or 'up to that point'.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: payez + jusque-là",
+    "tags": ["finance", "bills", "deadlines"],
+    "timeCreated": 1736628360
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1062,
+    "audioText": "Les machines ont été arrêtées pour maintenance préventive pendant le weekend prolongé.",
+    "question": "Les machines ont été ______ pour maintenance préventive pendant le weekend prolongé.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêtées",
+        "arrêtés",
+        "arrêtée",
+        "arrêté"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les machines ont été arrêtées pour maintenance préventive pendant le weekend prolongé.</em>' - 'The machines were stopped for preventive maintenance during the long weekend.' The missing word is 'arrêtées' (stopped), the past participle feminine plural of 'arrêter' agreeing with 'machines'.",
+    "difficulty": "B2",
+    "source": "Industrial maintenance and preventive care",
+    "tags": ["industry", "maintenance", "machines", "weekend"],
+    "timeCreated": 1736349900
+}

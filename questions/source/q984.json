@@ -1,0 +1,18 @@
+{
+    "id": 984,
+    "audioText": "En tuant littéralement son ami, il perdait sa chance.",
+    "question": "What was the consequence of the literal killing?",
+    "questionType": "comprehension",
+    "options": [
+        "He lost his opportunity",
+        "He gained more friends",
+        "He became more popular",
+        "He improved his situation"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>En tuant littéralement son ami, il perdait sa chance</em>' - By literally killing his friend, he was losing his opportunity. 'Tuant' is the present participle of 'tuer' (to kill), and 'littéralement' means 'literally'.",
+    "difficulty": "B2",
+    "source": "Strategic conjugate + high-frequency adverb/noun combination",
+    "tags": ["consequences", "friendship", "tragedy"],
+    "timeCreated": 1735992000
+}

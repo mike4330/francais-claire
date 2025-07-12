@@ -1,0 +1,18 @@
+{
+    "id": 1268,
+    "audioText": "Vous ouvrez gravement cette porte bête pour découvrir votre vrai bonheur.",
+    "question": "Vous ______ gravement cette porte bête pour découvrir votre vrai bonheur.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "ouvrez",
+        "ouvres",
+        "ouvre",
+        "ouvrent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous ouvrez gravement cette porte bête pour découvrir votre vrai bonheur</em>' - You seriously open this silly door to discover your true happiness. 'Ouvrez' is the second person plural present form of 'ouvrir' (to open), used here both literally and metaphorically.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: ouvrez + gravement + bête + bonheur",
+    "tags": ["personal-development", "discovery", "emotions"],
+    "timeCreated": 1736622960
+}

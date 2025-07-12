@@ -1,0 +1,26 @@
+{
+  "id": 951,
+  "audioText": "La mission spatiale vers Mars a été reportée en raison de conditions météorologiques défavorables au centre de lancement spatial.",
+  "question": "Why was the Mars mission postponed?",
+  "questionType": "comprehension",
+  "options": [
+    "Due to unfavorable weather conditions at the space launch center",
+    "Because of technical problems with the spacecraft's navigation system",
+    "Due to budget cuts in the space exploration program",
+    "Because the astronauts needed additional training time"
+  ],
+  "correct": 0,
+  "explanation": "The text states the space mission to Mars 'a été reportée en raison de conditions météorologiques défavorables au centre de lancement spatial' - was postponed due to unfavorable weather conditions at the space launch center. This is typical French media coverage of space exploration.",
+  "difficulty": "B2",
+  "source": "Space News - Mission Updates",
+  "tags": [
+    "space-exploration",
+    "mars",
+    "astronomy",
+    "science",
+    "news",
+    "weather",
+    "space-missions"
+  ],
+  "timeCreated": 1751331401
+}

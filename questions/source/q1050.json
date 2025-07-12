@@ -1,0 +1,18 @@
+{
+    "id": 1050,
+    "audioText": "J'arrêterai de fumer dès la semaine prochaine pour améliorer ma santé.",
+    "question": "J'______ de fumer dès la semaine prochaine pour améliorer ma santé.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêterai",
+        "arrête",
+        "arrêtais",
+        "arrêterais"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'arrêterai de fumer dès la semaine prochaine pour améliorer ma santé.</em>' - 'I will stop smoking starting next week to improve my health.' The missing word is 'arrêterai' (I will stop), the future tense first person singular of 'arrêter'.",
+    "difficulty": "B1",
+    "source": "Health decisions and smoking cessation",
+    "tags": ["health", "smoking", "decisions", "future-plans"],
+    "timeCreated": 1736349180
+}

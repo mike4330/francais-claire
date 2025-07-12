@@ -1,0 +1,18 @@
+{
+    "id": 837,
+    "audioText": "Les étudiants sont là pour apprendre, pas pour critiquer constamment.",
+    "question": "Les étudiants sont ______ pour apprendre, pas pour critiquer constamment.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "là",
+        "ici",
+        "présents",
+        "venus"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les étudiants sont là pour apprendre, pas pour critiquer constamment</em>' - The students are there to learn, not to constantly criticize. 'Là' means 'there' and indicates presence or purpose in this context.",
+    "difficulty": "B1",
+    "source": "Educational purpose",
+    "tags": ["education", "purpose", "students", "criticism"],
+    "timeCreated": 1736105640
+}

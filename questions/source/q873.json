@@ -1,0 +1,18 @@
+{
+    "id": 873,
+    "audioText": "Une chose très étrange s'est passée hier soir dans notre quartier résidentiel, selon plusieurs témoins.",
+    "question": "What happened in the residential neighborhood?",
+    "questionType": "comprehension",
+    "options": [
+        "Something very strange",
+        "A normal event",
+        "Nothing important",
+        "A celebration"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Une chose très étrange s'est passée</em>' - Something very strange happened. 'Chose' means thing or something, and here it refers to an unspecified strange event.",
+    "difficulty": "B2",
+    "source": "Neighborhood incidents and witness reports",
+    "tags": ["community", "incidents", "mystery"],
+    "timeCreated": 1751785260
+}

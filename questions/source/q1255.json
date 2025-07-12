@@ -1,0 +1,18 @@
+{
+    "id": 1255,
+    "audioText": "Je paierai l'intérieur de cette maison avec mes économies personnelles.",
+    "question": "Je ______ l'intérieur de cette maison avec mes économies personnelles.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "paierai",
+        "payerai",
+        "paye",
+        "paierais"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je paierai l'intérieur de cette maison avec mes économies personnelles</em>' - I will pay for the interior of this house with my personal savings. 'Paierai' is the first person singular future form of 'payer' (to pay). Note that 'payer' can be conjugated as either 'paierai' or 'payerai' in the future tense, both forms are correct.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: paierai + intérieur",
+    "tags": ["housing", "finance", "renovation"],
+    "timeCreated": 1736622120
+}

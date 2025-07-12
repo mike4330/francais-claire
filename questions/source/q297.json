@@ -1,0 +1,18 @@
+{
+    "id": 297,
+    "audioText": "La perceuse moindre et l'aspirateur impossible cassent le boulon clair facilement.",
+    "question": "What breaks the clear bolt easily?",
+    "questionType": "comprehension",
+    "options": [
+        "The lesser drill and impossible vacuum cleaner",
+        "The heavy hammer and sharp chisel",
+        "The new screwdriver and old saw",
+        "The electric motor and metal blade"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La perceuse moindre et l'aspirateur impossible cassent le boulon clair facilement.</em>' - 'The lesser drill and impossible vacuum cleaner break the clear bolt easily.' The nouns 'perceuse' means drill, 'aspirateur' means vacuum cleaner, and 'boulon' means bolt. The adjectives 'moindre' means lesser and 'impossible' means impossible.",
+    "difficulty": "A2",
+    "source": "Strategic tool targeting",
+    "tags": ["tools", "household", "maintenance"],
+    "timeCreated": 1720715400
+}

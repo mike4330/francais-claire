@@ -1,0 +1,18 @@
+{
+    "id": 325,
+    "audioText": "J'ai écrit une lettre importante à ma famille hier soir.",
+    "question": "What did I write to my family last night?",
+    "questionType": "comprehension",
+    "options": [
+        "An important letter",
+        "A short message",
+        "A birthday card",
+        "A shopping list"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai écrit une lettre importante à ma famille hier soir</em>' - I wrote an important letter to my family last night. 'Lettre' means letter, and 'importante' means important.",
+    "difficulty": "A2",
+    "source": "Strategic noun coverage reinforcement",
+    "tags": ["family", "communication", "writing"],
+    "timeCreated": 1752094300
+}

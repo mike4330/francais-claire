@@ -1,0 +1,18 @@
+{
+    "id": 1209,
+    "audioText": "Le roi a trouvé la paix au bord de cette rivière tranquille et silencieuse.",
+    "question": "Where did the king find peace?",
+    "questionType": "comprehension",
+    "options": [
+        "By the edge of this quiet and silent river",
+        "In the gardens of his royal palace",
+        "During meditation in the mountain temple",
+        "While reading ancient books in his library"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le roi a trouvé la paix au bord de cette rivière tranquille et silencieuse</em>' - The king found peace by the edge of this quiet and silent river. This targets the nouns 'roi', 'paix', and 'bord' in a peaceful nature context.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: roi, paix, bord",
+    "tags": ["royalty", "peace", "nature"],
+    "timeCreated": 1720618160
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1326,
+  "audioText": "Mettez votre signature en bas de chaque page du contrat.",
+  "question": "Where should you put your signature?",
+  "questionType": "comprehension",
+  "options": [
+    "At the bottom of each page of the contract",
+    "Only on the first page of the contract",
+    "At the top of each page of the contract",
+    "Only on the last page of the contract"
+  ],
+  "correct": 0,
+  "explanation": "The instruction says 'Mettez votre signature en bas de chaque page du contrat' - Put your signature at the bottom of each page of the contract. 'Mettez' is the 2nd person plural imperative form of 'mettre' (to put).",
+  "difficulty": "B2",
+  "source": "Legal Documents",
+  "tags": [
+    "legal",
+    "contract",
+    "signature"
+  ],
+  "timeCreated": 1720022700
+}

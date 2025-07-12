@@ -1,0 +1,18 @@
+{
+    "id": 1266,
+    "audioText": "Tu connaîtras officiellement ce troisième aspect ouvert de notre politique moderne.",
+    "question": "Tu ______ officiellement ce troisième aspect ouvert de notre politique moderne.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "connaîtras",
+        "connais",
+        "connaissais",
+        "connaîtra"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu connaîtras officiellement ce troisième aspect ouvert de notre politique moderne</em>' - You will officially know this third open aspect of our modern politics. 'Connaîtras' is the second person singular future form of 'connaître' (to know), expressing future knowledge or familiarity.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: connaîtras + officiellement + troisième + ouvert",
+    "tags": ["politics", "knowledge", "formal-discussion"],
+    "timeCreated": 1736622840
+}

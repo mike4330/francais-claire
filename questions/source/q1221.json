@@ -1,0 +1,18 @@
+{
+    "id": 1221,
+    "audioText": "Ce vieil homme pauvre raconte des histoires uniques de sa jeunesse.",
+    "question": "What does the old poor man tell?",
+    "questionType": "comprehension",
+    "options": [
+        "Unique stories from his youth",
+        "Modern tales about technology",
+        "Sad stories about his current life",
+        "Funny jokes about his neighbors"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce vieil homme pauvre raconte des histoires uniques de sa jeunesse</em>' - This old poor man tells unique stories from his youth. This targets the adjectives 'vieil', 'pauvre', and 'unique' in a storytelling context.",
+    "difficulty": "B2",
+    "source": "Strategic adjective targeting: vieil, pauvre, unique",
+    "tags": ["storytelling", "elderly", "memory"],
+    "timeCreated": 1720962240
+}

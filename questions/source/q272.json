@@ -1,0 +1,18 @@
+{
+    "id": 272,
+    "audioText": "Sa bouche est très facile à voir.",
+    "question": "What is easy to see?",
+    "questionType": "comprehension",
+    "options": [
+        "Her mouth",
+        "Her eyes",
+        "Her nose",
+        "Her ears"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa bouche est très facile à voir</em>' - Her mouth is very easy to see. The French word 'bouche' means mouth, and the sentence indicates that her mouth is easily visible.",
+    "difficulty": "A1",
+    "source": "Strategic vocabulary targeting for 'bouche' (mouth)",
+    "tags": ["physical-description", "daily-life", "health"],
+    "timeCreated": 1751853190
+}

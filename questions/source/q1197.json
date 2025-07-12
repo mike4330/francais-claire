@@ -1,0 +1,18 @@
+{
+    "id": 1197,
+    "audioText": "Elle a pris de l'air frais en sortant de ce bureau et a respiré un grand coup.",
+    "question": "What did she do when she left the office?",
+    "questionType": "comprehension",
+    "options": [
+        "She got some fresh air and took a deep breath",
+        "She ran quickly to her car",
+        "She called someone on her phone",
+        "She went straight to another meeting"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle a pris de l'air frais en sortant de ce bureau et a respiré un grand coup</em>' - She got some fresh air when leaving the office and took a deep breath. This targets the nouns 'air' and 'coup' in the expression 'respirer un grand coup'.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: air, coup",
+    "tags": ["workplace", "health", "breathing"],
+    "timeCreated": 1720616640
+}

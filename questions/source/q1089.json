@@ -1,0 +1,23 @@
+{
+  "id": 1089,
+  "audioText": "Ce mercredi, aux alentours de 21 heures, la capitale a subi un orage aussi intense que bref. Une pluie violente et un vent tout aussi puissant ont causé des dégâts, pour l'heure légers.",
+  "question": "What characterized the storm that hit the capital?",
+  "questionType": "comprehension",
+  "options": [
+    "It lasted several hours with moderate intensity",
+    "It was very intense but short-lived",
+    "It caused major damage throughout the city",
+    "It brought only light rain and gentle winds"
+  ],
+  "correct": 1,
+  "explanation": "The storm was described as 'aussi intense que bref' - as intense as it was brief. Despite violent rain and powerful wind, it was short-lived, and damage was 'pour l'heure légers' - so far minor.",
+  "difficulty": "B2",
+  "source": "Weather News Report",
+  "tags": [
+    "weather",
+    "storm",
+    "news",
+    "capital",
+    "damage"
+  ]
+}

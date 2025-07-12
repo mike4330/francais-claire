@@ -1,0 +1,18 @@
+{
+    "id": 865,
+    "audioText": "Marie s'est sentie soulagée après avoir reçu de bonnes nouvelles.",
+    "question": "How did Marie feel after receiving the news?",
+    "questionType": "comprehension",
+    "options": [
+        "She felt worried",
+        "She felt relieved",
+        "She felt confused",
+        "She felt angry"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Marie s'est sentie soulagée</em>' - Marie felt relieved. The past participle 'sentie' agrees with the feminine subject Marie, and 'soulagée' means relieved.",
+    "difficulty": "B1",
+    "source": "Personal news and emotional relief",
+    "tags": ["relief", "emotions", "good-news"],
+    "timeCreated": 1751765866
+}

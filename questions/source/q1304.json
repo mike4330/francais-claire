@@ -1,0 +1,22 @@
+{
+  "id": 1304,
+  "audioText": "Veuillez présenter votre passeport et votre billet d'avion à l'agent de sécurité.",
+  "question": "What should you present to the security agent?",
+  "questionType": "comprehension",
+  "options": [
+    "Your passport and plane ticket",
+    "Your driver's license and boarding pass",
+    "Your ID card and luggage receipt",
+    "Your credit card and phone"
+  ],
+  "correct": 0,
+  "explanation": "The instruction says 'Veuillez présenter votre passeport et votre billet d'avion' - Please present your passport and plane ticket. 'Veuillez' is the formal imperative form of 'vouloir', used for polite requests and official instructions.",
+  "difficulty": "B1",
+  "source": "Airport Security",
+  "tags": [
+    "travel",
+    "airport",
+    "formal-situation"
+  ],
+  "timeCreated": 1720021380
+}

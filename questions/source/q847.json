@@ -1,0 +1,18 @@
+{
+    "id": 847,
+    "audioText": "Elle travaille tantôt le matin, tantôt le soir selon les besoins du restaurant.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Elle travaille tantôt le matin, tantôt le soir selon les besoins du restaurant.",
+        "Elle travaille parfois le matin, parfois le soir selon les besoins du restaurant.",
+        "Elle travaille tantôt le matin, tantôt l'après-midi selon les besoins du restaurant.",
+        "Elle travaille tantôt le matin, tantôt le soir selon les besoins du café."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle travaille tantôt le matin, tantôt le soir selon les besoins du restaurant</em>' - She works sometimes in the morning, sometimes in the evening according to the restaurant's needs. 'Tantôt... tantôt' means 'sometimes... sometimes' and indicates alternation. The distractors test synonym confusion (parfois), time confusion (après-midi), and place confusion (café).",
+    "difficulty": "B2",
+    "source": "Flexible schedule",
+    "tags": ["workplace", "schedule", "flexibility", "restaurant"],
+    "timeCreated": 1736106240
+}

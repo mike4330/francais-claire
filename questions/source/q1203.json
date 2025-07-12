@@ -1,0 +1,18 @@
+{
+    "id": 1203,
+    "audioText": "Ce gars tient compte du vent pour ajuster son tir et viser juste.",
+    "question": "What does this guy take into account for his shot?",
+    "questionType": "comprehension",
+    "options": [
+        "The wind to adjust his aim and shoot accurately",
+        "The distance to calculate the trajectory",
+        "The target size to choose the right weapon",
+        "The lighting conditions to see clearly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce gars tient compte du vent pour ajuster son tir et viser juste</em>' - This guy takes the wind into account to adjust his shot and aim accurately. This targets the nouns 'gars', 'compte', and 'vent' in a precision shooting context.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: gars, compte, vent",
+    "tags": ["sports", "precision", "strategy"],
+    "timeCreated": 1720617560
+}

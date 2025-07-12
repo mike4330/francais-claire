@@ -1,0 +1,18 @@
+{
+    "id": 1250,
+    "audioText": "Si vous entendiez cette musique formidable tous les soirs, vous deviendriez certainement plus heureux et moins pâles.",
+    "question": "What would happen if you heard this music every evening?",
+    "questionType": "comprehension",
+    "options": [
+        "You would certainly become happier and less pale",
+        "You would probably get tired of the repetition",
+        "You would need to buy expensive audio equipment",
+        "You would disturb your neighbors with the noise"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Si vous entendiez cette musique formidable tous les soirs, vous deviendriez certainement plus heureux et moins pâles</em>' - If you heard this wonderful music every evening, you would certainly become happier and less pale. The verb 'entendiez' (conditional/subjunctive of 'entendre') is used in the hypothetical condition.",
+    "difficulty": "B2",
+    "source": "Strategic question targeting missing conjugate 'entendiez' with synergistic vocabulary",
+    "tags": ["music", "happiness", "daily-routine"],
+    "timeCreated": 1720656420
+}

@@ -1,0 +1,19 @@
+{
+    "id": 357,
+    "audioText": "Ce garçon comprend tout pendant la journée d'école.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Ce garçon comprend tout pendant la journée d'école",
+        "Ce garçon comprend tout pendant la journée d'écoles",
+        "Ce garçons comprend tout pendant la journée d'école",
+        "Ce garçon comprends tout pendant la journée d'école"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>Ce garçon comprend tout pendant la journée d'école</em>' - This boy understands everything during the school day. Note: 'garçon' (singular), 'comprend' (third person singular), and 'école' (singular after d').",
+    "difficulty": "A2",
+    "source": "Listening version of Q306",
+    "tags": ["education", "children", "understanding"],
+    "parentQuestion": 306,
+    "timeCreated": 1736626500
+}

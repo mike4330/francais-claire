@@ -1,0 +1,18 @@
+{
+    "id": 1046,
+    "audioText": "Il faut aborder ce problème sérieux avant qu'il ne devienne plus grave.",
+    "question": "Il faut aborder ce problème ______ avant qu'il ne devienne plus grave.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "sérieux",
+        "urgent",
+        "difficile",
+        "important"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il faut aborder ce problème sérieux avant qu'il ne devienne plus grave.</em>' - 'We must address this serious problem before it becomes more serious.' The missing word is 'sérieux' (serious), describing something that requires careful attention.",
+    "difficulty": "B2",
+    "source": "Problem-solving and crisis management",
+    "tags": ["problems", "crisis", "management", "urgency"],
+    "timeCreated": 1736348940
+}

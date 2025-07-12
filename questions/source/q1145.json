@@ -1,0 +1,19 @@
+{
+    "id": 1145,
+    "audioText": "Cette décision a été prise après consultation de tous les propriétaires d'animaux du quartier.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cette décision a été prise après consultation de tous les propriétaires d'animaux du quartier.",
+        "Cette décision a été prise avant consultation de tous les propriétaires d'animaux du quartier.",
+        "Cette décision a été prise après consultation de tous les propriétaires d'animaux du quart-hier.",
+        "Cette décision a été prise après consultation de tous les propriétaires d'animaux du quartier."
+    ],
+    "correct": 0,
+    "explanation": "The correct option is 'Cette décision a été prise après consultation de tous les propriétaires d'animaux du quartier.' - This decision was made after consulting all pet owners in the neighborhood. This listening exercise tests temporal prepositions ('après' vs 'avant') and pronunciation distinctions ('quartier' vs similar-sounding words).",
+    "difficulty": "B2",
+    "source": "Neighborhood pet policy",
+    "tags": ["animals", "neighborhood", "decision"],
+    "parentQuestion": 452,
+    "timeCreated": 1720826400
+}

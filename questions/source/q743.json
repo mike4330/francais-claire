@@ -1,0 +1,18 @@
+{
+    "id": 743,
+    "audioText": "J'ai senti une amélioration dans l'atmosphère de l'équipe depuis le nouveau manager.",
+    "question": "What has the speaker noticed about the team?",
+    "questionType": "comprehension",
+    "options": [
+        "An improvement in the team atmosphere since the new manager",
+        "A decline in team morale under new leadership",
+        "No change in team dynamics despite management changes",
+        "Increased tension between team members recently"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai senti une amélioration dans l'atmosphère de l'équipe depuis le nouveau manager</em>' - I have felt/sensed an improvement in the team atmosphere since the new manager. 'Senti' is the past participle of 'sentir' (to feel/sense).",
+    "difficulty": "B2",
+    "source": "Workplace feedback",
+    "tags": ["workplace", "management", "team-dynamics"],
+    "timeCreated": 1704414600
+}

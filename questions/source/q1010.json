@@ -1,0 +1,18 @@
+{
+    "id": 1010,
+    "audioText": "Sa voix tremblait désespérément quand elle a annoncé la nouvelle à ses parents inquiets.",
+    "question": "How was her voice when she announced the news?",
+    "questionType": "comprehension",
+    "options": [
+        "It was trembling desperately",
+        "It was calm and steady",
+        "It was loud and confident",
+        "It was barely audible"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa voix tremblait désespérément quand elle a annoncé la nouvelle à ses parents inquiets.</em>' - 'Her voice was trembling desperately when she announced the news to her worried parents.' The noun 'voix' means voice, and 'désespérément' is an adverb meaning desperately.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting",
+    "tags": ["family", "emotions", "news"],
+    "timeCreated": 1720713600
+}

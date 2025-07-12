@@ -1,0 +1,18 @@
+{
+    "id": 829,
+    "audioText": "Le professeur demandera aux étudiants de présenter leurs observations sur les insectes d'automne.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Le professeur demandera aux étudiants de présenter leurs observations sur les insectes d'automne.",
+        "Le professeur demandait aux étudiants de présenter leurs observations sur les insectes d'automne.",
+        "Le professeur demandera aux étudiants de présenter leurs observations sur les insectes d'été.",
+        "Le professeur demandera aux élèves de présenter leurs observations sur les insectes d'automne."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le professeur demandera aux étudiants de présenter leurs observations sur les insectes d'automne</em>' - The teacher will ask the students to present their observations on autumn insects. 'Demandera' is the future form of 'demander' (to ask). The distractors test tense confusion (demandait), season confusion (été), and student level confusion (élèves).",
+    "difficulty": "B1",
+    "source": "Science class",
+    "tags": ["students", "insects", "seasons", "presentation"],
+    "timeCreated": 1736105340
+}

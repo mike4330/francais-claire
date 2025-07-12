@@ -1,0 +1,18 @@
+{
+    "id": 1007,
+    "audioText": "Les documents secrètement rendus au général contenaient des informations sur le genre d'opérations menées dans cette région.",
+    "question": "What did the secretly returned documents contain?",
+    "questionType": "comprehension",
+    "options": [
+        "Information about the type of operations conducted in the region",
+        "Personal letters from soldiers to their families",
+        "Financial records of military spending",
+        "Maps of enemy territory locations"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les documents secrètement rendus au général contenaient des informations sur le genre d'opérations menées dans cette région.</em>' - 'The documents secretly returned to the general contained information about the type of operations conducted in this region.' The past participle 'rendus' (masculine plural) agrees with 'documents', and 'secrètement' emphasizes the covert nature of the return.",
+    "difficulty": "B2",
+    "source": "Strategic verb conjugate targeting",
+    "tags": ["military", "information", "operations"],
+    "timeCreated": 1720713600
+}

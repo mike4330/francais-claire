@@ -1,0 +1,21 @@
+{
+  "id": 75,
+  "audioText": "Nous sommes près de la main droite.",
+  "question": "What are they near?",
+  "questionType": "comprehension",
+  "options": [
+    "The right hand",
+    "The left foot",
+    "The small door",
+    "The big house"
+  ],
+  "correct": 0,
+  "explanation": "The French text says 'Nous sommes près de la main droite' which means 'We are near the right hand.' The conjugate 'sommes' is the first person plural form of être (to be).",
+  "difficulty": "A1",
+  "source": "Conjugation practice with être",
+  "tags": [
+    "body-parts",
+    "position"
+  ],
+  "timeCreated": 1735489200
+}

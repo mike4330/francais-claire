@@ -1,0 +1,23 @@
+{
+  "id": 1091,
+  "audioText": "Plusieurs associations portent plainte contre une entreprise pour pollution de l'environnement",
+  "question": "What are the associations doing?",
+  "questionType": "comprehension",
+  "options": [
+    "They are protesting in the streets",
+    "They are filing a legal complaint against a company",
+    "They are negotiating with the government",
+    "They are organizing environmental campaigns"
+  ],
+  "correct": 1,
+  "explanation": "The associations are 'portent plainte contre une entreprise' - filing a complaint against a company for environmental pollution. 'Porter plainte' means to file a legal complaint or lawsuit.",
+  "difficulty": "B2",
+  "source": "Environmental News",
+  "tags": [
+    "environment",
+    "legal-action",
+    "pollution",
+    "associations",
+    "company"
+  ]
+}

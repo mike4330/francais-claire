@@ -1,0 +1,18 @@
+{
+    "id": 1028,
+    "audioText": "Je vivrai capable d'assurément comprendre ce prochain projet net et précis.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Je vivrai capable d'assurément comprendre ce prochain projet net et précis.",
+        "Je vivrai capable d'assurément comprendre ce prochain projet clair et précis.",
+        "Je vivrai capable de certainement comprendre ce prochain projet net et précis.",
+        "Je vivrai capable d'assurément terminer ce prochain projet net et précis."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Je vivrai capable d'assurément comprendre ce prochain projet net et précis.</em>' - 'I will live capable of certainly understanding this next clear and precise project.' The verb 'vivrai' is the future first person singular of 'vivre' (to live).",
+    "difficulty": "B1",
+    "source": "Strategic verb conjugate targeting",
+    "tags": ["future-planning", "workplace", "capability"],
+    "timeCreated": 1720715700
+}

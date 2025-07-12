@@ -1,0 +1,19 @@
+{
+    "id": 344,
+    "audioText": "Ils diront la vérité demain matin.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Ils diront la vérité demain matin",
+        "Ils disent la vérité demain matin",
+        "Ils diraient la vérité demain matin",
+        "Ils diront la vérité ce matin"
+    ],
+    "correct": 0,
+    "parentQuestion": 228,
+    "explanation": "The correct text is '<em>Ils diront la vérité demain matin</em>' - They will tell the truth tomorrow morning. Key distinctions: 'diront' (future, will tell) not 'disent' (present, tell) or 'diraient' (conditional, would tell), and 'demain matin' (tomorrow morning) not 'ce matin' (this morning).",
+    "difficulty": "A2",
+    "source": "Listening version of Q228",
+    "tags": ["truth", "future-plans", "conversation"],
+    "timeCreated": 1720963080
+}

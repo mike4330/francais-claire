@@ -1,0 +1,18 @@
+{
+    "id": 1166,
+    "audioText": "C'est pire que ce que nous avions prévu pour ce projet important.",
+    "question": "How is the situation compared to what they had planned?",
+    "questionType": "comprehension",
+    "options": [
+        "It is worse than what they had planned",
+        "It is better than what they had planned",
+        "It is exactly as they had planned",
+        "It is completely different from their plan"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>C'est pire que ce que nous avions prévu pour ce projet important</em>' - It is worse than what we had planned for this important project. 'Pire' means worse (comparative of bad), and 'prévu' means planned or expected.",
+    "difficulty": "B1",
+    "source": "Strategic adjective coverage reinforcement",
+    "tags": ["workplace", "planning", "comparison"],
+    "timeCreated": 1752094101
+}

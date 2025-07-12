@@ -1,0 +1,18 @@
+{
+    "id": 1302,
+    "audioText": "Cette mauvaise habitude va malheureusement nuire gravement à sa santé personnelle future.",
+    "question": "Cette mauvaise ______ va malheureusement nuire gravement à sa santé personnelle future.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "habitude",
+        "habitudes",
+        "attitude",
+        "méthode"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette mauvaise habitude va malheureusement nuire gravement à sa santé personnelle future</em>' - This bad habit will unfortunately seriously harm his future personal health. 'Habitude' (habit) is the correct noun, feminine singular with the demonstrative adjective 'cette'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: habitude + malheureusement + gravement",
+    "tags": ["health", "habits", "consequences"],
+    "timeCreated": 1736625300
+}

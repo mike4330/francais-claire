@@ -1,0 +1,23 @@
+{
+    "id": 992,
+    "audioText": "Naguère, les gens regardaient machinalement là-dedans. Sitôt que la technologie change, dorénavant nous devons aller au-delà des habitudes traditionnelles.",
+    "question": "How did people formerly look at technology?",
+    "questionType": "comprehension",
+    "options": [
+        "With great attention and focus",
+        "Mechanically, without much thought",
+        "With fear and suspicion",
+        "With complete understanding"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Naguère, les gens regardaient machinalement là-dedans. Sitôt que la technologie change, dorénavant nous devons aller au-delà des habitudes traditionnelles.</em>' - 'Formerly, people looked mechanically in there. As soon as technology changes, from now on we must go beyond traditional habits.' The adverb 'machinalement' (mechanically) describes how people formerly looked at things without much thought.",
+    "difficulty": "B2",
+    "source": "Strategic adverb targeting",
+    "tags": [
+        "technology",
+        "habits",
+        "change",
+        "time-perspective"
+    ],
+    "timeCreated": 1720713600
+}

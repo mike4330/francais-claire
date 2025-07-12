@@ -1,0 +1,18 @@
+{
+    "id": 1034,
+    "audioText": "Cette prochaine journée sera successivement difficile puis plus facile selon les circonstances.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Cette prochaine journée sera successivement difficile puis plus facile selon les circonstances.",
+        "Cette prochaine journée sera successivement difficile puis plus simple selon les circonstances.",
+        "Cette prochaine journée sera progressivement difficile puis plus facile selon les circonstances.",
+        "Cette prochaine journée sera successivement pénible puis plus facile selon les circonstances."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Cette prochaine journée sera successivement difficile puis plus facile selon les circonstances.</em>' - 'This next day will be successively difficult then easier according to circumstances.' The noun 'journée' means day, 'prochaine' means next, and 'successivement' means successively.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting",
+    "tags": ["time", "intensity", "prediction"],
+    "timeCreated": 1720715800
+}

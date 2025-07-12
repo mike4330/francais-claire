@@ -1,0 +1,18 @@
+{
+    "id": 1265,
+    "audioText": "Vous vivrez cette expérience humaine mince avec beaucoup de douleur et de joie.",
+    "question": "Vous ______ cette expérience humaine mince avec beaucoup de douleur et de joie.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "vivrez",
+        "vivez",
+        "viviez",
+        "vivront"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous vivrez cette expérience humaine mince avec beaucoup de douleur et de joie</em>' - You will live this thin human experience with much pain and joy. 'Vivrez' is the second person plural future form of 'vivre' (to live), expressing a future certainty about experiencing life.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: vivrez + humain + mince + pain",
+    "tags": ["life-experience", "emotions", "pain"],
+    "timeCreated": 1736622720
+}

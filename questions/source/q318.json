@@ -1,0 +1,19 @@
+{
+    "id": 318,
+    "audioText": "Tu vivras une minute géniale et vous entendrez mon salut présent.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Tu vivras une minute géniale et vous entendrez mon salut présent.",
+        "Tu vivras une minute géniale et vous entendez mon salut présent.",
+        "Tu vivras une minute géniale et vous entendrez mon salut présente.",
+        "Tu vivra une minute géniale et vous entendrez mon salut présent."
+    ],
+    "correct": 0,
+    "explanation": "The correct option is 'Tu vivras une minute géniale et vous entendrez mon salut présent.' - You will live a brilliant minute and you will hear my present greeting. This listening exercise tests future tense recognition ('vivras' vs 'vivra') and present vs future tense ('entendrez' vs 'entendez').",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["future", "experience", "greeting", "positivity"],
+    "parentQuestion": 312,
+    "timeCreated": 1720826340
+}

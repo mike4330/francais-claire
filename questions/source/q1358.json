@@ -1,0 +1,18 @@
+{
+    "id": 1358,
+    "audioText": "Cette couche mince protège efficacement toute la surface contre les rayures potentielles.",
+    "question": "Cette couche ______ protège efficacement toute la surface contre les rayures potentielles.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "mince",
+        "minces",
+        "fine",
+        "épaisse"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette couche mince protège efficacement toute la surface contre les rayures potentielles</em>' - This thin layer effectively protects the entire surface against potential scratches. 'Mince' (thin) is the correct adjective, agreeing with the feminine noun 'couche'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: mince + efficacement + potentielles",
+    "tags": ["technology", "protection", "materials"],
+    "timeCreated": 1736625660
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1260,
+    "audioText": "Vous entrez dans ce boulot avec une faute grave au début.",
+    "question": "Vous ______ dans ce boulot avec une faute grave au début.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "entrez",
+        "entres",
+        "entre",
+        "entrent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous entrez dans ce boulot avec une faute grave au début</em>' - You are entering this job with a serious mistake at the beginning. 'Entrez' is the second person plural present form of 'entrer' (to enter), used here in the expression 'entrer dans' (to get into/start).",
+    "difficulty": "B1",
+    "source": "Strategic targeting: entrez + boulot + faute + début",
+    "tags": ["workplace", "mistakes", "career"],
+    "timeCreated": 1736622420
+}

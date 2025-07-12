@@ -1,0 +1,18 @@
+{
+    "id": 1070,
+    "audioText": "À son âge, il connaît déjà le bon chemin pour éviter les problèmes.",
+    "question": "What does he know at his age?",
+    "questionType": "comprehension",
+    "options": [
+        "He already knows the right path to avoid problems",
+        "He still needs help finding his way home",
+        "He prefers to take risks and challenge authority",
+        "He struggles with making important decisions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>À son âge, il connaît déjà le bon chemin pour éviter les problèmes.</em>' - At his age, he already knows the right path to avoid problems. The noun 'âge' means age, and 'chemin' means path/way, used metaphorically here to mean the right approach or method.",
+    "difficulty": "B1",
+    "source": "Life experience discussion",
+    "tags": ["wisdom", "maturity", "problem-solving"],
+    "timeCreated": 1720447200
+}

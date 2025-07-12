@@ -1,0 +1,23 @@
+{
+  "id": 946,
+  "audioText": "Quand vous étiez enfants, vous aimiez les vacances d'été.",
+  "question": "Quand vous ______ enfants, vous aimiez les vacances d'été.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "étiez",
+    "êtes",
+    "aviez",
+    "serez"
+  ],
+  "correct": 0,
+  "explanation": "The sentence means 'When you were children, you loved summer vacations.' The imperfect form 'étiez' (you were) is used for ongoing past states or habitual actions in the past.",
+  "difficulty": "B1",
+  "source": "Childhood Memories",
+  "tags": [
+    "childhood",
+    "memories",
+    "vacation",
+    "past-habits"
+  ],
+  "timeCreated": 1751325867
+}

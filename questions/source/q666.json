@@ -1,0 +1,19 @@
+
+{
+    "id": 666,
+    "audioText": "Elle a entièrement rénové sa maison l'année dernière.",
+    "question": "Elle a ______ rénové sa maison l'année dernière.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "entièrement",
+        "partiellement",
+        "rapidement",
+        "lentement"
+    ],
+    "correct": 0,
+    "explanation": "'Entièrement' means 'entirely' or 'completely'. The sentence indicates a full renovation of her house.",
+    "difficulty": "B2",
+    "source": "Gemini-generated",
+    "tags": ["housing", "renovation"],
+    "timeCreated": 1720134000
+}

@@ -1,0 +1,18 @@
+{
+    "id": 123,
+    "audioText": "Comment tu t'appelles ?",
+    "question": "Comment tu t'______ ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "appelles",
+        "appeler",
+        "appelé",
+        "appelons"
+    ],
+    "correct": 0,
+    "explanation": "The correct form is 'appelles' (second person singular of 'appeler'). 'Comment tu t'appelles ?' means 'What is your name?'",
+    "difficulty": "A1",
+    "source": "Basic Introductions",
+    "tags": ["greeting", "introduction", "name", "daily-life"],
+    "timeCreated": 1719963300
+}

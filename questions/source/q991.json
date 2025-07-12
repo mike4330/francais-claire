@@ -1,0 +1,23 @@
+{
+    "id": 991,
+    "audioText": "La terre change, et notre visage s'assombrit face à cette raison évidente. Aucun ami ne peut ignorer ce cas urgent qui transforme notre façon de vivre.",
+    "question": "Fill in the blank: 'Aucun ami ne peut ignorer ce _____ urgent.'",
+    "questionType": "fill-in-the-blank", 
+    "options": [
+        "cas",
+        "pas",
+        "bas",
+        "tas"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La terre change, et notre visage s'assombrit face à cette raison évidente. Aucun ami ne peut ignorer ce cas urgent qui transforme notre façon de vivre.</em>' - 'The earth changes, and our face darkens facing this obvious reason. No friend can ignore this urgent case that transforms our way of living.' The missing word is 'cas' (case), referring to an urgent situation.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting",
+    "tags": [
+        "environment",
+        "urgency",
+        "change",
+        "cooperation"
+    ],
+    "timeCreated": 1720713600
+}

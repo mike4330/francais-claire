@@ -1,0 +1,19 @@
+{
+    "id": 1225,
+    "audioText": "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage",
+        "Le médecin croit que ce patient guérira si les symptômes s'aggravent davantage",
+        "Le médecin croit que ce patient mourra si les symptômes s'améliorent davantage",
+        "Le médecin pense que ce patient mourra si les symptômes s'aggravent davantage"
+    ],
+    "correct": 0,
+    "parentQuestion": 760,
+    "explanation": "The correct text is '<em>Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage</em>' - The doctor believes this patient will die if the symptoms worsen further. Key words: 'mourra' (will die, not 'guérira' - will recover), 's'aggravent' (worsen, not 's'améliorent' - improve), and 'croit' (believes, not 'pense' - thinks).",
+    "difficulty": "B1",
+    "source": "Listening version of Q760",
+    "tags": ["symptoms", "medical", "prognosis"],
+    "timeCreated": 1720962660
+}

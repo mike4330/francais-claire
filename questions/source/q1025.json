@@ -1,0 +1,18 @@
+{
+    "id": 1025,
+    "audioText": "Dans cette affaire policière complexe, le sang découvert dans la ferme révèle une partie moindre des preuves concernant la maintenance de l'équipement agricole.",
+    "question": "In this complex police affair, what does the blood discovered on the farm reveal?",
+    "questionType": "comprehension",
+    "options": [
+        "A lesser part of evidence concerning agricultural equipment maintenance",
+        "The complete identity of the main suspect",
+        "The exact time of the criminal incident",
+        "The location of all missing equipment"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans cette affaire policière complexe, le sang découvert dans la ferme révèle une partie moindre des preuves concernant la maintenance de l'équipement agricole.</em>' - 'In this complex police affair, the blood discovered on the farm reveals a lesser part of evidence concerning agricultural equipment maintenance.' The nouns 'sang' means blood, 'affaire' means affair/case, and 'partie' means part.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting",
+    "tags": ["law-enforcement", "farm", "maintenance"],
+    "timeCreated": 1720715700
+}

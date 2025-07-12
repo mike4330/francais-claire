@@ -1,0 +1,18 @@
+{
+    "id": 1643,
+    "audioText": "L'oncle âgé, alias le professeur émérite, a causé affreusement du dérangement dans sa résidence universitaire.",
+    "question": "What did the elderly uncle, also known as the emeritus professor, cause in his university residence?",
+    "questionType": "comprehension",
+    "options": [
+        "Terrible disturbance",
+        "Great happiness",
+        "Minor confusion",
+        "Positive changes"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'oncle âgé, alias le professeur émérite, a causé affreusement du dérangement dans sa résidence universitaire</em>' - The elderly uncle, also known as the emeritus professor, caused terrible disturbance in his university residence. 'Alias' means also known as, 'affreusement' means terribly, and 'dérangement' means disturbance.",
+    "difficulty": "C1",
+    "source": "Strategic multi-gap synergy",
+    "tags": ["aging", "residence", "disturbance"],
+    "timeCreated": 1752096300
+}

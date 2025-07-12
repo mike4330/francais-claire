@@ -1,0 +1,22 @@
+{
+  "id": 1554,
+  "audioText": "Soyons honnêtes sur cette situation complexe qui nécessite une approche nuancée et réfléchie.",
+  "question": "What does the speaker suggest about their approach?",
+  "questionType": "comprehension",
+  "options": [
+    "They should be honest about the complex situation",
+    "They should avoid discussing the situation",
+    "They should simplify the complex problem",
+    "They should postpone making any decisions"
+  ],
+  "correct": 0,
+  "explanation": "The sentence uses 'soyons' (imperative 1st person plural of être) to suggest being honest about a complex situation requiring a nuanced approach.",
+  "difficulty": "C2",
+  "source": "Formal discussion requiring diplomatic approach",
+  "tags": [
+    "formal-discussion",
+    "honesty",
+    "complex-situations"
+  ],
+  "timeCreated": 1719936240
+}

@@ -1,0 +1,18 @@
+{
+    "id": 986,
+    "audioText": "Vous resterez bêtement avec ce cheveu clair demain.",
+    "question": "What will happen tomorrow?",
+    "questionType": "comprehension",
+    "options": [
+        "You will stupidly stay with this light hair",
+        "You will wisely change your hair color",
+        "You will definitely cut your hair",
+        "You will probably dye your hair"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous resterez bêtement avec ce cheveu clair demain</em>' - You will stupidly stay with this light hair tomorrow. 'Resterez' is the future form of 'rester' (to stay), and 'bêtement' means 'stupidly'.",
+    "difficulty": "B2",
+    "source": "Strategic conjugate + high-frequency adverb/noun combination",
+    "tags": ["appearance", "future-plans", "physical-description"],
+    "timeCreated": 1735992000
+}

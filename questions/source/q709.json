@@ -1,0 +1,18 @@
+{
+    "id": 709,
+    "audioText": "Tu joues au tennis depuis combien de temps exactement?",
+    "question": "What is the person asking about tennis?",
+    "questionType": "comprehension",
+    "options": [
+        "How long exactly they have been playing",
+        "Whether they enjoy playing the sport",
+        "What time they usually play",
+        "How often they practice each week"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Tu joues au tennis depuis combien de temps exactement?' - How long exactly have you been playing tennis? 'Joues' is the second person singular present tense of 'jouer' (to play), asking about duration of activity.",
+    "difficulty": "B2",
+    "source": "Sports conversation",
+    "tags": ["sports", "tennis", "time", "duration", "hobbies"],
+    "timeCreated": 1736067700
+}

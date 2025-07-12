@@ -1,0 +1,18 @@
+{
+    "id": 1241,
+    "audioText": "Après un été sec et très chaud, la terre mince demande plus d'attention pour les cultures.",
+    "question": "What condition requires more attention for crops?",
+    "questionType": "comprehension",
+    "options": [
+        "Thin soil after a dry, hot summer",
+        "Wet ground after heavy rain",
+        "Rich soil in spring",
+        "Frozen earth in winter"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Après un été sec et très chaud, la terre mince demande plus d'attention pour les cultures</em>' - After a dry and very hot summer, the thin soil requires more attention for crops. The adjectives 'sec' (dry) and 'mince' (thin) describe challenging agricultural conditions.",
+    "difficulty": "B2",
+    "source": "Strategic adjective targeting: sec, mince",
+    "tags": ["agriculture", "weather", "farming"],
+    "timeCreated": 1720964340
+}

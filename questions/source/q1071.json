@@ -1,0 +1,19 @@
+
+{
+  "id": 1071,
+  "audioText": "Le détective a remarqué que le suspect parlait mollement, comme s'il cachait quelque chose.",
+  "question": "How did the suspect speak, according to the detective?",
+  "questionType": "comprehension",
+  "options": [
+    "Mollement",
+    "Clairement",
+    "Rapidement",
+    "Fortement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le détective a remarqué que le suspect parlait mollement, comme s'il cachait quelque chose.</em>' - The detective noticed that the suspect spoke softly/limply, as if he were hiding something. 'Mollement' means softly or limply, an adverb describing the manner of speaking that suggests hesitation or concealment.",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["crime", "investigation", "psychology"],
+  "timeCreated": 1751999581
+}

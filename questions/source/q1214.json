@@ -1,0 +1,18 @@
+{
+    "id": 1214,
+    "audioText": "Au bord de la mer, elle a touché son âme en respirant cet air qui lui caresse la peau et le nez.",
+    "question": "What touched her soul by the sea?",
+    "questionType": "comprehension",
+    "options": [
+        "Breathing the air that caresses her skin and nose",
+        "Listening to the sound of the waves",
+        "Watching the sunset over the horizon",
+        "Feeling the sand between her toes"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Au bord de la mer, elle a touché son âme en respirant cet air qui lui caresse la peau et le nez</em>' - By the edge of the sea, she touched her soul breathing this air that caresses her skin and nose. This targets the nouns 'bord', 'âme', 'peau', and 'nez' in a peaceful seaside context.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: bord, âme, peau, nez",
+    "tags": ["nature", "relaxation", "sensory-experience"],
+    "timeCreated": 1720618460
+}

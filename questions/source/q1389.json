@@ -1,0 +1,18 @@
+{
+    "id": 1389,
+    "audioText": "Cette entreprise occupe gratuitement un bureau extraordinairement bien situé dans le centre.",
+    "question": "Cette entreprise ______ gratuitement un bureau extraordinairement bien situé dans le centre.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "occupe",
+        "occupé",
+        "occupés",
+        "occupée"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette entreprise occupe gratuitement un bureau extraordinairement bien situé dans le centre</em>' - This company occupies for free an extraordinarily well-located office in the center. 'Occupe' is the present tense third person singular form. 'Gratuitement' means for free and 'extraordinairement' means extraordinarily.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: occupe + gratuitement + extraordinairement",
+    "tags": ["business", "real-estate", "location"],
+    "timeCreated": 1736629860
+}

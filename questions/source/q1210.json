@@ -1,0 +1,18 @@
+{
+    "id": 1210,
+    "audioText": "Il a reçu une lettre à l'hôtel qui lui a touché l'âme profondément.",
+    "question": "What deeply touched his soul?",
+    "questionType": "comprehension",
+    "options": [
+        "A letter he received at the hotel",
+        "A phone call from his family",
+        "A message from an old friend",
+        "A gift from his colleague"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a reçu une lettre à l'hôtel qui lui a touché l'âme profondément</em>' - He received a letter at the hotel that deeply touched his soul. This targets the nouns 'lettre', 'hôtel', and 'âme' in an emotional communication context.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: lettre, hôtel, âme",
+    "tags": ["emotions", "communication", "travel"],
+    "timeCreated": 1720618220
+}

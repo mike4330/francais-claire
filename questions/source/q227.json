@@ -1,0 +1,18 @@
+{
+    "id": 227,
+    "audioText": "Marie joue de la musique classique au piano tous les dimanches matin.",
+    "question": "When does Marie play classical music?",
+    "questionType": "comprehension",
+    "options": [
+        "Every Sunday morning on the piano",
+        "Every evening after dinner",
+        "Only during the weekend afternoons",
+        "Three times a week in the evening"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Marie joue de la musique classique au piano tous les dimanches matin</em>' - Marie plays classical music on the piano every Sunday morning. 'Tous les dimanches matin' means every Sunday morning.",
+    "difficulty": "A2",
+    "source": "Family routine",
+    "tags": ["classical-music", "hobbies", "schedule"],
+    "timeCreated": 1704414360
+}

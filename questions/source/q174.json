@@ -1,0 +1,18 @@
+{
+    "id": 174,
+    "audioText": "Elle regardera le film ce soir.",
+    "question": "When will she watch the movie?",
+    "questionType": "comprehension",
+    "options": [
+        "Tonight.",
+        "Yesterday.",
+        "This morning.",
+        "Next week."
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'regardera' - the future form of 'regarder' (to watch) for il/elle. 'Elle regardera' means 'she will watch'. 'Ce soir' means 'tonight' or 'this evening'.",
+    "difficulty": "A2",
+    "source": "Evening entertainment plans",
+    "tags": ["entertainment", "evening", "future-plans"],
+    "timeCreated": 1720108800
+}

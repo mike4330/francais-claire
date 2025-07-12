@@ -1,0 +1,18 @@
+{
+    "id": 1048,
+    "audioText": "Tournez à gauche au prochain carrefour pour rejoindre l'autoroute principale.",
+    "question": "Tournez à ______ au prochain carrefour pour rejoindre l'autoroute principale.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "gauche",
+        "droite",
+        "côté",
+        "bord"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tournez à gauche au prochain carrefour pour rejoindre l'autoroute principale.</em>' - 'Turn left at the next intersection to reach the main highway.' The missing word is 'gauche' (left), indicating a leftward direction.",
+    "difficulty": "A1",
+    "source": "Driving directions and navigation",
+    "tags": ["directions", "driving", "navigation", "roads"],
+    "timeCreated": 1736349060
+}

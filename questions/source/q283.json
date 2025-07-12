@@ -1,0 +1,22 @@
+{
+    "id": 283,
+    "audioText": "La lumière sur la mer est belle ! Ce truc dans le verre brille.",
+    "question": "Listening: What shines in the glass?",
+    "questionType": "listening",
+    "options": [
+        "Ce truc",
+        "Ce truck",
+        "Ce troc",
+        "Ce trac"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La lumière sur la mer est belle ! Ce truc dans le verre brille.</em>' - 'The light on the sea is beautiful! This thing in the glass shines.' The correct answer is 'ce truc' (this thing) which shines in the glass.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": [
+        "maritime-beauty",
+        "light",
+        "simple-observation"
+    ],
+    "timeCreated": 1720713600
+}

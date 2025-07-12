@@ -1,0 +1,22 @@
+{
+  "id": 480,
+  "audioText": "Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.",
+  "question": "What did the speaker have for lunch?",
+  "questionType": "comprehension",
+  "options": [
+    "A Bergère salad with breaded goat cheese and bacon bits",
+    "A Croque Monsieur with fries and salad",
+    "A Norvégienne salad with smoked salmon and shrimp",
+    "A Fromagère dish with camembert and honey"
+  ],
+  "correct": 0,
+  "explanation": "The speaker had 'une salade Bergère avec du chèvre pané et des lardons' - a Bergère salad with breaded goat cheese and bacon bits for lunch.",
+  "difficulty": "B1",
+  "source": "Lunch Menu",
+  "tags": [
+    "food",
+    "lunch",
+    "salad",
+    "menu"
+  ]
+}

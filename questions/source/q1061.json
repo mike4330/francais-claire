@@ -1,0 +1,18 @@
+{
+    "id": 1061,
+    "audioText": "Vous arrêtiez toujours vos conversations quand nous entrions dans la pièce silencieuse.",
+    "question": "Vous ______ toujours vos conversations quand nous entrions dans la pièce silencieuse.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêtiez",
+        "arrêtez",
+        "arrêtions",
+        "arrêteriez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous arrêtiez toujours vos conversations quand nous entrions dans la pièce silencieuse.</em>' - 'You always stopped your conversations when we entered the quiet room.' The missing word is 'arrêtiez' (you stopped), the imperfect tense second person plural of 'arrêter'.",
+    "difficulty": "B2",
+    "source": "Social dynamics and conversation interruptions",
+    "tags": ["social-dynamics", "conversation", "interruption", "quiet"],
+    "timeCreated": 1736349840
+}

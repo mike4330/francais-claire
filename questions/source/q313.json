@@ -1,0 +1,18 @@
+{
+    "id": 313,
+    "audioText": "Ma sœur et son chien font du bruit génial dans cet endroit.",
+    "question": "What kind of noise do the sister and dog make?",
+    "questionType": "comprehension",
+    "options": [
+        "Brilliant noise",
+        "Quiet noise",
+        "Sad noise",
+        "Strange noise"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma sœur et son chien font du bruit génial dans cet endroit.</em>' - My sister and her dog make brilliant noise in this place. 'Génial' means brilliant/fantastic, describing the type of noise they make.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["family", "pets", "noise", "location"],
+    "timeCreated": 1720825000
+}

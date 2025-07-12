@@ -1,0 +1,26 @@
+{
+  "id": 1710,
+  "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+  "parentQuestion": 1784,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+    "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons méthodologiques.",
+    "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer progressivement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
+    "Cette idée révolutionnaire, bien qu'elle suscite des polémiques, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte contenait 'controverses' (pas 'polémiques'), 'radicalement' (pas 'progressivement'), et 'épistémologiques' (pas 'méthodologiques'). Ces distinctions subtiles testent l'écoute précise à un niveau C2.",
+  "difficulty": "C2",
+  "source": "Academic Research - Listening",
+  "tags": [
+    "technology",
+    "artificial-intelligence",
+    "philosophy",
+    "research",
+    "innovation",
+    "epistemology"
+  ],
+  "timeCreated": 1720023720
+}

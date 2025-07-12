@@ -1,0 +1,18 @@
+{
+    "id": 1379,
+    "audioText": "Comment tu paies ci ton loyer chaque mois avec ton salaire actuel?",
+    "question": "Comment tu ______ ci ton loyer chaque mois avec ton salaire actuel?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "paies",
+        "payez",
+        "paye",
+        "payé"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Comment tu paies ci ton loyer chaque mois avec ton salaire actuel?</em>' - How do you pay here your rent each month with your current salary? 'Paies' is the correct present tense form for 'tu' (second person singular). 'Ci' is an adverb meaning 'here' or 'this way'.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: paies + ci",
+    "tags": ["housing", "finance", "monthly-expenses"],
+    "timeCreated": 1736628540
+}

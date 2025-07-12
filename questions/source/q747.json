@@ -1,0 +1,18 @@
+{
+    "id": 747,
+    "audioText": "Elle trouvait que le nouveau système de transport public était beaucoup plus efficace.",
+    "question": "What did she think about the new public transport system?",
+    "questionType": "comprehension",
+    "options": [
+        "She found it much more efficient",
+        "She thought it was too expensive",
+        "She believed it was poorly designed",
+        "She felt it was unnecessarily complex"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle trouvait que le nouveau système de transport public était beaucoup plus efficace</em>' - She found that the new public transport system was much more efficient. 'Trouvait' is the imperfect tense of 'trouver' (to find/think), expressing a past opinion or judgment.",
+    "difficulty": "B2",
+    "source": "Transportation review",
+    "tags": ["transportation", "public-transport", "efficiency"],
+    "timeCreated": 1704415200
+}

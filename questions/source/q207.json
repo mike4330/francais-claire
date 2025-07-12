@@ -1,0 +1,19 @@
+
+{
+    "id": 207,
+    "audioText": "Il a résolu le problème facilement.",
+    "question": "Il a résolu le problème ______.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "facilement",
+        "difficilement",
+        "lentement",
+        "rapidement"
+    ],
+    "correct": 0,
+    "explanation": "'Facilement' means 'easily'. The sentence indicates the problem was solved without difficulty.",
+    "difficulty": "A2",
+    "source": "Gemini-generated",
+    "tags": ["problem-solving", "achievement"],
+    "timeCreated": 1720134000
+}

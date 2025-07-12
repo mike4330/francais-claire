@@ -1,0 +1,19 @@
+{
+    "id": 1229,
+    "audioText": "Il parle d'une voix douce et vivante qui inspire confiance à tous.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Il parle d'une voix douce et vivante qui inspire confiance à tous",
+        "Il parle d'une voix dure et vivante qui inspire confiance à tous",
+        "Il parle d'une voix douce et vibrante qui inspire confiance à tous",
+        "Il parle d'une voix douce et vivante qui donne confiance à tous"
+    ],
+    "correct": 0,
+    "parentQuestion": 1218,
+    "explanation": "The correct text is '<em>Il parle d'une voix douce et vivante qui inspire confiance à tous</em>' - He speaks with a gentle and lively voice that inspires confidence in everyone. Key words: 'douce' (gentle, not 'dure' - hard), 'vivante' (lively, not 'vibrante' - vibrant), and 'inspire' (inspires, not 'donne' - gives).",
+    "difficulty": "B1",
+    "source": "Listening version of Q1218",
+    "tags": ["communication", "personality", "trust"],
+    "timeCreated": 1720962900
+}

@@ -1,0 +1,22 @@
+{
+  "id": 935,
+  "audioText": "Votre analyse est très juste et pertinente pour notre projet.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Votre analyse est très juste et pertinente pour notre projet.",
+    "Votre analyse est très joste et pertinente pour notre projet.",
+    "Votre analyse est très juse et pertinente pour notre projet.",
+    "Votre analyse est très jusse et pertinente pour notre projet."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'juste' (just/fair/accurate) - a high-frequency adjective missing from our coverage. Here it means 'accurate' or 'correct' in the context of an analysis.",
+  "difficulty": "B2",
+  "source": "Professional feedback and evaluation",
+  "tags": [
+    "analysis",
+    "professional",
+    "evaluation"
+  ],
+  "timeCreated": 1704067200
+}

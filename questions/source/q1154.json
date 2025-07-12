@@ -1,0 +1,18 @@
+{
+    "id": 1154,
+    "audioText": "Le sportif fièrement présente sa médaille d'or aux journalistes après sa victoire historique.",
+    "question": "Le sportif ______ présente sa médaille d'or aux journalistes après sa victoire historique.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fièrement",
+        "modestement",
+        "discrètement",
+        "rapidement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le sportif fièrement présente sa médaille d'or aux journalistes après sa victoire historique</em>' - The athlete proudly presents his gold medal to journalists after his historic victory. 'Fièrement' means proudly, showing satisfaction and pride in his achievement.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting for 'fièrement'",
+    "tags": ["sports", "victory", "medals", "pride"],
+    "timeCreated": 1720867240
+}

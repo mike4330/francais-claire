@@ -1,0 +1,18 @@
+{
+    "id": 1185,
+    "audioText": "Ce mec travaille dur dans son boulot pour économiser l'argent de son retour au village.",
+    "question": "Why does this guy work hard at his job?",
+    "questionType": "comprehension",
+    "options": [
+        "To save money for his return to the village",
+        "To buy a new car for transportation",
+        "To pay for his apartment rent",
+        "To support his elderly parents"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce mec travaille dur dans son boulot pour économiser l'argent de son retour au village</em>' - This guy works hard at his job to save money for his return to the village. 'Mec' means guy/man, 'boulot' means job/work, and 'retour' means return.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: mec, boulot, retour",
+    "tags": ["work", "savings", "village", "migration"],
+    "timeCreated": 1752112060
+}

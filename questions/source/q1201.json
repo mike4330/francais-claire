@@ -1,0 +1,18 @@
+{
+    "id": 1201,
+    "audioText": "Elle se passe les bras dans les cheveux et regarde son œil gauche dans le miroir.",
+    "question": "What is she doing in front of the mirror?",
+    "questionType": "comprehension",
+    "options": [
+        "Running her arms through her hair and looking at her left eye",
+        "Brushing her teeth and washing her face",
+        "Putting on makeup and jewelry",
+        "Checking her clothes and shoes"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle se passe les bras dans les cheveux et regarde son œil gauche dans le miroir</em>' - She runs her arms through her hair and looks at her left eye in the mirror. This targets the nouns 'bras', 'cheveu', and 'œil' in a personal grooming context.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: bras, cheveu, œil",
+    "tags": ["personal-care", "appearance", "daily-routine"],
+    "timeCreated": 1720616880
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1027,
+    "audioText": "Je comprenais quasiment le sens de cette histoire, mais elle restait pareil mystérieuse.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Je comprenais quasiment le sens de cette histoire, mais elle restait pareil mystérieuse.",
+        "Je comprenais complètement le sens de cette histoire, mais elle restait pareil mystérieuse.",
+        "Je comprenais quasiment le sens de cette histoire, mais elle restait très mystérieuse.",
+        "Je comprenais quasiment le sens de cette histoire, mais elle semblait pareil mystérieuse."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Je comprenais quasiment le sens de cette histoire, mais elle restait pareil mystérieuse.</em>' - 'I almost understood the meaning of this story, but it remained just as mysterious.' The verb 'comprenais' is the imperfect first person singular of 'comprendre' (to understand).",
+    "difficulty": "B1",
+    "source": "Strategic verb conjugate targeting",
+    "tags": ["storytelling", "comprehension", "mystery"],
+    "timeCreated": 1720715700
+}

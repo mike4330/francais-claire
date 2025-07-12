@@ -1,0 +1,18 @@
+{
+    "id": 724,
+    "audioText": "Cette chemise bleu marine va parfaitement avec ton pantalon gris.",
+    "question": "What color is the shirt?",
+    "questionType": "comprehension",
+    "options": [
+        "Navy blue",
+        "Light blue",
+        "Dark gray",
+        "Pure white"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette chemise bleu marine va parfaitement avec ton pantalon gris</em>' - This navy blue shirt goes perfectly with your gray pants. 'Bleu marine' specifically means 'navy blue', a dark shade of blue commonly used in clothing.",
+    "difficulty": "B1",
+    "source": "Fashion advice",
+    "tags": ["clothing", "colors", "daily-life"],
+    "timeCreated": 1704413160
+}

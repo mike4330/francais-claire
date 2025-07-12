@@ -1,0 +1,24 @@
+{
+  "id": 1684,
+  "audioText": "L'expertise judiciaire révèle que la contamination chimique du site industriel s'étend sur plusieurs hectares. Le rapport officiel viendra corroborer les témoignages des riverains qui dénoncent depuis des années les négligences environnementales de l'entreprise multinationale impliquée dans ce scandale sanitaire.",
+  "question": "What role will the official report play in this environmental scandal?",
+  "questionType": "comprehension",
+  "options": [
+    "It will contradict the residents' testimonies about the multinational company",
+    "It will corroborate residents' testimonies who have been denouncing environmental negligence for years",
+    "It will minimize the extent of chemical contamination discovered at the site",
+    "It will exonerate the multinational company from any environmental responsibility"
+  ],
+  "correct": 1,
+  "explanation": "The text states 'Le rapport officiel viendra corroborer les témoignages des riverains' - the official report will come to corroborate the residents' testimonies. These residents have been denouncing the multinational company's environmental negligence for years, and the report will support their claims in this health scandal.",
+  "difficulty": "C1",
+  "source": "Environmental Scandal Investigation",
+  "tags": [
+    "environmental-law",
+    "industrial-contamination",
+    "judicial-expertise",
+    "corporate-responsibility",
+    "health-scandal"
+  ],
+  "timeCreated": 1751550700
+}

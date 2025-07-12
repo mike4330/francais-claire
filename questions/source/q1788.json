@@ -1,0 +1,22 @@
+{
+  "id": 1788,
+  "audioText": "Dîtes-moi ce que vous pensez de cette proposition importante.",
+  "question": "What is the speaker asking?",
+  "questionType": "comprehension",
+  "options": [
+    "Tell me what you think of this important proposal.",
+    "Show me what you think of this important proposal.",
+    "Write me what you think of this important proposal.",
+    "Explain me what you think of this important proposal."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'dîtes' - the formal/archaic imperative form of 'dire' (to say/tell). 'Dîtes-moi' means 'tell me'. This form with the circumflex accent is more formal than the modern 'dites'.",
+  "difficulty": "C2",
+  "source": "Formal literary or administrative context",
+  "tags": [
+    "formal-discussion",
+    "opinion",
+    "proposal"
+  ],
+  "timeCreated": 1720108800
+}

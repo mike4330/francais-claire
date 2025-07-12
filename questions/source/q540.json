@@ -1,0 +1,19 @@
+
+{
+    "id": 540,
+    "audioText": "Elle est triste parce que son chat est parti.",
+    "question": "Why is she sad?",
+    "questionType": "comprehension",
+    "options": [
+        "Her cat left.",
+        "Her dog left.",
+        "Her friend left.",
+        "She lost her job."
+    ],
+    "correct": 0,
+    "explanation": "'Triste' means 'sad'. The sentence states she is sad because her cat left.",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["emotions", "pets"],
+    "timeCreated": 1720134000
+}

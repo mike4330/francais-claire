@@ -1,0 +1,19 @@
+{
+    "id": 1635,
+    "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
+        "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaires invasives des géants du numérique.",
+        "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnels des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
+        "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fou réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique."
+    ],
+    "correct": 0,
+    "explanation": "The correct option maintains all proper agreements: 'garde-fous' (plural compound noun), 'personnelles' (feminine plural with 'données'), and 'publicitaire' (singular adjective modifying 'ciblage'), not 'publicitaires' (plural). This listening exercise tests the most sophisticated vocabulary and grammatical structures in formal policy discourse.",
+    "difficulty": "C2",
+    "source": "French Digital Policy",
+    "tags": ["digital-sovereignty", "technology", "regulation", "data-protection", "policy", "european-union", "algorithms", "privacy"],
+    "parentQuestion": 1617,
+    "timeCreated": 1720826940
+}

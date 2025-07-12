@@ -1,0 +1,19 @@
+{
+    "id": 356,
+    "audioText": "Le fermier récolte le champ entier.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Le fermier récolte le champ entier",
+        "Le fermier récolte le champ entière",
+        "Le fermier récolte le champs entier",
+        "Le fermier récolte le champ entier"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>Le fermier récolte le champ entier</em>' - The farmer harvests the entire field. Note that 'champ' (field) is masculine singular, so 'entier' agrees correctly. The other options contain errors: 'entière' (feminine form), 'champs' (plural), or duplicated correct answer.",
+    "difficulty": "A2",
+    "source": "Listening version of Q168",
+    "tags": ["agriculture", "farming", "harvesting"],
+    "parentQuestion": 168,
+    "timeCreated": 1736625840
+}

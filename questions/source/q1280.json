@@ -1,0 +1,18 @@
+{
+    "id": 1280,
+    "audioText": "Ce sac lourd contient étrangement des espèces rares de notre collection privée.",
+    "question": "Ce sac ______ contient étrangement des espèces rares de notre collection privée.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "lourd",
+        "lourde",
+        "lourds",
+        "léger"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce sac lourd contient étrangement des espèces rares de notre collection privée</em>' - This heavy bag strangely contains rare species from our private collection. 'Lourd' is the masculine singular form of the adjective meaning 'heavy', agreeing with 'sac' (bag).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: lourd + sac + étrangement + espèce",
+    "tags": ["collection", "mystery", "weight"],
+    "timeCreated": 1736623860
+}

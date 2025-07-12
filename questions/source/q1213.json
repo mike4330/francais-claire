@@ -1,0 +1,18 @@
+{
+    "id": 1213,
+    "audioText": "Le roi écrit une lettre de paix depuis son hôtel en répondant aux appels sur son téléphone.",
+    "question": "What is the king doing at his hotel?",
+    "questionType": "comprehension",
+    "options": [
+        "Writing a peace letter while answering phone calls",
+        "Meeting with foreign diplomats for negotiations",
+        "Preparing for an important royal ceremony",
+        "Reviewing documents for state affairs"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le roi écrit une lettre de paix depuis son hôtel en répondant aux appels sur son téléphone</em>' - The king writes a peace letter from his hotel while answering calls on his phone. This targets the nouns 'roi', 'lettre', 'paix', 'hôtel', and 'téléphone' in a diplomatic multitasking context.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: roi, lettre, paix, hôtel, téléphone",
+    "tags": ["royalty", "diplomacy", "communication"],
+    "timeCreated": 1720618400
+}

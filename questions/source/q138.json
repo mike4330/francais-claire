@@ -1,0 +1,18 @@
+{
+    "id": 138,
+    "audioText": "Son nouveau téléphone a un écran noir très élégant.",
+    "question": "Son nouveau téléphone a un écran ______ très élégant.",
+    "questionType": "FIB-reading",
+    "options": [
+        "noir",
+        "blanc",
+        "rouge",
+        "bleu"
+    ],
+    "correct": 0,
+    "explanation": "The correct word is 'noir' (black). The sentence means 'His new phone has a very elegant black screen.' 'Noir' is a basic color adjective describing the appearance of the phone's display.",
+    "difficulty": "A1",
+    "source": "Technology Design",
+    "tags": ["technology", "design", "colors", "phones"],
+    "timeCreated": 1720052820
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1167,
+    "audioText": "Son idée génial a résolu le problème technique en quelques minutes.",
+    "question": "What solved the technical problem in a few minutes?",
+    "questionType": "comprehension",
+    "options": [
+        "His brilliant idea",
+        "Her careful analysis",
+        "The new software",
+        "The technical manual"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son idée génial a résolu le problème technique en quelques minutes</em>' - His brilliant idea solved the technical problem in a few minutes. 'Génial' means brilliant or genius-like, and 'résolu' means solved.",
+    "difficulty": "B1",
+    "source": "Strategic adjective coverage reinforcement",
+    "tags": ["technology", "problem-solving", "innovation"],
+    "timeCreated": 1752094101
+}

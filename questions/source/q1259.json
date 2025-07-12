@@ -1,0 +1,18 @@
+{
+    "id": 1259,
+    "audioText": "Je commençais à comprendre l'impression de bonheur que ressentait ma lèvre.",
+    "question": "Je ______ à comprendre l'impression de bonheur que ressentait ma lèvre.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "commençais",
+        "commence",
+        "commencerai",
+        "commencez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je commençais à comprendre l'impression de bonheur que ressentait ma lèvre</em>' - I was beginning to understand the feeling of happiness that my lip was experiencing. 'Commençais' is the first person singular imperfect form of 'commencer' (to begin), expressing a continuous action in the past.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: commençais + impression + bonheur + lèvre",
+    "tags": ["emotions", "self-awareness", "personal-development"],
+    "timeCreated": 1736622360
+}

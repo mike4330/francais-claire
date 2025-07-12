@@ -1,0 +1,18 @@
+{
+    "id": 1371,
+    "audioText": "Ce papier révèle fixement les détails que nous cherchions solidement.",
+    "question": "What does this document primarily do?",
+    "questionType": "comprehension",
+    "options": [
+        "It clearly reveals the details we were seeking",
+        "It partially shows some information we needed",
+        "It confuses the details we were looking for",
+        "It delays the information we were waiting for"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce papier révèle fixement les détails que nous cherchions solidement</em>' - This paper steadily reveals the details we were seeking firmly. The document clearly reveals what they were looking for. 'Papier' means paper/document, 'révèle' means reveals, and 'fixement/solidement' emphasize the steady, firm manner.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: papier + fixement + solidement",
+    "tags": ["documents", "investigation", "information"],
+    "timeCreated": 1736627760
+}

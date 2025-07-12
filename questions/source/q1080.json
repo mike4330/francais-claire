@@ -1,0 +1,18 @@
+{
+    "id": 1080,
+    "audioText": "Vous cherchiez instinctivement la force dans ce milieu sombre quand il comprenait la situation dangereuse.",
+    "question": "How were you looking for strength?",
+    "questionType": "comprehension",
+    "options": [
+        "Instinctively",
+        "Deliberately",
+        "Randomly",
+        "Carelessly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous cherchiez instinctivement la force dans ce milieu sombre quand il comprenait la situation dangereuse.</em>' - You were looking instinctively for strength in this dark environment when he understood the dangerous situation. 'Instinctivement' means instinctively, describing the automatic way of searching.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["psychology", "instinct", "danger", "understanding"],
+    "timeCreated": 1720823200
+}

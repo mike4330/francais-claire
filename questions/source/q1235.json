@@ -1,0 +1,19 @@
+{
+    "id": 1235,
+    "audioText": "L'oie désolée traverse efficacement l'aéroport pour rencontrer le jeune fermier prêt à discuter des affaires agricoles importantes.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "L'oie désolée traverse efficacement l'aéroport pour rencontrer le jeune fermier prêt à discuter des affaires agricoles importantes",
+        "L'oie désolée traverse rapidement l'aéroport pour rencontrer le jeune fermier prêt à discuter des affaires agricoles importantes",
+        "L'oie désolée traverse efficacement l'aéroport pour rencontrer le vieux fermier prêt à discuter des affaires agricoles importantes",
+        "L'oie désolée traverse efficacement la gare pour rencontrer le jeune fermier prêt à discuter des affaires agricoles importantes"
+    ],
+    "correct": 0,
+    "parentQuestion": 1019,
+    "explanation": "The correct text is '<em>L'oie désolée traverse efficacement l'aéroport pour rencontrer le jeune fermier prêt à discuter des affaires agricoles importantes</em>' - The sorry goose efficiently crosses the airport to meet the young farmer ready to discuss important agricultural affairs. Key words: 'efficacement' (efficiently, not 'rapidement' - quickly), 'jeune' (young, not 'vieux' - old), and 'aéroport' (airport, not 'gare' - train station).",
+    "difficulty": "B1",
+    "source": "Listening version of Q1019",
+    "tags": ["animals", "airport", "efficiency"],
+    "timeCreated": 1720963440
+}

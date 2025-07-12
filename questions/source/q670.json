@@ -1,0 +1,16 @@
+{
+  "id": 670,
+  "type": "fill-in-the-blank",
+  "question": "Il faut _______ de nouvelles choses pour grandir.",
+  "audioText": "Il faut essayer de nouvelles choses pour grandir.",
+  "answer": "essayer",
+  "hint": "Infinitive of 'essayer'",
+  "level": "b",
+  "tags": ["personal_growth", "experience"],
+  "questionType": "fill-in-the-blank",
+  "options": ["essayer", "essaie", "essayé", "essaient"],
+  "correct": 0,
+  "explanation": "The infinitive 'essayer' is used after 'il faut' to express a general necessity.",
+  "difficulty": "B1",
+  "source": "Gemini CLI"
+}

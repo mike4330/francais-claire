@@ -1,0 +1,23 @@
+{
+  "id": 1114,
+  "audioText": "J'ai su la nouvelle par mon collègue qui était présent à la réunion.",
+  "question": "J'ai ______ la nouvelle par mon collègue qui était présent à la réunion.",
+  "questionType": "FIB-reading",
+  "options": [
+    "su",
+    "savoir",
+    "sais",
+    "savais"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'su' (past participle of 'savoir'). 'J'ai su' means 'I learned/found out'. The construction is passé composé: 'avoir' + past participle.",
+  "difficulty": "B1",
+  "source": "Workplace Information",
+  "tags": [
+    "workplace",
+    "information",
+    "colleagues",
+    "meetings"
+  ],
+  "timeCreated": 1719965200
+}

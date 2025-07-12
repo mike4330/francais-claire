@@ -1,0 +1,26 @@
+{
+  "id": 1691,
+  "audioText": "Le conseil municipal a voté pour interdire le port de signes religieux ostensibles lors des sorties scolaires, invoquant le principe de laïcité. Cette décision divise les parents d'élèves et relance le débat sur l'application de la laïcité.",
+  "question": "What principle is being invoked by the municipal council?",
+  "questionType": "comprehension",
+  "options": [
+    "The principle of religious freedom and tolerance",
+    "The principle of laïcité (French secularism) to ban conspicuous religious symbols",
+    "The principle of parental choice in educational matters",
+    "The principle of safety during school outings"
+  ],
+  "correct": 1,
+  "explanation": "The municipal council 'a voté pour interdire... invoquant le principe de laïcité' - voted to ban conspicuous religious symbols by invoking the principle of laïcité. This uniquely French concept of active secularism goes beyond separation of church and state to actively maintain religious neutrality in public spaces.",
+  "difficulty": "C1",
+  "source": "French Educational Policy",
+  "tags": [
+    "laicite",
+    "religion",
+    "education",
+    "french-values",
+    "secularism",
+    "municipal",
+    "policy",
+    "controversy"
+  ]
+}

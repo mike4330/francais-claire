@@ -1,0 +1,24 @@
+{
+  "id": 963,
+  "audioText": "L'air pur de la montagne fait du bien aux poumons après la pollution de la ville.",
+  "question": "L'______ pur de la montagne fait du bien aux poumons après la pollution de la ville.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "air",
+    "eau",
+    "vent",
+    "soleil"
+  ],
+  "correct": 0,
+  "explanation": "The word 'air' (air) makes sense in this context about the pure mountain air being good for the lungs after city pollution.",
+  "difficulty": "B1",
+  "source": "Comparison between mountain and city air quality",
+  "tags": [
+    "environment",
+    "health",
+    "pollution",
+    "nature",
+    "mountains"
+  ],
+  "timeCreated": 1735689600
+}

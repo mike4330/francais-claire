@@ -1,0 +1,18 @@
+{
+    "id": 268,
+    "audioText": "Merci, mais je reviendrai après-demain pour récupérer le tour de poterie.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Merci, mais je reviendrai après-demain pour récupérer le tour de poterie.",
+        "Merci, mais je reviendrai avant-demain pour récupérer le tour de poterie.",
+        "Merci, mais je reviendrai après-demain pour réparer le tour de poterie.",
+        "Merci, mais je reviendrais après-demain pour récupérer le tour de poterie."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is '<em>Merci, mais je reviendrai après-demain pour récupérer le tour de poterie</em>' - Thank you, but I will come back the day after tomorrow to pick up the pottery wheel. 'Après-demain' means 'the day after tomorrow', 'tour' means 'wheel/turn', and 'merci' expresses gratitude.",
+    "difficulty": "A2",
+    "source": "Art studio visit",
+    "tags": ["art", "pottery", "scheduling"],
+    "timeCreated": 1720443720
+}

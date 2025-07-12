@@ -1,0 +1,18 @@
+{
+    "id": 854,
+    "audioText": "Cette décision mauvaise va forcément créer des tensions entre les différents départements de l'entreprise.",
+    "question": "Cette décision ______ va forcément créer des tensions entre les différents départements de l'entreprise.",
+    "questionType": "FIB-reading",
+    "options": [
+        "mauvaise",
+        "incorrecte",
+        "inadaptée",
+        "regrettable"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette décision mauvaise va forcément créer des tensions entre les différents départements de l'entreprise</em>' - This bad decision will necessarily create tensions between the different company departments. 'Mauvaise' means 'bad' and 'forcément' reinforces recently covered adverb, creating lexical synergy.",
+    "difficulty": "B2",
+    "source": "Corporate conflict",
+    "tags": ["workplace", "decisions", "conflict", "management"],
+    "timeCreated": 1736106660
+}

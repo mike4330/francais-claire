@@ -1,0 +1,18 @@
+{
+    "id": 1282,
+    "audioText": "Ces hommes fiers officiellement représentent notre équipe lors de cette compétition internationale.",
+    "question": "Ces hommes ______ officiellement représentent notre équipe lors de cette compétition internationale.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fiers",
+        "fier",
+        "fière",
+        "humbles"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces hommes fiers officiellement représentent notre équipe lors de cette compétition internationale</em>' - These proud men officially represent our team during this international competition. 'Fiers' is the masculine plural form of 'fier' (proud), agreeing with 'hommes' (men).",
+    "difficulty": "B1",
+    "source": "Strategic targeting: fier + officiellement + compétition",
+    "tags": ["competition", "representation", "pride"],
+    "timeCreated": 1736623980
+}

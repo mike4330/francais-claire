@@ -1,0 +1,22 @@
+{
+  "id": 24,
+  "audioText": "Ma fille a fait une bonne rentrée à l'école cette année.",
+  "question": "How did the daughter's school year begin?",
+  "questionType": "comprehension",
+  "options": [
+    "She had a good start back at school",
+    "She struggled with the new schedule",
+    "She missed many classes early on",
+    "She was nervous about meeting teachers"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma fille a fait une bonne rentrée à l'école cette année</em>' - My daughter had a good start back at school this year. 'Rentrée' refers to the return to school after vacation, particularly the beginning of the school year.",
+  "difficulty": "A2",
+  "source": "School year",
+  "tags": [
+    "school",
+    "daughter",
+    "beginning"
+  ],
+  "timeCreated": 1704415500
+}

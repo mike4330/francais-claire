@@ -1,0 +1,19 @@
+{
+    "id": 674,
+    "audioText": "Ce pesticide est devenu inutile contre les nouveaux parasites agricoles.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Ce pesticide est devenu inutile contre les nouveaux parasites agricoles.",
+        "Ce pesticide est devenu utile contre les nouveaux parasites agricoles.",
+        "Ce pesticide est devenu dangereux contre les nouveaux parasites agricoles.",
+        "Ce pesticide est devenu nécessaire contre les nouveaux parasites agricoles."
+    ],
+    "correct": 0,
+    "explanation": "The speaker said '<em>Ce pesticide est devenu inutile contre les nouveaux parasites agricoles</em>' - This pesticide has become useless against new agricultural pests. The key word is 'inutile' (useless), not 'utile' (useful), 'dangereux' (dangerous), or 'nécessaire' (necessary).",
+    "difficulty": "B1",
+    "source": "Agricultural pest management",
+    "tags": ["agriculture", "pest-control", "farming"],
+    "parentQuestion": 433,
+    "timeCreated": 1736063400
+}

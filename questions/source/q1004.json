@@ -1,0 +1,19 @@
+{
+    "id": 1004,
+    "audioText": "J'ai une chose importante à te dire.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "J'ai une chose importante à te dire.",
+        "J'ai une chose intéressante à te dire.",
+        "J'ai quelque chose importante à te dire.",
+        "J'ai une chose importante à te raconter."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai une chose importante à te dire.</em>' - 'I have something important to tell you.' This listening version tests auditory discrimination between 'importante' vs 'intéressante', correct indefinite article usage 'une chose' vs 'quelque chose', and verb choice 'dire' vs 'raconter'.",
+    "difficulty": "B1",
+    "source": "Listening version of q559",
+    "tags": ["communication", "importance"],
+    "timeCreated": 1720713600,
+    "parentQuestion": 559
+}

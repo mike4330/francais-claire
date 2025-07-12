@@ -1,0 +1,18 @@
+{
+    "id": 1218,
+    "audioText": "Il parle d'une voix douce et vivante qui inspire confiance à tous.",
+    "question": "How does he speak?",
+    "questionType": "comprehension",
+    "options": [
+        "With a gentle and lively voice that inspires confidence",
+        "With a harsh and demanding tone",
+        "With a quiet and uncertain manner",
+        "With a loud and aggressive style"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il parle d'une voix douce et vivante qui inspire confiance à tous</em>' - He speaks with a gentle and lively voice that inspires confidence in everyone. This targets the adjectives 'doux' and 'vivant' in a communication context.",
+    "difficulty": "B1",
+    "source": "Strategic adjective targeting: doux, vivant",
+    "tags": ["communication", "personality", "trust"],
+    "timeCreated": 1720962060
+}

@@ -1,0 +1,23 @@
+{
+    "id": 1003,
+    "audioText": "Son épanouissement professionnel s'améliore énormément grâce aux habitudes quotidiennes. Elle cultive correctement sa créativité en travaillant calmement, loin des distractions brutales qui nuisent à son développement personnel.",
+    "question": "What improves her professional fulfillment enormously?",
+    "questionType": "comprehension",
+    "options": [
+        "Working late hours and competing with colleagues",
+        "Daily habits and calm creative cultivation",
+        "Attending networking events and social gatherings", 
+        "Using the latest technology and digital tools"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Son épanouissement professionnel s'améliore énormément grâce aux habitudes quotidiennes. Elle cultive correctement sa créativité en travaillant calmement, loin des distractions brutales qui nuisent à son développement personnel.</em>' - 'Her professional fulfillment improves enormously thanks to daily habits. She correctly cultivates her creativity by working calmly, away from brutal distractions that harm her personal development.' The text clearly identifies daily habits ('habitudes quotidiennes') and calm creative work as what improves her fulfillment.",
+    "difficulty": "B2",
+    "source": "Strategic épanouissement targeting",
+    "tags": [
+        "professional-development",
+        "habits",
+        "creativity",
+        "workplace-wellness"
+    ],
+    "timeCreated": 1720713600
+}

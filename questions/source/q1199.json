@@ -1,0 +1,18 @@
+{
+    "id": 1199,
+    "audioText": "Il ne faut pas perdre corps et âme dans cette affaire, garder le bout de ses nerfs.",
+    "question": "What advice is being given?",
+    "questionType": "comprehension",
+    "options": [
+        "Don't lose yourself completely in this matter, keep your composure",
+        "Don't spend all your money on this project",
+        "Don't tell anyone about this situation",
+        "Don't make any quick decisions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il ne faut pas perdre corps et âme dans cette affaire, garder le bout de ses nerfs</em>' - You shouldn't lose yourself body and soul in this matter, keep your composure. This targets the nouns 'corps' and 'bout' in French expressions about maintaining control.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: corps, bout",
+    "tags": ["advice", "emotions", "self-control"],
+    "timeCreated": 1720616760
+}

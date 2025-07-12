@@ -1,0 +1,19 @@
+{
+    "id": 284,
+    "audioText": "Demain, je resterai à la maison pour finir mon projet d'art numérique.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Demain, je resterai à la maison pour finir mon projet d'art numérique.",
+        "Demain, je resterai à la maison pour finir mon projet d'art moderne.",
+        "Demain, je rentrerai à la maison pour finir mon projet d'art numérique.",
+        "Demain, je resterai à la maison pour finir mon projet de art numérique."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Demain, je resterai à la maison pour finir mon projet d'art numérique.</em>' - 'Tomorrow, I will stay home to finish my digital art project.' This listening version tests auditory discrimination between 'resterai' vs 'rentrerai', 'numérique' vs 'moderne', and correct use of 'd'art' vs 'de art'.",
+    "difficulty": "A2",
+    "source": "Listening version of q638",
+    "tags": ["digital-art", "creative-projects", "art", "hobbies"],
+    "parentQuestion": 638,
+    "timeCreated": 1720713600
+}

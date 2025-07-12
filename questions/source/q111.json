@@ -1,0 +1,24 @@
+{
+  "id": 111,
+  "audioText": "Tu pourras venir à la fête samedi soir si tes parents sont d'accord.",
+  "question": "Tu ______ venir à la fête samedi soir si tes parents sont d'accord.",
+  "questionType": "FIB-reading",
+  "options": [
+    "pourras",
+    "peux",
+    "pouvais",
+    "pourrais"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu pourras venir à la fête samedi soir si tes parents sont d'accord</em>' - You will be able to come to the party Saturday night if your parents agree. 'Pourras' is the second person singular future form of 'pouvoir' (to be able to), expressing future possibility dependent on parental permission.",
+  "difficulty": "A2",
+  "source": "Invitation to party with parental permission condition",
+  "tags": [
+    "social-events",
+    "permission",
+    "family",
+    "parties",
+    "future-time"
+  ],
+  "timeCreated": 1735689600
+}

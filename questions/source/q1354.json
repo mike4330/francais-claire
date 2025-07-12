@@ -1,0 +1,18 @@
+{
+    "id": 1354,
+    "audioText": "Cette exposition superbe va précisément attirer beaucoup de visiteurs passionnés d'art moderne.",
+    "question": "Cette exposition ______ va précisément attirer beaucoup de visiteurs passionnés d'art moderne.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "superbe",
+        "superbes",
+        "super",
+        "supérieure"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette exposition superbe va précisément attirer beaucoup de visiteurs passionnés d'art moderne</em>' - This superb exhibition will precisely attract many visitors passionate about modern art. 'Superbe' (superb/magnificent) is the correct adjective, agreeing with the feminine noun 'exposition'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: superbe + précisément + passionnés",
+    "tags": ["art", "culture", "exhibitions"],
+    "timeCreated": 1736625420
+}

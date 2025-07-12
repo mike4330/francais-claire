@@ -1,0 +1,18 @@
+{
+    "id": 253,
+    "audioText": "La neige tombe sur mes cheveux.",
+    "question": "What is falling on the speaker's hair?",
+    "questionType": "comprehension",
+    "options": [
+        "Snow",
+        "Rain",
+        "Leaves",
+        "Dust"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>La neige tombe sur mes cheveux</em>' - The snow is falling on my hair. 'Cheveux' is the plural form of 'cheveu' meaning 'hair'.",
+    "difficulty": "A2",
+    "source": "Winter weather",
+    "tags": ["snow", "weather", "winter"],
+    "timeCreated": 1720442700
+}

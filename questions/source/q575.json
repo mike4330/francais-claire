@@ -1,0 +1,18 @@
+{
+    "id": 575,
+    "audioText": "Le soleil couchant transformait le paysage en une palette de couleurs dorées et orangées.",
+    "question": "How does the speaker describe the effect of the setting sun?",
+    "questionType": "comprehension",
+    "options": [
+        "It transformed the landscape into golden and orange colors.",
+        "It made the landscape completely dark.",
+        "It created shadows across the landscape.", 
+        "It reflected off the water in the landscape."
+    ],
+    "correct": 0,
+    "explanation": "The speaker says 'Le soleil couchant transformait le paysage en une palette de couleurs dorées et orangées' - The setting sun transformed the landscape into a palette of golden and orange colors. 'Soleil couchant' means 'setting sun' and describes the beautiful evening light effect.",
+    "difficulty": "B2",
+    "source": "Sunset landscape description",
+    "tags": ["nature", "sunset", "colors", "landscape", "beauty"],
+    "timeCreated": 1735947780
+}

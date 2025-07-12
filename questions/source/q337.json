@@ -1,0 +1,18 @@
+{
+    "id": 337,
+    "audioText": "Au coin de la rue, le mur blanc cache une ombre mystérieuse.",
+    "question": "What does the white wall hide at the corner of the street?",
+    "questionType": "comprehension",
+    "options": [
+        "A mysterious shadow",
+        "A beautiful garden",
+        "An old bicycle",
+        "A street lamp"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Au coin de la rue, le mur blanc cache une ombre mystérieuse</em>' - At the corner of the street, the white wall hides a mysterious shadow. 'Coin' means corner, 'mur' means wall, and 'ombre' means shadow.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting: coin, mur, ombre",
+    "tags": ["street", "mystery", "urban", "shadow"],
+    "timeCreated": 1752115200
+}

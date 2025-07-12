@@ -1,0 +1,18 @@
+{
+    "id": 764,
+    "audioText": "Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part.",
+    "question": "Where did he look for his keys?",
+    "questionType": "comprehension",
+    "options": [
+        "Everywhere in the house but found them nowhere",
+        "Only in the living room and kitchen",
+        "Outside in the garden and garage",
+        "In his car and office building"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part</em>' - He looked for his keys everywhere in the house but didn't find them anywhere. 'Partout' means 'everywhere' and contrasts with 'nulle part' (nowhere).",
+    "difficulty": "B1",
+    "source": "Daily search",
+    "tags": ["cleaning", "searching", "keys"],
+    "timeCreated": 1704416640
+}

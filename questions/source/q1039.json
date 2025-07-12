@@ -1,0 +1,18 @@
+{
+    "id": 1039,
+    "audioText": "Elle porte une robe blanc cassé pour cette cérémonie de mariage élégante.",
+    "question": "Elle porte une robe ______ cassé pour cette cérémonie de mariage élégante.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "blanc",
+        "blanche",
+        "bleu",
+        "belle"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle porte une robe blanc cassé pour cette cérémonie de mariage élégante.</em>' - 'She is wearing an off-white dress for this elegant wedding ceremony.' The missing word is 'blanc' (white). In compound color expressions like 'blanc cassé' (off-white), the adjective remains invariable.",
+    "difficulty": "B2",
+    "source": "Wedding attire and color descriptions",
+    "tags": ["fashion", "wedding", "colors", "clothing"],
+    "timeCreated": 1736348520
+}

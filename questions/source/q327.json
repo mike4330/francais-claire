@@ -1,0 +1,18 @@
+{
+    "id": 327,
+    "audioText": "Ce genre de film est très populaire chez les jeunes.",
+    "question": "What is very popular among young people?",
+    "questionType": "comprehension",
+    "options": [
+        "This type of film",
+        "This new book",
+        "This old song",
+        "This video game"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce genre de film est très populaire chez les jeunes</em>' - This type of film is very popular among young people. 'Genre' means type or kind, and 'populaire' means popular.",
+    "difficulty": "A2",
+    "source": "Strategic noun threshold reinforcement",
+    "tags": ["entertainment", "movies", "youth"],
+    "timeCreated": 1752094800
+}

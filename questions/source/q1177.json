@@ -1,0 +1,18 @@
+{
+    "id": 1177,
+    "audioText": "Ce riche industriel habite la deuxième maison après ce terrain sec et abandonné.",
+    "question": "Where does the wealthy industrialist live?",
+    "questionType": "comprehension",
+    "options": [
+        "In the second house after the dry, abandoned land",
+        "In the first house before the dry, abandoned land",
+        "In the third house beyond the green, fertile land",
+        "In the main house on the dry, abandoned land"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce riche industriel habite la deuxième maison après ce terrain sec et abandonné</em>' - This wealthy industrialist lives in the second house after this dry and abandoned land. 'Riche' means wealthy, 'deuxième' means second, and 'sec' means dry.",
+    "difficulty": "B2",
+    "source": "Strategic adjective threshold boosting",
+    "tags": ["housing", "wealth", "location"],
+    "timeCreated": 1752096600
+}

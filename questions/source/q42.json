@@ -1,0 +1,22 @@
+{
+  "id": 42,
+  "audioText": "Il fait très chaud dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Il fait très chaud dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange.",
+    "Il fait très froid dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange.",
+    "Il fait très chaud dans le nord et l'ouest de la France ce weekend. Treize départements sont en alerte orange.",
+    "Il fait très chaud dans le sud et l'est de la France ce weekend. Trois départements sont en alerte orange."
+  ],
+  "correct": 0,
+  "explanation": "La phrase simplifiée était 'Il fait très chaud dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange.' - It's very hot in southern and eastern France this weekend. Thirteen departments are under orange alert.",
+  "difficulty": "A2",
+  "source": "French Weather - Simple Listening",
+  "tags": [
+    "weather",
+    "france",
+    "heat",
+    "alert"
+  ]
+}

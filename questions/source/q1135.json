@@ -1,0 +1,18 @@
+{
+    "id": 1135,
+    "audioText": "Dans ce milieu professionnel, l'effet des nouvelles technologies devient plus génial et moins dangereux pour les patients du docteur.",
+    "question": "How does the effect of new technologies change in this professional environment?",
+    "questionType": "comprehension",
+    "options": [
+        "It becomes more brilliant and less dangerous for the patients",
+        "It becomes more expensive and complicated",
+        "It becomes obsolete and unreliable",
+        "It disappears completely from practice"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans ce milieu professionnel, l'effet des nouvelles technologies devient plus génial et moins dangereux pour les patients du docteur</em>' - In this professional environment, the effect of new technologies becomes more brilliant and less dangerous for the doctor's patients. The technology effect becomes 'plus génial et moins dangereux' (more brilliant and less dangerous).",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting - improved version",
+    "tags": ["healthcare", "technology", "medical", "improvement"],
+    "timeCreated": 1720825000
+}

@@ -1,0 +1,18 @@
+{
+    "id": 143,
+    "audioText": "Ce point sur la carte montre notre hôtel.",
+    "question": "What does the point on the map show?",
+    "questionType": "comprehension",
+    "options": [
+        "The restaurant",
+        "Our hotel",
+        "The train station", 
+        "The shopping center"
+    ],
+    "correct": 1,
+    "explanation": "The French sentence 'Ce point sur la carte montre notre hôtel' means 'This point on the map shows our hotel.' The key phrase is 'montre notre hôtel' (shows our hotel).",
+    "difficulty": "A2",
+    "source": "Travel context - map navigation",
+    "tags": ["travel", "navigation", "accommodation", "maps"],
+    "timeCreated": 1735902100
+}

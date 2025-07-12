@@ -1,0 +1,18 @@
+{
+  "id": 731,
+  "audioText": "Peut-être qu'il pleuvra demain, je ne suis pas sûr.",
+  "question": "What is the speaker unsure about?",
+  "questionType": "comprehension",
+  "options": [
+    "If it will be sunny",
+    "If it will rain tomorrow",
+    "If he will be late",
+    "If the store is open"
+  ],
+  "correct": 1,
+  "explanation": "The adverb 'peut-être' means 'perhaps' or 'maybe'. The sentence translates to 'Maybe it will rain tomorrow, I'm not sure.'",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["weather", "daily-life", "planning"],
+  "timeCreated": 1720181340
+}

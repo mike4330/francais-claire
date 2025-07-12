@@ -1,0 +1,18 @@
+{
+    "id": 1153,
+    "audioText": "Dans cette chambre sombre, le mari cherche à tâtons ses lunettes sur la table de nuit.",
+    "question": "Dans cette chambre sombre, le mari cherche ______ ses lunettes sur la table de nuit.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "à tâtons",
+        "rapidement",
+        "facilement",
+        "soigneusement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans cette chambre sombre, le mari cherche à tâtons ses lunettes sur la table de nuit</em>' - In this dark room, the husband gropes for his glasses on the nightstand. 'À tâtons' means groping or feeling around in the dark.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting for 'à tâtons'",
+    "tags": ["bedroom", "darkness", "searching"],
+    "timeCreated": 1720867120
+}

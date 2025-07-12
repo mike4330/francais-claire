@@ -1,0 +1,18 @@
+{
+    "id": 1642,
+    "audioText": "Cette mélodie mystérieuse touche profondément l'âme sensible de tous ceux qui l'écoutent attentivement.",
+    "question": "What does this mysterious melody deeply touch?",
+    "questionType": "comprehension",
+    "options": [
+        "The sensitive soul of all who listen carefully",
+        "The sensitive mind of all who listen carefully",
+        "The sensitive heart of all who listen carefully",
+        "The sensitive spirit of all who listen carefully"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette mélodie mystérieuse touche profondément l'âme sensible de tous ceux qui l'écoutent attentivement</em>' - This mysterious melody deeply touches the sensitive soul of all who listen carefully. 'Âme' means soul, 'mystérieuse' means mysterious, and 'attentivement' means carefully.",
+    "difficulty": "C1",
+    "source": "Strategic bottom noun coverage",
+    "tags": ["music", "emotions", "spirituality"],
+    "timeCreated": 1752096200
+}

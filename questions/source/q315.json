@@ -1,0 +1,18 @@
+{
+    "id": 315,
+    "audioText": "Le mec joyeusement salue son papa dans l'endroit.",
+    "question": "Le mec ______ salue son papa dans l'endroit.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "joyeusement",
+        "joyeuse",
+        "joyeux",
+        "joie"
+    ],
+    "correct": 0,
+    "explanation": "The correct form is 'joyeusement' (joyfully), an adverb modifying how the guy greets his father. Adverbs in French typically end in -ment and describe how an action is performed. The complete sentence is '<em>Le mec joyeusement salue son papa dans l'endroit.</em>' - The guy joyfully greets his father in the place.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["family", "greeting", "emotions", "location"],
+    "timeCreated": 1720825500
+}

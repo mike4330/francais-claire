@@ -1,0 +1,18 @@
+{
+    "id": 1290,
+    "audioText": "Vous travaillez ensemble largement pour développer cette nouvelle méthode pédagogique innovante.",
+    "question": "Vous ______ ensemble largement pour développer cette nouvelle méthode pédagogique innovante.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "travaillez",
+        "travailles",
+        "travaille",
+        "travaillent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous travaillez ensemble largement pour développer cette nouvelle méthode pédagogique innovante</em>' - You work together extensively to develop this new innovative pedagogical method. 'Travaillez' is the second person plural present form of 'travailler' (to work).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: travaillez + largement + pédagogique",
+    "tags": ["collaboration", "education", "innovation"],
+    "timeCreated": 1736624460
+}

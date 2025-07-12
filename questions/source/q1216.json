@@ -1,0 +1,18 @@
+{
+    "id": 1216,
+    "audioText": "Il pointe son doigt vers elle et lui dit de fermer sa gueule immédiatement.",
+    "question": "What does he tell her to do?",
+    "questionType": "comprehension",
+    "options": [
+        "To shut her mouth immediately",
+        "To listen more carefully",
+        "To speak more clearly",
+        "To repeat what she said"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il pointe son doigt vers elle et lui dit de fermer sa gueule immédiatement</em>' - He points his finger at her and tells her to shut her mouth immediately. This targets the nouns 'doigt' and 'gueule' in a confrontational context. Note: 'gueule' is vulgar slang for mouth.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: doigt, gueule",
+    "tags": ["confrontation", "gestures", "vulgar-language"],
+    "timeCreated": 1720618820
+}

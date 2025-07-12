@@ -1,0 +1,18 @@
+{
+    "id": 1359,
+    "audioText": "Cette réflexion profonde nécessite absolument une analyse détaillée de tous les aspects importants.",
+    "question": "Cette réflexion ______ nécessite absolument une analyse détaillée de tous les aspects importants.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "profonde",
+        "profondes",
+        "profond",
+        "profondeur"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette réflexion profonde nécessite absolument une analyse détaillée de tous les aspects importants</em>' - This deep reflection absolutely requires a detailed analysis of all important aspects. 'Profonde' (deep) is the correct adjective, feminine form agreeing with 'réflexion'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: profonde + absolument + détaillée",
+    "tags": ["thinking", "analysis", "reflection"],
+    "timeCreated": 1736625720
+}

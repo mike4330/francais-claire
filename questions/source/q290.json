@@ -1,0 +1,18 @@
+{
+    "id": 290,
+    "audioText": "Le garçon répond poliment quand il a mal aux dents.",
+    "question": "How does the boy respond when he has a toothache?",
+    "questionType": "comprehension",
+    "options": [
+        "Politely",
+        "Loudly",
+        "Quickly",
+        "Sadly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le garçon répond poliment quand il a mal aux dents.</em>' - 'The boy responds politely when he has a toothache.' The noun 'garçon' means boy, and 'poliment' means politely or courteously.",
+    "difficulty": "A2",
+    "source": "Strategic adverb targeting",
+    "tags": ["health", "politeness", "young-people"],
+    "timeCreated": 1720714500
+}

@@ -1,0 +1,18 @@
+{
+    "id": 248,
+    "audioText": "Chaque jour, nous mangeons longuement ce vrai repas traditionnel en famille.",
+    "question": "How often do they eat the traditional meal?",
+    "questionType": "comprehension",
+    "options": [
+        "Every day",
+        "Every week",
+        "Every month",
+        "Every year"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Chaque jour, nous mangeons longuement ce vrai repas traditionnel</em>' - Every day, we eat this real traditional meal at length. 'Jour' means day, 'longuement' means at length/for a long time, and 'vrai' means real/true.",
+    "difficulty": "A2",
+    "source": "Family meal traditions and daily dining habits",
+    "tags": ["family", "meals", "tradition"],
+    "timeCreated": 1751787260
+}

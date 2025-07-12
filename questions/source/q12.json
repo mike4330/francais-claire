@@ -1,0 +1,22 @@
+{
+  "id": 12,
+  "audioText": "Le marteau n'est pas sur la table, il est juste dessous, sur la chaise.",
+  "question": "Le marteau est juste ______, sur la chaise.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "dessus",
+    "à côté",
+    "dessous",
+    "derrière"
+  ],
+  "correct": 2,
+  "explanation": "The text states '<em>Le marteau n'est pas sur la table, il est juste dessous, sur la chaise.</em>' - The hammer is not on the table, it is just underneath, on the chair. The adverb 'dessous' means 'underneath' or 'below', describing the hammer's location under the table.",
+  "difficulty": "A2",
+  "source": "Gemini CLI",
+  "tags": [
+    "tools",
+    "household-items",
+    "location"
+  ],
+  "timeCreated": 1720181357
+}

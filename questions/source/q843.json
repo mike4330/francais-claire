@@ -1,0 +1,18 @@
+{
+    "id": 843,
+    "audioText": "Les enfants se cachent derrière l'arbre pour surprendre leurs parents dans le jardin.",
+    "question": "Les enfants se cachent ______ l'arbre pour surprendre leurs parents dans le jardin.",
+    "questionType": "FIB-reading",
+    "options": [
+        "derrière",
+        "sous",
+        "près de",
+        "contre"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les enfants se cachent derrière l'arbre pour surprendre leurs parents dans le jardin</em>' - The children hide behind the tree to surprise their parents in the garden. 'Derrière' means 'behind' and indicates position.",
+    "difficulty": "B1",
+    "source": "Family play",
+    "tags": ["family", "children", "play", "surprise"],
+    "timeCreated": 1736106000
+}

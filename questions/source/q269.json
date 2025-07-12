@@ -1,0 +1,18 @@
+{
+    "id": 269,
+    "audioText": "Il marchait silencieusement au fond du bois pour observer les animaux.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Il marchait silencieusement au fond du bois pour observer les animaux.",
+        "Il marchait silencieusement au bord du bois pour observer les animaux.",
+        "Il marchait rapidement au fond du bois pour observer les animaux.",
+        "Il marche silencieusement au fond du bois pour observer les animaux."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is '<em>Il marchait silencieusement au fond du bois pour observer les animaux</em>' - He was walking silently deep in the woods to observe the animals. 'Silencieusement' means 'silently', 'fond' means 'depth/back', and 'bois' means 'woods'.",
+    "difficulty": "A2",
+    "source": "Nature observation",
+    "tags": ["park", "animals", "nature"],
+    "timeCreated": 1720443780
+}

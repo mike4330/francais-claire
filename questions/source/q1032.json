@@ -1,0 +1,18 @@
+{
+    "id": 1032,
+    "audioText": "Ce droit sérieux doit être strictement respecté dans cette société moderne.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Ce droit sérieux doit être strictement respecté dans cette société moderne.",
+        "Ce droit sérieux doit être absolument respecté dans cette société moderne.",
+        "Ce droit important doit être strictement respecté dans cette société moderne.",
+        "Ce droit sérieux doit être strictement respecté dans cette société actuelle."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Ce droit sérieux doit être strictement respecté dans cette société moderne.</em>' - 'This serious right must be strictly respected in this modern society.' The noun 'droit' means right/law, 'sérieux' means serious, and 'strictement' means strictly.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting",
+    "tags": ["law", "society", "rights"],
+    "timeCreated": 1720715800
+}

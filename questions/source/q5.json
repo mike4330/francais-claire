@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "audioText": "Les enfants passent beaucoup de temps devant la télévision.",
+  "question": "Les enfants ______ beaucoup de temps devant la télévision.",
+  "questionType": "FIB-reading",
+  "options": [
+    "passent",
+    "passe",
+    "passez",
+    "passons"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'passent' (3rd person plural present of 'passer'). Since the subject is 'les enfants' (plural), we need the plural form 'passent' meaning 'the children spend a lot of time in front of the television.'",
+  "difficulty": "A2",
+  "source": "Children's Screen Time",
+  "tags": [
+    "children",
+    "television",
+    "screen-time",
+    "family"
+  ],
+  "timeCreated": 1720051440
+}

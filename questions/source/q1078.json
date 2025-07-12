@@ -1,0 +1,18 @@
+{
+    "id": 1078,
+    "audioText": "Ce mec travaille dans le milieu de la technologie et son esprit créatif impressionne ses collègues.",
+    "question": "What impresses the colleagues?",
+    "questionType": "comprehension",
+    "options": [
+        "His creative spirit",
+        "His technical skills",
+        "His work schedule",
+        "His social presence"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce mec travaille dans le milieu de la technologie et son esprit créatif impressionne ses collègues.</em>' - This guy works in the technology field and his creative spirit impresses his colleagues. 'Esprit créatif' means creative spirit, which is what impresses the colleagues.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["workplace", "technology", "creativity", "colleagues"],
+    "timeCreated": 1720821600
+}

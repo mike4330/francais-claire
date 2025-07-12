@@ -1,0 +1,18 @@
+{
+    "id": 1017,
+    "audioText": "Entre-temps, le potier noir travaille étroitement avec le céramiste pour créer successivement des œuvres d'art uniques.",
+    "question": "Meanwhile, how does the black potter work with the ceramicist?",
+    "questionType": "comprehension",
+    "options": [
+        "Closely to successively create unique artworks",
+        "Separately to quickly finish the projects",
+        "Occasionally to sell expensive pieces",
+        "Reluctantly to meet basic requirements"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Entre-temps, le potier noir travaille étroitement avec le céramiste pour créer successivement des œuvres d'art uniques.</em>' - 'Meanwhile, the black potter works closely with the ceramicist to successively create unique artworks.' The adverbs 'entre-temps' means meanwhile, 'étroitement' means closely, and 'successivement' means successively.",
+    "difficulty": "B1",
+    "source": "Strategic adverb targeting",
+    "tags": ["pottery", "collaboration", "art"],
+    "timeCreated": 1720714500
+}

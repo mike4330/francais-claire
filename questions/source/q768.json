@@ -1,0 +1,19 @@
+
+{
+  "id": 768,
+  "audioText": "Il est tout à fait humain de faire des erreurs, mais pour progresser, il faut s'analyser régulièrement et apprendre de ses échecs.",
+  "question": "Pour progresser, il faut s'analyser ______ et apprendre de ses échecs.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rarement",
+    "régulièrement",
+    "parfois",
+    "jamais"
+  ],
+  "correct": 1,
+  "explanation": "The sentence discusses the necessity of frequent self-analysis for personal growth. The adverb 'régulièrement' (regularly) fits this context perfectly. The adjective 'humain' (human) is also used.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": ["psychology", "self-improvement", "learning"],
+  "timeCreated": 1720181347
+}

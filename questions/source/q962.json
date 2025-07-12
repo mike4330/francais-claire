@@ -1,0 +1,24 @@
+{
+  "id": 962,
+  "audioText": "Je suivrai le cours de cuisine française en ligne pendant les vacances d'été.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Je suivrai le cours de cuisine française en ligne pendant les vacances d'été.",
+    "Je suis le cours de cuisine française en ligne pendant les vacances d'été.",
+    "J'ai suivi le cours de cuisine française en ligne pendant les vacances d'été.",
+    "Je suivrais le cours de cuisine française en ligne pendant les vacances d'été."
+  ],
+  "correct": 0,
+  "explanation": "The speaker uses the future tense 'suivrai' (I will follow/take) to indicate their intention to take the French cooking course during summer vacation.",
+  "difficulty": "B1",
+  "source": "Personal plan for online learning during vacation",
+  "tags": [
+    "education",
+    "cooking",
+    "vacation",
+    "online-learning",
+    "plans"
+  ],
+  "timeCreated": 1735689600
+}

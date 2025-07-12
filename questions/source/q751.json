@@ -1,0 +1,18 @@
+{
+    "id": 751,
+    "audioText": "Elle sortira de la maison très tôt demain matin pour commencer sa routine d'exercice.",
+    "question": "When will she leave the house tomorrow?",
+    "questionType": "comprehension",
+    "options": [
+        "Very early in the morning to start her exercise routine",
+        "Late in the evening after finishing work",
+        "In the afternoon for a shopping trip",
+        "Around noon for a lunch meeting"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle sortira de la maison très tôt demain matin pour commencer sa routine d'exercice</em>' - She will leave the house very early tomorrow morning to start her exercise routine. 'Sortira' is the third person singular future form of 'sortir' (to go out/leave).",
+    "difficulty": "B1",
+    "source": "Daily routine",
+    "tags": ["morning-routine", "exercise", "early"],
+    "timeCreated": 1704415860
+}

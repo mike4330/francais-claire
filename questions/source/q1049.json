@@ -1,0 +1,18 @@
+{
+    "id": 1049,
+    "audioText": "Vous restiez toujours silencieux pendant ces réunions importantes de travail.",
+    "question": "Vous ______ toujours silencieux pendant ces réunions importantes de travail.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "restiez",
+        "restez",
+        "restions",
+        "resteriez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous restiez toujours silencieux pendant ces réunions importantes de travail.</em>' - 'You always remained silent during these important work meetings.' The missing word is 'restiez' (you remained), the imperfect tense second person plural of 'rester'.",
+    "difficulty": "B2",
+    "source": "Workplace behavior and meeting participation",
+    "tags": ["workplace", "meetings", "behavior", "silence"],
+    "timeCreated": 1736349120
+}

@@ -1,0 +1,18 @@
+{
+    "id": 298,
+    "audioText": "Ce truc tranquille reste au bout du lit pareil.",
+    "question": "Where does this quiet thing remain the same?",
+    "questionType": "comprehension",
+    "options": [
+        "At the end of the bed",
+        "Under the table",
+        "Near the window", 
+        "Inside the closet"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce truc tranquille reste au bout du lit pareil.</em>' - 'This quiet thing remains the same at the end of the bed.' The nouns 'truc' means thing/stuff and 'lit' means bed, 'bout' means end, and the adjectives 'tranquille' means quiet and 'pareil' means same.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": ["daily-life", "household", "bedroom"],
+    "timeCreated": 1720715700
+}

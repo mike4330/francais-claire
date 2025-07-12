@@ -1,0 +1,23 @@
+{
+  "id": 422,
+  "audioText": "Nous habitons très proche de la gare, nous pouvons y aller à pied.",
+  "question": "Nous habitons très ______ de la gare, nous pouvons y aller à pied.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "proche",
+    "proches",
+    "près",
+    "loin"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'proche' meaning close/near. The context indicates they can walk to the station, confirming proximity. 'Proche' is invariable when used with 'très' before 'de'. The phrase 'très proche de' means very close to.",
+  "difficulty": "B2",
+  "source": "Location Description - Transportation",
+  "tags": [
+    "location",
+    "transportation",
+    "housing",
+    "proximity"
+  ],
+  "timeCreated": 1720027040
+}

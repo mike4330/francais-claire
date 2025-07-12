@@ -1,0 +1,18 @@
+{
+    "id": 1200,
+    "audioText": "Elle a eu la chance de découvrir ce bois magnifique pendant sa balade dominicale.",
+    "question": "What was she fortunate to discover?",
+    "questionType": "comprehension",
+    "options": [
+        "A beautiful forest during her Sunday walk",
+        "A rare bird in the park",
+        "A new restaurant in the neighborhood",
+        "An old friend at the market"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle a eu la chance de découvrir ce bois magnifique pendant sa balade dominicale</em>' - She had the chance to discover this beautiful forest during her Sunday walk. This targets the nouns 'chance' and 'bois' in a leisure context.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: chance, bois",
+    "tags": ["nature", "walking", "discovery"],
+    "timeCreated": 1720616820
+}

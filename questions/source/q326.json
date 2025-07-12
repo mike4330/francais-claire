@@ -1,0 +1,18 @@
+{
+    "id": 326,
+    "audioText": "Elle a un cheveu blanc sur la tête maintenant.",
+    "question": "What does she have on her head now?",
+    "questionType": "comprehension",
+    "options": [
+        "A white hair",
+        "A black hat",
+        "A red ribbon",
+        "A blue flower"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle a un cheveu blanc sur la tête maintenant</em>' - She has a white hair on her head now. 'Cheveu' means hair (singular), and 'blanc' means white.",
+    "difficulty": "A2",
+    "source": "Strategic noun threshold reinforcement",
+    "tags": ["appearance", "body", "aging"],
+    "timeCreated": 1752094700
+}

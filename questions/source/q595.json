@@ -1,0 +1,23 @@
+{
+  "id": 595,
+  "audioText": "Cette nouvelle technologie internet est largement utilisée par les jeunes de son âge.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette nouvelle technologie internet est largement utilisée par les jeunes de son âge.",
+    "Cette nouvelle technologie internet est largement utilisée par les jeunes de tout âge.",
+    "Cette nouvelle technologie internet est facilement utilisée par les jeunes de son âge.",
+    "Cette nouvelle technologie internet est récemment utilisée par les jeunes de son âge."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette nouvelle technologie internet est largement utilisée par les jeunes de son âge</em>' - This new internet technology is widely used by young people of his age. 'Largement' means 'widely/extensively', targeting the missing adverb plus under-represented 'internet' and 'age' topics. The distractors test adverb confusion (facilement, récemment) and scope confusion (tout âge).",
+  "difficulty": "B2",
+  "source": "Technology adoption",
+  "tags": [
+    "internet",
+    "technology",
+    "age",
+    "usage"
+  ],
+  "timeCreated": 1736103540
+}

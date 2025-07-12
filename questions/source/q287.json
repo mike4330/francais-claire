@@ -1,0 +1,18 @@
+{
+    "id": 287,
+    "audioText": "Son nom apparaît fréquemment dans les journaux locaux.",
+    "question": "Where does his name appear frequently?",
+    "questionType": "comprehension",
+    "options": [
+        "In local newspapers",
+        "In online forums",
+        "On television shows",
+        "In academic journals"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son nom apparaît fréquemment dans les journaux locaux.</em>' - 'His name appears frequently in local newspapers.' The noun 'nom' means name, and 'fréquemment' is an adverb meaning frequently or often.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": ["media", "recognition", "news"],
+    "timeCreated": 1720713600
+}

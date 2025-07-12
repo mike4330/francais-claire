@@ -1,0 +1,18 @@
+{
+    "id": 710,
+    "audioText": "Cette famille riche habite dans un quartier très exclusif de la ville.",
+    "question": "Where does this wealthy family live?",
+    "questionType": "comprehension",
+    "options": [
+        "In a very exclusive neighborhood of the city",
+        "In a modern apartment downtown",
+        "In a rural house outside the city",
+        "In a traditional family home"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Cette famille riche habite dans un quartier très exclusif de la ville' - This wealthy family lives in a very exclusive neighborhood of the city. 'Riche' is a high-frequency adjective meaning wealthy or rich, describing the family's financial status.",
+    "difficulty": "B1",
+    "source": "Wealthy neighborhood description",
+    "tags": ["wealth", "neighborhoods", "family", "social-class", "housing"],
+    "timeCreated": 1736067900
+}

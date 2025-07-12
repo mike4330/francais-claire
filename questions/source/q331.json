@@ -1,0 +1,18 @@
+{
+    "id": 331,
+    "audioText": "Mon parent travaille dans un hôpital chaque jour.",
+    "question": "Where does my parent work every day?",
+    "questionType": "comprehension",
+    "options": [
+        "In a hospital",
+        "In a school",
+        "In a store",
+        "In an office"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon parent travaille dans un hôpital chaque jour</em>' - My parent works in a hospital every day. 'Parent' means parent, and 'hôpital' means hospital.",
+    "difficulty": "A2",
+    "source": "Strategic noun threshold reinforcement",
+    "tags": ["family", "healthcare", "work"],
+    "timeCreated": 1752095200
+}

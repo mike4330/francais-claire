@@ -1,0 +1,19 @@
+{
+    "id": 1363,
+    "audioText": "Il a pris ses médicaments et aussitôt son état de santé s'est amélioré considérablement.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Il a pris ses médicaments et aussitôt son état de santé s'est amélioré considérablement",
+        "Il a pris ses médicaments et aussi tôt son état de santé s'est amélioré considérablement", 
+        "Il a pris ses médicaments et aussitôt son état de santé s'est améliorer considérablement",
+        "Il a pris ses médicaments et aussitôt son état de santé s'est amélioré considérablément"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>Il a pris ses médicaments et aussitôt son état de santé s'est amélioré considérablement</em>' - He took his medication and immediately his health improved considerably. Note: 'aussitôt' (one word meaning immediately), 'amélioré' (past participle), and 'considérablement' (adverb form without extra accent).",
+    "difficulty": "B1",
+    "source": "Listening version of Q766",
+    "tags": ["wellness", "medication", "recovery"],
+    "parentQuestion": 766,
+    "timeCreated": 1736626080
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1646,
+    "audioText": "L'architecte révolutionnaire a conçu ce numéro d'immeuble où l'ombre projetée par le mur courbe crée des jeux de lumière sophistiqués dans chaque coin de l'espace urbain, redéfinissant l'interaction entre les structures et leur environnement.",
+    "question": "What did the revolutionary architect design that redefines the interaction between structures and their environment?",
+    "questionType": "comprehension",
+    "options": [
+        "A building number where curved wall shadows create sophisticated light effects in every corner of urban space",
+        "A sustainable housing complex with integrated renewable energy systems",
+        "An innovative transportation hub connecting multiple city districts",
+        "A cultural center featuring interactive digital art installations"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'architecte révolutionnaire a conçu ce numéro d'immeuble où l'ombre projetée par le mur courbe crée des jeux de lumière sophistiqués dans chaque coin de l'espace urbain, redéfinissant l'interaction entre les structures et leur environnement</em>' - The revolutionary architect designed this building number where the shadow projected by the curved wall creates sophisticated light effects in every corner of urban space, redefining the interaction between structures and their environment. 'Numéro' means number, 'ombre' means shadow, 'mur' means wall, and 'coin' means corner.",
+    "difficulty": "C1",
+    "source": "Strategic noun targeting: numéro, ombre, mur, coin",
+    "tags": ["architecture", "urban-design", "innovation", "light-effects"],
+    "timeCreated": 1752115440
+}

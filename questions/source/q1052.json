@@ -1,0 +1,18 @@
+{
+    "id": 1052,
+    "audioText": "Tu arrêtais constamment de parler quand le professeur entrait en classe.",
+    "question": "Tu ______ constamment de parler quand le professeur entrait en classe.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêtais",
+        "arrêtes",
+        "arrêteras",
+        "arrêterais"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu arrêtais constamment de parler quand le professeur entrait en classe.</em>' - 'You constantly stopped talking when the teacher entered the classroom.' The missing word is 'arrêtais' (you stopped), the imperfect tense second person singular of 'arrêter'.",
+    "difficulty": "B1",
+    "source": "Classroom behavior and student-teacher dynamics",
+    "tags": ["education", "classroom", "behavior", "teacher"],
+    "timeCreated": 1736349300
+}

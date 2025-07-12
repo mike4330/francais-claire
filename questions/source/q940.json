@@ -1,0 +1,24 @@
+{
+  "id": 940,
+  "audioText": "Nice-Marseille : le premier TER privé en France est arrivé. La compagnie franco-allemande Transdev assure désormais la liaison. La région Sud, particulièrement touchée les par retards et les annulations, espère un renouveau.",
+  "question": "What is significant about the new Nice-Marseille train service?",
+  "questionType": "comprehension",
+  "options": [
+    "It is France's first private TER service operated by a Franco-German company",
+    "It is the fastest train connection ever built in southern France",
+    "It is the first international train service between France and Germany",
+    "It is a new high-speed rail line replacing older infrastructure"
+  ],
+  "correct": 0,
+  "explanation": "The text states this is 'le premier TER privé en France' (France's first private TER service) operated by 'la compagnie franco-allemande Transdev' (the Franco-German company Transdev), representing a significant change from traditional public rail services.",
+  "difficulty": "B2",
+  "source": "Transportation News",
+  "tags": [
+    "transportation",
+    "news",
+    "train-service",
+    "privatization",
+    "regional-transport"
+  ],
+  "timeCreated": 1704067260
+}

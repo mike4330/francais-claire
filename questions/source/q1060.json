@@ -1,0 +1,18 @@
+{
+    "id": 1060,
+    "audioText": "Ces voitures sont restées garées devant l'immeuble pendant toute la semaine dernière.",
+    "question": "Ces voitures sont ______ garées devant l'immeuble pendant toute la semaine dernière.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "restées",
+        "restés",
+        "restée",
+        "resté"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces voitures sont restées garées devant l'immeuble pendant toute la semaine dernière.</em>' - 'These cars remained parked in front of the building for the entire last week.' The missing word is 'restées' (remained), the past participle feminine plural of 'rester' agreeing with 'voitures'.",
+    "difficulty": "B1",
+    "source": "Urban parking and vehicle management",
+    "tags": ["parking", "urban-life", "vehicles", "time"],
+    "timeCreated": 1736349780
+}

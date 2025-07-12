@@ -1,0 +1,18 @@
+{
+    "id": 862,
+    "audioText": "Mes voisins proches m'aident toujours quand j'ai besoin de quelque chose d'urgent pour la maison.",
+    "question": "Mes voisins ______ m'aident toujours quand j'ai besoin de quelque chose d'urgent pour la maison.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "proches",
+        "voisins",
+        "gentils",
+        "serviables"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mes voisins proches m'aident toujours quand j'ai besoin de quelque chose d'urgent pour la maison</em>' - My close neighbors always help me when I need something urgent for the house. 'Proches' means 'close/nearby' and 'aident' targets missing verb conjugate, creating adjective-verb synergy.",
+    "difficulty": "B1",
+    "source": "Neighborhood support",
+    "tags": ["neighbors", "help", "community", "urgency"],
+    "timeCreated": 1736107140
+}

@@ -1,0 +1,18 @@
+{
+    "id": 355,
+    "audioText": "J'ai très faim maintenant.",
+    "question": "J'ai très ______ maintenant.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "faim",
+        "fain",
+        "soif",
+        "envie"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai très faim maintenant</em>' - I am very hungry now. 'Faim' (hunger) is the correct noun used in the expression 'avoir faim' (to be hungry). This is a fundamental expression in French.",
+    "difficulty": "A1",
+    "source": "Strategic targeting: faim + très + maintenant",
+    "tags": ["hunger", "basic-needs", "expressions"],
+    "timeCreated": 1736625120
+}

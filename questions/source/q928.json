@@ -1,0 +1,26 @@
+{
+  "id": 928,
+  "audioText": "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+  "parentQuestion": 901,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+    "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre développement personnel.",
+    "La vie moderne nous permet souvent de faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+    "La vie moderne nous oblige parfois à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.' Les distracteurs testent 'développement' vs 'épanouissement', 'permet' vs 'oblige', et 'parfois' vs 'souvent'.",
+  "difficulty": "B1",
+  "source": "Modern Life Philosophy",
+  "tags": [
+    "modern-life",
+    "career",
+    "personal-development",
+    "choices",
+    "work-life-balance",
+    "vie"
+  ],
+  "timeCreated": 1751216829
+}

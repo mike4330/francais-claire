@@ -1,0 +1,18 @@
+{
+    "id": 305,
+    "audioText": "Ma grand-mère est malade mais elle reste gentille.",
+    "question": "What is the grandmother's condition?",
+    "questionType": "comprehension",
+    "options": [
+        "She is sick but remains kind",
+        "She is tired but stays strong",
+        "She is old but still works",
+        "She is sad but stays positive"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma grand-mère est malade mais elle reste gentille</em>' - My grandmother is sick but she remains kind. The adjective 'malade' means sick/ill, and 'gentille' means kind/gentle.",
+    "difficulty": "A2",
+    "source": "Family health conversation",
+    "tags": ["family", "health", "emotions"],
+    "timeCreated": 1720447200
+}

@@ -1,0 +1,18 @@
+{
+    "id": 277,
+    "audioText": "Les garçons rentrent jolis à la maison.",
+    "question": "What do the boys do at home?",
+    "questionType": "comprehension",
+    "options": [
+        "Return home looking nice",
+        "Stay at home all day",
+        "Leave home early",
+        "Work at home"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les garçons rentrent jolis à la maison</em>' - The boys return home looking nice. 'Rentrent' is the third person plural present form of 'rentrer' (to return), and 'jolis' means 'nice/pretty'.",
+    "difficulty": "A2",
+    "source": "Strategic conjugate + high-frequency noun/adjective combination",
+    "tags": ["family", "daily-life", "appearance"],
+    "timeCreated": 1735992000
+}

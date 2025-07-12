@@ -1,0 +1,18 @@
+{
+    "id": 1164,
+    "audioText": "Il n'y avait aucun hôtel alentour, alors elle a utilisé son téléphone pour chercher un hébergement.",
+    "question": "What did she do when there was no hotel around?",
+    "questionType": "comprehension",
+    "options": [
+        "She used her phone to search for accommodation",
+        "She decided to sleep in her car overnight",
+        "She asked local residents for recommendations",
+        "She continued driving to the next town"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il n'y avait aucun hôtel alentour, alors elle a utilisé son téléphone pour chercher un hébergement</em>' - There was no hotel around, so she used her phone to search for accommodation. 'Alentour' means around or in the vicinity, and 'hébergement' means accommodation or lodging.",
+    "difficulty": "B1",
+    "source": "Strategic lemma synergy: adverb + high-frequency noun combination",
+    "tags": ["travel", "technology", "problem-solving"],
+    "timeCreated": 1752093584
+}

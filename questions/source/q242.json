@@ -1,0 +1,18 @@
+{
+    "id": 242,
+    "audioText": "Sophie se lave les mains avant de manger.",
+    "question": "What does Sophie wash before eating?",
+    "questionType": "comprehension",
+    "options": [
+        "Her face",
+        "Her hands",
+        "Her hair",
+        "Her feet"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Sophie se lave les mains</em>' - Sophie washes her hands. The noun 'mains' (hands) is plural of 'main' and refers to both hands, which is a hygiene routine before eating.",
+    "difficulty": "A2",
+    "source": "Daily hygiene and meal preparation",
+    "tags": ["daily-life", "hygiene", "meals"],
+    "timeCreated": 1751776887
+}

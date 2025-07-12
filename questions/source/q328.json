@@ -1,0 +1,18 @@
+{
+    "id": 328,
+    "audioText": "Salut ! Comment ça va aujourd'hui ?",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Salut ! Comment ça va aujourd'hui ?",
+        "Bonjour ! Comment ça va aujourd'hui ?",
+        "Salut ! Comment allez-vous aujourd'hui ?",
+        "Salut ! Comment ça va demain ?"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Salut ! Comment ça va aujourd'hui ?</em>' - Hi! How are you today? 'Salut' is an informal greeting meaning hi or bye, and 'aujourd'hui' means today.",
+    "difficulty": "A1",
+    "source": "Strategic noun threshold reinforcement",
+    "tags": ["greeting", "casual-conversation", "social-interaction"],
+    "timeCreated": 1752094900
+}

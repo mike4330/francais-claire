@@ -1,0 +1,23 @@
+{
+  "id": 1738,
+  "audioText": "Sa tête commençait gentiment à accepter que cette thérapie cognitive comportementale nécessiterait pratiquement une reconstruction complète de ses schémas mentaux dysfonctionnels.",
+  "question": "What was the person's head beginning to accept about cognitive behavioral therapy?",
+  "questionType": "comprehension",
+  "options": [
+    "That it would require practically complete reconstruction of mental patterns",
+    "That it would be simple and quickly effective",
+    "That it was unnecessary for their condition",
+    "That it would only address surface-level symptoms"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa tête commençait gentiment à accepter que cette thérapie cognitive comportementale nécessiterait pratiquement une reconstruction complète</em>' - His/her head was gently beginning to accept that this cognitive behavioral therapy would practically require complete reconstruction. 'Tête' means head, 'gentiment' means gently/kindly, and 'pratiquement' means practically/virtually.",
+  "difficulty": "C1",
+  "source": "Psychological therapy and cognitive restructuring processes",
+  "tags": [
+    "psychology",
+    "therapy",
+    "mental-health",
+    "cognitive-restructuring"
+  ],
+  "timeCreated": 1751812380
+}

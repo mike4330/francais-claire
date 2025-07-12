@@ -1,0 +1,19 @@
+
+{
+    "id": 566,
+    "audioText": "La mort de l'artiste a choqué le monde entier.",
+    "question": "What event shocked the entire world?",
+    "questionType": "comprehension",
+    "options": [
+        "The artist's death.",
+        "The artist's new album.",
+        "The artist's concert.",
+        "The artist's exhibition."
+    ],
+    "correct": 0,
+    "explanation": "'Mort' means 'death'. The sentence states the artist's death shocked the world.",
+    "difficulty": "B2",
+    "source": "Gemini-generated",
+    "tags": ["art", "news", "emotions"],
+    "timeCreated": 1720134000
+}

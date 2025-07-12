@@ -1,0 +1,18 @@
+{
+    "id": 1262,
+    "audioText": "Il fout vraiment le bordel avec cette jambe cassée dans la rue.",
+    "question": "Il ______ vraiment le bordel avec cette jambe cassée dans la rue.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fout",
+        "fous",
+        "foutons",
+        "foutez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il fout vraiment le bordel avec cette jambe cassée dans la rue</em>' - He's really making a mess with that broken leg in the street. 'Fout' is the third person singular present form of 'foutre' (informal verb meaning 'to put/do/make'), used here in the expression 'foutre le bordel' (to make a mess).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: fout + jambe + street",
+    "tags": ["street", "accidents", "informal-language"],
+    "timeCreated": 1736622540
+}

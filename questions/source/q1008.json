@@ -1,0 +1,18 @@
+{
+    "id": 1008,
+    "audioText": "Il reviendrait aisément chercher ses affaires en l'espace d'une minute si elle acceptait tristement de le laisser entrer une dernière fois.",
+    "question": "When would he easily come back for his things?",
+    "questionType": "comprehension",
+    "options": [
+        "If she sadly agreed to let him enter one last time",
+        "If he found someone else to help him",
+        "If the building manager gave him permission",
+        "If he waited until she was not home"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il reviendrait aisément chercher ses affaires en l'espace d'une minute si elle acceptait tristement de le laisser entrer une dernière fois.</em>' - 'He would easily come back to get his things within a minute if she sadly agreed to let him enter one last time.' The conditional 'reviendrait' expresses a hypothetical return, with adverbs 'aisément' and 'tristement' describing the manner of action and emotion.",
+    "difficulty": "B1",
+    "source": "Strategic verb conjugate targeting",
+    "tags": ["relationships", "separation", "emotions"],
+    "timeCreated": 1720713600
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1188,
+    "audioText": "Ce mec sympathique offre toujours un bon prix pour aider chaque parent du quartier.",
+    "question": "What does this friendly guy always offer?",
+    "questionType": "comprehension",
+    "options": [
+        "A good price to help each parent in the neighborhood",
+        "Free babysitting services for working families",
+        "Transportation to the local school",
+        "Home repair assistance on weekends"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce mec sympathique offre toujours un bon prix pour aider chaque parent du quartier</em>' - This friendly guy always offers a good price to help each parent in the neighborhood. 'Mec' means guy, 'prix' means price, and 'parent' means parent.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: mec, prix, parent",
+    "tags": ["community", "neighborhood", "help", "pricing"],
+    "timeCreated": 1752112240
+}

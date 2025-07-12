@@ -1,0 +1,18 @@
+{
+    "id": 244,
+    "audioText": "Mon chat jouera avec le cheveu bleu que j'ai trouvé.",
+    "question": "What will the cat play with?",
+    "questionType": "comprehension",
+    "options": [
+        "A red toy",
+        "A blue hair",
+        "A green ball",
+        "A yellow string"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Mon chat jouera avec le cheveu bleu</em>' - My cat will play with the blue hair. 'Jouera' is future tense of jouer (to play), 'cheveu' means hair/strand, and 'bleu' means blue.",
+    "difficulty": "A2",
+    "source": "Pet behavior and found objects",
+    "tags": ["pets", "animals", "play"],
+    "timeCreated": 1751778561
+}

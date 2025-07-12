@@ -1,0 +1,23 @@
+{
+  "id": 1351,
+  "audioText": "Ce film était vraiment génial ! J'ai adoré l'histoire et les acteurs.",
+  "question": "What did the speaker think of the movie?",
+  "questionType": "comprehension",
+  "options": [
+    "It was really great - they loved the story and actors",
+    "It was boring and they fell asleep during it",
+    "It was too long and the plot was confusing",
+    "It was okay but nothing special or memorable"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'Ce film était vraiment génial ! J'ai adoré l'histoire et les acteurs' - This movie was really great! I loved the story and the actors. 'Génial' means great/awesome/brilliant (informal).",
+  "difficulty": "B1",
+  "source": "Entertainment - Movies",
+  "tags": [
+    "entertainment",
+    "movies",
+    "opinions",
+    "reviews"
+  ],
+  "timeCreated": 1720026080
+}

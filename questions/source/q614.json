@@ -1,0 +1,18 @@
+{
+    "id": 614,
+    "audioText": "Nous parlerons de cette question importante lors de la prochaine réunion du conseil d'administration.",
+    "question": "Nous ______ de cette question importante lors de la prochaine réunion du conseil d'administration.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "parlerons",
+        "discuterons",
+        "débattrons",
+        "traiterons"
+    ],
+    "correct": 0,
+    "explanation": "The missing word is 'parlerons'. The complete sentence is 'Nous parlerons de cette question importante lors de la prochaine réunion du conseil d'administration' - We will talk about this important question during the next board meeting. 'Parlerons' is the future form of 'parler' (to speak/talk), first person plural.",
+    "difficulty": "B2",
+    "source": "Corporate governance and board meetings",
+    "tags": ["corporate-governance", "meetings", "board-of-directors", "business"],
+    "timeCreated": 1735950600
+}

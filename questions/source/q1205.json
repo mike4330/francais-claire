@@ -1,0 +1,18 @@
+{
+    "id": 1205,
+    "audioText": "Elle a mal au dos après avoir passé toute la journée debout sur un pied.",
+    "question": "Why does her back hurt?",
+    "questionType": "comprehension",
+    "options": [
+        "Because she spent all day standing on one foot",
+        "Because she lifted heavy boxes at work",
+        "Because she slept in an uncomfortable position",
+        "Because she ran a long distance"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle a mal au dos après avoir passé toute la journée debout sur un pied</em>' - Her back hurts after spending all day standing on one foot. This targets the nouns 'dos', 'journée', and 'pied' in a physical discomfort context.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: dos, journée, pied",
+    "tags": ["health", "physical-pain", "posture"],
+    "timeCreated": 1720617680
+}

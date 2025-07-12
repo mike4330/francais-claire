@@ -1,0 +1,18 @@
+{
+    "id": 1377,
+    "audioText": "Si vous changez pis votre approche, les résultats seront meilleurs.",
+    "question": "What does this sentence suggest about changing approach?",
+    "questionType": "comprehension",
+    "options": [
+        "If you change your approach for the worse, results will be better",
+        "If you change your approach gradually, results will be better",
+        "If you change your approach completely, results will be better",
+        "If you change your approach quickly, results will be better"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Si vous changez pis votre approche, les résultats seront meilleurs</em>' - If you change your approach for the worse, the results will be better. This is paradoxical advice suggesting that even making things worse can lead to improvement. 'Pis' means 'worse' and 'changez' is the second person plural form of 'changer'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: changez + pis",
+    "tags": ["strategy", "improvement", "paradox"],
+    "timeCreated": 1736628420
+}

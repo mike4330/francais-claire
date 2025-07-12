@@ -1,0 +1,18 @@
+{
+    "id": 715,
+    "audioText": "Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+        "Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+        "Essayez cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+        "Essaierons cette nouvelle recette de cuisine française traditionnelle ce week-end."
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.' - Let's try this new traditional French cooking recipe this weekend. 'Essayons' is the first person plural present imperative of 'essayer' (to try).",
+    "difficulty": "B1",
+    "source": "Weekend cooking plans",
+    "tags": ["cooking", "french-cuisine", "weekend", "tradition", "recipes"],
+    "timeCreated": 1736068500
+}

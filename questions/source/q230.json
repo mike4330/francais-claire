@@ -1,0 +1,18 @@
+{
+    "id": 230,
+    "audioText": "Vous sentez cette odeur de pain frais dans la boulangerie ?",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Vous sentez cette odeur de pain frais dans la boulangerie ?",
+        "Vous entendez cette odeur de pain frais dans la boulangerie ?",
+        "Vous sentez cette odeur de pain froid dans la boulangerie ?",
+        "Vous voyez cette odeur de pain frais dans la boulangerie ?"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous sentez cette odeur de pain frais dans la boulangerie ?</em>' - Do you smell this fresh bread scent in the bakery? 'Sentez' is the second person plural/polite form of 'sentir' (to smell/feel), and the distractors test confusion with other senses like hearing and seeing.",
+    "difficulty": "A2",
+    "source": "Bakery visit",
+    "tags": ["food", "senses", "bakery"],
+    "timeCreated": 1704414720
+}

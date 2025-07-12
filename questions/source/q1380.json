@@ -1,0 +1,18 @@
+{
+    "id": 1380,
+    "audioText": "Cette promesse, complètement oubliée depuis des années, refait surface maintenant.",
+    "question": "Cette promesse, complètement ______ depuis des années, refait surface maintenant.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "oubliée",
+        "oublié",
+        "oubliés",
+        "oubliant"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette promesse, complètement oubliée depuis des années, refait surface maintenant</em>' - This promise, completely forgotten for years, resurfaces now. 'Oubliée' (feminine past participle) agrees with 'cette promesse' (feminine noun). The past participle acts as an adjective describing the promise.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: oubliée (feminine past participle)",
+    "tags": ["promises", "memory", "time-passage"],
+    "timeCreated": 1736628600
+}

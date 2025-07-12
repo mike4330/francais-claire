@@ -1,0 +1,18 @@
+{
+    "id": 1020,
+    "audioText": "Dans cette situation formelle, le vétérinaire examine attentivement les yeux du canard cher avant le rendez-vous important avec l'éleveur.",
+    "question": "In this formal situation, what does the veterinarian examine before the important appointment?",
+    "questionType": "comprehension",
+    "options": [
+        "The expensive duck's eyes carefully before meeting with the breeder",
+        "The farm equipment thoroughly before the inspection",
+        "The medical records quickly before the consultation",
+        "The treatment options extensively before the procedure"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans cette situation formelle, le vétérinaire examine attentivement les yeux du canard cher avant le rendez-vous important avec l'éleveur.</em>' - 'In this formal situation, the veterinarian carefully examines the expensive duck's eyes before the important appointment with the breeder.' The noun 'canard' means duck, 'yeux' means eyes, and 'cher' means expensive.",
+    "difficulty": "B2",
+    "source": "Strategic animal targeting",
+    "tags": ["animals", "formal-situation", "appointment"],
+    "timeCreated": 1720714800
+}

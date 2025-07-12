@@ -1,0 +1,18 @@
+{
+    "id": 661,
+    "audioText": "Je reviens toujours à ma routine de soins de la peau après avoir essayé de nouveaux produits.",
+    "question": "Je ______ toujours à ma routine de soins de la peau après avoir essayé de nouveaux produits.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "reviens",
+        "retourne",
+        "recommence",
+        "reprends"
+    ],
+    "correct": 0,
+    "explanation": "The missing word is 'reviens'. The complete sentence is 'Je reviens toujours à ma routine de soins de la peau après avoir essayé de nouveaux produits' - I always come back to my skincare routine after trying new products. 'Reviens' is the present form of 'revenir' (to come back), first person singular.",
+    "difficulty": "B1",
+    "source": "Skincare routines and beauty products",
+    "tags": ["skincare", "beauty", "personal-care", "routines"],
+    "timeCreated": 1735953480
+}

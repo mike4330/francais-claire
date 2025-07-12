@@ -1,0 +1,18 @@
+{
+    "id": 351,
+    "audioText": "Tu écoutes cette rose musique avec ton sourire sympa.",
+    "question": "Tu ______ cette rose musique avec ton sourire sympa.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "écoutes",
+        "écoute",
+        "écoutez",
+        "écoutent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu écoutes cette rose musique avec ton sourire sympa</em>' - You listen to this pink music with your nice smile. 'Écoutes' is the second person singular present form of 'écouter' (to listen), used with the informal 'tu' form.",
+    "difficulty": "A2",
+    "source": "Strategic targeting: écoutes + rose + sympa",
+    "tags": ["music", "emotions", "entertainment"],
+    "timeCreated": 1736622780
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1186,
+    "audioText": "Cette espèce d'oiseau rare coûte un prix énorme sur le marché des collectionneurs.",
+    "question": "What costs an enormous price on the collectors' market?",
+    "questionType": "comprehension",
+    "options": [
+        "This species of rare bird",
+        "Vintage coin collections", 
+        "Ancient pottery fragments",
+        "Historical stamp albums"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette espèce d'oiseau rare coûte un prix énorme sur le marché des collectionneurs</em>' - This species of rare bird costs an enormous price on the collectors' market. 'Espèce' means species, 'prix' means price, and 'collectionneurs' means collectors.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: espèce, prix",
+    "tags": ["wildlife", "collecting", "market", "rare-animals"],
+    "timeCreated": 1752112120
+}

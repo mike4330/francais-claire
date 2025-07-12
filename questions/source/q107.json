@@ -1,0 +1,23 @@
+{
+  "id": 107,
+  "audioText": "Vous prendrez le bus ou le train ?",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Vous prendrez le bus ou le train ?",
+    "Vous prenez le bus ou le train ?",
+    "Vous avez pris le bus ou le train ?",
+    "Vous pourrez prendre le bus ou le train ?"
+  ],
+  "correct": 0,
+  "explanation": "The question uses the future tense 'prendrez' (will you take) to ask about future transportation plans.",
+  "difficulty": "A2",
+  "source": "Transportation planning question",
+  "tags": [
+    "transportation",
+    "planning",
+    "future-time",
+    "travel"
+  ],
+  "timeCreated": 1735689600
+}

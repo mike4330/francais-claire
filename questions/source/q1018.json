@@ -1,0 +1,18 @@
+{
+    "id": 1018,
+    "audioText": "Le médecin se déplace soudainement au-devant du patient malade pour examiner strictement ses yeux fatigués.",
+    "question": "How does the doctor suddenly move to examine the sick patient's tired eyes?",
+    "questionType": "comprehension",
+    "options": [
+        "Towards the front to strictly examine them",
+        "Backwards to carefully observe them",
+        "Sideways to quickly check them",
+        "Around to thoroughly inspect them"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le médecin se déplace soudainement au-devant du patient malade pour examiner strictement ses yeux fatigués.</em>' - 'The doctor suddenly moves towards the front of the sick patient to strictly examine his tired eyes.' The adverbs 'soudainement' means suddenly, 'au-devant' means towards the front, and 'strictement' means strictly.",
+    "difficulty": "B2",
+    "source": "Strategic adverb targeting",
+    "tags": ["health", "medical-examination", "movement"],
+    "timeCreated": 1720714500
+}

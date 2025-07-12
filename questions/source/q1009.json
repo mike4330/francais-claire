@@ -1,0 +1,18 @@
+{
+    "id": 1009,
+    "audioText": "Leur amour grandissait nullement malgré les difficultés rencontrées ensemble au cours de cette période troublée.",
+    "question": "How did their love grow despite the difficulties?",
+    "questionType": "comprehension",
+    "options": [
+        "It didn't grow at all",
+        "It grew stronger every day",
+        "It grew slowly but surely",
+        "It grew beyond expectations"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Leur amour grandissait nullement malgré les difficultés rencontrées ensemble au cours de cette période troublée.</em>' - 'Their love was not growing at all despite the difficulties encountered together during this troubled period.' The adverb 'nullement' means 'not at all' or 'in no way', indicating their love was not growing.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting",
+    "tags": ["relationships", "love", "difficulties"],
+    "timeCreated": 1720713600
+}

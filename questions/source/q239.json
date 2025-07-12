@@ -1,0 +1,22 @@
+{
+  "id": 239,
+  "audioText": "Ils entendent souvent des demandes similaires.",
+  "question": "Ils ______ souvent des demandes similaires.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "entendent",
+    "reçoivent",
+    "écoutent",
+    "comprennent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ils entendent souvent des demandes similaires</em>' - They often hear similar requests. 'Entendent' is the present form of 'entendre' (to hear), targeting missing verb conjugate with requests theme.",
+  "difficulty": "A2",
+  "source": "Customer service",
+  "tags": [
+    "requests",
+    "frequency",
+    "workplace"
+  ],
+  "timeCreated": 1736105400
+}

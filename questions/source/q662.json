@@ -1,0 +1,18 @@
+{
+    "id": 662,
+    "audioText": "Mon ami essaie d'apprendre à jouer de la guitare acoustique pour impressionner sa copine lors de leur anniversaire.",
+    "question": "What is the friend trying to learn and why?",
+    "questionType": "comprehension",
+    "options": [
+        "Acoustic guitar to impress his girlfriend on their anniversary.",
+        "Piano songs to surprise his girlfriend at her birthday.",
+        "Romantic poetry to recite on their first date.",
+        "Traditional dances to perform at their wedding."
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Mon ami essaie d'apprendre à jouer de la guitare acoustique pour impressionner sa copine lors de leur anniversaire' - My friend is trying to learn to play acoustic guitar to impress his girlfriend on their anniversary. 'Essaie' is the present form of 'essayer' (to try), third person singular.",
+    "difficulty": "B2",
+    "source": "Music hobbies and romantic gestures",
+    "tags": ["music", "guitar", "hobbies", "romance"],
+    "timeCreated": 1735953540
+}

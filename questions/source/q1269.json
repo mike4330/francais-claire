@@ -1,0 +1,18 @@
+{
+    "id": 1269,
+    "audioText": "Elle paiera éternellement cette pricing stupide avec des économies douloureuses.",
+    "question": "Elle ______ éternellement cette pricing stupide avec des économies douloureuses.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "paiera",
+        "paye",
+        "payait",
+        "payera"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle paiera éternellement cette pricing stupide avec des économies douloureuses</em>' - She will pay forever for this stupid pricing with painful savings. 'Paiera' is the third person singular future form of 'payer' (to pay). Note that 'payer' can be conjugated as either 'paiera' or 'payera' in the future tense, both forms are correct.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: paiera + éternellement + pricing + stupide",
+    "tags": ["finance", "pricing", "consequences"],
+    "timeCreated": 1736623020
+}

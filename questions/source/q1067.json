@@ -1,0 +1,18 @@
+{
+    "id": 1067,
+    "audioText": "Il faut chercher par-ci par-là dans tous les tiroirs.",
+    "question": "How should one search according to the text?",
+    "questionType": "comprehension",
+    "options": [
+        "Only in one specific drawer",
+        "Here and there in all the drawers",
+        "Very carefully and slowly",
+        "Only in the top drawers"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Il faut chercher par-ci par-là dans tous les tiroirs</em>' - One must search here and there in all the drawers. 'Par-ci par-là' means 'here and there' or 'in various places'.",
+    "difficulty": "B1",
+    "source": "Searching instructions",
+    "tags": ["household", "organization", "search"],
+    "timeCreated": 1720401780
+}

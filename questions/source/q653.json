@@ -1,0 +1,23 @@
+{
+  "id": 653,
+  "audioText": "Il est nécessaire de comprendre que cette solution n'est pas parfaite mais reste utile.",
+  "question": "What is necessary to understand?",
+  "questionType": "comprehension",
+  "options": [
+    "That this solution isn't perfect but remains useful",
+    "That this solution requires immediate improvement",
+    "That this solution should be completely abandoned",
+    "That this solution works perfectly in all cases"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il est nécessaire de comprendre que cette solution n'est pas parfaite mais reste utile</em>' - It is necessary to understand that this solution isn't perfect but remains useful. 'Nécessaire' (necessary) emphasizes the importance of this balanced perspective on imperfect but practical solutions.",
+  "difficulty": "B2",
+  "source": "Problem-solving perspective",
+  "tags": [
+    "problem-solving",
+    "perspective",
+    "practicality",
+    "understanding"
+  ],
+  "timeCreated": 1736103360
+}

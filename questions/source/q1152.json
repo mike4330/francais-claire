@@ -1,0 +1,24 @@
+{
+  "id": 1152,
+  "audioText": "La mort de cet écrivain célèbre a marqué la fin d'une époque littéraire importante en France.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "La mort de cet écrivain célèbre a marqué la fin d'une époque littéraire importante en France.",
+    "La mort de cet écrivain célèbre a marquée la fin d'une époque littéraire importante en France.",
+    "La mort de cet écrivain célèbre a marqué la fin d'une époque littéraires importantes en France.",
+    "La mort de cet écrivain célèbre a marqué la fin d'une époque littéraire importante en Frances."
+  ],
+  "correct": 0,
+  "explanation": "The correct option maintains proper agreements: 'marqué' (past participle with 'avoir', no agreement with subject), not 'marquée', 'littéraire importante' (feminine singular with 'époque'), not 'littéraires importantes' (plural), and 'France' (proper noun), not 'Frances'. This listening exercise tests literary vocabulary and complex adjective agreement.",
+  "difficulty": "B2",
+  "source": "Literary News",
+  "tags": [
+    "literature",
+    "death",
+    "cultural-history",
+    "writers"
+  ],
+  "parentQuestion": 1344,
+  "timeCreated": 1720866240
+}

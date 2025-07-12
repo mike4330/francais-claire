@@ -1,0 +1,23 @@
+{
+    "id": 990,
+    "audioText": "Mon ami exprime honnêtement ses doutes concernant cette façon d'agir. Dans son cas, le visage fatigué révèle la vraie raison de ses réticences face à cette terre inconnue.",
+    "question": "What does the friend honestly express about the situation?",
+    "questionType": "comprehension",
+    "options": [
+        "His enthusiasm for exploring new territories",
+        "His doubts about this way of acting", 
+        "His complete confidence in the approach",
+        "His indifference to the unknown land"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Mon ami exprime honnêtement ses doutes concernant cette façon d'agir. Dans son cas, le visage fatigué révèle la vraie raison de ses réticences face à cette terre inconnue.</em>' - 'My friend honestly expresses his doubts about this way of acting. In his case, the tired face reveals the true reason for his reluctance toward this unknown land.' The friend clearly expresses 'doutes' (doubts) about the way of acting.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting",
+    "tags": [
+        "friendship",
+        "uncertainty", 
+        "exploration",
+        "emotions"
+    ],
+    "timeCreated": 1720713600
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1056,
+    "audioText": "Les manifestants arrêteront leurs protestations quand le gouvernement répondra à leurs demandes.",
+    "question": "Les manifestants ______ leurs protestations quand le gouvernement répondra à leurs demandes.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêteront",
+        "arrêtent",
+        "arrêteraient",
+        "arrêtaient"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les manifestants arrêteront leurs protestations quand le gouvernement répondra à leurs demandes.</em>' - 'The protesters will stop their protests when the government responds to their demands.' The missing word is 'arrêteront' (will stop), the future tense third person plural of 'arrêter'.",
+    "difficulty": "B2",
+    "source": "Political protests and government negotiations",
+    "tags": ["politics", "protests", "government", "negotiations"],
+    "timeCreated": 1736349540
+}

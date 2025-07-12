@@ -1,0 +1,18 @@
+{
+    "id": 1278,
+    "audioText": "Ce chien aveugle malheureusement ne peut pas voir l'ombre de son maître.",
+    "question": "Ce chien ______ malheureusement ne peut pas voir l'ombre de son maître.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "aveugle",
+        "aveugles",
+        "sourds",
+        "muet"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce chien aveugle malheureusement ne peut pas voir l'ombre de son maître</em>' - This blind dog unfortunately cannot see the shadow of his master. 'Aveugle' is an adjective meaning 'blind', agreeing with the masculine noun 'chien' (dog).",
+    "difficulty": "B1",
+    "source": "Strategic targeting: aveugle + malheureusement + ombre + maître",
+    "tags": ["animals", "disability", "emotions"],
+    "timeCreated": 1736623740
+}

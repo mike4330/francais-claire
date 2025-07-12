@@ -1,0 +1,23 @@
+{
+  "id": 1797,
+  "audioText": "Naguère, on agissait machinalement sans regarder là-dedans. Sitôt que les dégâts apparaissaient, on cherchait au-delà des solutions immédiates. Dorénavant, cette terre fragile nous impose une coopération différente.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Dorénavant, cette terre fragile nous impose une coopération différente.",
+    "Dorénavant, cette terre fragile nous impose une coopération difficile.",
+    "Dorénavant, cette mer fragile nous impose une coopération différente.",
+    "Dorénavant, cette terre fertile nous impose une coopération différente."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Naguère, on agissait machinalement sans regarder là-dedans. Sitôt que les dégâts apparaissaient, on cherchait au-delà des solutions immédiates. Dorénavant, cette terre fragile nous impose une coopération différente.</em>' - 'Formerly, we acted mechanically without looking in there. As soon as the damage appeared, we looked beyond immediate solutions. From now on, this fragile earth imposes a different cooperation on us.' The correct answer captures the exact phrase about future cooperation.",
+  "difficulty": "C2",
+  "source": "Strategic adverb targeting",
+  "tags": [
+    "environment",
+    "cooperation",
+    "change",
+    "time-perspective"
+  ],
+  "timeCreated": 1720713600
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17,
+  "audioText": "Nous pensons que mijoter est la meilleure technique de cuisson.",
+  "question": "Nous ______ que mijoter est la meilleure technique de cuisson.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pensons",
+    "pense",
+    "pensez",
+    "pensent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous pensons que mijoter est la meilleure technique de cuisson</em>' - We think that simmering is the best cooking technique. 'Pensons' is the first person plural form of 'penser' (to think), used with 'nous'.",
+  "difficulty": "A2",
+  "source": "Cooking discussion",
+  "tags": [
+    "cooking-techniques",
+    "cooking",
+    "techniques"
+  ],
+  "timeCreated": 1704416280
+}

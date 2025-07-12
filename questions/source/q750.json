@@ -1,0 +1,18 @@
+{
+    "id": 750,
+    "audioText": "Le chat tuera sûrement les oiseaux dans le jardin si on ne fait rien.",
+    "question": "What will the cat definitely do to the birds in the garden?",
+    "questionType": "comprehension",
+    "options": [
+        "Kill them if nothing is done",
+        "Chase them away peacefully",
+        "Play with them gently",
+        "Ignore them completely"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le chat tuera sûrement les oiseaux dans le jardin si on ne fait rien</em>' - The cat will surely kill the birds in the garden if we don't do anything. 'Tuera' is the third person singular future form of 'tuer' (to kill).",
+    "difficulty": "B1",
+    "source": "Pet behavior",
+    "tags": ["birds", "pets", "garden"],
+    "timeCreated": 1704415740
+}

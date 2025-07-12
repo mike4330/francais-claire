@@ -1,0 +1,18 @@
+{
+    "id": 891,
+    "audioText": "Au-dessous de cette table se cache infiniment plus de poussière que vous ne pourriez l'imaginer.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Au-dessous de cette table se cache infiniment plus de poussière que vous ne pourriez l'imaginer.",
+        "Au-dessus de cette table se cache infiniment plus de poussière que vous ne pourriez l'imaginer.",
+        "Au-dessous de cette table se cache simplement plus de poussière que vous ne pourriez l'imaginer.",
+        "Au-dessous de cette table se cache infiniment moins de poussière que vous ne pourriez l'imaginer."
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is 'Au-dessous de cette table se cache infiniment plus de poussière' - Under this table hides infinitely more dust. 'Au-dessous' means underneath/below and 'infiniment' means infinitely/extremely. The other options change these key adverbs or the meaning.",
+    "difficulty": "B2",
+    "source": "Household cleaning and hidden mess discovery",
+    "tags": ["cleaning", "household", "discovery", "hygiene"],
+    "timeCreated": 1751812500
+}

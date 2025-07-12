@@ -1,0 +1,18 @@
+{
+    "id": 1011,
+    "audioText": "Son corps se déplaçait bêtement entre les obstacles sans stratégie apparente pour éviter les dangers.",
+    "question": "How was his body moving between the obstacles?",
+    "questionType": "comprehension",
+    "options": [
+        "Stupidly without apparent strategy",
+        "Gracefully and efficiently",
+        "Carefully and methodically",
+        "Quickly but precisely"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son corps se déplaçait bêtement entre les obstacles sans stratégie apparente pour éviter les dangers.</em>' - 'His body was moving stupidly between the obstacles without apparent strategy to avoid the dangers.' The noun 'corps' means body, and 'bêtement' is an adverb meaning stupidly or foolishly.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting",
+    "tags": ["movement", "strategy", "obstacles"],
+    "timeCreated": 1720713600
+}

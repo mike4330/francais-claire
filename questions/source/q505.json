@@ -1,0 +1,18 @@
+{
+    "id": 505,
+    "audioText": "Quand vous étiez petits, que faisiez-vous pendant les vacances d'été ?",
+    "question": "Quand vous étiez petits, que ______ pendant les vacances d'été ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "faisiez-vous",
+        "ferez-vous",
+        "faites-vous",
+        "feriez-vous"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'faisiez-vous' - the imperfect form of 'faire' (to do/make) in the second person plural. When asking about past habitual actions in childhood, French uses the imperfect tense. 'Faisiez' matches the past time context 'quand vous étiez petits' (when you were little).",
+    "difficulty": "B2",
+    "source": "Childhood memories",
+    "tags": ["childhood", "vacations", "memories"],
+    "timeCreated": 1720077400
+}

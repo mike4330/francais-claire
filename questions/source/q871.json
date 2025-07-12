@@ -1,0 +1,18 @@
+{
+    "id": 871,
+    "audioText": "Cette formation générale rendrait précisément plus de chances à tous les candidats pour obtenir l'emploi.",
+    "question": "What would the general training precisely give to all candidates?",
+    "questionType": "comprehension",
+    "options": [
+        "More chances",
+        "Higher salary",
+        "Better schedule",
+        "Immediate promotion"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette formation générale rendrait précisément plus de chances à tous les candidats</em>' - This general training would precisely give more chances to all candidates. 'Rendrait' is conditional of rendre (to give/make), 'chance' means opportunity, 'général' means general, and 'précisément' means precisely.",
+    "difficulty": "B2",
+    "source": "Professional training and employment opportunities",
+    "tags": ["workplace", "training", "employment"],
+    "timeCreated": 1751778561
+}

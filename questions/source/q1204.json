@@ -1,0 +1,18 @@
+{
+    "id": 1204,
+    "audioText": "Il a ce truc bizarre dans l'esprit qui l'empêche de se concentrer toute la journée.",
+    "question": "What's preventing him from concentrating?",
+    "questionType": "comprehension",
+    "options": [
+        "This weird thing in his mind that bothers him all day",
+        "The noise from construction work outside",
+        "His phone constantly ringing with calls",
+        "The uncomfortable temperature in the room"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a ce truc bizarre dans l'esprit qui l'empêche de se concentrer toute la journée</em>' - He has this weird thing in his mind that prevents him from concentrating all day. This targets the nouns 'truc', 'esprit', and 'journée' in a mental focus context.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: truc, esprit, journée",
+    "tags": ["mental-health", "concentration", "daily-life"],
+    "timeCreated": 1720617620
+}

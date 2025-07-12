@@ -1,0 +1,22 @@
+{
+  "id": 18,
+  "audioText": "Vous perdez votre guitare si vous ne faites pas attention.",
+  "question": "What will happen if you don't pay attention?",
+  "questionType": "comprehension",
+  "options": [
+    "You'll lose your guitar",
+    "You'll break your piano",
+    "You'll forget your music",
+    "You'll miss your lesson"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous perdez votre guitare si vous ne faites pas attention</em>' - You lose your guitar if you don't pay attention. 'Perdez' is the second person plural form of 'perdre' (to lose), used with 'vous'.",
+  "difficulty": "A2",
+  "source": "Musical care",
+  "tags": [
+    "guitar",
+    "musical-instruments",
+    "care"
+  ],
+  "timeCreated": 1704416100
+}

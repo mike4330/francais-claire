@@ -1,0 +1,18 @@
+{
+    "id": 1208,
+    "audioText": "Papa nous a dit de tourner le dos au vent et de garder l'esprit ouvert pendant notre randonnée.",
+    "question": "What advice did dad give for the hike?",
+    "questionType": "comprehension",
+    "options": [
+        "Turn your back to the wind and keep an open mind",
+        "Stay close together and follow the marked trail",
+        "Bring extra water and rest every hour",
+        "Watch for wild animals and make noise"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Papa nous a dit de tourner le dos au vent et de garder l'esprit ouvert pendant notre randonnée</em>' - Dad told us to turn our backs to the wind and keep an open mind during our hike. This targets the nouns 'papa', 'dos', 'vent', and 'esprit' in an outdoor adventure context.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: papa, dos, vent, esprit",
+    "tags": ["family", "hiking", "advice"],
+    "timeCreated": 1720617860
+}

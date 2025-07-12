@@ -1,0 +1,18 @@
+{
+    "id": 1303,
+    "audioText": "Il a défendu son honneur familial courageusement contre toutes ces accusations injustes.",
+    "question": "Il a défendu son ______ familial courageusement contre toutes ces accusations injustes.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "honneur",
+        "honneurs",
+        "honore",
+        "honorable"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a défendu son honneur familial courageusement contre toutes ces accusations injustes</em>' - He courageously defended his family honor against all these unjust accusations. 'Honneur' (honor) is the correct noun, masculine singular with the possessive adjective 'son'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: honneur + courageusement + accusations",
+    "tags": ["honor", "family", "defense"],
+    "timeCreated": 1736625360
+}

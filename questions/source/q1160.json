@@ -1,0 +1,18 @@
+{
+    "id": 1160,
+    "audioText": "Le bonheur qu'elle ressent en voyant sa famille réunie après tant d'années est indescriptible.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Le bonheur qu'elle ressent en voyant sa famille réunie après tant d'années est indescriptible",
+        "Le malheur qu'elle ressent en voyant sa famille réunie après tant d'années est indescriptible",
+        "Le bonheur qu'elle ressent en voyant sa famille réunie après tant d'années est incredible",
+        "Le bonheur qu'elle ressent en voyant sa famille séparée après tant d'années est indescriptible"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le bonheur qu'elle ressent en voyant sa famille réunie après tant d'années est indescriptible</em>' - The happiness she feels seeing her family reunited after so many years is indescribable. 'Bonheur' means happiness or joy, and 'indescriptible' means indescribable.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage + family emotions context",
+    "tags": ["family", "emotions", "happiness"],
+    "timeCreated": 1752093360
+}

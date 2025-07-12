@@ -1,0 +1,18 @@
+{
+    "id": 1271,
+    "audioText": "Cette approche humaine librement développée résout nos problèmes de communication moderne.",
+    "question": "Cette approche ______ librement développée résout nos problèmes de communication moderne.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "humaine",
+        "humain",
+        "humaines",
+        "humains"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette approche humaine librement développée résout nos problèmes de communication moderne</em>' - This human approach freely developed solves our modern communication problems. 'Humaine' is the feminine singular form of 'humain' (human), agreeing with 'approche' (approach).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: humain + librement + communication",
+    "tags": ["workplace", "communication", "human-relations"],
+    "timeCreated": 1736623200
+}

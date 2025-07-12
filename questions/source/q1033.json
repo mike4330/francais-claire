@@ -1,0 +1,18 @@
+{
+    "id": 1033,
+    "audioText": "Tristement, à son âge, il ne comprend plus le sens de cette histoire étrange.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Tristement, à son âge, il ne comprend plus le sens de cette histoire étrange.",
+        "Tristement, à son âge, il ne comprend plus le sens de cette histoire bizarre.",
+        "Heureusement, à son âge, il ne comprend plus le sens de cette histoire étrange.",
+        "Tristement, à son âge, il ne saisit plus le sens de cette histoire étrange."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Tristement, à son âge, il ne comprend plus le sens de cette histoire étrange.</em>' - 'Sadly, at his age, he no longer understands the meaning of this strange story.' The nouns 'âge' means age and 'sens' means meaning/sense, 'tristement' means sadly, and 'étrange' means strange.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting",
+    "tags": ["memory", "stories", "age"],
+    "timeCreated": 1720715800
+}

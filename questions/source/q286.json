@@ -1,0 +1,18 @@
+{
+    "id": 286,
+    "audioText": "Le coup de téléphone a changé sa vie complètement.",
+    "question": "What changed his life completely?",
+    "questionType": "comprehension",
+    "options": [
+        "The phone call",
+        "The job interview",
+        "The accident",
+        "The meeting"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le coup de téléphone a changé sa vie complètement.</em>' - 'The phone call changed his life completely.' The noun 'coup' in 'coup de téléphone' means a phone call or telephone ring.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": ["communication", "life-change", "phone"],
+    "timeCreated": 1720713600
+}

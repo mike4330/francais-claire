@@ -1,0 +1,19 @@
+{
+    "id": 1150,
+    "audioText": "Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été.",
+        "Les enfants ont passés trop de temps devant les écrans pendant les vacances d'été.",
+        "Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été.",
+        "Les enfants ont passé trop de temps devant les écrans pendant les vacance d'été."
+    ],
+    "correct": 0,
+    "explanation": "The correct option maintains proper past participle agreement: 'passé' (with 'avoir' + temps, no agreement needed), not 'passés', and 'vacances' (plural), not 'vacance' (singular). This listening exercise tests compound past tense and plural forms.",
+    "difficulty": "B1",
+    "source": "Summer activities",
+    "tags": ["screen-time", "children", "summer"],
+    "parentQuestion": 753,
+    "timeCreated": 1720866060
+}

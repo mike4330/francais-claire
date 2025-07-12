@@ -1,0 +1,18 @@
+{
+    "id": 1021,
+    "audioText": "Les pommes de terre désolées du chef gentil attendent l'enquête contractuelle concernant la livraison des raisins à l'échéance prévue.",
+    "question": "What are the kind chef's sorry potatoes waiting for regarding grape delivery?",
+    "questionType": "comprehension",
+    "options": [
+        "The contractual investigation concerning delivery at the planned deadline",
+        "The quality inspection of the seasonal harvest",
+        "The price negotiation with local suppliers",
+        "The storage preparation in the restaurant cellar"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les pommes de terre désolées du chef gentil attendent l'enquête contractuelle concernant la livraison des raisins à l'échéance prévue.</em>' - 'The kind chef's sorry potatoes are waiting for the contractual investigation concerning grape delivery at the planned deadline.' The nouns 'pommes de terre' means potatoes and 'raisins' means grapes. The adjectives 'désolées' means sorry and 'gentil' means kind.",
+    "difficulty": "B1",
+    "source": "Strategic food targeting",
+    "tags": ["food", "contract", "deadline"],
+    "timeCreated": 1720715100
+}

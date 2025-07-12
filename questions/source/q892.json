@@ -1,0 +1,18 @@
+{
+    "id": 892,
+    "audioText": "Çà, c'est visiblement faux et vous le savez très bien.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Çà, c'est visiblement faux et vous le savez très bien.",
+        "Ça, c'est visiblement faux et vous le savez très bien.",
+        "Çà, c'est clairement faux et vous le savez très bien.",
+        "Çà, c'est visiblement vrai et vous le savez très bien."
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase uses 'Çà' (that, informal spelling) and 'visiblement' (visibly/obviously). The other options either use the standard spelling 'Ça', change 'visiblement' to 'clairement', or change 'faux' to 'vrai'.",
+    "difficulty": "B1",
+    "source": "Direct confrontation and disagreement",
+    "tags": ["confrontation", "disagreement", "truth", "argument"],
+    "timeCreated": 1751812560
+}

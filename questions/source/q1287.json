@@ -1,0 +1,18 @@
+{
+    "id": 1287,
+    "audioText": "Cette armée moderne vivement défend notre territoire avec des équipements technologiques avancés.",
+    "question": "Cette ______ moderne vivement défend notre territoire avec des équipements technologiques avancés.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "armée",
+        "force",
+        "police",
+        "garde"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette armée moderne vivement défend notre territoire avec des équipements technologiques avancés</em>' - This modern army vigorously defends our territory with advanced technological equipment. 'Armée' is a feminine noun meaning 'army/military forces'.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: armée + vivement + territoire + technologique",
+    "tags": ["military", "defense", "technology"],
+    "timeCreated": 1736624280
+}

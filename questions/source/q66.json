@@ -1,0 +1,25 @@
+{
+  "id": 66,
+  "audioText": "Vous regardiez toujours la télévision ensemble le soir.",
+  "question": "Vous ______ toujours la télévision ensemble le soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "regardiez",
+    "regardez",
+    "regardions",
+    "regardaient"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'regardiez' (you used to watch). This is the imperfect form used with 'vous' to describe a habitual action in the past. The sentence means 'You always used to watch television together in the evening.'",
+  "difficulty": "A2",
+  "source": "Family evening routine memories",
+  "tags": [
+    "family",
+    "television",
+    "evening",
+    "memories",
+    "routine",
+    "nostalgia",
+    "entertainment"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 273,
+    "audioText": "Son bras cher lui fait mal après l'accident.",
+    "question": "What hurts after the accident?",
+    "questionType": "comprehension",
+    "options": [
+        "His precious arm",
+        "His expensive car",
+        "His dear friend",
+        "His old leg"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son bras cher lui fait mal après l'accident</em>' - His precious/dear arm hurts him after the accident. 'Bras' means arm, 'cher' can mean dear/precious or expensive, and the context indicates physical pain from an accident.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting for 'bras' and 'cher'",
+    "tags": ["accident", "health", "physical-description"],
+    "timeCreated": 1751853190
+}

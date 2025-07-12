@@ -1,0 +1,23 @@
+{
+  "id": 1353,
+  "audioText": "La situation économique devient de plus en plus grave selon les experts financiers.",
+  "question": "How do financial experts describe the economic situation?",
+  "questionType": "comprehension",
+  "options": [
+    "It is becoming increasingly serious/grave",
+    "It is slowly improving with positive indicators",
+    "It remains stable despite global uncertainties",
+    "It is unpredictable and changes frequently"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'La situation économique devient de plus en plus grave selon les experts financiers' - The economic situation is becoming more and more serious according to financial experts. 'Grave' means serious/grave in this context.",
+  "difficulty": "B2",
+  "source": "Economic News",
+  "tags": [
+    "economics",
+    "experts",
+    "financial-analysis",
+    "serious-situation"
+  ],
+  "timeCreated": 1720026200
+}

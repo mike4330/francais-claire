@@ -1,0 +1,23 @@
+{
+  "id": 1698,
+  "audioText": "L'antiquaire mettra en vente une collection de meubles rares la semaine prochaine. Parmi les possessions, on trouvera un bureau du XVIIIe siècle et une commode Louis XV.",
+  "question": "L'antiquaire ______ en vente une collection de meubles rares.",
+  "questionType": "listening",
+  "options": [
+    "mettras",
+    "mettrai",
+    "mettra",
+    "mettront"
+  ],
+  "correct": 2,
+  "explanation": "The sentence uses the third-person singular of the futur simple, 'mettra', because the subject is 'L'antiquaire' (the antique dealer). It means 'The antique dealer will put up for sale...'",
+  "difficulty": "C1",
+  "source": "Gemini CLI",
+  "tags": [
+    "antiques",
+    "furniture",
+    "possessions",
+    "auction"
+  ],
+  "timeCreated": 1720181345
+}

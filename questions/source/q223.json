@@ -1,0 +1,18 @@
+{
+    "id": 223,
+    "audioText": "Les nouvelles règles de sécurité ont été suivies par tous les employés.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Les nouvelles règles de sécurité ont été suivies par tous les employés.",
+        "Les nouvelles règles de sécurité ont été suivis par tous les employés.",
+        "Les nouvelles règles de sécurité ont été suivie par tous les employés.",
+        "Les nouvelles règles de sécurité ont été suivi par tous les employés."
+    ],
+    "correct": 0,
+    "explanation": "The speaker said '<em>Les nouvelles règles de sécurité ont été suivies par tous les employés</em>' - The new safety rules have been followed by all employees. 'Suivies' is the feminine plural past participle of 'suivre' (to follow), agreeing with the feminine plural noun 'règles' (rules).",
+    "difficulty": "A2",
+    "source": "Workplace safety",
+    "tags": ["workplace", "safety", "rules", "employees"],
+    "timeCreated": 1736065400
+}

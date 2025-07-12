@@ -1,0 +1,21 @@
+{
+  "id": 51,
+  "audioText": "L'équipe rouge suivra les règles du jeu très attentivement.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "L'équipe rouge suivra les règles du jeu très attentivement.",
+    "L'équipe rouge suivra les règles du jeu très rapidement.",
+    "L'équipe bleue suivra les règles du jeu très attentivement.",
+    "L'équipe rouge suivait les règles du jeu très attentivement."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'L'équipe rouge suivra les règles du jeu très attentivement.' - The red team will follow the game rules very carefully. Note the future tense 'suivra' and the distinction between 'attentivement' (carefully) and 'rapidement' (quickly).",
+  "difficulty": "A2",
+  "source": "Game Instructions",
+  "tags": [
+    "games",
+    "rules",
+    "team-sports"
+  ]
+}

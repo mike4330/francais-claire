@@ -1,0 +1,22 @@
+{
+  "id": 20,
+  "audioText": "Nous rentrons à la maison ce soir après le dîner.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous rentrons à la maison ce soir après le dîner.",
+    "Nous rentrons à la maison ce soir après le déjeuner.",
+    "Nous restons à la maison ce soir après le dîner.",
+    "Nous rentrons à la maison demain après le dîner."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous rentrons à la maison ce soir après le dîner</em>' - We're coming home tonight after dinner. 'Rentrons' is the first person plural form of 'rentrer' (to return home). The distractors test meal confusion (déjeuner), verb choice (rester), and time confusion (demain).",
+  "difficulty": "A2",
+  "source": "Evening plans",
+  "tags": [
+    "evening",
+    "home",
+    "dinner"
+  ],
+  "timeCreated": 1704415800
+}

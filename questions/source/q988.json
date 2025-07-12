@@ -1,0 +1,18 @@
+{
+    "id": 988,
+    "audioText": "En jouant spécialement avec ce type de personne tranquille, il gagnait toujours.",
+    "question": "How did he always win?",
+    "questionType": "comprehension",
+    "options": [
+        "By playing especially with this type of calm person",
+        "By avoiding all kinds of games",
+        "By competing against everyone",
+        "By playing only aggressive games"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>En jouant spécialement avec ce type de personne tranquille, il gagnait toujours</em>' - By playing especially with this type of calm person, he always won. 'Jouant' is the present participle of 'jouer' (to play), 'spécialement' means 'especially', and 'gagnait' is the imperfect tense showing habitual past action.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate + high-frequency adverb/noun/adjective combination",
+    "tags": ["games", "strategy", "personality"],
+    "timeCreated": 1735992000
+}

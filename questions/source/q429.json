@@ -1,0 +1,18 @@
+{
+    "id": 429,
+    "audioText": "Si j'avais le temps, j'irais au cinéma avec vous.",
+    "question": "What would the speaker do if they had time?",
+    "questionType": "comprehension",
+    "options": [
+        "Go to the cinema with you.",
+        "Stay home with you.",
+        "Go to the restaurant with you.",
+        "Go shopping with you."
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'irais' - the conditional form of 'aller' (to go). 'Si j'avais le temps, j'irais' means 'If I had time, I would go'. This is a typical conditional sentence structure in French.",
+    "difficulty": "B2",
+    "source": "Hypothetical social situation",
+    "tags": ["entertainment", "hypothetical", "social-plans"],
+    "timeCreated": 1720108800
+}

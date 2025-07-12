@@ -1,0 +1,18 @@
+{
+    "id": 249,
+    "audioText": "Je mange actuellement une pomme rouge.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Je mange actuellement une pomme rouge.",
+        "Je mange maintenant une pomme rouge.",
+        "Je mange actuellement une pomme verte.",
+        "Je bois actuellement une pomme rouge."
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is 'Je mange actuellement une pomme rouge' - I am currently eating a red apple. 'Actuellement' means currently/presently. The other options change 'actuellement' to 'maintenant', change the color to 'verte', or change the verb to 'bois'.",
+    "difficulty": "A2",
+    "source": "Current actions and food consumption",
+    "tags": ["food", "present-actions", "daily-life"],
+    "timeCreated": 1751812620
+}

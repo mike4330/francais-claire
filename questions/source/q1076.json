@@ -1,0 +1,19 @@
+
+{
+  "id": 1076,
+  "audioText": "Ce raisonnement est faux et basé sur des informations incorrectes.",
+  "question": "What is wrong with the reasoning?",
+  "questionType": "comprehension",
+  "options": [
+    "Il est faux.",
+    "Il est compliqué.",
+    "Il est long.",
+    "Il est original."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce raisonnement est faux et basé sur des informations incorrectes.</em>' - This reasoning is false and based on incorrect information. 'Faux' means false. The distractors test other descriptions: 'il est compliqué' (it is complicated), 'il est long' (it is long), and 'il est original' (it is original).",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": ["logic", "critical-thinking"],
+  "timeCreated": 1752006732
+}

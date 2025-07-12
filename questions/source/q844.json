@@ -1,0 +1,18 @@
+{
+    "id": 844,
+    "audioText": "Cette politique ne profite guère aux petites entreprises locales selon les derniers rapports.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cette politique ne profite guère aux petites entreprises locales selon les derniers rapports.",
+        "Cette politique ne profite pas aux petites entreprises locales selon les derniers rapports.",
+        "Cette politique ne profite guère aux grandes entreprises locales selon les derniers rapports.",
+        "Cette politique ne profite guère aux petites entreprises nationales selon les derniers rapports."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette politique ne profite guère aux petites entreprises locales selon les derniers rapports</em>' - This policy hardly benefits local small businesses according to the latest reports. 'Guère' means 'hardly/scarcely' and expresses minimal degree. The distractors test negation simplification (pas), size confusion (grandes), and scope confusion (nationales).",
+    "difficulty": "B2",
+    "source": "Economic policy",
+    "tags": ["politics", "business", "economics", "reports"],
+    "timeCreated": 1736106060
+}

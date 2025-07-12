@@ -1,0 +1,19 @@
+
+{
+    "id": 571,
+    "audioText": "À la suite de l'accident, la route a été fermée.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "À la suite de l'accident, la route a été fermée.",
+        "Avant l'accident, la route a été fermée.",
+        "Pendant l'accident, la route a été fermée.",
+        "Après l'accident, la route est restée ouverte."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is 'À la suite de l'accident, la route a été fermée.', which means 'Following the accident, the road was closed.'",
+    "difficulty": "B2",
+    "source": "Gemini-generated",
+    "tags": ["accidents", "transportation"],
+    "timeCreated": 1720134000
+}

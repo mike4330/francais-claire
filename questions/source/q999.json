@@ -1,0 +1,23 @@
+{
+    "id": 999,
+    "audioText": "Cette putain de tempête en mer transforme tout. Le truc important : tenir compte des verre brisés. La lumière disparaît quand les vagues frappent violemment.",
+    "question": "Fill in the blank: 'Le truc important : tenir _____ des verres brisés.'",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "compte",
+        "conte",
+        "comté",
+        "monte"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette putain de tempête en mer transforme tout. Le truc important : tenir compte des verres brisés. La lumière disparaît quand les vagues frappent violemment.</em>' - 'This damn storm at sea transforms everything. The important thing: to take into account the broken glass. Light disappears when waves strike violently.' The missing word is 'compte' in the expression 'tenir compte de' (to take into account).",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting",
+    "tags": [
+        "maritime-safety",
+        "storms",
+        "danger-awareness",
+        "emergency-situations"
+    ],
+    "timeCreated": 1720713600
+}

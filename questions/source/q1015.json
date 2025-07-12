@@ -1,0 +1,18 @@
+{
+    "id": 1015,
+    "audioText": "Ce verre était plein ce matin, maintenant il est complètement vide.",
+    "question": "What happened to the glass?",
+    "questionType": "comprehension",
+    "options": [
+        "It was full this morning, now it's completely empty",
+        "It was broken this morning, now it's completely fixed",
+        "It was dirty this morning, now it's completely clean",
+        "It was cold this morning, now it's completely warm"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce verre était plein ce matin, maintenant il est complètement vide.</em>' - This glass was full this morning, now it is completely empty. The adjectives 'plein' means full and 'vide' means empty, showing the contrast between the glass's previous and current state.",
+    "difficulty": "B1",
+    "source": "Strategic adjective targeting",
+    "tags": ["restaurant", "behavior", "beverages"],
+    "timeCreated": 1720714200
+}

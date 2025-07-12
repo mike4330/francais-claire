@@ -1,0 +1,18 @@
+{
+    "id": 1294,
+    "audioText": "Ils sont devenus officiellement responsables de cette nouvelle politique économique complexe.",
+    "question": "Ils sont ______ officiellement responsables de cette nouvelle politique économique complexe.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "devenus",
+        "devenu",
+        "devenue",
+        "devenues"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ils sont devenus officiellement responsables de cette nouvelle politique économique complexe</em>' - They have officially become responsible for this new complex economic policy. 'Devenus' is the masculine plural past participle of 'devenir' (to become), agreeing with 'ils'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: devenus + officiellement + économique",
+    "tags": ["politics", "responsibility", "economics"],
+    "timeCreated": 1736624700
+}

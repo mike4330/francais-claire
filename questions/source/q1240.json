@@ -1,0 +1,18 @@
+{
+    "id": 1240,
+    "audioText": "Ce homme riche possède une collection immense d'art contemporain et de livres rares.",
+    "question": "What does the rich man possess?",
+    "questionType": "comprehension",
+    "options": [
+        "An immense collection of contemporary art and rare books",
+        "A small collection of modern paintings",
+        "A large collection of antique furniture",
+        "An impressive collection of musical instruments"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce homme riche possède une collection immense d'art contemporain et de livres rares</em>' - This rich man possesses an immense collection of contemporary art and rare books. The adjectives 'riche' (rich) and 'immense' (immense/huge) describe wealth and scale.",
+    "difficulty": "B1",
+    "source": "Strategic adjective targeting: riche, immense",
+    "tags": ["wealth", "art", "collecting"],
+    "timeCreated": 1720964280
+}

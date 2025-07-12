@@ -1,0 +1,18 @@
+{
+    "id": 1258,
+    "audioText": "Le maître est entré dans la cour avec un sourire merveilleux.",
+    "question": "Le maître est ______ dans la cour avec un sourire merveilleux.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "entré",
+        "entrer",
+        "entre",
+        "entrez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le maître est entré dans la cour avec un sourire merveilleux</em>' - The master entered the courtyard with a wonderful smile. 'Entré' is the past participle of 'entrer' (to enter), used here in the passé composé with auxiliary verb 'être'.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: entré + maître + cour + merveilleux",
+    "tags": ["education", "school", "emotions"],
+    "timeCreated": 1736622300
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1367,
+    "audioText": "L'entreprise a investi beaucoup d'argent dans le développement de nouvelles technologies vertes.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "L'entreprise a investi beaucoup d'argent dans le développement de nouvelles technologies vertes",
+        "L'entreprise a investit beaucoup d'argent dans le développement de nouvelles technologies vertes",
+        "L'entreprise a investi beaucoup d'argent dans le développement de nouvelle technologies vertes",
+        "L'entreprise a investi beaucoup d'argent dans le développement de nouvelles technologie vertes"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>L'entreprise a investi beaucoup d'argent dans le développement de nouvelles technologies vertes</em>' - The company invested a lot of money in developing new green technologies. Note: 'investi' (past participle), 'nouvelles' (feminine plural agreeing with technologies), and 'technologies' (plural noun).",
+    "difficulty": "B2",
+    "source": "Listening version of Q1730",
+    "tags": ["business", "investment", "clean-energy"],
+    "parentQuestion": 1730,
+    "timeCreated": 1736626440
+}

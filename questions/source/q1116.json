@@ -1,0 +1,23 @@
+{
+  "id": 1116,
+  "audioText": "Elle verra les résultats de ses examens la semaine prochaine.",
+  "question": "When will she see her exam results?",
+  "questionType": "comprehension",
+  "options": [
+    "Next week",
+    "Tomorrow morning",
+    "This afternoon",
+    "In two weeks"
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Elle verra les résultats... la semaine prochaine' - She will see the results next week. 'Verra' is the future tense of 'voir' (to see).",
+  "difficulty": "B1",
+  "source": "Exam Results",
+  "tags": [
+    "education",
+    "exams",
+    "results",
+    "future-events"
+  ],
+  "timeCreated": 1719965500
+}

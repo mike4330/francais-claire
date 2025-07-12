@@ -1,0 +1,22 @@
+{
+  "id": 483,
+  "audioText": "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+  "parentQuestion": 482,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+    "Hier soir, j'ai dégusté une bavette d'aloyau avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+    "Hier soir, j'ai dégusté des brochettes de magret de canard avec une sauce spéciale, un plat vraiment savoureux.",
+    "Hier soir, j'ai dégusté un émincé de poulet à la moutarde parfumée, un plat vraiment savoureux."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.' - Last night, I enjoyed a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, a really tasty dish.",
+  "difficulty": "B2",
+  "source": "Dinner Menu - Listening",
+  "tags": [
+    "food",
+    "dinner",
+    "seafood"
+  ]
+}

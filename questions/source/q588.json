@@ -1,0 +1,18 @@
+{
+    "id": 588,
+    "audioText": "Ce beau paysage de montagne offre des panoramas spectaculaires qui attirent des milliers de touristes chaque année.",
+    "question": "Ce ______ paysage de montagne offre des panoramas spectaculaires qui attirent des milliers de touristes chaque année.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "beau",
+        "grand",
+        "nouveau",
+        "magnifique"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce beau paysage de montagne offre des panoramas spectaculaires qui attirent des milliers de touristes chaque année.</em>' - 'This beautiful mountain landscape offers spectacular panoramas that attract thousands of tourists each year.' The missing word is 'beau' (beautiful), a fundamental adjective meaning 'beautiful' or 'nice'.",
+    "difficulty": "B1",
+    "source": "Mountain tourism and landscape description",
+    "tags": ["tourism", "landscape", "mountains", "beauty"],
+    "timeCreated": 1735948800
+}

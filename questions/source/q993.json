@@ -1,0 +1,23 @@
+{
+    "id": 993,
+    "audioText": "Avant-hier, il cherchait là-dedans sans succès. Sitôt qu'il trouvera la solution, il pourra aller au-delà de ce problème difficile.",
+    "question": "Fill in the blank: 'Avant-hier, il cherchait _____ sans succès.'",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "là-dedans",
+        "là-dehors", 
+        "là-haut",
+        "là-bas"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Avant-hier, il cherchait là-dedans sans succès. Sitôt qu'il trouvera la solution, il pourra aller au-delà de ce problème difficile.</em>' - 'The day before yesterday, he was looking in there without success. As soon as he finds the solution, he will be able to go beyond this difficult problem.' The missing word is 'là-dedans' (in there), indicating where he was searching.",
+    "difficulty": "B1",
+    "source": "Strategic adverb targeting",
+    "tags": [
+        "problem-solving",
+        "search",
+        "persistence",
+        "time-reference"
+    ],
+    "timeCreated": 1720713600
+}

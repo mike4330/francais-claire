@@ -1,0 +1,18 @@
+{
+    "id": 678,
+    "audioText": "Mon chien sort toujours dans le jardin après ses repas pour se détendre.",
+    "question": "When does the dog go outside?",
+    "questionType": "comprehension",
+    "options": [
+        "After his meals to relax",
+        "Before his meals to exercise",
+        "During his meals to play",
+        "Instead of his meals to hunt"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon chien sort toujours dans le jardin après ses repas pour se détendre</em>' - My dog always goes out into the garden after his meals to relax. 'Sort' is the 3rd person singular present of 'sortir' (to go out), and 'après ses repas' means after his meals.",
+    "difficulty": "B1",
+    "source": "Pet routine",
+    "tags": ["animals", "pets", "routine", "garden", "daily-life"],
+    "timeCreated": 1736065300
+}

@@ -1,0 +1,18 @@
+{
+    "id": 270,
+    "audioText": "Il passa tout l'instant silencieusement au bout du parc.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Il passa tout l'instant silencieusement au bout du parc.",
+        "Il passe tout l'instant silencieusement au bout du parc.",
+        "Il passa tout l'instant rapidement au bout du parc.",
+        "Il passa tout l'instant silencieusement au bout du bois."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is '<em>Il passa tout l'instant silencieusement au bout du parc</em>' - He spent the whole moment silently at the end of the park. 'Passa' is the passé simple of 'passer', 'instant' means 'moment', 'silencieusement' means 'silently', and 'bout' means 'end'.",
+    "difficulty": "A2",
+    "source": "Park visit",
+    "tags": ["park", "rest", "nature"],
+    "timeCreated": 1720443960
+}

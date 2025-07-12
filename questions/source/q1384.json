@@ -1,0 +1,18 @@
+{
+    "id": 1384,
+    "audioText": "Cette approche incroyablement progressive changerait fréquemment la façon dont nous travaillons ensemble.",
+    "question": "Cette approche incroyablement progressive ______ fréquemment la façon dont nous travaillons ensemble.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "changerait",
+        "changera",
+        "change",
+        "changé"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette approche incroyablement progressive changerait fréquemment la façon dont nous travaillons ensemble</em>' - This incredibly progressive approach would frequently change the way we work together. 'Changerait' (conditional) expresses a hypothetical result. 'Incroyablement' means incredibly and 'fréquemment' means frequently.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: changerait + incroyablement + fréquemment",
+    "tags": ["workplace", "change", "methodology"],
+    "timeCreated": 1736629260
+}

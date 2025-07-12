@@ -1,0 +1,18 @@
+{
+    "id": 975,
+    "audioText": "Cette décision officielle crée un instant de silence émotionnel dans la salle où les employés regardent leurs supérieurs.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Cette décision officielle crée un instant de silence émotionnel dans la salle où les employés regardent leurs supérieurs.",
+        "Cette décision officieuse crée un instant de silence émotionnel dans la salle où les employés regardent leurs supérieurs.",
+        "Cette décision officielle crée un moment de silence émotionnel dans la salle où les employés regardent leurs supérieurs.",
+        "Cette décision officielle crée un instant de colère émotionnelle dans la salle où les employés regardent leurs supérieurs."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is '<em>Cette décision officielle crée un instant de silence émotionnel dans la salle où les employés regardent leurs supérieurs</em>' - This official decision creates an instant of emotional silence in the room where employees look at their supervisors. 'Officielle' means 'official', 'instant' means 'moment', and 'silence' means 'silence'.",
+    "difficulty": "B2",
+    "source": "Corporate announcement",
+    "tags": ["workplace", "emotion", "management"],
+    "timeCreated": 1720443840
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1298,
+    "audioText": "Je peux partager le numéro de téléphone avec vous immédiatement après cette présentation.",
+    "question": "Je peux partager le ______ de téléphone avec vous immédiatement après cette présentation.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "numéro",
+        "numéros",
+        "nombre",
+        "chiffre"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je peux partager le numéro de téléphone avec vous immédiatement après cette présentation</em>' - I can share the phone number with you immediately after this presentation. 'Numéro' is the correct word for phone number, masculine singular with the definite article 'le'.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: numéro + immédiatement + présentation",
+    "tags": ["communication", "technology", "sharing"],
+    "timeCreated": 1736625000
+}

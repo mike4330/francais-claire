@@ -1,0 +1,24 @@
+{
+  "id": 35,
+  "audioText": "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
+  "question": "According to the text, what exists because of the port inland?",
+  "questionType": "comprehension",
+  "options": [
+    "A maritime soul",
+    "A new commercial district",
+    "A tourist attraction",
+    "A military base"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'il y a une âme maritime' - there is a maritime soul. This poetic expression describes the spiritual connection to the sea that Caen maintains despite being inland, thanks to its port.",
+  "difficulty": "B2",
+  "source": "Caen Millennium News",
+  "tags": [
+    "culture",
+    "celebration",
+    "maritime",
+    "soul",
+    "millennium",
+    "poetry"
+  ]
+}

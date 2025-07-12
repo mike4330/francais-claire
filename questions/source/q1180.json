@@ -1,0 +1,19 @@
+{
+    "id": 1180,
+    "audioText": "Si tu me rends ce livre maintenant, je pourrai le prêter à ma sœur demain matin.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Si tu me rends ce livre maintenant, je pourrai le prêter à ma sœur demain matin.",
+        "Si tu me rends ce livre maintenant, je pourrais le prêter à ma sœur demain matin.",
+        "Si tu me rendes ce livre maintenant, je pourrai le prêter à ma sœur demain matin.",
+        "Si tu me rends ce livre maintenant, je pourrai le prêter à ma sœurs demain matin."
+    ],
+    "correct": 0,
+    "explanation": "The correct option is '<em>Si tu me rends ce livre maintenant, je pourrai le prêter à ma sœur demain matin</em>' - If you return this book to me now, I will be able to lend it to my sister tomorrow morning. This listening exercise tests 'rends' vs 'rendes', 'pourrai' vs 'pourrais', and 'sœur' vs 'sœurs'.",
+    "difficulty": "B1",
+    "source": "Family conversation",
+    "tags": ["family", "books", "sharing"],
+    "parentQuestion": 790,
+    "timeCreated": 1752111000
+}

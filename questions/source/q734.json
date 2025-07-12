@@ -1,0 +1,18 @@
+{
+    "id": 734,
+    "audioText": "Les habitants de cette banlieue vivent dans des conditions de plus en plus difficiles.",
+    "question": "What is happening to the suburban residents?",
+    "questionType": "comprehension",
+    "options": [
+        "They are living in increasingly difficult conditions",
+        "They are moving to more expensive neighborhoods",
+        "They are benefiting from new urban development",
+        "They are organizing community improvement projects"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les habitants de cette banlieue vivent dans des conditions de plus en plus difficiles</em>' - The residents of this suburb live in increasingly difficult conditions. 'Vivent' (from 'vivre') means they live, and describes their ongoing living situation.",
+    "difficulty": "B2",
+    "source": "Urban issues report",
+    "tags": ["society", "housing", "social-issues"],
+    "timeCreated": 1704413700
+}

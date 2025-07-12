@@ -1,0 +1,24 @@
+{
+  "id": 959,
+  "audioText": "Les entrepreneurs feront une présentation de leur projet innovant devant les investisseurs la semaine prochaine.",
+  "question": "Les entrepreneurs ______ une présentation de leur projet innovant devant les investisseurs la semaine prochaine.",
+  "questionType": "FIB-reading",
+  "options": [
+    "feront",
+    "font",
+    "faisaient",
+    "feraient"
+  ],
+  "correct": 0,
+  "explanation": "The future tense 'feront' (they will do/make) is used because the action will take place 'la semaine prochaine' (next week), indicating a future time.",
+  "difficulty": "B2",
+  "source": "Business presentation scheduling using future tense",
+  "tags": [
+    "business",
+    "presentations",
+    "entrepreneurs",
+    "future-time",
+    "professional"
+  ],
+  "timeCreated": 1735689600
+}

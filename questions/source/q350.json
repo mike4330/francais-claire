@@ -1,0 +1,18 @@
+{
+    "id": 350,
+    "audioText": "Tu manges souvent des fruits jaunes le matin ?",
+    "question": "Tu ______ souvent des fruits jaunes le matin ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "manges",
+        "mange",
+        "mangez",
+        "mangent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu manges souvent des fruits jaunes le matin ?</em>' - Do you often eat yellow fruits in the morning? 'Manges' is the second person singular present form of 'manger' (to eat), used with the informal 'tu' form.",
+    "difficulty": "A2",
+    "source": "Strategic targeting: manges + jaune",
+    "tags": ["food", "daily-routine", "health"],
+    "timeCreated": 1736622060
+}

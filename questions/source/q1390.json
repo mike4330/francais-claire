@@ -1,0 +1,18 @@
+{
+    "id": 1390,
+    "audioText": "Ce projet est complètement foutu, nous devons essentiellement recommencer depuis le début.",
+    "question": "What does this sentence indicate about the project status?",
+    "questionType": "comprehension",
+    "options": [
+        "The project is completely messed up and needs to be restarted",
+        "The project is completely finished and ready for delivery",
+        "The project is completely perfect and needs no changes",
+        "The project is completely delayed but can still be saved"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce projet est complètement foutu, nous devons essentiellement recommencer depuis le début</em>' - This project is completely messed up, we must essentially restart from the beginning. 'Foutu' (slang) means messed up/ruined, 'complètement' means completely, and 'essentiellement' means essentially.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: foutu + complètement + essentiellement",
+    "tags": ["project-management", "failure", "restart"],
+    "timeCreated": 1736629920
+}

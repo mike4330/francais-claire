@@ -1,0 +1,18 @@
+{
+    "id": 137,
+    "audioText": "Ce stade est plein de supporters enthousiastes ce soir.",
+    "question": "Ce stade est ______ de supporters enthousiastes ce soir.",
+    "questionType": "FIB-reading",
+    "options": [
+        "plein",
+        "vide",
+        "loin",
+        "proche"
+    ],
+    "correct": 0,
+    "explanation": "The correct word is 'plein' (full). The sentence means 'This stadium is full of enthusiastic supporters tonight.' 'Plein de' is a common expression meaning 'full of' or 'filled with.'",
+    "difficulty": "A1",
+    "source": "Sports Event",
+    "tags": ["sports", "stadium", "supporters", "events"],
+    "timeCreated": 1720052760
+}

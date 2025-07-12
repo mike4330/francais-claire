@@ -1,0 +1,22 @@
+{
+  "id": 1131,
+  "audioText": "Mon frère est venu me voir hier soir pour me parler de son nouveau travail.",
+  "question": "When did the speaker's brother come to see them?",
+  "questionType": "comprehension",
+  "options": [
+    "Yesterday evening",
+    "This morning",
+    "This afternoon",
+    "Next week"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'Mon frère est venu me voir hier soir' - My brother came to see me yesterday evening. 'Venu' is the past participle of 'venir' (to come), used here with the auxiliary verb 'être' to form the passé composé.",
+  "difficulty": "B1",
+  "source": "Family Visit",
+  "tags": [
+    "family",
+    "visit",
+    "daily-life"
+  ],
+  "timeCreated": 1720021320
+}

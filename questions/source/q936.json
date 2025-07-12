@@ -1,0 +1,23 @@
+{
+  "id": 936,
+  "audioText": "C'est la première fois que je visite cette région magnifique.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "C'est la première fois que je visite cette région magnifique.",
+    "C'est la premier fois que je visite cette région magnifique.",
+    "C'est la primière fois que je visite cette région magnifique.",
+    "C'est la premierre fois que je visite cette région magnifique."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'première' (first) - feminine form agreeing with 'fois' (time). In French, ordinal numbers must agree in gender and number with the noun they modify.",
+  "difficulty": "B1",
+  "source": "Travel experience and discovery",
+  "tags": [
+    "travel",
+    "experience",
+    "discovery",
+    "tourism"
+  ],
+  "timeCreated": 1704067200
+}

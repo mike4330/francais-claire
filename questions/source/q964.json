@@ -1,0 +1,24 @@
+{
+  "id": 964,
+  "audioText": "Sa voix tremblait d'émotion quand elle a annoncé les résultats du concours musical.",
+  "question": "Sa ______ tremblait d'émotion quand elle a annoncé les résultats du concours musical.",
+  "questionType": "FIB-reading",
+  "options": [
+    "voix",
+    "main",
+    "tête",
+    "jambe"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa voix tremblait d'émotion quand elle a annoncé les résultats du concours musical</em>' - Her voice was trembling with emotion when she announced the results of the musical competition. 'Voix' (voice) is the logical choice as voices tremble when expressing strong emotions.",
+  "difficulty": "B2",
+  "source": "Emotional announcement of musical competition results",
+  "tags": [
+    "music",
+    "emotions",
+    "competitions",
+    "announcements",
+    "performance"
+  ],
+  "timeCreated": 1735689600
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1194,
+    "audioText": "L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation ridicule.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation ridicule.",
+        "L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation difficile.",
+        "L'effet dangereux de ce milieu agit lentement sur la bouche du docteur immobile, créant une situation ridicule.",
+        "L'effet dangereux de ce milieu agit follement sur la bouche du docteur mobile, créant une situation ridicule."
+    ],
+    "correct": 0,
+    "explanation": "The correct text is 'L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation ridicule.' The distractors test adjective confusion (difficile vs ridicule), adverb confusion (lentement vs follement), and adjective opposition (mobile vs immobile).",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["medical", "danger", "environment", "chaos"],
+    "parentQuestion": 1134,
+    "timeCreated": 1752115920
+}

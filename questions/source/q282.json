@@ -1,0 +1,22 @@
+{
+    "id": 282,
+    "audioText": "L'instant de plaisir : regarder le feu ! Cette envie simple apporte la paix.",
+    "question": "Listening: What brings peace?",
+    "questionType": "listening",
+    "options": [
+        "Cette envie simple",
+        "Cette envie grande",
+        "Cette envie forte",
+        "Cette envie nouvelle"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'instant de plaisir : regarder le feu ! Cette envie simple apporte la paix.</em>' - 'The moment of pleasure: watching the fire! This simple desire brings peace.' The correct answer is 'cette envie simple' (this simple desire) which brings peace.",
+    "difficulty": "A2",
+    "source": "Strategic noun-tag intersection",
+    "tags": [
+        "rural-life",
+        "simplicity",
+        "peace"
+    ],
+    "timeCreated": 1720713600
+}

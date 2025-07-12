@@ -1,0 +1,18 @@
+{
+    "id": 874,
+    "audioText": "Cette rue commerçante sera entièrement rénovée l'année prochaine pour améliorer l'expérience des visiteurs.",
+    "question": "When will the commercial street be renovated?",
+    "questionType": "comprehension",
+    "options": [
+        "Next year",
+        "This month",
+        "Last year",
+        "Next month"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette rue commerçante sera entièrement rénovée l'année prochaine</em>' - This commercial street will be completely renovated next year. 'Rue' means street.",
+    "difficulty": "B1",
+    "source": "Urban development and commercial district renovation",
+    "tags": ["urban-planning", "business", "renovation"],
+    "timeCreated": 1751786520
+}

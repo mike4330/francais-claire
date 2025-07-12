@@ -1,0 +1,18 @@
+{
+    "id": 238,
+    "audioText": "Vous tuez les insectes dans votre jardin avec ce produit ?",
+    "question": "What do you do to the insects in your garden with this product?",
+    "questionType": "comprehension",
+    "options": [
+        "Kill them",
+        "Catch them",
+        "Feed them",
+        "Scare them away"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous tuez les insectes dans votre jardin avec ce produit ?</em>' - Do you kill the insects in your garden with this product? 'Tuez' is the second person plural form of 'tuer' (to kill), used with 'vous'.",
+    "difficulty": "A2",
+    "source": "Garden pest control",
+    "tags": ["gardening", "insects", "pest-control"],
+    "timeCreated": 1704415440
+}

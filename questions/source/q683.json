@@ -1,0 +1,24 @@
+{
+  "id": 683,
+  "audioText": "Quand je visitais Tokyo l'année dernière, je trouvais les jardins japonais absolument magnifiques et très apaisants.",
+  "question": "Quand je visitais Tokyo l'année dernière, je ______ les jardins japonais absolument magnifiques et très apaisants.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "trouvais",
+    "trouve",
+    "trouverai",
+    "ai trouvé"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Quand je visitais Tokyo l'année dernière, je trouvais les jardins japonais absolument magnifiques et très apaisants.</em>' - 'When I was visiting Tokyo last year, I found the Japanese gardens absolutely magnificent and very soothing.' The missing word is 'trouvais', the first person singular imperfect tense of 'trouver' (to find), expressing a repeated or ongoing past sentiment.",
+  "difficulty": "B1",
+  "source": "Tokyo Travel Experience",
+  "tags": [
+    "travel",
+    "travel-experiences",
+    "tokyo",
+    "japan",
+    "gardens",
+    "cultural-experience"
+  ]
+}

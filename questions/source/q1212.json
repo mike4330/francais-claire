@@ -1,0 +1,18 @@
+{
+    "id": 1212,
+    "audioText": "Elle a une tache sur la peau du nez qui inquiète son âme sensible.",
+    "question": "What worries her sensitive soul?",
+    "questionType": "comprehension",
+    "options": [
+        "A spot on the skin of her nose",
+        "A pain in her back from working",
+        "A problem with her vision",
+        "A change in her hair color"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle a une tache sur la peau du nez qui inquiète son âme sensible</em>' - She has a spot on the skin of her nose that worries her sensitive soul. This targets the nouns 'peau', 'nez', and 'âme' in a health concern context.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: peau, nez, âme",
+    "tags": ["health", "appearance", "worry"],
+    "timeCreated": 1720618340
+}

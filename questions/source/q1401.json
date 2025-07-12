@@ -1,0 +1,18 @@
+{
+    "id": 1401,
+    "audioText": "Les voisins parlent méchamment de cette famille qui vit salement dans cette belle maison du quartier.",
+    "question": "What does this sentence reveal about the neighbors' attitude?",
+    "questionType": "comprehension",
+    "options": [
+        "They speak maliciously about a family that lives in a dirty way",
+        "They speak kindly about a family that lives cleanly",
+        "They speak neutrally about a family that lives normally",
+        "They speak positively about a family that lives elegantly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les voisins parlent méchamment de cette famille qui vit salement dans cette belle maison du quartier</em>' - The neighbors speak maliciously about this family that lives in a dirty way in this beautiful house in the neighborhood. 'Méchamment' means maliciously/nastily, and 'salement' means in a dirty/messy way.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: méchamment + salement",
+    "tags": ["neighbors", "gossip", "cleanliness"],
+    "timeCreated": 1736631060
+}

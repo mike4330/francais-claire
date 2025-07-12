@@ -1,0 +1,18 @@
+{
+    "id": 477,
+    "audioText": "C'est justement ce que je voulais vous dire lors de notre prochaine réunion.",
+    "question": "What does the speaker mean by using 'justement'?",
+    "questionType": "comprehension",
+    "options": [
+        "That's exactly what they wanted to discuss at the next meeting",
+        "That's approximately what they wanted to discuss at the next meeting",
+        "That's probably what they wanted to discuss at the next meeting",
+        "That's unfortunately what they wanted to discuss at the next meeting"
+    ],
+    "correct": 0,
+    "explanation": "'Justement' means 'exactly', 'precisely', or 'as it happens'. It emphasizes that this topic is precisely what they had planned to bring up in the upcoming meeting - perfect timing or coincidence.",
+    "difficulty": "B2",
+    "source": "Meeting preparation",
+    "tags": ["workplace", "meetings", "precision"],
+    "timeCreated": 1720077400
+}

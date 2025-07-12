@@ -1,0 +1,19 @@
+
+{
+  "id": 1077,
+  "audioText": "Il a une voix forte et claire.",
+  "question": "What is his voice like?",
+  "questionType": "comprehension",
+  "options": [
+    "Forte et claire.",
+    "Faible et hésitante.",
+    "Douce et calme.",
+    "Grave et lente."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a une voix forte et claire.</em>' - He has a strong and clear voice. 'Forte' is the feminine form of 'fort' (strong). The distractors test other voice qualities: 'faible et hésitante' (weak and hesitant), 'douce et calme' (soft and calm), and 'grave et lente' (deep and slow).",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["communication", "description"],
+  "timeCreated": 1752006732
+}

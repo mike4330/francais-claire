@@ -1,0 +1,23 @@
+{
+    "id": 996,
+    "audioText": "Dans la vie rurale, l'opinion sociale change : l'instant de guerre contre la modernité crée l'envie de préserver. Le feu du foyer apporte le plaisir simple, et le regard des anciens exprime cette sagesse corporelle.",
+    "question": "What does the fire of the hearth bring in rural life?",
+    "questionType": "comprehension",
+    "options": [
+        "Complex technological solutions for modern problems",
+        "Simple pleasure and traditional warmth",
+        "Competitive advantages over urban lifestyle",
+        "Sophisticated entertainment and social media"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Dans la vie rurale, l'opinion sociale change : l'instant de guerre contre la modernité crée l'envie de préserver. Le feu du foyer apporte le plaisir simple, et le regard des anciens exprime cette sagesse corporelle.</em>' - 'In rural life, social opinion changes: the moment of war against modernity creates the desire to preserve. The fire of the hearth brings simple pleasure, and the gaze of the elders expresses this bodily wisdom.' The text clearly states that the fire brings 'le plaisir simple' (simple pleasure).",
+    "difficulty": "B2",
+    "source": "Strategic noun-tag intersection",
+    "tags": [
+        "rural-life",
+        "social-opinion",
+        "tradition",
+        "body-language"
+    ],
+    "timeCreated": 1720713600
+}

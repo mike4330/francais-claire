@@ -1,0 +1,19 @@
+{
+    "id": 1193,
+    "audioText": "Sa confiance en elle-même s'est renforcée grâce aux encouragements de ses collègues durant ce projet difficile.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Sa confiance en elle-même s'est renforcée grâce aux encouragements de ses collègues durant ce projet difficile.",
+        "Sa confiance en elle-même s'est renforcé grâce aux encouragements de ses collègues durant ce projet difficile.",
+        "Sa confiance en elle-même s'est renforcée grâce aux encouragements de ces collègues durant ce projet difficile.",
+        "Sa confiance en elle-même s'est renforcée grâce aux encouragements de ses collègues pendant ce projet difficile."
+    ],
+    "correct": 0,
+    "explanation": "The correct text is 'Sa confiance en elle-même s'est renforcée grâce aux encouragements de ses collègues durant ce projet difficile.' The distractors test past participle agreement (renforcé vs renforcée), possessive pronoun confusion (ces vs ses), and preposition choice (pendant vs durant).",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage + workplace psychology context",
+    "tags": ["workplace", "emotions", "teamwork"],
+    "parentQuestion": 1159,
+    "timeCreated": 1752115860
+}

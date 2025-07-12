@@ -1,0 +1,23 @@
+{
+  "id": 1181,
+  "audioText": "Je doute qu'elle veuille accepter cette proposition de travail dans une autre ville.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Je doute qu'elle veuille accepter cette proposition de travail dans une autre ville.",
+    "Je doute qu'elle veut accepter cette proposition de travail dans une autre ville.",
+    "Je doute qu'elle veuilles accepter cette proposition de travail dans une autre ville.",
+    "Je doute qu'elle veuille accepter cette proposition de travail dans une autres ville."
+  ],
+  "correct": 0,
+  "explanation": "The correct option is '<em>Je doute qu'elle veuille accepter cette proposition de travail dans une autre ville</em>' - I doubt that she wants to accept this job offer in another city. This listening exercise tests the subjunctive 'veuille' vs indicative 'veut', subjunctive agreement 'veuille' vs 'veuilles', and 'autre' vs 'autres'.",
+  "difficulty": "B2",
+  "source": "Career Discussion",
+  "tags": [
+    "work",
+    "career",
+    "doubt"
+  ],
+  "parentQuestion": 1308,
+  "timeCreated": 1752111060
+}

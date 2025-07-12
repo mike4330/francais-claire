@@ -1,0 +1,18 @@
+{
+    "id": 1137,
+    "audioText": "Le docteur riche et énorme pense que vous sortirez de la pièce sombre avec des cheveux gris, nécessairement précipitamment mais solidement.",
+    "question": "Vous ______ de la pièce sombre avec des cheveux gris, nécessairement précipitamment mais solidement.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "sortirez",
+        "sortez",
+        "sortiez",
+        "sortiriez"
+    ],
+    "correct": 0,
+    "explanation": "The correct form is 'sortirez' (2nd person plural future of 'sortir'). The future tense expresses what will happen: 'You will exit the dark room with gray hair, necessarily hurriedly but solidly.' The complete sentence is '<em>Le docteur riche et énorme pense que vous sortirez de la pièce sombre avec des cheveux gris, nécessairement précipitamment mais solidement.</em>' - The rich and enormous doctor thinks that you will exit the dark room with gray hair, necessarily hurriedly but solidly.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["medical", "prediction", "movement", "physical-description"],
+    "timeCreated": 1720825320
+}

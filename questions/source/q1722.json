@@ -1,0 +1,23 @@
+{
+  "id": 1722,
+  "audioText": "En attendant que la machine à laver finisse son cycle, elle planifie ses courses alimentaires pour économiser de l'argent.",
+  "question": "What does she do while waiting for the washing machine to finish?",
+  "questionType": "comprehension",
+  "options": [
+    "Plans her grocery shopping to save money.",
+    "Organizes her clothes in the closet.",
+    "Prepares dinner for the whole family.",
+    "Cleans other rooms in the house."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'En attendant que la machine à laver finisse son cycle, elle planifie ses courses alimentaires pour économiser de l'argent' - While waiting for the washing machine to finish its cycle, she plans her grocery shopping to save money. 'Attendant' is the present participle of 'attendre' (to wait), used here in the expression 'en attendant' (while waiting).",
+  "difficulty": "C1",
+  "source": "Household multitasking and budget planning",
+  "tags": [
+    "laundry",
+    "household-budgeting",
+    "grocery-planning",
+    "multitasking"
+  ],
+  "timeCreated": 1735953000
+}

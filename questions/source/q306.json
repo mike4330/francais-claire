@@ -1,0 +1,18 @@
+{
+    "id": 306,
+    "audioText": "Ce garçon comprend tout pendant la journée d'école.",
+    "question": "What does the boy do during the school day?",
+    "questionType": "comprehension",
+    "options": [
+        "He understands everything during the school day",
+        "He sleeps through most of the school day",
+        "He plays outside during the school day",
+        "He argues with teachers during the school day"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce garçon comprend tout pendant la journée d'école.</em>' - This boy understands everything during the school day. The noun 'garçon' means boy, and 'journée' means day/daytime, specifically referring to the duration of the school day.",
+    "difficulty": "A2",
+    "source": "School context",
+    "tags": ["education", "children", "understanding"],
+    "timeCreated": 1720447200
+}

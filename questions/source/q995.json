@@ -1,0 +1,23 @@
+{
+    "id": 995,
+    "audioText": "Les outils professionnels modernes révèlent quoi de vrai : le premier travailleur utilise de beaux équipements. Les vieux artisans avec leurs gros outils traditionnels rendent les pauvres apprentis heureux.",
+    "question": "Fill in the blank: 'Les vieux artisans avec leurs _____ outils traditionnels.'",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "gros",
+        "gras",
+        "gris",
+        "grès"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les outils professionnels modernes révèlent quoi de vrai : le premier travailleur utilise de beaux équipements. Les vieux artisans avec leurs gros outils traditionnels rendent les pauvres apprentis heureux.</em>' - 'Modern professional tools reveal what is true: the first worker uses beautiful equipment. Old artisans with their big traditional tools make poor apprentices happy.' The missing word is 'gros' (big), describing the traditional tools.",
+    "difficulty": "B1",
+    "source": "Strategic adjective-tag intersection",
+    "tags": [
+        "professional-tools",
+        "tradition",
+        "apprenticeship",
+        "craftsmanship"
+    ],
+    "timeCreated": 1720713600
+}

@@ -1,0 +1,18 @@
+{
+    "id": 338,
+    "audioText": "Il a le cœur brisé.",
+    "question": "What happened to him?",
+    "questionType": "comprehension",
+    "options": [
+        "His heart is broken",
+        "His arm is broken",
+        "His body is tired",
+        "His head hurts"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a le cœur brisé</em>' - He has a broken heart. The expression 'avoir le cœur brisé' means to be heartbroken or emotionally devastated.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting: cœur",
+    "tags": ["emotions", "relationships"],
+    "timeCreated": 1720616580
+}

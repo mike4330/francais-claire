@@ -1,0 +1,18 @@
+{
+    "id": 1035,
+    "audioText": "Il prépare soudainement un chemin différent pour éviter les problèmes de circulation.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Il prépare soudainement un chemin différent pour éviter les problèmes de circulation.",
+        "Il prépare rapidement un chemin différent pour éviter les problèmes de circulation.",
+        "Il prépare soudainement un chemin alternatif pour éviter les problèmes de circulation.",
+        "Il prépare soudainement un chemin différent pour éviter les problèmes de transport."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Il prépare soudainement un chemin différent pour éviter les problèmes de circulation.</em>' - 'He suddenly prepares a different path to avoid traffic problems.' The noun 'chemin' means path/way, 'soudainement' means suddenly, and 'différent' means different.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting",
+    "tags": ["transportation", "problem-solving", "travel"],
+    "timeCreated": 1720715800
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1053,
+    "audioText": "Nous resterons ici jusqu'à ce que la situation politique se stabilise complètement.",
+    "question": "Nous ______ ici jusqu'à ce que la situation politique se stabilise complètement.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "resterons",
+        "restons",
+        "resterions",
+        "restions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous resterons ici jusqu'à ce que la situation politique se stabilise complètement.</em>' - 'We will stay here until the political situation stabilizes completely.' The missing word is 'resterons' (we will stay), the future tense first person plural of 'rester'.",
+    "difficulty": "B2",
+    "source": "Political stability and residence decisions",
+    "tags": ["politics", "stability", "residence", "future-plans"],
+    "timeCreated": 1736349360
+}

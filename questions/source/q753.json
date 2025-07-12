@@ -1,0 +1,18 @@
+{
+    "id": 753,
+    "audioText": "Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été.",
+    "question": "What did the children do too much of during summer vacation?",
+    "questionType": "comprehension",
+    "options": [
+        "Spent time in front of screens",
+        "Played outside in the garden",
+        "Read books in the library",
+        "Visited friends and family"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été</em>' - The children spent too much time in front of screens during summer vacation. 'Passés' here appears in the compound past tense 'ont passé', with 'passés' being the past participle of 'passer' (to spend time).",
+    "difficulty": "B1",
+    "source": "Summer activities",
+    "tags": ["screen-time", "children", "summer"],
+    "timeCreated": 1704415980
+}

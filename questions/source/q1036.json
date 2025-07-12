@@ -1,0 +1,18 @@
+{
+    "id": 1036,
+    "audioText": "Es-tu prêt pour cette importante présentation devant le conseil d'administration ?",
+    "question": "Es-tu ______ pour cette importante présentation devant le conseil d'administration ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "prêt",
+        "près",
+        "parti",
+        "prévu"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Es-tu prêt pour cette importante présentation devant le conseil d'administration ?</em>' - 'Are you ready for this important presentation in front of the board of directors?' The missing word is 'prêt' (ready), which means prepared or ready for something.",
+    "difficulty": "B1",
+    "source": "Business presentations and professional readiness",
+    "tags": ["business", "presentations", "readiness", "workplace"],
+    "timeCreated": 1736348340
+}

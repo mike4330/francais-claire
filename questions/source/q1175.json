@@ -1,0 +1,18 @@
+{
+    "id": 1175,
+    "audioText": "Le maître de ce restaurant se sent singulièrement responsable de cette faute grave dans le service.",
+    "question": "How does the restaurant owner feel responsible for the serious mistake in service?",
+    "questionType": "comprehension",
+    "options": [
+        "Singularly responsible",
+        "Completely responsible",
+        "Partially responsible", 
+        "Barely responsible"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le maître de ce restaurant se sent singulièrement responsable de cette faute grave dans le service</em>' - The restaurant owner feels singularly responsible for this serious mistake in service. 'Maître' means owner/master, 'singulièrement' means singularly or remarkably, and 'faute' means mistake or fault.",
+    "difficulty": "B2",
+    "source": "Strategic multi-gap synergy",
+    "tags": ["restaurant", "responsibility", "service"],
+    "timeCreated": 1752096400
+}

@@ -1,0 +1,18 @@
+{
+    "id": 487,
+    "audioText": "Elle est très contente de son nouveau travail.",
+    "question": "How does she feel about her new job?",
+    "questionType": "comprehension",
+    "options": [
+        "She is very happy with her new job",
+        "She is disappointed with her new job",
+        "She is nervous about her new job",
+        "She is confused about her new job"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Elle est très contente de son nouveau travail' - She is very happy/pleased with her new job. 'Contente' means 'happy', 'pleased', or 'satisfied' (feminine form).",
+    "difficulty": "B1",
+    "source": "Workplace satisfaction",
+    "tags": ["workplace", "emotions", "satisfaction"],
+    "timeCreated": 1720077400
+}

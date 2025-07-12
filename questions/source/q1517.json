@@ -1,0 +1,19 @@
+{
+  "id": 1517,
+  "audioText": "L'endroit était autrefois un marché vivant, plein de couleurs et de sons, mais il est maintenant abandonné.",
+  "question": "What was the place like before?",
+  "questionType": "comprehension",
+  "options": [
+    "Vivant",
+    "Calme",
+    "Vide",
+    "Triste"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'endroit était autrefois un marché vivant, plein de couleurs et de sons, mais il est maintenant abandonné.</em>' - The place was once a living/vibrant market, full of colors and sounds, but it is now abandoned. 'Vivant' means living or vibrant, contrasting with 'abandonné' (abandoned) to show the change from past to present.",
+  "difficulty": "C1",
+  "source": "Gemini CLI",
+  "tags": ["history", "urban-development", "nostalgia"],
+  "timeCreated": 1752003765
+}
+

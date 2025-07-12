@@ -1,0 +1,18 @@
+{
+    "id": 1045,
+    "audioText": "Ce tissu doux convient parfaitement pour confectionner des vêtements de bébé.",
+    "question": "Ce tissu ______ convient parfaitement pour confectionner des vêtements de bébé.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "doux",
+        "fin",
+        "léger",
+        "propre"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce tissu doux convient parfaitement pour confectionner des vêtements de bébé.</em>' - 'This soft fabric is perfect for making baby clothes.' The missing word is 'doux' (soft), describing a gentle texture suitable for sensitive skin.",
+    "difficulty": "A2",
+    "source": "Baby clothing and fabric selection",
+    "tags": ["baby", "clothing", "fabric", "texture"],
+    "timeCreated": 1736348880
+}

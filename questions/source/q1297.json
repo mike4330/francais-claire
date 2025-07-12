@@ -1,0 +1,18 @@
+{
+    "id": 1297,
+    "audioText": "Cette faute professionnelle va certainement créer des problèmes administratifs complexes.",
+    "question": "Cette ______ professionnelle va certainement créer des problèmes administratifs complexes.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "faute",
+        "fautes",
+        "faut",
+        "fautif"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette faute professionnelle va certainement créer des problèmes administratifs complexes</em>' - This professional mistake will certainly create complex administrative problems. 'Faute' (mistake/fault) is the correct noun here, feminine singular agreeing with 'cette'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: faute + certainement + administratifs",
+    "tags": ["workplace", "mistakes", "consequences"],
+    "timeCreated": 1736624940
+}

@@ -1,0 +1,22 @@
+{
+    "id": 279,
+    "audioText": "Aucun doute : cette façon simple aide notre ami.",
+    "question": "Listening comprehension: What helps our friend?",
+    "questionType": "listening",
+    "options": [
+        "Cette façon simple",
+        "Cette façon complexe", 
+        "Cette façon rapide",
+        "Cette façon difficile"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Aucun doute : cette façon simple aide notre ami.</em>' - 'No doubt: this simple way helps our friend.' The correct answer is 'cette façon simple' (this simple way).",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": [
+        "friendship",
+        "help",
+        "certainty"
+    ],
+    "timeCreated": 1720713600
+}

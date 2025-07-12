@@ -1,0 +1,19 @@
+{
+    "id": 1366,
+    "audioText": "Chaque jour qui passe nous rapproche un peu plus de nos objectifs professionnels et personnels.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Chaque jour qui passe nous rapproche un peu plus de nos objectifs professionnels et personnels",
+        "Chaque jour qui passe nous rapproche un peu plus de nos objectif professionnels et personnels",
+        "Chaque jour qui passe nous rapproche un peu plus de nos objectifs professionnel et personnels",
+        "Chaque jour qui passe nous rapproche un peu plus de nos objectifs professionnels et personnel"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>Chaque jour qui passe nous rapproche un peu plus de nos objectifs professionnels et personnels</em>' - Each day that passes brings us a little closer to our professional and personal goals. Note the plural agreements: 'objectifs' (plural noun), 'professionnels' (plural adjective), and 'personnels' (plural adjective).",
+    "difficulty": "B1",
+    "source": "Listening version of Q577",
+    "tags": ["goals", "personal-development", "time", "progress"],
+    "parentQuestion": 577,
+    "timeCreated": 1736626260
+}

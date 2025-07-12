@@ -1,0 +1,18 @@
+{
+    "id": 324,
+    "audioText": "Le ciel bleu est magnifique aujourd'hui.",
+    "question": "What is beautiful today?",
+    "questionType": "comprehension",
+    "options": [
+        "The blue sky",
+        "The white clouds",
+        "The green grass",
+        "The red flowers"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le ciel bleu est magnifique aujourd'hui</em>' - The blue sky is beautiful today. 'Bleu' means blue, and 'magnifique' means beautiful or magnificent.",
+    "difficulty": "A2",
+    "source": "Strategic adjective coverage reinforcement",
+    "tags": ["weather", "colors", "nature"],
+    "timeCreated": 1752094101
+}

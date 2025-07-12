@@ -1,0 +1,18 @@
+{
+    "id": 1249,
+    "audioText": "Tu demanderas sûrement à ton oncle de t'expliquer cette horrible situation financière qui nous préoccupe tous.",
+    "question": "What will the person probably ask their uncle to do?",
+    "questionType": "comprehension",
+    "options": [
+        "Explain the horrible financial situation that concerns everyone",
+        "Provide money to solve the family problems",
+        "Move away from the family disputes",
+        "Take responsibility for the business decisions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu demanderas sûrement à ton oncle de t'expliquer cette horrible situation financière</em>' - You will surely ask your uncle to explain this horrible financial situation to you. The verb 'demanderas' (future tense of 'demander') indicates what the person will ask in the future.",
+    "difficulty": "B2",
+    "source": "Strategic question targeting missing conjugate 'demanderas' with synergistic vocabulary",
+    "tags": ["family", "financial-problems", "explanation"],
+    "timeCreated": 1720656360
+}

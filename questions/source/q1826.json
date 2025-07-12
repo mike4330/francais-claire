@@ -1,0 +1,23 @@
+{
+  "id": 1826,
+  "audioText": "Elle a parlé sagement durant cette réunion délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Elle a parlé sagement durant cette réunion délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.",
+    "Elle a parlé savamment durant cette réunion délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.",
+    "Elle a parlé sagement durant cette relation délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.",
+    "Elle a parlé sagement durant cette réunion délicate, évitant soigneusement tout contact avec ses collègues expérimentés."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle a parlé sagement durant cette réunion délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.</em>' - 'She spoke wisely during this delicate meeting, carefully avoiding any conflict with her experienced colleagues.' This tests the adverb 'sagement' (wisely) in a workplace context.",
+  "difficulty": "C1",
+  "source": "Professional meeting dynamics and wise communication",
+  "tags": [
+    "workplace",
+    "communication",
+    "diplomacy",
+    "wisdom"
+  ],
+  "timeCreated": 1736347200
+}

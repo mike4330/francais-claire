@@ -1,0 +1,19 @@
+{
+    "id": 1365,
+    "audioText": "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours respectées.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers",
+        "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercé, selon eux, par certains barbiers",
+        "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurence déloyale exercée, selon eux, par certains barbiers",
+        "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyal exercée, selon eux, par certains barbiers"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers</em>' - French hairdressers are protesting today in Paris to denounce unfair competition exercised, according to them, by certain barbers. Note: 'exercée' (feminine past participle agreeing with concurrence), 'concurrence' (double r), and 'déloyale' (feminine form).",
+    "difficulty": "B2",
+    "source": "Listening version of Q942",
+    "tags": ["business", "protest", "professional-services", "competition", "regulations", "trade-disputes"],
+    "parentQuestion": 942,
+    "timeCreated": 1736626200
+}

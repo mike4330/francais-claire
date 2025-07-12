@@ -1,0 +1,24 @@
+{
+  "id": 1671,
+  "audioText": "Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires et sa vision stratégique à long terme.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires",
+    "Cette entreprise innovante est capable de transformer complètement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires",
+    "Cette entreprise innovante est capable de transformer radicalement l'industrie informatique grâce à ses algorithmes d'intelligence artificielle révolutionnaires",
+    "Cette entreprise novatrice est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires"
+  ],
+  "correct": 0,
+  "parentQuestion": 1753,
+  "explanation": "The correct text begins with '<em>Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires</em>' - This innovative company is capable of radically transforming the tech industry thanks to its revolutionary AI algorithms. Key words: 'radicalement' (radically, not 'complètement' - completely), 'technologique' (technological, not 'informatique' - computer science), and 'innovante' (innovative, not 'novatrice' - innovative but less common).",
+  "difficulty": "C1",
+  "source": "Listening version of Q1424",
+  "tags": [
+    "technology",
+    "artificial-intelligence",
+    "innovation",
+    "business-strategy"
+  ],
+  "timeCreated": 1720963560
+}

@@ -1,0 +1,18 @@
+{
+    "id": 342,
+    "audioText": "Cette famille pauvre vit dans une petite maison.",
+    "question": "Where does the poor family live?",
+    "questionType": "comprehension",
+    "options": [
+        "In a small house",
+        "In a big apartment",
+        "In a beautiful castle",
+        "In a modern building"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette famille pauvre vit dans une petite maison</em>' - This poor family lives in a small house. This targets the adjective 'pauvre' in a basic family housing context.",
+    "difficulty": "A2",
+    "source": "Strategic adjective targeting: pauvre",
+    "tags": ["family", "housing", "economic-status"],
+    "timeCreated": 1720962000
+}

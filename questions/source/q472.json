@@ -1,0 +1,18 @@
+{
+    "id": 472,
+    "audioText": "Les prix ont légèrement augmenté ce mois-ci, mais rien de dramatique.",
+    "question": "Les prix ont ______ augmenté ce mois-ci, mais rien de dramatique.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "légèrement",
+        "énormément",
+        "brutalement",
+        "rapidement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les prix ont légèrement augmenté ce mois-ci, mais rien de dramatique</em>' - Prices have slightly increased this month, but nothing dramatic. 'Légèrement' means slightly or lightly, indicating a modest increase that contrasts with 'rien de dramatique' (nothing dramatic).",
+    "difficulty": "B1",
+    "source": "Economic update",
+    "tags": ["economics", "prices", "change"],
+    "timeCreated": 1720077200
+}

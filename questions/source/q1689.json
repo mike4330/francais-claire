@@ -1,0 +1,23 @@
+{
+  "id": 1689,
+  "audioText": "Alban Gervaise a été tué de plusieurs coups de couteaux devant une école à Marseille, en mai 2022. Ce mercredi 25 juin, son meurtrier vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison.",
+  "question": "What happened to the person who killed Alban Gervaise?",
+  "questionType": "comprehension",
+  "options": [
+    "He was declared criminally irresponsible and will not serve prison time",
+    "He was sentenced to life imprisonment",
+    "He was released immediately after the trial",
+    "He was transferred to another jurisdiction"
+  ],
+  "correct": 0,
+  "explanation": "The murderer 'vient d'être déclaré pénalement irresponsable et n'effectuera donc pas de peine de prison' - was just declared criminally irresponsible and will therefore not serve a prison sentence. This refers to cases where the perpetrator is found mentally unfit to be held criminally responsible.",
+  "difficulty": "C1",
+  "source": "French Legal News",
+  "tags": [
+    "crime",
+    "legal-system",
+    "criminal-responsibility",
+    "mental-health",
+    "justice"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1369,
+    "audioText": "Je te dirai la vérité quand tu seras prêt à l'entendre.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Je te dirai la vérité quand tu seras prêt à l'entendre",
+        "Je te dirais la vérité quand tu seras prêt à l'entendre",
+        "Je te dirai la vérité quand tu sera prêt à l'entendre",
+        "Je te dirai la vérité quand tu seras prête à l'entendre"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>Je te dirai la vérité quand tu seras prêt à l'entendre</em>' - I will tell you the truth when you are ready to hear it. Note: 'dirai' (future tense), 'seras' (future tense of être), and 'prêt' (masculine form - assuming masculine addressee).",
+    "difficulty": "B1",
+    "source": "Listening version of Q1113",
+    "tags": ["truth", "timing", "readiness", "personal-relationships"],
+    "parentQuestion": 1113,
+    "timeCreated": 1736626620
+}

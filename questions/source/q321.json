@@ -1,0 +1,18 @@
+{
+    "id": 321,
+    "audioText": "Elle a une petite blessure sur la lèvre supérieure.",
+    "question": "Where does she have a small injury?",
+    "questionType": "comprehension",
+    "options": [
+        "On her upper lip",
+        "On her lower chin",
+        "On her right cheek",
+        "On her left eyebrow"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle a une petite blessure sur la lèvre supérieure</em>' - She has a small injury on her upper lip. 'Lèvre' means lip, and 'supérieure' means upper.",
+    "difficulty": "A2",
+    "source": "Strategic noun coverage + body parts vocabulary",
+    "tags": ["health", "body", "physical-description"],
+    "timeCreated": 1752093000
+}

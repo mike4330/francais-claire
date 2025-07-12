@@ -1,0 +1,18 @@
+{
+    "id": 1257,
+    "audioText": "Vous tirez des conclusions hâtives sur cette espèce particulière de capitaine.",
+    "question": "Vous ______ des conclusions hâtives sur cette espèce particulière de capitaine.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "tirez",
+        "tires",
+        "tire",
+        "tirent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous tirez des conclusions hâtives sur cette espèce particulière de capitaine</em>' - You are drawing hasty conclusions about this particular type of captain. 'Tirez' is the second person plural present form of 'tirer' (to draw/pull), used here in the expression 'tirer des conclusions' (to draw conclusions).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: tirez + espèce + capitaine",
+    "tags": ["workplace", "judgment", "analysis"],
+    "timeCreated": 1736622240
+}

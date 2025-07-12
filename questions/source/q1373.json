@@ -1,0 +1,18 @@
+{
+    "id": 1373,
+    "audioText": "Hier, au boulot, elle mangeait précédemment dans l'intérieur calme de la cour.",
+    "question": "Hier, au boulot, elle ______ précédemment dans l'intérieur calme de la cour.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "mangeait",
+        "mangerai",
+        "mangera",
+        "mange"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Hier, au boulot, elle mangeait précédemment dans l'intérieur calme de la cour</em>' - Yesterday, at work, she was eating previously in the calm interior of the courtyard. 'Mangeait' (imperfect) is correct for past ongoing action with 'hier'. 'Boulot' means work, 'intérieur' means interior, and 'cour' means courtyard.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: boulot + intérieur + cour + mangeait + précédemment",
+    "tags": ["workplace", "eating", "courtyard"],
+    "timeCreated": 1736627940
+}

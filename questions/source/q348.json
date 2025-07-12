@@ -1,0 +1,22 @@
+{
+  "id": 348,
+  "audioText": "Le prix est de cinquante euros, service compris, pour ce menu gastronomique exceptionnel.",
+  "question": "Le prix est de cinquante euros, service ______, pour ce menu gastronomique exceptionnel.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "compris",
+    "exclu",
+    "supplémentaire",
+    "optionnel"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'compris' meaning 'included'. The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
+  "difficulty": "A2",
+  "source": "Fine dining",
+  "tags": [
+    "restaurant",
+    "pricing",
+    "gastronomy"
+  ],
+  "timeCreated": 1720077400
+}

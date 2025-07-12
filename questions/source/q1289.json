@@ -1,0 +1,18 @@
+{
+    "id": 1289,
+    "audioText": "Elle travaillait sérieusement dans ce bureau ouvert avec une concentration remarquable.",
+    "question": "Elle ______ sérieusement dans ce bureau ouvert avec une concentration remarquable.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "travaillait",
+        "travaille",
+        "travaillera",
+        "travaillez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle travaillait sérieusement dans ce bureau ouvert avec une concentration remarquable</em>' - She was working seriously in this open office with remarkable concentration. 'Travaillait' is the third person singular imperfect form of 'travailler' (to work).",
+    "difficulty": "B1",
+    "source": "Strategic targeting: travaillait + sérieusement + ouvert",
+    "tags": ["workplace", "concentration", "office"],
+    "timeCreated": 1736624400
+}

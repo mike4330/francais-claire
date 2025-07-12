@@ -1,0 +1,24 @@
+{
+  "id": 1762,
+  "audioText": "La spécialiste en neurosciences cognitives a été appelée à témoigner devant la commission parlementaire sur les implications éthiques de l'intelligence artificielle dans le domaine médical.",
+  "question": "La spécialiste en neurosciences cognitives a été ______ à témoigner devant la commission parlementaire sur les implications éthiques de l'intelligence artificielle dans le domaine médical.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "appelée",
+    "appelé",
+    "appelle",
+    "appelant"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'appelée' (feminine past participle of 'appeler'). The passive construction 'a été appelée' means 'was called/summoned'. The past participle agrees with the feminine subject 'la spécialiste', hence 'appelée' (feminine singular).",
+  "difficulty": "C1",
+  "source": "Parliamentary Commission - AI Ethics",
+  "tags": [
+    "neuroscience",
+    "artificial-intelligence",
+    "medical-ethics",
+    "parliamentary-proceedings",
+    "expert-testimony"
+  ],
+  "timeCreated": 1720027580
+}

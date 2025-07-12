@@ -1,0 +1,18 @@
+{
+    "id": 1217,
+    "audioText": "Il est tombé sur le cul quand elle a tenu des propos déplacés sur son honneur.",
+    "question": "What happened when she made inappropriate remarks about his honor?",
+    "questionType": "comprehension",
+    "options": [
+        "He was completely stunned",
+        "He became very angry",
+        "He started to cry",
+        "He walked away silently"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il est tombé sur le cul quand elle a tenu des propos déplacés sur son honneur</em>' - He was completely stunned when she made inappropriate remarks about his honor. The expression 'tomber sur le cul' is vulgar slang meaning to be shocked or stunned. This targets the nouns 'cul', 'propos', and 'honneur'.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: cul, propos, honneur",
+    "tags": ["shock", "inappropriate-behavior", "vulgar-expressions"],
+    "timeCreated": 1720618880
+}

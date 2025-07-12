@@ -1,0 +1,22 @@
+{
+  "id": 41,
+  "audioText": "Il a neigé au Chili dans le désert. C'est très rare.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Il a neigé au Chili dans le désert. C'est très rare.",
+    "Il a plu au Chili dans le désert. C'est très rare.",
+    "Il a neigé au Pérou dans le désert. C'est très rare.",
+    "Il a neigé au Chili dans la montagne. C'est très rare."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a neigé au Chili dans le désert. C'est très rare.</em>' - It snowed in Chile in the desert. It's very rare. This describes an unusual weather event in an unexpected location.",
+  "difficulty": "A2",
+  "source": "Weather news report",
+  "tags": [
+    "weather",
+    "news",
+    "geography"
+  ],
+  "timeCreated": 1736184000
+}

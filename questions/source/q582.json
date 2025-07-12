@@ -1,0 +1,18 @@
+{
+    "id": 582,
+    "audioText": "Dans certaines cultures, on invoque le nom de Dieu avant de commencer un repas important.",
+    "question": "What do some cultures do before an important meal?",
+    "questionType": "comprehension",
+    "options": [
+        "They invoke God's name.",
+        "They prepare special decorations.",
+        "They invite extended family members.",
+        "They cook traditional dishes only."
+    ],
+    "correct": 0,
+    "explanation": "The speaker states 'Dans certaines cultures, on invoque le nom de Dieu avant de commencer un repas important' - In certain cultures, one invokes God's name before beginning an important meal. This refers to religious blessing or prayer practices before meals.",
+    "difficulty": "B2",
+    "source": "Cultural and religious dining practices",
+    "tags": ["culture", "religion", "food", "traditions"],
+    "timeCreated": 1735948200
+}

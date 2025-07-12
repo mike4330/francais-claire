@@ -1,0 +1,24 @@
+{
+    "id": 220,
+    "audioText": "Ma chambre est au deuxième étage.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Ma chambre est au deuxième étage.",
+        "Ma chambre est au premier étage.",
+        "Ma chambre est au troisième étage.",
+        "Ma chambre est au rez-de-chaussée."
+    ],
+    "correct": 0,
+    "explanation": "The speaker said '<em>Ma chambre est au deuxième étage</em>' - My room is on the second floor. The key distinction is 'deuxième étage' (second floor) versus other floor levels.",
+    "difficulty": "A2",
+    "source": "Home Description",
+    "tags": [
+        "home",
+        "rooms",
+        "location",
+        "house-layout"
+    ],
+    "parentQuestion": 153,
+    "timeCreated": 1736063100
+}

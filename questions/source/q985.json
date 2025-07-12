@@ -1,0 +1,18 @@
+{
+    "id": 985,
+    "audioText": "Le garçon rentrait fortement bouleversé chez lui.",
+    "question": "How did the boy return home?",
+    "questionType": "comprehension",
+    "options": [
+        "Strongly upset",
+        "Completely happy",
+        "Slightly confused",
+        "Moderately tired"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le garçon rentrait fortement bouleversé chez lui</em>' - The boy was returning home strongly upset. 'Rentrait' is the imperfect form of 'rentrer' (to return), and 'fortement' means 'strongly/heavily'.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate + high-frequency adverb/noun combination",
+    "tags": ["family", "emotions", "daily-life"],
+    "timeCreated": 1735992000
+}

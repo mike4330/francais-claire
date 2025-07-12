@@ -1,0 +1,21 @@
+{
+  "id": 1773,
+  "audioText": "C'est une bête erreur de ne pas vérifier les faits.",
+  "question": "What kind of mistake is it to not verify facts?",
+  "questionType": "comprehension",
+  "options": [
+    "A foolish mistake",
+    "A clever mistake",
+    "A small mistake",
+    "A difficult mistake"
+  ],
+  "correct": 0,
+  "explanation": "In this context, 'bête' means 'foolish' or 'silly'. The sentence implies that not verifying facts is a foolish error.",
+  "difficulty": "C1",
+  "source": "Gemini-generated",
+  "tags": [
+    "journalism",
+    "critical-thinking"
+  ],
+  "timeCreated": 1720134000
+}

@@ -1,0 +1,18 @@
+{
+    "id": 302,
+    "audioText": "Je rentrais à la maison le prochain demi-jour avec cette veste bleue.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Je rentrais à la maison le prochain demi-jour avec cette veste bleue.",
+        "Je rentrais à la maison le prochain demi-jour avec cette veste noire.",
+        "Je rentrerai à la maison le prochain demi-jour avec cette veste bleue.",
+        "Je rentrais à la maison le prochain jour avec cette veste bleue."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Je rentrais à la maison le prochain demi-jour avec cette veste bleue.</em>' - 'I was coming home the next half-day with this blue jacket.' The verb 'rentrais' is the imperfect first person singular of 'rentrer' (to come home).",
+    "difficulty": "A2",
+    "source": "Strategic verb conjugate targeting",
+    "tags": ["home", "clothing", "timing"],
+    "timeCreated": 1720715700
+}

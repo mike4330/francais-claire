@@ -1,0 +1,22 @@
+{
+  "id": 1331,
+  "audioText": "Bon, disons que nous commençons la réunion à quatorze heures précises.",
+  "question": "What time will the meeting start?",
+  "questionType": "comprehension",
+  "options": [
+    "At exactly 2 PM",
+    "At exactly 3 PM",
+    "Around 2 PM",
+    "Before 2 PM"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'disons que nous commençons la réunion à quatorze heures précises' - let's say we start the meeting at exactly 2 PM (14:00). 'Disons' is the 1st person plural present form of 'dire', used here to mean 'let's say'.",
+  "difficulty": "B1",
+  "source": "Business Meeting",
+  "tags": [
+    "work",
+    "meeting",
+    "time"
+  ],
+  "timeCreated": 1720023000
+}

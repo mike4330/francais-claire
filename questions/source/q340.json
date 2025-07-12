@@ -1,0 +1,18 @@
+{
+    "id": 340,
+    "audioText": "Elle a de la peau douce sur le nez.",
+    "question": "What does she have?",
+    "questionType": "comprehension",
+    "options": [
+        "Soft skin on her nose",
+        "A small cut on her finger",
+        "Dry lips from the cold",
+        "Red cheeks from running"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle a de la peau douce sur le nez</em>' - She has soft skin on her nose. This describes a physical characteristic combining the nouns 'peau' and 'nez'.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting: peau, nez",
+    "tags": ["appearance", "physical-features", "skin"],
+    "timeCreated": 1720618100
+}

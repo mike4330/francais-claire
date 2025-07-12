@@ -1,0 +1,23 @@
+{
+  "id": 1113,
+  "audioText": "Je te dirai la vérité quand tu seras prêt à l'entendre.",
+  "question": "When will the speaker tell the truth?",
+  "questionType": "comprehension",
+  "options": [
+    "When the listener is ready to hear it",
+    "When they find the right moment tomorrow",
+    "When they have more evidence to support it",
+    "When other people are not around to listen"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'Je te dirai la vérité quand tu seras prêt à l'entendre' - I will tell you the truth when you are ready to hear it. 'Dirai' is the future tense of 'dire'.",
+  "difficulty": "B1",
+  "source": "Personal Revelation",
+  "tags": [
+    "truth",
+    "timing",
+    "readiness",
+    "personal-relationships"
+  ],
+  "timeCreated": 1719964900
+}

@@ -1,0 +1,23 @@
+{
+  "id": 250,
+  "audioText": "Elle utilise un spray anti-moustiques quand elle fait du camping.",
+  "question": "What does she use when camping?",
+  "questionType": "comprehension",
+  "options": [
+    "Insect repellent spray.",
+    "A camping lantern.",
+    "Her sleeping bag.",
+    "Some sunscreen."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle utilise un spray anti-moustiques quand elle fait du camping.</em>' - She uses insect repellent spray when she goes camping. This describes a regular camping practice to avoid mosquito bites.",
+  "difficulty": "A2",
+  "source": "Camping annoyances and insect problems",
+  "tags": [
+    "camping",
+    "minor-annoyances",
+    "insects",
+    "outdoor-activities"
+  ],
+  "timeCreated": 1735953120
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1246,
+    "audioText": "Après avoir tiré sur la corde stupide, elle a payé le prix de son imprudence avec une blessure horrible à la jambe.",
+    "question": "What happened after she pulled the rope?",
+    "questionType": "comprehension",
+    "options": [
+        "She paid the price with a horrible leg injury",
+        "She received praise for her courage",
+        "She discovered a hidden treasure",
+        "She helped rescue someone in danger"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>elle a payé le prix de son imprudence avec une blessure horrible à la jambe</em>' - she paid the price for her recklessness with a horrible leg injury. Both 'tiré' (pulled) and 'payé' (paid) are used here - first literally for pulling the rope, then metaphorically for suffering consequences.",
+    "difficulty": "B2",
+    "source": "Strategic question targeting multiple missing conjugates 'tiré' and 'payé' with synergistic vocabulary",
+    "tags": ["accidents", "consequences", "physical-injury"],
+    "timeCreated": 1720656180
+}

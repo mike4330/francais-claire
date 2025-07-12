@@ -1,0 +1,18 @@
+{
+    "id": 1394,
+    "audioText": "Le témoin a faussement affirmé qu'il pouvait distinctement identifier le suspect dans cette foule.",
+    "question": "Le témoin a ______ affirmé qu'il pouvait distinctement identifier le suspect dans cette foule.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "faussement",
+        "fausse",
+        "fausses",
+        "faux"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le témoin a faussement affirmé qu'il pouvait distinctement identifier le suspect dans cette foule</em>' - The witness falsely claimed that he could distinctly identify the suspect in this crowd. 'Faussement' means falsely, and 'distinctement' means distinctly/clearly.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: faussement + distinctement",
+    "tags": ["justice", "testimony", "identification"],
+    "timeCreated": 1736630400
+}

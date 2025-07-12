@@ -1,0 +1,19 @@
+{
+    "id": 1368,
+    "audioText": "Entre-temps, le potier noir travaille étroitement avec le céramiste pour créer successivement des œuvres d'art uniques.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Entre-temps, le potier noir travaille étroitement avec le céramiste pour créer successivement des œuvres d'art uniques",
+        "Entre temps, le potier noir travaille étroitement avec le céramiste pour créer successivement des œuvres d'art uniques",
+        "Entre-temps, le potier noir travaille étroitement avec le céramiste pour créé successivement des œuvres d'art uniques",
+        "Entre-temps, le potier noir travaille étroitement avec le céramiste pour créer sucessivement des œuvres d'art uniques"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>Entre-temps, le potier noir travaille étroitement avec le céramiste pour créer successivement des œuvres d'art uniques</em>' - Meanwhile, the black potter works closely with the ceramicist to successively create unique artworks. Note: 'Entre-temps' (hyphenated), 'créer' (infinitive), and 'successivement' (double s).",
+    "difficulty": "B1",
+    "source": "Listening version of Q1017",
+    "tags": ["pottery", "collaboration", "art"],
+    "parentQuestion": 1017,
+    "timeCreated": 1736626560
+}

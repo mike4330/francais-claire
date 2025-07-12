@@ -1,0 +1,18 @@
+{
+    "id": 1156,
+    "audioText": "Le capitaine de l'équipe nationale a pris des décisions stratégiques importantes pendant le match décisif hier soir.",
+    "question": "What did the national team captain do during the decisive match last night?",
+    "questionType": "comprehension",
+    "options": [
+        "Made important strategic decisions",
+        "Scored the winning goal alone",
+        "Argued with the referee constantly",
+        "Substituted all the players quickly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le capitaine de l'équipe nationale a pris des décisions stratégiques importantes pendant le match décisif hier soir</em>' - The national team captain made important strategic decisions during the decisive match last night. 'Capitaine' means captain, and 'a pris des décisions' means 'made decisions'.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage + sports context",
+    "tags": ["sports", "leadership", "competition"],
+    "timeCreated": 1752093000
+}

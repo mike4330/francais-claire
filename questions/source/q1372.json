@@ -1,0 +1,18 @@
+{
+    "id": 1372,
+    "audioText": "Tu payez joyeusement le capitaine pour ce bonheur instinctivement ressenti.",
+    "question": "Which sentence correctly uses the present tense verb form?",
+    "questionType": "comprehension",
+    "options": [
+        "Tu paies joyeusement le capitaine pour ce bonheur instinctivement ressenti",
+        "Tu payez joyeusement le capitaine pour ce bonheur instinctivement ressenti",
+        "Tu payées joyeusement le capitaine pour ce bonheur instinctivement ressenti",
+        "Tu payés joyeusement le capitaine pour ce bonheur instinctivement ressenti"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu paies joyeusement le capitaine pour ce bonheur instinctivement ressenti</em>' - You joyfully pay the captain for this happiness instinctively felt. 'Tu paies' is the correct present tense form of 'payer' (to pay). 'Capitaine' means captain and 'bonheur' means happiness.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: capitaine + bonheur + payez → paies + joyeusement + instinctivement",
+    "tags": ["payment", "emotions", "navigation"],
+    "timeCreated": 1736627880
+}

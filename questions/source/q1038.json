@@ -1,0 +1,18 @@
+{
+    "id": 1038,
+    "audioText": "Mon collègue est malade depuis trois jours et ne peut pas venir travailler.",
+    "question": "Mon collègue est ______ depuis trois jours et ne peut pas venir travailler.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "malade",
+        "fatigué",
+        "occupé",
+        "absent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon collègue est malade depuis trois jours et ne peut pas venir travailler.</em>' - 'My colleague has been sick for three days and cannot come to work.' The missing word is 'malade' (sick/ill), describing a health condition.",
+    "difficulty": "A2",
+    "source": "Workplace health and sick leave",
+    "tags": ["workplace", "health", "illness", "colleagues"],
+    "timeCreated": 1736348460
+}

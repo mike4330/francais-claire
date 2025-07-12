@@ -1,0 +1,21 @@
+{
+  "id": 43,
+  "audioText": "Je donnerais un pourboire au serveur s'il était gentil.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Je donnerais un pourboire au serveur s'il était gentil.",
+    "Je donnerais un pourboire au serveur s'il était poli.",
+    "Je donnerai un pourboire au serveur s'il était gentil.",
+    "Je donnais un pourboire au serveur s'il était gentil."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Je donnerais un pourboire au serveur s'il était gentil.' - I would give a tip to the waiter if he were nice. Note the conditional 'donnerais' and the subjunctive 'était' in this hypothetical situation.",
+  "difficulty": "A2",
+  "source": "Restaurant Experience",
+  "tags": [
+    "restaurant",
+    "service",
+    "politeness"
+  ]
+}

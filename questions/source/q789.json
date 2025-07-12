@@ -1,0 +1,24 @@
+{
+  "id": 789,
+  "audioText": "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine. Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport.",
+  "question": "What advice is given to travelers?",
+  "questionType": "comprehension",
+  "options": [
+    "To buy their train tickets in advance to avoid problems",
+    "To postpone their trips or use other means of transportation",
+    "To arrive at the station early because trains will be delayed",
+    "To contact SNCF customer service for more information"
+  ],
+  "correct": 1,
+  "explanation": "The text states 'Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport' - travelers are invited to postpone their trips or use other means of transportation due to the three-day SNCF strike.",
+  "difficulty": "B1",
+  "source": "French Transportation News",
+  "tags": [
+    "strikes",
+    "transportation",
+    "SNCF",
+    "travel",
+    "labor",
+    "social-movements"
+  ]
+}

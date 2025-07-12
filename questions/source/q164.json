@@ -1,0 +1,22 @@
+{
+  "id": 164,
+  "audioText": "Le train s'est arrêté à la gare.",
+  "question": "Le train s'est ______ à la gare.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "arrêté",
+    "arrêter",
+    "arrête",
+    "arrêtant"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'arrêté' (past participle of 'arrêter'). The construction 's'est arrêté' uses the passé composé with être: 'Le train s'est arrêté à la gare' means 'The train stopped at the station.'",
+  "difficulty": "A1",
+  "source": "Transportation - Train Travel",
+  "tags": [
+    "transportation",
+    "train-travel",
+    "stations"
+  ],
+  "timeCreated": 1720027700
+}

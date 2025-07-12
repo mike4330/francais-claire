@@ -1,0 +1,18 @@
+{
+    "id": 1253,
+    "audioText": "Quand il rentra du bureau, il demanda à sa femme si elle avait entendu les nouvelles horribles concernant leur oncle.",
+    "question": "What did he ask his wife when he returned from the office?",
+    "questionType": "comprehension",
+    "options": [
+        "If she had heard the horrible news about their uncle",
+        "Whether she had prepared dinner for the family",
+        "How her day at work had been going",
+        "When their uncle would visit them next"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>il demanda à sa femme si elle avait entendu les nouvelles horribles concernant leur oncle</em>' - he asked his wife if she had heard the horrible news about their uncle. This combines 'rentra' (returned), 'demanda' (asked), and references hearing, plus includes vocabulary gaps like 'horribles' and 'oncle'.",
+    "difficulty": "B2",
+    "source": "Strategic question targeting multiple missing conjugates 'rentra' with synergistic vocabulary",
+    "tags": ["family", "news", "concern"],
+    "timeCreated": 1720656600
+}

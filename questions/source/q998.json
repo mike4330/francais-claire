@@ -1,0 +1,23 @@
+{
+    "id": 998,
+    "audioText": "Ce truc bizarre dans la mer attire l'attention : la lumière traverse le verre coloré. Ce compte-rendu maritime révèle une putain de découverte scientifique concernant la propagation optique sous-marine.",
+    "question": "What does the light do according to the maritime report?",
+    "questionType": "comprehension",
+    "options": [
+        "It reflects off the surface creating rainbow patterns",
+        "It passes through colored glass underwater",
+        "It gets absorbed by marine vegetation completely",
+        "It bounces between metal ship hulls repeatedly"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Ce truc bizarre dans la mer attire l'attention : la lumière traverse le verre coloré. Ce compte-rendu maritime révèle une putain de découverte scientifique concernant la propagation optique sous-marine.</em>' - 'This strange thing in the sea attracts attention: light passes through colored glass. This maritime report reveals a damn scientific discovery about underwater optical propagation.' The text clearly states that light 'traverse le verre coloré' (passes through colored glass).",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting",
+    "tags": [
+        "maritime-science",
+        "optics",
+        "underwater-research",
+        "scientific-discovery"
+    ],
+    "timeCreated": 1720713600
+}

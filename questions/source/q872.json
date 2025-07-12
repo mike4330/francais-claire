@@ -1,0 +1,18 @@
+{
+    "id": 872,
+    "audioText": "Cette fois-ci, nous devons absolument réussir ce projet important avant la deadline fixée par notre client.",
+    "question": "When must they succeed with the project?",
+    "questionType": "comprehension",
+    "options": [
+        "This time",
+        "Next time",
+        "Last time",
+        "Every time"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette fois-ci, nous devons absolument réussir</em>' - This time, we absolutely must succeed. 'Fois' means time/occasion, and 'cette fois-ci' emphasizes 'this time' specifically.",
+    "difficulty": "B1",
+    "source": "Project management and workplace deadlines",
+    "tags": ["workplace", "project-management", "deadlines"],
+    "timeCreated": 1751785200
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1293,
+    "audioText": "Je tuerai définitivement cette mauvaise habitude qui me pose tant de problèmes personnels.",
+    "question": "Je ______ définitivement cette mauvaise habitude qui me pose tant de problèmes personnels.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "tuerai",
+        "tue",
+        "tuais",
+        "tuerais"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je tuerai définitivement cette mauvaise habitude qui me pose tant de problèmes personnels</em>' - I will definitely kill this bad habit that causes me so many personal problems. 'Tuerai' is the first person singular future form of 'tuer' (to kill), used metaphorically here.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: tuerai + définitivement + habitude",
+    "tags": ["personal-development", "habits", "change"],
+    "timeCreated": 1736624640
+}

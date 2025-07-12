@@ -1,0 +1,18 @@
+{
+    "id": 299,
+    "audioText": "Cette sorte de général désolé cherche des opportunités de soutien.",
+    "question": "What kind of sorry general is looking for support opportunities?",
+    "questionType": "comprehension",
+    "options": [
+        "This sort",
+        "A new",
+        "An old",
+        "The best"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette sorte de général désolé cherche des opportunités de soutien.</em>' - 'This sort of sorry general is looking for support opportunities.' The nouns 'sorte' means sort/kind and 'général' means general, and the adjective 'désolé' means sorry.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": ["military", "support", "opportunities"],
+    "timeCreated": 1720715700
+}

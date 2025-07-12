@@ -1,0 +1,19 @@
+{
+    "id": 1183,
+    "audioText": "La fin du film était très émouvante, beaucoup de spectateurs pleuraient dans la salle.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "La fin du film était très émouvante, beaucoup de spectateurs pleuraient dans la salle.",
+        "La fin du film était très émouvant, beaucoup de spectateurs pleuraient dans la salle.",
+        "La fin du film était très émouvante, beaucoup de spectateurs pleurait dans la salle.",
+        "La fin du film était très émouvante, beaucoup de spectateurs pleuraient dans la salles."
+    ],
+    "correct": 0,
+    "explanation": "The correct option is '<em>La fin du film était très émouvante, beaucoup de spectateurs pleuraient dans la salle</em>' - The end of the movie was very moving, many viewers were crying in the theater. This listening exercise tests adjective agreement 'émouvante' (feminine) vs 'émouvant' (masculine), verb agreement 'pleuraient' (plural) vs 'pleurait' (singular), and 'salle' vs 'salles'.",
+    "difficulty": "B1",
+    "source": "Cinema Experience",
+    "tags": ["entertainment", "emotions", "cinema", "reactions"],
+    "parentQuestion": 1102,
+    "timeCreated": 1752111180
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1263,
+    "audioText": "Ces gens se foutent complètement de notre sac et de nos gestes personnels.",
+    "question": "Ces gens se ______ complètement de notre sac et de nos gestes personnels.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "foutent",
+        "fout",
+        "fous",
+        "foutons"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces gens se foutent complètement de notre sac et de nos gestes personnels</em>' - These people completely don't care about our bag and our personal gestures. 'Foutent' is the third person plural present form of 'foutre', used here in the expression 'se foutre de' (to not care about/to mock).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: foutent + sac + gestes",
+    "tags": ["social-behavior", "indifference", "gestures"],
+    "timeCreated": 1736622600
+}

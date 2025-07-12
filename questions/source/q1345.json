@@ -1,0 +1,23 @@
+{
+  "id": 1345,
+  "audioText": "Mon fils étudie l'informatique à l'université et il veut devenir programmeur.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Mon fils étudie l'informatique à l'université et il veut devenir programmeur.",
+    "Mon fils étudie l'informatique à l'université et il veut devenir professeur.",
+    "Mon file étudie l'informatique à l'université et il veut devenir programmeur.",
+    "Mon fils étudie l'informatique à l'école et il veut devenir programmeur."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon fils étudie l'informatique à l'université et il veut devenir programmeur.</em>' - My son studies computer science at university and he wants to become a programmer. The correct version uses 'fils' (son), 'université' (university), and 'programmeur' (programmer).",
+  "difficulty": "B1",
+  "source": "Family - Education",
+  "tags": [
+    "family",
+    "education",
+    "career",
+    "technology"
+  ],
+  "timeCreated": 1720024980
+}

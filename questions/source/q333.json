@@ -1,0 +1,18 @@
+{
+    "id": 333,
+    "audioText": "Son retour à la maison était très émouvant pour toute la famille.",
+    "question": "What was very moving for the whole family?",
+    "questionType": "comprehension",
+    "options": [
+        "His return home",
+        "His departure from home",
+        "His new job",
+        "His birthday party"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son retour à la maison était très émouvant pour toute la famille</em>' - His return home was very moving for the whole family. 'Retour' means return, and 'émouvant' means moving or touching.",
+    "difficulty": "A2",
+    "source": "Strategic noun threshold reinforcement",
+    "tags": ["family", "emotions", "homecoming"],
+    "timeCreated": 1752095400
+}

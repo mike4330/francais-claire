@@ -1,0 +1,18 @@
+{
+    "id": 636,
+    "audioText": "J'arriverai à la salle de sport vers 18h pour mon cours de yoga.",
+    "question": "J'______ à la salle de sport vers 18h pour mon cours de yoga.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arriverai",
+        "irai",
+        "viendrai",
+        "passerai"
+    ],
+    "correct": 0,
+    "explanation": "The missing word is 'arriverai'. The complete sentence is 'J'arriverai à la salle de sport vers 18h pour mon cours de yoga' - I will arrive at the gym around 6 PM for my yoga class. 'Arriverai' is the future form of 'arriver' (to arrive), first person singular.",
+    "difficulty": "A2",
+    "source": "Fitness and wellness activities",
+    "tags": ["fitness", "yoga", "gym", "wellness"],
+    "timeCreated": 1735951980
+}

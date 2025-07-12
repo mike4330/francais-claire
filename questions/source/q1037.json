@@ -1,0 +1,18 @@
+{
+    "id": 1037,
+    "audioText": "Ce restaurant est trop cher pour notre budget étudiant limité.",
+    "question": "Ce restaurant est trop ______ pour notre budget étudiant limité.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "cher",
+        "loin",
+        "grand",
+        "difficile"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce restaurant est trop cher pour notre budget étudiant limité.</em>' - 'This restaurant is too expensive for our limited student budget.' The missing word is 'cher' (expensive), used to describe high prices.",
+    "difficulty": "A2",
+    "source": "Student life and budget constraints",
+    "tags": ["students", "budget", "restaurant", "cost"],
+    "timeCreated": 1736348400
+}

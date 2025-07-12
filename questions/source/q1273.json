@@ -1,0 +1,18 @@
+{
+    "id": 1273,
+    "audioText": "Cette situation devient pire quand nous ignorons vaguement notre propre responsabilité.",
+    "question": "Cette situation devient ______ quand nous ignorons vaguement notre propre responsabilité.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "pire",
+        "pires",
+        "mauvaise",
+        "mal"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette situation devient pire quand nous ignorons vaguement notre propre responsabilité</em>' - This situation becomes worse when we vaguely ignore our own responsibility. 'Pire' is the comparative form meaning 'worse', invariable in form regardless of gender or number.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: pire + vaguement + responsabilité",
+    "tags": ["responsibility", "consequences", "self-assessment"],
+    "timeCreated": 1736623320
+}

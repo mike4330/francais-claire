@@ -1,0 +1,18 @@
+{
+    "id": 274,
+    "audioText": "Le lit prêt pour dormir.",
+    "question": "Le ______ prêt pour dormir.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "lit",
+        "chat",
+        "mur",
+        "sac"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le lit prêt pour dormir</em>' - The bed ready for sleeping. 'Lit' means bed and 'prêt' means ready/prepared. The context clearly indicates a bed that is prepared for sleeping.",
+    "difficulty": "A1",
+    "source": "Strategic vocabulary targeting for 'lit' and 'prêt'",
+    "tags": ["daily-life", "home", "bedroom"],
+    "timeCreated": 1751853190
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1161,
+    "audioText": "Dans l'obscurité totale, elle avançait à tâtons en touchant la peau rugueuse du mur pour éviter les obstacles.",
+    "question": "How was she moving in the total darkness?",
+    "questionType": "comprehension",
+    "options": [
+        "She was groping forward by touching the rough wall",
+        "She was walking quickly with a flashlight",
+        "She was crawling carefully on the ground",
+        "She was running blindly without any guidance"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans l'obscurité totale, elle avançait à tâtons en touchant la peau rugueuse du mur pour éviter les obstacles</em>' - In total darkness, she was groping forward by touching the rough skin of the wall to avoid obstacles. 'À tâtons' means groping or feeling one's way, and 'peau' here refers to the surface texture of the wall.",
+    "difficulty": "B2",
+    "source": "Strategic lemma synergy: adverb + high-frequency noun combination",
+    "tags": ["darkness", "movement", "physical-sensation"],
+    "timeCreated": 1752093584
+}

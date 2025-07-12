@@ -1,0 +1,19 @@
+{
+    "id": 1178,
+    "audioText": "L'environnement militaire est très différent de la vie civile normale selon les témoignages.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "L'environnement militaire est très différent de la vie civile normale selon les témoignages.",
+        "L'environnement militaire est très différent de la vie civile normale selon les témoins.",
+        "L'environnement militaire est très différent de la vie civile normal selon les témoignages.",
+        "L'environnement militaire est très différent de la vie civile normale selon des témoignages."
+    ],
+    "correct": 0,
+    "explanation": "The correct option is '<em>L'environnement militaire est très différent de la vie civile normale selon les témoignages</em>' - The military environment is very different from normal civilian life according to testimonies. This listening exercise tests the distinction between 'témoignages' (testimonies) and 'témoins' (witnesses).",
+    "difficulty": "B1",
+    "source": "Strategic adjective coverage reinforcement",
+    "tags": ["military", "comparison", "society"],
+    "parentQuestion": 1169,
+    "timeCreated": 1752110460
+}

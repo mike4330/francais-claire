@@ -1,0 +1,18 @@
+{
+    "id": 1055,
+    "audioText": "Ces documents restaient toujours classés dans ce tiroir secret du bureau directorial.",
+    "question": "Ces documents ______ toujours classés dans ce tiroir secret du bureau directorial.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "restaient",
+        "restent",
+        "resteraient",
+        "resteront"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces documents restaient toujours classés dans ce tiroir secret du bureau directorial.</em>' - 'These documents always remained filed in this secret drawer of the executive office.' The missing word is 'restaient' (remained), the imperfect tense third person plural of 'rester'.",
+    "difficulty": "B2",
+    "source": "Office organization and document security",
+    "tags": ["office", "documents", "security", "organization"],
+    "timeCreated": 1736349480
+}

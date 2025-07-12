@@ -1,0 +1,22 @@
+{
+  "id": 16,
+  "audioText": "Nous sortons ensemble ce soir car c'est important pour notre amitié.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous sortons ensemble ce soir car c'est important pour notre amitié.",
+    "Nous restons ensemble ce soir car c'est important pour notre amitié.",
+    "Nous sortons ensemble demain car c'est important pour notre amitié.",
+    "Nous sortons ensemble ce soir car c'est important pour notre famille."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous sortons ensemble ce soir car c'est important pour notre amitié</em>' - We're going out together tonight because it's important for our friendship. 'Sortons' is the first person plural form of 'sortir' (to go out). The distractors test verb choice (rester), time confusion (demain), and relationship type (famille).",
+  "difficulty": "A2",
+  "source": "Friendship plans",
+  "tags": [
+    "importance",
+    "friendship",
+    "evening"
+  ],
+  "timeCreated": 1704416400
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1162,
+    "audioText": "Elle écrivait inlassablement des lettres à l'impression générale que sa voix n'était pas entendue par les autorités.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Elle écrivait inlassablement des lettres à l'impression générale que sa voix n'était pas entendue par les autorités",
+        "Elle écrivait patiemment des lettres à l'impression générale que sa voix n'était pas entendue par les autorités",
+        "Elle écrivait inlassablement des lettres à l'impression générale que sa voix n'était pas comprise par les autorités",
+        "Elle écrivait inlassablement des lettres à l'impression générale que sa voix n'était pas écoutée par les autorités"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle écrivait inlassablement des lettres à l'impression générale que sa voix n'était pas entendue par les autorités</em>' - She was writing tirelessly letters with the general impression that her voice was not being heard by the authorities. 'Inlassablement' means tirelessly or relentlessly, and 'impression' refers to a feeling or sense about something.",
+    "difficulty": "B2",
+    "source": "Strategic lemma synergy: adverb + high-frequency noun combination",
+    "tags": ["politics", "communication", "persistence"],
+    "timeCreated": 1752093584
+}

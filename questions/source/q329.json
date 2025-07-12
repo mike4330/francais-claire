@@ -1,0 +1,18 @@
+{
+    "id": 329,
+    "audioText": "J'ai mal au dos après le travail physique.",
+    "question": "What hurts after physical work?",
+    "questionType": "comprehension",
+    "options": [
+        "My back",
+        "My head",
+        "My arms",
+        "My legs"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai mal au dos après le travail physique</em>' - My back hurts after physical work. 'Dos' means back, and 'mal au dos' means back pain.",
+    "difficulty": "A2",
+    "source": "Strategic noun threshold reinforcement",
+    "tags": ["health", "work", "body"],
+    "timeCreated": 1752095000
+}

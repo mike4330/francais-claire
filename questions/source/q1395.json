@@ -1,0 +1,18 @@
+{
+    "id": 1395,
+    "audioText": "Elle réfléchit posément avant de prendre éventuellement cette décision importante pour sa carrière.",
+    "question": "Elle réfléchit ______ avant de prendre éventuellement cette décision importante pour sa carrière.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "posément",
+        "posé",
+        "posée",
+        "posés"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle réfléchit posément avant de prendre éventuellement cette décision importante pour sa carrière</em>' - She thinks calmly before possibly making this important decision for her career. 'Posément' means calmly/thoughtfully, and 'éventuellement' means possibly/potentially.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: posément + éventuellement",
+    "tags": ["decision-making", "career", "reflection"],
+    "timeCreated": 1736630460
+}

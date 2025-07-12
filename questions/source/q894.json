@@ -1,0 +1,18 @@
+{
+    "id": 894,
+    "audioText": "L'IA pourrait-elle devenir psychologue ? Sur les réseaux sociaux, de nombreux jeunes racontent qu'ils utilisent cet agent conversationnel pour échanger sur leurs soucis du quotidien, plutôt que d'aller voir un psy.",
+    "question": "What do many young people say they use the conversational agent for?",
+    "questionType": "comprehension",
+    "options": [
+        "To discuss their daily concerns instead of seeing a psychologist",
+        "To replace all human social interactions completely",
+        "To get medical prescriptions and treatments",
+        "To learn advanced programming and coding skills"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>de nombreux jeunes racontent qu'ils utilisent cet agent conversationnel pour échanger sur leurs soucis du quotidien, plutôt que d'aller voir un psy</em>' - many young people say they use this conversational agent to discuss their daily concerns, rather than going to see a psychologist. The question explores AI's role in mental health support among youth.",
+    "difficulty": "B2",
+    "source": "News report on AI and youth mental health trends",
+    "tags": ["technology", "mental-health", "youth", "social-media", "psychology"],
+    "timeCreated": 1751812740
+}

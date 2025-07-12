@@ -1,0 +1,18 @@
+{
+    "id": 495,
+    "audioText": "Cette situation est réellement préoccupante pour l'avenir de notre entreprise.",
+    "question": "How does the speaker describe the situation?",
+    "questionType": "comprehension",
+    "options": [
+        "The situation is really concerning for the company's future",
+        "The situation is slightly concerning for the company's future",
+        "The situation is not concerning for the company's future",
+        "The situation is potentially concerning for the company's future"
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'Cette situation est réellement préoccupante' - This situation is really concerning. 'Réellement' means 'really' or 'truly', emphasizing the seriousness of the situation for the company's future.",
+    "difficulty": "B2",
+    "source": "Business concerns",
+    "tags": ["business", "concerns", "future"],
+    "timeCreated": 1720077400
+}

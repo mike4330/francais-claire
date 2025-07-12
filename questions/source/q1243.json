@@ -1,0 +1,18 @@
+{
+    "id": 1243,
+    "audioText": "J'ai tiré plusieurs conclusions stupides de cette horrible impression que tu m'avais donnée hier soir au restaurant.",
+    "question": "What did the speaker draw from their impression?",
+    "questionType": "comprehension",
+    "options": [
+        "Several stupid conclusions",
+        "Some brilliant insights", 
+        "A few reasonable assumptions",
+        "Multiple logical deductions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai tiré plusieurs conclusions stupides</em>' - I drew several stupid conclusions. The verb 'tiré' (past participle of 'tirer') is used here in the idiomatic expression 'tirer des conclusions' (to draw conclusions). The speaker admits these conclusions were 'stupides' (stupid).",
+    "difficulty": "B2",
+    "source": "Strategic question targeting missing conjugate 'tiré' with synergistic vocabulary",
+    "tags": ["restaurant", "emotions", "social-situations"],
+    "timeCreated": 1720656000
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1312,
+  "audioText": "Tu devras terminer ce rapport avant vendredi si tu veux prendre tes vacances.",
+  "question": "When must the person finish the report?",
+  "questionType": "comprehension",
+  "options": [
+    "Before Friday if they want to take their vacation",
+    "After Friday when they return from vacation",
+    "Before Monday to meet the deadline",
+    "By the end of the month for the quarterly review"
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Tu devras terminer ce rapport avant vendredi si tu veux prendre tes vacances' - You will have to finish this report before Friday if you want to take your vacation. 'Devras' is the 2nd person singular future tense of 'devoir' (must/have to).",
+  "difficulty": "B1",
+  "source": "Workplace Communication",
+  "tags": [
+    "work",
+    "deadline",
+    "vacation"
+  ],
+  "timeCreated": 1720021860
+}

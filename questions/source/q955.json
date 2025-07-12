@@ -1,0 +1,24 @@
+{
+  "id": 955,
+  "audioText": "Huit responsables d'un réseau de centres dentaires ont été placés en garde à vue pour une fraude de dix millions d'euros à la Sécurité sociale.",
+  "question": "What happened to the dental center network managers?",
+  "questionType": "comprehension",
+  "options": [
+    "They were arrested for healthcare fraud",
+    "They received awards for excellent service",
+    "They opened new dental offices",
+    "They were promoted to higher positions"
+  ],
+  "correct": 0,
+  "explanation": "The text states that 'huit responsables d'un réseau de centres dentaires ont été placés en garde à vue' (eight managers of a dental center network were placed in police custody) for a fraud worth 10 million euros against the Social Security system.",
+  "difficulty": "B2",
+  "source": "Le Parisien news report on healthcare fraud",
+  "tags": [
+    "healthcare",
+    "fraud",
+    "legal-issues",
+    "news",
+    "crime"
+  ],
+  "timeCreated": 1735689600
+}

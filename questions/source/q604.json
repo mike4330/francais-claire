@@ -1,0 +1,18 @@
+{
+    "id": 604,
+    "audioText": "Les documents administratifs sont passés par plusieurs services avant d'être finalement approuvés et transmis aux autorités compétentes.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Les documents administratifs sont passés par plusieurs services avant d'être finalement approuvés et transmis aux autorités compétentes.",
+        "Les documents administratifs sont passés par plusieurs services avant d'être finalement validés et transmis aux autorités compétentes.",
+        "Les dossiers administratifs sont passés par plusieurs services avant d'être finalement approuvés et transmis aux autorités compétentes.",
+        "Les documents administratifs sont passés par plusieurs bureaux avant d'être finalement approuvés et transmis aux autorités compétentes."
+    ],
+    "correct": 0,
+    "explanation": "The exact phrase was 'Les documents administratifs sont passés par plusieurs services avant d'être finalement approuvés et transmis aux autorités compétentes.' Note 'documents' vs 'dossiers', 'services' vs 'bureaux', and 'approuvés' vs 'validés'. 'Passés' is the past participle of 'passer' (to pass).",
+    "difficulty": "C1",
+    "source": "Administrative procedures and bureaucracy",
+    "tags": ["administration", "bureaucracy", "procedures", "government"],
+    "timeCreated": 1735950000
+}

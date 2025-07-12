@@ -1,0 +1,18 @@
+{
+    "id": 676,
+    "audioText": "Tu pensais vraiment que cette nouvelle technologie pourrait résoudre tous nos problèmes environnementaux ?",
+    "question": "Tu ______ vraiment que cette nouvelle technologie pourrait résoudre tous nos problèmes environnementaux ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "pensais",
+        "penses",
+        "pensez",
+        "pensait"
+    ],
+    "correct": 0,
+    "explanation": "The text contains '<em>Tu pensais vraiment que cette nouvelle technologie pourrait résoudre tous nos problèmes environnementaux ?</em>' - Did you really think that this new technology could solve all our environmental problems? 'Pensais' is the imperfect form of 'penser' (to think) for 2nd person singular, used here to express a past belief or opinion.",
+    "difficulty": "B1",
+    "source": "Technology and environment discussion",
+    "tags": ["technology", "environment", "opinion", "doubt"],
+    "timeCreated": 1736064600
+}

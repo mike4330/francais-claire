@@ -1,0 +1,18 @@
+{
+    "id": 1261,
+    "audioText": "Je n'oublierai jamais ce numéro de doigt gravé dans l'ombre.",
+    "question": "Je n'______ jamais ce numéro de doigt gravé dans l'ombre.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "oublierai",
+        "oublie",
+        "oubliais",
+        "oublierais"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je n'oublierai jamais ce numéro de doigt gravé dans l'ombre</em>' - I will never forget this finger number engraved in the shadow. 'Oublierai' is the first person singular future form of 'oublier' (to forget), expressing a future certainty when used with 'jamais' (never).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: oublierai + numéro + doigt + ombre",
+    "tags": ["memory", "mystery", "symbols"],
+    "timeCreated": 1736622480
+}

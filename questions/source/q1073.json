@@ -1,0 +1,18 @@
+{
+  "id": 1073,
+  "audioText": "C'est une idée complètement folle, mais elle pourrait fonctionner.",
+  "question": "What kind of idea is it?",
+  "questionType": "comprehension",
+  "options": [
+    "Folle",
+    "Sérieuse",
+    "Simple",
+    "Logique"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>C'est une idée complètement folle, mais elle pourrait fonctionner.</em>' - It's a completely crazy idea, but it might work. 'Folle' is the feminine form of 'fou' (crazy). The distractors test antonyms: 'sérieuse' (serious), 'simple' (simple), and 'logique' (logical).",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["creativity", "problem-solving"],
+  "timeCreated": 1752006732
+}

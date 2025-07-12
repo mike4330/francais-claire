@@ -1,0 +1,18 @@
+{
+    "id": 1171,
+    "audioText": "Merde ! J'ai encore oublié mes clés importantes dans la voiture ce matin.",
+    "question": "What did I forget in the car this morning?",
+    "questionType": "comprehension",
+    "options": [
+        "My important keys",
+        "My important documents",
+        "My important phone",
+        "My important wallet"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Merde ! J'ai encore oublié mes clés importantes dans la voiture ce matin</em>' - Shit! I forgot my important keys in the car again this morning. 'Merde' is a vulgar exclamation meaning shit, 'clés' means keys, and 'importantes' means important.",
+    "difficulty": "B1",
+    "source": "Strategic bottom noun coverage",
+    "tags": ["frustration", "daily-life", "forgetfulness"],
+    "timeCreated": 1752095500
+}

@@ -1,0 +1,18 @@
+{
+    "id": 265,
+    "audioText": "Cet homme fou court quasi partout en ville.",
+    "question": "How does the crazy man run around town?",
+    "questionType": "comprehension",
+    "options": [
+        "Almost everywhere",
+        "Very slowly",
+        "Only at night",
+        "With great purpose"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Cet homme fou court quasi partout en ville</em>' - This crazy man runs almost everywhere in town. 'Fou' means 'crazy/mad', 'quasi' means 'almost'.",
+    "difficulty": "A2",
+    "source": "Urban observation",
+    "tags": ["child-development", "behavior", "urban"],
+    "timeCreated": 1720443840
+}

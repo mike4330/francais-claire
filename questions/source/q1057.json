@@ -1,0 +1,18 @@
+{
+    "id": 1057,
+    "audioText": "J'arrêterais volontiers cette activité fatigante si j'avais une alternative viable.",
+    "question": "J'______ volontiers cette activité fatigante si j'avais une alternative viable.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêterais",
+        "arrête",
+        "arrêterai",
+        "arrêtais"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'arrêterais volontiers cette activité fatigante si j'avais une alternative viable.</em>' - 'I would gladly stop this tiring activity if I had a viable alternative.' The missing word is 'arrêterais' (would stop), the conditional tense first person singular of 'arrêter'.",
+    "difficulty": "B2",
+    "source": "Work alternatives and life choices",
+    "tags": ["work", "alternatives", "choices", "fatigue"],
+    "timeCreated": 1736349600
+}

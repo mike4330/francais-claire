@@ -1,0 +1,18 @@
+{
+    "id": 1030,
+    "audioText": "Elle perdra assurément son joli sac bleu si elle ne fait pas attention.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Elle perdra assurément son joli sac bleu si elle ne fait pas attention.",
+        "Elle perdra assurément son beau sac bleu si elle ne fait pas attention.",
+        "Elle perdra certainement son joli sac bleu si elle ne fait pas attention.",
+        "Elle perdra assurément son joli sac noir si elle ne fait pas attention."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Elle perdra assurément son joli sac bleu si elle ne fait pas attention.</em>' - 'She will surely lose her pretty blue bag if she doesn't pay attention.' The verb 'perdra' is the future third person singular of 'perdre' (to lose).",
+    "difficulty": "B1",
+    "source": "Strategic verb conjugate targeting",
+    "tags": ["possessions", "carelessness", "warning"],
+    "timeCreated": 1720715700
+}

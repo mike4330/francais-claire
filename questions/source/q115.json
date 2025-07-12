@@ -1,0 +1,18 @@
+{
+  "id": 115,
+  "audioText": "J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez elle.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez elle.",
+    "J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez lui.",
+    "J'ai voulu parler à ma grand-mère hier, mais elle n'était pas chez elle.",
+    "J'ai voulu aider ma grand-mère hier, mais elle n'était pas chez elle."
+  ],
+  "correct": 0,
+  "explanation": "The correct sentence is 'J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez elle' - I wanted to call my grandmother yesterday, but she wasn't at home. 'Voulu' is the past participle of 'vouloir' used with 'avoir' to form the passé composé.",
+  "difficulty": "A2",
+  "source": "Family Communication",
+  "tags": ["family", "communication", "daily-life", "telephone"],
+  "timeCreated": 1751492641
+}

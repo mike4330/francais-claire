@@ -1,0 +1,18 @@
+{
+    "id": 285,
+    "audioText": "L'air frais de la montagne est vraiment pur.",
+    "question": "What is pure according to the speaker?",
+    "questionType": "comprehension",
+    "options": [
+        "The fresh mountain air",
+        "The mountain water",
+        "The mountain snow",
+        "The mountain flowers"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'air frais de la montagne est vraiment pur.</em>' - 'The fresh mountain air is really pure.' The noun 'air' refers to the atmosphere we breathe, and 'frais' means fresh or cool.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": ["nature", "environment", "mountain"],
+    "timeCreated": 1720713600
+}

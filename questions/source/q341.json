@@ -1,0 +1,18 @@
+{
+    "id": 341,
+    "audioText": "Elle montre son doigt.",
+    "question": "What is she showing?",
+    "questionType": "comprehension",
+    "options": [
+        "Her finger",
+        "Her hand",
+        "Her arm",
+        "Her foot"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle montre son doigt</em>' - She shows her finger. The word 'doigt' refers to a finger.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting: doigt",
+    "tags": ["body-parts", "gestures", "pointing"],
+    "timeCreated": 1720618700
+}

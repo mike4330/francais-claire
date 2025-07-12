@@ -1,0 +1,18 @@
+{
+    "id": 247,
+    "audioText": "Ma maman prépare un gâteau délicieux pour mon anniversaire.",
+    "question": "What is mom preparing?",
+    "questionType": "comprehension",
+    "options": [
+        "A delicious cake",
+        "A nice dinner",
+        "A warm soup",
+        "A fresh salad"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma maman prépare un gâteau délicieux</em>' - My mom is preparing a delicious cake. 'Maman' is an affectionate term for mother/mom.",
+    "difficulty": "A1",
+    "source": "Family celebrations and birthday preparations",
+    "tags": ["family", "celebrations", "food"],
+    "timeCreated": 1751786460
+}

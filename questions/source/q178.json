@@ -1,0 +1,18 @@
+{
+    "id": 178,
+    "audioText": "Je regarderai ce documentaire demain soir.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Je regarderai ce documentaire demain soir.",
+        "Je regarde ce documentaire demain soir.",
+        "J'ai regardé ce documentaire demain soir.",
+        "Je regardais ce documentaire demain soir."
+    ],
+    "correct": 0,
+    "explanation": "The French sentence uses 'regarderai' - the future form of 'regarder' (to watch) for je. 'Je regarderai' means 'I will watch'. This is a listening question testing exact auditory comprehension of the future tense.",
+    "difficulty": "A2",
+    "source": "Future entertainment plans",
+    "tags": ["entertainment", "future-plans", "television"],
+    "timeCreated": 1720108800
+}

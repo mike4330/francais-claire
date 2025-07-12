@@ -1,0 +1,18 @@
+{
+    "id": 898,
+    "audioText": "Son corps tremblait vachement après avoir été confronté carrément à cette réalité terrifiante qu'il ne pouvait plus ignorer.",
+    "question": "How was his body reacting after the confrontation?",
+    "questionType": "comprehension",
+    "options": [
+        "It was trembling really badly",
+        "It was completely still and calm",
+        "It was moving energetically and confidently",
+        "It showed no physical reaction at all"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son corps tremblait vachement après avoir été confronté carrément à cette réalité terrifiante</em>' - His body was trembling really badly after being directly confronted with this terrifying reality. 'Corps' means body, 'vachement' means really/very (informal), and 'carrément' means directly/completely.",
+    "difficulty": "B2",
+    "source": "Physical reaction to terrifying confrontation with reality",
+    "tags": ["fear", "physical-reaction", "confrontation", "reality"],
+    "timeCreated": 1751813340
+}

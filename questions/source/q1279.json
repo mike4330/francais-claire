@@ -1,0 +1,18 @@
+{
+    "id": 1279,
+    "audioText": "Cette vaste cour bref accueille durement les visiteurs pendant les mois d'hiver.",
+    "question": "Cette ______ cour bref accueille durement les visiteurs pendant les mois d'hiver.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "vaste",
+        "vastes",
+        "petite",
+        "étroite"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette vaste cour bref accueille durement les visiteurs pendant les mois d'hiver</em>' - This vast courtyard briefly receives visitors harshly during the winter months. 'Vaste' is an adjective meaning 'vast/large', agreeing with the feminine noun 'cour' (courtyard).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: vaste + cour + bref + durement",
+    "tags": ["architecture", "weather", "reception"],
+    "timeCreated": 1736623800
+}

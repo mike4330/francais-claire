@@ -1,0 +1,18 @@
+{
+    "id": 1014,
+    "audioText": "Ce fromage savoyard est élaboré traditionnellement dans les massifs préalpins où les chèvres se nourrissent d'une végétation spécifique des pentes calcaires.",
+    "question": "Where is this Savoyard cheese traditionally made?",
+    "questionType": "comprehension",
+    "options": [
+        "In the pre-Alpine massifs where goats feed on specific vegetation from limestone slopes",
+        "In the valley farms using industrial production methods",
+        "In the coastal regions with Mediterranean climate",
+        "In the urban centers with modern dairy facilities"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce fromage savoyard est élaboré traditionnellement dans les massifs préalpins où les chèvres se nourrissent d'une végétation spécifique des pentes calcaires.</em>' - 'This Savoyard cheese is traditionally made in the pre-Alpine massifs where goats feed on specific vegetation from limestone slopes.' The noun 'fromage' means cheese, highlighting traditional artisanal production methods in mountainous terrain.",
+    "difficulty": "B2",
+    "source": "Savoyard cheese cultural content",
+    "tags": ["food", "tradition", "mountains"],
+    "timeCreated": 1720713850
+}

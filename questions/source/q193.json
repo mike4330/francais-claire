@@ -1,0 +1,18 @@
+{
+    "id": 193,
+    "audioText": "Qu'est-ce qu'il y a là-dedans ? Ça sent très bon !",
+    "question": "Qu'est-ce qu'il y a ______ ? Ça sent très bon !",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "là-dedans",
+        "là-bas",
+        "ici",
+        "dehors"
+    ],
+    "correct": 0,
+    "explanation": "'Là-dedans' means 'in there' or 'inside that'. The speaker is asking what's inside something (a container, room, etc.) because it smells very good. It combines 'là' (there) with 'dedans' (inside).",
+    "difficulty": "A2",
+    "source": "Kitchen curiosity",
+    "tags": ["food", "curiosity", "home"],
+    "timeCreated": 1720077200
+}

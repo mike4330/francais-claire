@@ -1,0 +1,18 @@
+{
+    "id": 262,
+    "audioText": "Ce gros livre parle librement de la guerre.",
+    "question": "What does the big book do?",
+    "questionType": "comprehension",
+    "options": [
+        "Speaks freely about the war",
+        "Describes battles in detail",
+        "Criticizes military leaders",
+        "Hides sensitive information"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Ce gros livre parle librement de la guerre</em>' - This big book speaks freely about the war. 'Gros' means 'big/thick', 'librement' means 'freely', 'guerre' means 'war'.",
+    "difficulty": "A2",
+    "source": "Historical literature",
+    "tags": ["war", "literature", "history"],
+    "timeCreated": 1720443660
+}

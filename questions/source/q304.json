@@ -1,0 +1,18 @@
+{
+    "id": 304,
+    "audioText": "Ce chemin facile mène à demi vers la forêt.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Ce chemin facile mène à demi vers la forêt.",
+        "Ce chemin facile mène directement vers la forêt.",
+        "Ce chemin difficile mène à demi vers la forêt.",
+        "Ce chemin facile mène à demi vers la maison."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Ce chemin facile mène à demi vers la forêt.</em>' - 'This easy path leads halfway to the forest.' The noun 'chemin' means path/way, 'facile' means easy, and 'à demi' means halfway.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting",
+    "tags": ["nature", "directions", "travel"],
+    "timeCreated": 1720715800
+}

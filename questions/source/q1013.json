@@ -1,0 +1,18 @@
+{
+    "id": 1013,
+    "audioText": "Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire.",
+    "question": "When did his luck definitively turn?",
+    "questionType": "comprehension",
+    "options": [
+        "When he discovered this extraordinary professional opportunity",
+        "When he finished his studies",
+        "When he moved to a new city",
+        "When he met his business partner"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire.</em>' - 'His luck was definitively turning when he discovered this extraordinary professional opportunity.' The noun 'chance' means luck or fortune, and 'définitivement' means definitively or permanently.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting",
+    "tags": ["luck", "opportunity", "career"],
+    "timeCreated": 1720713600
+}

@@ -1,0 +1,18 @@
+{
+    "id": 748,
+    "audioText": "Quand j'étais enfant, je sentais toujours le chlore sur ma peau après la piscine.",
+    "question": "What did the speaker always feel on their skin as a child?",
+    "questionType": "comprehension",
+    "options": [
+        "Chlorine after swimming",
+        "Sunscreen at the beach",
+        "Sand from the playground",
+        "Soap from the shower"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Quand j'étais enfant, je sentais toujours le chlore sur ma peau après la piscine</em>' - When I was a child, I always felt the chlorine on my skin after the pool. 'Sentais' is the first person singular imperfect form of 'sentir' (to feel/smell).",
+    "difficulty": "B1",
+    "source": "Childhood memories",
+    "tags": ["swimming", "childhood", "pool"],
+    "timeCreated": 1704415620
+}

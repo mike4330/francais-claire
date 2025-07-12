@@ -1,0 +1,18 @@
+{
+    "id": 261,
+    "audioText": "Ce vieux bois contient le silence des années.",
+    "question": "What does the old wood contain?",
+    "questionType": "comprehension",
+    "options": [
+        "The silence of years",
+        "The sounds of nature",
+        "The marks of time",
+        "The strength of trees"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Ce vieux bois contient le silence des années</em>' - This old wood contains the silence of years. 'Vieux' means 'old', 'silence' means 'silence'.",
+    "difficulty": "A2",
+    "source": "Nature observation",
+    "tags": ["spirituality", "nature", "time"],
+    "timeCreated": 1720443600
+}

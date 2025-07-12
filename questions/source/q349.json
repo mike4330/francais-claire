@@ -1,0 +1,15 @@
+{
+    "id": 349,
+    "audioText": "Je vais au marché tous les mardis pour acheter des légumes frais.",
+    "question": "Je vais au marché tous les ______ pour acheter des légumes frais.",
+    "questionType": "writing",
+    "options": [],
+    "correct": 0,
+    "correctAnswer": "mardis",
+    "acceptedAnswers": ["mardis", "Mardis"],
+    "explanation": "The correct answer is '<em>mardis</em>' (Tuesdays). The complete sentence is '<em>Je vais au marché tous les mardis pour acheter des légumes frais</em>' - I go to the market every Tuesday to buy fresh vegetables. Note that days of the week are plural when used with 'tous les' (every).",
+    "difficulty": "A2",
+    "source": "Writing practice - days of the week",
+    "tags": ["daily-routine", "food", "shopping"],
+    "timeCreated": 1720656700
+}

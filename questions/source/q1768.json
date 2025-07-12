@@ -1,0 +1,22 @@
+{
+  "id": 1768,
+  "audioText": "Je vous parlerai de cette proposition innovante lors de notre prochaine réunion stratégique mensuelle.",
+  "question": "Je vous ______ de cette proposition innovante lors de notre prochaine réunion stratégique mensuelle.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "parlerai",
+    "parlais",
+    "parle",
+    "parlerais"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'parlerai' - the future tense of 'parler' (to speak/talk) in the first person singular. The future tense is used because the speaker is referring to a future meeting ('lors de notre prochaine réunion'). 'Je vous parlerai de' means 'I will talk to you about'.",
+  "difficulty": "C1",
+  "source": "Business meeting",
+  "tags": [
+    "business",
+    "meetings",
+    "proposals"
+  ],
+  "timeCreated": 1720077400
+}

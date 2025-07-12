@@ -1,0 +1,18 @@
+{
+    "id": 1357,
+    "audioText": "Cette soirée dingue va rester longtemps dans nos souvenirs les plus mémorables.",
+    "question": "Cette soirée ______ va rester longtemps dans nos souvenirs les plus mémorables.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "dingue",
+        "dingues",
+        "folle",
+        "drôle"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette soirée dingue va rester longtemps dans nos souvenirs les plus mémorables</em>' - This crazy evening will remain for a long time in our most memorable memories. 'Dingue' (crazy/wild) is the correct adjective, invariable and agreeing with the feminine noun 'soirée'.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: dingue + longtemps + mémorables",
+    "tags": ["memories", "parties", "experiences"],
+    "timeCreated": 1736625600
+}

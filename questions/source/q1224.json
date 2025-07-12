@@ -1,0 +1,19 @@
+{
+    "id": 1224,
+    "audioText": "Météo France a placé treize départements en vigilance orange canicule pour le weekend. Les fortes chaleurs touchent le sud et l'est de la France avec des températures très élevées.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Météo France a placé treize départements en vigilance orange canicule",
+        "Météo France a placé douze départements en vigilance rouge canicule",
+        "Météo France a placé treize régions en vigilance orange canicule",
+        "Météo France a placé quatorze départements en vigilance orange canicule"
+    ],
+    "correct": 0,
+    "parentQuestion": 553,
+    "explanation": "The correct text includes '<em>Météo France a placé treize départements en vigilance orange canicule</em>' - Météo France has placed thirteen departments under orange heat wave warning. Key details: 'treize' (thirteen), 'départements' (departments), and 'orange' (not red) level.",
+    "difficulty": "B1",
+    "source": "Listening version of Q553",
+    "tags": ["weather", "france", "heat-wave", "alert"],
+    "timeCreated": 1720962600
+}

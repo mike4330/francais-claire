@@ -1,0 +1,18 @@
+{
+    "id": 890,
+    "audioText": "Ce jour-là, il était décidément impossible de prévoir les événements extraordinaires qui allaient transformer notre perspective.",
+    "question": "What was impossible to predict that day?",
+    "questionType": "comprehension",
+    "options": [
+        "The extraordinary events that would transform their perspective",
+        "The ordinary routine that would continue unchanged",
+        "The simple tasks they had planned to complete",
+        "The normal weather patterns for the season"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce jour-là, il était décidément impossible de prévoir les événements extraordinaires qui allaient transformer notre perspective</em>' - That day, it was decidedly impossible to predict the extraordinary events that were going to transform our perspective. 'Jour' means day, 'décidément' means decidedly/definitely, and the phrase describes unpredictable transformative events.",
+    "difficulty": "B2",
+    "source": "Unexpected life-changing events and perspective shifts",
+    "tags": ["life-events", "transformation", "unpredictability", "perspective"],
+    "timeCreated": 1751812320
+}

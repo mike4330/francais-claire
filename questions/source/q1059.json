@@ -1,0 +1,18 @@
+{
+    "id": 1059,
+    "audioText": "Le directeur arrêta brusquement la réunion quand il apprit cette nouvelle urgente.",
+    "question": "Le directeur ______ brusquement la réunion quand il apprit cette nouvelle urgente.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêta",
+        "arrête",
+        "arrêtait",
+        "arrêtera"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le directeur arrêta brusquement la réunion quand il apprit cette nouvelle urgente.</em>' - 'The director abruptly stopped the meeting when he learned this urgent news.' The missing word is 'arrêta' (stopped), the simple past tense third person singular of 'arrêter'.",
+    "difficulty": "B2",
+    "source": "Business interruptions and urgent news",
+    "tags": ["business", "meetings", "urgency", "interruptions"],
+    "timeCreated": 1736349720
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1382,
+    "audioText": "À ce moment-là, son expression est devenue étrangement calme et réfléchie.",
+    "question": "À ce moment-là, son expression ______ étrangement calme et réfléchie.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "est devenue",
+        "devient",
+        "devenait",
+        "deviendra"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>À ce moment-là, son expression est devenue étrangement calme et réfléchie</em>' - At that moment, his expression became strangely calm and thoughtful. 'Est devenue' (passé composé) is the conversational form for completed past actions, much more common than literary passé simple.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: est devenue (conversational past)",
+    "tags": ["emotions", "facial-expressions", "transformation"],
+    "timeCreated": 1736628720
+}

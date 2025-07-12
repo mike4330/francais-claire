@@ -1,0 +1,18 @@
+{
+    "id": 1396,
+    "audioText": "Les enfants ont inconsciemment rangé leurs jouets pêle-mêle dans cette grande boîte colorée.",
+    "question": "What does this sentence indicate about how the children organized their toys?",
+    "questionType": "comprehension",
+    "options": [
+        "They unconsciously put their toys in a jumbled mess in the box",
+        "They consciously organized their toys neatly in the box",
+        "They deliberately scattered their toys outside the box",
+        "They carefully sorted their toys by color in the box"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les enfants ont inconsciemment rangé leurs jouets pêle-mêle dans cette grande boîte colorée</em>' - The children unconsciously put away their toys in a jumbled mess in this big colorful box. 'Inconsciemment' means unconsciously, and 'pêle-mêle' means in a jumbled mess/haphazardly.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: inconsciemment + pêle-mêle",
+    "tags": ["children", "toys", "organization"],
+    "timeCreated": 1736630520
+}

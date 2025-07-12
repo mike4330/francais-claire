@@ -1,0 +1,19 @@
+{
+    "id": 1648,
+    "audioText": "Un tel événement n'a pas eu de pareil dans l'histoire récente.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Un tel événement n'a pas eu de pareil dans l'histoire récente.",
+        "Un tel événement n'a pas eu de pareille dans l'histoire récente.",
+        "Un tel événement n'a pas eu de pareil dans l'histoire passée.",
+        "Un tel événement n'a pas eu du pareil dans l'histoire récente."
+    ],
+    "correct": 0,
+    "explanation": "The correct text is 'Un tel événement n'a pas eu de pareil dans l'histoire récente.' The distractors test gender agreement (pareille vs pareil - 'pareil' is invariable here), temporal adjective choice (passée vs récente), and partitive article usage (du vs de).",
+    "difficulty": "C1",
+    "source": "Gemini CLI",
+    "tags": ["history", "events"],
+    "parentQuestion": 1518,
+    "timeCreated": 1752116160
+}

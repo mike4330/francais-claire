@@ -1,0 +1,18 @@
+{
+    "id": 860,
+    "audioText": "Ces animaux vivants que nous observons là constituent un écosystème remarquable dans cette région.",
+    "question": "Ces animaux ______ que nous observons là constituent un écosystème remarquable dans cette région.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "vivants",
+        "sauvages",
+        "libres",
+        "naturels"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces animaux vivants que nous observons là constituent un écosystème remarquable dans cette région</em>' - These living animals that we observe there constitute a remarkable ecosystem in this region. 'Vivants' means 'living/alive' and 'là' reinforces recently covered adverb, creating adjective-adverb synergy.",
+    "difficulty": "B2",
+    "source": "Wildlife observation",
+    "tags": ["animals", "nature", "ecosystem", "observation"],
+    "timeCreated": 1736107020
+}

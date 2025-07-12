@@ -1,0 +1,18 @@
+{
+    "id": 229,
+    "audioText": "Paul fait de l'exercice tous les matins avant le travail.",
+    "question": "When does Paul exercise?",
+    "questionType": "comprehension",
+    "options": [
+        "Every morning before work",
+        "Every evening after work",
+        "Only on weekends",
+        "During his lunch break"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Paul fait de l'exercice tous les matins avant le travail</em>' - Paul exercises every morning before work. 'Tous les matins' means every morning and 'avant le travail' means before work.",
+    "difficulty": "A2",
+    "source": "Daily routine",
+    "tags": ["exercise", "daily-life", "schedule"],
+    "timeCreated": 1704414660
+}

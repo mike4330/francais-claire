@@ -1,0 +1,24 @@
+{
+  "id": 103,
+  "audioText": "Ma grand-mère raconte une histoire très amusante.",
+  "question": "Ma grand-mère raconte une ______ très amusante.",
+  "questionType": "FIB-reading",
+  "options": [
+    "histoire",
+    "chanson",
+    "photo",
+    "recette"
+  ],
+  "correct": 0,
+  "explanation": "The sentence means 'My grandmother tells a very funny story.' The word 'histoire' (story) fits perfectly in this context. Other options: 'chanson' (song), 'photo' (photo), 'recette' (recipe) don't make sense with the verb 'raconte' (tells/narrates).",
+  "difficulty": "A2",
+  "source": "Family storytelling context",
+  "tags": [
+    "family",
+    "storytelling",
+    "grandmother",
+    "entertainment",
+    "oral-tradition"
+  ],
+  "timeCreated": 1751331900
+}

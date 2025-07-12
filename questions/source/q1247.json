@@ -1,0 +1,18 @@
+{
+    "id": 1247,
+    "audioText": "Ils essayaient désespérément de comprendre pourquoi leur oncle avait payé une somme ridicule pour ce sac jaune horrible.",
+    "question": "What were they desperately trying to understand?",
+    "questionType": "comprehension",
+    "options": [
+        "Why their uncle paid a ridiculous sum for that horrible yellow bag",
+        "How to contact their uncle about the purchase",
+        "When their uncle would return the expensive item",
+        "Where their uncle found such an unusual bag"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ils essayaient désespérément de comprendre pourquoi leur oncle avait payé une somme ridicule pour ce sac jaune horrible</em>' - They were desperately trying to understand why their uncle had paid a ridiculous sum for that horrible yellow bag. This combines 'essayaient' (were trying) and 'payé' (had paid) with multiple vocabulary gaps.",
+    "difficulty": "B2",
+    "source": "Strategic question targeting multiple missing conjugates 'essayaient' and 'payé' with synergistic vocabulary",
+    "tags": ["family", "money", "confusion"],
+    "timeCreated": 1720656240
+}

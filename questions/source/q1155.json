@@ -1,0 +1,18 @@
+{
+    "id": 1155,
+    "audioText": "Le maître de conférences explique les théories complexes avec beaucoup de patience aujourd'hui.",
+    "question": "What is the lecturer doing today?",
+    "questionType": "comprehension",
+    "options": [
+        "Explaining complex theories with great patience",
+        "Reading simple texts to students",
+        "Giving a final exam to the class",
+        "Discussing homework assignments quickly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le maître de conférences explique les théories complexes avec beaucoup de patience aujourd'hui</em>' - The lecturer is explaining complex theories with great patience today. 'Maître de conférences' is a formal academic title, and 'explique' means 'explains'.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage + academic context",
+    "tags": ["education", "academic", "workplace"],
+    "timeCreated": 1752093000
+}

@@ -1,0 +1,22 @@
+{
+  "id": 23,
+  "audioText": "Tu rentres à la maison en bus ou en voiture ?",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Tu rentres à la maison en bus ou en voiture ?",
+    "Tu rentres à la maison en train ou en voiture ?",
+    "Tu rentres à la maison en bus ou en vélo ?",
+    "Tu retournes à la maison en bus ou en voiture ?"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu rentres à la maison en bus ou en voiture ?</em>' - Are you coming home by bus or by car? 'Rentres' is the second person singular form of 'rentrer' (to return/come home). The distractors test transportation mode confusion and verb choice (rentrer vs. retourner).",
+  "difficulty": "A2",
+  "source": "Transportation choice",
+  "tags": [
+    "transportation",
+    "home",
+    "choice"
+  ],
+  "timeCreated": 1704415560
+}

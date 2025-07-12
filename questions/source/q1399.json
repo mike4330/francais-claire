@@ -1,0 +1,18 @@
+{
+    "id": 1399,
+    "audioText": "Cette maison ancienne est joliment décorée avec des fleurs qui poussent naturellement dans le jardin.",
+    "question": "Cette maison ancienne est ______ décorée avec des fleurs qui poussent naturellement dans le jardin.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "joliment",
+        "jolie",
+        "jolies",
+        "joli"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette maison ancienne est joliment décorée avec des fleurs qui poussent naturellement dans le jardin</em>' - This old house is nicely decorated with flowers that grow naturally in the garden. 'Joliment' is the adverb meaning nicely/prettily, describing how the house is decorated.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: joliment + fleurs + naturellement",
+    "tags": ["decoration", "garden", "flowers"],
+    "timeCreated": 1736630700
+}

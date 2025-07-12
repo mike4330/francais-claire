@@ -1,0 +1,23 @@
+{
+  "id": 1758,
+  "audioText": "Ce soir, je vais préparer une poêlée de seiche avec du gingembre.",
+  "question": "Ce soir, je vais préparer une poêlée de ______ avec du gingembre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "boeuf",
+    "seiche",
+    "poulet",
+    "porc"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Ce soir, je vais préparer une poêlée de seiche avec du gingembre.</em>' - 'Tonight, I am going to prepare a pan-fried cuttlefish dish with ginger.' The missing word is 'seiche' (cuttlefish), a type of marine mollusk. 'Poêlée' refers to a pan-frying cooking technique, and 'gingembre' means ginger, a common spice in French cuisine.",
+  "difficulty": "C1",
+  "source": "Advanced Culinary Vocabulary",
+  "tags": [
+    "food",
+    "culinary-techniques",
+    "seafood",
+    "advanced-vocabulary",
+    "gourmet-cooking"
+  ]
+}

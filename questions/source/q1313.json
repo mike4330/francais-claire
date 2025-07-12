@@ -1,0 +1,22 @@
+{
+  "id": 1313,
+  "audioText": "Les étudiants devront s'inscrire en ligne avant le 15 septembre.",
+  "question": "Les étudiants ______ s'inscrire en ligne avant le 15 septembre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "devront",
+    "devaient",
+    "doivent",
+    "devraient"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les étudiants devront s'inscrire en ligne avant le 15 septembre</em>' - Students will have to register online before September 15th. The correct answer is 'devront' (future 3rd person plural of 'devoir'). The future tense is used to express a future obligation.",
+  "difficulty": "B1",
+  "source": "University Registration",
+  "tags": [
+    "education",
+    "registration",
+    "deadline"
+  ],
+  "timeCreated": 1720021920
+}

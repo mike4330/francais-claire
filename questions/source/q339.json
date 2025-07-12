@@ -1,0 +1,18 @@
+{
+    "id": 339,
+    "audioText": "Salut papa, j'ai mal au pied.",
+    "question": "What is wrong with the person?",
+    "questionType": "comprehension",
+    "options": [
+        "Their foot hurts",
+        "Their head hurts",
+        "Their back hurts",
+        "Their arm hurts"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Salut papa, j'ai mal au pied</em>' - Hello dad, my foot hurts. The expression 'avoir mal au pied' means to have a sore foot or foot pain.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting: salut, papa, pied",
+    "tags": ["family", "health", "pain"],
+    "timeCreated": 1720617500
+}

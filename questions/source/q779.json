@@ -1,0 +1,18 @@
+{
+    "id": 779,
+    "audioText": "Cette histoire étrange m'a fasciné toute la soirée et j'ai eu du mal à dormir.",
+    "question": "Cette histoire ______ m'a fasciné toute la soirée et j'ai eu du mal à dormir.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "étrange",
+        "amusante",
+        "courte",
+        "simple"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette histoire étrange m'a fasciné toute la soirée et j'ai eu du mal à dormir</em>' - This strange story fascinated me all evening and I had trouble sleeping. 'Étrange' means 'strange/odd' and explains why the story was so captivating.",
+    "difficulty": "B2",
+    "source": "Evening reading",
+    "tags": ["stories", "reading", "emotions", "mystery"],
+    "timeCreated": 1736102820
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1042,
+    "audioText": "Notre voisin est très gentil et nous aide souvent avec nos courses.",
+    "question": "Notre voisin est très ______ et nous aide souvent avec nos courses.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "gentil",
+        "généreux",
+        "sympathique",
+        "serviable"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Notre voisin est très gentil et nous aide souvent avec nos courses.</em>' - 'Our neighbor is very kind and often helps us with our shopping.' The missing word is 'gentil' (kind/nice), describing a pleasant and helpful personality.",
+    "difficulty": "A2",
+    "source": "Neighborly relationships and community help",
+    "tags": ["neighbors", "kindness", "community", "help"],
+    "timeCreated": 1736348700
+}

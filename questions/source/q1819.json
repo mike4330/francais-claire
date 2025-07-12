@@ -1,0 +1,22 @@
+{
+  "id": 1819,
+  "audioText": "Le résultat obtenu vainement manifestement démontre que rechercher dernièrement des alternatives créatives reste un défi terrible pour les collègues prêts à collaborer efficacement.",
+  "question": "What does the result obtained in vain manifestly demonstrate about seeking creative alternatives?",
+  "questionType": "comprehension",
+  "options": [
+    "That recently seeking creative alternatives remains a terrible challenge for colleagues ready to collaborate efficiently",
+    "That traditional methods are always more effective than innovative approaches",
+    "That individual work produces better outcomes than team collaboration",
+    "That creative solutions are unnecessary in professional environments"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le résultat obtenu vainement manifestement démontre que rechercher dernièrement des alternatives créatives reste un défi terrible pour les collègues prêts à collaborer efficacement.</em>' - 'The result obtained in vain manifestly demonstrates that recently seeking creative alternatives remains a terrible challenge for colleagues ready to collaborate efficiently.' The adverbs 'vainement' means in vain, 'manifestement' means manifestly, and 'dernièrement' means recently.",
+  "difficulty": "C2",
+  "source": "Strategic adverb targeting",
+  "tags": [
+    "alternatives",
+    "colleagues",
+    "results"
+  ],
+  "timeCreated": 1720714500
+}

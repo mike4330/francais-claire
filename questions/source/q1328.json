@@ -1,0 +1,22 @@
+{
+  "id": 1328,
+  "audioText": "Les étudiants mettent leurs téléphones en mode silencieux pendant les examens.",
+  "question": "What do students do with their phones during exams?",
+  "questionType": "comprehension",
+  "options": [
+    "Put them in silent mode",
+    "Turn them off completely",
+    "Give them to the teacher",
+    "Leave them at home"
+  ],
+  "correct": 0,
+  "explanation": "Students 'mettent leurs téléphones en mode silencieux pendant les examens' - put their phones in silent mode during exams. 'Mettent' is the 3rd person plural present form of 'mettre'.",
+  "difficulty": "B1",
+  "source": "University Exams",
+  "tags": [
+    "education",
+    "exams",
+    "technology"
+  ],
+  "timeCreated": 1720022820
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1276,
+    "audioText": "Ce doigt présent sérieusement touche notre numéro secret avec une précision remarquable.",
+    "question": "Ce doigt ______ sérieusement touche notre numéro secret avec une précision remarquable.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "présent",
+        "présente",
+        "présents",
+        "absents"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce doigt présent sérieusement touche notre numéro secret avec une précision remarquable</em>' - This present finger seriously touches our secret number with remarkable precision. 'Présent' is the masculine singular form of the adjective meaning 'present/current', agreeing with 'doigt' (finger).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: présent + doigt + sérieusement + numéro",
+    "tags": ["technology", "precision", "mystery"],
+    "timeCreated": 1736623560
+}

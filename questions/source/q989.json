@@ -1,0 +1,18 @@
+{
+    "id": 989,
+    "audioText": "Je finirai subitement ce merci important pour l'ami.",
+    "question": "When will the thank-you be completed?",
+    "questionType": "comprehension",
+    "options": [
+        "Suddenly, for the friend",
+        "Gradually, over time",
+        "Never, unfortunately",
+        "Eventually, maybe"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je finirai subitement ce merci important pour l'ami</em>' - I will suddenly finish this important thank-you for the friend. 'Finirai' is the first person singular future form of 'finir' (to finish), and 'subitement' means 'suddenly'.",
+    "difficulty": "B2",
+    "source": "Strategic conjugate + high-frequency adverb/noun combination",
+    "tags": ["gratitude", "friendship", "communication"],
+    "timeCreated": 1735992000
+}

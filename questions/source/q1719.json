@@ -1,0 +1,23 @@
+{
+  "id": 1719,
+  "audioText": "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
+    "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour commencer leurs albums.",
+    "Les vrais collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
+    "Les autres collectionneurs de cartes cherchent ailleurs des pièces rares pour compléter leurs albums."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.' - The other stamp collectors look elsewhere for rare pieces to complete their albums. Note 'autres' vs 'vrais', 'timbres' vs 'cartes', and 'compléter' vs 'commencer'. 'Ailleurs' means 'elsewhere' or 'somewhere else'.",
+  "difficulty": "C1",
+  "source": "Stamp collecting and hobby communities",
+  "tags": [
+    "collecting",
+    "stamps",
+    "hobbies",
+    "rare-items"
+  ],
+  "timeCreated": 1735953660
+}

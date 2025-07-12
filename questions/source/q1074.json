@@ -1,0 +1,18 @@
+{
+  "id": 1074,
+  "audioText": "Ce vin est trop cher pour notre budget.",
+  "question": "Why can't they buy the wine?",
+  "questionType": "comprehension",
+  "options": [
+    "Il est trop cher.",
+    "Il n'est pas bon.",
+    "Il n'y en a plus.",
+    "Il est trop froid."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce vin est trop cher pour notre budget.</em>' - This wine is too expensive for our budget. 'Cher' means expensive. The distractors test other reasons: 'il n'est pas bon' (it's not good), 'il n'y en a plus' (there is no more), and 'il est trop froid' (it's too cold).",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["shopping", "food", "budgeting"],
+  "timeCreated": 1752006732
+}

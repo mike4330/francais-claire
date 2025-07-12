@@ -1,0 +1,19 @@
+
+{
+    "id": 568,
+    "audioText": "J'ai un peu de temps libre ce week-end.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "J'ai un peu de temps libre ce week-end.",
+        "J'ai beaucoup de temps libre ce week-end.",
+        "Je n'ai pas de temps libre ce week-end.",
+        "J'ai un peu d'argent libre ce week-end."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is 'J'ai un peu de temps libre ce week-end.', which means 'I have a little free time this weekend.'",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["time", "leisure"],
+    "timeCreated": 1720134000
+}

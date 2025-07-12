@@ -1,0 +1,19 @@
+{
+    "id": 335,
+    "audioText": "Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine.",
+        "Dans ce magasin de vêtements, je verrai bien une nouvelle collection de mode urbaine.",
+        "Dans ce magasin de vêtements, je voyais bien une nouvelle collection de mode urbaine.",
+        "Dans ce magasin de vêtements, je vois bien une nouvelle collection de mode urbaine."
+    ],
+    "correct": 0,
+    "explanation": "The correct option is '<em>Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine</em>' - In this clothing store, I would really like to see a new urban fashion collection. This listening exercise tests the conditional form 'verrais' versus present 'vois', future 'verrai', and imperfect 'voyais'.",
+    "difficulty": "A2",
+    "source": "Fashion and clothing shopping",
+    "tags": ["fashion", "shopping", "clothing", "urban-style"],
+    "parentQuestion": 629,
+    "timeCreated": 1752110400
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1066,
+    "audioText": "Il fait froid au-dehors, restez à l'intérieur.",
+    "question": "Where is it cold according to the text?",
+    "questionType": "comprehension",
+    "options": [
+        "Inside the house",
+        "Outside",
+        "In the basement",
+        "In the bedroom"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Il fait froid au-dehors, restez à l'intérieur</em>' - It is cold outside, stay inside. 'Au-dehors' means 'outside' or 'outdoors'.",
+    "difficulty": "B1",
+    "source": "Weather advice",
+    "tags": ["weather", "indoor-outdoor", "daily-life"],
+    "timeCreated": 1720401720
+}

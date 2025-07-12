@@ -1,0 +1,18 @@
+{
+    "id": 1392,
+    "audioText": "La jeune femme est tombée mystérieusement malade après avoir négligemment ignoré les consignes.",
+    "question": "La jeune femme est ______ mystérieusement malade après avoir négligemment ignoré les consignes.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "tombée",
+        "tombé",
+        "tombés",
+        "tomber"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La jeune femme est tombée mystérieusement malade après avoir négligemment ignoré les consignes</em>' - The young woman mysteriously fell ill after carelessly ignoring the instructions. 'Tombée' (feminine past participle) agrees with 'la jeune femme'. 'Mystérieusement' means mysteriously and 'négligemment' means carelessly.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: tombée + mystérieusement + négligemment",
+    "tags": ["health", "illness", "consequences"],
+    "timeCreated": 1736630040
+}

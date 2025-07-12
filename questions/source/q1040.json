@@ -1,0 +1,18 @@
+{
+    "id": 1040,
+    "audioText": "Cette bibliothèque offre un environnement tranquille pour étudier efficacement.",
+    "question": "Cette bibliothèque offre un environnement ______ pour étudier efficacement.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "tranquille",
+        "moderne",
+        "grand",
+        "populaire"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette bibliothèque offre un environnement tranquille pour étudier efficacement.</em>' - 'This library offers a quiet environment for studying efficiently.' The missing word is 'tranquille' (quiet/peaceful), describing a calm atmosphere.",
+    "difficulty": "B1",
+    "source": "Library study environments and academic focus",
+    "tags": ["education", "library", "study", "environment"],
+    "timeCreated": 1736348580
+}

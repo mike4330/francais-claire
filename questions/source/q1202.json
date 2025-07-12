@@ -1,0 +1,18 @@
+{
+    "id": 1202,
+    "audioText": "Ce genre de sorte de problème nécessite une approche différente et plus créative.",
+    "question": "What does this type of problem require?",
+    "questionType": "comprehension",
+    "options": [
+        "A different and more creative approach",
+        "More time and patience",
+        "Additional resources and funding",
+        "Expert consultation and advice"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce genre de sorte de problème nécessite une approche différente et plus créative</em>' - This type/kind of problem requires a different and more creative approach. This targets the nouns 'genre' and 'sorte' used together for emphasis.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: genre, sorte",
+    "tags": ["problem-solving", "creativity", "approach"],
+    "timeCreated": 1720616940
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1567,
+  "audioText": "Je ne croie pas que cette méthode de jardinage soit vraiment efficace pour cultiver ces plantes exotiques.",
+  "question": "What is the speaker's opinion about the gardening method?",
+  "questionType": "comprehension",
+  "options": [
+    "They don't believe it's effective for growing exotic plants",
+    "They think it's the best method for growing exotic plants",
+    "They believe it works well for all types of plants",
+    "They are certain it will improve plant growth significantly"
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'croie' - the subjunctive form of 'croire' (to believe) for je. 'Je ne croie pas' means 'I don't believe'. The subjunctive is used to express doubt or uncertainty about the effectiveness of the gardening method.",
+  "difficulty": "C1",
+  "source": "Gardening technique discussion",
+  "tags": [
+    "gardening",
+    "opinion",
+    "techniques"
+  ],
+  "timeCreated": 1720108800
+}

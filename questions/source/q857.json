@@ -1,0 +1,18 @@
+{
+    "id": 857,
+    "audioText": "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale.",
+        "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté régionale.",
+        "Cette nouvelle grave concernant la taxation affecte profondément toute la communauté locale.",
+        "Cette nouvelle triste concernant les impôts affecte profondément toute la communauté locale."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale</em>' - This sad news about taxation deeply affects the entire local community. 'Triste' means 'sad', 'profondément' reinforces recently covered adverb, and 'taxation' targets under-represented topic, creating triple synergy. The distractors test scope confusion (régionale), synonym confusion (grave), and terminology confusion (impôts).",
+    "difficulty": "B2",
+    "source": "Tax policy impact",
+    "tags": ["taxation", "sadness", "community", "impact"],
+    "timeCreated": 1736106840
+}

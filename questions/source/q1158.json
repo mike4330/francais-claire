@@ -1,0 +1,18 @@
+{
+    "id": 1158,
+    "audioText": "Il a trouvé un petit café tranquille dans ce coin du quartier historique.",
+    "question": "Where did he find a quiet little café?",
+    "questionType": "comprehension",
+    "options": [
+        "In this corner of the historic district",
+        "Near the main shopping center",
+        "Behind the old train station",
+        "Next to the busy market square"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a trouvé un petit café tranquille dans ce coin du quartier historique</em>' - He found a quiet little café in this corner of the historic district. 'Coin' means corner or area, and 'quartier' means district or neighborhood.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage + urban exploration context",
+    "tags": ["travel", "city", "food"],
+    "timeCreated": 1752093360
+}

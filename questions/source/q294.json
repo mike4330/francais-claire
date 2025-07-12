@@ -1,0 +1,18 @@
+{
+    "id": 294,
+    "audioText": "Cette grand-mère cuisine tranquillement dans sa cuisine blanche.",
+    "question": "How does the grandmother cook?",
+    "questionType": "comprehension",
+    "options": [
+        "Quietly and calmly",
+        "Quickly and loudly",
+        "Slowly and angrily",
+        "Carelessly and messily"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette grand-mère cuisine tranquillement dans sa cuisine blanche.</em>' - This grandmother cooks quietly and calmly in her white kitchen. 'Tranquillement' means quietly/calmly, describing her peaceful cooking style, and 'blanche' means white, describing the kitchen.",
+    "difficulty": "A1",
+    "source": "Strategic food targeting",
+    "tags": ["food", "cooking", "preparation"],
+    "timeCreated": 1720715100
+}

@@ -1,0 +1,18 @@
+{
+    "id": 643,
+    "audioText": "Vous demandez toujours l'avis du sommelier avant de choisir un vin dans ce restaurant.",
+    "question": "What do you always do before choosing wine in this restaurant?",
+    "questionType": "comprehension",
+    "options": [
+        "Ask the sommelier's opinion.",
+        "Read the wine list carefully.",
+        "Check the wine prices first.",
+        "Taste different wine samples."
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Vous demandez toujours l'avis du sommelier avant de choisir un vin dans ce restaurant' - You always ask the sommelier's opinion before choosing a wine in this restaurant. 'Demandez' is the present form of 'demander' (to ask), second person plural or polite form.",
+    "difficulty": "A2",
+    "source": "Wine tasting and fine dining",
+    "tags": ["wine", "fine-dining", "sommelier", "restaurants"],
+    "timeCreated": 1735952400
+}

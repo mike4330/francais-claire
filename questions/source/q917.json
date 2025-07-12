@@ -1,0 +1,22 @@
+{
+  "id": 917,
+  "audioText": "Mon cœur bat fortement quand je dis merci.",
+  "question": "How does the speaker's heart beat when saying thank you?",
+  "questionType": "comprehension",
+  "options": [
+    "Strongly",
+    "Slowly",
+    "Quietly",
+    "Irregularly"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says '<em>Mon cœur bat fortement quand je dis merci</em>' - My heart beats strongly when I say thank you. 'Coeur' means 'heart', 'fortement' means 'strongly', 'merci' means 'thank you'.",
+  "difficulty": "A2",
+  "source": "Expressing gratitude",
+  "tags": [
+    "spirituality",
+    "gratitude",
+    "emotion"
+  ],
+  "timeCreated": 1720443300
+}

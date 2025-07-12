@@ -1,0 +1,18 @@
+{
+    "id": 852,
+    "audioText": "Ces familles pauvres trouveront certainement des solutions créatives pour améliorer leur situation financière.",
+    "question": "Ces familles ______ trouveront certainement des solutions créatives pour améliorer leur situation financière.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "pauvres",
+        "modestes",
+        "démunies",
+        "précaires"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces familles pauvres trouveront certainement des solutions créatives pour améliorer leur situation financière</em>' - These poor families will certainly find creative solutions to improve their financial situation. 'Pauvres' means 'poor' and 'trouveront' targets missing verb conjugate, combining adjective and verb synergy.",
+    "difficulty": "B1",
+    "source": "Economic hardship",
+    "tags": ["family", "economics", "solutions", "poverty"],
+    "timeCreated": 1736106540
+}

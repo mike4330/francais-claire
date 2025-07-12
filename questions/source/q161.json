@@ -1,0 +1,22 @@
+{
+  "id": 161,
+  "audioText": "C'est un étudiant sérieux.",
+  "question": "What kind of student is he?",
+  "questionType": "comprehension",
+  "options": [
+    "A serious student",
+    "A lazy student",
+    "A funny student",
+    "A young student"
+  ],
+  "correct": 0,
+  "explanation": "The phrase 'C'est un étudiant sérieux' means 'He is a serious student.' The adjective 'sérieux' means serious/studious, describing the student's academic attitude.",
+  "difficulty": "A2",
+  "source": "Student Description",
+  "tags": [
+    "education",
+    "student-life",
+    "personality"
+  ],
+  "timeCreated": 1720026800
+}

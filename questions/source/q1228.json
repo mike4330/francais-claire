@@ -1,0 +1,19 @@
+{
+    "id": 1228,
+    "audioText": "Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle",
+        "Cette situation grave nécessite un mouvement rapide pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle",
+        "Cette situation grave nécessite un mouvement précis pour résoudre les problèmes réels qui affectent indéfiniment l'équipe professionnelle",
+        "Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent définitivement l'équipe professionnelle"
+    ],
+    "correct": 0,
+    "parentQuestion": 1016,
+    "explanation": "The correct text is '<em>Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle</em>' - This serious situation requires a precise movement to recognize real problems that indefinitely affect the professional team. Key words: 'précis' (precise, not 'rapide' - fast), 'reconnaître' (recognize, not 'résoudre' - solve), and 'indéfiniment' (indefinitely, not 'définitivement' - definitively).",
+    "difficulty": "B2",
+    "source": "Listening version of Q1016",
+    "tags": ["workplace", "movement", "recognition"],
+    "timeCreated": 1720962840
+}

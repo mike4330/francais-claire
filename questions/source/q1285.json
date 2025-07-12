@@ -1,0 +1,18 @@
+{
+    "id": 1285,
+    "audioText": "Ce maître profond enseigne librement les techniques avancées à ses étudiants passionnés.",
+    "question": "Ce ______ profond enseigne librement les techniques avancées à ses étudiants passionnés.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "maître",
+        "professeur",
+        "directeur",
+        "expert"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce maître profond enseigne librement les techniques avancées à ses étudiants passionnés</em>' - This profound master freely teaches advanced techniques to his passionate students. 'Maître' is a masculine noun meaning 'master/teacher', often used for highly skilled practitioners or teachers.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: maître + profond + librement + techniques",
+    "tags": ["education", "mastery", "teaching"],
+    "timeCreated": 1736624160
+}

@@ -1,0 +1,21 @@
+{
+  "id": 37,
+  "audioText": "Hier soir, il y a eu un gros orage avec beaucoup de pluie et de vent.",
+  "question": "Hier soir, il y a eu un gros ______ avec beaucoup de pluie et de vent.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "orage",
+    "soleil",
+    "neige",
+    "brouillard"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'orage'. La phrase complète est 'Hier soir, il y a eu un gros orage avec beaucoup de pluie et de vent.' - Last night, there was a big thunderstorm with lots of rain and wind.",
+  "difficulty": "A2",
+  "source": "Weather Report",
+  "tags": [
+    "weather",
+    "storm",
+    "nature"
+  ]
+}

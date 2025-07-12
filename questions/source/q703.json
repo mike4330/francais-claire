@@ -1,0 +1,23 @@
+{
+  "id": 703,
+  "audioText": "Son explication était si claire qu'elle a corrigé toutes ses réponses fausses immédiatement.",
+  "question": "Son explication était si ______ qu'elle a corrigé toutes ses réponses fausses immédiatement.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "claire",
+    "longue",
+    "difficile",
+    "rapide"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son explication était si claire qu'elle a corrigé toutes ses réponses fausses immédiatement</em>' - His explanation was so clear that she corrected all her false answers immediately. 'Claire' (clear) contrasts with 'fausses' (false), showing how clarity helped fix errors.",
+  "difficulty": "B2",
+  "source": "Educational correction",
+  "tags": [
+    "education",
+    "explanations",
+    "corrections",
+    "clarity"
+  ],
+  "timeCreated": 1736103120
+}

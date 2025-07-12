@@ -1,0 +1,18 @@
+{
+    "id": 1291,
+    "audioText": "J'ai écouté attentivement ce discours toutefois étrangement confus du nouveau directeur.",
+    "question": "J'ai ______ attentivement ce discours toutefois étrangement confus du nouveau directeur.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "écouté",
+        "écouter",
+        "écoute",
+        "écoutez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai écouté attentivement ce discours toutefois étrangement confus du nouveau directeur</em>' - I listened carefully to this speech that was however strangely confusing from the new director. 'Écouté' is the past participle of 'écouter' (to listen), used in the passé composé.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: écouté + toutefois + étrangement",
+    "tags": ["communication", "management", "confusion"],
+    "timeCreated": 1736624520
+}

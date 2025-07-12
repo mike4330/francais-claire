@@ -1,0 +1,18 @@
+{
+    "id": 1165,
+    "audioText": "Il a tourné vers la gauche au lieu de continuer tout droit vers l'école.",
+    "question": "Which direction did he turn instead of going straight to school?",
+    "questionType": "comprehension",
+    "options": [
+        "He turned left",
+        "He turned right",
+        "He turned around",
+        "He continued straight"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a tourné vers la gauche au lieu de continuer tout droit vers l'école</em>' - He turned left instead of continuing straight toward the school. 'Gauche' means left (direction), and 'au lieu de' means instead of.",
+    "difficulty": "B1",
+    "source": "Strategic adjective coverage reinforcement",
+    "tags": ["directions", "movement", "education"],
+    "timeCreated": 1752094101
+}

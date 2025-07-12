@@ -1,0 +1,18 @@
+{
+    "id": 1375,
+    "audioText": "Quand j'étais plus jeune, je travaillais là-dessus pour améliorer mes compétences.",
+    "question": "Quand j'étais plus jeune, je ______ là-dessus pour améliorer mes compétences.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "travaillais",
+        "travaillait",
+        "travaille",
+        "travaillerai"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Quand j'étais plus jeune, je travaillais là-dessus pour améliorer mes compétences</em>' - When I was younger, I worked on that to improve my skills. 'Travaillais' (imperfect, first person singular) matches the past context of 'j'étais' and expresses ongoing action in the past.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: travaillais + là-dessus",
+    "tags": ["personal-development", "skills", "youth"],
+    "timeCreated": 1736628300
+}

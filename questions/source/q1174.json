@@ -1,0 +1,18 @@
+{
+    "id": 1174,
+    "audioText": "Le soleil brûlant a endommagé la peau sensible de son visage pendant les vacances.",
+    "question": "What did the burning sun damage during the vacation?",
+    "questionType": "comprehension",
+    "options": [
+        "The sensitive skin of his face",
+        "The sensitive skin of his hands",
+        "The sensitive skin of his back",
+        "The sensitive skin of his arms"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le soleil brûlant a endommagé la peau sensible de son visage pendant les vacances</em>' - The burning sun damaged the sensitive skin of his face during the vacation. 'Peau' means skin, 'sensible' means sensitive, and 'brûlant' means burning.",
+    "difficulty": "B2",
+    "source": "Strategic bottom noun coverage",
+    "tags": ["health", "travel", "sun-damage"],
+    "timeCreated": 1752095800
+}

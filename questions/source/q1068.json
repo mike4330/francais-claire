@@ -1,0 +1,18 @@
+{
+    "id": 1068,
+    "audioText": "Elle est allée au-devant de ses invités pour les accueillir.",
+    "question": "What did she do regarding her guests?",
+    "questionType": "comprehension",
+    "options": [
+        "She waited for them inside",
+        "She went to meet them and welcome them",
+        "She prepared food for them",
+        "She called them on the phone"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Elle est allée au-devant de ses invités pour les accueillir</em>' - She went to meet her guests to welcome them. 'Au-devant de' means 'to meet' or 'to go towards'.",
+    "difficulty": "B2",
+    "source": "Social gathering scenario",
+    "tags": ["hospitality", "social-interaction", "greeting"],
+    "timeCreated": 1720401840
+}

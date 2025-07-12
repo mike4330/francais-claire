@@ -1,0 +1,18 @@
+{
+    "id": 1300,
+    "audioText": "Votre avis professionnel compte énormément pour cette décision importante concernant notre avenir.",
+    "question": "Votre ______ professionnel compte énormément pour cette décision importante concernant notre avenir.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "avis",
+        "conseil",
+        "opinion",
+        "idée"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Votre avis professionnel compte énormément pour cette décision importante concernant notre avenir</em>' - Your professional opinion matters enormously for this important decision concerning our future. 'Avis' (opinion/advice) is the correct noun, often used in formal contexts.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: avis + énormément + concernant",
+    "tags": ["workplace", "decision-making", "consultation"],
+    "timeCreated": 1736625180
+}

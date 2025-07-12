@@ -1,0 +1,23 @@
+{
+  "id": 1727,
+  "audioText": "Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
+    "Les instructions ont été minutieusement suivies par l'équipe de développement pour garantir la qualité du produit final.",
+    "Les directives ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
+    "Les instructions ont été soigneusement suivis par l'équipe de développement pour garantir la qualité du produit final."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.' Note 'instructions' vs 'directives', 'minutieusement' vs 'soigneusement', and 'suivis' vs 'suivies'. 'Suivis' is the past participle of 'suivre' (to follow).",
+  "difficulty": "C1",
+  "source": "Software development and quality assurance",
+  "tags": [
+    "software-development",
+    "quality-assurance",
+    "instructions",
+    "teamwork"
+  ],
+  "timeCreated": 1735949700
+}

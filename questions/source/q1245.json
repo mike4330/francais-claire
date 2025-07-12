@@ -1,0 +1,18 @@
+{
+    "id": 1245,
+    "audioText": "Pendant que mes oncles essayaient différentes solutions ridicules, ma tante gardait un sourire pâle malgré cette horrible situation familiale.",
+    "question": "What were the uncles doing while the aunt maintained her composure?",
+    "questionType": "comprehension",
+    "options": [
+        "Trying different ridiculous solutions",
+        "Arguing about financial matters",
+        "Discussing travel arrangements",
+        "Planning business strategies"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>mes oncles essayaient différentes solutions ridicules</em>' - my uncles were trying different ridiculous solutions. The verb 'essayaient' (imperfect tense of 'essayer') indicates they were in the process of attempting various solutions, which the speaker describes as 'ridicules' (ridiculous).",
+    "difficulty": "B2",
+    "source": "Strategic question targeting missing conjugate 'essayaient' with synergistic vocabulary",
+    "tags": ["family", "problem-solving", "emotions"],
+    "timeCreated": 1720656120
+}

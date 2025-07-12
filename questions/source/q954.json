@@ -1,0 +1,24 @@
+{
+  "id": 954,
+  "audioText": "Aujourd'hui il y a tellement d'exceptions qui ont été mises qu'à la fin le départ moyen des Français va augmenter de six mois seulement",
+  "question": "According to Gabriel Attal, what will be the impact of the retirement reform on the average French retirement age?",
+  "questionType": "comprehension",
+  "options": [
+    "It will increase by only six months",
+    "It will increase by several years",
+    "It will decrease significantly",
+    "It will remain completely unchanged"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Aujourd'hui il y a tellement d'exceptions qui ont été mises qu'à la fin le départ moyen des Français va augmenter de six mois seulement</em>' - Today there are so many exceptions that have been put in place that in the end the average departure of French people will only increase by six months. Gabriel Attal states that due to all the exceptions, the retirement age will only increase by six months, reflecting the political debate about retirement reform effectiveness.",
+  "difficulty": "B1",
+  "source": "Gabriel Attal statement on retirement reform",
+  "tags": [
+    "politics",
+    "retirement",
+    "government-policy",
+    "political-debate",
+    "social-issues"
+  ],
+  "timeCreated": 1751331800
+}

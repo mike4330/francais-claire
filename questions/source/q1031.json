@@ -1,0 +1,18 @@
+{
+    "id": 1031,
+    "audioText": "Ces gars aidés par papa ont finalement compris le sens de cette leçon.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Ces gars aidés par papa ont finalement compris le sens de cette leçon.",
+        "Ces gars aidés par papa ont finalement compris le sens de cette histoire.",
+        "Ces gars aidés par maman ont finalement compris le sens de cette leçon.",
+        "Ces gars soutenus par papa ont finalement compris le sens de cette leçon."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Ces gars aidés par papa ont finalement compris le sens de cette leçon.</em>' - 'These guys helped by dad finally understood the meaning of this lesson.' The verb 'aidés' is the past participle of 'aider' (to help), agreeing with the masculine plural noun 'gars'.",
+    "difficulty": "B1",
+    "source": "Strategic verb conjugate targeting",
+    "tags": ["family", "education", "understanding"],
+    "timeCreated": 1720715700
+}

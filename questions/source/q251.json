@@ -1,0 +1,18 @@
+{
+    "id": 251,
+    "audioText": "Notre tente est delà la rivière.",
+    "question": "Where is their tent?",
+    "questionType": "comprehension",
+    "options": [
+        "Beyond the river",
+        "Beside the river",
+        "Before the river",
+        "Below the river"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Notre tente est delà la rivière</em>' - Our tent is beyond the river. 'Delà' means 'beyond' or 'on the other side of'.",
+    "difficulty": "A2",
+    "source": "Camping trip",
+    "tags": ["camping", "nature", "location"],
+    "timeCreated": 1720442460
+}

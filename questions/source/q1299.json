@@ -1,0 +1,18 @@
+{
+    "id": 1299,
+    "audioText": "Son geste généreux va certainement inspirer beaucoup de personnes dans notre communauté.",
+    "question": "Son ______ généreux va certainement inspirer beaucoup de personnes dans notre communauté.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "geste",
+        "gestes",
+        "gestion",
+        "gestuelle"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son geste généreux va certainement inspirer beaucoup de personnes dans notre communauté</em>' - His generous gesture will certainly inspire many people in our community. 'Geste' (gesture/act) is the correct noun, masculine singular with the possessive adjective 'son'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: geste + généreux + certainement",
+    "tags": ["kindness", "community", "inspiration"],
+    "timeCreated": 1736625060
+}

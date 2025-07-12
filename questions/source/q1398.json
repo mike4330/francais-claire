@@ -1,0 +1,18 @@
+{
+    "id": 1398,
+    "audioText": "Le juge prononce solennellement la sentence contre cet homme qui a agi sauvagement.",
+    "question": "What does this sentence convey about the judicial proceeding?",
+    "questionType": "comprehension",
+    "options": [
+        "The judge solemnly pronounces sentence against a man who acted savagely",
+        "The judge quickly dismisses charges against a man who acted kindly",
+        "The judge hesitantly delays sentence for a man who acted properly",
+        "The judge cheerfully announces pardon for a man who acted gently"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le juge prononce solennellement la sentence contre cet homme qui a agi sauvagement</em>' - The judge solemnly pronounces the sentence against this man who acted savagely. 'Solennellement' means solemnly/ceremoniously, and 'sauvagement' means savagely/brutally.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: solennellement + sauvagement",
+    "tags": ["justice", "court", "sentencing"],
+    "timeCreated": 1736630640
+}

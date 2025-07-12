@@ -1,0 +1,18 @@
+{
+    "id": 1198,
+    "audioText": "Son nom n'apparaît nulle part sur ce tour de garde et ça me semble étrange.",
+    "question": "What seems strange about the schedule?",
+    "questionType": "comprehension",
+    "options": [
+        "His name doesn't appear anywhere on the duty roster",
+        "The schedule is written in a different language",
+        "There are too many people assigned to each shift",
+        "The timing of the shifts is confusing"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son nom n'apparaît nulle part sur ce tour de garde et ça me semble étrange</em>' - His name doesn't appear anywhere on this duty roster and that seems strange to me. This targets the nouns 'nom' and 'tour' in the context of work scheduling.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: nom, tour",
+    "tags": ["workplace", "scheduling", "organization"],
+    "timeCreated": 1720616700
+}

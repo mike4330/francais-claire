@@ -1,0 +1,18 @@
+{
+    "id": 1054,
+    "audioText": "Il resta debout pendant toute la cérémonie officielle malgré sa fatigue évidente.",
+    "question": "Il ______ debout pendant toute la cérémonie officielle malgré sa fatigue évidente.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "resta",
+        "reste",
+        "restait",
+        "resterait"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il resta debout pendant toute la cérémonie officielle malgré sa fatigue évidente.</em>' - 'He remained standing throughout the official ceremony despite his obvious fatigue.' The missing word is 'resta' (remained), the simple past tense third person singular of 'rester'.",
+    "difficulty": "B2",
+    "source": "Official ceremonies and physical endurance",
+    "tags": ["ceremony", "endurance", "fatigue", "official-events"],
+    "timeCreated": 1736349420
+}

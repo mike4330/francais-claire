@@ -1,0 +1,18 @@
+{
+    "id": 131,
+    "audioText": "Mon petit frère ne pouvait pas dormir à cause du bruit.",
+    "question": "Mon petit frère ne ______ pas dormir à cause du bruit.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "pouvait",
+        "peut",
+        "pourra",
+        "pu"
+    ],
+    "correct": 0,
+    "explanation": "The correct form is 'pouvait' (imperfect tense of 'pouvoir'). It describes a past state - the little brother could not sleep because of the noise.",
+    "difficulty": "A2",
+    "source": "Sleep Problems",
+    "tags": ["family", "sleep", "noise", "problems"],
+    "timeCreated": 1719965100
+}

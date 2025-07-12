@@ -1,0 +1,18 @@
+{
+    "id": 275,
+    "audioText": "Elle dit tendrement au revoir avant leur séparation.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Elle dit tendrement au revoir avant leur séparation.",
+        "Elle dit tristement au revoir avant leur séparation.",
+        "Elle dit doucement au revoir avant leur séparation.",
+        "Elle dit calmement au revoir avant leur séparation."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle dit tendrement au revoir avant leur séparation</em>' - She tenderly says goodbye before their separation. 'Tendrement' means tenderly or lovingly, showing affection in a difficult moment of parting.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting for 'tendrement'",
+    "tags": ["separation", "family", "emotion"],
+    "timeCreated": 1751853190
+}

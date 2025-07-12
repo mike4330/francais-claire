@@ -1,0 +1,18 @@
+{
+    "id": 544,
+    "audioText": "Ce concert était absolument formidable, l'orchestre a joué avec une précision remarquable.",
+    "question": "Ce concert était absolument ______, l'orchestre a joué avec une précision remarquable.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "formidable",
+        "décevant",
+        "ennuyeux",
+        "moyen"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'formidable' meaning 'fantastic' or 'wonderful'. This concert was absolutely fantastic, the orchestra played with remarkable precision. 'Formidable' expresses high praise and admiration.",
+    "difficulty": "B2",
+    "source": "Concert review",
+    "tags": ["music", "performance", "praise"],
+    "timeCreated": 1720077400
+}

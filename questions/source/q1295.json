@@ -1,0 +1,18 @@
+{
+    "id": 1295,
+    "audioText": "Tu commences justement à comprendre l'importance de cette formation professionnelle continue.",
+    "question": "Tu ______ justement à comprendre l'importance de cette formation professionnelle continue.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "commences",
+        "commence",
+        "commencez",
+        "commencent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu commences justement à comprendre l'importance de cette formation professionnelle continue</em>' - You are just starting to understand the importance of this continuous professional training. 'Commences' is the second person singular present form of 'commencer' (to start/begin).",
+    "difficulty": "B1",
+    "source": "Strategic targeting: commences + justement + professionnelle",
+    "tags": ["education", "understanding", "professional-development"],
+    "timeCreated": 1736624760
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1393,
+    "audioText": "Pendant mes vacances, je dormais fièrement et convenablement sans aucun souci professionnel.",
+    "question": "Pendant mes vacances, je ______ fièrement et convenablement sans aucun souci professionnel.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "dormais",
+        "dors",
+        "dormirai",
+        "dormant"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Pendant mes vacances, je dormais fièrement et convenablement sans aucun souci professionnel</em>' - During my vacation, I slept proudly and properly without any professional worries. 'Dormais' is the imperfect tense (ongoing past action) appropriate for vacation context. 'Fièrement' means proudly and 'convenablement' means properly.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: dormais + fièrement + convenablement",
+    "tags": ["vacation", "sleep", "relaxation"],
+    "timeCreated": 1736630100
+}

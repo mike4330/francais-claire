@@ -1,0 +1,23 @@
+{
+  "id": 1106,
+  "audioText": "Autrefois, je faisais du vélo tous les jours après l'école.",
+  "question": "What did the speaker do when they were little?",
+  "questionType": "comprehension",
+  "options": [
+    "They rode their bike every day after school",
+    "They played soccer with friends every afternoon",
+    "They did homework immediately after school",
+    "They watched TV every evening after dinner"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Autrefois, je faisais du vélo tous les jours après l'école</em>' - In the past, I used to ride my bike every day after school. 'Faisais' is the imperfect form of 'faire' (to do/make), and 'autrefois' means 'in the past/formerly'.",
+  "difficulty": "B2",
+  "source": "Childhood Memories",
+  "tags": [
+    "childhood",
+    "daily-life",
+    "sports",
+    "routine"
+  ],
+  "timeCreated": 1719963500
+}

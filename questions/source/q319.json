@@ -1,0 +1,18 @@
+{
+    "id": 319,
+    "audioText": "Ma mère habituellement fait ses courses le samedi matin.",
+    "question": "Ma mère ______ fait ses courses le samedi matin.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "habituellement",
+        "rarement",
+        "jamais",
+        "parfois"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma mère habituellement fait ses courses le samedi matin</em>' - My mother usually does her shopping on Saturday morning. 'Habituellement' means usually or habitually, indicating a regular routine.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting for 'habituellement'",
+    "tags": ["shopping", "routine", "family"],
+    "timeCreated": 1720867000
+}

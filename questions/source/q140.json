@@ -1,0 +1,18 @@
+{
+    "id": 140,
+    "audioText": "Le joueur a marqué un but avec son pied gauche.",
+    "question": "How did the player score the goal?",
+    "questionType": "comprehension",
+    "options": [
+        "With his left foot",
+        "With his right foot",
+        "With his head",
+        "With his chest"
+    ],
+    "correct": 0,
+    "explanation": "The sentence says 'Le joueur a marqué un but avec son pied gauche' - The player scored a goal with his left foot. 'Gauche' means left (direction), referring to the left foot used to score.",
+    "difficulty": "A2",
+    "source": "Football Match",
+    "tags": ["sports", "football", "goals", "body-parts"],
+    "timeCreated": 1720052940
+}

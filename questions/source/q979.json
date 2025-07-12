@@ -1,0 +1,18 @@
+{
+    "id": 979,
+    "audioText": "Ce gars travaille dans notre équipe depuis trois ans et il connaît vraiment bien le projet.",
+    "question": "What do we learn about this person?",
+    "questionType": "comprehension",
+    "options": [
+        "He has been working on the team for three years and knows the project well",
+        "He started working on the project three years ago but is still learning",
+        "He worked on three different projects and knows them all well",
+        "He has been working for three years but on different teams"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce gars travaille dans notre équipe depuis trois ans et il connaît vraiment bien le projet</em>' - This guy has been working on our team for three years and he really knows the project well. The key phrase 'depuis trois ans' indicates duration (for three years), and 'connaît vraiment bien' confirms his expertise with the project.",
+    "difficulty": "B1",
+    "source": "Workplace conversation",
+    "tags": ["workplace", "team", "experience"],
+    "timeCreated": 1720354800
+}

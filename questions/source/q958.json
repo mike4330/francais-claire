@@ -1,0 +1,23 @@
+{
+  "id": 958,
+  "audioText": "Soyez prudents quand vous traversez la rue, il y a beaucoup de circulation.",
+  "question": "______ prudents quand vous traversez la rue, il y a beaucoup de circulation.",
+  "questionType": "FIB-reading",
+  "options": [
+    "Soyez",
+    "Êtes",
+    "Serez",
+    "Être"
+  ],
+  "correct": 0,
+  "explanation": "The imperative form 'soyez' is used to give a command or instruction to multiple people (vous form). Here it means 'Be careful' when addressing a group.",
+  "difficulty": "B1",
+  "source": "Safety instruction using imperative mood",
+  "tags": [
+    "safety",
+    "traffic",
+    "instructions",
+    "daily-life"
+  ],
+  "timeCreated": 1735689600
+}

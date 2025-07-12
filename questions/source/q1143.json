@@ -1,0 +1,18 @@
+{
+    "id": 1143,
+    "audioText": "Le roi formidable cache son nez dans cette pièce où l'effet devient spontanément hautement instantané.",
+    "question": "What does the formidable king hide in the room?",
+    "questionType": "comprehension",
+    "options": [
+        "His nose in the room where the effect becomes spontaneously highly instantaneous",
+        "His crown in the chamber where the result becomes slowly slightly gradual",
+        "His hand in the space where the outcome becomes quickly moderately delayed",
+        "His foot in the area where the consequence becomes rarely extremely permanent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le roi formidable cache son nez dans cette pièce où l'effet devient spontanément hautement instantané.</em>' - The formidable king hides his nose in this room where the effect becomes spontaneously highly instantaneous. The king ('roi') hides his nose ('nez') in the room ('pièce') where the effect ('effet') transforms.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["royalty", "hiding", "transformation", "space"],
+    "timeCreated": 1720825980
+}

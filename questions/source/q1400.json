@@ -1,0 +1,18 @@
+{
+    "id": 1400,
+    "audioText": "La situation économique se détériore insensiblement depuis des mois, il faut agir illico.",
+    "question": "La situation économique se détériore ______ depuis des mois, il faut agir illico.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "insensiblement",
+        "insensible",
+        "insensibles",
+        "insensé"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La situation économique se détériore insensiblement depuis des mois, il faut agir illico</em>' - The economic situation has been deteriorating imperceptibly for months, we must act immediately. 'Insensiblement' means imperceptibly/gradually, and 'illico' (colloquial) means immediately/right away.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: insensiblement + illico",
+    "tags": ["economics", "deterioration", "urgency"],
+    "timeCreated": 1736631000
+}

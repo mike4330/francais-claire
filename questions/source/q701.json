@@ -1,0 +1,18 @@
+{
+    "id": 701,
+    "audioText": "Tu croiras tout ce que racontent les médias sur cette affaire politique?",
+    "question": "What will the person believe according to the speaker?",
+    "questionType": "comprehension",
+    "options": [
+        "Everything the media says about this political matter",
+        "Only the official government statements",
+        "What their friends tell them about politics",
+        "Nothing until they investigate themselves"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Tu croiras tout ce que racontent les médias sur cette affaire politique?' - Will you believe everything the media says about this political matter? 'Croiras' is the second person singular future tense of 'croire' (to believe), expressing doubt about future belief.",
+    "difficulty": "B1",
+    "source": "Media skepticism discussion",
+    "tags": ["politics", "media", "skepticism", "belief", "news"],
+    "timeCreated": 1736066600
+}

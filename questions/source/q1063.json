@@ -1,0 +1,18 @@
+{
+    "id": 1063,
+    "audioText": "Tu arrêteras cette mauvaise habitude quand tu comprendras ses conséquences négatives.",
+    "question": "Tu ______ cette mauvaise habitude quand tu comprendras ses conséquences négatives.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "arrêteras",
+        "arrêtes",
+        "arrêtais",
+        "arrêterais"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu arrêteras cette mauvaise habitude quand tu comprendras ses conséquences négatives.</em>' - 'You will stop this bad habit when you understand its negative consequences.' The missing word is 'arrêteras' (will stop), the future tense second person singular of 'arrêter'.",
+    "difficulty": "B1",
+    "source": "Personal development and habit change",
+    "tags": ["habits", "personal-development", "consequences", "change"],
+    "timeCreated": 1736349960
+}

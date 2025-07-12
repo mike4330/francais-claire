@@ -1,0 +1,19 @@
+{
+    "id": 1227,
+    "audioText": "Les experts pensent que cette nouvelle technologie peut-être révolutionnera complètement notre façon de travailler.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Les experts pensent que cette nouvelle technologie peut-être révolutionnera complètement notre façon de travailler",
+        "Les experts pensent que cette nouvelle technologie certainement révolutionnera complètement notre façon de travailler",
+        "Les experts disent que cette nouvelle technologie peut-être révolutionnera complètement notre façon de travailler",
+        "Les experts pensent que cette nouvelle technologie peut-être transformera complètement notre façon de travailler"
+    ],
+    "correct": 0,
+    "parentQuestion": 718,
+    "explanation": "The correct text is '<em>Les experts pensent que cette nouvelle technologie peut-être révolutionnera complètement notre façon de travailler</em>' - The experts think this new technology might completely revolutionize our way of working. Key words: 'peut-être' (maybe, not 'certainement' - certainly), 'pensent' (think, not 'disent' - say), and 'révolutionnera' (will revolutionize, not 'transformera' - will transform).",
+    "difficulty": "B2",
+    "source": "Listening version of Q718",
+    "tags": ["technology", "workplace", "future"],
+    "timeCreated": 1720962780
+}

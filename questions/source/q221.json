@@ -1,0 +1,18 @@
+{
+    "id": 221,
+    "audioText": "Mes grands-parents aimaient beaucoup jouer aux cartes ensemble le soir.",
+    "question": "What did the grandparents like to do?",
+    "questionType": "comprehension",
+    "options": [
+        "Play cards together in the evening",
+        "Watch television together in the evening",
+        "Read books together in the evening",
+        "Listen to music together in the evening"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mes grands-parents aimaient beaucoup jouer aux cartes ensemble le soir</em>' - My grandparents really liked to play cards together in the evening. 'Aimaient' is the imperfect form of 'aimer' (to like/love) for 3rd person plural, indicating a habitual past action.",
+    "difficulty": "A2",
+    "source": "Family activities",
+    "tags": ["family", "hobbies", "grandparents", "games"],
+    "timeCreated": 1736064500
+}

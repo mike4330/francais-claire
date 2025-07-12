@@ -1,0 +1,22 @@
+{
+  "id": 1337,
+  "audioText": "« Je vais m'éloigner de cet environnement dangereux » : un membre d'extrême droite sort de prison. Neuf personnes sont accusées d'avoir attaqué un homme qui assistait à un événement contre le fascisme.",
+  "parentQuestion": 1596,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "« Je vais m'éloigner de cet environnement dangereux » : un membre d'extrême droite sort de prison. Neuf personnes sont accusées d'avoir attaqué un homme qui assistait à un événement contre le fascisme.",
+    "« Je vais m'éloigner de cet environnement dangereux » : un membre d'extrême droite sort de prison. Huit personnes sont accusées d'avoir attaqué un homme qui assistait à un événement contre le fascisme.",
+    "« Je vais m'éloigner de cet environnement dangereux » : un membre d'extrême droite sort de prison. Neuf personnes sont accusées d'avoir attaqué un homme qui assistait à un événement pour la démocratie.",
+    "« Je vais m'éloigner de cet environnement difficile » : un membre d'extrême droite sort de prison. Neuf personnes sont accusées d'avoir attaqué un homme qui assistait à un événement contre le fascisme."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était '« Je vais m'éloigner de cet environnement dangereux » : un membre d'extrême droite sort de prison. Neuf personnes sont accusées d'avoir attaqué un homme qui assistait à un événement contre le fascisme.' - 'I'm going to distance myself from this dangerous environment': a far-right member gets out of prison. Nine people are accused of attacking a man who was attending an anti-fascism event.",
+  "difficulty": "B2",
+  "source": "French Legal/Political News - Listening",
+  "tags": [
+    "politics",
+    "extremism",
+    "legal"
+  ]
+}

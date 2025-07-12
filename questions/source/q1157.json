@@ -1,0 +1,18 @@
+{
+    "id": 1157,
+    "audioText": "Ce gars travaille vraiment bien avec toute l'équipe depuis le début du projet.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Ce gars travaille vraiment bien avec toute l'équipe depuis le début du projet",
+        "Ce garçon travaille vraiment mal avec toute l'équipe depuis le début du projet",
+        "Ce gars travaille vraiment bien avec toute l'équipe depuis la fin du projet",
+        "Ce gars travaille vraiment peu avec toute l'équipe depuis le début du projet"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce gars travaille vraiment bien avec toute l'équipe depuis le début du projet</em>' - This guy really works well with the whole team since the beginning of the project. 'Gars' is an informal word for 'guy' or 'fellow', and 'depuis' means 'since'.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage + informal speech context",
+    "tags": ["workplace", "teamwork", "casual-conversation"],
+    "timeCreated": 1752093000
+}

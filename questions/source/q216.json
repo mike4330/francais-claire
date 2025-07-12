@@ -1,0 +1,19 @@
+
+{
+    "id": 216,
+    "audioText": "J'ai visité Paris trois fois.",
+    "question": "J'ai visité Paris trois ______.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fois",
+        "heure",
+        "jour",
+        "an"
+    ],
+    "correct": 0,
+    "explanation": "'Fois' means 'times' (as in occurrences). The sentence indicates visiting Paris three times.",
+    "difficulty": "A2",
+    "source": "Gemini-generated",
+    "tags": ["travel", "frequency"],
+    "timeCreated": 1720134000
+}

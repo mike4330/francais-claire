@@ -1,0 +1,18 @@
+{
+    "id": 1288,
+    "audioText": "Tu deviens vraiment mince quand tu travailles dans cette atmosphère stressante.",
+    "question": "Tu ______ vraiment mince quand tu travailles dans cette atmosphère stressante.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "deviens",
+        "devient",
+        "devenez",
+        "deviennent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu deviens vraiment mince quand tu travailles dans cette atmosphère stressante</em>' - You become really thin when you work in this stressful atmosphere. 'Deviens' is the second person singular present form of 'devenir' (to become).",
+    "difficulty": "B1",
+    "source": "Strategic targeting: deviens + mince + atmosphère",
+    "tags": ["health", "workplace", "stress"],
+    "timeCreated": 1736624340
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1239,
+    "audioText": "Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire",
+        "Sa chance tournait définitivement quand il a découvert cette opportunité personnelle extraordinaire",
+        "Sa chance changeait définitivement quand il a découvert cette opportunité professionnelle extraordinaire",
+        "Sa chance tournait complètement quand il a découvert cette opportunité professionnelle extraordinaire"
+    ],
+    "correct": 0,
+    "parentQuestion": 1013,
+    "explanation": "The correct text is '<em>Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire</em>' - His luck was definitively turning when he discovered this extraordinary professional opportunity. Key words: 'professionnelle' (professional, not 'personnelle' - personal), 'tournait' (was turning, not 'changeait' - was changing), and 'définitivement' (definitively, not 'complètement' - completely).",
+    "difficulty": "B2",
+    "source": "Listening version of Q1013",
+    "tags": ["luck", "opportunity", "career"],
+    "timeCreated": 1720963920
+}

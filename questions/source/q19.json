@@ -1,0 +1,22 @@
+{
+  "id": 19,
+  "audioText": "Vous vivez sainement si vous mangez des céréales chaque matin.",
+  "question": "Vous ______ sainement si vous mangez des céréales chaque matin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "vivez",
+    "vivons",
+    "vivent",
+    "vis"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous vivez sainement si vous mangez des céréales chaque matin</em>' - You live healthily if you eat cereals every morning. 'Vivez' is the second person plural form of 'vivre' (to live), used with 'vous'.",
+  "difficulty": "A2",
+  "source": "Healthy eating",
+  "tags": [
+    "cereals",
+    "health",
+    "breakfast"
+  ],
+  "timeCreated": 1704416040
+}

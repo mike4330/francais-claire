@@ -1,0 +1,22 @@
+{
+  "id": 163,
+  "audioText": "Il faut que tu dises la vérité.",
+  "question": "Il faut que tu ______ la vérité.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "dises",
+    "dis",
+    "dire",
+    "disant"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'dises' (2nd person singular subjunctive of 'dire'). After 'il faut que' (it is necessary that), the subjunctive mood is required. 'Il faut que tu dises la vérité' means 'You must tell the truth.'",
+  "difficulty": "A2",
+  "source": "Truth and Honesty",
+  "tags": [
+    "honesty",
+    "truth",
+    "advice"
+  ],
+  "timeCreated": 1720027280
+}

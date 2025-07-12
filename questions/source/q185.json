@@ -1,0 +1,18 @@
+{
+    "id": 185,
+    "audioText": "Dans ma jeunesse, je parlais souvent avec mes animaux domestiques.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Dans ma jeunesse, je parlais souvent avec mes animaux domestiques.",
+        "Dans ma jeunesse, je jouais souvent avec mes animaux domestiques.",
+        "Dans ma jeunesse, je gardais souvent mes animaux domestiques.",
+        "Dans ma jeunesse, je nourrissais souvent mes animaux domestiques."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans ma jeunesse, je parlais souvent avec mes animaux domestiques</em>' - In my youth, I often talked with my pets. 'Parlais' is the imperfect form of 'parler' (to talk). The distractors test verb confusion (jouais, gardais, nourrissais).",
+    "difficulty": "A2",
+    "source": "Childhood pet memories",
+    "tags": ["animals", "childhood", "pets"],
+    "timeCreated": 1720108800
+}

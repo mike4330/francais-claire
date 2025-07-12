@@ -1,0 +1,18 @@
+{
+    "id": 913,
+    "audioText": "Cette sorte de chef cuisine étrangement avec du sang dans ses recettes traditionnelles.",
+    "question": "How does this type of chef cook?",
+    "questionType": "comprehension",
+    "options": [
+        "Strangely with blood in traditional recipes",
+        "Carefully with fresh herbs and spices",
+        "Quickly with modern cooking techniques",
+        "Slowly with expensive imported ingredients"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Cette sorte de chef cuisine étrangement avec du sang dans ses recettes traditionnelles</em>' - This type of chef cooks strangely with blood in their traditional recipes. 'Sorte' means 'type/kind', 'chef' means 'chef', 'étrangement' means 'strangely', 'sang' means 'blood'.",
+    "difficulty": "B1",
+    "source": "Traditional cuisine",
+    "tags": ["food", "tradition", "cooking"],
+    "timeCreated": 1720443420
+}

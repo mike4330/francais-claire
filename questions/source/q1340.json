@@ -1,0 +1,26 @@
+{
+  "id": 1340,
+  "audioText": "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours respectées.",
+  "parentQuestion": 942,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours respectées.",
+    "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours appliquées.",
+    "Les coiffeurs de France manifestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains salons. En cause : des prix coupés au rasoir et des règles pas toujours respectées.",
+    "Les coiffeurs de France protestent aujourd'hui à Paris pour dénoncer la concurrence déloyale exercée, selon eux, par certains barbiers. En cause : des prix coupés au rasoir et des règles pas toujours respectées."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'manifestent' (pas 'protestent'), 'barbiers' (pas 'salons'), et 'respectées' (pas 'appliquées'). L'expression 'prix coupés au rasoir' est un jeu de mots typique du français parlé dans ce contexte professionnel.",
+  "difficulty": "B2",
+  "source": "Professional Trade News - Listening",
+  "tags": [
+    "business",
+    "protest",
+    "professional-services",
+    "competition",
+    "regulations",
+    "trade-disputes"
+  ],
+  "timeCreated": 1720024320
+}

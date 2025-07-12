@@ -1,0 +1,18 @@
+{
+    "id": 1272,
+    "audioText": "Ce vieil homme honnêtement drôlement amusant raconte des histoires de son enfance.",
+    "question": "Ce ______ homme honnêtement drôlement amusant raconte des histoires de son enfance.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "vieil",
+        "vieux",
+        "vieille",
+        "vieilles"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce vieil homme honnêtement drôlement amusant raconte des histoires de son enfance</em>' - This old man, honestly quite amusing, tells stories from his childhood. 'Vieil' is the masculine singular form of 'vieux' (old) used before masculine nouns starting with a vowel or silent h, like 'homme'.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: vieil + honnêtement + drôlement",
+    "tags": ["elderly", "storytelling", "family-history"],
+    "timeCreated": 1736623260
+}

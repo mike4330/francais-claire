@@ -1,0 +1,18 @@
+{
+    "id": 1281,
+    "audioText": "Cette approche différente largement appliquée résout nos impressions contradictoires sur ce projet.",
+    "question": "Cette approche ______ largement appliquée résout nos impressions contradictoires sur ce projet.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "différente",
+        "différent",
+        "différents",
+        "similaire"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette approche différente largement appliquée résout nos impressions contradictoires sur ce projet</em>' - This different approach widely applied resolves our contradictory impressions about this project. 'Différente' is the feminine singular form of 'différent' (different), agreeing with 'approche' (approach).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: différent + largement + impression",
+    "tags": ["methodology", "problem-solving", "business"],
+    "timeCreated": 1736623920
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1170,
+    "audioText": "Il a reçu ce service gratuitement parce que c'était moralement dangereux de facturer dans cette situation.",
+    "question": "Why did he receive this service for free?",
+    "questionType": "comprehension",
+    "options": [
+        "Because it was morally dangerous to charge in this situation",
+        "Because he was a regular customer",
+        "Because it was a promotional offer",
+        "Because the service was defective"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a reçu ce service gratuitement parce que c'était moralement dangereux de facturer dans cette situation</em>' - He received this service for free because it was morally dangerous to charge in this situation. 'Gratuitement' means for free, 'moralement' means morally, and 'dangereux' means dangerous.",
+    "difficulty": "B2",
+    "source": "Strategic multi-category synergy",
+    "tags": ["ethics", "business", "service"],
+    "timeCreated": 1752094600
+}

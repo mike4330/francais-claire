@@ -1,0 +1,26 @@
+{
+  "id": 1341,
+  "audioText": "La ville investit dans les énergies propres pour réduire la pollution et protéger l'environnement urbain.",
+  "parentQuestion": 945,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "La ville investit dans les énergies propres pour réduire la pollution et protéger l'environnement urbain.",
+    "La ville investit dans les énergies renouvelables pour réduire la pollution et protéger l'environnement urbain.",
+    "La ville investit dans les énergies propres pour réduire la pollution et protéger l'environnement naturel.",
+    "La ville investit dans les énergies propres pour diminuer la pollution et protéger l'environnement urbain."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'énergies propres' (pas 'renouvelables'), 'environnement urbain' (pas 'naturel'), et 'réduire' (pas 'diminuer'). Ces termes environnementaux ont des nuances importantes en français.",
+  "difficulty": "B2",
+  "source": "Environmental Policy - Listening",
+  "tags": [
+    "environment",
+    "clean-energy",
+    "pollution",
+    "urban-planning",
+    "sustainability",
+    "government-policy"
+  ],
+  "timeCreated": 1720024380
+}

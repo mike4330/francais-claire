@@ -1,0 +1,18 @@
+{
+    "id": 354,
+    "audioText": "Ma voiture jaune roule différemment sur cette route de campagne.",
+    "question": "Ma voiture ______ roule différemment sur cette route de campagne.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "jaune",
+        "jaunes",
+        "rouge",
+        "bleue"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma voiture jaune roule différemment sur cette route de campagne</em>' - My yellow car drives differently on this country road. 'Jaune' is a color adjective meaning 'yellow', agreeing with the feminine noun 'voiture' (car).",
+    "difficulty": "A2",
+    "source": "Strategic targeting: jaune + différemment + campagne",
+    "tags": ["transportation", "travel", "countryside"],
+    "timeCreated": 1736623620
+}

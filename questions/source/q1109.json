@@ -1,0 +1,23 @@
+{
+  "id": 1109,
+  "audioText": "Jadis, ma grand-mère m'appelait toujours mon petit trésor.",
+  "question": "Jadis, ma grand-mère m'______ toujours mon petit trésor.",
+  "questionType": "FIB-reading",
+  "options": [
+    "appelait",
+    "appelle",
+    "appellera",
+    "a appelé"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Jadis, ma grand-mère m'appelait toujours mon petit trésor</em>' - In the old days, my grandmother always called me her little treasure. 'Appelait' is the imperfect form of 'appeler' (to call), and 'jadis' means 'in the old days/formerly'.",
+  "difficulty": "B1",
+  "source": "Family Memories",
+  "tags": [
+    "family",
+    "childhood",
+    "grandparents",
+    "affection"
+  ],
+  "timeCreated": 1719964200
+}

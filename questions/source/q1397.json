@@ -1,0 +1,18 @@
+{
+    "id": 1397,
+    "audioText": "Le patron réagit furieusement quand il découvre que son équipe travaille mollo depuis des semaines.",
+    "question": "Le patron réagit ______ quand il découvre que son équipe travaille mollo depuis des semaines.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "furieusement",
+        "furieux",
+        "furieuse",
+        "furie"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le patron réagit furieusement quand il découvre que son équipe travaille mollo depuis des semaines</em>' - The boss reacts furiously when he discovers that his team has been working half-heartedly for weeks. 'Furieusement' means furiously, and 'mollo' (colloquial) means half-heartedly/without much effort.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: furieusement + mollo",
+    "tags": ["workplace", "anger", "productivity"],
+    "timeCreated": 1736630580
+}

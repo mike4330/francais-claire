@@ -1,0 +1,18 @@
+{
+    "id": 1219,
+    "audioText": "Cette discussion inutile nous fait perdre un temps unique et précieux.",
+    "question": "What effect does this useless discussion have?",
+    "questionType": "comprehension",
+    "options": [
+        "It makes us waste unique and precious time",
+        "It helps us solve important problems",
+        "It creates new opportunities for cooperation",
+        "It improves our understanding of the situation"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette discussion inutile nous fait perdre un temps unique et précieux</em>' - This useless discussion makes us waste unique and precious time. This targets the adjectives 'inutile' and 'unique' in a time management context.",
+    "difficulty": "B1",
+    "source": "Strategic adjective targeting: inutile, unique",
+    "tags": ["time-management", "workplace", "productivity"],
+    "timeCreated": 1720962120
+}

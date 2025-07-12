@@ -1,0 +1,18 @@
+{
+    "id": 1275,
+    "audioText": "Le capitaine se sent coupable de cette faute grave commise justement hier soir.",
+    "question": "Le capitaine se sent ______ de cette faute grave commise justement hier soir.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "coupable",
+        "coupables",
+        "responsable",
+        "innocent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le capitaine se sent coupable de cette faute grave commise justement hier soir</em>' - The captain feels guilty about this serious mistake committed just last night. 'Coupable' is an adjective meaning 'guilty', agreeing with the masculine noun 'capitaine'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: coupable + capitaine + faute + justement",
+    "tags": ["responsibility", "guilt", "workplace"],
+    "timeCreated": 1736623500
+}

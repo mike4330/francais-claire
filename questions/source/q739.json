@@ -1,0 +1,18 @@
+{
+    "id": 739,
+    "audioText": "Si tu perds ce manuscrit médiéval, le musée ne pourra jamais le remplacer.",
+    "question": "What happens if the medieval manuscript is lost?",
+    "questionType": "comprehension",
+    "options": [
+        "The museum will never be able to replace it",
+        "The museum will order a new copy from the publisher",
+        "The museum will digitize other similar manuscripts",
+        "The museum will close the medieval exhibition"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Si tu perds ce manuscrit médiéval, le musée ne pourra jamais le remplacer</em>' - If you lose this medieval manuscript, the museum will never be able to replace it. 'Perds' is the second person singular form of 'perdre' (to lose).",
+    "difficulty": "B1",
+    "source": "Museum guide",
+    "tags": ["history", "museums", "medieval"],
+    "timeCreated": 1704414240
+}

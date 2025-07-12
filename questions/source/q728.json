@@ -1,0 +1,18 @@
+{
+    "id": 728,
+    "audioText": "Cette région était immense et totalement sauvage à cette époque.",
+    "question": "How is the region described in the past?",
+    "questionType": "comprehension",
+    "options": [
+        "Immense and totally wild",
+        "Small but very populated",
+        "Modern and well-developed",
+        "Dangerous and inaccessible"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette région était immense et totalement sauvage à cette époque</em>' - This region was immense and totally wild at that time. 'Immense' means huge or vast, and 'totalement' means totally or completely.",
+    "difficulty": "B2",
+    "source": "Historical description",
+    "tags": ["history", "geography", "nature"],
+    "timeCreated": 1704413400
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1065,
+    "audioText": "Il a vainement essayé de résoudre ce problème difficile.",
+    "question": "How did the person try to solve the problem?",
+    "questionType": "comprehension",
+    "options": [
+        "Successfully and quickly",
+        "In vain, without success",
+        "With great confidence",
+        "With help from others"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Il a vainement essayé de résoudre ce problème difficile</em>' - He tried in vain to solve this difficult problem. 'Vainement' means 'in vain' or 'unsuccessfully'.",
+    "difficulty": "B2",
+    "source": "Problem-solving scenario",
+    "tags": ["workplace", "difficulty", "effort"],
+    "timeCreated": 1720401660
+}

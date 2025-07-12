@@ -1,0 +1,19 @@
+
+{
+  "id": 757,
+  "audioText": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
+  "question": "Why did the father and his friends go out?",
+  "questionType": "comprehension",
+  "options": [
+    "To celebrate a birthday",
+    "To watch a movie",
+    "To celebrate winning a pétanque tournament",
+    "To have a quiet dinner"
+  ],
+  "correct": 2,
+  "explanation": "The text states, 'Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque', which means 'My father and his friends went out last night to celebrate their victory in the pétanque tournament'.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": ["father", "celebration", "sports", "friends"],
+  "timeCreated": 1720181344
+}

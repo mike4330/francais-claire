@@ -1,0 +1,25 @@
+{
+  "id": 1807,
+  "audioText": "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+    "La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre développement personnel.",
+    "La vie moderne nous oblige toujours à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.",
+    "La vie moderne nous permet souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.</em>' - 'Modern life often forces us to make difficult choices between our professional career and personal fulfillment.' This listening version tests auditory discrimination between 'épanouissement' vs 'développement', 'souvent' vs 'toujours', and 'oblige' vs 'permet'.",
+  "difficulty": "B2",
+  "source": "Listening version of q901",
+  "tags": [
+    "modern-life",
+    "career",
+    "personal-development",
+    "choices",
+    "work-life-balance"
+  ],
+  "timeCreated": 1720713600,
+  "parentQuestion": 901
+}

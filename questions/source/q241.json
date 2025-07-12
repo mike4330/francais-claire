@@ -1,0 +1,18 @@
+{
+    "id": 241,
+    "audioText": "Marc joue normalement au tennis le dimanche.",
+    "question": "When does Marc usually play tennis?",
+    "questionType": "comprehension",
+    "options": [
+        "On Saturday",
+        "On Sunday",
+        "On Monday",
+        "On Friday"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Marc joue normalement au tennis le dimanche</em>' - Marc normally plays tennis on Sunday. The adverb 'normalement' means usually/normally, and 'le dimanche' means on Sunday.",
+    "difficulty": "A2",
+    "source": "Sports and weekly routines",
+    "tags": ["sports", "recreation", "routine"],
+    "timeCreated": 1751776003
+}

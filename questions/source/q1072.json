@@ -1,0 +1,18 @@
+{
+  "id": 1072,
+  "audioText": "Le docteur a dit que ma toux est sèche et que je dois boire beaucoup d'eau.",
+  "question": "What did the doctor say about the cough?",
+  "questionType": "comprehension",
+  "options": [
+    "Elle est sèche.",
+    "Elle est grasse.",
+    "Elle est rare.",
+    "Elle est partie."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le docteur a dit que ma toux est sèche et que je dois boire beaucoup d'eau.</em>' - The doctor said my cough is dry and I should drink a lot of water. 'Sèche' means dry, a medical term describing a type of cough without phlegm, which is why drinking water is recommended.",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": ["health", "medical", "illness"],
+  "timeCreated": 1752003765
+}

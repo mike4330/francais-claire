@@ -1,0 +1,18 @@
+{
+    "id": 606,
+    "audioText": "Cette histoire tragique n'avait jamais été entendue par le grand public avant la publication du livre.",
+    "question": "What had never happened before the book's publication?",
+    "questionType": "comprehension",
+    "options": [
+        "This tragic story had never been heard by the general public.",
+        "The book had never been written by the author.",
+        "The story had never been completely understood.",
+        "The events had never been properly documented."
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Cette histoire tragique n'avait jamais été entendue par le grand public avant la publication du livre' - This tragic story had never been heard by the general public before the book's publication. 'Entendue' is the past participle of 'entendre' (to hear), agreeing with the feminine noun 'histoire'.",
+    "difficulty": "C1",
+    "source": "Literary publication and historical revelation",
+    "tags": ["literature", "history", "publication", "revelation"],
+    "timeCreated": 1735950120
+}

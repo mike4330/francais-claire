@@ -1,0 +1,18 @@
+{
+    "id": 980,
+    "audioText": "Elle comprend correctement la peine de cette famille dans la pauvreté.",
+    "question": "Elle comprend ______ la peine de cette famille dans la pauvreté.",
+    "questionType": "FIB-reading",
+    "options": [
+        "correctement",
+        "facilement",
+        "rapidement",
+        "clairement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle comprend correctement la peine de cette famille dans la pauvreté</em>' - She correctly understands the suffering/hardship of this family in poverty. 'Correctement' means correctly/properly, 'peine' means suffering/hardship/trouble, and the context shows empathy for a family's difficult situation.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting for 'peine' and 'correctement'",
+    "tags": ["poverty", "family", "social-issues"],
+    "timeCreated": 1751853190
+}

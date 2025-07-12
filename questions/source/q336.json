@@ -1,0 +1,18 @@
+{
+    "id": 336,
+    "audioText": "Chaque parent doit faire attention au prix des jouets pour ses enfants.",
+    "question": "What should each parent pay attention to?",
+    "questionType": "comprehension",
+    "options": [
+        "The price of toys for their children",
+        "The quality of school supplies",
+        "The location of the playground",
+        "The schedule of after-school activities"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Chaque parent doit faire attention au prix des jouets pour ses enfants</em>' - Each parent must pay attention to the price of toys for their children. 'Parent' means parent, 'prix' means price, and 'jouets' means toys.",
+    "difficulty": "A2",
+    "source": "Strategic noun targeting: parent, prix",
+    "tags": ["family", "children", "shopping", "toys"],
+    "timeCreated": 1752112000
+}

@@ -1,0 +1,18 @@
+{
+    "id": 780,
+    "audioText": "Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner.",
+        "Le service parfait de ce restaurant impressionne tous les clients qui viennent déjeuner.",
+        "Le service rapide de ce restaurant impressionne tous les clients qui viennent dîner.",
+        "Le service rapide de ce restaurant intéresse tous les clients qui viennent déjeuner."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner</em>' - The fast service of this restaurant impresses all the clients who come for lunch. 'Rapide' means 'fast/quick'. The distractors test adjective confusion (parfait), meal confusion (dîner), and verb confusion (intéresse).",
+    "difficulty": "B1",
+    "source": "Restaurant service",
+    "tags": ["restaurant", "service", "customers", "speed"],
+    "timeCreated": 1736102880
+}

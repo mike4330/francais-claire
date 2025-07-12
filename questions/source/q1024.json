@@ -1,0 +1,18 @@
+{
+    "id": 1024,
+    "audioText": "L'architecte professionnel examine minutieusement chaque boulon avec sa scie électrique pour établir un compromis technique concernant l'aspiration des débris dans cette tour moderne.",
+    "question": "How does the professional architect examine each bolt for the technical compromise?",
+    "questionType": "comprehension",
+    "options": [
+        "Meticulously with his electric saw to establish compromise regarding debris suction in the modern tower",
+        "Quickly with standard tools to meet construction deadlines",
+        "Carefully with manual equipment to ensure safety standards",
+        "Thoroughly with measuring devices to verify specifications"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'architecte professionnel examine minutieusement chaque boulon avec sa scie électrique pour établir un compromis technique concernant l'aspiration des débris dans cette tour moderne.</em>' - 'The professional architect meticulously examines each bolt with his electric saw to establish a technical compromise regarding debris suction in this modern tower.' The nouns 'boulon' means bolt, 'scie' means saw, and 'aspirateur' (aspiration) refers to vacuum/suction.",
+    "difficulty": "B2",
+    "source": "Strategic tool targeting",
+    "tags": ["professional-tools", "architecture", "compromise"],
+    "timeCreated": 1720715400
+}

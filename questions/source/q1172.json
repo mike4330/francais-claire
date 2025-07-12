@@ -1,0 +1,18 @@
+{
+    "id": 1172,
+    "audioText": "Au revoir ! À bientôt pour notre prochain projet de travail ensemble.",
+    "question": "What does the speaker say about their next work project?",
+    "questionType": "comprehension",
+    "options": [
+        "See you soon for our next work project together",
+        "Good luck with your next work project alone",
+        "Let's cancel our next work project completely",
+        "We'll discuss our next work project later"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Au revoir ! À bientôt pour notre prochain projet de travail ensemble</em>' - Goodbye! See you soon for our next work project together. 'Revoir' means to see again (in 'au revoir' = goodbye), and 'ensemble' means together.",
+    "difficulty": "B1",
+    "source": "Strategic bottom noun coverage",
+    "tags": ["workplace", "goodbye", "collaboration"],
+    "timeCreated": 1752095600
+}

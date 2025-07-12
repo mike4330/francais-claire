@@ -1,0 +1,18 @@
+{
+    "id": 1190,
+    "audioText": "L'ombre du grand mur transforme ce coin tranquille en zone fraîche et agréable.",
+    "question": "What does the shadow of the big wall transform this quiet corner into?",
+    "questionType": "comprehension",
+    "options": [
+        "A cool and pleasant area",
+        "A dangerous hiding place",
+        "A busy meeting point",
+        "A commercial district"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'ombre du grand mur transforme ce coin tranquille en zone fraîche et agréable</em>' - The shadow of the big wall transforms this quiet corner into a cool and pleasant area. 'Ombre' means shadow, 'mur' means wall, and 'coin' means corner.",
+    "difficulty": "B1",
+    "source": "Strategic noun targeting: ombre, mur, coin",
+    "tags": ["comfort", "shade", "urban-planning", "environment"],
+    "timeCreated": 1752115320
+}

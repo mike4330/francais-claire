@@ -1,0 +1,18 @@
+{
+    "id": 1051,
+    "audioText": "Ces étudiants resteront à l'université pendant les vacances d'été pour leurs recherches.",
+    "question": "Ces étudiants ______ à l'université pendant les vacances d'été pour leurs recherches.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "resteront",
+        "restent",
+        "resteraient",
+        "restaient"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces étudiants resteront à l'université pendant les vacances d'été pour leurs recherches.</em>' - 'These students will stay at the university during summer vacation for their research.' The missing word is 'resteront' (will stay), the future tense third person plural of 'rester'.",
+    "difficulty": "B2",
+    "source": "Academic research and summer programs",
+    "tags": ["education", "research", "university", "summer"],
+    "timeCreated": 1736349240
+}

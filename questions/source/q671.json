@@ -1,0 +1,13 @@
+{
+  "id": 671,
+  "audioText": "Pouvez-vous m'aider à trouver mon chemin ?",
+  "question": "Pouvez-vous m'_______ à trouver mon chemin ?",
+  "questionType": "fill-in-the-blank",
+  "options": ["aider", "aidez", "aidé", "aidons"],
+  "correct": 0,
+  "explanation": "The text states '<em>Pouvez-vous m'aider à trouver mon chemin ?</em>' - Can you help me find my way? The infinitive 'aider' is used after the semi-auxiliary verb 'pouvoir' (can/to be able to). When 'pouvoir' is followed by another verb, that verb must be in its infinitive form.",
+  "difficulty": "B1",
+  "source": "Travel assistance conversation",
+  "tags": ["travel", "assistance", "politeness"],
+  "timeCreated": 1736184000
+}

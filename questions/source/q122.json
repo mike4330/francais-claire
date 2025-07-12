@@ -1,0 +1,18 @@
+{
+    "id": 122,
+    "audioText": "Ma chambre est au deuxième étage de la maison.",
+    "question": "Ma ______ est au deuxième étage de la maison.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "chambre",
+        "cuisine",
+        "salle",
+        "bureau"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says 'Ma chambre est au deuxième étage' - My bedroom is on the second floor. 'Chambre' means bedroom in French.",
+    "difficulty": "A1",
+    "source": "Home Description",
+    "tags": ["home", "family", "daily-life", "housing"],
+    "timeCreated": 1719963200
+}

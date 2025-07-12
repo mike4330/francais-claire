@@ -1,0 +1,18 @@
+{
+    "id": 289,
+    "audioText": "Cette décision juste arrive distraitement au mauvais moment.",
+    "question": "When does this fair decision arrive?",
+    "questionType": "comprehension",
+    "options": [
+        "Distractedly at the wrong time",
+        "Perfectly at the right time",
+        "Quickly during the meeting",
+        "Carefully when needed"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette décision juste arrive distraitement au mauvais moment.</em>' - 'This fair decision arrives distractedly at the wrong time.' The adjective 'juste' means fair/just, 'mauvais' means bad/wrong, and 'distraitement' means distractedly or absent-mindedly.",
+    "difficulty": "A2",
+    "source": "Strategic adjective targeting",
+    "tags": ["fairness", "decision-making", "timing"],
+    "timeCreated": 1720714200
+}

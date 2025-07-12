@@ -1,0 +1,24 @@
+{
+  "id": 1100,
+  "audioText": "Un épisode venteux et pluvieux impressionnant, les pompiers ont reçu un très grand nombre d'appels.",
+  "question": "What happened during the impressive windy and rainy episode?",
+  "questionType": "comprehension",
+  "options": [
+    "The firefighters received a very large number of calls.",
+    "The firefighters closed all the roads.",
+    "The firefighters organized a parade.",
+    "The firefighters went on strike."
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'les pompiers ont reçu un très grand nombre d'appels' – the firefighters received a very large number of calls during the event.",
+  "difficulty": "B1",
+  "source": "Weather News",
+  "tags": [
+    "weather",
+    "emergency",
+    "firefighters",
+    "calls",
+    "rain",
+    "wind"
+  ]
+}

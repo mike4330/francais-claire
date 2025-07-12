@@ -1,0 +1,18 @@
+{
+    "id": 914,
+    "audioText": "Le chef d'équipe observe ce garçon qui apprend comment assembler les pièces rapidement.",
+    "question": "What does the team leader observe?",
+    "questionType": "comprehension",
+    "options": [
+        "A boy learning how to assemble parts quickly",
+        "A worker checking the quality of finished products",
+        "A student taking notes during the demonstration",
+        "An employee cleaning the workspace thoroughly"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Le chef d'équipe observe ce garçon qui apprend comment assembler les pièces rapidement</em>' - The team leader observes this boy who is learning how to assemble the parts quickly. 'Chef' here means 'leader/head', 'garçon' means 'boy'.",
+    "difficulty": "B1",
+    "source": "Workplace training",
+    "tags": ["workplace", "training", "apprenticeship"],
+    "timeCreated": 1720443480
+}

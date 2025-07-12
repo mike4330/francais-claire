@@ -1,0 +1,18 @@
+{
+  "id": 307,
+  "audioText": "La circulation aujourd'hui est pire qu'hier.",
+  "question": "La circulation aujourd'hui est ______ qu'hier.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pire",
+    "mieux",
+    "plus grand",
+    "moins rapide"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La circulation aujourd'hui est pire qu'hier.</em>' - Today's traffic is worse than yesterday's. 'Pire' is the French comparative adjective for 'worse'. The distractors test antonyms (mieux - better), size (plus grand - bigger), and speed (moins rapide - less fast).",
+  "difficulty": "A2",
+  "source": "Gemini CLI",
+  "tags": ["daily-life", "transportation"],
+  "timeCreated": 1751998984
+}

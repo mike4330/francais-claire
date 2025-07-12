@@ -1,0 +1,24 @@
+{
+  "id": 555,
+  "audioText": "La Cour suprême des États-Unis a décidé que les juges fédéraux ne peuvent plus suspendre partout dans le pays des décisions prises par le président. Donald Trump a salué cette décision comme une victoire.",
+  "question": "What did the US Supreme Court decide?",
+  "questionType": "comprehension",
+  "options": [
+    "Federal judges can no longer block presidential decisions nationwide",
+    "Federal judges can now make decisions for all states",
+    "The president must follow all decisions made by federal judges",
+    "Donald Trump lost his case at the Supreme Court"
+  ],
+  "correct": 0,
+  "explanation": "The audio says 'les juges fédéraux ne peuvent plus suspendre partout dans le pays des décisions prises par le président' – federal judges can no longer block presidential decisions nationwide. Donald Trump welcomed this as a victory. The other options either reverse the decision, misstate the relationship, or are factually incorrect.",
+  "difficulty": "B2",
+  "source": "French summary of US Supreme Court news, June 2024 (simplified)",
+  "tags": [
+    "law",
+    "politics",
+    "us",
+    "judiciary",
+    "supreme-court",
+    "news"
+  ]
+}

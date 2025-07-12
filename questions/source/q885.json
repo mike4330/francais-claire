@@ -1,0 +1,18 @@
+{
+    "id": 885,
+    "audioText": "En croyant fermement çà, elle ne vit pas que son oeil gauche commençait à présenter des signes d'irritation inquiétants.",
+    "question": "What did the woman fail to notice while strongly believing something?",
+    "questionType": "comprehension",
+    "options": [
+        "That her left eye was showing worrying signs of irritation",
+        "That her vision was improving significantly",
+        "That her glasses needed replacement",
+        "That her headaches were getting worse"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>En croyant fermement çà, elle ne vit pas que son oeil gauche commençait à présenter des signes d'irritation inquiétants</em>' - While firmly believing that, she didn't see that her left eye was beginning to show worrying signs of irritation. 'Croyant' is the present participle of croire (to believe), 'çà' means that (informal), and 'oeil' means eye.",
+    "difficulty": "B2",
+    "source": "Medical observation and personal awareness",
+    "tags": ["health", "awareness", "medical", "vision"],
+    "timeCreated": 1751811780
+}

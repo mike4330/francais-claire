@@ -1,0 +1,18 @@
+{
+    "id": 292,
+    "audioText": "La vache blanche mange facilement ici sous la pluie.",
+    "question": "How does the white cow eat here in the rain?",
+    "questionType": "comprehension",
+    "options": [
+        "Easily",
+        "Slowly",
+        "Quietly",
+        "Carefully"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La vache blanche mange facilement ici sous la pluie.</em>' - 'The white cow eats easily here in the rain.' The noun 'vache' means cow, the adjective 'blanche' means white, and 'facilement' means easily.",
+    "difficulty": "A1",
+    "source": "Strategic animal targeting",
+    "tags": ["animals", "rain", "farm"],
+    "timeCreated": 1720714800
+}

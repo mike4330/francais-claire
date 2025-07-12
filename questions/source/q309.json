@@ -1,0 +1,18 @@
+{
+    "id": 309,
+    "audioText": "Le mec fait du bruit dans le milieu de la nuit.",
+    "question": "What does the guy do in the middle of the night?",
+    "questionType": "comprehension",
+    "options": [
+        "Makes noise",
+        "Sleeps quietly",
+        "Reads books",
+        "Watches television"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le mec fait du bruit dans le milieu de la nuit.</em>' - The guy makes noise in the middle of the night. 'Fait du bruit' means makes noise, 'milieu' means middle, and 'nuit' means night.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["noise", "night", "disturbance"],
+    "timeCreated": 1720821600
+}

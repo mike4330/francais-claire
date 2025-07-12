@@ -1,0 +1,19 @@
+
+{
+    "id": 570,
+    "audioText": "Mets les assiettes sur la table.",
+    "question": "Mets les assiettes sur la ______.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "table",
+        "chaise",
+        "lit",
+        "sol"
+    ],
+    "correct": 0,
+    "explanation": "'Table' means 'table'. The sentence is an instruction to put the plates on the table.",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["household", "instructions"],
+    "timeCreated": 1720134000
+}

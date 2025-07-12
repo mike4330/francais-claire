@@ -1,0 +1,18 @@
+{
+    "id": 1079,
+    "audioText": "Le parent regarde fixement son enfant, son œil sec révélant une situation dangereuse avec du sang sur ses mains.",
+    "question": "How does the parent look at the child?",
+    "questionType": "comprehension",
+    "options": [
+        "Staring intently",
+        "Looking casually",
+        "Glancing briefly",
+        "Avoiding eye contact"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le parent regarde fixement son enfant, son œil sec révélant une situation dangereuse avec du sang sur ses mains.</em>' - The parent stares intently at the child, his dry eye revealing a dangerous situation with blood on his hands. 'Fixement' means intently/staring, describing the intense way the parent looks.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["family", "tension", "emergency", "medical"],
+    "timeCreated": 1720822400
+}

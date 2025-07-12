@@ -1,0 +1,25 @@
+{
+  "id": 68,
+  "audioText": "Le président passe souvent à la télévision française.",
+  "question": "Le président ______ souvent à la télévision française.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "passe",
+    "passes",
+    "passez",
+    "passons"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le président passe souvent à la télévision française</em>' - The president often appears on French television. With 'le président' (third person singular), we use 'passe' - the third person singular form of 'passer' (to appear/to be on).",
+  "difficulty": "A1",
+  "source": "Contemporary French political media coverage",
+  "tags": [
+    "france",
+    "television",
+    "media",
+    "politics",
+    "current-events",
+    "government",
+    "president"
+  ]
+}

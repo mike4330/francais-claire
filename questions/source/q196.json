@@ -1,0 +1,18 @@
+{
+    "id": 196,
+    "audioText": "La pharmacie est loin d'ici, il faut prendre le bus.",
+    "question": "La pharmacie est ______ d'ici, il faut prendre le bus.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "loin",
+        "près",
+        "à côté",
+        "devant"
+    ],
+    "correct": 0,
+    "explanation": "'Loin' means 'far' and indicates distance. Since they need to take the bus to get to the pharmacy, it shows the pharmacy is far from here, not close, next to, or in front.",
+    "difficulty": "A2",
+    "source": "Getting to the pharmacy",
+    "tags": ["transportation", "directions", "health"],
+    "timeCreated": 1720077400
+}

@@ -1,0 +1,22 @@
+{
+  "id": 893,
+  "audioText": "Il parle gentiment mais pratiquement personne ne l'écoute vraiment.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Il parle gentiment mais pratiquement personne ne l'écoute vraiment.",
+    "Il parle poliment mais pratiquement personne ne l'écoute vraiment.",
+    "Il parle gentiment mais certainement personne ne l'écoute vraiment.",
+    "Il parle gentiment mais pratiquement personne ne l'entend vraiment."
+  ],
+  "correct": 0,
+  "explanation": "The correct phrase is 'Il parle gentiment mais pratiquement personne ne l'écoute vraiment' - He speaks kindly but practically no one really listens to him. 'Gentiment' means kindly/nicely and 'pratiquement' means practically/virtually. The other options change these adverbs or the verb 'écoute'.",
+  "difficulty": "B1",
+  "source": "Communication challenges and being ignored",
+  "tags": [
+    "communication",
+    "social-dynamics",
+    "attention"
+  ],
+  "timeCreated": 1751812680
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1220,
+    "audioText": "Pour la deuxième fois, il porte ce sac léger sans difficulté.",
+    "question": "How many times has he carried this light bag?",
+    "questionType": "comprehension",
+    "options": [
+        "For the second time",
+        "For the first time",
+        "For the third time",
+        "For the fourth time"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Pour la deuxième fois, il porte ce sac léger sans difficulté</em>' - For the second time, he carries this light bag without difficulty. This targets the adjectives 'deuxième' and 'léger' in a physical activity context.",
+    "difficulty": "B2",
+    "source": "Strategic adjective targeting: deuxième, léger",
+    "tags": ["physical-activity", "repetition", "effort"],
+    "timeCreated": 1720962180
+}

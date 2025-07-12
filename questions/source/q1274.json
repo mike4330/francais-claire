@@ -1,0 +1,18 @@
+{
+    "id": 1274,
+    "audioText": "Il devient amoureux de cette lèvre étrangement expressive et naturellement séduisante.",
+    "question": "Il devient ______ de cette lèvre étrangement expressive et naturellement séduisante.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "amoureux",
+        "amoureuse",
+        "amoureuses",
+        "amour"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il devient amoureux de cette lèvre étrangement expressive et naturellement séduisante</em>' - He becomes in love with this strangely expressive and naturally seductive lip. 'Amoureux' is the masculine singular form of the adjective meaning 'in love', agreeing with 'il' (he).",
+    "difficulty": "B2",
+    "source": "Strategic targeting: amoureux + lèvre + étrangement",
+    "tags": ["romance", "attraction", "emotions"],
+    "timeCreated": 1736623380
+}

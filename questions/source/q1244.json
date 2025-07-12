@@ -1,0 +1,18 @@
+{
+    "id": 1244,
+    "audioText": "Tu as payé cette formidable opportunité de travail avec ton bonheur personnel, et maintenant tu sembles pâle et fatigué.",
+    "question": "What did the person pay for their work opportunity with?",
+    "questionType": "comprehension",
+    "options": [
+        "Their personal happiness",
+        "Their financial savings",
+        "Their family relationships", 
+        "Their professional reputation"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu as payé cette formidable opportunité de travail avec ton bonheur personnel</em>' - You paid for this wonderful work opportunity with your personal happiness. The verb 'payé' (past participle of 'payer') is used metaphorically here to mean 'sacrificed' or 'traded'.",
+    "difficulty": "B2",
+    "source": "Strategic question targeting missing conjugate 'payé' with synergistic vocabulary",
+    "tags": ["workplace", "emotions", "sacrifice"],
+    "timeCreated": 1720656060
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1195,
+    "audioText": "Naguère, les gens regardaient machinalement là-dedans. Sitôt que la technologie change, dorénavant nous devons aller au-delà des habitudes traditionnelles.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Naguère, les gens regardaient machinalement là-dedans. Sitôt que la technologie change, dorénavant nous devons aller au-delà des habitudes traditionnelles.",
+        "Naguère, les gens regardaient mécaniquement là-dedans. Sitôt que la technologie change, dorénavant nous devons aller au-delà des habitudes traditionnelles.",
+        "Naguère, les gens regardaient machinalement là-dedans. Sitôt que la technologie change, désormais nous devons aller au-delà des habitudes traditionnelles.",
+        "Naguère, les gens regardaient machinalement là-dedans. Aussitôt que la technologie change, dorénavant nous devons aller au-delà des habitudes traditionnelles."
+    ],
+    "correct": 0,
+    "explanation": "The correct text uses 'machinalement' (mechanically), 'dorénavant' (from now on), and 'sitôt que' (as soon as). The distractors test adverb variations (mécaniquement vs machinalement, désormais vs dorénavant) and conjunction alternatives (aussitôt que vs sitôt que).",
+    "difficulty": "B2",
+    "source": "Strategic adverb targeting",
+    "tags": ["technology", "habits", "change", "time-perspective"],
+    "parentQuestion": 992,
+    "timeCreated": 1752115980
+}

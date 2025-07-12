@@ -1,0 +1,18 @@
+{
+    "id": 660,
+    "audioText": "Nous connaissons tous les secrets pour organiser une fête d'anniversaire surprise parfaite.",
+    "question": "What do we all know according to the speaker?",
+    "questionType": "comprehension",
+    "options": [
+        "The secrets to organizing a perfect surprise birthday party.",
+        "The best places to buy birthday decorations.",
+        "How to choose the right birthday presents.",
+        "The most popular birthday party themes."
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Nous connaissons tous les secrets pour organiser une fête d'anniversaire surprise parfaite' - We all know the secrets to organizing a perfect surprise birthday party. 'Connaissons' is the present form of 'connaître' (to know), first person plural.",
+    "difficulty": "B1",
+    "source": "Birthday celebrations and party planning",
+    "tags": ["celebrations", "birthday-parties", "event-planning", "social-gatherings"],
+    "timeCreated": 1735953420
+}

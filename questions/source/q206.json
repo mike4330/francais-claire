@@ -1,0 +1,19 @@
+
+{
+    "id": 206,
+    "audioText": "D'abord, mélangez les ingrédients, puis ajoutez l'eau.",
+    "question": "______ , mélangez les ingrédients, puis ajoutez l'eau.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "D'abord",
+        "Ensuite",
+        "Enfin",
+        "Toujours"
+    ],
+    "correct": 0,
+    "explanation": "'D'abord' means 'first' or 'firstly', indicating the initial step in a sequence.",
+    "difficulty": "A2",
+    "source": "Gemini-generated",
+    "tags": ["cooking", "instructions"],
+    "timeCreated": 1720134000
+}

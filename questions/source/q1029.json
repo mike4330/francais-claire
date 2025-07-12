@@ -1,0 +1,18 @@
+{
+    "id": 1029,
+    "audioText": "Ils connaissaient dessous la moitié de cette histoire, mais pas le sens complet.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Ils connaissaient dessous la moitié de cette histoire, mais pas le sens complet.",
+        "Ils connaissaient dessous la moitié de cette histoire, mais pas le sens exact.",
+        "Ils connaissaient dessous la partie de cette histoire, mais pas le sens complet.",
+        "Ils connaissaient vraiment la moitié de cette histoire, mais pas le sens complet."
+    ],
+    "correct": 0,
+    "explanation": "The audio states '<em>Ils connaissaient dessous la moitié de cette histoire, mais pas le sens complet.</em>' - 'They knew underneath half of this story, but not the complete meaning.' The verb 'connaissaient' is the imperfect third person plural of 'connaître' (to know).",
+    "difficulty": "B1",
+    "source": "Strategic verb conjugate targeting",
+    "tags": ["storytelling", "knowledge", "partial-understanding"],
+    "timeCreated": 1720715700
+}

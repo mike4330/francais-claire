@@ -1,0 +1,18 @@
+{
+    "id": 781,
+    "audioText": "Son talent incroyable pour la musique lui a permis de réussir dans tous les concours.",
+    "question": "What allowed him to succeed in all competitions?",
+    "questionType": "comprehension",
+    "options": [
+        "His incredible talent for music",
+        "His expensive musical instruments",
+        "His years of formal training",
+        "His family connections in music"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son talent incroyable pour la musique lui a permis de réussir dans tous les concours</em>' - His incredible talent for music allowed him to succeed in all competitions. 'Incroyable' means 'incredible/amazing' and emphasizes the exceptional nature of his musical ability.",
+    "difficulty": "B2",
+    "source": "Musical talent",
+    "tags": ["music", "talent", "competitions", "success"],
+    "timeCreated": 1736102940
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1383,
+    "audioText": "Tu paieras raide cette erreur si tu continues à négliger tes responsabilités professionnelles.",
+    "question": "Tu ______ raide cette erreur si tu continues à négliger tes responsabilités professionnelles.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "paieras",
+        "paierais",
+        "paies",
+        "payé"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu paieras raide cette erreur si tu continues à négliger tes responsabilités professionnelles</em>' - You will pay dearly for this mistake if you continue to neglect your professional responsibilities. 'Paieras' is the future tense form of 'payer' (to pay), appropriate for consequences that will happen. 'Raide' means 'dearly' or 'severely'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: paieras + raide",
+    "tags": ["workplace", "consequences", "responsibility"],
+    "timeCreated": 1736629200
+}

@@ -1,0 +1,19 @@
+
+{
+  "id": 776,
+  "audioText": "Pour que la démocratie vive et prospère, il est impératif que chaque citoyen participe activement au processus électoral et exprime ses opinions de manière constructive.",
+  "question": "Pour que la démocratie ______, il est impératif que chaque citoyen participe.",
+  "questionType": "listening",
+  "options": [
+    "vit",
+    "vivra",
+    "vive",
+    "vivait"
+  ],
+  "correct": 2,
+  "explanation": "The phrase 'Pour que' (in order that) requires the subjunctive mood. 'Vive' is the present subjunctive form of the verb 'vivre' (to live), used here to express a goal or necessity.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": ["goals", "politics", "democracy", "civic-duty"],
+  "timeCreated": 1720181353
+}

@@ -1,0 +1,18 @@
+{
+    "id": 853,
+    "audioText": "Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques.",
+        "Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats scolaires.",
+        "Les étudiants contents plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques.",
+        "Les étudiants heureux plaisent beaucoup aux professeurs et obtiennent de meilleurs résultats académiques."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques</em>' - Happy students please teachers more and achieve better academic results. 'Heureux' means 'happy' and 'plaisent' targets missing verb conjugate, combining adjective and verb synergy. The distractors test synonym confusion (scolaires, contents) and degree confusion (beaucoup).",
+    "difficulty": "B2",
+    "source": "Academic success",
+    "tags": ["students", "education", "happiness", "success"],
+    "timeCreated": 1736106600
+}

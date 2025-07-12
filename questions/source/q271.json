@@ -1,0 +1,18 @@
+{
+    "id": 271,
+    "audioText": "Merci, nous attendras-tu au bout de l'émission culinaire?",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Merci, nous attendras-tu au bout de l'émission culinaire?",
+        "Merci, nous attendes-tu au bout de l'émission culinaire?",
+        "Merci, nous attendras-tu au bout de l'émission culturelle?",
+        "Merci, vous attendras-tu au bout de l'émission culinaire?"
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is '<em>Merci, nous attendras-tu au bout de l'émission culinaire?</em>' - Thank you, will you wait for us at the end of the culinary show? 'Attendras' is the future tense of 'attendre' (tu form), 'bout' means 'end', and 'émission culinaire' means 'culinary show'.",
+    "difficulty": "A2",
+    "source": "TV cooking show",
+    "tags": ["french-cuisine", "culinary-vocabulary", "cooking-techniques"],
+    "timeCreated": 1720444020
+}

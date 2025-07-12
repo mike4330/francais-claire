@@ -1,0 +1,19 @@
+{
+    "id": 1364,
+    "audioText": "Je finirai subitement ce merci important pour l'ami.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Je finirai subitement ce merci important pour l'ami",
+        "Je finirai soudainement ce merci important pour l'ami",
+        "Je finirai subitement ce mercy important pour l'ami",
+        "Je finirais subitement ce merci important pour l'ami"
+    ],
+    "correct": 0,
+    "explanation": "The correct phrase is '<em>Je finirai subitement ce merci important pour l'ami</em>' - I will suddenly finish this important thank-you for the friend. Note: 'finirai' (future tense), 'subitement' (suddenly), and 'merci' (thank-you as a noun). The other options have errors: 'soudainement', 'mercy', or 'finirais' (conditional).",
+    "difficulty": "B2",
+    "source": "Listening version of Q989",
+    "tags": ["gratitude", "friendship", "communication"],
+    "parentQuestion": 989,
+    "timeCreated": 1736626140
+}

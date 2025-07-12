@@ -1,0 +1,22 @@
+{
+  "id": 1310,
+  "audioText": "Marie devra présenter son projet devant le comité directeur la semaine prochaine.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Marie devra présenter son projet devant le comité directeur la semaine prochaine.",
+    "Marie doit présenter son projet devant le comité directeur la semaine prochaine.",
+    "Marie devrait présenter son projet devant le comité directeur la semaine prochaine.",
+    "Marie va présenter son projet devant le comité directeur la semaine prochaine."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Marie devra présenter son projet devant le comité directeur la semaine prochaine.' - Marie will have to present her project to the board next week. 'Devra' is the 3rd person singular future tense of 'devoir'.",
+  "difficulty": "B2",
+  "source": "Business Presentation",
+  "tags": [
+    "work",
+    "presentation",
+    "business"
+  ],
+  "timeCreated": 1720021740
+}

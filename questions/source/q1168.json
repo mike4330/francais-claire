@@ -1,0 +1,18 @@
+{
+    "id": 1168,
+    "audioText": "Cette solution temporaire fonctionne provisoirement jusqu'à ce que nous trouvions une méthode différente.",
+    "question": "How long does this temporary solution work?",
+    "questionType": "comprehension",
+    "options": [
+        "Provisionally until they find a different method",
+        "Permanently for all future projects",
+        "Only during business hours",
+        "Until the end of the week"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette solution temporaire fonctionne provisoirement jusqu'à ce que nous trouvions une méthode différente</em>' - This temporary solution works provisionally until we find a different method. 'Provisoirement' means temporarily or provisionally, and 'différente' means different.",
+    "difficulty": "B2",
+    "source": "Strategic adverb coverage reinforcement",
+    "tags": ["technology", "problem-solving", "workplace"],
+    "timeCreated": 1752094200
+}

@@ -1,0 +1,18 @@
+{
+    "id": 236,
+    "audioText": "Mes cousins reviennent du mariage de leur sœur dimanche soir.",
+    "question": "When are the cousins returning from the wedding?",
+    "questionType": "comprehension",
+    "options": [
+        "Sunday evening from their sister's wedding",
+        "Saturday morning from their cousin's wedding",
+        "Monday afternoon from their friend's wedding",
+        "Friday night from their brother's wedding"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mes cousins reviennent du mariage de leur sœur dimanche soir</em>' - My cousins are returning from their sister's wedding Sunday evening. 'Reviennent' is the third person plural form of 'revenir' (to return/come back).",
+    "difficulty": "A2",
+    "source": "Family event",
+    "tags": ["wedding", "family", "returning"],
+    "timeCreated": 1704415320
+}

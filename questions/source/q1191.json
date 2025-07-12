@@ -1,0 +1,18 @@
+{
+    "id": 1191,
+    "audioText": "Il a composé le numéro affiché sur le mur, mais seule une ombre a répondu depuis ce coin isolé.",
+    "question": "What happened when he dialed the number displayed on the wall?",
+    "questionType": "comprehension",
+    "options": [
+        "Only a shadow answered from the isolated corner",
+        "The line was busy with background music",
+        "A recorded message provided directions",
+        "Someone immediately offered assistance"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a composé le numéro affiché sur le mur, mais seule une ombre a répondu depuis ce coin isolé</em>' - He dialed the number displayed on the wall, but only a shadow answered from the isolated corner. 'Numéro' means number, 'mur' means wall, 'ombre' means shadow, and 'coin' means corner.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting: numéro, mur, ombre, coin",
+    "tags": ["mystery", "communication", "supernatural", "isolation"],
+    "timeCreated": 1752115380
+}

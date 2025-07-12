@@ -1,0 +1,18 @@
+{
+    "id": 266,
+    "audioText": "Ce cheval noir apparaît voire disparaît dans le bras de l'homme.",
+    "question": "What does the black horse do?",
+    "questionType": "comprehension",
+    "options": [
+        "Appears or even disappears in the man's arm",
+        "Runs quickly through the forest",
+        "Stands quietly in the stable",
+        "Jumps high over the fence"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says '<em>Ce cheval noir apparaît voire disparaît dans le bras de l'homme</em>' - This black horse appears or even disappears in the man's arm. 'Noir' means 'black', 'voire' means 'or even', 'bras' means 'arm'.",
+    "difficulty": "A2",
+    "source": "Magic show",
+    "tags": ["spirituality", "magic", "illusion"],
+    "timeCreated": 1720443900
+}

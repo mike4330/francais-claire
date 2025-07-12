@@ -1,0 +1,19 @@
+{
+    "id": 1192,
+    "audioText": "Là-haut, dans les bureaux de direction, les dirigeants préparent une annonce importante.",
+    "question": "Qu'est-ce que vous avez entendu ?",
+    "questionType": "listening",
+    "options": [
+        "Là-haut, dans les bureaux de direction, les dirigeants préparent une annonce importante.",
+        "Là-bas, dans les bureaux de direction, les dirigeants préparent une annonce importante.",
+        "Là-haut, dans les bureaux de direction, les dirigeants présentent une annonce importante.",
+        "Là-haut, dans les bureaux de production, les dirigeants préparent une annonce importante."
+    ],
+    "correct": 0,
+    "explanation": "The correct text is 'Là-haut, dans les bureaux de direction, les dirigeants préparent une annonce importante.' The distractors test location confusion (là-bas vs là-haut), verb confusion (présentent vs préparent), and department confusion (production vs direction).",
+    "difficulty": "B1",
+    "source": "Corporate news",
+    "tags": ["workplace", "business", "management"],
+    "parentQuestion": 735,
+    "timeCreated": 1752115800
+}

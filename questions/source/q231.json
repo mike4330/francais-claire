@@ -1,0 +1,18 @@
+{
+    "id": 231,
+    "audioText": "Les enfants jouent au football dans le parc tous les dimanches.",
+    "question": "Les enfants ______ au football dans le parc tous les dimanches.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "jouent",
+        "joue",
+        "joues",
+        "jouons"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les enfants jouent au football dans le parc tous les dimanches</em>' - The children play soccer in the park every Sunday. 'Jouent' is the third person plural form of 'jouer' (to play), agreeing with 'les enfants' (the children).",
+    "difficulty": "A2",
+    "source": "Weekend activities",
+    "tags": ["sports", "children", "weekend"],
+    "timeCreated": 1704414900
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1355,
+    "audioText": "Sa voix tendre va paisiblement calmer les enfants inquiets avant le spectacle.",
+    "question": "Sa voix ______ va paisiblement calmer les enfants inquiets avant le spectacle.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "tendre",
+        "tendres",
+        "tendue",
+        "tendresse"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa voix tendre va paisiblement calmer les enfants inquiets avant le spectacle</em>' - Her tender voice will peacefully calm the worried children before the show. 'Tendre' (tender/gentle) is the correct adjective, agreeing with the feminine noun 'voix'.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: tendre + paisiblement + inquiets",
+    "tags": ["emotions", "children", "comfort"],
+    "timeCreated": 1736625480
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1286,
+    "audioText": "Le début de cette formation toutefois pose des questions importantes sur notre méthode pédagogique.",
+    "question": "Le ______ de cette formation toutefois pose des questions importantes sur notre méthode pédagogique.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "début",
+        "commencement",
+        "fin",
+        "milieu"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le début de cette formation toutefois pose des questions importantes sur notre méthode pédagogique</em>' - The beginning of this training however raises important questions about our pedagogical method. 'Début' is a masculine noun meaning 'beginning/start'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: début + toutefois + formation + pédagogique",
+    "tags": ["education", "training", "methodology"],
+    "timeCreated": 1736624220
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1140,
+    "audioText": "Dans cette minute dangereuse, l'effet militaire fraîchement présent devient jaune, bête mais sympa, exprès froidement incroyable.",
+    "question": "Dans cette minute dangereuse, l'effet militaire ______ présent devient jaune, bête mais sympa, exprès froidement incroyable.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fraîchement",
+        "frais",
+        "fraîche",
+        "fraîcheur"
+    ],
+    "correct": 0,
+    "explanation": "The correct form is 'fraîchement' (freshly/recently), an adverb modifying 'présent' to indicate that the military effect is freshly/recently present. The complete sentence is '<em>Dans cette minute dangereuse, l'effet militaire fraîchement présent devient jaune, bête mais sympa, exprès froidement incroyable.</em>' - In this dangerous minute, the freshly present military effect becomes yellow, stupid but nice, deliberately coldly incredible.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["military", "time", "transformation", "description"],
+    "timeCreated": 1720825620
+}

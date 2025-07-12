@@ -1,0 +1,22 @@
+{
+  "id": 15,
+  "audioText": "Cette soupe est décidément trop salée, je ne peux pas la manger.",
+  "question": "Cette soupe est ______ trop salée.",
+  "questionType": "FIB-reading",
+  "options": [
+    "vraiment",
+    "un peu",
+    "décidément",
+    "pas"
+  ],
+  "correct": 2,
+  "explanation": "The adverb 'décidément' is used to express a confirmed observation, similar to 'definitely' or 'certainly'. It emphasizes that the soup is unquestionably too salty.",
+  "difficulty": "A2",
+  "source": "Gemini CLI",
+  "tags": [
+    "culinary-vocabulary",
+    "food",
+    "restaurant"
+  ],
+  "timeCreated": 1720181349
+}

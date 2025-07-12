@@ -1,0 +1,18 @@
+{
+    "id": 346,
+    "audioText": "Cette maison proche et grise ?",
+    "question": "What kind of house is mentioned?",
+    "questionType": "comprehension",
+    "options": [
+        "A nearby gray house",
+        "A far black house",
+        "A close white house",
+        "A distant gray house"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette maison proche et grise ?</em>' - This nearby gray house? The adjectives 'proche' (nearby/close) and 'grise' (gray, feminine form of 'gris') describe the house.",
+    "difficulty": "A2",
+    "source": "Strategic adjective targeting: proche, gris",
+    "tags": ["housing", "location", "description"],
+    "timeCreated": 1720964220
+}

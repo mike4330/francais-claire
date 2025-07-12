@@ -1,0 +1,18 @@
+{
+    "id": 243,
+    "audioText": "Tu sentiras ton cœur battre plus fort si tu cours actuellement.",
+    "question": "When will you feel your heart beat stronger?",
+    "questionType": "comprehension",
+    "options": [
+        "If you sleep",
+        "If you run now",
+        "If you eat",
+        "If you read"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Tu sentiras ton cœur battre plus fort si tu cours actuellement</em>' - You will feel your heart beat stronger if you run now. 'Sentiras' is future tense of sentir, 'cœur' means heart, and 'actuellement' means currently/now.",
+    "difficulty": "A2",
+    "source": "Exercise and health awareness",
+    "tags": ["health", "exercise", "body"],
+    "timeCreated": 1751777362
+}

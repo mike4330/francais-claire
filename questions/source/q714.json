@@ -1,0 +1,18 @@
+{
+    "id": 714,
+    "audioText": "Ma sœur est revenue de son voyage en Asie avec des souvenirs magnifiques.",
+    "question": "Ma sœur est ______ de son voyage en Asie avec des souvenirs magnifiques.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "revenue",
+        "revenu",
+        "revenus",
+        "revenues"
+    ],
+    "correct": 0,
+    "explanation": "The text contains 'Ma sœur est revenue de son voyage en Asie avec des souvenirs magnifiques' - My sister came back from her trip to Asia with magnificent souvenirs. 'Revenue' is the feminine past participle of 'revenir' (to return), agreeing with 'ma sœur'.",
+    "difficulty": "B2",
+    "source": "Travel return story",
+    "tags": ["travel", "family", "asia", "souvenirs", "return"],
+    "timeCreated": 1736068400
+}

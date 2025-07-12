@@ -1,0 +1,18 @@
+{
+    "id": 1044,
+    "audioText": "C'est la deuxième fois qu'elle remporte ce prix prestigieux de littérature.",
+    "question": "C'est la ______ fois qu'elle remporte ce prix prestigieux de littérature.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "deuxième",
+        "dernière",
+        "première",
+        "prochaine"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>C'est la deuxième fois qu'elle remporte ce prix prestigieux de littérature.</em>' - 'This is the second time she wins this prestigious literature prize.' The missing word is 'deuxième' (second), indicating the ordinal number for the second occurrence.",
+    "difficulty": "A2",
+    "source": "Literary awards and achievement recognition",
+    "tags": ["literature", "awards", "achievement", "recognition"],
+    "timeCreated": 1736348820
+}

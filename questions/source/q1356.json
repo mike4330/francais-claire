@@ -1,0 +1,18 @@
+{
+    "id": 1356,
+    "audioText": "Cette personne honnête mérite vraiment notre confiance totale pour cette mission délicate.",
+    "question": "Cette personne ______ mérite vraiment notre confiance totale pour cette mission délicate.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "honnête",
+        "honnêtes",
+        "honneur",
+        "honorable"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette personne honnête mérite vraiment notre confiance totale pour cette mission délicate</em>' - This honest person truly deserves our complete trust for this delicate mission. 'Honnête' (honest) is the correct adjective, agreeing with the feminine noun 'personne'.",
+    "difficulty": "B2",
+    "source": "Strategic targeting: honnête + vraiment + délicate",
+    "tags": ["trust", "character", "mission"],
+    "timeCreated": 1736625540
+}

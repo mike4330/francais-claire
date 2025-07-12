@@ -1,0 +1,18 @@
+{
+    "id": 1069,
+    "audioText": "Elle se tient raide devant son patron pour montrer son professionnalisme.",
+    "question": "How does she position herself in front of her boss?",
+    "questionType": "comprehension",
+    "options": [
+        "She stands stiffly to show professionalism",
+        "She sits comfortably to appear relaxed",
+        "She moves quickly to show efficiency",
+        "She speaks loudly to show confidence"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle se tient raide devant son patron pour montrer son professionnalisme</em>' - She stands stiffly in front of her boss to show her professionalism. The adverb 'raide' means stiffly or rigidly, describing how she holds herself.",
+    "difficulty": "B2",
+    "source": "Workplace behavior",
+    "tags": ["workplace", "behavior", "professionalism"],
+    "timeCreated": 1720447200
+}

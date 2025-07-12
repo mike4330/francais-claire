@@ -1,0 +1,19 @@
+
+{
+    "id": 560,
+    "audioText": "La femme porte une robe rouge.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "La femme porte une robe rouge.",
+        "L'homme porte une robe rouge.",
+        "La femme porte un pantalon rouge.",
+        "La femme porte une robe bleue."
+    ],
+    "correct": 0,
+    "explanation": "The correct sentence is 'La femme porte une robe rouge.', which means 'The woman is wearing a red dress.'",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["clothing", "description"],
+    "timeCreated": 1720134000
+}

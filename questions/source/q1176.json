@@ -1,0 +1,18 @@
+{
+    "id": 1176,
+    "audioText": "Le capitaine a trouvé une place de parking pour améliorer la positivité de son équipe découragée.",
+    "question": "What did the captain find to improve his discouraged team's positivity?",
+    "questionType": "comprehension",
+    "options": [
+        "A parking space",
+        "A training ground",
+        "A meeting room",
+        "A restaurant table"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le capitaine a trouvé une place de parking pour améliorer la positivité de son équipe découragée</em>' - The captain found a parking space to improve his discouraged team's positivity. 'Capitaine' means captain, 'parking' means parking, and 'positivité' means positivity.",
+    "difficulty": "B1",
+    "source": "Strategic multi-gap synergy",
+    "tags": ["parking", "positivity", "team-leadership"],
+    "timeCreated": 1752096500
+}

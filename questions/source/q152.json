@@ -1,0 +1,22 @@
+{
+  "id": 152,
+  "audioText": "Maman fait la cuisine.",
+  "question": "What is mom doing?",
+  "questionType": "comprehension",
+  "options": [
+    "Cooking",
+    "Cleaning",
+    "Shopping",
+    "Working"
+  ],
+  "correct": 0,
+  "explanation": "The sentence says 'Maman fait la cuisine' - Mom is cooking/making food. 'Maman' is an affectionate term for mother, and 'faire la cuisine' means to cook.",
+  "difficulty": "A2",
+  "source": "Family Activities",
+  "tags": [
+    "family",
+    "cooking",
+    "daily-activities"
+  ],
+  "timeCreated": 1720025040
+}
