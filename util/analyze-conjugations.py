@@ -13,12 +13,29 @@ import os
 from collections import defaultdict, Counter
 
 # Configuration
-COVERAGE_FILTER_THRESHOLD = 56  # Skip verbs with coverage above this percentage
+COVERAGE_FILTER_THRESHOLD = 51  # Skip verbs with coverage above this percentage
 
 # Blacklist for conjugate forms that are used as nouns/other parts of speech in questions
 # Format: {word: [list_of_question_ids_where_its_not_a_conjugate]}
 CONJUGATE_BLACKLIST = {
     'crue': [602],  # Used as noun "en crue" (in flood) in q602, not as past participle of "croire"
+}
+
+# Blacklist for literary/rare verb forms not suitable for everyday French learning
+LITERARY_VERB_BLACKLIST = {
+    # Passé simple forms (literary only)
+    'mourut', 'commença', 'devint', 'vint', 'tint', 'prit', 'fit', 'dit', 'vit', 'fut',
+    'eut', 'alla', 'donna', 'porta', 'parla', 'regarda', 'trouva', 'passa', 'sentit',
+    'sortit', 'partit', 'rentra', 'arriva', 'resta', 'tomba', 'leva', 'tourna',
+    
+    # Rare/morbid conjugations
+    'mourrait', 'mourrais', 'mourrons', 'mourrez', 'mortes', 'morts',
+    
+    # Very literary conditional/subjunctive variants
+    'sût', 'eût', 'fût', 'dût', 'pût', 'vînt', 'tînt', 'prît', 'fît', 'dît', 'vît',
+    
+    # Archaic or very formal forms
+    'messied', 'messiéront', 'gît', 'gisent', 'gisant'
 }
 
 # ANSI Color codes
@@ -81,6 +98,102 @@ def get_top_verbs(limit=50):
     except Exception as e:
         print(f"❌ Error getting top verbs: {e}")
         conn.close()
+        return []
+
+def get_verbs_needing_attention(target_count=25):
+    """Dynamically expand verb pool until we have enough verbs needing attention"""
+    conn = connect_to_lexique()
+    if not conn:
+        return []
+    
+    try:
+        cursor = conn.cursor()
+        
+        # Get total verb count for limit calculations
+        cursor.execute("SELECT COUNT(*) FROM verbe WHERE freqfilms2 > 0")
+        total_verbs = cursor.fetchone()[0]
+        
+        print(f"{Colors.CYAN}🔄 Dynamic verb pool expansion (targeting {target_count} verbs needing attention)...{Colors.END}")
+        
+        pool_size = 250  # Start with 250 verbs
+        verbs_needing_attention = []
+        
+        while len(verbs_needing_attention) < target_count and pool_size <= total_verbs:
+            # Get current pool of verbs
+            cursor.execute("""
+                SELECT lemme, freqfilms2 
+                FROM verbe 
+                WHERE freqfilms2 > 0 
+                ORDER BY freqfilms2 DESC 
+                LIMIT ?
+            """, (pool_size,))
+            
+            top_verbs = cursor.fetchall()
+            
+            # Quick coverage check for all verbs in current pool
+            print(f"{Colors.YELLOW}📊 Checking coverage for top {pool_size} verbs...{Colors.END}")
+            
+            # Load questions for coverage analysis
+            questions = load_question_files()
+            if not questions:
+                print(f"{Colors.RED}❌ Cannot load questions for coverage analysis{Colors.END}")
+                break
+            
+            question_text = extract_text_from_questions(questions)
+            words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç]+\b', question_text)
+            word_counts = Counter(words)
+            
+            # Reset the list for this iteration
+            verbs_needing_attention = []
+            
+            for verb, freq in top_verbs:
+                # Quick coverage calculation
+                conjugated_forms = get_all_conjugated_forms(verb)
+                if not conjugated_forms:
+                    continue
+                
+                # Check which forms appear in questions
+                found_forms = []
+                if verb in word_counts:
+                    found_forms.append(verb)
+                
+                for form, grammar, form_freq in conjugated_forms:
+                    if form in word_counts:
+                        found_forms.append(form)
+                
+                # Coverage statistics
+                total_forms = len(conjugated_forms) + 1  # +1 for infinitive
+                coverage_pct = len(found_forms) / total_forms * 100 if total_forms > 0 else 0
+                
+                # Add to attention list if below threshold
+                if coverage_pct <= COVERAGE_FILTER_THRESHOLD:
+                    verbs_needing_attention.append(verb)
+                    
+                    # Stop when we have enough
+                    if len(verbs_needing_attention) >= target_count:
+                        break
+            
+            # If we have enough verbs, we're done
+            if len(verbs_needing_attention) >= target_count:
+                print(f"{Colors.GREEN}✅ Found {len(verbs_needing_attention)} verbs needing attention from pool of {pool_size}{Colors.END}")
+                break
+            
+            # Otherwise, expand the pool
+            old_pool_size = pool_size
+            pool_size += 50  # Expand by 50 each time
+            print(f"{Colors.YELLOW}🔄 Only found {len(verbs_needing_attention)} verbs needing attention, expanding pool from {old_pool_size} to {pool_size}...{Colors.END}")
+        
+        conn.close()
+        
+        if len(verbs_needing_attention) < target_count:
+            print(f"{Colors.YELLOW}⚠️  Only found {len(verbs_needing_attention)} verbs needing attention (out of {total_verbs} total verbs){Colors.END}")
+        
+        return verbs_needing_attention[:target_count]
+        
+    except Exception as e:
+        print(f"❌ Error in dynamic verb selection: {e}")
+        if conn:
+            conn.close()
         return []
 
 def get_all_conjugated_forms(verb_infinitive):
@@ -196,8 +309,8 @@ def extract_text_from_questions(questions):
     
     return all_text.lower()
 
-def analyze_verb_conjugation_coverage(top_verbs, question_text):
-    """Analyze conjugation coverage for each top verb"""
+def analyze_verb_conjugation_coverage(verbs_needing_attention, question_text):
+    """Analyze conjugation coverage for pre-filtered verbs that need attention"""
     words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñç]+\b', question_text)
     word_counts = Counter(words)
     
@@ -206,61 +319,36 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
     print("="*80 + f"{Colors.END}")
     
     total_coverage = {}
-    skipped_verbs = []
     
-    # First pass: calculate coverage for all verbs to identify well-covered ones
-    print(f"{Colors.YELLOW}🔍 Quick coverage assessment for filtering...{Colors.END}")
+    print(f"{Colors.CYAN}📋 Analyzing {len(verbs_needing_attention)} verbs needing attention (≤{COVERAGE_FILTER_THRESHOLD}% coverage):{Colors.END}")
+    if len(LITERARY_VERB_BLACKLIST) > 0:
+        print(f"{Colors.CYAN}🚫 Filtering out {len(LITERARY_VERB_BLACKLIST)} literary/rare forms from analysis{Colors.END}")
     
-    for i, verb in enumerate(top_verbs, 1):
-        # Get all conjugated forms
-        conjugated_forms = get_all_conjugated_forms(verb)
-        
-        if not conjugated_forms:
-            continue
-        
-        # Check which forms appear in questions
-        found_forms = []
-        
-        # Include infinitive
-        if verb in word_counts:
-            found_forms.append((verb, "infinitive", word_counts[verb]))
-        
-        # Check conjugated forms
-        for form, grammar, freq in conjugated_forms:
-            if form in word_counts:
-                found_forms.append((form, grammar, word_counts[form]))
-        
-        # Coverage statistics
-        total_forms = len(conjugated_forms) + 1  # +1 for infinitive
-        coverage_pct = len(found_forms) / total_forms * 100 if total_forms > 0 else 0
-        
-        total_coverage[verb] = {
-            'found': len(found_forms),
-            'total': total_forms,
-            'coverage': coverage_pct
-        }
-        
-        # Skip verbs with coverage above threshold
-        if coverage_pct > COVERAGE_FILTER_THRESHOLD:
-            skipped_verbs.append((verb, coverage_pct))
+    # Get verb ranks for display (need to query database again)
+    conn = connect_to_lexique()
+    verb_ranks = {}
+    if conn:
+        try:
+            cursor = conn.cursor()
+            cursor.execute("""
+                SELECT lemme, freqfilms2, 
+                       ROW_NUMBER() OVER (ORDER BY freqfilms2 DESC) as rank
+                FROM verbe 
+                WHERE freqfilms2 > 0
+            """)
+            
+            for verb, freq, rank in cursor.fetchall():
+                verb_ranks[verb] = rank
+                
+        except Exception as e:
+            print(f"{Colors.YELLOW}⚠️  Could not determine verb ranks: {e}{Colors.END}")
+        finally:
+            conn.close()
     
-    # Filter out well-covered verbs and select exactly 25 that need attention
-    verbs_needing_attention = [verb for verb in top_verbs if total_coverage.get(verb, {}).get('coverage', 0) <= COVERAGE_FILTER_THRESHOLD]
-    verbs_to_analyze = verbs_needing_attention[:25]  # Take first 25 that need attention
-    
-    print(f"\n{Colors.GREEN}✅ Skipping {len(skipped_verbs)} well-covered verbs (>{COVERAGE_FILTER_THRESHOLD}% coverage):{Colors.END}")
-    for verb, coverage in skipped_verbs:
-        rank = top_verbs.index(verb) + 1
-        print(f"   🟢 #{rank:2d} {verb:12} - {coverage:5.1f}% coverage (well covered)")
-    
-    print(f"\n{Colors.CYAN}📋 Analyzing top 25 verbs needing attention (≤{COVERAGE_FILTER_THRESHOLD}% coverage):{Colors.END}")
-    if len(verbs_needing_attention) > 25:
-        print(f"{Colors.YELLOW}   (Selected first 25 from {len(verbs_needing_attention)} candidates needing attention){Colors.END}")
-    
-    # Second pass: detailed analysis for verbs needing attention
-    for verb in verbs_to_analyze:
-        rank = top_verbs.index(verb) + 1
-        print(f"\n{Colors.BOLD}{Colors.BLUE}🔍 {rank:2d}. {verb.upper()} (Rank #{rank}){Colors.END}")
+    # Detailed analysis for verbs needing attention
+    for verb in verbs_needing_attention:
+        rank = verb_ranks.get(verb, "?")
+        print(f"\n{Colors.BOLD}{Colors.BLUE}🔍 {verb.upper()} (Rank #{rank}){Colors.END}")
         print("-" * 50)
         
         # Get all conjugated forms
@@ -278,29 +366,38 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
         if verb in word_counts:
             found_forms.append((verb, "infinitive", word_counts[verb]))
         
-        # Check conjugated forms
+        # Check conjugated forms (filter out blacklisted literary forms)
         for form, grammar, freq in conjugated_forms:
             if form in word_counts:
                 found_forms.append((form, grammar, word_counts[form]))
-            else:
+            elif form not in LITERARY_VERB_BLACKLIST:
                 missing_forms.append((form, grammar, freq))
         
         # Sort by frequency in our questions
         found_forms.sort(key=lambda x: x[2], reverse=True)
+        
+        # Coverage statistics
+        total_forms = len(conjugated_forms) + 1  # +1 for infinitive
+        coverage_pct = len(found_forms) / total_forms * 100 if total_forms > 0 else 0
+        
+        total_coverage[verb] = {
+            'found': len(found_forms),
+            'total': total_forms,
+            'coverage': coverage_pct
+        }
         
         # Report findings
         print(f"   {Colors.GREEN}✅ FOUND FORMS: {len(found_forms)} forms found in questions{Colors.END}")
         
         print(f"   ❌ MISSING FORMS ({len(missing_forms)}) - Top by frequency:")
         missing_forms.sort(key=lambda x: x[2], reverse=True)  # Sort by Lexique frequency
-        for form, grammar, freq in missing_forms[:6]:  # Top 7 missing
+        for form, grammar, freq in missing_forms[:6]:  # Top 6 missing
             print(f"      {form:12} ({grammar:15}) - freq: {freq:6.1f}")
         
         if len(missing_forms) > 6:
             print(f"      ... and {len(missing_forms) - 6} more missing forms")
         
         # Coverage statistics
-        coverage_pct = total_coverage[verb]['coverage']
         print(f"   📈 Coverage: {total_coverage[verb]['found']}/{total_coverage[verb]['total']} forms ({coverage_pct:.1f}%)")
     
     # Summary
@@ -308,46 +405,36 @@ def analyze_verb_conjugation_coverage(top_verbs, question_text):
     print("📊 OVERALL CONJUGATION COVERAGE SUMMARY")
     print("="*80)
     
-    # Calculate statistics for analyzed verbs only
-    analyzed_coverage = sum(total_coverage[verb]['coverage'] for verb in verbs_to_analyze) / len(verbs_to_analyze)
-    total_candidates = len(skipped_verbs) + len(verbs_needing_attention)
+    # Calculate statistics for analyzed verbs
+    analyzed_coverage = sum(total_coverage[verb]['coverage'] for verb in verbs_needing_attention) / len(verbs_needing_attention)
     
-    print(f"Total verb candidates examined: {total_candidates}")
-    print(f"Well-covered verbs (>{COVERAGE_FILTER_THRESHOLD}%): {len(skipped_verbs)} skipped")
-    print(f"Verbs analyzed (≤{COVERAGE_FILTER_THRESHOLD}%): {len(verbs_to_analyze)} (top 25 needing attention)")
+    print(f"Verbs analyzed (≤{COVERAGE_FILTER_THRESHOLD}%): {len(verbs_needing_attention)} (needing attention)")
     print(f"Average coverage of analyzed verbs: {analyzed_coverage:.1f}%")
     
-    print(f"\n🎯 TOP 25 VERBS NEEDING ATTENTION (≤{COVERAGE_FILTER_THRESHOLD}% coverage):")
-    for verb in verbs_to_analyze:
+    print(f"\n🎯 VERBS NEEDING ATTENTION (≤{COVERAGE_FILTER_THRESHOLD}% coverage):")
+    for verb in verbs_needing_attention:
         data = total_coverage[verb]
         status = "🟡" if data['coverage'] > 40 else "🟠" if data['coverage'] > 20 else "🔴"
-        rank = top_verbs.index(verb) + 1
-        print(f"  {status} #{rank:2d} {verb:12} {data['found']:2d}/{data['total']:2d} ({data['coverage']:5.1f}%)")
-    
-    if skipped_verbs:
-        print(f"\n✅ WELL-COVERED VERBS SKIPPED (>{COVERAGE_FILTER_THRESHOLD}% coverage):")
-        for verb, coverage in skipped_verbs:
-            rank = top_verbs.index(verb) + 1
-            data = total_coverage[verb]
-            print(f"  🟢 #{rank:2d} {verb:12} {data['found']:2d}/{data['total']:2d} ({coverage:5.1f}%)")
+        rank = verb_ranks.get(verb, "?")
+        print(f"  {status} #{rank:2} {verb:12} {data['found']:2d}/{data['total']:2d} ({data['coverage']:5.1f}%)")
     
     # Priority recommendations - focus on lowest coverage
-    priority_verbs = sorted(verbs_to_analyze, key=lambda v: total_coverage[v]['coverage'])[:5]
+    priority_verbs = sorted(verbs_needing_attention, key=lambda v: total_coverage[v]['coverage'])[:5]
     if priority_verbs:
         print(f"\n🚨 TOP 5 PRIORITY VERBS (lowest coverage):")
         for verb in priority_verbs:
             data = total_coverage[verb]
-            rank = top_verbs.index(verb) + 1
-            print(f"   🔴 #{rank:2d} {verb:12} - only {data['coverage']:4.1f}% coverage")
+            rank = verb_ranks.get(verb, "?")
+            print(f"   🔴 #{rank:2} {verb:12} - only {data['coverage']:4.1f}% coverage")
 
 def main():
     print("🔍 French Conjugation Coverage Analyzer")
     print("="*50)
     
-    # Get top 50 verbs (to ensure we have 25 after filtering)
-    top_verbs = get_top_verbs(50)
+    # Use dynamic verb selection to get verbs needing attention
+    verbs_needing_attention = get_verbs_needing_attention(25)
     
-    if not top_verbs:
+    if not verbs_needing_attention:
         print("❌ Cannot proceed without verb data")
         return
     
@@ -363,8 +450,8 @@ def main():
     # Extract text
     question_text = extract_text_from_questions(questions)
     
-    # Analyze conjugation coverage
-    analyze_verb_conjugation_coverage(top_verbs, question_text)
+    # Analyze conjugation coverage for the dynamically selected verbs
+    analyze_verb_conjugation_coverage(verbs_needing_attention, question_text)
     
     print(f"\n✅ Analysis complete!")
 

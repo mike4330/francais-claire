@@ -18,9 +18,9 @@ from collections import defaultdict, Counter
 # ============================================================================
 # THRESHOLD CONFIGURATION - Adjust these values to tune analysis sensitivity
 # ============================================================================
-ATTENTION_THRESHOLD_ADVERBS = 0.004      # 0.005% threshold for adverbs
-ATTENTION_THRESHOLD_ADJECTIVES = 0.0038    # 0.01% threshold for adjectives  
-ATTENTION_THRESHOLD_NOUNS = 0.0043        
+ATTENTION_THRESHOLD_ADVERBS = 0.0022      
+ATTENTION_THRESHOLD_ADJECTIVES = 0.00338    
+ATTENTION_THRESHOLD_NOUNS = 0.0035        
 CONJUGATION_COVERAGE_FILTER = 55         # Skip verbs with coverage above this percentage
 # ============================================================================
 
@@ -28,6 +28,23 @@ CONJUGATION_COVERAGE_FILTER = 55         # Skip verbs with coverage above this p
 # Format: {word: [list_of_question_ids_where_its_not_a_conjugate]}
 CONJUGATE_BLACKLIST = {
     'crue': [602],  # Used as noun "en crue" (in flood) in q602, not as past participle of "croire"
+}
+
+# Blacklist for literary/rare verb forms not suitable for everyday French learning
+LITERARY_VERB_BLACKLIST = {
+    # Passé simple forms (literary only)
+    'mourut', 'commença', 'devint', 'vint', 'tint', 'prit', 'fit', 'dit', 'vit', 'fut',
+    'eut', 'alla', 'donna', 'porta', 'parla', 'regarda', 'trouva', 'passa', 'sentit',
+    'sortit', 'partit', 'rentra', 'arriva', 'resta', 'tomba', 'leva', 'tourna',
+    
+    # Rare/morbid conjugations
+    'mourrait', 'mourrais', 'mourrons', 'mourrez', 'mortes', 'morts',
+    
+    # Very literary conditional/subjunctive variants
+    'sût', 'eût', 'fût', 'dût', 'pût', 'vînt', 'tînt', 'prît', 'fît', 'dît', 'vît',
+    
+    # Archaic or very formal forms
+    'messied', 'messiéront', 'gît', 'gisent', 'gisant'
 }
 
 # ANSI Color codes
@@ -231,18 +248,114 @@ def get_all_conjugated_forms(verb_infinitive, paths):
             conn.close()
         return []
 
+def get_verbs_needing_attention_for_lemma(paths, target_count=25):
+    """Dynamically expand verb pool until we have enough verbs needing attention"""
+    conn = connect_to_lexique(paths)
+    if not conn:
+        return []
+    
+    try:
+        cursor = conn.cursor()
+        
+        # Get total verb count for limit calculations
+        cursor.execute("SELECT COUNT(*) FROM verbe WHERE freqfilms2 > 0")
+        total_verbs = cursor.fetchone()[0]
+        
+        print(f"{Colors.CYAN}🔄 Dynamic verb pool expansion (targeting {target_count} verbs needing attention)...{Colors.END}")
+        
+        pool_size = 250  # Start with 250 verbs
+        verbs_needing_attention = []
+        
+        # Load questions for coverage analysis (do this once)
+        questions = load_question_files(paths)
+        if not questions:
+            print(f"{Colors.FAIL} Cannot load questions for coverage analysis")
+            return []
+        
+        question_text = extract_text_from_questions(questions, respect_blacklist=True)
+        words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñçœ]+\b', question_text)
+        word_counts = Counter(words)
+        
+        while len(verbs_needing_attention) < target_count and pool_size <= total_verbs:
+            # Get current pool of verbs
+            cursor.execute("""
+                SELECT lemme, freqfilms2 
+                FROM verbe 
+                WHERE freqfilms2 > 0 
+                ORDER BY freqfilms2 DESC 
+                LIMIT ?
+            """, (pool_size,))
+            
+            top_verbs = cursor.fetchall()
+            
+            # Quick coverage check for all verbs in current pool
+            print(f"{Colors.YELLOW}📊 Checking coverage for top {pool_size} verbs...{Colors.END}")
+            
+            # Reset the list for this iteration
+            verbs_needing_attention = []
+            
+            for verb, freq in top_verbs:
+                # Quick coverage calculation
+                conjugated_forms = get_all_conjugated_forms(verb, paths)
+                if not conjugated_forms:
+                    continue
+                
+                # Check which forms appear in questions
+                found_forms = []
+                if verb in word_counts:
+                    found_forms.append(verb)
+                
+                for form, grammar, form_freq in conjugated_forms:
+                    if form in word_counts:
+                        found_forms.append(form)
+                
+                # Coverage statistics
+                total_forms = len(conjugated_forms) + 1  # +1 for infinitive
+                coverage_pct = len(found_forms) / total_forms * 100 if total_forms > 0 else 0
+                
+                # Add to attention list if below threshold
+                if coverage_pct <= CONJUGATION_COVERAGE_FILTER:
+                    verbs_needing_attention.append(verb)
+                    
+                    # Stop when we have enough
+                    if len(verbs_needing_attention) >= target_count:
+                        break
+            
+            # If we have enough verbs, we're done
+            if len(verbs_needing_attention) >= target_count:
+                print(f"{Colors.SUCCESS} Found {len(verbs_needing_attention)} verbs needing attention from pool of {pool_size}")
+                break
+            
+            # Otherwise, expand the pool
+            old_pool_size = pool_size
+            pool_size += 50  # Expand by 50 each time
+            print(f"{Colors.YELLOW}🔄 Only found {len(verbs_needing_attention)} verbs needing attention, expanding pool from {old_pool_size} to {pool_size}...{Colors.END}")
+        
+        conn.close()
+        
+        if len(verbs_needing_attention) < target_count:
+            print(f"{Colors.WARNING} Only found {len(verbs_needing_attention)} verbs needing attention (out of {total_verbs} total verbs)")
+        
+        return verbs_needing_attention[:target_count]
+        
+    except Exception as e:
+        print(f"{Colors.FAIL} Error in dynamic verb selection: {e}")
+        if conn:
+            conn.close()
+        return []
+
 def analyze_verb_conjugations(paths, question_text, limit=50):
     """Analyze verb conjugation coverage and return prioritized missing conjugates"""
     print(f"\n{Colors.BOLD}{Colors.BLUE}🔍 VERB CONJUGATION ANALYSIS{Colors.END}")
     print("=" * 60)
     
-    # Get top verbs
-    top_verbs = get_top_verbs(paths, limit)
-    if not top_verbs:
+    # Get verbs needing attention using dynamic pool expansion
+    verbs_needing_attention = get_verbs_needing_attention_for_lemma(paths, 25)
+    if not verbs_needing_attention:
         print(f"{Colors.FAIL} Cannot proceed without verb data")
         return []
     
-    print(f"{Colors.CYAN}📊 Analyzing top {limit} verbs for conjugation coverage...{Colors.END}")
+    print(f"{Colors.CYAN}📊 Analyzing {len(verbs_needing_attention)} verbs needing attention for conjugation coverage...{Colors.END}")
     
     # Extract words from question text (respecting blacklist)
     words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñçœ]+\b', question_text)
@@ -251,11 +364,31 @@ def analyze_verb_conjugations(paths, question_text, limit=50):
     # Collect all missing conjugates with their frequencies
     all_missing_conjugates = []
     
-    # First pass: calculate coverage for all verbs to identify well-covered ones
-    total_coverage = {}
-    skipped_verbs = []
+    # Get verb ranks for display
+    conn = connect_to_lexique(paths)
+    verb_ranks = {}
+    if conn:
+        try:
+            cursor = conn.cursor()
+            cursor.execute("""
+                SELECT lemme, freqfilms2, 
+                       ROW_NUMBER() OVER (ORDER BY freqfilms2 DESC) as rank
+                FROM verbe 
+                WHERE freqfilms2 > 0
+            """)
+            
+            for verb, freq, rank in cursor.fetchall():
+                verb_ranks[verb] = rank
+                
+        except Exception as e:
+            print(f"{Colors.WARNING} Could not determine verb ranks: {e}")
+        finally:
+            conn.close()
     
-    for i, verb in enumerate(top_verbs, 1):
+    # Analyze each verb needing attention
+    for verb in verbs_needing_attention:
+        verb_rank = verb_ranks.get(verb, "?")
+        
         # Get all conjugated forms
         conjugated_forms = get_all_conjugated_forms(verb, paths)
         
@@ -277,34 +410,21 @@ def analyze_verb_conjugations(paths, question_text, limit=50):
             else:
                 missing_forms.append((form, grammar, freq))
         
-        # Coverage statistics
-        total_forms = len(conjugated_forms) + 1  # +1 for infinitive
-        coverage_pct = len(found_forms) / total_forms * 100 if total_forms > 0 else 0
-        
-        total_coverage[verb] = {
-            'found': len(found_forms),
-            'total': total_forms,
-            'coverage': coverage_pct,
-            'missing_forms': missing_forms
-        }
-        
-        # Skip verbs with coverage above threshold
-        if coverage_pct > CONJUGATION_COVERAGE_FILTER:
-            skipped_verbs.append((verb, coverage_pct))
-        else:
-            # Add missing forms to the global list
-            for form, grammar, freq in missing_forms:
-                all_missing_conjugates.append((form, grammar, freq, verb, i))
+        # Add missing forms to the global list (filter out blacklisted forms)
+        for form, grammar, freq in missing_forms:
+            if form not in LITERARY_VERB_BLACKLIST:
+                all_missing_conjugates.append((form, grammar, freq, verb, verb_rank))
     
-    # Filter out well-covered verbs and select exactly 25 that need attention
-    verbs_needing_attention = [verb for verb in top_verbs if total_coverage.get(verb, {}).get('coverage', 0) <= CONJUGATION_COVERAGE_FILTER]
-    verbs_to_analyze = verbs_needing_attention[:25]  # Take first 25 that need attention
-    
-    print(f"\n{Colors.SUCCESS} Skipping {len(skipped_verbs)} well-covered verbs (>{CONJUGATION_COVERAGE_FILTER}% coverage)")
-    print(f"{Colors.CYAN}📋 Analyzing {len(verbs_to_analyze)} verbs needing attention (≤{CONJUGATION_COVERAGE_FILTER}% coverage){Colors.END}")
+    print(f"\n{Colors.CYAN}📋 Analyzing {len(verbs_needing_attention)} verbs needing attention (≤{CONJUGATION_COVERAGE_FILTER}% coverage){Colors.END}")
     
     # Sort all missing conjugates by frequency (highest first)
     all_missing_conjugates.sort(key=lambda x: x[2], reverse=True)
+    
+    # Count filtered forms for debug output
+    total_missing_before_filter = sum(len([f for f, g, freq in missing_forms]) for verb in verbs_needing_attention for missing_forms in [[]])
+    filtered_count = len([form for form in LITERARY_VERB_BLACKLIST if any(form in [f for f, g, freq, v, r in all_missing_conjugates] for f, g, freq, v, r in all_missing_conjugates)])
+    if len(LITERARY_VERB_BLACKLIST) > 0:
+        print(f"{Colors.CYAN}🚫 Filtered out {len(LITERARY_VERB_BLACKLIST)} literary/rare forms from analysis{Colors.END}")
     
     # Display prioritized missing conjugates
     print(f"\n{Colors.BOLD}{Colors.MAGENTA}🎯 PRIORITIZED MISSING CONJUGATES:{Colors.END}")
