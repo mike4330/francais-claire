@@ -235,7 +235,7 @@
         "dessus",
         "à côté",
         "dessous",
-        "loin"
+        "derrière"
       ],
       "correct": 2,
       "explanation": "The text states '<em>Le marteau n'est pas sur la table, il est juste dessous, sur la chaise.</em>' - The hammer is not on the table, it is just underneath, on the chair. The adverb 'dessous' means 'underneath' or 'below', describing the hammer's location under the table.",
@@ -587,6 +587,7 @@
     },
     {
       "id": 28,
+      "audioText": "La météo prévoit du soleil pour la fête ce week-end.",
       "audioTemplate": "La météo prévoit {weather} pour {event} {day}.",
       "templateVariables": {
         "weather": {
@@ -632,23 +633,24 @@
           ]
         }
       },
-      "question": "What does the weather forecast predict for the event?",
+      "question": "What does the weather forecast predict?",
       "questionType": "comprehension",
       "options": [
-        "Sunshine for the festival this weekend.",
-        "Rain for the market tomorrow.",
-        "Wind for the concert tonight.",
-        "Snow for the match on Monday."
+        "Sunshine for the festival this weekend",
+        "Rain for a different event tomorrow",
+        "Wind for another event tonight",
+        "Snow for a sporting event on Monday"
       ],
       "correct": 0,
-      "explanation": "The sentence says 'La météo prévoit du soleil pour la fête ce week-end' – the weather forecast predicts sunshine for the festival this weekend.",
+      "explanation": "The weather forecast predicts 'du soleil pour la fête ce week-end' – sunshine for the festival this weekend. All template variations describe a weather prediction for a specific event and time, with the core meaning preserved across different combinations.",
       "difficulty": "A2",
-      "source": "Synthetic Weather",
+      "source": "Weather forecast template",
       "tags": [
         "weather",
         "forecast",
-        "festival"
-      ]
+        "events"
+      ],
+      "timeCreated": 1720817940
     },
     {
       "id": 34,
@@ -1351,8 +1353,8 @@
     },
     {
       "id": 68,
-      "audioText": "Macron passe souvent à la télévision française.",
-      "question": "Macron ______ souvent à la télévision française.",
+      "audioText": "Le président passe souvent à la télévision française.",
+      "question": "Le président ______ souvent à la télévision française.",
       "questionType": "fill-in-the-blank",
       "options": [
         "passe",
@@ -1361,7 +1363,7 @@
         "passons"
       ],
       "correct": 0,
-      "explanation": "With 'Macron' (third person singular), we use 'passe' - the third person singular form of 'passer' (to appear/to be on). The sentence means 'Macron often appears on French television.'",
+      "explanation": "The text states '<em>Le président passe souvent à la télévision française</em>' - The president often appears on French television. With 'le président' (third person singular), we use 'passe' - the third person singular form of 'passer' (to appear/to be on).",
       "difficulty": "A1",
       "source": "Contemporary French political media coverage",
       "tags": [
@@ -1819,7 +1821,7 @@
         "Tu es sourd de cette réponse ?"
       ],
       "correct": 0,
-      "explanation": "The correct form is 'sûr' (sure/certain) - a high-frequency adjective that was completely missing from our question bank. Note the circumflex accent on the 'u'.",
+      "explanation": "The correct form is 'sûr' (sure/certain). Note the circumflex accent on the 'u' which distinguishes it from the preposition 'sur' (on).",
       "difficulty": "A2",
       "source": "Daily conversation about certainty",
       "tags": [
@@ -6036,23 +6038,23 @@
     },
     {
       "id": 282,
-      "audioText": "L'instant de plaisir : regarder le feu ! Cette envie simple apporte la paix.",
-      "question": "Listening: What brings peace?",
+      "audioText": "Regarder le feu apporte cette paix simple que nous cherchons tous.",
+      "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
       "options": [
-        "Cette envie simple",
-        "Cette envie grande",
-        "Cette envie forte",
-        "Cette envie nouvelle"
+        "Regarder le feu apporte cette paix simple que nous cherchons tous",
+        "Regarder le feu apporte cette paix grande que nous cherchons tous",
+        "Regarder le feu apporte cette paix forte que nous cherchons tous",
+        "Regarder le feu apporte cette paix nouvelle que nous cherchons tous"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>L'instant de plaisir : regarder le feu ! Cette envie simple apporte la paix.</em>' - 'The moment of pleasure: watching the fire! This simple desire brings peace.' The correct answer is 'cette envie simple' (this simple desire) which brings peace.",
+      "explanation": "The correct answer is '<em>Regarder le feu apporte cette paix simple que nous cherchons tous</em>' - Watching the fire brings this simple peace that we all seek. The key word is 'simple' (simple) which distinguishes it from the other options with 'grande' (big), 'forte' (strong), or 'nouvelle' (new).",
       "difficulty": "A2",
-      "source": "Strategic noun-tag intersection",
+      "source": "Strategic vocabulary development - relaxation context",
       "tags": [
-        "rural-life",
+        "relaxation",
         "simplicity",
-        "peace"
+        "emotions"
       ],
       "timeCreated": 1720713600
     },
@@ -6455,28 +6457,6 @@
       "timeCreated": 1720715700
     },
     {
-      "id": 301,
-      "audioText": "En demandant le salut poliment, ce garçon capable montre son âge.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "En demandant le salut poliment, ce garçon capable montre son âge.",
-        "En demandant le salut sèchement, ce garçon capable montre son âge.",
-        "En demandant le salut poliment, ce garçon capable cache son âge.",
-        "En demandant le salut poliment, ce garçon timide montre son âge."
-      ],
-      "correct": 0,
-      "explanation": "The audio states '<em>En demandant le salut poliment, ce garçon capable montre son âge.</em>' - 'By asking for the greeting politely, this capable boy shows his age.' The verb 'demandant' is the present participle of 'demander' (to ask).",
-      "difficulty": "A2",
-      "source": "Strategic verb conjugate targeting",
-      "tags": [
-        "politeness",
-        "youth",
-        "social-interaction"
-      ],
-      "timeCreated": 1720715700
-    },
-    {
       "id": 302,
       "audioText": "Je rentrais à la maison le prochain demi-jour avec cette veste bleue.",
       "question": "Qu'est-ce que vous avez entendu?",
@@ -6810,29 +6790,6 @@
       ],
       "parentQuestion": 242,
       "timeCreated": 1720826220
-    },
-    {
-      "id": 317,
-      "audioText": "Le tournevis clair reste pareil à la scie drôle.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
-      "options": [
-        "Le tournevis clair reste pareil à la scie drôle.",
-        "Le tournevis clair reste pareil à la soie drôle.",
-        "Le tournevis claire reste pareil à la scie drôle.",
-        "Le tournevis clair reste pareille à la scie drôle."
-      ],
-      "correct": 0,
-      "explanation": "The correct option is 'Le tournevis clair reste pareil à la scie drôle.' - The clear screwdriver remains the same as the funny saw. This listening exercise tests recognition of homophones ('scie' vs 'soie') and adjective agreement ('clair' masculine vs 'claire' feminine, 'pareil' vs 'pareille').",
-      "difficulty": "A2",
-      "source": "Strategic tool targeting",
-      "tags": [
-        "tools",
-        "professional-tools",
-        "construction"
-      ],
-      "parentQuestion": 296,
-      "timeCreated": 1720826280
     },
     {
       "id": 318,
@@ -7187,13 +7144,570 @@
         "homecoming"
       ],
       "timeCreated": 1752095400
+    },
+    {
+      "id": 334,
+      "audioText": "Il fait très chaud dans cette voiture immobile où le couple amoureux attend.",
+      "question": "What is the weather like in the stationary car where the couple waits?",
+      "questionType": "comprehension",
+      "options": [
+        "Very hot",
+        "Very cold",
+        "Quite cool",
+        "Pleasantly warm"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il fait très chaud dans cette voiture immobile où le couple amoureux attend</em>' - It is very hot in this stationary car where the couple in love waits. 'Chaud' means hot, 'immobile' means stationary/motionless, and 'amoureux' means in love.",
+      "difficulty": "A2",
+      "source": "Strategic adjective threshold boosting",
+      "tags": [
+        "weather",
+        "transportation",
+        "romance"
+      ],
+      "timeCreated": 1752096700
+    },
+    {
+      "id": 335,
+      "audioText": "Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine.",
+        "Dans ce magasin de vêtements, je verrai bien une nouvelle collection de mode urbaine.",
+        "Dans ce magasin de vêtements, je voyais bien une nouvelle collection de mode urbaine.",
+        "Dans ce magasin de vêtements, je vois bien une nouvelle collection de mode urbaine."
+      ],
+      "correct": 0,
+      "explanation": "The correct option is '<em>Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine</em>' - In this clothing store, I would really like to see a new urban fashion collection. This listening exercise tests the conditional form 'verrais' versus present 'vois', future 'verrai', and imperfect 'voyais'.",
+      "difficulty": "A2",
+      "source": "Fashion and clothing shopping",
+      "tags": [
+        "fashion",
+        "shopping",
+        "clothing",
+        "urban-style"
+      ],
+      "parentQuestion": 629,
+      "timeCreated": 1752110400
+    },
+    {
+      "id": 336,
+      "audioText": "Chaque parent doit faire attention au prix des jouets pour ses enfants.",
+      "question": "What should each parent pay attention to?",
+      "questionType": "comprehension",
+      "options": [
+        "The price of toys for their children",
+        "The quality of school supplies",
+        "The location of the playground",
+        "The schedule of after-school activities"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Chaque parent doit faire attention au prix des jouets pour ses enfants</em>' - Each parent must pay attention to the price of toys for their children. 'Parent' means parent, 'prix' means price, and 'jouets' means toys.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting: parent, prix",
+      "tags": [
+        "family",
+        "children",
+        "shopping",
+        "toys"
+      ],
+      "timeCreated": 1752112000
+    },
+    {
+      "id": 337,
+      "audioText": "Au coin de la rue, le mur blanc cache une ombre mystérieuse.",
+      "question": "What does the white wall hide at the corner of the street?",
+      "questionType": "comprehension",
+      "options": [
+        "A mysterious shadow",
+        "A beautiful garden",
+        "An old bicycle",
+        "A street lamp"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Au coin de la rue, le mur blanc cache une ombre mystérieuse</em>' - At the corner of the street, the white wall hides a mysterious shadow. 'Coin' means corner, 'mur' means wall, and 'ombre' means shadow.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting: coin, mur, ombre",
+      "tags": [
+        "street",
+        "mystery",
+        "urban",
+        "shadow"
+      ],
+      "timeCreated": 1752115200
+    },
+    {
+      "id": 338,
+      "audioText": "Il a le cœur brisé.",
+      "question": "What happened to him?",
+      "questionType": "comprehension",
+      "options": [
+        "His heart is broken",
+        "His arm is broken",
+        "His body is tired",
+        "His head hurts"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il a le cœur brisé</em>' - He has a broken heart. The expression 'avoir le cœur brisé' means to be heartbroken or emotionally devastated.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting: cœur",
+      "tags": [
+        "emotions",
+        "relationships"
+      ],
+      "timeCreated": 1720616580
+    },
+    {
+      "id": 339,
+      "audioText": "Salut papa, j'ai mal au pied.",
+      "question": "What is wrong with the person?",
+      "questionType": "comprehension",
+      "options": [
+        "Their foot hurts",
+        "Their head hurts",
+        "Their back hurts",
+        "Their arm hurts"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Salut papa, j'ai mal au pied</em>' - Hello dad, my foot hurts. The expression 'avoir mal au pied' means to have a sore foot or foot pain.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting: salut, papa, pied",
+      "tags": [
+        "family",
+        "health",
+        "pain"
+      ],
+      "timeCreated": 1720617500
+    },
+    {
+      "id": 340,
+      "audioText": "Elle a de la peau douce sur le nez.",
+      "question": "What does she have?",
+      "questionType": "comprehension",
+      "options": [
+        "Soft skin on her nose",
+        "A small cut on her finger",
+        "Dry lips from the cold",
+        "Red cheeks from running"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle a de la peau douce sur le nez</em>' - She has soft skin on her nose. This describes a physical characteristic combining the nouns 'peau' and 'nez'.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting: peau, nez",
+      "tags": [
+        "appearance",
+        "physical-features",
+        "skin"
+      ],
+      "timeCreated": 1720618100
+    },
+    {
+      "id": 341,
+      "audioText": "Elle montre son doigt.",
+      "question": "What is she showing?",
+      "questionType": "comprehension",
+      "options": [
+        "Her finger",
+        "Her hand",
+        "Her arm",
+        "Her foot"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle montre son doigt</em>' - She shows her finger. The word 'doigt' refers to a finger.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting: doigt",
+      "tags": [
+        "body-parts",
+        "gestures",
+        "pointing"
+      ],
+      "timeCreated": 1720618700
+    },
+    {
+      "id": 342,
+      "audioText": "Cette famille pauvre vit dans une petite maison.",
+      "question": "Where does the poor family live?",
+      "questionType": "comprehension",
+      "options": [
+        "In a small house",
+        "In a big apartment",
+        "In a beautiful castle",
+        "In a modern building"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette famille pauvre vit dans une petite maison</em>' - This poor family lives in a small house. This targets the adjective 'pauvre' in a basic family housing context.",
+      "difficulty": "A2",
+      "source": "Strategic adjective targeting: pauvre",
+      "tags": [
+        "family",
+        "housing",
+        "economic-status"
+      ],
+      "timeCreated": 1720962000
+    },
+    {
+      "id": 343,
+      "audioText": "Tu iras en ville la nuit prochaine.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Tu iras en ville la nuit prochaine",
+        "Tu vas en ville la nuit prochaine",
+        "Tu allais en ville la nuit prochaine",
+        "Tu irais en ville la nuit prochaine"
+      ],
+      "correct": 0,
+      "parentQuestion": 76,
+      "explanation": "The correct text is '<em>Tu iras en ville la nuit prochaine</em>' - You will go to town tomorrow night. This uses the future tense 'iras' (will go), not present 'vas' (go), imperfect 'allais' (were going), or conditional 'irais' (would go).",
+      "difficulty": "A2",
+      "source": "Listening version of Q76",
+      "tags": [
+        "travel",
+        "future-tense"
+      ],
+      "timeCreated": 1720962480
+    },
+    {
+      "id": 344,
+      "audioText": "Ils diront la vérité demain matin.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Ils diront la vérité demain matin",
+        "Ils disent la vérité demain matin",
+        "Ils diraient la vérité demain matin",
+        "Ils diront la vérité ce matin"
+      ],
+      "correct": 0,
+      "parentQuestion": 228,
+      "explanation": "The correct text is '<em>Ils diront la vérité demain matin</em>' - They will tell the truth tomorrow morning. Key distinctions: 'diront' (future, will tell) not 'disent' (present, tell) or 'diraient' (conditional, would tell), and 'demain matin' (tomorrow morning) not 'ce matin' (this morning).",
+      "difficulty": "A2",
+      "source": "Listening version of Q228",
+      "tags": [
+        "truth",
+        "future-plans",
+        "conversation"
+      ],
+      "timeCreated": 1720963080
+    },
+    {
+      "id": 345,
+      "audioText": "Cet homme fou court quasi partout en ville.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Cet homme fou court quasi partout en ville",
+        "Cet homme fou court assez partout en ville",
+        "Cet homme sage court quasi partout en ville",
+        "Cet homme fou cours quasi partout en ville"
+      ],
+      "correct": 0,
+      "parentQuestion": 265,
+      "explanation": "The correct text is '<em>Cet homme fou court quasi partout en ville</em>' - This crazy man runs almost everywhere in town. Key distinctions: 'fou' (crazy, not 'sage' - wise), 'quasi' (almost, not 'assez' - quite/enough), and 'court' (runs, third person singular) not 'cours' (you run, second person singular or noun form).",
+      "difficulty": "A2",
+      "source": "Listening version of Q265",
+      "tags": [
+        "child-development",
+        "behavior",
+        "urban"
+      ],
+      "timeCreated": 1720963680
+    },
+    {
+      "id": 346,
+      "audioText": "Cette maison proche et grise ?",
+      "question": "What kind of house is mentioned?",
+      "questionType": "comprehension",
+      "options": [
+        "A nearby gray house",
+        "A far black house",
+        "A close white house",
+        "A distant gray house"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette maison proche et grise ?</em>' - This nearby gray house? The adjectives 'proche' (nearby/close) and 'grise' (gray, feminine form of 'gris') describe the house.",
+      "difficulty": "A2",
+      "source": "Strategic adjective targeting: proche, gris",
+      "tags": [
+        "housing",
+        "location",
+        "description"
+      ],
+      "timeCreated": 1720964220
+    },
+    {
+      "id": 347,
+      "audioText": "J'ai mangé le gâteau entier parce qu'il était délicieux.",
+      "question": "What did the speaker do with the cake?",
+      "questionType": "comprehension",
+      "options": [
+        "Ate the entire cake because it was delicious",
+        "Ate half the cake because it was delicious",
+        "Shared the entire cake because it was delicious",
+        "Bought the entire cake because it was delicious"
+      ],
+      "correct": 0,
+      "explanation": "The speaker said 'J'ai mangé le gâteau entier parce qu'il était délicieux' - I ate the entire cake because it was delicious. 'Entier' means 'entire' or 'whole'.",
+      "difficulty": "A1",
+      "source": "Food enjoyment",
+      "tags": [
+        "food",
+        "eating",
+        "completeness"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 348,
+      "audioText": "Le prix est de cinquante euros, service compris, pour ce menu gastronomique exceptionnel.",
+      "question": "Le prix est de cinquante euros, service ______, pour ce menu gastronomique exceptionnel.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "compris",
+        "exclu",
+        "supplémentaire",
+        "optionnel"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'compris' meaning 'included'. The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
+      "difficulty": "A2",
+      "source": "Fine dining",
+      "tags": [
+        "restaurant",
+        "pricing",
+        "gastronomy"
+      ],
+      "timeCreated": 1720077400
+    },
+    {
+      "id": 349,
+      "audioText": "Je vais au marché tous les mardis pour acheter des légumes frais.",
+      "question": "Je vais au marché tous les ______ pour acheter des légumes frais.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "mardis",
+      "acceptedAnswers": [
+        "mardis",
+        "Mardis"
+      ],
+      "explanation": "The correct answer is '<em>mardis</em>' (Tuesdays). The complete sentence is '<em>Je vais au marché tous les mardis pour acheter des légumes frais</em>' - I go to the market every Tuesday to buy fresh vegetables. Note that days of the week are plural when used with 'tous les' (every).",
+      "difficulty": "A2",
+      "source": "Writing practice - days of the week",
+      "tags": [
+        "daily-routine",
+        "food",
+        "shopping"
+      ],
+      "timeCreated": 1720656700
+    },
+    {
+      "id": 350,
+      "audioText": "Tu manges souvent des fruits jaunes le matin ?",
+      "question": "Tu ______ souvent des fruits jaunes le matin ?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "manges",
+        "mange",
+        "mangez",
+        "mangent"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu manges souvent des fruits jaunes le matin ?</em>' - Do you often eat yellow fruits in the morning? 'Manges' is the second person singular present form of 'manger' (to eat), used with the informal 'tu' form.",
+      "difficulty": "A2",
+      "source": "Strategic targeting: manges + jaune",
+      "tags": [
+        "food",
+        "daily-routine",
+        "health"
+      ],
+      "timeCreated": 1736622060
+    },
+    {
+      "id": 351,
+      "audioText": "Tu écoutes cette rose musique avec ton sourire sympa.",
+      "question": "Tu ______ cette rose musique avec ton sourire sympa.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "écoutes",
+        "écoute",
+        "écoutez",
+        "écoutent"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu écoutes cette rose musique avec ton sourire sympa</em>' - You listen to this pink music with your nice smile. 'Écoutes' is the second person singular present form of 'écouter' (to listen), used with the informal 'tu' form.",
+      "difficulty": "A2",
+      "source": "Strategic targeting: écoutes + rose + sympa",
+      "tags": [
+        "music",
+        "emotions",
+        "entertainment"
+      ],
+      "timeCreated": 1736622780
+    },
+    {
+      "id": 352,
+      "audioText": "C'est un bel oncle avec des cheveux verts.",
+      "question": "C'est un ______ oncle avec des cheveux verts.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "bel",
+        "beau",
+        "belle",
+        "beaux"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>C'est un bel oncle avec des cheveux verts</em>' - He's a handsome uncle with green hair. 'Bel' is the masculine singular form of 'beau' (beautiful/handsome) used before masculine nouns starting with a vowel or silent h, like 'oncle'.",
+      "difficulty": "A2",
+      "source": "Strategic targeting: bel + oncle + vert",
+      "tags": [
+        "family",
+        "appearance",
+        "description"
+      ],
+      "timeCreated": 1736623080
+    },
+    {
+      "id": 353,
+      "audioText": "Cette question bête me rend vraiment confus et malheureux.",
+      "question": "Cette question ______ me rend vraiment confus et malheureux.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "bête",
+        "bêtes",
+        "belle",
+        "bon"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette question bête me rend vraiment confus et malheureux</em>' - This silly question makes me really confused and unhappy. 'Bête' is the adjective meaning 'silly/stupid', agreeing with the feminine noun 'question'.",
+      "difficulty": "A2",
+      "source": "Strategic targeting: bête + confus + malheureux",
+      "tags": [
+        "emotions",
+        "confusion",
+        "education"
+      ],
+      "timeCreated": 1736623440
+    },
+    {
+      "id": 354,
+      "audioText": "Ma voiture jaune roule différemment sur cette route de campagne.",
+      "question": "Ma voiture ______ roule différemment sur cette route de campagne.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "jaune",
+        "jaunes",
+        "rouge",
+        "bleue"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma voiture jaune roule différemment sur cette route de campagne</em>' - My yellow car drives differently on this country road. 'Jaune' is a color adjective meaning 'yellow', agreeing with the feminine noun 'voiture' (car).",
+      "difficulty": "A2",
+      "source": "Strategic targeting: jaune + différemment + campagne",
+      "tags": [
+        "transportation",
+        "travel",
+        "countryside"
+      ],
+      "timeCreated": 1736623620
+    },
+    {
+      "id": 355,
+      "audioText": "J'ai très faim maintenant.",
+      "question": "J'ai très ______ maintenant.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "faim",
+        "fain",
+        "soif",
+        "envie"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>J'ai très faim maintenant</em>' - I am very hungry now. 'Faim' (hunger) is the correct noun used in the expression 'avoir faim' (to be hungry). This is a fundamental expression in French.",
+      "difficulty": "A1",
+      "source": "Strategic targeting: faim + très + maintenant",
+      "tags": [
+        "hunger",
+        "basic-needs",
+        "expressions"
+      ],
+      "timeCreated": 1736625120
+    },
+    {
+      "id": 356,
+      "audioText": "Le fermier récolte le champ entier.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Le fermier récolte le champ entier",
+        "Le fermier récolte le champ entière",
+        "Le fermier récolte le champs entier",
+        "Le fermier récolte le champ entier"
+      ],
+      "correct": 0,
+      "explanation": "The correct phrase is '<em>Le fermier récolte le champ entier</em>' - The farmer harvests the entire field. Note that 'champ' (field) is masculine singular, so 'entier' agrees correctly. The other options contain errors: 'entière' (feminine form), 'champs' (plural), or duplicated correct answer.",
+      "difficulty": "A2",
+      "source": "Listening version of Q168",
+      "tags": [
+        "agriculture",
+        "farming",
+        "harvesting"
+      ],
+      "parentQuestion": 168,
+      "timeCreated": 1736625840
+    },
+    {
+      "id": 357,
+      "audioText": "Ce garçon comprend tout pendant la journée d'école.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Ce garçon comprend tout pendant la journée d'école",
+        "Ce garçon comprend tout pendant la journée d'écoles",
+        "Ce garçons comprend tout pendant la journée d'école",
+        "Ce garçon comprends tout pendant la journée d'école"
+      ],
+      "correct": 0,
+      "explanation": "The correct phrase is '<em>Ce garçon comprend tout pendant la journée d'école</em>' - This boy understands everything during the school day. Note: 'garçon' (singular), 'comprend' (third person singular), and 'école' (singular after d').",
+      "difficulty": "A2",
+      "source": "Listening version of Q306",
+      "tags": [
+        "education",
+        "children",
+        "understanding"
+      ],
+      "parentQuestion": 306,
+      "timeCreated": 1736626500
+    },
+    {
+      "id": 358,
+      "audioText": "Elle montre du doigt cette chose étrange par curiosité.",
+      "question": "Why does she point at that strange thing?",
+      "questionType": "comprehension",
+      "options": [
+        "Out of curiosity",
+        "Because of anger",
+        "Due to fear",
+        "From sadness"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'Out of curiosity'. The text states '<em>Elle montre du doigt cette chose étrange par curiosité</em>' - She points at this strange thing out of curiosity. 'Doigt' means 'finger', 'montrer du doigt' means 'to point at', and 'curiosité' means 'curiosity'.",
+      "difficulty": "A2",
+      "source": "Strategic vocabulary development - curiosity context",
+      "tags": [
+        "curiosity",
+        "emotions",
+        "discovery"
+      ],
+      "timeCreated": 1720818420
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-09T22:17:51.511Z",
-    "totalQuestions": 318,
+    "compiledAt": "2025-07-12T10:31:26.013Z",
+    "totalQuestions": 341,
     "level": "A",
-    "idRange": "1-364",
+    "idRange": "1-457",
     "difficulties": [
       "A1",
       "A2"
