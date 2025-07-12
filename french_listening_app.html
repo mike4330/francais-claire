@@ -1812,7 +1812,7 @@
             questionNumberEl.querySelector('span:first-child').textContent = `Question #${question.id}`;
             document.getElementById('questionId').textContent = `ID: #${question.id}`;
             // Set question type icon in the left box
-            const typeIcon = question.questionType === 'listening' ? '👂' : question.questionType === 'fill-in-the-blank' ? '✏️' : '📖';
+            const typeIcon = question.questionType === 'listening' ? '👂' : question.questionType === 'fill-in-the-blank' ? '✏️' : question.questionType === 'writing' ? '✍️' : '📖';
             // Find the first tag with an icon in the map
             let tagIcon = '';
             if (question.tags && Array.isArray(question.tags)) {
@@ -1828,24 +1828,48 @@
             // Set question text without icon
             questionTextEl.textContent = question.question;
             
-            // Randomize answer choices
-            const shuffledOptions = shuffleOptionsWithCorrectAnswer(question.options, question.correct);
-            
-            // Clear and populate options
-            optionsContainer.innerHTML = '';
-            shuffledOptions.options.forEach((option, index) => {
-                const optionEl = document.createElement('div');
-                optionEl.className = 'option';
-                optionEl.innerHTML = `
-                    <span class="option-letter">${String.fromCharCode(65 + index)}</span>
-                    ${option}
+            // Handle different question types
+            if (question.questionType === 'writing') {
+                // For writing questions, show an input field
+                optionsContainer.innerHTML = `
+                    <div class="writing-input-container">
+                        <input type="text" id="writingAnswer" class="writing-input" placeholder="Type your answer here..." autocomplete="off" spellcheck="false">
+                        <div class="writing-hint">Type the missing word to complete the sentence</div>
+                    </div>
                 `;
-                optionEl.addEventListener('click', () => selectOption(index));
-                optionsContainer.appendChild(optionEl);
-            });
-            
-            // Store the new correct answer index after shuffling
-            question._shuffledCorrect = shuffledOptions.correctIndex;
+                
+                // Add event listeners for the writing input
+                const writingInput = document.getElementById('writingAnswer');
+                writingInput.addEventListener('input', function() {
+                    const hasAnswer = this.value.trim().length > 0;
+                    submitBtn.disabled = !hasAnswer;
+                    
+                    // Clear any previous selection
+                    selectedOption = -1;
+                });
+                
+                // Focus on the input
+                setTimeout(() => writingInput.focus(), 100);
+            } else {
+                // For multiple choice questions, show options
+                const shuffledOptions = shuffleOptionsWithCorrectAnswer(question.options, question.correct);
+                
+                // Clear and populate options
+                optionsContainer.innerHTML = '';
+                shuffledOptions.options.forEach((option, index) => {
+                    const optionEl = document.createElement('div');
+                    optionEl.className = 'option';
+                    optionEl.innerHTML = `
+                        <span class="option-letter">${String.fromCharCode(65 + index)}</span>
+                        ${option}
+                    `;
+                    optionEl.addEventListener('click', () => selectOption(index));
+                    optionsContainer.appendChild(optionEl);
+                });
+                
+                // Store the new correct answer index after shuffling
+                question._shuffledCorrect = shuffledOptions.correctIndex;
+            }
             
             // Reset buttons
             submitBtn.disabled = true;
@@ -1903,20 +1927,44 @@
 
         function submitAnswer() {
             debugLog(3, '🚀 SUBMIT ANSWER CALLED');
-            if (selectedAnswer === null || answered) return;
             
-            answered = true;
             const question = currentQuestionData;
             if (!question) {
                 console.error('No current question data available for answer submission');
                 return;
             }
-            const correctIndex = question._shuffledCorrect !== undefined ? question._shuffledCorrect : question.correct;
-            const isCorrect = selectedAnswer === correctIndex;
+            
+            let isCorrect = false;
+            let userAnswer = null;
+            
+            if (question.questionType === 'writing') {
+                // Handle writing questions
+                const writingInput = document.getElementById('writingAnswer');
+                if (!writingInput || answered) return;
+                
+                userAnswer = writingInput.value.trim();
+                if (!userAnswer) return;
+                
+                // Check if answer matches any of the accepted answers
+                const acceptedAnswers = question.acceptedAnswers || [question.correctAnswer];
+                isCorrect = acceptedAnswers.some(accepted => 
+                    accepted.toLowerCase() === userAnswer.toLowerCase()
+                );
+                
+                answered = true;
+            } else {
+                // Handle multiple choice questions
+                if (selectedAnswer === null || answered) return;
+                
+                answered = true;
+                const correctIndex = question._shuffledCorrect !== undefined ? question._shuffledCorrect : question.correct;
+                isCorrect = selectedAnswer === correctIndex;
+                userAnswer = selectedAnswer;
+            }
             
             userAnswers.push({
                 questionId: question.id,
-                selected: selectedAnswer,
+                selected: userAnswer,
                 correct: isCorrect
             });
             
@@ -1927,14 +1975,25 @@
             // Show feedback
             showFeedback(question, isCorrect);
             
-            // Update option styling
-            document.querySelectorAll('.option').forEach((el, i) => {
-                if (i === correctIndex) {
-                    el.classList.add('correct');
-                } else if (i === selectedAnswer && !isCorrect) {
-                    el.classList.add('incorrect');
+            // Update visual feedback
+            if (question.questionType === 'writing') {
+                // Handle writing question feedback
+                const writingInput = document.getElementById('writingAnswer');
+                if (writingInput) {
+                    writingInput.classList.add(isCorrect ? 'correct' : 'incorrect');
+                    writingInput.disabled = true;
                 }
-            });
+            } else {
+                // Handle multiple choice question feedback
+                const correctIndex = question._shuffledCorrect !== undefined ? question._shuffledCorrect : question.correct;
+                document.querySelectorAll('.option').forEach((el, i) => {
+                    if (i === correctIndex) {
+                        el.classList.add('correct');
+                    } else if (i === selectedAnswer && !isCorrect) {
+                        el.classList.add('incorrect');
+                    }
+                });
+            }
             
             // Update buttons
             submitBtn.disabled = true;

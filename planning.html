@@ -809,7 +809,7 @@
                 row.innerHTML = `
                     <td><a href="french_listening_app.html?start=${question.id}" class="question-link" title="Start quiz with this question"><strong>#${question.id} 🚀</strong></a></td>
                     <td><span class="difficulty-badge" style="background-color: ${difficultyColor}">${question.difficulty}</span></td>
-                    <td><span class="type-badge">${question.questionType === 'listening' ? '👂' : question.questionType === 'fill-in-the-blank' ? '✏️' : question.questionType === 'FIB-reading' ? '📋' : '📚'}${question.audioTemplate ? ' <span class="template-badge">T</span>' : ''}</span></td>
+                    <td><span class="type-badge">${question.questionType === 'listening' ? '👂' : question.questionType === 'fill-in-the-blank' ? '✏️' : question.questionType === 'FIB-reading' ? '📋' : question.questionType === 'writing' ? '✍️' : '📚'}${question.audioTemplate ? ' <span class="template-badge">T</span>' : ''}</span></td>
                     <td class="audio-text" title="${audioText}">${audioText}</td>
                     <td style="text-align: center; font-weight: 500; color: #667eea;">${wordCount}</td>
                     <td style="text-align: center; color: #666; font-style: ${parentDisplay === 'N/A' ? 'italic' : 'normal'};">${parentDisplay}</td>
