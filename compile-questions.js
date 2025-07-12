@@ -134,13 +134,23 @@ class QuestionCompiler {
             }
         }
 
-        // Validate options array
-        if (!Array.isArray(question.options) || question.options.length !== 4) {
+        // Validate options array (allow empty for writing questions)
+        if (!Array.isArray(question.options)) {
+            return false;
+        }
+        if (question.questionType === 'writing' && question.options.length === 0) {
+            // Writing questions can have empty options array
+        } else if (question.options.length !== 4) {
             return false;
         }
 
-        // Validate correct index
-        if (typeof question.correct !== 'number' || question.correct < 0 || question.correct > 3) {
+        // Validate correct index (allow 0 for writing questions)
+        if (typeof question.correct !== 'number' || question.correct < 0) {
+            return false;
+        }
+        if (question.questionType === 'writing') {
+            // Writing questions use correct: 0 as placeholder
+        } else if (question.correct > 3) {
             return false;
         }
 
