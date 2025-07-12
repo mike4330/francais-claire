@@ -1,0 +1,18 @@
+{
+    "id": 1547,
+    "audioText": "Dans ce restaurant franco, ils utilisent essentiellement la coriandre et l'origan pour donner du goût aux plats méditerranéens.",
+    "question": "What do they essentially use in this French restaurant to flavor Mediterranean dishes?",
+    "questionType": "comprehension",
+    "options": [
+        "Coriander and oregano",
+        "Olive oil and fresh garlic for authentic taste",
+        "Traditional French herbs from regional gardens",
+        "Sea salt and black pepper for simple seasoning"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans ce restaurant franco, ils utilisent essentiellement la coriandre et l'origan pour donner du goût aux plats méditerranéens.</em>' - In this French restaurant, they essentially use coriander and oregano to flavor Mediterranean dishes. 'Coriandre' means coriander, 'origan' means oregano, 'franco' means French-style, and 'essentiellement' means essentially.",
+    "difficulty": "B2",
+    "source": "Strategic spice vocabulary development - Mediterranean cuisine",
+    "tags": ["cooking", "restaurant", "spices"],
+    "timeCreated": 1720827600
+}

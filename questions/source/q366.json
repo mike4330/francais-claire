@@ -1,0 +1,18 @@
+{
+    "id": 366,
+    "audioText": "La soupe mangée était trop pâle à cause du manque de médicaments colorants.",
+    "question": "Why was the consumed soup too pale?",
+    "questionType": "comprehension",
+    "options": [
+        "Because of the lack of coloring medications",
+        "Because it was prepared without proper seasoning",
+        "Because the vegetables were not fresh enough",
+        "Because the cooking time was insufficient"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Because of the lack of coloring medications'. The text states '<em>La soupe mangée était trop pâle à cause du manque de médicaments colorants</em>' - The consumed soup was too pale because of the lack of coloring medications. 'Mangée' is the feminine past participle of 'manger' (to eat), and 'pâle' means 'pale'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - food medication",
+    "tags": ["medication", "food", "health"],
+    "timeCreated": 1720824060
+}

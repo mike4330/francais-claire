@@ -1,0 +1,18 @@
+{
+    "id": 1512,
+    "audioText": "Je changerais cette approche ferme si la logique mathématique ne fonctionnait pas correctement dans ce contexte.",
+    "question": "When would the speaker change this firm approach?",
+    "questionType": "comprehension",
+    "options": [
+        "If mathematical logic didn't work correctly in this context",
+        "If the students showed resistance to learning",
+        "If the administration demanded different methods",
+        "If the results didn't meet expected standards"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'If mathematical logic didn't work correctly in this context'. The text states '<em>Je changerais cette approche ferme si la logique mathématique ne fonctionnait pas correctement dans ce contexte</em>' - I would change this firm approach if mathematical logic didn't work correctly in this context. 'Changerais' is the first-person singular conditional of 'changer' (to change), and 'ferme' means 'firm'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - logical methodology",
+    "tags": ["logic", "mathematics", "methodology"],
+    "timeCreated": 1720824300
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1535,
+    "audioText": "Il est tombé sur le cul quand elle a tenu des propos déplacés sur son honneur.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Il est tombé sur le cul quand elle a tenu des propos déplacés sur son honneur",
+        "Il est tombé sur le cul quand elle a tenu des propos déplacés sur sa famille",
+        "Il est tombé dans les pommes quand elle a tenu des propos déplacés sur son honneur",
+        "Il a été choqué quand elle a tenu des propos déplacés sur son honneur"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Il est tombé sur le cul quand elle a tenu des propos déplacés sur son honneur'. The complete text is '<em>Il est tombé sur le cul quand elle a tenu des propos déplacés sur son honneur.</em>' - He was completely stunned when she made inappropriate remarks about his honor. The expression 'tomber sur le cul' is vulgar slang meaning to be shocked or stunned.",
+    "difficulty": "B2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["shock", "inappropriate-behavior", "vulgar-expressions"],
+    "parentQuestion": 1217,
+    "timeCreated": 1720826520
+}

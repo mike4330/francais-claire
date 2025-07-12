@@ -1,0 +1,18 @@
+{
+    "id": 1519,
+    "audioText": "Cette patiente dormira avec son épaule pure contre le mur pour analyser ses expressions faciales pendant le sommeil paradoxal.",
+    "question": "How will this patient sleep to analyze her facial expressions during REM sleep?",
+    "questionType": "comprehension",
+    "options": [
+        "With her pure shoulder against the wall",
+        "Using specialized monitoring equipment attached to her head",
+        "In a controlled environment with constant temperature regulation",
+        "Following strict positioning protocols recommended by sleep specialists"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'With her pure shoulder against the wall'. The text states '<em>Cette patiente dormira avec son épaule pure contre le mur pour analyser ses expressions faciales pendant le sommeil paradoxal</em>' - This patient will sleep with her pure shoulder against the wall to analyze her facial expressions during REM sleep. 'Dormira' is the third-person singular future of 'dormir' (to sleep), 'épaule' means 'shoulder', and 'pure' means 'pure'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - sleep study analysis",
+    "tags": ["facial-expressions", "sleep", "research"],
+    "timeCreated": 1720825200
+}

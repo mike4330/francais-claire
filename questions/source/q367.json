@@ -1,0 +1,18 @@
+{
+    "id": 367,
+    "audioText": "Il perdrait sûrement ce procès à cause de la double accusation portée par le juge.",
+    "question": "Why would he surely lose this trial?",
+    "questionType": "comprehension",
+    "options": [
+        "Because of the double accusation brought by the judge",
+        "Because his lawyer lacks sufficient legal experience",
+        "Because the evidence against him is overwhelming",
+        "Because the jury is biased against his case"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Because of the double accusation brought by the judge'. The text states '<em>Il perdrait sûrement ce procès à cause de la double accusation portée par le juge</em>' - He would surely lose this trial because of the double accusation brought by the judge. 'Perdrait' is the third-person singular conditional of 'perdre' (to lose), and 'double' means 'double'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - legal judgment",
+    "tags": ["judgment", "legal", "justice"],
+    "timeCreated": 1720824120
+}

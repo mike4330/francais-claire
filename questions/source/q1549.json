@@ -1,0 +1,18 @@
+{
+    "id": 1549,
+    "audioText": "La pâtissière utilisera mutuellement le clou de girofle et la cannelle pour parfumer ses créations gastronomiques de Noël.",
+    "question": "What will the pastry chef use together to flavor her Christmas gourmet creations?",
+    "questionType": "comprehension",
+    "options": [
+        "Cloves and cinnamon",
+        "Vanilla extract and orange zest for traditional holiday flavors",
+        "Dark chocolate and roasted almonds for rich dessert textures",
+        "Honey and butter for classic French pastry techniques"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La pâtissière utilisera mutuellement le clou de girofle et la cannelle pour parfumer ses créations gastronomiques de Noël.</em>' - The pastry chef will use cloves and cinnamon together to flavor her Christmas gourmet creations. 'Clou de girofle' means cloves, 'cannelle' means cinnamon, and 'mutuellement' means mutually/together.",
+    "difficulty": "B2",
+    "source": "Strategic aromatic spice vocabulary development - holiday baking",
+    "tags": ["baking", "spices", "holidays"],
+    "timeCreated": 1720827780
+}

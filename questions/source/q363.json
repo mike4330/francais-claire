@@ -1,0 +1,18 @@
+{
+    "id": 363,
+    "audioText": "Les documents demandés révèlent la troisième tentative de révolution dans cette région.",
+    "question": "What do the requested documents reveal about this region?",
+    "questionType": "comprehension",
+    "options": [
+        "The third revolution attempt",
+        "The first successful democratic election in decades",
+        "The second major economic reform initiative",
+        "The fourth peace negotiation between opposing groups"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'The third revolution attempt'. The text states '<em>Les documents demandés révèlent la troisième tentative de révolution dans cette région</em>' - The requested documents reveal the third revolution attempt in this region. 'Demandés' is the masculine plural past participle of 'demander' (to request), and 'troisième' means 'third'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - historical revolution documents",
+    "tags": ["revolution", "history", "politics"],
+    "timeCreated": 1720823880
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1565,
+    "audioText": "Le chef envoyait chaque jour un repas parfait aux clients exigeants du restaurant gastronomique renommé.",
+    "question": "What did the chef send daily to demanding clients of the renowned gourmet restaurant?",
+    "questionType": "comprehension",
+    "options": [
+        "A perfect meal",
+        "Personalized wine recommendations from sommelier experts",
+        "Detailed nutritional information for dietary requirements",
+        "Complimentary appetizers featuring seasonal ingredients"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le chef envoyait chaque jour un repas parfait aux clients exigeants du restaurant gastronomique renommé.</em>' - The chef sent a perfect meal daily to demanding clients of the renowned gourmet restaurant. 'Parfait' means perfect, 'envoyait' is a form of 'envoyer' (to send), and 'exigeants' means demanding.",
+    "difficulty": "B2",
+    "source": "Strategic adjective coverage development - culinary perfection",
+    "tags": ["cooking", "restaurant", "professional"],
+    "timeCreated": 1720829400
+}

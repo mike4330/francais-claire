@@ -1,0 +1,18 @@
+{
+    "id": 378,
+    "audioText": "J'enverrai simultanément l'équipe de secours vers cette zone dangereuse.",
+    "question": "How will I send the rescue team to this dangerous zone?",
+    "questionType": "comprehension",
+    "options": [
+        "Simultaneously",
+        "Following established emergency response protocols carefully",
+        "After receiving final approval from emergency coordination center",
+        "Using specialized transportation designed for hazardous conditions"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Simultaneously'. The text states '<em>J'enverrai simultanément l'équipe de secours vers cette zone dangereuse</em>' - I will send the rescue team simultaneously to this dangerous zone. 'Enverrai' is the first-person singular future of 'envoyer' (to send), and 'simultanément' means 'simultaneously'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - emergency response coordination",
+    "tags": ["rescue", "emergency", "coordination"],
+    "timeCreated": 1720825860
+}

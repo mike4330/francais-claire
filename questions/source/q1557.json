@@ -1,0 +1,18 @@
+{
+    "id": 1557,
+    "audioText": "L'étudiant montres courageusement sa honte après avoir échoué publiquement à l'examen d'anglais important.",
+    "question": "What does the student courageously show after failing publicly?",
+    "questionType": "comprehension",
+    "options": [
+        "His shame",
+        "Determination to improve academic performance next semester",
+        "Gratitude toward teachers for their support and guidance",
+        "Confidence in his ability to succeed in future challenges"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'étudiant montres courageusement sa honte après avoir échoué publiquement à l'examen d'anglais important.</em>' - The student courageously shows his shame after having failed publicly at the important English exam. 'Honte' means shame, 'montres' is a form of 'montrer' (to show), and 'courageusement' means courageously.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - academic emotions and failure",
+    "tags": ["education", "emotions", "examination"],
+    "timeCreated": 1720828560
+}

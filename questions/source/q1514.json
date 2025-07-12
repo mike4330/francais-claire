@@ -1,0 +1,18 @@
+{
+    "id": 1514,
+    "audioText": "Cette sensation de faim occupera hyper rapidement votre attention dans cette étude de psychologie sociale expérimentale.",
+    "question": "What will occupy your attention very quickly in this experimental social psychology study?",
+    "questionType": "comprehension",
+    "options": [
+        "This sensation of hunger",
+        "The complex interactions between research participants",
+        "The advanced monitoring equipment measuring responses",
+        "The detailed questionnaires about personal experiences"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This sensation of hunger'. The text states '<em>Cette sensation de faim occupera hyper rapidement votre attention dans cette étude de psychologie sociale expérimentale</em>' - This sensation of hunger will occupy your attention very quickly in this experimental social psychology study. 'Occupera' is the third-person singular future of 'occuper' (to occupy), 'faim' means 'hunger', and 'hyper' means 'very'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - experimental psychology",
+    "tags": ["social-psychology", "research", "attention"],
+    "timeCreated": 1720824720
+}

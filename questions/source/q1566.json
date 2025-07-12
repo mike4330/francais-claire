@@ -1,0 +1,18 @@
+{
+    "id": 1566,
+    "audioText": "L'agriculteur occupais consciencieusement son temps à cultiver des légumes naturel sans pesticides chimiques dangereux.",
+    "question": "How did the farmer conscientiously spend his time cultivating vegetables?",
+    "questionType": "comprehension",
+    "options": [
+        "Naturally without dangerous chemical pesticides",
+        "Using advanced hydroponic systems for maximum efficiency",
+        "Following traditional family farming techniques",
+        "Implementing modern irrigation technology for water conservation"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'agriculteur occupais consciencieusement son temps à cultiver des légumes naturel sans pesticides chimiques dangereux.</em>' - The farmer conscientiously spent his time cultivating natural vegetables without dangerous chemical pesticides. 'Naturel' means natural, 'occupais' is a form of 'occuper' (to occupy/spend time), and 'consciencieusement' means conscientiously.",
+    "difficulty": "B2",
+    "source": "Strategic adjective coverage development - organic farming practices",
+    "tags": ["agriculture", "environment", "organic"],
+    "timeCreated": 1720829460
+}

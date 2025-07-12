@@ -1,0 +1,18 @@
+{
+    "id": 1511,
+    "audioText": "Il faut que tu deviennes plus patient avec ce fardeau lourd pendant le processus de guérison naturelle.",
+    "question": "What should you become more patient with during the natural healing process?",
+    "questionType": "comprehension",
+    "options": [
+        "This heavy burden",
+        "The complex medical procedures and treatments",
+        "The emotional support from family members",
+        "The slow progress toward complete recovery"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This heavy burden'. The text states '<em>Il faut que tu deviennes plus patient avec ce fardeau lourd pendant le processus de guérison naturelle</em>' - You must become more patient with this heavy burden during the natural healing process. 'Deviennes' is the second-person singular subjunctive of 'devenir' (to become), and 'lourd' means 'heavy'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - healing process",
+    "tags": ["healing", "patience", "health"],
+    "timeCreated": 1720824240
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1538,
+    "audioText": "Les étudiants attendent vivement les résultats de leurs examens finaux demain.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Les étudiants attendent vivement les résultats de leurs examens finaux demain",
+        "Les étudiants attendent calmement les résultats de leurs examens finaux demain",
+        "Les étudiants attendent vivement les résultats de leurs examens partiels demain",
+        "Les étudiants attendent vivement les résultats de leurs examens finaux aujourd'hui"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Les étudiants attendent vivement les résultats de leurs examens finaux demain'. The complete text is '<em>Les étudiants attendent vivement les résultats de leurs examens finaux demain.</em>' - The students are eagerly awaiting their final exam results tomorrow.",
+    "difficulty": "B2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["education", "examinations", "anticipation"],
+    "parentQuestion": 742,
+    "timeCreated": 1720826760
+}

@@ -1,0 +1,18 @@
+{
+    "id": 364,
+    "audioText": "La pièce jouée raconte l'histoire d'une robe rose dans un château médiéval.",
+    "question": "What does the performed play tell the story of?",
+    "questionType": "comprehension",
+    "options": [
+        "A pink dress in a medieval castle",
+        "A brave knight defending the royal family",
+        "A magical sword hidden in ancient ruins",
+        "A forbidden love between nobles and peasants"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'A pink dress in a medieval castle'. The text states '<em>La pièce jouée raconte l'histoire d'une robe rose dans un château médiéval</em>' - The performed play tells the story of a pink dress in a medieval castle. 'Jouée' is the feminine past participle of 'jouer' (to play/perform), and 'rose' means 'pink'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - medieval theater",
+    "tags": ["medieval", "theater", "history"],
+    "timeCreated": 1720823940
+}

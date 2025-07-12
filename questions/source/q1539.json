@@ -1,0 +1,19 @@
+{
+    "id": 1539,
+    "audioText": "Si j'étais avocat, je deviendrais spécialiste du système judiciaire pour sortir les innocents de prison.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Si j'étais avocat, je deviendrais spécialiste du système judiciaire pour sortir les innocents de prison",
+        "Si j'étais juge, je deviendrais spécialiste du système judiciaire pour sortir les innocents de prison",
+        "Si j'étais avocat, je deviendrais spécialiste du système judiciaire pour envoyer les coupables en prison",
+        "Si j'étais avocat, je deviendrais spécialiste du système politique pour sortir les innocents de prison"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Si j'étais avocat, je deviendrais spécialiste du système judiciaire pour sortir les innocents de prison'. The complete text is '<em>Si j'étais avocat, je deviendrais spécialiste du système judiciaire pour sortir les innocents de prison.</em>' - If I were a lawyer, I would become a specialist in the judicial system to get innocent people out of prison.",
+    "difficulty": "B2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["judiciary", "justice", "legal"],
+    "parentQuestion": 1427,
+    "timeCreated": 1720826820
+}

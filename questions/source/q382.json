@@ -1,0 +1,18 @@
+{
+    "id": 382,
+    "audioText": "Mes cousins montrez le beurre frais dans le frigo.",
+    "question": "What do my cousins show in the fridge?",
+    "questionType": "comprehension",
+    "options": [
+        "Fresh butter",
+        "Old cheese and milk",
+        "Various fresh vegetables",
+        "Cold water bottles"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mes cousins montrez le beurre frais dans le frigo.</em>' - My cousins show the fresh butter in the fridge. 'Beurre' means butter, 'frais' means fresh, and 'montrez' is a form of 'montrer' (to show).",
+    "difficulty": "A2",
+    "source": "Strategic food vocabulary development - basic dairy products",
+    "tags": ["food", "family", "kitchen"],
+    "timeCreated": 1720827060
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1510,
+    "audioText": "Nous tiendrons cette porte ouverte malgré les tempêtes violentes qui approchent rapidement de notre région.",
+    "question": "What will we keep open despite the approaching violent storms?",
+    "questionType": "comprehension",
+    "options": [
+        "This door",
+        "The emergency shelter for displaced families",
+        "The communication channels with rescue teams",
+        "The main evacuation route for local residents"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This door'. The text states '<em>Nous tiendrons cette porte ouverte malgré les tempêtes violentes qui approchent rapidement de notre région</em>' - We will keep this door open despite the violent storms that are rapidly approaching our region. 'Tiendrons' is the first-person plural future of 'tenir' (to hold/keep), and 'ouverte' means 'open'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - storm preparedness",
+    "tags": ["storms", "weather", "safety"],
+    "timeCreated": 1720824180
+}

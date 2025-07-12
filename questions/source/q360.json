@@ -1,0 +1,18 @@
+{
+    "id": 360,
+    "audioText": "Les étudiants deviendront plus attentifs après ce passage difficile de l'examen final en classe.",
+    "question": "What will the students become after this difficult passage of the final exam?",
+    "questionType": "comprehension",
+    "options": [
+        "More attentive",
+        "More confident in their academic abilities",
+        "More prepared for future challenges",
+        "More focused on their career goals"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'More attentive'. The text states '<em>Les étudiants deviendront plus attentifs après ce passage difficile de l'examen final en classe</em>' - The students will become more attentive after this difficult passage of the final exam in class. 'Deviendront' is the third-person plural future tense of 'devenir' (to become), and 'passage' means 'passage'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - classroom challenges",
+    "tags": ["classroom", "education", "examinations"],
+    "timeCreated": 1720823580
+}

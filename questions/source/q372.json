@@ -1,0 +1,18 @@
+{
+    "id": 372,
+    "audioText": "Les chats dorment avec cette odeur agréable selon nos recommandations professionnelles.",
+    "question": "How do the cats sleep according to our professional recommendations?",
+    "questionType": "comprehension",
+    "options": [
+        "With this pleasant smell",
+        "In specially designed comfortable sleeping areas",
+        "Using natural materials that promote relaxation",
+        "Following strict schedules for optimal health"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'With this pleasant smell'. The text states '<em>Les chats dorment avec cette odeur agréable selon nos recommandations professionnelles</em>' - The cats sleep with this pleasant smell according to our professional recommendations. 'Dorment' is the third-person plural present of 'dormir' (to sleep), 'odeur' means 'smell', and 'agréable' means 'pleasant'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - pet care recommendations",
+    "tags": ["recommendation", "pets", "care"],
+    "timeCreated": 1720824660
+}

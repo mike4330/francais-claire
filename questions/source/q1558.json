@@ -1,0 +1,18 @@
+{
+    "id": 1558,
+    "audioText": "La photographe enverra rapidement la photo artistique pour le concours international de photographie moderne.",
+    "question": "What will the photographer send quickly for the international modern photography competition?",
+    "questionType": "comprehension",
+    "options": [
+        "The artistic photograph",
+        "Professional equipment specifications and technical details",
+        "Portfolio documentation with complete artist biography",
+        "Application forms with entry fees and submission guidelines"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La photographe enverra rapidement la photo artistique pour le concours international de photographie moderne.</em>' - The photographer will send the artistic photograph quickly for the international modern photography competition. 'Photo' means photograph, 'enverra' is a form of 'envoyer' (to send), and 'artistique' means artistic.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - photography and artistic competition",
+    "tags": ["arts", "competition", "photography"],
+    "timeCreated": 1720828620
+}

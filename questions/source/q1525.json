@@ -1,0 +1,18 @@
+{
+    "id": 1525,
+    "audioText": "Ils ont gardé ce camp de réfugiés malgré la tragédie survenue lors de l'évacuation d'urgence.",
+    "question": "What did they keep despite the tragedy that occurred during the emergency evacuation?",
+    "questionType": "comprehension",
+    "options": [
+        "This refugee camp",
+        "The original evacuation plan unchanged from before",
+        "All personal belongings and valuable documents safely",
+        "The medical supplies designated for emergency treatment"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This refugee camp'. The text states '<em>Ils ont gardé ce camp de réfugiés malgré la tragédie survenue lors de l'évacuation d'urgence</em>' - They kept this refugee camp despite the tragedy that occurred during the emergency evacuation. 'Gardé' is the past participle of 'garder' (to keep), 'camp' means 'camp', and 'tragédie' means 'tragedy'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - humanitarian crisis management",
+    "tags": ["tragedy", "rescue", "humanitarian"],
+    "timeCreated": 1720825620
+}

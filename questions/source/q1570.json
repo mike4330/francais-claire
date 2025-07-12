@@ -1,0 +1,18 @@
+{
+    "id": 1570,
+    "audioText": "L'étudiant apprenait consciencieusement ses leçons pour être prêt pour l'examen important du lendemain matin.",
+    "question": "When was the important exam that the student was preparing for by studying his lessons conscientiously?",
+    "questionType": "comprehension",
+    "options": [
+        "The next day morning",
+        "Later that same afternoon session",
+        "The following week with other subjects",
+        "Next month during final examination period"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'étudiant apprenait consciencieusement ses leçons pour être prêt pour l'examen important du lendemain matin.</em>' - The student was learning his lessons conscientiously to be ready for the important exam the next day morning. 'Lendemain' means the next day, 'apprenait' is a form of 'apprendre' (to learn), and 'consciencieusement' means conscientiously.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - academic preparation and timing",
+    "tags": ["education", "examination", "preparation"],
+    "timeCreated": 1720829880
+}

@@ -1,0 +1,19 @@
+{
+    "id": 379,
+    "audioText": "Paul fait de l'exercice tous les matins avant le travail.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Paul fait de l'exercice tous les matins avant le travail",
+        "Paul fait de l'exercice tous les soirs avant le travail",
+        "Paul fait de l'exercice tous les matins après le travail",
+        "Pierre fait de l'exercice tous les matins avant le travail"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Paul fait de l'exercice tous les matins avant le travail'. The complete text is '<em>Paul fait de l'exercice tous les matins avant le travail.</em>' - Paul exercises every morning before work.",
+    "difficulty": "A2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["exercise", "daily-life", "schedule"],
+    "parentQuestion": 229,
+    "timeCreated": 1720826460
+}

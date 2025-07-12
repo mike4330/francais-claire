@@ -1,0 +1,18 @@
+{
+    "id": 385,
+    "audioText": "Les enfants marchez au magasin pour acheter le yaourt aux fruits.",
+    "question": "Why do the children walk to the store?",
+    "questionType": "comprehension",
+    "options": [
+        "To buy fruit yogurt",
+        "To get fresh bread and milk",
+        "To purchase school supplies",
+        "To meet their friends there"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les enfants marchez au magasin pour acheter le yaourt aux fruits.</em>' - The children walk to the store to buy fruit yogurt. 'Yaourt' means yogurt, 'marchez' is a form of 'marcher' (to walk), and 'aux fruits' means with fruits.",
+    "difficulty": "A2",
+    "source": "Strategic food vocabulary development - shopping routine",
+    "tags": ["food", "children", "shopping"],
+    "timeCreated": 1720827420
+}

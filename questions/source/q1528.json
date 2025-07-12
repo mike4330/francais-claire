@@ -1,0 +1,18 @@
+{
+    "id": 1528,
+    "audioText": "Les experts montrent ce camp de base pour améliorer la compréhension des stratégies d'intervention humanitaire.",
+    "question": "What do the experts show to improve understanding of humanitarian intervention strategies?",
+    "questionType": "comprehension",
+    "options": [
+        "This base camp",
+        "The detailed operational procedures and safety protocols",
+        "Advanced mapping technologies for terrain analysis",
+        "Communication systems designed for remote emergency coordination"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This base camp'. The text states '<em>Les experts montrent ce camp de base pour améliorer la compréhension des stratégies d'intervention humanitaire</em>' - The experts show this base camp to improve understanding of humanitarian intervention strategies. 'Montrent' is the third-person plural present of 'montrer' (to show), 'camp' means 'camp', and 'compréhension' means 'understanding'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - humanitarian expertise",
+    "tags": ["comprehension", "humanitarian", "strategy"],
+    "timeCreated": 1720825920
+}

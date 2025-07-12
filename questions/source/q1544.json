@@ -1,0 +1,18 @@
+{
+    "id": 1544,
+    "audioText": "Le chef buvons le vin rouge pendant que le bœuf cuit brièvement dans la poêle chaude.",
+    "question": "What happens while the beef cooks briefly in the hot pan?",
+    "questionType": "comprehension",
+    "options": [
+        "The chef drinks red wine",
+        "The chef adds special seasoning and herbs carefully",
+        "The chef prepares side dishes for the complete meal",
+        "The chef checks the temperature with a cooking thermometer"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le chef buvons le vin rouge pendant que le bœuf cuit brièvement dans la poêle chaude.</em>' - The chef drinks red wine while the beef cooks briefly in the hot pan. 'Bœuf' means beef, 'buvons' is a form of 'boire' (to drink), and 'brièvement' means briefly.",
+    "difficulty": "B2",
+    "source": "Strategic food vocabulary development - professional cooking",
+    "tags": ["food", "cooking", "professional"],
+    "timeCreated": 1720827360
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1567,
+    "audioText": "L'entrepreneur marchons soigneusement pour éviter de laisser le hasard déterminer le succès de son projet innovant.",
+    "question": "What does the entrepreneur walk carefully to avoid letting determine the success of his innovative project?",
+    "questionType": "comprehension",
+    "options": [
+        "Chance",
+        "Market competition and economic uncertainty",
+        "Government regulations and policy changes",
+        "Investor opinions and financial backing decisions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'entrepreneur marchons soigneusement pour éviter de laisser le hasard déterminer le succès de son projet innovant.</em>' - The entrepreneur walks carefully to avoid letting chance determine the success of his innovative project. 'Hasard' means chance/luck, 'marchons' is a form of 'marcher' (to walk), and 'soigneusement' means carefully.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage development - business planning and risk management",
+    "tags": ["business", "entrepreneurship", "planning"],
+    "timeCreated": 1720829700
+}

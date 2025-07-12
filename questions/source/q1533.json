@@ -1,0 +1,19 @@
+{
+    "id": 1533,
+    "audioText": "Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense",
+        "Les films que nous avons regardés hier soir étaient vraiment captivants et pleins d'action",
+        "Les films que nous avons vus hier soir étaient vraiment captivants et pleins de suspense",
+        "Les films que nous avons regardés hier matin étaient vraiment captivants et pleins de suspense"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense'. The complete text is '<em>Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense.</em>' - The films we watched last night were really captivating and full of suspense.",
+    "difficulty": "B1",
+    "source": "Listening variant of comprehension question",
+    "tags": ["movies", "entertainment", "suspense"],
+    "parentQuestion": 690,
+    "timeCreated": 1720826340
+}

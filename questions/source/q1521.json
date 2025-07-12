@@ -1,0 +1,18 @@
+{
+    "id": 1521,
+    "audioText": "Le médiateur avait bu premièrement du thé dans cette église historique avant d'aborder les techniques avancées de résolution de conflits interpersonnels complexes.",
+    "question": "What had the mediator drunk first in this historic church before addressing advanced conflict resolution techniques?",
+    "questionType": "comprehension",
+    "options": [
+        "Tea",
+        "Holy water blessed by the local religious authorities",
+        "Coffee prepared by the volunteer support staff",
+        "Wine provided for the ceremonial reconciliation ritual"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Tea'. The text states '<em>Le médiateur avait bu premièrement du thé dans cette église historique avant d'aborder les techniques avancées de résolution de conflits interpersonnels complexes</em>' - The mediator had drunk tea first in this historic church before addressing advanced interpersonal conflict resolution techniques. 'Bu' is the past participle of 'boire' (to drink), 'premièrement' means 'first', and 'église' means 'church'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - mediation in religious settings",
+    "tags": ["conflict-resolution", "mediation", "religion"],
+    "timeCreated": 1720825320
+}

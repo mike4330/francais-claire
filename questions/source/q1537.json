@@ -1,0 +1,19 @@
+{
+    "id": 1537,
+    "audioText": "Vous perdrez toute honte si vous criez dans les musées comme des enfants mal élevés.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Vous perdrez toute honte si vous criez dans les musées comme des enfants mal élevés",
+        "Vous perdrez toute honte si vous courez dans les musées comme des enfants mal élevés",
+        "Vous perdez toute honte si vous criez dans les musées comme des enfants mal élevés",
+        "Vous perdrez toute confiance si vous criez dans les musées comme des enfants mal élevés"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Vous perdrez toute honte si vous criez dans les musées comme des enfants mal élevés'. The complete text is '<em>Vous perdrez toute honte si vous criez dans les musées comme des enfants mal élevés.</em>' - You will lose all shame if you shout in museums like badly behaved children.",
+    "difficulty": "B2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["museums", "behavior", "culture"],
+    "parentQuestion": 1450,
+    "timeCreated": 1720826700
+}

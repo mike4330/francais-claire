@@ -1,0 +1,18 @@
+{
+    "id": 1543,
+    "audioText": "Les pêcheurs marchera vers la côte pour vendre leur poisson frais légalement aux restaurants locaux.",
+    "question": "Why will the fishermen walk toward the coast?",
+    "questionType": "comprehension",
+    "options": [
+        "To sell their fresh fish legally to local restaurants",
+        "To repair their fishing nets and equipment thoroughly",
+        "To meet with other fishermen for planning next trips",
+        "To check weather conditions for tomorrow's fishing expedition"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les pêcheurs marchera vers la côte pour vendre leur poisson frais légalement aux restaurants locaux.</em>' - The fishermen will walk toward the coast to sell their fresh fish legally to local restaurants. 'Poisson' means fish, 'marchera' is the future form of 'marcher' (to walk), and 'légalement' means legally.",
+    "difficulty": "B1",
+    "source": "Strategic food vocabulary development - fishing industry",
+    "tags": ["food", "business", "fishing"],
+    "timeCreated": 1720827300
+}

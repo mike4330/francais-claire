@@ -1,0 +1,18 @@
+{
+    "id": 1561,
+    "audioText": "Le jardinier buvais tranquillement son thé vert dans le jardin pendant que les oiseaux chantent joyeusement.",
+    "question": "What did the gardener drink peacefully in the garden while birds sang joyfully?",
+    "questionType": "comprehension",
+    "options": [
+        "Green tea",
+        "Fresh orange juice with natural vitamins",
+        "Strong coffee to boost energy levels",
+        "Cold lemonade for summer refreshment"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le jardinier buvais tranquillement son thé vert dans le jardin pendant que les oiseaux chantent joyeusement.</em>' - The gardener drank his green tea peacefully in the garden while birds sang joyfully. 'Vert' means green, 'buvais' is a form of 'boire' (to drink), and 'tranquillement' means peacefully.",
+    "difficulty": "A2",
+    "source": "Strategic adjective coverage development - colors and nature",
+    "tags": ["garden", "nature", "beverages"],
+    "timeCreated": 1720829160
+}

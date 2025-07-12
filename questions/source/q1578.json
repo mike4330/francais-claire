@@ -1,0 +1,18 @@
+{
+    "id": 1578,
+    "audioText": "Nous payons toujours le prix moyen pour des légumes vert frais au marché local chaque samedi matin.",
+    "question": "What do we always pay the average price for at the local market every Saturday morning?",
+    "questionType": "comprehension",
+    "options": [
+        "Fresh green vegetables",
+        "Artisanal bread and traditional pastries",
+        "Local honey and organic dairy products",
+        "Seasonal fruits and imported exotic items"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous payons toujours le prix moyen pour des légumes vert frais au marché local chaque samedi matin.</em>' - We always pay the average price for fresh green vegetables at the local market every Saturday morning. 'Payons' is the present form of 'payer' (to pay), 'toujours' means always, and 'légumes vert' means green vegetables.",
+    "difficulty": "A2",
+    "source": "Strategic conjugate coverage development - local market shopping",
+    "tags": ["shopping", "food", "market"],
+    "timeCreated": 1720830640
+}

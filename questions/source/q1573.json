@@ -1,0 +1,18 @@
+{
+    "id": 1573,
+    "audioText": "La pédiatre boive soigneusement son thé avant d'examiner le bébé malade dans la clinique spécialisée moderne.",
+    "question": "Who will the pediatrician examine in the modern specialized clinic after drinking tea carefully?",
+    "questionType": "comprehension",
+    "options": [
+        "The sick baby",
+        "The worried mother seeking reassurance",
+        "The nursing staff during shift change",
+        "The medical students learning pediatric procedures"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La pédiatre boive soigneusement son thé avant d'examiner le bébé malade dans la clinique spécialisée moderne.</em>' - The pediatrician drinks her tea carefully before examining the sick baby in the modern specialized clinic. 'Bébé' means baby, 'boive' is a form of 'boire' (to drink), and 'soigneusement' means carefully.",
+    "difficulty": "A2",
+    "source": "Strategic noun coverage development - pediatric healthcare",
+    "tags": ["health", "medical", "children"],
+    "timeCreated": 1720830060
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1551,
+    "audioText": "Le professeur marchent vers les étudiants pour expliquer la forme géométrique complexe du nouveau bâtiment.",
+    "question": "What does the professor walk toward the students to explain?",
+    "questionType": "comprehension",
+    "options": [
+        "The complex geometric shape of the new building",
+        "Advanced mathematical formulas for next week's examination",
+        "Historical architecture styles from ancient civilizations",
+        "Engineering principles for sustainable construction methods"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le professeur marchent vers les étudiants pour expliquer la forme géométrique complexe du nouveau bâtiment.</em>' - The professor walks toward the students to explain the complex geometric shape of the new building. 'Forme' means shape/form, 'géométrique' means geometric, and 'marchent' is a form of 'marcher' (to walk).",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - geometric forms in education",
+    "tags": ["education", "architecture", "mathematics"],
+    "timeCreated": 1720828200
+}

@@ -1,0 +1,18 @@
+{
+    "id": 365,
+    "audioText": "Vous demandiez toujours des questions stupides pendant les entretiens d'embauche importants.",
+    "question": "What did you always ask during important job interviews?",
+    "questionType": "comprehension",
+    "options": [
+        "Stupid questions",
+        "Complex technical questions about company systems",
+        "Personal questions about salary and benefits",
+        "Detailed questions about career advancement opportunities"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Stupid questions'. The text states '<em>Vous demandiez toujours des questions stupides pendant les entretiens d'embauche importants</em>' - You always asked stupid questions during important job interviews. 'Demandiez' is the second-person plural imperfect of 'demander' (to ask), and 'stupide' means 'stupid'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - job interview advice",
+    "tags": ["job-interview", "workplace", "advice"],
+    "timeCreated": 1720824000
+}

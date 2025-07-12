@@ -1,0 +1,18 @@
+{
+    "id": 1559,
+    "audioText": "L'infirmière gardez attentivement les patients malades dans l'hôpital moderne pour assurer leur guérison rapide.",
+    "question": "Where does the nurse carefully watch over the sick patients to ensure their quick recovery?",
+    "questionType": "comprehension",
+    "options": [
+        "In the modern hospital",
+        "At specialized rehabilitation centers for long-term care",
+        "In private medical clinics with advanced equipment",
+        "During home visits for elderly patients' comfort"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'infirmière gardez attentivement les patients malades dans l'hôpital moderne pour assurer leur guérison rapide.</em>' - The nurse carefully watches over the sick patients in the modern hospital to ensure their quick recovery. 'Hôpital' means hospital, 'gardez' is a form of 'garder' (to watch/keep), and 'attentivement' means carefully.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - hospital care and nursing",
+    "tags": ["health", "medical", "nursing"],
+    "timeCreated": 1720828680
+}

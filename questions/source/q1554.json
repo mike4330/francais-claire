@@ -1,0 +1,18 @@
+{
+    "id": 1554,
+    "audioText": "Les enfants buvait rapidement leur lait pour calmer leur faim avant le cours de mathématiques difficile.",
+    "question": "What did the children drink quickly to calm before the difficult math class?",
+    "questionType": "comprehension",
+    "options": [
+        "Their hunger",
+        "Their nervousness about the upcoming examination results",
+        "Their excitement for the weekend holiday plans",
+        "Their impatience during the long morning assembly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les enfants buvait rapidement leur lait pour calmer leur faim avant le cours de mathématiques difficile.</em>' - The children drank their milk quickly to calm their hunger before the difficult math class. 'Faim' means hunger, 'buvait' is a form of 'boire' (to drink), and 'calmer' means to calm.",
+    "difficulty": "A2",
+    "source": "Strategic noun coverage development - childhood hunger and school",
+    "tags": ["education", "children", "food"],
+    "timeCreated": 1720828380
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1536,
+    "audioText": "Dans ce récit médiéval, tu changeras d'avis sur le seigneur quand tu découvriras sa véritable nature généreuse.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Dans ce récit médiéval, tu changeras d'avis sur le seigneur quand tu découvriras sa véritable nature généreuse",
+        "Dans ce récit médiéval, tu changeras d'avis sur le seigneur quand tu découvriras sa véritable nature cruelle",
+        "Dans ce récit moderne, tu changeras d'avis sur le seigneur quand tu découvriras sa véritable nature généreuse",
+        "Dans ce récit médiéval, tu changeras d'opinion sur le seigneur quand tu découvriras sa véritable nature généreuse"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Dans ce récit médiéval, tu changeras d'avis sur le seigneur quand tu découvriras sa véritable nature généreuse'. The complete text is '<em>Dans ce récit médiéval, tu changeras d'avis sur le seigneur quand tu découvriras sa véritable nature généreuse.</em>' - In this medieval story, you will change your mind about the lord when you discover his true generous nature.",
+    "difficulty": "B2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["narration", "medieval", "literature"],
+    "parentQuestion": 1434,
+    "timeCreated": 1720826580
+}

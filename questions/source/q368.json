@@ -1,0 +1,18 @@
+{
+    "id": 368,
+    "audioText": "Vous occupez cette forme idiote dans le musée d'art moderne contemporain.",
+    "question": "What do you occupy in the contemporary modern art museum?",
+    "questionType": "comprehension",
+    "options": [
+        "This idiotic shape",
+        "The main exhibition hall with interactive displays",
+        "A private viewing room for special collections", 
+        "The educational workshop space for artists"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This idiotic shape'. The text states '<em>Vous occupez cette forme idiote dans le musée d'art moderne contemporain</em>' - You occupy this idiotic shape in the contemporary modern art museum. 'Occupez' is the second-person plural present of 'occuper' (to occupy), 'forme' means 'shape', and 'idiote' means 'idiotic'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - museum art interpretation",
+    "tags": ["museum", "art", "culture"],
+    "timeCreated": 1720824420
+}

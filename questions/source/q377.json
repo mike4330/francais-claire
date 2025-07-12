@@ -1,0 +1,18 @@
+{
+    "id": 377,
+    "audioText": "Elle reste assise car ce con exprime son incertitude.",
+    "question": "Why does she remain seated?",
+    "questionType": "comprehension",
+    "options": [
+        "Because this idiot expresses his uncertainty",
+        "Because the meeting has not officially started yet",
+        "Because she is waiting for clear instructions from leadership",
+        "Because the room arrangement requires everyone to stay seated"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Because this idiot expresses his uncertainty'. The text states '<em>Elle reste assise car ce con exprime son incertitude</em>' - She remains seated because this idiot expresses his uncertainty. 'Assise' is the feminine past participle of 'asseoir' (to sit), 'con' is a colloquial term meaning 'idiot', and 'incertitude' means 'uncertainty'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - interpersonal dynamics",
+    "tags": ["uncertainty", "emotions", "interpersonal"],
+    "timeCreated": 1720825680
+}

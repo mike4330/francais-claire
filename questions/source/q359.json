@@ -1,0 +1,18 @@
+{
+    "id": 359,
+    "audioText": "Il paierait volontiers ce bon vin rouge pour aider les familles pauvres du village.",
+    "question": "What would he gladly pay for to help the poor families?",
+    "questionType": "comprehension",
+    "options": [
+        "This good red wine",
+        "Fresh bread from the local bakery",
+        "Medicine for the sick children",
+        "School supplies for their education"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This good red wine'. The text states '<em>Il paierait volontiers ce bon vin rouge pour aider les familles pauvres du village</em>' - He would gladly pay for this good red wine to help the poor families of the village. 'Paierait' is the third-person singular conditional of 'payer' (to pay), and 'vin' means 'wine'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - wine and community support",
+    "tags": ["helping-others", "food", "community"],
+    "timeCreated": 1720823520
+}

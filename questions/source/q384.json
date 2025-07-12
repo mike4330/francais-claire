@@ -1,0 +1,18 @@
+{
+    "id": 384,
+    "audioText": "Grand-mère envoyez le jambon délicieux à tous les invités.",
+    "question": "What does grandmother send to all the guests?",
+    "questionType": "comprehension",
+    "options": [
+        "Delicious ham",
+        "Fresh bread and butter",
+        "Homemade apple pie slices",
+        "Traditional family recipes"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Grand-mère envoyez le jambon délicieux à tous les invités.</em>' - Grandmother sends the delicious ham to all the guests. 'Jambon' means ham, 'délicieux' means delicious, and 'envoyez' is a form of 'envoyer' (to send).",
+    "difficulty": "A2",
+    "source": "Strategic food vocabulary development - family gathering",
+    "tags": ["food", "family", "celebration"],
+    "timeCreated": 1720827240
+}

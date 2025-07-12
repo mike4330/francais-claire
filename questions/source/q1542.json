@@ -1,0 +1,18 @@
+{
+    "id": 1542,
+    "audioText": "Dans ce restaurant chéri, nous gardons le fromage frais éperdument pour nos clients spéciaux.",
+    "question": "How do we keep the cheese in this beloved restaurant?",
+    "questionType": "comprehension",
+    "options": [
+        "We keep the fresh cheese passionately for our special clients",
+        "We store the aged cheese carefully in temperature-controlled environments",
+        "We preserve the imported cheese using traditional aging techniques",
+        "We maintain the organic cheese collection with strict quality standards"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans ce restaurant chéri, nous gardons le fromage frais éperdument pour nos clients spéciaux.</em>' - In this beloved restaurant, we keep the fresh cheese passionately for our special clients. 'Fromage' means cheese, 'chéri' means beloved/dear, 'éperdument' means passionately, and 'gardons' is from 'garder' (to keep).",
+    "difficulty": "B1",
+    "source": "Strategic food vocabulary development - restaurant operations",
+    "tags": ["food", "restaurant", "service"],
+    "timeCreated": 1720827180
+}

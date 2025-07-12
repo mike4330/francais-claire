@@ -1,0 +1,18 @@
+{
+    "id": 1563,
+    "audioText": "L'économiste montrera clairement que le salaire moyen des employés augmente progressivement dans cette région industrielle.",
+    "question": "What will the economist clearly show is gradually increasing in this industrial region?",
+    "questionType": "comprehension",
+    "options": [
+        "The average salary of employees",
+        "Investment levels in technological infrastructure development",
+        "Environmental protection measures for sustainable growth",
+        "Educational opportunities for professional skill advancement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'économiste montrera clairement que le salaire moyen des employés augmente progressivement dans cette région industrielle.</em>' - The economist will clearly show that the average salary of employees is gradually increasing in this industrial region. 'Moyen' means average, 'montrera' is a form of 'montrer' (to show), and 'progressivement' means gradually.",
+    "difficulty": "B2",
+    "source": "Strategic adjective coverage development - economic statistics",
+    "tags": ["economics", "workplace", "statistics"],
+    "timeCreated": 1720829280
+}

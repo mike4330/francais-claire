@@ -1,0 +1,18 @@
+{
+    "id": 1513,
+    "audioText": "Cet artiste mourant créait des œuvres intéressantes qui explorent le contraste entre la vie urbaine moderne et les traditions rurales anciennes.",
+    "question": "What kind of works did this dying artist create?",
+    "questionType": "comprehension",
+    "options": [
+        "Interesting works exploring the contrast between modern urban life and ancient rural traditions",
+        "Provocative sculptures challenging contemporary social norms",
+        "Abstract paintings reflecting personal struggles with mortality",
+        "Documentary films capturing disappearing cultural practices"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Interesting works exploring the contrast between modern urban life and ancient rural traditions'. The text states '<em>Cet artiste mourant créait des œuvres intéressantes qui explorent le contraste entre la vie urbaine moderne et les traditions rurales anciennes</em>' - This dying artist created interesting works that explore the contrast between modern urban life and ancient rural traditions. 'Mourant' is the present participle of 'mourir' (to die), and 'intéressant' means 'interesting'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - artistic contrast",
+    "tags": ["contrast", "art", "culture"],
+    "timeCreated": 1720824360
+}

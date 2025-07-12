@@ -1,0 +1,18 @@
+{
+    "id": 1572,
+    "audioText": "Le vétérinaire boira calmement son café avant d'examiner la gueule blessée du chien abandonné trouvé dans la rue.",
+    "question": "What will the veterinarian drink calmly before examining the injured mouth of the abandoned dog?",
+    "questionType": "comprehension",
+    "options": [
+        "His coffee",
+        "Fresh water to stay hydrated during work",
+        "Herbal tea for stress relief and relaxation",
+        "Energy drink for alertness during surgery"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le vétérinaire boira calmement son café avant d'examiner la gueule blessée du chien abandonné trouvé dans la rue.</em>' - The veterinarian will drink his coffee calmly before examining the injured mouth of the abandoned dog found in the street. 'Gueule' means mouth (for animals), 'boira' is a form of 'boire' (to drink), and 'calmement' means calmly.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage development - veterinary medicine",
+    "tags": ["animals", "veterinary", "medical"],
+    "timeCreated": 1720830000
+}

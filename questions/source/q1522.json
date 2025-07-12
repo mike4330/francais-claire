@@ -1,0 +1,18 @@
+{
+    "id": 1522,
+    "audioText": "Gardez à l'improviste ce matériel spatial pour analyser les missions d'exploration interplanétaire complexes.",
+    "question": "How should you keep this space equipment to analyze complex interplanetary exploration missions?",
+    "questionType": "comprehension",
+    "options": [
+        "Unexpectedly",
+        "Following established maintenance protocols and schedules",
+        "Under controlled laboratory conditions with constant monitoring",
+        "According to manufacturer specifications and safety guidelines"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Unexpectedly'. The text states '<em>Gardez à l'improviste ce matériel spatial pour analyser les missions d'exploration interplanétaire complexes</em>' - Keep this space equipment unexpectedly to analyze complex interplanetary exploration missions. 'Gardez' is the imperative form of 'garder' (to keep), and 'à l'improviste' means 'unexpectedly' or 'without warning'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - space mission logistics",
+    "tags": ["space-missions", "exploration", "equipment"],
+    "timeCreated": 1720825440
+}

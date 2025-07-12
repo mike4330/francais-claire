@@ -1,0 +1,18 @@
+{
+    "id": 1556,
+    "audioText": "Le journaliste apprenne consciencieusement à analyser chaque article du journal pour découvrir la vérité cachée.",
+    "question": "What does the journalist learn to analyze conscientiously to discover hidden truth?",
+    "questionType": "comprehension",
+    "options": [
+        "Each article in the newspaper",
+        "Government statistical reports and economic indicators",
+        "Social media trends and public opinion surveys",
+        "Interview transcripts from key political figures"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le journaliste apprenne consciencieusement à analyser chaque article du journal pour découvrir la vérité cachée.</em>' - The journalist learns conscientiously to analyze each article in the newspaper to discover hidden truth. 'Journal' means newspaper, 'apprenne' is a form of 'apprendre' (to learn), and 'consciencieusement' means conscientiously.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage development - journalism and media analysis",
+    "tags": ["media", "journalism", "analysis"],
+    "timeCreated": 1720828500
+}

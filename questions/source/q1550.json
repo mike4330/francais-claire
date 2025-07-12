@@ -1,0 +1,18 @@
+{
+    "id": 1550,
+    "audioText": "Le chef dorme paisiblement après avoir râpé finement la muscade fraîche pour ses sauces béchamel raffinées.",
+    "question": "What did the chef do before sleeping peacefully?",
+    "questionType": "comprehension",
+    "options": [
+        "Finely grated fresh nutmeg for refined béchamel sauces",
+        "Prepared all ingredients for tomorrow's special menu carefully",
+        "Cleaned the kitchen equipment thoroughly after service",
+        "Reviewed new recipes for next week's cooking demonstrations"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le chef dorme paisiblement après avoir râpé finement la muscade fraîche pour ses sauces béchamel raffinées.</em>' - The chef sleeps peacefully after having finely grated fresh nutmeg for his refined béchamel sauces. 'Muscade' means nutmeg, 'dorme' is a form of 'dormir' (to sleep), and 'finement' means finely.",
+    "difficulty": "B2",
+    "source": "Strategic aromatic spice vocabulary development - French cuisine",
+    "tags": ["cooking", "professional", "spices"],
+    "timeCreated": 1720827840
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1508,
+    "audioText": "Vous tirerez cette arme ancienne seulement pour défendre la liberté de votre peuple opprimé par la dictature.",
+    "question": "When will you draw this ancient weapon?",
+    "questionType": "comprehension",
+    "options": [
+        "Only to defend the freedom of your people oppressed by dictatorship",
+        "During ceremonial events honoring fallen soldiers",
+        "When training new recruits in traditional combat",
+        "For historical demonstrations in military museums"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Only to defend the freedom of your people oppressed by dictatorship'. The text states '<em>Vous tirerez cette arme ancienne seulement pour défendre la liberté de votre peuple opprimé par la dictature</em>' - You will draw this ancient weapon only to defend the freedom of your people oppressed by dictatorship. 'Tirerez' is the second-person plural future tense of 'tirer' (to draw/pull), and 'arme' means 'weapon'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - historical resistance",
+    "tags": ["freedom", "history", "resistance"],
+    "timeCreated": 1720823700
+}

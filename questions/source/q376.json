@@ -1,0 +1,18 @@
+{
+    "id": 376,
+    "audioText": "Tu as envoyé ce con faire ses courses quotidiennes au supermarché.",
+    "question": "Who did you send to do their daily errands at the supermarket?",
+    "questionType": "comprehension",
+    "options": [
+        "This idiot",
+        "Your helpful neighbor who volunteered earlier",
+        "The professional delivery service representative",
+        "Your responsible teenage child with proper guidance"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This idiot'. The text states '<em>Tu as envoyé ce con faire ses courses quotidiennes au supermarché</em>' - You sent this idiot to do their daily errands at the supermarket. 'Envoyé' is the past participle of 'envoyer' (to send), 'con' is a colloquial term meaning 'idiot', and 'courses quotidiennes' means 'daily errands'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - daily tasks coordination",
+    "tags": ["daily-errands", "shopping", "coordination"],
+    "timeCreated": 1720825380
+}

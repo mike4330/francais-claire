@@ -1,0 +1,18 @@
+{
+    "id": 1571,
+    "audioText": "Le dentiste asseyons patiemment le patient pour examiner sa dent douloureuse et proposer un traitement approprié.",
+    "question": "What does the dentist seat the patient patiently to examine?",
+    "questionType": "comprehension",
+    "options": [
+        "His painful tooth",
+        "Jaw alignment and bite positioning issues",
+        "Gum inflammation and periodontal health",
+        "Oral hygiene habits and cleaning techniques"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le dentiste asseyons patiemment le patient pour examiner sa dent douloureuse et proposer un traitement approprié.</em>' - The dentist seats the patient patiently to examine his painful tooth and suggest appropriate treatment. 'Dent' means tooth, 'asseyons' is a form of 'asseoir' (to seat), and 'douloureuse' means painful.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - dental healthcare",
+    "tags": ["health", "medical", "dental"],
+    "timeCreated": 1720829940
+}

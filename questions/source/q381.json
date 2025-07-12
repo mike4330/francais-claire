@@ -1,0 +1,19 @@
+{
+    "id": 381,
+    "audioText": "Mes cousins reviennent du mariage de leur sœur dimanche soir.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Mes cousins reviennent du mariage de leur sœur dimanche soir",
+        "Mes cousins reviennent du mariage de leur frère dimanche soir",
+        "Mes cousins reviennent du mariage de leur sœur samedi soir",
+        "Mes cousines reviennent du mariage de leur sœur dimanche soir"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Mes cousins reviennent du mariage de leur sœur dimanche soir'. The complete text is '<em>Mes cousins reviennent du mariage de leur sœur dimanche soir.</em>' - My cousins are returning from their sister's wedding Sunday evening.",
+    "difficulty": "A2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["wedding", "family", "returning"],
+    "parentQuestion": 236,
+    "timeCreated": 1720826940
+}

@@ -1,0 +1,18 @@
+{
+    "id": 386,
+    "audioText": "Maman cultive la menthe fraîche dans le jardin pour le thé.",
+    "question": "What does mom grow in the garden for tea?",
+    "questionType": "comprehension",
+    "options": [
+        "Fresh mint",
+        "Dried herbs for cooking",
+        "Beautiful flowers for decoration",
+        "Fresh vegetables for dinner"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Maman cultive la menthe fraîche dans le jardin pour le thé.</em>' - Mom grows fresh mint in the garden for tea. 'Menthe' means mint, 'fraîche' means fresh, and 'cultive' means grows/cultivates.",
+    "difficulty": "A2",
+    "source": "Strategic spice vocabulary development - home gardening",
+    "tags": ["spices", "family", "garden"],
+    "timeCreated": 1720827660
+}

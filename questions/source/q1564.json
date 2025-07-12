@@ -1,0 +1,18 @@
+{
+    "id": 1564,
+    "audioText": "Le professeur gardera toujours des outils utiles pour aider ses étudiants à réussir leurs examens difficiles.",
+    "question": "What will the teacher always keep to help students succeed in difficult exams?",
+    "questionType": "comprehension",
+    "options": [
+        "Useful tools",
+        "Extra study materials with detailed explanations",
+        "Regular office hours for individual consultations",
+        "Positive encouragement and motivational strategies"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le professeur gardera toujours des outils utiles pour aider ses étudiants à réussir leurs examens difficiles.</em>' - The teacher will always keep useful tools to help his students succeed in difficult exams. 'Utile' means useful, 'gardera' is a form of 'garder' (to keep), and 'toujours' means always.",
+    "difficulty": "B1",
+    "source": "Strategic adjective coverage development - educational resources",
+    "tags": ["education", "teaching", "examination"],
+    "timeCreated": 1720829340
+}

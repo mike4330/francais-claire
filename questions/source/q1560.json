@@ -1,0 +1,18 @@
+{
+    "id": 1560,
+    "audioText": "La femme enceinte marchais lentement vers l'hôpital pour son rendez-vous médical important avec le spécialiste.",
+    "question": "Who walked slowly toward the hospital for an important medical appointment?",
+    "questionType": "comprehension",
+    "options": [
+        "The pregnant woman",
+        "The elderly patient with mobility challenges",
+        "The nervous student preparing for medical school interviews",
+        "The worried father seeking pediatric consultation"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La femme enceinte marchais lentement vers l'hôpital pour son rendez-vous médical important avec le spécialiste.</em>' - The pregnant woman walked slowly toward the hospital for her important medical appointment with the specialist. 'Enceinte' means pregnant, 'marchais' is a form of 'marcher' (to walk), and 'lentement' means slowly.",
+    "difficulty": "B1",
+    "source": "Strategic adjective coverage development - pregnancy and healthcare",
+    "tags": ["health", "medical", "pregnancy"],
+    "timeCreated": 1720829100
+}

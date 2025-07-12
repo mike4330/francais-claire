@@ -1,0 +1,18 @@
+{
+    "id": 1553,
+    "audioText": "Le chef gardes soigneusement l'odeur délicate du basilic frais dans ses préparations culinaires raffinées.",
+    "question": "What does the chef carefully preserve in his refined culinary preparations?",
+    "questionType": "comprehension",
+    "options": [
+        "The delicate scent of fresh basil",
+        "Traditional cooking techniques from his grandmother's recipes",
+        "Expensive imported ingredients for special holiday menus",
+        "Perfect temperature control for optimal flavor development"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le chef gardes soigneusement l'odeur délicate du basilic frais dans ses préparations culinaires raffinées.</em>' - The chef carefully preserves the delicate scent of fresh basil in his refined culinary preparations. 'Odeur' means scent/smell, 'gardes' is a form of 'garder' (to keep/preserve), and 'délicate' means delicate.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - culinary aromas and cooking",
+    "tags": ["cooking", "professional", "spices"],
+    "timeCreated": 1720828320
+}

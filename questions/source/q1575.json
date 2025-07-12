@@ -1,0 +1,18 @@
+{
+    "id": 1575,
+    "audioText": "Tu meures lentement si tu ne prends pas soin de ta santé avec des habitudes utiles et naturelles.",
+    "question": "What happens slowly if you don't take care of your health with useful and natural habits?",
+    "questionType": "comprehension",
+    "options": [
+        "You die",
+        "You lose motivation for daily activities and goals",
+        "You develop chronic stress and anxiety disorders",
+        "You become isolated from family and social connections"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu meures lentement si tu ne prends pas soin de ta santé avec des habitudes utiles et naturelles.</em>' - You die slowly if you don't take care of your health with useful and natural habits. 'Meures' is the present form of 'mourir' (to die), 'lentement' means slowly, and 'habitudes' means habits.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate coverage development - health and lifestyle",
+    "tags": ["health", "lifestyle", "habits"],
+    "timeCreated": 1720830460
+}

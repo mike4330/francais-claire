@@ -1,0 +1,19 @@
+{
+    "id": 1530,
+    "audioText": "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade",
+        "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment fort et de la persillade",
+        "Hier soir, j'ai dégusté une poêlée de sole avec du gingembre, du piment doux et de la persillade", 
+        "Hier matin, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade'. The complete text is '<em>Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.</em>' - Last night, I tasted a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, a really tasty dish.",
+    "difficulty": "B2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["food", "dinner", "seafood", "menu"],
+    "parentQuestion": 482,
+    "timeCreated": 1720826160
+}

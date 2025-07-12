@@ -1,0 +1,18 @@
+{
+    "id": 383,
+    "audioText": "Les enfants buvez le lait chaud avant d'aller au lit.",
+    "question": "What do the children drink before going to bed?",
+    "questionType": "comprehension",
+    "options": [
+        "Warm milk",
+        "Cold juice and water",
+        "Hot chocolate with cream",
+        "Herbal tea with honey"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les enfants buvez le lait chaud avant d'aller au lit.</em>' - The children drink warm milk before going to bed. 'Lait' means milk, 'chaud' means warm/hot, and 'buvez' is a form of 'boire' (to drink).",
+    "difficulty": "A2",
+    "source": "Strategic food vocabulary development - bedtime routine",
+    "tags": ["food", "children", "bedtime"],
+    "timeCreated": 1720827120
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1524,
+    "audioText": "Mon collègue boit techniquement cette boisson pour respecter ses obligations contractuelles professionnelles.",
+    "question": "How does my colleague drink this beverage to respect his professional contractual obligations?",
+    "questionType": "comprehension",
+    "options": [
+        "Technically",
+        "According to established workplace safety protocols",
+        "Following the prescribed medical recommendations carefully",
+        "As part of a structured professional development program"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Technically'. The text states '<em>Mon collègue boit techniquement cette boisson pour respecter ses obligations contractuelles professionnelles</em>' - My colleague drinks this beverage technically to respect his professional contractual obligations. 'Boit' is the third-person singular present of 'boire' (to drink), and 'techniquement' means 'technically'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - workplace compliance",
+    "tags": ["obligations", "workplace", "contracts"],
+    "timeCreated": 1720825560
+}

@@ -1,0 +1,18 @@
+{
+    "id": 374,
+    "audioText": "Il a montré cette dame conne pour attirer l'attention des spectateurs pendant le spectacle.",
+    "question": "Why did he show this stupid woman during the show?",
+    "questionType": "comprehension",
+    "options": [
+        "To attract the spectators' attention",
+        "To demonstrate proper theater etiquette to the audience",
+        "To showcase traditional costume designs from the period",
+        "To introduce special guest performers from other countries"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'To attract the spectators' attention'. The text states '<em>Il a montré cette dame conne pour attirer l'attention des spectateurs pendant le spectacle</em>' - He showed this stupid woman to attract the spectators' attention during the show. 'Montré' is the past participle of 'montrer' (to show), 'dame' means 'woman', and 'conne' means 'stupid'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - theater attention",
+    "tags": ["attention", "theater", "performance"],
+    "timeCreated": 1720825080
+}

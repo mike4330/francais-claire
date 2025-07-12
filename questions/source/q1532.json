@@ -1,0 +1,19 @@
+{
+    "id": 1532,
+    "audioText": "Ce truc bizarre dans la mer attire l'attention : la lumière traverse le verre coloré. Ce compte-rendu maritime révèle une putain de découverte scientifique concernant la propagation optique sous-marine.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Ce truc bizarre dans la mer attire l'attention : la lumière traverse le verre coloré",
+        "Ce truc bizarre dans la mer attire l'attention : la lumière reflète le verre coloré",
+        "Ce machin bizarre dans la mer attire l'attention : la lumière traverse le verre coloré",
+        "Ce truc étrange dans la mer attire l'attention : la lumière traverse le verre coloré"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Ce truc bizarre dans la mer attire l'attention : la lumière traverse le verre coloré'. The complete text is '<em>Ce truc bizarre dans la mer attire l'attention : la lumière traverse le verre coloré. Ce compte-rendu maritime révèle une putain de découverte scientifique concernant la propagation optique sous-marine.</em>' - This strange thing in the sea attracts attention: light passes through colored glass. This maritime report reveals a damn scientific discovery about underwater optical propagation.",
+    "difficulty": "B2",
+    "source": "Listening variant of comprehension question",
+    "tags": ["maritime-science", "optics", "underwater-research", "scientific-discovery"],
+    "parentQuestion": 998,
+    "timeCreated": 1720826280
+}

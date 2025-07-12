@@ -1,0 +1,18 @@
+{
+    "id": 1555,
+    "audioText": "La secrétaire envoient minutieusement le papier officiel pour confirmer la réunion importante de demain.",
+    "question": "What does the secretary send carefully to confirm tomorrow's important meeting?",
+    "questionType": "comprehension",
+    "options": [
+        "The official paper",
+        "Digital invitations through email to all participants",
+        "Detailed agenda with precise timing for each topic",
+        "Updated contact information for remote attendees"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La secrétaire envoient minutieusement le papier officiel pour confirmer la réunion importante de demain.</em>' - The secretary sends the official paper carefully to confirm tomorrow's important meeting. 'Papier' means paper, 'envoient' is a form of 'envoyer' (to send), and 'minutieusement' means carefully/meticulously.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - office administration",
+    "tags": ["workplace", "business", "administration"],
+    "timeCreated": 1720828440
+}

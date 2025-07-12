@@ -1,0 +1,18 @@
+{
+    "id": 1526,
+    "audioText": "La scientifique a été envoyée pour diriger cette exploration géologique dans cette région con et dangereuse.",
+    "question": "What was the scientist sent to lead in this stupid and dangerous region?",
+    "questionType": "comprehension",
+    "options": [
+        "This geological exploration",
+        "The emergency evacuation procedures for local residents",
+        "A comprehensive environmental impact assessment study",
+        "The establishment of a new research facility and laboratory"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This geological exploration'. The text states '<em>La scientifique a été envoyée pour diriger cette exploration géologique dans cette région con et dangereuse</em>' - The scientist was sent to lead this geological exploration in this stupid and dangerous region. 'Envoyée' is the feminine past participle of 'envoyer' (to send), 'con' means 'stupid', and 'exploration' means 'exploration'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - scientific field research",
+    "tags": ["exploration", "science", "research"],
+    "timeCreated": 1720825740
+}

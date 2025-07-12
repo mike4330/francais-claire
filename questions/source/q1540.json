@@ -1,0 +1,19 @@
+{
+    "id": 1540,
+    "audioText": "Elle a mal au dos après avoir passé toute la journée debout sur un pied.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Elle a mal au dos après avoir passé toute la journée debout sur un pied",
+        "Elle a mal au dos après avoir passé toute la journée debout sur les pieds",
+        "Elle a mal au bras après avoir passé toute la journée debout sur un pied",
+        "Elle a mal au dos après avoir passé toute la matinée debout sur un pied"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Elle a mal au dos après avoir passé toute la journée debout sur un pied'. The complete text is '<em>Elle a mal au dos après avoir passé toute la journée debout sur un pied.</em>' - Her back hurts after spending all day standing on one foot.",
+    "difficulty": "B1",
+    "source": "Listening variant of comprehension question",
+    "tags": ["health", "physical-pain", "posture"],
+    "parentQuestion": 1205,
+    "timeCreated": 1720826880
+}

@@ -1,0 +1,18 @@
+{
+    "id": 369,
+    "audioText": "Tu occupes ta gueule avec des rapports cons selon les dernières analyses officielles.",
+    "question": "What do you occupy your mouth with according to the latest official analyses?",
+    "questionType": "comprehension",
+    "options": [
+        "Stupid reports",
+        "Complex technical documentation from government agencies",
+        "Detailed financial statements from various corporations",
+        "Academic research papers on social issues"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Stupid reports'. The text states '<em>Tu occupes ta gueule avec des rapports cons selon les dernières analyses officielles</em>' - You occupy your mouth with stupid reports according to the latest official analyses. 'Occupes' is the second-person singular present of 'occuper' (to occupy), 'gueule' means 'mouth' (informal), and 'cons' means 'stupid'.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary development - official reports analysis",
+    "tags": ["reports", "analysis", "communication"],
+    "timeCreated": 1720824480
+}

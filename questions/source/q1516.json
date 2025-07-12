@@ -1,0 +1,18 @@
+{
+    "id": 1516,
+    "audioText": "Ce seigneur médiéval était complètement foutue intérieurement à cause des flux migratoires complexes affectant ses terres ancestrales.",
+    "question": "Why was this medieval lord completely messed up internally?",
+    "questionType": "comprehension",
+    "options": [
+        "Because of complex migratory flows affecting his ancestral lands",
+        "Because of ongoing conflicts with neighboring kingdoms",
+        "Because of economic difficulties caused by poor harvests",
+        "Because of political pressure from the royal court"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Because of complex migratory flows affecting his ancestral lands'. The text states '<em>Ce seigneur médiéval était complètement foutue intérieurement à cause des flux migratoires complexes affectant ses terres ancestrales</em>' - This medieval lord was completely messed up internally because of complex migratory flows affecting his ancestral lands. 'Foutue' is the feminine past participle of 'foutre' (to mess up), 'seigneur' means 'lord', and 'intérieurement' means 'internally'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - medieval migration",
+    "tags": ["migration", "history", "medieval"],
+    "timeCreated": 1720824840
+}

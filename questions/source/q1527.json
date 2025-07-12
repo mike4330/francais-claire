@@ -1,0 +1,18 @@
+{
+    "id": 1527,
+    "audioText": "L'ingénieur apprendra techniquement ces opérations de maintenance préventive pour optimiser les systèmes industriels complexes.",
+    "question": "How will the engineer learn these preventive maintenance operations to optimize complex industrial systems?",
+    "questionType": "comprehension",
+    "options": [
+        "Technically",
+        "Through hands-on apprenticeship with experienced senior technicians",
+        "Using advanced simulation software and virtual reality training",
+        "By completing intensive certification programs over several months"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Technically'. The text states '<em>L'ingénieur apprendra techniquement ces opérations de maintenance préventive pour optimiser les systèmes industriels complexes</em>' - The engineer will learn these preventive maintenance operations technically to optimize complex industrial systems. 'Apprendra' is the third-person singular future of 'apprendre' (to learn), and 'techniquement' means 'technically'.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - industrial engineering training",
+    "tags": ["operations", "engineering", "maintenance"],
+    "timeCreated": 1720825800
+}

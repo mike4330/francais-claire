@@ -1,0 +1,18 @@
+{
+    "id": 1520,
+    "audioText": "L'apprenti occupait ce bel espace de travail malgré la honte ressentie lors de son programme d'apprentissage professionnel.",
+    "question": "What did the apprentice occupy despite the shame felt during his professional training program?",
+    "questionType": "comprehension",
+    "options": [
+        "This beautiful workspace",
+        "The main laboratory designated for advanced students",
+        "A private office reserved for senior researchers",
+        "The collaborative meeting room used for team projects"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'This beautiful workspace'. The text states '<em>L'apprenti occupait ce bel espace de travail malgré la honte ressentie lors de son programme d'apprentissage professionnel</em>' - The apprentice occupied this beautiful workspace despite the shame felt during his professional training program. 'Occupait' is the third-person singular imperfect of 'occuper' (to occupy), 'bel' means 'beautiful', and 'honte' means 'shame'.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary development - professional apprenticeship",
+    "tags": ["apprenticeship", "workplace", "training"],
+    "timeCreated": 1720825260
+}
