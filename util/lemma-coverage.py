@@ -19,9 +19,9 @@ from collections import defaultdict, Counter
 # THRESHOLD CONFIGURATION - Adjust these values to tune analysis sensitivity
 # ============================================================================
 ATTENTION_THRESHOLD_ADVERBS = 0.0022      
-ATTENTION_THRESHOLD_ADJECTIVES = 0.00338    
-ATTENTION_THRESHOLD_NOUNS = 0.0035        
-CONJUGATION_COVERAGE_FILTER = 55         # Skip verbs with coverage above this percentage
+ATTENTION_THRESHOLD_ADJECTIVES = 0.00226
+ATTENTION_THRESHOLD_NOUNS = 0.002        
+CONJUGATION_COVERAGE_FILTER = 49         # Skip verbs with coverage above this percentage
 # ============================================================================
 
 # Blacklist for conjugate forms that are used as nouns/other parts of speech in questions
@@ -486,7 +486,8 @@ def load_adverbs_from_csv(paths, limit=50, question_text=None):
     # Special handling for compound adverbs like "à tâtons"
     # These are treated as single units in the corpus but appear as separate words in regex
     compound_adverbs = {
-        'à tâtons': ['à', 'tâtons']
+        'à tâtons': ['à', 'tâtons'],
+        'aux aguets': ['aux', 'aguets']
     }
     
     # Check for compound adverbs in the full text

@@ -22,27 +22,57 @@ if ! command -v jq &> /dev/null; then
     exit 1
 fi
 
+# Determine paths based on current directory  
+if [ -d "questions/source" ]; then
+    SOURCE_DIR="questions/source/"
+    CONFIG_FILE="config.json"
+elif [ -d "../questions/source" ]; then
+    SOURCE_DIR="../questions/source/"
+    CONFIG_FILE="../config.json"
+else
+    SOURCE_DIR="questions/source/"
+    CONFIG_FILE="/var/www/html/language/config.json"
+fi
+
+# Check if config.json exists
+if [ ! -f "$CONFIG_FILE" ]; then
+    echo "❌ Error: Config file $CONFIG_FILE not found"
+    exit 1
+fi
+
+# Check if source directory exists
+if [ ! -d "$SOURCE_DIR" ]; then
+    echo "❌ Error: Source directory $SOURCE_DIR not found."
+    exit 1
+fi
+
+# Fast function to get highest ID in range using jq
+get_highest_id_in_range() {
+    local min_id="$1"
+    local max_id="$2"
+    
+    # Use jq to efficiently find highest ID in range across all JSON files
+    cd "$SOURCE_DIR" 2>/dev/null || return 1
+    local highest=$(jq -n --argjson min "$min_id" --argjson max "$max_id" '
+        reduce inputs as $o (null; 
+            if ($o.id >= $min and $o.id <= $max) and (. == null or $o.id > .) 
+            then $o.id 
+            else . 
+            end
+        )' q*.json 2>/dev/null)
+    
+    cd - >/dev/null 2>&1
+    
+    if [ "$highest" = "null" ] || [ -z "$highest" ]; then
+        echo $((min_id - 1))
+    else
+        echo "$highest"
+    fi
+}
+
 # Handle -a flag for all levels output
 if [ "$1" = "-a" ]; then
-    # Determine paths based on current directory  
-    if [ -d "questions/source" ]; then
-        SOURCE_DIR="questions/source/"
-        CONFIG_FILE="config.json"
-    elif [ -d "../questions/source" ]; then
-        SOURCE_DIR="../questions/source/"
-        CONFIG_FILE="../config.json"
-    else
-        SOURCE_DIR="questions/source/"
-        CONFIG_FILE="/var/www/html/portfolio/language/config.json"
-    fi
-
-    # Check if config.json exists
-    if [ ! -f "$CONFIG_FILE" ]; then
-        echo "❌ Error: Config file $CONFIG_FILE not found"
-        exit 1
-    fi
-
-    # Function to get next ID for a level
+    # Function to get next ID for a level using fast jq approach
     get_next_id_for_level() {
         local level_key="$1"
         local min_id=$(jq -r ".levelRanges.${level_key}.minId" "$CONFIG_FILE" 2>/dev/null)
@@ -53,26 +83,7 @@ if [ "$1" = "-a" ]; then
             return
         fi
 
-        local highest_id=""
-        
-        # Get all source files and extract IDs
-        for file_path in "$SOURCE_DIR"q*.json; do
-            if [ -f "$file_path" ]; then
-                local id=$(basename "$file_path" .json | sed 's/q//')
-                # Validate ID is numeric and in correct range for this level
-                if [[ "$id" =~ ^[0-9]+$ ]] && [ "$id" -ge "$min_id" ] && [ "$id" -le "$max_id" ]; then
-                    if [ -z "$highest_id" ] || [ "$id" -gt "$highest_id" ]; then
-                        highest_id="$id"
-                    fi
-                fi
-            fi
-        done
-
-        # If no IDs found, use minimum ID - 1 (so next_id will be min_id)
-        if [ -z "$highest_id" ]; then
-            highest_id=$((min_id - 1))
-        fi
-
+        local highest_id=$(get_highest_id_in_range "$min_id" "$max_id")
         local next_id=$((highest_id + 1))
         echo "$next_id"
     }
@@ -89,25 +100,7 @@ fi
 
 # Handle -r flag for range usage statistics
 if [ "$1" = "-r" ]; then
-    # Determine paths based on current directory  
-    if [ -d "questions/source" ]; then
-        SOURCE_DIR="questions/source/"
-        CONFIG_FILE="config.json"
-    elif [ -d "../questions/source" ]; then
-        SOURCE_DIR="../questions/source/"
-        CONFIG_FILE="../config.json"
-    else
-        SOURCE_DIR="questions/source/"
-        CONFIG_FILE="/var/www/html/portfolio/language/config.json"
-    fi
-
-    # Check if config.json exists
-    if [ ! -f "$CONFIG_FILE" ]; then
-        echo "❌ Error: Config file $CONFIG_FILE not found"
-        exit 1
-    fi
-
-    # Function to get range usage statistics
+    # Function to get range usage statistics using fast jq approach
     get_range_usage() {
         local level_key="$1"
         local min_id=$(jq -r ".levelRanges.${level_key}.minId" "$CONFIG_FILE" 2>/dev/null)
@@ -119,37 +112,20 @@ if [ "$1" = "-r" ]; then
             return
         fi
 
-        local used_count=0
-        local used_ids=()
-        
-        # Get all source files and count IDs in range
-        for file_path in "$SOURCE_DIR"q*.json; do
-            if [ -f "$file_path" ]; then
-                local id=$(basename "$file_path" .json | sed 's/q//')
-                # Validate ID is numeric and in correct range for this level
-                if [[ "$id" =~ ^[0-9]+$ ]] && [ "$id" -ge "$min_id" ] && [ "$id" -le "$max_id" ]; then
-                    used_count=$((used_count + 1))
-                    used_ids+=("$id")
-                fi
-            fi
-        done
+        # Use jq to efficiently count IDs in range
+        cd "$SOURCE_DIR" 2>/dev/null || return 1
+        local used_count=$(jq -n --argjson min "$min_id" --argjson max "$max_id" '
+            reduce inputs as $o (0; 
+                if ($o.id >= $min and $o.id <= $max) 
+                then . + 1 
+                else . 
+                end
+            )' q*.json 2>/dev/null)
+        cd - >/dev/null 2>&1
 
         local total_range=$((max_id - min_id + 1))
         local usage_percent=$((used_count * 100 / total_range))
-        local highest_id=""
-        
-        # Find highest ID
-        for id in "${used_ids[@]}"; do
-            if [ -z "$highest_id" ] || [ "$id" -gt "$highest_id" ]; then
-                highest_id="$id"
-            fi
-        done
-        
-        # If no IDs found, highest is min_id - 1
-        if [ -z "$highest_id" ]; then
-            highest_id=$((min_id - 1))
-        fi
-        
+        local highest_id=$(get_highest_id_in_range "$min_id" "$max_id")
         local next_id=$((highest_id + 1))
         
         echo "📋 Level: $level_key ($levels)"
@@ -173,24 +149,6 @@ fi
 
 level="$1"
 
-# Determine paths based on current directory  
-if [ -d "questions/source" ]; then
-    SOURCE_DIR="questions/source/"
-    CONFIG_FILE="config.json"
-elif [ -d "../questions/source" ]; then
-    SOURCE_DIR="../questions/source/"
-    CONFIG_FILE="../config.json"
-else
-    SOURCE_DIR="questions/source/"
-    CONFIG_FILE="/var/www/html/portfolio/language/config.json"
-fi
-
-# Check if config.json exists
-if [ ! -f "$CONFIG_FILE" ]; then
-    echo "❌ Error: Config file $CONFIG_FILE not found"
-    exit 1
-fi
-
 # Read level configuration from config.json
 level_lower=$(echo "$level" | tr '[:upper:]' '[:lower:]')
 min_id=$(jq -r ".levelRanges.${level_lower}.minId" "$CONFIG_FILE" 2>/dev/null)
@@ -207,32 +165,8 @@ fi
 echo "📋 Level: $level ($levels - $description)"
 echo "📏 ID Range: $min_id-$max_id"
 
-if [ ! -d "$SOURCE_DIR" ]; then
-    echo "Error: Source directory $SOURCE_DIR not found."
-    exit 1
-fi
-
-# Find the highest ID from source files in the appropriate range
-highest_id=""
-
-# Get all source files and extract IDs
-for file_path in "$SOURCE_DIR"q*.json; do
-    if [ -f "$file_path" ]; then
-        id=$(basename "$file_path" .json | sed 's/q//')
-        # Validate ID is numeric and in correct range for this level
-        if [[ "$id" =~ ^[0-9]+$ ]] && [ "$id" -ge "$min_id" ] && [ "$id" -le "$max_id" ]; then
-            if [ -z "$highest_id" ] || [ "$id" -gt "$highest_id" ]; then
-                highest_id="$id"
-            fi
-        fi
-    fi
-done
-
-# If no IDs found anywhere, use minimum ID - 1 (so next_id will be min_id)
-if [ -z "$highest_id" ]; then
-    highest_id=$((min_id - 1))
-fi
-
+# Get highest ID in range using fast jq approach
+highest_id=$(get_highest_id_in_range "$min_id" "$max_id")
 next_id=$((highest_id + 1))
 
 # Validate that the next ID is within the allowed range

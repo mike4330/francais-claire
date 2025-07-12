@@ -13,7 +13,7 @@ import os
 from collections import defaultdict, Counter
 
 # Configuration
-COVERAGE_FILTER_THRESHOLD = 51  # Skip verbs with coverage above this percentage
+COVERAGE_FILTER_THRESHOLD = 49  # Skip verbs with coverage above this percentage
 
 # Blacklist for conjugate forms that are used as nouns/other parts of speech in questions
 # Format: {word: [list_of_question_ids_where_its_not_a_conjugate]}
