@@ -1,0 +1,25 @@
+{
+  "id": 1616,
+  "audioText": "Ce mercredi, aux alentours de 21 heures, la capitale a subi un orage aussi intense que bref. Une pluie violente et un vent tout aussi puissant ont causé des dégâts, pour l'heure légers.",
+  "question": "What does the speaker say about the storm that hit the capital?",
+  "questionType": "listening",
+  "options": [
+    "It lasted several hours with moderate intensity",
+    "It was very intense but short-lived",
+    "It caused major damage throughout the city",
+    "It brought only light rain and gentle winds"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Ce mercredi, aux alentours de 21 heures, la capitale a subi un orage aussi intense que bref. Une pluie violente et un vent tout aussi puissant ont causé des dégâts, pour l'heure légers.</em>' - This Wednesday, around 9 PM, the capital experienced a storm as intense as it was brief. Violent rain and an equally powerful wind caused damage, minor for now. The distractors test misinterpretation of duration (lasted several hours), misinterpretation of damage severity (major damage), and misinterpretation of storm intensity (light rain and gentle winds).",
+  "difficulty": "B2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "weather",
+    "storm",
+    "news",
+    "capital",
+    "damage"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 1089
+}

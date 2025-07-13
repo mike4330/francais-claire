@@ -1,0 +1,18 @@
+{
+    "id": 1622,
+    "audioText": "Le grand-père de cette compagnie attendait à l'entrée du restaurant",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Le grand-père de cette compagnie attendait à l'entrée du restaurant",
+        "Le grand-père de cette famille attendait à la sortie du café",
+        "L'homme âgé de cette société patientait près de la porte du magasin",
+        "Le directeur de cette entreprise arrivait devant l'entrée principale"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Le grand-père de cette compagnie attendait à l'entrée du restaurant'. The text states '<em>Le grand-père de cette compagnie attendait à l'entrée du restaurant</em>' - The grandfather of this company was waiting at the restaurant entrance. This combines 'grand-père' (grandfather), 'compagnie' (company), and 'entrée' (entrance).",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting: grand-père + compagnie + entrée",
+    "tags": ["family", "business", "restaurant"],
+    "timeCreated": 1720813200
+}

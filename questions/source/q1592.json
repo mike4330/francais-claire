@@ -1,0 +1,18 @@
+{
+    "id": 1592,
+    "audioText": "L'avocat portera une attention particulière à ce sujet délicat lors de la négociation du contrat commercial important.",
+    "question": "What will the lawyer pay particular attention to during the important commercial contract negotiation?",
+    "questionType": "comprehension",
+    "options": [
+        "This delicate subject",
+        "Legal precedents and regulatory compliance issues",
+        "Financial terms and payment scheduling arrangements",
+        "Client confidentiality and professional ethics requirements"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'L'avocat portera une attention particulière à ce sujet délicat lors de la négociation du contrat commercial important.' - The lawyer will pay particular attention to this delicate subject during the important commercial contract negotiation. 'Sujet' means subject/topic, 'portera' means will pay/carry, and 'délicat' means delicate.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage development - legal contract negotiations",
+    "tags": ["contracts", "legal", "business"],
+    "timeCreated": 1720832220
+}

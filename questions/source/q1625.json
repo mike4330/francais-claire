@@ -1,0 +1,18 @@
+{
+    "id": 1625,
+    "audioText": "Ce courant électrique pose des défis pour l'hospitalité maritime de demain",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Ce courant électrique pose des défis pour l'hospitalité maritime de demain",
+        "Ce système technique crée des problèmes pour le service naval d'aujourd'hui",
+        "Cette énergie moderne cause des difficultés pour l'accueil portuaire futur",
+        "Ce flux magnétique génère des obstacles pour la réception océanique prochaine"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Ce courant électrique pose des défis pour l'hospitalité maritime de demain'. The text states '<em>Ce courant électrique pose des défis pour l'hospitalité maritime de demain</em>' - This electric current poses challenges for tomorrow's maritime hospitality. This targets 'courant' and 'lendemain' with under-represented topics of hospitality and maritime-science.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary: courant + lendemain + hospitality + maritime-science",
+    "tags": ["hospitality", "maritime-science", "technology"],
+    "timeCreated": 1720814700
+}

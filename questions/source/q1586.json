@@ -1,0 +1,18 @@
+{
+    "id": 1586,
+    "audioText": "Le médecin observait attentivement chaque signe curieux pour diagnostiquer la maladie rare du patient âgé.",
+    "question": "What did the doctor observe attentively to diagnose the elderly patient's rare disease?",
+    "questionType": "comprehension",
+    "options": [
+        "Each curious sign",
+        "Laboratory test results with detailed analysis",
+        "Patient medical history and family background",
+        "Specialist consultation reports from colleagues"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le médecin observait attentivement chaque signe curieux pour diagnostiquer la maladie rare du patient âgé.</em>' - The doctor observed each curious sign attentively to diagnose the rare disease of the elderly patient. 'Signe' means sign/symptom, 'observait' means was observing, and 'curieux' means curious/unusual.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage development - medical diagnosis",
+    "tags": ["medical", "diagnosis", "observation"],
+    "timeCreated": 1720831360
+}

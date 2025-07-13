@@ -1,0 +1,18 @@
+{
+    "id": 1627,
+    "audioText": "Cet arbre magnifique crée une image parfaite dans le jardin public",
+    "question": "What does the tree create in the public garden?",
+    "questionType": "comprehension",
+    "options": [
+        "A perfect image",
+        "Natural shade",
+        "Fresh oxygen",
+        "Colorful flowers"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'A perfect image'. The text states '<em>Cet arbre magnifique crée une image parfaite dans le jardin public</em>' - This magnificent tree creates a perfect image in the public garden. This targets both 'arbre' and 'image' in a nature/aesthetic context.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary: arbre + image + nature",
+    "tags": ["nature", "aesthetics", "public-spaces"],
+    "timeCreated": 1720814900
+}

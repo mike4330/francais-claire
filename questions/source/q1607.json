@@ -1,0 +1,22 @@
+{
+  "id": 1607,
+  "audioText": "En marchant à pas de loup, l'espion se cachait dans l'ombre, espérant ne pas être vu par les gardes.",
+  "question": "Que faisait l'espion en marchant à pas de loup ?",
+  "questionType": "comprehension",
+  "options": [
+    "Il se cachait dans l'ombre",
+    "Il faisait beaucoup de bruit",
+    "Il cherchait ses amis",
+    "Il dansait joyeusement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>En marchant à pas de loup, l'espion se cachait dans l'ombre</em>' - By walking stealthily, the spy was hiding in the shadows. 'Marchant' is the present participle of 'marcher' (to walk). The topic of 'hiding' is under-represented.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "espionage",
+    "hiding",
+    "crime"
+  ],
+  "timeCreated": 1720815300
+}

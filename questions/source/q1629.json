@@ -1,0 +1,18 @@
+{
+    "id": 1629,
+    "audioText": "Tu t'assieds confortablement dans ce fauteuil vert pendant que je prépare le café",
+    "question": "What does the person do in the green armchair?",
+    "questionType": "comprehension",
+    "options": [
+        "Sits down comfortably",
+        "Stands up quickly",
+        "Reads a book quietly",
+        "Sleeps peacefully"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Sits down comfortably'. The text states '<em>Tu t'assieds confortablement dans ce fauteuil vert pendant que je prépare le café</em>' - You sit down comfortably in this green armchair while I prepare the coffee. This targets 'assieds' (second person singular of s'asseoir) with 'vert'.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate targeting: assieds + vert + daily routine",
+    "tags": ["daily-life", "comfort", "beverages"],
+    "timeCreated": 1720817100
+}

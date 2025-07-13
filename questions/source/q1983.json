@@ -1,18 +1,22 @@
 {
-    "id": 1983,
-    "audioText": "Du point de vue pratique, votre ventre sentira immédiatement les bienfaits de cette approche nutritionnelle révolutionnaire basée sur des recherches scientifiques approfondies.",
-    "question": "From a practical standpoint, what will your stomach immediately feel?",
-    "questionType": "comprehension",
-    "options": [
-        "The benefits of this revolutionary nutritional approach based on thorough scientific research",
-        "The digestive improvements from eliminating processed foods completely",
-        "The energy boost from consuming organic whole foods exclusively",
-        "The metabolic changes from following intermittent fasting protocols strictly"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'The benefits of this revolutionary nutritional approach based on thorough scientific research'. The text states '<em>Du point de vue pratique, votre ventre sentira immédiatement les bienfaits de cette approche nutritionnelle révolutionnaire basée sur des recherches scientifiques approfondies</em>' - From a practical standpoint, your stomach will immediately feel the benefits of this revolutionary nutritional approach based on thorough scientific research. 'Sentira' is the future form of 'sentir' (to feel), and 'ventre' means 'stomach/belly'.",
-    "difficulty": "C1",
-    "source": "Strategic vocabulary development - practical nutrition context",
-    "tags": ["practicality", "nutrition", "health"],
-    "timeCreated": 1720822080
+  "id": 1983,
+  "audioText": "L'hermeneutique postmoderne postule que les catégories conceptuelles inutiles, bien que doux en apparence, occultent fréquemment des dynamiques vivantes et légères qui transcendent la deuxième génération d'analyses phénoménologiques traditionnelles.",
+  "question": "According to postmodern hermeneutics, what do useless conceptual categories often conceal?",
+  "questionType": "comprehension",
+  "options": [
+    "Living and light dynamics that transcend the second generation of traditional phenomenological analyses",
+    "Empirical foundations that support contemporary theoretical frameworks",
+    "Systematic methodologies that prioritize quantitative over qualitative research",
+    "Historical precedents that validate current interpretative strategies"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'hermeneutique postmoderne postule que les catégories conceptuelles inutiles, bien que doux en apparence, occultent fréquemment des dynamiques vivantes et légères qui transcendent la deuxième génération d'analyses phénoménologiques traditionnelles</em>' - Postmodern hermeneutics postulates that useless conceptual categories, although gentle in appearance, frequently conceal living and light dynamics that transcend the second generation of traditional phenomenological analyses. This targets all specified adjectives in a complex philosophical context.",
+  "difficulty": "C2",
+  "source": "Strategic adjective targeting: inutile, doux, vivant, léger, deuxième",
+  "tags": [
+    "hermeneutics",
+    "postmodernism",
+    "phenomenology"
+  ],
+  "timeCreated": 1720962420
 }

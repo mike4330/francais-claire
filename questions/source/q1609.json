@@ -1,0 +1,22 @@
+{
+  "id": 1609,
+  "audioText": "La formule secrète, gardée précieusement par le scientifique, promettait une avancée majeure dans le domaine de la médecine.",
+  "question": "Comment la formule secrète était-elle gardée ?",
+  "questionType": "comprehension",
+  "options": [
+    "Précieusement",
+    "Négligemment",
+    "Publiquement",
+    "Temporairement"
+  ],
+  "correct": 0,
+  "explanation": "The text states the formula was '<em>gardée précieusement</em>' - kept preciously. 'Gardée' is the feminine past participle of 'garder' (to keep/guard), agreeing with 'la formule'. This question touches upon the under-represented topic of 'scientific-discovery'.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "science",
+    "research",
+    "scientific-discovery"
+  ],
+  "timeCreated": 1720815900
+}

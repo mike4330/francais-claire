@@ -1,0 +1,19 @@
+{
+    "id": 397,
+    "audioText": "Cet exercice de maths est très dur pour moi.",
+    "question": "What does the speaker say about the math exercise?",
+    "questionType": "listening",
+    "options": [
+        "It is very hard for them",
+        "It is very easy for them", 
+        "It is very interesting for them",
+        "It is very boring for them"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cet exercice de maths est très dur pour moi</em>' - This math exercise is very hard for me. 'Dur' means hard or difficult. The distractors test misinterpretation of the difficulty (easy, interesting, boring).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["education", "difficulty", "mathematics", "school"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 124
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1613,
+    "audioText": "Tu buvais toujours ce café vert et pur dans ce groupe",
+    "question": "Tu ______ toujours ce café vert et pur dans ce groupe.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "buvais",
+        "boires",
+        "buvait",
+        "buvons"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is '<em>buvais</em>' (you were drinking). The complete sentence is '<em>Tu buvais toujours ce café vert et pur dans ce groupe</em>' - You always used to drink that green and pure coffee in that group. This is the imperfect tense of 'boire' (to drink) in the second person singular.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting: boire conjugation + adjectives",
+    "tags": ["beverages", "workplace", "daily-routine"],
+    "timeCreated": 1720812000
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1628,
+    "audioText": "Je prie toujours dans cette église superbe avant mes examens importants",
+    "question": "Je ______ toujours dans cette église superbe avant mes examens importants.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "prie",
+        "priez",
+        "priais",
+        "prierai"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is '<em>prie</em>' (pray). The complete sentence is '<em>Je prie toujours dans cette église superbe avant mes examens importants</em>' - I always pray in this superb church before my important exams. This is the first person singular present tense of 'prier'.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate targeting: prie + église + superbe",
+    "tags": ["religion", "education", "routine"],
+    "timeCreated": 1720817000
+}

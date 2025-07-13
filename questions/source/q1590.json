@@ -1,0 +1,18 @@
+{
+    "id": 1590,
+    "audioText": "Les jeunes ont porté de la nourriture aux familles démunies pour lutter contre la faim dans le quartier.",
+    "question": "What did the young people carry to help fight hunger in the neighborhood?",
+    "questionType": "comprehension",
+    "options": [
+        "Food to underprivileged families",
+        "Medical supplies for emergency relief programs", 
+        "Educational materials for literacy campaigns",
+        "Clothing donations for winter assistance programs"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Les jeunes ont porté de la nourriture aux familles démunies pour lutter contre la faim dans le quartier.' - The young people carried food to underprivileged families to fight hunger in the neighborhood. 'Faim' means hunger, 'porté' means carried, and 'nourriture' means food.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - youth community service",
+    "tags": ["young-people", "community-service", "hunger"],
+    "timeCreated": 1720832100
+}

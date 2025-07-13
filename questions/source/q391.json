@@ -1,0 +1,18 @@
+{
+    "id": 391,
+    "audioText": "Ma tante va à l'église dimanche matin",
+    "question": "Ma ______ va à l'église dimanche matin.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "tante",
+        "mère",
+        "sœur",
+        "fille"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is '<em>tante</em>' (aunt). The complete sentence is '<em>Ma tante va à l'église dimanche matin</em>' - My aunt goes to church on Sunday morning. This combines 'tante' and 'église' in a religious/family context.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary: tante + église",
+    "tags": ["family", "religion", "weekly-routine"],
+    "timeCreated": 1720814100
+}

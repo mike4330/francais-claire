@@ -1,0 +1,19 @@
+{
+    "id": 1617,
+    "audioText": "Il a échoué à l'examen, pourtant il avait beaucoup étudié pour se préparer.",
+    "question": "What does the speaker say about his exam performance?",
+    "questionType": "listening",
+    "options": [
+        "He had studied a lot to prepare for it",
+        "He didn't study at all for the exam",
+        "He was expecting to fail the exam",
+        "He took the wrong exam by mistake"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il a échoué à l'examen, pourtant il avait beaucoup étudié pour se préparer.</em>' - He failed the exam, yet he had studied a lot to prepare for it. 'Pourtant' means 'however' or 'yet' and introduces a contrast. The distractors test misinterpretation of study habits (didn't study at all), misinterpretation of expectations (expecting to fail), and misinterpretation of the exam itself (took the wrong exam).",
+    "difficulty": "B2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["education", "contradiction", "study-habits"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 475
+}

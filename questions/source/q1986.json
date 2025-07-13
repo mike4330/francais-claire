@@ -1,18 +1,23 @@
 {
-    "id": 1986,
-    "audioText": "Cet exemple paradigmatique ouvrait de nouvelles perspectives herméneutiques dans l'interprétation des œuvres pianistiques romantiques, révolutionnant notre compréhension des structures harmoniques complexes.",
-    "question": "What did this paradigmatic example open in the interpretation of romantic piano works?",
-    "questionType": "comprehension",
-    "options": [
-        "New hermeneutical perspectives, revolutionizing our understanding of complex harmonic structures",
-        "Alternative analytical frameworks for understanding melodic development patterns",
-        "Innovative performance techniques for expressing emotional depth",
-        "Unprecedented scholarly approaches to manuscript analysis and authentication"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'New hermeneutical perspectives, revolutionizing our understanding of complex harmonic structures'. The text states '<em>Cet exemple paradigmatique ouvrait de nouvelles perspectives herméneutiques dans l'interprétation des œuvres pianistiques romantiques, révolutionnant notre compréhension des structures harmoniques complexes</em>' - This paradigmatic example opened new hermeneutical perspectives in the interpretation of romantic piano works, revolutionizing our understanding of complex harmonic structures. 'Ouvrait' is the imperfect form of 'ouvrir' (to open), and 'exemple' means 'example'.",
-    "difficulty": "C2",
-    "source": "Strategic vocabulary development - musical hermeneutics context",
-    "tags": ["piano", "musicology", "interpretation"],
-    "timeCreated": 1720822260
+  "id": 1986,
+  "audioText": "Au revoir ! À bientôt pour notre prochain projet de travail ensemble.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Au revoir ! À bientôt pour notre prochain projet de travail ensemble",
+    "Au revoir ! À plus tard pour notre prochain projet de travail ensemble",
+    "Au revoir ! À bientôt pour votre prochain projet de travail ensemble",
+    "Au revoir ! À bientôt pour notre dernier projet de travail ensemble"
+  ],
+  "correct": 0,
+  "parentQuestion": 1172,
+  "explanation": "The correct text is '<em>Au revoir ! À bientôt pour notre prochain projet de travail ensemble</em>' - Goodbye! See you soon for our next work project together. Key words: 'À bientôt' (see you soon, not 'À plus tard' - see you later), 'notre' (our, not 'votre' - your), and 'prochain' (next, not 'dernier' - last).",
+  "difficulty": "B1",
+  "source": "Listening version of Q1172",
+  "tags": [
+    "workplace",
+    "goodbye",
+    "collaboration"
+  ],
+  "timeCreated": 1720963500
 }

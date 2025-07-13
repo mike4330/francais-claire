@@ -1,0 +1,28 @@
+
+{
+    "id": 1600,
+    "audioText": "La colère du père a éclaté quand il a vu le bulletin de son fils.",
+    "question": "Quelle émotion le père a-t-il ressentie en voyant le bulletin de son fils ?",
+    "questionType": "comprehension",
+    "options": [
+        "La colère",
+        "La joie",
+        "La tristesse",
+        "La surprise"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La colère du père a éclaté quand il a vu le bulletin de son fils</em>' - The father's anger erupted when he saw his son's report card. The key word here is 'colère', which means anger.",
+    "difficulty": "B1",
+    "source": "Gemini CLI",
+    "tags": [
+        "family",
+        "emotions",
+        "parent-child-relationship",
+        "school"
+    ],
+    "timeCreated": 1720809631,
+    "correctAnswer": "La colère",
+    "acceptedAnswers": [
+        "La colère"
+    ]
+}

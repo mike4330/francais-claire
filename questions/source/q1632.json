@@ -1,0 +1,18 @@
+{
+    "id": 1632,
+    "audioText": "J'écris franchement mes opinions sur cette image superbe dans mon journal personnel",
+    "question": "What does the person write in their personal journal?",
+    "questionType": "comprehension",
+    "options": [
+        "Honest opinions about the superb image",
+        "Secret thoughts about family members",
+        "Daily activities and appointments",
+        "Creative stories and poems"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Honest opinions about the superb image'. The text states '<em>J'écris franchement mes opinions sur cette image superbe dans mon journal personnel</em>' - I write frankly my opinions about this superb image in my personal journal. This targets 'écris' with the missing adverb 'franchement' and synergistic vocabulary.",
+    "difficulty": "B2",
+    "source": "Strategic conjugate targeting: écris + franchement + image + superbe",
+    "tags": ["writing", "personal-expression", "honesty"],
+    "timeCreated": 1720817400
+}

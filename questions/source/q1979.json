@@ -1,23 +1,22 @@
 {
   "id": 1979,
-  "audioText": "L'architecte révolutionnaire a conçu ce numéro d'immeuble où l'ombre projetée par le mur courbe crée des jeux de lumière sophistiqués dans chaque coin de l'espace urbain, redéfinissant l'interaction entre les structures et leur environnement.",
-  "question": "What did the revolutionary architect design that redefines the interaction between structures and their environment?",
+  "audioText": "Les innovations technologiques de cet hôtel futuriste permettent une communication téléphonique holistique qui s'adapte aux variations subtiles de la peau et aux micro-expressions du nez pour optimiser l'expérience sensorielle.",
+  "question": "What do the futuristic hotel's technological innovations enable?",
   "questionType": "comprehension",
   "options": [
-    "A building number where curved wall shadows create sophisticated light effects in every corner of urban space",
-    "A sustainable housing complex with integrated renewable energy systems",
-    "An innovative transportation hub connecting multiple city districts",
-    "A cultural center featuring interactive digital art installations"
+    "Holistic phone communication that adapts to subtle skin variations and nose micro-expressions to optimize sensory experience",
+    "Personalized climate control systems based on biometric readings and environmental preferences",
+    "Advanced room service automation through artificial intelligence and predictive algorithms",
+    "Immersive virtual reality entertainment systems with haptic feedback and spatial audio"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>L'architecte révolutionnaire a conçu ce numéro d'immeuble où l'ombre projetée par le mur courbe crée des jeux de lumière sophistiqués dans chaque coin de l'espace urbain, redéfinissant l'interaction entre les structures et leur environnement</em>' - The revolutionary architect designed this building number where the shadow projected by the curved wall creates sophisticated light effects in every corner of urban space, redefining the interaction between structures and their environment. 'Numéro' means number, 'ombre' means shadow, 'mur' means wall, and 'coin' means corner.",
+  "explanation": "The text states '<em>Les innovations technologiques de cet hôtel futuriste permettent une communication téléphonique holistique qui s'adapte aux variations subtiles de la peau et aux micro-expressions du nez pour optimiser l'expérience sensorielle</em>' - The technological innovations of this futuristic hotel enable holistic phone communication that adapts to subtle skin variations and nose micro-expressions to optimize the sensory experience. This targets 'hôtel', 'téléphone', 'peau', and 'nez' in a futuristic technology context.",
   "difficulty": "C1",
-  "source": "Strategic noun targeting: numéro, ombre, mur, coin",
+  "source": "Strategic noun targeting: hôtel, téléphone, peau, nez",
   "tags": [
-    "architecture",
-    "urban-design",
+    "technology",
     "innovation",
-    "light-effects"
+    "hospitality"
   ],
-  "timeCreated": 1752115440
+  "timeCreated": 1720618580
 }

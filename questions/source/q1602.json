@@ -1,0 +1,22 @@
+{
+  "id": 1602,
+  "audioText": "Elle était éperdument amoureuse de lui, et une seule larme a trahi son chagrin.",
+  "question": "Quel mot décrit l'intensité de son amour ?",
+  "questionType": "comprehension",
+  "options": [
+    "Éperdument",
+    "Tristement",
+    "Heureusement",
+    "Normalement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle était éperdument amoureuse de lui</em>' - She was madly in love with him. 'Éperdument' means madly or desperately, showing a very strong emotion. The word '<em>larme</em>' (tear) reinforces the theme of powerful emotions.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "emotions",
+    "love",
+    "relationships"
+  ],
+  "timeCreated": 1720813500
+}

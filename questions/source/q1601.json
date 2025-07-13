@@ -1,0 +1,22 @@
+{
+  "id": 1601,
+  "audioText": "La colère montait sourdement en lui, mais il n'a rien dit.",
+  "question": "Comment la colère montait-elle en lui ?",
+  "questionType": "comprehension",
+  "options": [
+    "Sourdement",
+    "Bruyamment",
+    "Joyeusement",
+    "Lentement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La colère montait sourdement en lui</em>' - Anger was rising repressively inside him. 'Sourdement' means muffledly or repressively, indicating a hidden or contained emotion. It is the opposite of 'bruyamment' (loudly).",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": [
+    "emotions",
+    "conflict",
+    "psychology"
+  ],
+  "timeCreated": 1720813200
+}

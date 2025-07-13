@@ -1,0 +1,18 @@
+{
+    "id": 1623,
+    "audioText": "Sa présence contradictoire dans ce groupe d'études pose des problèmes",
+    "question": "Sa ______ contradictoire dans ce groupe d'études pose des problèmes.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "présence",
+        "absence",
+        "attitude",
+        "méthode"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is '<em>présence</em>' (presence). The complete sentence is '<em>Sa présence contradictoire dans ce groupe d'études pose des problèmes</em>' - His contradictory presence in this study group poses problems. This targets both 'présence', 'groupe', and the under-represented topics of contradiction and study-habits.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary: présence + groupe + contradiction + study-habits",
+    "tags": ["contradiction", "study-habits", "education"],
+    "timeCreated": 1720814500
+}

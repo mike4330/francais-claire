@@ -1,0 +1,18 @@
+{
+    "id": 1634,
+    "audioText": "Ce café pur a été bien servi par cette dame dans ce restaurant calme",
+    "question": "What happened to the pure coffee?",
+    "questionType": "comprehension",
+    "options": [
+        "It was well served by the lady in the quiet restaurant",
+        "It was poorly prepared by the waiter",
+        "It was spilled on the table accidentally",
+        "It was returned to the kitchen immediately"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'It was well served by the lady in the quiet restaurant'. The text states '<em>Ce café pur a été bien servi par cette dame dans ce restaurant calme</em>' - This pure coffee was well served by this lady in this quiet restaurant. This targets 'servi' (past participle of servir) with synergistic vocabulary.",
+    "difficulty": "B2",
+    "source": "Strategic conjugate targeting: servi + pur + dame + quiet restaurant",
+    "tags": ["restaurant", "service", "quiet"],
+    "timeCreated": 1720817600
+}

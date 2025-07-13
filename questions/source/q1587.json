@@ -1,0 +1,18 @@
+{
+    "id": 1587,
+    "audioText": "Le kinésithérapeute massait délicatement l'épaule blessée de l'athlète pour accélérer sa guérison complète.",
+    "question": "What did the physiotherapist massage delicately to accelerate the athlete's complete recovery?",
+    "questionType": "comprehension",
+    "options": [
+        "The injured shoulder",
+        "Specific muscle groups for enhanced performance",
+        "Joint mobility areas for flexibility improvement",
+        "Pressure points for pain relief and relaxation"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le kinésithérapeute massait délicatement l'épaule blessée de l'athlète pour accélérer sa guérison complète.</em>' - The physiotherapist massaged the injured shoulder of the athlete delicately to accelerate his complete recovery. 'Épaule' means shoulder, 'massait' means was massaging, and 'délicatement' means delicately.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - sports rehabilitation",
+    "tags": ["sports", "rehabilitation", "therapy"],
+    "timeCreated": 1720831420
+}

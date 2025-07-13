@@ -1,0 +1,18 @@
+{
+    "id": 1583,
+    "audioText": "Le professeur portes le sujet complexe de manière agréable pour que tous les étudiants comprennent facilement.",
+    "question": "How does the teacher present the complex subject so all students understand easily?",
+    "questionType": "comprehension",
+    "options": [
+        "In a pleasant manner",
+        "Using modern technology and interactive tools",
+        "With detailed examples and practical applications",
+        "Through systematic repetition and careful review"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le professeur portes le sujet complexe de manière agréable pour que tous les étudiants comprennent facilement.</em>' - The teacher presents the complex subject in a pleasant manner so that all students understand easily. 'Sujet' means subject/topic, 'portes' is a form of 'porter' (to carry/present), and 'agréable' means pleasant.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - educational methodology",
+    "tags": ["education", "teaching", "methodology"],
+    "timeCreated": 1720831180
+}

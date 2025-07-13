@@ -1,0 +1,18 @@
+{
+    "id": 394,
+    "audioText": "Attention ! Cette arme n'est pas sûre ici",
+    "question": "What is the purpose of this message?",
+    "questionType": "comprehension",
+    "options": [
+        "To give a warning about danger",
+        "To explain how something works",
+        "To describe a location clearly",
+        "To ask for help immediately"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'To give a warning about danger'. The text states '<em>Attention ! Cette arme n'est pas sûre ici</em>' - Warning! This weapon is not safe here. This targets both 'arme' and the under-represented warning topic.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary: arme + warning topic",
+    "tags": ["warning", "safety", "security"],
+    "timeCreated": 1720814400
+}

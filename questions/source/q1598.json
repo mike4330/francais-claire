@@ -1,0 +1,18 @@
+{
+    "id": 1598,
+    "audioText": "Je m'assois près de grand-mère pour comprendre comment elle calcule les profits de son petit commerce familial.",
+    "question": "Why do I sit near grandmother?",
+    "questionType": "comprehension",
+    "options": [
+        "To understand how she calculates the profits of her small family business",
+        "To learn traditional cooking recipes passed down through generations",
+        "To listen to fascinating stories from her childhood experiences",
+        "To receive valuable life advice about personal relationships"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Je m'assois près de grand-mère pour comprendre comment elle calcule les profits de son petit commerce familial.' - I sit near grandmother to understand how she calculates the profits of her small family business. 'Grand-mère' means grandmother, 'assois' means sit, and 'profits' means profits.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage development - grandmother's business wisdom",
+    "tags": ["profits", "family", "business"],
+    "timeCreated": 1720832580
+}

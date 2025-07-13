@@ -1,0 +1,18 @@
+{
+    "id": 1595,
+    "audioText": "Tu envoies ton enfant chez le docteur quand il se plaint de douleur à l'épaule après sa chute.",
+    "question": "When do you send your child to the doctor?",
+    "questionType": "comprehension",
+    "options": [
+        "When he complains of shoulder pain after his fall",
+        "During routine health checkups for preventive care monitoring",
+        "For annual vaccination updates according to medical guidelines",
+        "When school administration requires medical clearance documentation"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Tu envoies ton enfant chez le docteur quand il se plaint de douleur à l'épaule après sa chute.' - You send your child to the doctor when he complains of shoulder pain after his fall. 'Épaule' means shoulder, 'envoies' means (you) send, and 'douleur' means pain.",
+    "difficulty": "A2",
+    "source": "Strategic noun coverage development - parent-child medical care",
+    "tags": ["parent-child-relationship", "health", "family"],
+    "timeCreated": 1720832400
+}

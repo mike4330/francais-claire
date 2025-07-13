@@ -1,18 +1,24 @@
 {
-    "id": 1987,
-    "audioText": "Je montrerai à l'improviste ces paradigmes socio-économiques complexes lors de conférences internationales pour catalyser l'innovation institutionnelle dans les secteurs émergents de gouvernance collaborative.",
-    "question": "How will I show these complex socio-economic paradigms at international conferences to catalyze institutional innovation in emerging collaborative governance sectors?",
-    "questionType": "comprehension",
-    "options": [
-        "Unexpectedly",
-        "Through systematically structured presentations with extensive documentation",
-        "Using evidence-based methodological frameworks with peer-reviewed research",
-        "Following established academic protocols for international knowledge dissemination"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'Unexpectedly'. The text states '<em>Je montrerai à l'improviste ces paradigmes socio-économiques complexes lors de conférences internationales pour catalyser l'innovation institutionnelle dans les secteurs émergents de gouvernance collaborative</em>' - I will show these complex socio-economic paradigms unexpectedly at international conferences to catalyze institutional innovation in emerging collaborative governance sectors. 'Montrerai' is the first-person singular future of 'montrer' (to show), and 'à l'improviste' means 'unexpectedly'.",
-    "difficulty": "C1",
-    "source": "Strategic vocabulary development - advanced institutional innovation",
-    "tags": ["governance", "innovation", "conferences"],
-    "timeCreated": 1720825980
+  "id": 1987,
+  "audioText": "Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires et sa vision stratégique à long terme.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires",
+    "Cette entreprise innovante est capable de transformer complètement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires",
+    "Cette entreprise innovante est capable de transformer radicalement l'industrie informatique grâce à ses algorithmes d'intelligence artificielle révolutionnaires",
+    "Cette entreprise novatrice est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires"
+  ],
+  "correct": 0,
+  "parentQuestion": 1753,
+  "explanation": "The correct text begins with '<em>Cette entreprise innovante est capable de transformer radicalement l'industrie technologique grâce à ses algorithmes d'intelligence artificielle révolutionnaires</em>' - This innovative company is capable of radically transforming the tech industry thanks to its revolutionary AI algorithms. Key words: 'radicalement' (radically, not 'complètement' - completely), 'technologique' (technological, not 'informatique' - computer science), and 'innovante' (innovative, not 'novatrice' - innovative but less common).",
+  "difficulty": "C1",
+  "source": "Listening version of Q1424",
+  "tags": [
+    "technology",
+    "artificial-intelligence",
+    "innovation",
+    "business-strategy"
+  ],
+  "timeCreated": 1720963560
 }

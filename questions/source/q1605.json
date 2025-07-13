@@ -1,0 +1,22 @@
+{
+  "id": 1605,
+  "audioText": "Tu m'envoies le colis par la poste demain, et j'espère qu'il arrivera sans encombre avant le weekend.",
+  "question": "Qu'est-ce que tu m'envoies par la poste demain ?",
+  "questionType": "comprehension",
+  "options": [
+    "Le colis",
+    "La lettre",
+    "Le message",
+    "L'argent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu m'envoies le colis par la poste demain</em>' - You are sending me the package by mail tomorrow. 'Envoies' is the second person singular present tense of 'envoyer' (to send). The noun '<em>colis</em>' means package.",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": [
+    "daily-life",
+    "communication",
+    "logistics"
+  ],
+  "timeCreated": 1720814400
+}

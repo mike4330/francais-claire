@@ -1,24 +1,22 @@
 {
   "id": 1967,
-  "audioText": "Cette histoire tragique n'avait jamais été entendue par le grand public avant la publication du livre.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "L'œil expert détecte instantanément les imperfections microscopiques qui échappent à l'air naïf du spectateur profane, révélant la véritable nature du coup de maître artistique.",
+  "question": "What distinguishes the expert's perception?",
+  "questionType": "comprehension",
   "options": [
-    "Cette histoire tragique n'avait jamais été entendue par le grand public avant la publication du livre.",
-    "Cette histoire tragique n'avait jamais été entendu par le grand public avant la publication du livre.",
-    "Cette histoire tragique n'avait jamais été entendre par le grand public avant la publication du livre.",
-    "Cette histoire tragique n'avait jamais été entendue par le grand publique avant la publication du livre."
+    "The ability to detect microscopic flaws invisible to the untrained observer",
+    "The capacity to appreciate the emotional impact of the artwork",
+    "The skill to determine the commercial value of the piece",
+    "The knowledge of the artist's historical background"
   ],
   "correct": 0,
-  "explanation": "The correct option maintains proper past participle agreement: 'entendue' (feminine with 'histoire'), not 'entendu' (masculine), not 'entendre' (infinitive), and 'public' (masculine noun), not 'publique' (adjective). This listening exercise tests complex past perfect passive voice in literary contexts.",
+  "explanation": "The text states '<em>L'œil expert détecte instantanément les imperfections microscopiques qui échappent à l'air naïf du spectateur profane, révélant la véritable nature du coup de maître artistique</em>' - The expert eye instantly detects microscopic imperfections that escape the naive air of the uninitiated observer, revealing the true nature of the artistic masterpiece. This targets 'œil', 'air', and 'coup' in an art expertise context.",
   "difficulty": "C1",
-  "source": "Literary publication and historical revelation",
+  "source": "Strategic noun targeting: œil, air, coup",
   "tags": [
-    "literature",
-    "history",
-    "publication",
-    "revelation"
+    "art",
+    "expertise",
+    "perception"
   ],
-  "parentQuestion": 606,
-  "timeCreated": 1720826880
+  "timeCreated": 1720617000
 }

@@ -1,0 +1,15 @@
+{
+    "id": 393,
+    "audioText": "Ce rêve étrange me dit quelque chose",
+    "question": "Ce ______ étrange me dit quelque chose.",
+    "questionType": "writing",
+    "options": [],
+    "correct": 0,
+    "correctAnswer": "rêve",
+    "acceptedAnswers": ["rêve", "Rêve"],
+    "explanation": "The correct answer is '<em>rêve</em>' (dream). The complete sentence is '<em>Ce rêve étrange me dit quelque chose</em>' - This strange dream tells me something. This targets the under-represented bedtime/sleep-related vocabulary.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary: rêve + bedtime topic",
+    "tags": ["bedtime", "emotions", "mystery"],
+    "timeCreated": 1720814300
+}

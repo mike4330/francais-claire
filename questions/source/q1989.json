@@ -1,0 +1,23 @@
+{
+  "id": 1989,
+  "audioText": "L'approche unique de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes dans notre épistémologie contemporaine.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "L'approche unique de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes",
+    "L'approche unique de cette méthodologie démontre que les paradigmes inutiles masquent souvent des vérités doux mais vivantes",
+    "L'approche unique de cette méthodologie révèle que les paradigmes utiles masquent souvent des vérités doux mais vivantes",
+    "L'approche unique de cette méthodologie révèle que les paradigmes inutiles cachent souvent des vérités doux mais vivantes"
+  ],
+  "correct": 0,
+  "parentQuestion": 1982,
+  "explanation": "The correct text includes '<em>L'approche unique de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes</em>' - The unique approach of this methodology reveals that useless paradigms often mask gentle but living truths. Key words: 'révèle' (reveals, not 'démontre' - demonstrates), 'inutiles' (useless, not 'utiles' - useful), and 'masquent' (mask, not 'cachent' - hide).",
+  "difficulty": "C1",
+  "source": "Listening version of Q1666",
+  "tags": [
+    "methodology",
+    "epistemology",
+    "academic-research"
+  ],
+  "timeCreated": 1720963980
+}

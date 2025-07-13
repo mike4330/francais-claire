@@ -1,18 +1,24 @@
 {
-    "id": 1985,
-    "audioText": "À propos de cette complexité systémique, en perdant de vue les interactions multidimensionnelles, nous risquons de simplifier excessivement des phénomènes intrinsèquement interconnectés.",
-    "question": "What do we risk by losing sight of multidimensional interactions regarding this systemic complexity?",
-    "questionType": "comprehension",
-    "options": [
-        "Excessively simplifying intrinsically interconnected phenomena",
-        "Overlooking critical variables in our analytical framework",
-        "Misunderstanding the fundamental causal relationships entirely",
-        "Failing to identify emergent properties within the system"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'Excessively simplifying intrinsically interconnected phenomena'. The text states '<em>À propos de cette complexité systémique, en perdant de vue les interactions multidimensionnelles, nous risquons de simplifier excessivement des phénomènes intrinsèquement interconnectés</em>' - Regarding this systemic complexity, by losing sight of multidimensional interactions, we risk excessively simplifying intrinsically interconnected phenomena. 'Perdant' is the present participle of 'perdre' (to lose), and 'propos' means 'subject/regard'.",
-    "difficulty": "C2",
-    "source": "Strategic vocabulary development - systemic complexity context",
-    "tags": ["complexity", "systems-theory", "analysis"],
-    "timeCreated": 1720822200
+  "id": 1985,
+  "audioText": "Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre, nécessitant des mesures urgentes pour préserver la biodiversité et les écosystèmes fragiles pour les générations futures qui hériteront de cette planète transformée.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre",
+    "Les scientifiques déclarent que le réchauffement climatique menace l'équilibre écologique de notre terre",
+    "Les scientifiques affirment que le changement climatique menace l'équilibre écologique de notre terre",
+    "Les scientifiques affirment que le réchauffement climatique menace l'équilibre économique de notre terre"
+  ],
+  "correct": 0,
+  "parentQuestion": 1878,
+  "explanation": "The correct text begins with '<em>Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre</em>' - Scientists affirm that climate warming threatens the ecological balance of our earth. Key words: 'affirment' (affirm, not 'déclarent' - declare), 'réchauffement climatique' (climate warming, not 'changement climatique' - climate change), and 'écologique' (ecological, not 'économique' - economic).",
+  "difficulty": "C1",
+  "source": "Listening version of Q1545",
+  "tags": [
+    "environment",
+    "climate-change",
+    "science",
+    "ecology"
+  ],
+  "timeCreated": 1720963020
 }

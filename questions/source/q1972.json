@@ -1,22 +1,22 @@
 {
   "id": 1972,
-  "audioText": "Sa confiance inébranlable dans le système judiciaire a été renforcée par les récents verdicts équitables.",
-  "question": "What has been reinforced by the recent fair verdicts?",
+  "audioText": "Ce genre d'innovation conceptuelle et cette sorte de révolution paradigmatique redéfinissent complètement les fondements épistémologiques de la discipline.",
+  "question": "What completely redefines the epistemological foundations?",
   "questionType": "comprehension",
   "options": [
-    "His unshakeable confidence in the judicial system",
-    "His unshakeable confidence in the political system",
-    "His unshakeable confidence in the educational system",
-    "His unshakeable confidence in the healthcare system"
+    "This type of conceptual innovation and this kind of paradigmatic revolution",
+    "The integration of interdisciplinary methodological approaches",
+    "The adoption of advanced technological computational tools",
+    "The establishment of new institutional collaborative frameworks"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Sa confiance inébranlable dans le système judiciaire a été renforcée par les récents verdicts équitables</em>' - His unshakeable confidence in the judicial system has been reinforced by the recent fair verdicts. 'Confiance' means confidence, 'inébranlable' means unshakeable, and 'équitables' means fair.",
-  "difficulty": "C1",
-  "source": "Strategic bottom noun coverage",
+  "explanation": "The text states '<em>Ce genre d'innovation conceptuelle et cette sorte de révolution paradigmatique redéfinissent complètement les fondements épistémologiques de la discipline</em>' - This type of conceptual innovation and this kind of paradigmatic revolution completely redefine the epistemological foundations of the discipline. This targets 'genre' and 'sorte' in an academic theoretical context.",
+  "difficulty": "C2",
+  "source": "Strategic noun targeting: genre, sorte",
   "tags": [
-    "justice",
-    "legal-system",
-    "trust"
+    "philosophy",
+    "epistemology",
+    "innovation"
   ],
-  "timeCreated": 1752095900
+  "timeCreated": 1720617300
 }

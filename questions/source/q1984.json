@@ -1,18 +1,23 @@
 {
-    "id": 1984,
-    "audioText": "Merde, j'ouvrirai ces énigmes complexes seulement après avoir développé une méthodologie systématique d'analyse cognitive approfondie pour résoudre les problèmes les plus ardus.",
-    "question": "When will the speaker open these complex puzzles?",
-    "questionType": "comprehension",
-    "options": [
-        "Only after developing a systematic methodology of thorough cognitive analysis to solve the most difficult problems",
-        "When they have acquired sufficient mathematical background knowledge",
-        "After consulting with expert puzzle designers and researchers",
-        "Once they have practiced with simpler puzzles for several months"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'Only after developing a systematic methodology of thorough cognitive analysis to solve the most difficult problems'. The text states '<em>Merde, j'ouvrirai ces énigmes complexes seulement après avoir développé une méthodologie systématique d'analyse cognitive approfondie pour résoudre les problèmes les plus ardus</em>' - Damn, I will open these complex puzzles only after developing a systematic methodology of thorough cognitive analysis to solve the most difficult problems. 'Ouvrirai' is the future form of 'ouvrir' (to open), and 'merde' is a strong expletive.",
-    "difficulty": "C2",
-    "source": "Strategic vocabulary development - complex puzzle solving context",
-    "tags": ["puzzles", "methodology", "problem-solving"],
-    "timeCreated": 1720822140
+  "id": 1984,
+  "audioText": "L'approche unique de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes dans notre épistémologie contemporaine.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "L'approche unique de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes",
+    "L'approche unique de cette méthodologie montre que les paradigmes inutiles masquent souvent des vérités doux mais vivantes",
+    "L'approche originale de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes",
+    "L'approche unique de cette méthodologie révèle que les paradigmes utiles masquent souvent des vérités doux mais vivantes"
+  ],
+  "correct": 0,
+  "parentQuestion": 1982,
+  "explanation": "The correct text includes '<em>L'approche unique de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes</em>' - The unique approach of this methodology reveals that useless paradigms often mask gentle but living truths. Key words: 'révèle' (reveals, not 'montre' - shows), 'unique' (unique, not 'originale' - original), and 'inutiles' (useless, not 'utiles' - useful).",
+  "difficulty": "C1",
+  "source": "Listening version of Q1666",
+  "tags": [
+    "methodology",
+    "epistemology",
+    "academic-research"
+  ],
+  "timeCreated": 1720962960
 }

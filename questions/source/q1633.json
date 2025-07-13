@@ -1,0 +1,18 @@
+{
+    "id": 1633,
+    "audioText": "Vous vous souvenez de cette tante agréable qui priait toujours dans cette église",
+    "question": "Vous vous ______ de cette tante agréable qui priait toujours dans cette église.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "souvenez",
+        "souveniez",
+        "rappelez",
+        "souvenirs"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is '<em>souvenez</em>' (remember). The complete sentence is '<em>Vous vous souvenez de cette tante agréable qui priait toujours dans cette église</em>' - You remember this pleasant aunt who always used to pray in this church. This is the present tense, second person plural/formal of 'se souvenir'.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate targeting: souvenez + tante + agréable + église",
+    "tags": ["memory", "family", "religion"],
+    "timeCreated": 1720817500
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1606,
+  "audioText": "Nous portons une grande responsabilité en élevant ce bébé, et nous espérons lui offrir un avenir heureux et sain.",
+  "question": "Que portons-nous en élevant ce bébé ?",
+  "questionType": "comprehension",
+  "options": [
+    "Une grande responsabilité",
+    "Un vêtement bleu",
+    "Un sac lourd",
+    "Un espoir fragile"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous portons une grande responsabilité</em>' - We carry a great responsibility. 'Portons' is the first person plural present tense of 'porter' (to carry/wear). In this context, it means to carry a responsibility.",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": [
+    "family",
+    "responsibility",
+    "parenting"
+  ],
+  "timeCreated": 1720815000
+}

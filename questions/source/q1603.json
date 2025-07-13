@@ -1,0 +1,22 @@
+{
+  "id": 1603,
+  "audioText": "Il n'était aucunement préparé pour l'examen, sa mémoire lui faisant défaut.",
+  "question": "Comment était-il préparé pour l'examen ?",
+  "questionType": "comprehension",
+  "options": [
+    "Aucunement",
+    "Parfaitement",
+    "Sérieusement",
+    "Rapidement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il n'était aucunement préparé</em>' - He was in no way prepared. 'Aucunement' is a strong negation, meaning 'not at all' or 'in no way'. The phrase '<em>sa mémoire lui faisant défaut</em>' (his memory failing him) reinforces this lack of preparation.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "education",
+    "memory",
+    "procrastination"
+  ],
+  "timeCreated": 1720813800
+}

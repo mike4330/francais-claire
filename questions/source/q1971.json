@@ -1,22 +1,22 @@
 {
   "id": 1971,
-  "audioText": "Dans le silence de l'espace cosmique, les astronautes maintiennent un professionnalisme exemplaire pendant leurs missions spatiales délicates.",
-  "question": "What do astronauts maintain during their delicate space missions?",
+  "audioText": "La virtuosité de ses bras dans cette technique ancestrale et la finesse de chaque cheveu de son pinceau créent une harmonie visuelle d'une intensité saisissante.",
+  "question": "What creates the striking visual harmony?",
   "questionType": "comprehension",
   "options": [
-    "Exemplary professionalism",
-    "Constant communication",
-    "Perfect physical condition",
-    "Absolute silence"
+    "The virtuosity of his arms in this ancestral technique and the fineness of each hair of his brush",
+    "The combination of traditional materials and modern artistic vision",
+    "The interplay between light and shadow in the composition",
+    "The balanced proportions and geometric precision of the work"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Dans le silence de l'espace cosmique, les astronautes maintiennent un professionnalisme exemplaire pendant leurs missions spatiales délicates</em>' - In the silence of cosmic space, astronauts maintain exemplary professionalism during their delicate space missions. 'Professionnalisme' means professionalism, and 'exemplaire' means exemplary.",
+  "explanation": "The text states '<em>La virtuosité de ses bras dans cette technique ancestrale et la finesse de chaque cheveu de son pinceau créent une harmonie visuelle d'une intensité saisissante</em>' - The virtuosity of his arms in this ancestral technique and the fineness of each hair of his brush create a visual harmony of striking intensity. This targets 'bras' and 'cheveu' in an artistic mastery context.",
   "difficulty": "C1",
-  "source": "Strategic topic coverage reinforcement",
+  "source": "Strategic noun targeting: bras, cheveu",
   "tags": [
-    "space",
-    "professionalism",
-    "quiet"
+    "art",
+    "craftsmanship",
+    "technique"
   ],
-  "timeCreated": 1752094500
+  "timeCreated": 1720617240
 }

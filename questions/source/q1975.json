@@ -1,22 +1,22 @@
 {
   "id": 1975,
-  "audioText": "Cette mélodie mystérieuse touche profondément l'âme sensible de tous ceux qui l'écoutent attentivement.",
-  "question": "What does this mysterious melody deeply touch?",
+  "audioText": "Cette journée mémorable a vu ce gars démontrer que l'esprit humain peut transcender les contraintes physiques les plus implacables grâce à une détermination inébranlable.",
+  "question": "What did this memorable day demonstrate?",
   "questionType": "comprehension",
   "options": [
-    "The sensitive soul of all who listen carefully",
-    "The sensitive mind of all who listen carefully",
-    "The sensitive heart of all who listen carefully",
-    "The sensitive spirit of all who listen carefully"
+    "That the human spirit can transcend the most relentless physical constraints through unwavering determination",
+    "That technological advancement can solve previously insurmountable challenges",
+    "That collaborative effort produces superior results to individual achievement",
+    "That systematic preparation guarantees success in any endeavor"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette mélodie mystérieuse touche profondément l'âme sensible de tous ceux qui l'écoutent attentivement</em>' - This mysterious melody deeply touches the sensitive soul of all who listen carefully. 'Âme' means soul, 'mystérieuse' means mysterious, and 'attentivement' means carefully.",
+  "explanation": "The text states '<em>Cette journée mémorable a vu ce gars démontrer que l'esprit humain peut transcender les contraintes physiques les plus implacables grâce à une détermination inébranlable</em>' - This memorable day saw this guy demonstrate that the human spirit can transcend the most relentless physical constraints through unwavering determination. This targets 'journée', 'gars', and 'esprit' in an inspirational human achievement context.",
   "difficulty": "C1",
-  "source": "Strategic bottom noun coverage",
+  "source": "Strategic noun targeting: journée, gars, esprit",
   "tags": [
-    "music",
-    "emotions",
-    "spirituality"
+    "inspiration",
+    "human-spirit",
+    "determination"
   ],
-  "timeCreated": 1752096200
+  "timeCreated": 1720617920
 }

@@ -1,0 +1,18 @@
+{
+    "id": 1630,
+    "audioText": "Cette dame curieuse sert toujours un café pur et agréable à ses invités",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Cette dame curieuse sert toujours un café pur et agréable à ses invités",
+        "Cette dame curieuse boit toujours un café pur et agréable avec ses invités",
+        "Cette dame curieuse prépare toujours un thé pur et agréable à ses invités",
+        "Cette dame curieuse offre toujours un café fort et délicieux à ses invités"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is the first option. The text states '<em>Cette dame curieuse sert toujours un café pur et agréable à ses invités</em>' - This curious lady always serves pure and pleasant coffee to her guests. This targets 'sert' (third person singular of servir) with synergistic vocabulary: dame, curieuse, pur, agréable.",
+    "difficulty": "B2",
+    "source": "Strategic conjugate targeting: sert + dame + curieuse + pur + agréable",
+    "tags": ["hospitality", "beverages", "social-interaction"],
+    "timeCreated": 1720817200
+}

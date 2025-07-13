@@ -1,0 +1,27 @@
+{
+    "id": 1599,
+    "audioText": "Vous excuserez mon retard, j'étais coincé dans les embouteillages.",
+    "question": "Vous ______ mon retard, j'étais coincé dans les embouteillages.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "excuserez",
+        "excusons",
+        "excusez",
+        "excusent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous excuserez mon retard, j'étais coincé dans les embouteillages</em>' - You will excuse my lateness, I was stuck in traffic. 'Excuserez' is the second person plural (vous) form of 'excuser' in the futur simple tense. It is used here as a polite, formal way of apologizing.",
+    "difficulty": "B2",
+    "source": "Gemini CLI",
+    "tags": [
+        "workplace",
+        "professional",
+        "travel",
+        "apology"
+    ],
+    "timeCreated": 1720809331,
+    "correctAnswer": "excuserez",
+    "acceptedAnswers": [
+        "excuserez"
+    ]
+}

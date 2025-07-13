@@ -1,0 +1,18 @@
+{
+    "id": 1596,
+    "audioText": "Je garderai un souvenir merveilleux de ce camp de vacances, surtout des histoires racontées avant le coucher.",
+    "question": "What will I keep a wonderful memory of from this vacation camp?",
+    "questionType": "comprehension",
+    "options": [
+        "Especially the stories told before bedtime",
+        "Outdoor adventure activities and nature exploration programs",
+        "Friendship bonds formed with fellow campers during free time",
+        "Educational workshops and creative arts and crafts sessions"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Je garderai un souvenir merveilleux de ce camp de vacances, surtout des histoires racontées avant le coucher.' - I will keep a wonderful memory of this vacation camp, especially the stories told before bedtime. 'Camp' means camp, 'garderai' means will keep, and 'coucher' means bedtime.",
+    "difficulty": "A2",
+    "source": "Strategic noun coverage development - vacation camp bedtime stories",
+    "tags": ["bedtime", "camp", "memories"],
+    "timeCreated": 1720832460
+}

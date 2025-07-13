@@ -1,0 +1,18 @@
+{
+    "id": 392,
+    "audioText": "J'ai mal au ventre, bonne chance demain",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "J'ai mal au ventre, bonne chance demain",
+        "J'ai mal à la tête, bon courage aujourd'hui",
+        "J'ai mal aux dents, bonne journée maintenant",
+        "J'ai mal au dos, bonne soirée plus tard"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'J'ai mal au ventre, bonne chance demain'. The text states '<em>J'ai mal au ventre, bonne chance demain</em>' - I have a stomach ache, good luck tomorrow. This targets 'ventre' and the under-represented topic of luck.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary: ventre + luck topic",
+    "tags": ["health", "luck", "well-wishes"],
+    "timeCreated": 1720814200
+}

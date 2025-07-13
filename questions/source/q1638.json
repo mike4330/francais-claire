@@ -1,0 +1,19 @@
+{
+    "id": 1638,
+    "audioText": "Il pointe son doigt vers elle et lui dit de fermer sa gueule immédiatement.",
+    "question": "What does the speaker say he tells her to do?",
+    "questionType": "listening",
+    "options": [
+        "To shut her mouth immediately",
+        "To listen more carefully",
+        "To speak more clearly",
+        "To repeat what she said"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il pointe son doigt vers elle et lui dit de fermer sa gueule immédiatement</em>' - He points his finger at her and tells her to shut her mouth immediately. This targets the nouns 'doigt' and 'gueule' in a confrontational context. Note: 'gueule' is vulgar slang for mouth. The distractors test misinterpretation of the command (listen more carefully, speak more clearly, repeat what she said).",
+    "difficulty": "B2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["confrontation", "gestures", "vulgar-language"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 1216
+}

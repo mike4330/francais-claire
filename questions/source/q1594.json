@@ -1,0 +1,18 @@
+{
+    "id": 1594,
+    "audioText": "Tu marches nerveusement en cherchant le moindre signe d'amélioration dans cette situation pleine d'anticipation.",
+    "question": "What are you looking for while walking nervously in this situation full of anticipation?",
+    "questionType": "comprehension",
+    "options": [
+        "The slightest sign of improvement",
+        "Clear directions to emergency exit routes",
+        "Reliable communication channels for assistance requests",
+        "Professional guidance from experienced team coordinators"
+    ],
+    "correct": 0,
+    "explanation": "The text states 'Tu marches nerveusement en cherchant le moindre signe d'amélioration dans cette situation pleine d'anticipation.' - You are walking nervously looking for the slightest sign of improvement in this situation full of anticipation. 'Signe' means sign, 'marches' means (you) walk, and 'anticipation' means anticipation.",
+    "difficulty": "B2",
+    "source": "Strategic noun coverage development - anxious anticipation",
+    "tags": ["anticipation", "emotions", "uncertainty"],
+    "timeCreated": 1720832340
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1610,
+  "audioText": "Après cette longue journée de travail, tu dormiras profondément dans ton lit confortable, je l'espère.",
+  "question": "Quand dormiras-tu profondément ?",
+  "questionType": "comprehension",
+  "options": [
+    "Après cette longue journée de travail",
+    "Au milieu de la journée",
+    "Pendant le petit-déjeuner",
+    "Jamais"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Après cette longue journée de travail, tu dormiras profondément</em>' - After this long day of work, you will sleep deeply. 'Dormiras' is the second person singular future tense of 'dormir' (to sleep). This question addresses the under-represented 'bedtime' topic.",
+  "difficulty": "A2",
+  "source": "Gemini CLI",
+  "tags": [
+    "daily-routine",
+    "health",
+    "bedtime"
+  ],
+  "timeCreated": 1720816200
+}

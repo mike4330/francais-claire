@@ -1,18 +1,24 @@
 {
-    "id": 1988,
-    "audioText": "Les chercheurs assieds ces hypothèses théoriques révolutionnaires simultanément dans plusieurs paradigmes épistémologiques pour transformer l'architecture conceptuelle des disciplines académiques interdisciplinaires contemporaines.",
-    "question": "How do researchers position these revolutionary theoretical hypotheses simultaneously in several epistemological paradigms to transform the conceptual architecture of contemporary interdisciplinary academic disciplines?",
-    "questionType": "comprehension",
-    "options": [
-        "Seat/position them",
-        "Through rigorous methodological validation using peer-reviewed frameworks",
-        "By implementing systematic cross-referencing protocols across multiple databases",
-        "Using advanced computational modeling with machine learning algorithms"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'Seat/position them'. The text states '<em>Les chercheurs assieds ces hypothèses théoriques révolutionnaires simultanément dans plusieurs paradigmes épistémologiques pour transformer l'architecture conceptuelle des disciplines académiques interdisciplinaires contemporaines</em>' - Researchers seat/position these revolutionary theoretical hypotheses simultaneously in several epistemological paradigms to transform the conceptual architecture of contemporary interdisciplinary academic disciplines. 'Assieds' is a form of 'asseoir' (to seat/position), and 'simultanément' means 'simultaneously'.",
-    "difficulty": "C1",
-    "source": "Strategic vocabulary development - advanced epistemological research",
-    "tags": ["research", "epistemology", "interdisciplinary"],
-    "timeCreated": 1720826040
+  "id": 1988,
+  "audioText": "Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse poststructuraliste particulièrement percutante. Cette méthodologie épistémologique révolutionnaire interroge fondamentalement les présupposés idéologiques sous-jacents aux dispositifs de gouvernance supranationaux et aux mécanismes d'hégémonie culturelle perpétués par les institutions académiques traditionnelles.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse poststructuraliste",
+    "Tu viens d'assister à un colloque multidisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse poststructuraliste",
+    "Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques libéraux ont été déconstruits par une analyse poststructuraliste",
+    "Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse postmoderniste"
+  ],
+  "correct": 0,
+  "parentQuestion": 1757,
+  "explanation": "The correct text begins with '<em>Tu viens d'assister à un colloque interdisciplinaire sur les enjeux géopolitiques contemporains où les paradigmes économiques néolibéraux ont été déconstruits par une analyse poststructuraliste</em>' - You just attended an interdisciplinary conference on contemporary geopolitical issues where neoliberal economic paradigms were deconstructed by poststructuralist analysis. Key words: 'interdisciplinaire' (interdisciplinary, not 'multidisciplinaire' - multidisciplinary), 'néolibéraux' (neoliberal, not 'libéraux' - liberal), and 'poststructuraliste' (poststructuralist, not 'postmoderniste' - postmodernist).",
+  "difficulty": "C2",
+  "source": "Listening version of Q1428",
+  "tags": [
+    "academic-discourse",
+    "geopolitics",
+    "poststructuralism",
+    "epistemology"
+  ],
+  "timeCreated": 1720963620
 }

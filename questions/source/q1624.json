@@ -1,0 +1,18 @@
+{
+    "id": 1624,
+    "audioText": "Le passage sous-marin révèle des recherches optiques fascinantes pour cette équipe scientifique",
+    "question": "What does the underwater passage reveal?",
+    "questionType": "comprehension",
+    "options": [
+        "Fascinating optical research",
+        "Ancient maritime artifacts",
+        "Dangerous sea currents",
+        "Hidden treasure chambers"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Fascinating optical research'. The text states '<em>Le passage sous-marin révèle des recherches optiques fascinantes pour cette équipe scientifique</em>' - The underwater passage reveals fascinating optical research for this scientific team. This targets 'passage' and the under-represented topics of underwater-research, optics, and maritime-science.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary: passage + underwater-research + optics + maritime-science",
+    "tags": ["underwater-research", "optics", "maritime-science"],
+    "timeCreated": 1720814600
+}

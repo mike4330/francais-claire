@@ -1,0 +1,15 @@
+{
+    "id": 1635,
+    "audioText": "Ces employés servent toujours des repas agréables dans cette compagnie moderne",
+    "question": "Ces employés ______ toujours des repas agréables dans cette compagnie moderne.",
+    "questionType": "writing",
+    "options": [],
+    "correct": 0,
+    "correctAnswer": "servent",
+    "acceptedAnswers": ["servent", "Servent"],
+    "explanation": "The correct answer is '<em>servent</em>' (serve). The complete sentence is '<em>Ces employés servent toujours des repas agréables dans cette compagnie moderne</em>' - These employees always serve pleasant meals in this modern company. This is the third person plural present tense of 'servir'.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate targeting: servent + agréable + compagnie",
+    "tags": ["workplace", "food", "service"],
+    "timeCreated": 1720817800
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1604,
+  "audioText": "Je garderai avidement chaque conseil que vous me donnerez.",
+  "question": "Comment garderez-vous les conseils ?",
+  "questionType": "comprehension",
+  "options": [
+    "Avidement",
+    "Négligemment",
+    "Tristement",
+    "Occasionnellement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je garderai avidement chaque conseil</em>' - I will eagerly keep every piece of advice. 'Avidement' means eagerly or greedily, indicating a strong desire to retain the information. The verb '<em>garderai</em>' is the future tense of 'garder' (to keep).",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": [
+    "learning",
+    "advice",
+    "mentorship"
+  ],
+  "timeCreated": 1720814100
+}

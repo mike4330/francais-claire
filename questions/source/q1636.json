@@ -1,0 +1,18 @@
+{
+    "id": 1636,
+    "audioText": "Vous servez toujours ce café pur avec professionnalisme dans cette entreprise",
+    "question": "How do you serve the pure coffee in this company?",
+    "questionType": "comprehension",
+    "options": [
+        "With professionalism",
+        "Very quickly",
+        "Without enthusiasm", 
+        "Quite carelessly"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'With professionalism'. The text states '<em>Vous servez toujours ce café pur avec professionnalisme dans cette entreprise</em>' - You always serve this pure coffee with professionalism in this company. This targets 'servez' (second person plural of servir) with synergistic vocabulary and the under-represented topic of professionalism.",
+    "difficulty": "B2",
+    "source": "Strategic conjugate targeting: servez + pur + professionalism",
+    "tags": ["professionalism", "workplace", "service"],
+    "timeCreated": 1720817900
+}

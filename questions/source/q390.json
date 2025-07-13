@@ -1,0 +1,18 @@
+{
+    "id": 390,
+    "audioText": "Bonsoir, j'ai très faim ce soir",
+    "question": "What time of day is it?",
+    "questionType": "comprehension",
+    "options": [
+        "Evening",
+        "Morning", 
+        "Afternoon",
+        "Night"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Evening'. The text states '<em>Bonsoir, j'ai très faim ce soir</em>' - Good evening, I am very hungry tonight. 'Bonsoir' means good evening, and this targets the under-represented topic of hunger.",
+    "difficulty": "A1",
+    "source": "Strategic vocabulary: bonsoir + hunger topic",
+    "tags": ["hunger", "daily-life", "greetings"],
+    "timeCreated": 1720814000
+}

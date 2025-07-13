@@ -1,0 +1,22 @@
+{
+  "id": 1612,
+  "audioText": "La boule de cristal montrait un avenir incertain, rempli de défis inattendus, mais aussi de grandes opportunités pour ceux qui osaient les saisir.",
+  "question": "Que montrait la boule de cristal ?",
+  "questionType": "comprehension",
+  "options": [
+    "Un avenir incertain",
+    "Un passé glorieux",
+    "Un présent ennuyeux",
+    "Une image floue"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La boule de cristal montrait un avenir incertain</em>' - The crystal ball showed an uncertain future. 'Montrait' is the third person singular imperfect tense of 'montrer' (to show). This question addresses the under-represented topic of 'prediction'.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "future",
+    "prediction",
+    "mystery"
+  ],
+  "timeCreated": 1720816800
+}

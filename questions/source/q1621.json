@@ -1,0 +1,18 @@
+{
+    "id": 1621,
+    "audioText": "Il blessait son épaule faible au camp d'entraînement militaire chaque matin",
+    "question": "Il blessait son ______ faible au camp d'entraînement militaire chaque matin.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "épaule",
+        "jambe",
+        "bras",
+        "genou"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is '<em>épaule</em>' (shoulder). The complete sentence is '<em>Il blessait son épaule faible au camp d'entraînement militaire chaque matin</em>' - He would hurt his weak shoulder at the military training camp every morning. This combines 'épaule' (shoulder), 'faible' (weak), and 'camp' (camp).",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting: épaule + camp + adjectives",
+    "tags": ["military", "health", "training"],
+    "timeCreated": 1720813100
+}

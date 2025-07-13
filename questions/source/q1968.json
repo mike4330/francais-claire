@@ -1,28 +1,22 @@
 {
   "id": 1968,
-  "audioText": "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "Cette nomination prestigieuse porte son nom aux quatre coins du monde académique et transforme le corps professoral de l'université tout entière.",
+  "question": "What impact did the prestigious nomination have?",
+  "questionType": "comprehension",
   "options": [
-    "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
-    "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaires invasives des géants du numérique.",
-    "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fous réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnels des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique.",
-    "La France renforce sa souveraineté numérique en imposant de nouveaux garde-fou réglementaires aux plateformes technologiques américaines. Cette stratégie s'inscrit dans une démarche plus large de protection des données personnelles des citoyens européens face aux algorithmes de recommandation et aux pratiques de ciblage publicitaire invasives des géants du numérique."
+    "It spread his name throughout the academic world and transformed the entire university faculty",
+    "It increased the university's research funding significantly",
+    "It attracted more international students to the institution",
+    "It established new partnerships with foreign universities"
   ],
   "correct": 0,
-  "explanation": "The correct option maintains all proper agreements: 'garde-fous' (plural compound noun), 'personnelles' (feminine plural with 'données'), and 'publicitaire' (singular adjective modifying 'ciblage'), not 'publicitaires' (plural). This listening exercise tests the most sophisticated vocabulary and grammatical structures in formal policy discourse.",
-  "difficulty": "C2",
-  "source": "French Digital Policy",
+  "explanation": "The text states '<em>Cette nomination prestigieuse porte son nom aux quatre coins du monde académique et transforme le corps professoral de l'université tout entière</em>' - This prestigious nomination carries his name to the four corners of the academic world and transforms the entire university faculty. This targets 'nom' and 'corps' in an academic excellence context.",
+  "difficulty": "C1",
+  "source": "Strategic noun targeting: nom, corps",
   "tags": [
-    "digital-sovereignty",
-    "technology",
-    "regulation",
-    "data-protection",
-    "policy",
-    "european-union",
-    "algorithms",
-    "privacy"
+    "education",
+    "academia",
+    "prestige"
   ],
-  "parentQuestion": 1950,
-  "timeCreated": 1720826940
+  "timeCreated": 1720617060
 }

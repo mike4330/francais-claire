@@ -1,0 +1,18 @@
+{
+    "id": 1620,
+    "audioText": "Cette dame curieuse qui portait une robe verte travaille dans cette compagnie",
+    "question": "What do we know about the woman?",
+    "questionType": "comprehension",
+    "options": [
+        "She is curious and works for the company",
+        "She is tired and looking for work",
+        "She is angry and leaving the company",
+        "She is young and starting tomorrow"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'She is curious and works for the company'. The text states '<em>Cette dame curieuse qui portait une robe verte travaille dans cette compagnie</em>' - This curious lady who was wearing a green dress works in this company. The sentence combines 'dame' (lady), 'curieuse' (curious), 'verte' (green), and 'compagnie' (company).",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting: dame + adjectives + compagnie",
+    "tags": ["workplace", "description", "business"],
+    "timeCreated": 1720813000
+}

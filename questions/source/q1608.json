@@ -1,0 +1,22 @@
+{
+  "id": 1608,
+  "audioText": "Chaque matin, tu buvais un grand verre de jus d'orange frais, mais aujourd'hui tu as préféré un café noir.",
+  "question": "Quelle boisson buvais-tu chaque matin ?",
+  "questionType": "comprehension",
+  "options": [
+    "Un grand verre de jus d'orange frais",
+    "Un café noir",
+    "Un thé à la menthe",
+    "Un chocolat chaud"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Chaque matin, tu buvais un grand verre de jus d'orange frais</em>' - Every morning, you used to drink a large glass of fresh orange juice. 'Buvais' is the second person singular imperfect tense of 'boire' (to drink). This question addresses the under-represented 'beverages' topic.",
+  "difficulty": "A2",
+  "source": "Gemini CLI",
+  "tags": [
+    "food",
+    "beverages",
+    "daily-routine"
+  ],
+  "timeCreated": 1720815600
+}

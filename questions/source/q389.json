@@ -1,0 +1,19 @@
+{
+    "id": 389,
+    "audioText": "Le jeune homme nettoie relativement sa chambre sale.",
+    "question": "What does the speaker say about how the young man cleans his dirty room?",
+    "questionType": "listening",
+    "options": [
+        "Relatively",
+        "Perfectly",
+        "Quickly",
+        "Carefully"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le jeune homme nettoie relativement sa chambre sale.</em>' - The young man cleans his dirty room relatively. The adjective 'jeune' means young, 'sale' means dirty, and 'relativement' means relatively or to some degree. The distractors test misinterpretation of the adverb (perfectly, quickly, carefully).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["daily-life", "cleanliness", "young-people"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 288
+}

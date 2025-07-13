@@ -1,0 +1,15 @@
+{
+    "id": 1626,
+    "audioText": "Cette dent infectée affecte le goût des aliments pendant le repas",
+    "question": "Cette dent infectée affecte le ______ des aliments pendant le repas.",
+    "questionType": "writing",
+    "options": [],
+    "correct": 0,
+    "correctAnswer": "goût",
+    "acceptedAnswers": ["goût", "Goût"],
+    "explanation": "The correct answer is '<em>goût</em>' (taste). The complete sentence is '<em>Cette dent infectée affecte le goût des aliments pendant le repas</em>' - This infected tooth affects the taste of food during the meal. This targets both 'dent' and 'goût' in a health context.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary: dent + goût + health",
+    "tags": ["health", "food", "medical"],
+    "timeCreated": 1720814800
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1618,
+  "audioText": "Si tu continues à cuisiner de la sorte, je te jure que je ne répondrai plus de mes actes et je t'aiderai sans hésitation. C'est une promesse sérieuse.",
+  "question": "What does the speaker promise to do if the other person continues cooking like that?",
+  "questionType": "listening",
+  "options": [
+    "Leave the kitchen",
+    "Call a restaurant",
+    "Help the other person",
+    "Start cooking alone"
+  ],
+  "correct": 2,
+  "explanation": "The text states '<em>Si tu continues à cuisiner de la sorte, je te jure que je ne répondrai plus de mes actes et je t'aiderai sans hésitation.</em>' - If you continue cooking like that, I swear I won't be responsible for my actions and I'll help you without hesitation. The phrase 'je t'aiderai' means 'I will help you'. The distractors test misinterpretation of the speaker's reaction (leave the kitchen, call a restaurant, start cooking alone).",
+  "difficulty": "B2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": ["cooking", "friendship", "collaboration"],
+  "timeCreated": 1720800000,
+  "parentQuestion": 754
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1589,
+    "audioText": "Le photographe capturait parfaitement chaque image précieuse du mariage pour préserver ces souvenirs merveilleux à vie.",
+    "question": "What did the photographer capture perfectly to preserve these wonderful memories for life?",
+    "questionType": "comprehension",
+    "options": [
+        "Each precious image of the wedding",
+        "Candid moments between family members naturally",
+        "Artistic compositions with perfect lighting effects",
+        "Emotional expressions during important ceremony moments"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le photographe capturait parfaitement chaque image précieuse du mariage pour préserver ces souvenirs merveilleux à vie.</em>' - The photographer captured each precious image of the wedding perfectly to preserve these wonderful memories for life. 'Image' means image/picture, 'capturait' means was capturing, and 'parfaitement' means perfectly.",
+    "difficulty": "B1",
+    "source": "Strategic noun coverage development - wedding photography",
+    "tags": ["photography", "wedding", "memories"],
+    "timeCreated": 1720831540
+}

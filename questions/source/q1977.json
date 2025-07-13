@@ -1,25 +1,22 @@
 {
   "id": 1977,
-  "audioText": "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "L'architecture conceptuelle de ce dispositif intègre un compte algorithmique sophistiqué qui anticipe les fluctuations du vent météorologique et ajuste automatiquement la posture du pied robotique selon des paramètres biomimétiques avancés.",
+  "question": "What does the sophisticated algorithmic system anticipate and adjust?",
+  "questionType": "comprehension",
   "options": [
-    "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
-    "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministère. Ce 'flicage' est cependant justifié par une raison sous-jacente.",
-    "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacents.",
-    "Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifiée par une raison sous-jacente."
+    "Meteorological wind fluctuations and automatically adjusts robotic foot posture using advanced biomimetic parameters",
+    "Thermal variations and modifies structural components based on material science principles",
+    "Electromagnetic interference and calibrates sensor arrays through machine learning protocols",
+    "Gravitational anomalies and compensates mechanical systems via quantum computational methods"
   ],
   "correct": 0,
-  "explanation": "The correct option is '<em>Des employés s'insurgent contre un 'management toxique' suite à la réclamation d'une pointeuse biométrique par le ministre. Ce 'flicage' est cependant justifié par une raison sous-jacente.</em>' - Employees are protesting against 'toxic management' following the minister's demand for a biometric time clock. This 'surveillance' is however justified by an underlying reason. This listening exercise tests subtle distinctions: 'ministre' vs 'ministère', 'sous-jacente' vs 'sous-jacents', and 'justifié' vs 'justifiée'.",
+  "explanation": "The text states '<em>L'architecture conceptuelle de ce dispositif intègre un compte algorithmique sophistiqué qui anticipe les fluctuations du vent météorologique et ajuste automatiquement la posture du pied robotique selon des paramètres biomimétiques avancés</em>' - The conceptual architecture of this device integrates a sophisticated algorithmic account that anticipates meteorological wind fluctuations and automatically adjusts the robotic foot posture according to advanced biomimetic parameters. This targets 'compte', 'vent', and 'pied' in an advanced robotics context.",
   "difficulty": "C2",
-  "source": "French Media (Generalized)",
+  "source": "Strategic noun targeting: compte, vent, pied",
   "tags": [
-    "workplace",
-    "management",
-    "labor-relations",
-    "surveillance",
-    "protest"
+    "robotics",
+    "biomimetics",
+    "advanced-technology"
   ],
-  "parentQuestion": 1686,
-  "timeCreated": 1752110580
+  "timeCreated": 1720618040
 }

@@ -1,0 +1,15 @@
+{
+    "id": 1631,
+    "audioText": "Tu sers toujours ce goût pur à tes invités dans cette compagnie",
+    "question": "Tu ______ toujours ce goût pur à tes invités dans cette compagnie.",
+    "questionType": "writing",
+    "options": [],
+    "correct": 0,
+    "correctAnswer": "sers",
+    "acceptedAnswers": ["sers", "Sers"],
+    "explanation": "The correct answer is '<em>sers</em>' (serve). The complete sentence is '<em>Tu sers toujours ce goût pur à tes invités dans cette compagnie</em>' - You always serve this pure taste to your guests in this company. This is the second person singular present tense of 'servir'.",
+    "difficulty": "A2",
+    "source": "Strategic conjugate targeting: sers + goût + pur + compagnie",
+    "tags": ["business", "hospitality", "workplace"],
+    "timeCreated": 1720817300
+}
