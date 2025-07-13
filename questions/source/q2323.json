@@ -1,0 +1,22 @@
+{
+  "id": 2323,
+  "audioText": "Si tu arrives en retard au travail, tu seras forcément réprimandé par ton chef de service.",
+  "question": "Si tu arrives en retard au travail, tu seras ______ réprimandé par ton chef de service.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "forcément",
+    "probablement",
+    "rarement",
+    "jamais"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'forcément' meaning 'necessarily' or 'inevitably'. If you arrive late to work, you will necessarily be reprimanded by your supervisor. 'Forcément' expresses certainty about the consequence.",
+  "difficulty": "C1",
+  "source": "Workplace consequences",
+  "tags": [
+    "workplace",
+    "punctuality",
+    "consequences"
+  ],
+  "timeCreated": 1720077400
+}

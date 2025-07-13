@@ -1,0 +1,23 @@
+{
+  "id": 2326,
+  "audioText": "Même si ce vieil ordinateur est lent, j'essaierai de récupérer les fichiers importants avant de le remplacer. Ma détermination est grande.",
+  "question": "Même si ce ______ ordinateur est lent, j'______ de récupérer les fichiers.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "vieux / essaieras",
+    "vieil / essaierai",
+    "vieille / essaiera",
+    "vieils / essayeront"
+  ],
+  "correct": 1,
+  "explanation": "'Vieil' is the form of the adjective 'vieux' used before a masculine noun starting with a vowel or silent h ('ordinateur'). 'Essaierai' is the first-person singular of the futur simple of 'essayer'.",
+  "difficulty": "C1",
+  "source": "Gemini CLI",
+  "tags": [
+    "determination",
+    "technology",
+    "computers",
+    "workplace"
+  ],
+  "timeCreated": 1720181356
+}

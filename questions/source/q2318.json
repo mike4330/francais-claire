@@ -1,0 +1,22 @@
+{
+  "id": 2318,
+  "audioText": "Cet investisseur expérimenté retrouvera certainement ses finances perdues grâce à cette stratégie innovante de gestion patrimoniale.",
+  "question": "Cet investisseur expérimenté ______ certainement ses finances perdues grâce à cette stratégie innovante de gestion patrimoniale.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "retrouvera",
+    "retrouve",
+    "retrouvait",
+    "retrouverait"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'retrouvera'. The text states '<em>Cet investisseur expérimenté retrouvera certainement ses finances perdues grâce à cette stratégie innovante de gestion patrimoniale</em>' - This experienced investor will certainly recover his lost finances thanks to this innovative wealth management strategy. 'Retrouvera' is the future tense expressing confident prediction.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - retrouvera + finances + investment",
+  "tags": [
+    "finances",
+    "investment",
+    "strategy"
+  ],
+  "timeCreated": 1736803060
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2291,
+  "audioText": "L'analyse minutieuse de ce truc sophistiqué révèle que tenir compte des moindres variations du vent atmosphérique s'avère crucial pour la précision des calculs aérodynamiques.",
+  "question": "What proves crucial for aerodynamic calculation precision?",
+  "questionType": "comprehension",
+  "options": [
+    "Taking into account the slightest variations in atmospheric wind",
+    "Incorporating advanced computational modeling techniques",
+    "Utilizing high-resolution measurement instruments",
+    "Employing interdisciplinary collaborative approaches"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'analyse minutieuse de ce truc sophistiqué révèle que tenir compte des moindres variations du vent atmosphérique s'avère crucial pour la précision des calculs aérodynamiques</em>' - The detailed analysis of this sophisticated device reveals that taking into account the slightest variations in atmospheric wind proves crucial for aerodynamic calculation precision. This targets 'truc', 'compte', and 'vent' in an engineering context.",
+  "difficulty": "C1",
+  "source": "Strategic noun targeting: truc, compte, vent",
+  "tags": [
+    "engineering",
+    "aerodynamics",
+    "precision"
+  ],
+  "timeCreated": 1720617980
+}

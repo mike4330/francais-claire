@@ -1,0 +1,22 @@
+{
+  "id": 2315,
+  "audioText": "Ce scientifique avait rappelé l'importance cruciale de la biodiversité lors de la conférence internationale sur l'environnement.",
+  "question": "Ce scientifique avait ______ l'importance cruciale de la biodiversité lors de la conférence internationale sur l'environnement.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rappelé",
+    "rappelle",
+    "rappelait",
+    "rappellera"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'rappelé'. The text states '<em>Ce scientifique avait rappelé l'importance cruciale de la biodiversité lors de la conférence internationale sur l'environnement</em>' - This scientist had reminded about the crucial importance of biodiversity during the international environmental conference. 'Rappelé' is the past participle used with 'avait' in the plus-que-parfait.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - rappelé + environment + science",
+  "tags": [
+    "environment",
+    "science",
+    "biodiversity"
+  ],
+  "timeCreated": 1736802220
+}

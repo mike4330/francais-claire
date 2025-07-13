@@ -1,0 +1,23 @@
+{
+  "id": 2334,
+  "audioText": "Le chef trouvera sûrement une solution créative pour ce défi culinaire complexe.",
+  "question": "Le chef ______ sûrement une solution créative pour ce défi culinaire complexe.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "trouvera",
+    "cherchera",
+    "inventera",
+    "découvrira"
+  ],
+  "correct": 0,
+  "explanation": "The missing word is 'trouvera'. The complete sentence is 'Le chef trouvera sûrement une solution créative pour ce défi culinaire complexe' - The chef will surely find a creative solution for this complex culinary challenge. 'Trouvera' is the future form of 'trouver' (to find), third person singular.",
+  "difficulty": "C1",
+  "source": "Professional cuisine and culinary challenges",
+  "tags": [
+    "cuisine",
+    "culinary-challenges",
+    "professional-cooking",
+    "creativity"
+  ],
+  "timeCreated": 1735952700
+}

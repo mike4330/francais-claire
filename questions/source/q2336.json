@@ -1,0 +1,23 @@
+{
+  "id": 2336,
+  "audioText": "Les rapports ont été soigneusement suivis et analysés par notre équipe d'experts financiers.",
+  "question": "Les rapports ont été soigneusement ______ et analysés par notre équipe d'experts financiers.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "suivis",
+    "étudiés",
+    "préparés",
+    "rédigés"
+  ],
+  "correct": 0,
+  "explanation": "The missing word is 'suivis'. The complete sentence is 'Les rapports ont été soigneusement suivis et analysés par notre équipe d'experts financiers' - The reports were carefully followed and analyzed by our team of financial experts. 'Suivis' is the past participle of 'suivre' (to follow), used here in the passive voice.",
+  "difficulty": "C1",
+  "source": "Financial report analysis and monitoring",
+  "tags": [
+    "finance",
+    "reports",
+    "analysis",
+    "monitoring"
+  ],
+  "timeCreated": 1735949460
+}
