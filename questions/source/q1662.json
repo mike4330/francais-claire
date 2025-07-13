@@ -1,0 +1,18 @@
+{
+  "id": 1662,
+  "audioText": "Vous paierez cette formation spécialisée après avoir appris les techniques avancées.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Vous paierez cette formation spécialisée après avoir appris les techniques avancées.",
+    "Vous payerez cette formation spécialisée après avoir appris les techniques avancées.",
+    "Vous paierez cette formation spécialisée après avoir appris les méthodes avancées.",
+    "Vous paierez cette formation spécialisée avant avoir appris les techniques avancées."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous paierez cette formation spécialisée après avoir appris les techniques avancées</em>' - You will pay for this specialized training after learning advanced techniques. This tests precise listening of 'paierez' vs 'payerez', 'techniques' vs 'méthodes', and 'après' vs 'avant'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - paierez + apprendre synergy + education",
+  "tags": ["education", "training", "professional-development"],
+  "timeCreated": 1736802460
+}

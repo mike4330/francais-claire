@@ -1,0 +1,23 @@
+{
+  "id": 2116,
+  "audioText": "L'artisanat rural révèle cette vérité : l'instant de plaisir naît du feu créateur. Face aux guerres modernes, l'envie de créer transforme le regard de l'artisan. Cette opinion sociale valorise le travail manuel authentique.",
+  "question": "What transforms the artisan's gaze according to the text?",
+  "questionType": "comprehension",
+  "options": [
+    "The fear of modern competition and technology",
+    "The desire to create in response to modern wars",
+    "The pressure from social media and marketing",
+    "The need to produce faster and cheaper goods"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>L'artisanat rural révèle cette vérité : l'instant de plaisir naît du feu créateur. Face aux guerres modernes, l'envie de créer transforme le regard de l'artisan. Cette opinion sociale valorise le travail manuel authentique.</em>' - 'Rural crafting reveals this truth: the moment of pleasure is born from creative fire. Facing modern wars, the desire to create transforms the artisan's gaze. This social opinion values authentic manual work.' The text clearly states that 'l'envie de créer' (the desire to create) transforms the artisan's gaze in response to modern wars.",
+  "difficulty": "C1",
+  "source": "Strategic noun-tag intersection",
+  "tags": [
+    "crafting",
+    "rural-life",
+    "social-opinion",
+    "creativity"
+  ],
+  "timeCreated": 1720713600
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2094,
+  "audioText": "Il faut que tu puisses comprendre cette situation complexe avant de décider.",
+  "question": "What does the speaker think is necessary?",
+  "questionType": "comprehension",
+  "options": [
+    "That you be able to understand this complex situation before deciding.",
+    "That you should understand this simple situation before deciding.",
+    "That you could understand this situation after deciding.",
+    "That you want to understand this situation before deciding."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'puisses' - the subjunctive form of 'pouvoir' (to be able to/can). 'Il faut que tu puisses' means 'it is necessary that you be able to'. The subjunctive is required after 'il faut que'.",
+  "difficulty": "C1",
+  "source": "Formal discussion requiring subjunctive mood",
+  "tags": [
+    "formal-discussion",
+    "decision-making",
+    "necessity"
+  ],
+  "timeCreated": 1720108800
+}

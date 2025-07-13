@@ -1,0 +1,19 @@
+{
+  "id": 1690,
+  "audioText": "Peut-être qu'il pleuvra demain, je ne suis pas sûr.",
+  "question": "What does the speaker say they are unsure about?",
+  "questionType": "listening",
+  "options": [
+    "If it will be sunny",
+    "If it will rain tomorrow",
+    "If he will be late",
+    "If the store is open"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Peut-être qu'il pleuvra demain, je ne suis pas sûr.</em>' - Maybe it will rain tomorrow, I'm not sure. The adverb 'peut-être' means 'perhaps' or 'maybe'. The distractors test misinterpretation of the weather (sunny), or other unrelated uncertainties (late, store open).",
+  "difficulty": "B1",
+  "source": "Gemini CLI - Listening practice",
+  "tags": ["weather", "daily-life", "planning"],
+  "timeCreated": 1720800000,
+  "parentQuestion": 731
+}

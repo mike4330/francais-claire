@@ -1,0 +1,18 @@
+{
+  "id": 1683,
+  "audioText": "Alternativement, nous montons et descendons les escaliers grossièrement pour faire des mouvements physiques corporate.",
+  "question": "What do we do alternately on the stairs?",
+  "questionType": "comprehension",
+  "options": [
+    "Go up and down roughly for corporate physical movements",
+    "Clean and maintain them according to building regulations",
+    "Count steps while measuring fitness progress systematically",
+    "Practice safety procedures during emergency evacuation drills"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Alternativement, nous montons et descendons les escaliers grossièrement pour faire des mouvements physiques corporate</em>' - Alternately, we go up and down the stairs roughly to do corporate physical movements. This combines 'alternativement', 'montons', 'grossièrement', 'mouvements', and 'corporate'.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - alternativement + montons + grossièrement + mouvements + corporate synergy + workplace fitness",
+  "tags": ["corporate", "workplace-fitness", "physical-activity"],
+  "timeCreated": 1736804880
+}

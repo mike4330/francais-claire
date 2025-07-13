@@ -1,0 +1,22 @@
+{
+  "id": 486,
+  "audioText": "Le sage soldat continuera son histoire digne demain pendant notre rendez-vous.",
+  "question": "Le ______ soldat continuera son histoire digne demain pendant notre rendez-vous.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "sage",
+    "jeune",
+    "grand",
+    "fort"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le sage soldat continuera son histoire digne demain pendant notre rendez-vous</em>' - The wise soldier will continue his worthy story tomorrow during our appointment. This combines 'sage', 'soldat', 'continuera', 'digne', and 'rendez-vous' in natural conversation.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - sage + soldat + continuera + digne + rendez-vous conversational context",
+  "tags": [
+    "military",
+    "appointment",
+    "stories"
+  ],
+  "timeCreated": 1736806920
+}

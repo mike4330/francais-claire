@@ -1,0 +1,18 @@
+{
+  "id": 1659,
+  "audioText": "Tu achètes trop de vêtements inutiles pendant les soldes d'été.",
+  "question": "Tu ______ trop de vêtements inutiles pendant les soldes d'été.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "achètes",
+    "achète",
+    "achetez", 
+    "achètent"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'achètes'. The text states '<em>Tu achètes trop de vêtements inutiles pendant les soldes d'été</em>' - You buy too many useless clothes during summer sales. 'Achètes' is the second person singular present of 'acheter' (to buy).",
+  "difficulty": "B1",
+  "source": "Strategic targeting - achètes + shopping + summer sales",
+  "tags": ["shopping", "clothing", "seasonal"],
+  "timeCreated": 1736802100
+}

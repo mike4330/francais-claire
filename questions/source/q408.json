@@ -1,0 +1,19 @@
+{
+  "id": 408,
+  "audioText": "Tenez, voici votre café et un croissant.",
+  "question": "What does the speaker say they are giving?",
+  "questionType": "listening",
+  "options": [
+    "A book and a pen",
+    "Your coffee and a croissant",
+    "A glass of water",
+    "The bill"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Tenez, voici votre café et un croissant.</em>' - Here, take this, here is your coffee and a croissant. The word 'Tenez' is a formal way of saying 'Here, take this' or 'Here you go'. The distractors test misinterpretation of the items given (book and pen, glass of water, the bill).",
+  "difficulty": "A2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": ["bakery", "cafe", "daily-life"],
+  "timeCreated": 1720800000,
+  "parentQuestion": 226
+}

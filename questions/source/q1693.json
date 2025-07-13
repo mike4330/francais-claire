@@ -1,0 +1,19 @@
+{
+  "id": 1693,
+  "audioText": "Le pape confirme le célibat sacerdotal. Comment le pape Léon XIV entend relever le défi de la crise des vocations chez les jeunes catholiques",
+  "question": "What does the speaker say Pope Leo XIV is addressing?",
+  "questionType": "listening",
+  "options": [
+    "The challenge of modernizing Catholic liturgy",
+    "The crisis of religious vocations among young Catholics",
+    "The problem of declining church attendance",
+    "The issue of financial difficulties in parishes"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Comment le pape Léon XIV entend relever le défi de la crise des vocations chez les jeunes catholiques</em>' - How Pope Leo XIV intends to meet the challenge of the vocations crisis among young Catholics. The distractors test misinterpretation of the challenge (modernizing liturgy, declining church attendance, financial difficulties).",
+  "difficulty": "B2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": ["religion", "catholic-church", "pope", "vocations", "youth"],
+  "timeCreated": 1720800000,
+  "parentQuestion": 1090
+}

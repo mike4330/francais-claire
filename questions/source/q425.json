@@ -1,0 +1,18 @@
+{
+  "id": 425,
+  "audioText": "Il faut que tu boive cette eau pure avec tes amis gardés dans le jardin.",
+  "question": "Il faut que tu ______ cette eau pure avec tes amis gardés dans le jardin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "boives",
+    "boive",
+    "bois",
+    "buvez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut que tu boives cette eau pure avec tes amis gardés dans le jardin</em>' - You must drink this pure water with your friends kept in the garden. 'Boives' is the present subjunctive second person singular of 'boire' (to drink), used after 'il faut que tu'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - boive + gardés synergy + garden gathering",
+  "tags": ["garden", "friendship", "hydration"],
+  "timeCreated": 1736805600
+}

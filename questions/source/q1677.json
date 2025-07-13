@@ -1,0 +1,19 @@
+{
+    "id": 1677,
+    "audioText": "Les acteurs travaillaient dur sur cette scène difficile pour maintenir la qualité artistique exceptionnelle du spectacle.",
+    "question": "What does the speaker say about why the actors were working hard on this difficult scene?",
+    "questionType": "listening",
+    "options": [
+        "To maintain the exceptional artistic quality of the show",
+        "To impress the theater critics who were reviewing tonight",
+        "To finish rehearsals before the deadline next week",
+        "To prepare for the auditions with the famous director"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les acteurs travaillaient dur sur cette scène difficile pour maintenir la qualité artistique exceptionnelle du spectacle</em>' - The actors were working hard on this difficult scene to maintain the exceptional artistic quality of the show. 'Travaillaient' is the imperfect form of 'travailler' (to work), 'scène' means 'scene', and 'qualité' means 'quality'. The distractors test misinterpretation of the reason (to impress critics, to finish rehearsals, to prepare for auditions).",
+    "difficulty": "B2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["quality", "theater", "performance"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 1429
+}

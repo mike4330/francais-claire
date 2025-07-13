@@ -1,0 +1,15 @@
+{
+  "id": 1649,
+  "audioText": "Il sers ce plat délicieux sous l'arbre du jardin pour apprécier la beauté naturelle.",
+  "question": "Il ______ ce plat délicieux sous l'arbre du jardin pour apprécier la beauté naturelle.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "sert",
+  "acceptedAnswers": ["sert", "Sert"],
+  "explanation": "The correct answer is 'sert'. The text states '<em>Il sert ce plat délicieux sous l'arbre du jardin pour apprécier la beauté naturelle</em>' - He serves this delicious dish under the garden tree to appreciate natural beauty. 'Sert' is the third person singular present of 'servir' (to serve).",
+  "difficulty": "B1",
+  "source": "Strategic targeting - sert conjugate + arbre + beauté",
+  "tags": ["food", "garden", "nature"],
+  "timeCreated": 1736801260
+}

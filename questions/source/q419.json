@@ -1,0 +1,18 @@
+{
+  "id": 419,
+  "audioText": "Voire quotidiennement, mon frère montes au grenier chercher des exemples pour ses devoirs.",
+  "question": "How often does the brother go to the attic?",
+  "questionType": "comprehension",
+  "options": [
+    "Even daily, to look for examples for his homework",
+    "Only on weekends when he has free time available",
+    "Twice a week during his study sessions",
+    "Once a month to organize his school materials"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Voire quotidiennement, mon frère monte au grenier chercher des exemples pour ses devoirs</em>' - Even daily, my brother goes up to the attic to look for examples for his homework. This combines 'voire', 'quotidiennement', 'montes', and 'exemples'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - voire + quotidiennement + montes + exemples synergy + study habits",
+  "tags": ["study-habits", "family", "daily-routine"],
+  "timeCreated": 1736804820
+}

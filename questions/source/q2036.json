@@ -1,0 +1,23 @@
+{
+  "id": 2036,
+  "audioText": "Cette analyse révèle des contradictions internes majeures, voire des incohérences fondamentales qui remettent en question l'intégrité méthodologique de l'ensemble de la recherche scientifique.",
+  "question": "What does the analysis reveal about the research?",
+  "questionType": "comprehension",
+  "options": [
+    "Major internal contradictions and even fundamental inconsistencies",
+    "Perfect methodological coherence throughout",
+    "Minor technical errors easily correctable",
+    "Excellent scientific rigor and reliability"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette analyse révèle des contradictions internes majeures, voire des incohérences fondamentales qui remettent en question l'intégrité méthodologique</em>' - This analysis reveals major internal contradictions, even fundamental inconsistencies that call into question the methodological integrity. 'Voire' means even/indeed, emphasizing that the problems are severe.",
+  "difficulty": "C1",
+  "source": "Scientific research methodology and integrity assessment",
+  "tags": [
+    "science",
+    "research",
+    "methodology",
+    "analysis"
+  ],
+  "timeCreated": 1751812920
+}

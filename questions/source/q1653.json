@@ -1,0 +1,18 @@
+{
+  "id": 1653,
+  "audioText": "Vous travaillerez ensemble pendant que nous écouterons vos propositions avec attention.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Vous travaillerez ensemble pendant que nous écouterons vos propositions avec attention.",
+    "Vous travaillez ensemble pendant que nous écouterons vos propositions avec attention.",
+    "Vous travaillerez ensemble pendant que nous écoutons vos propositions avec attention.",
+    "Vous travaillerez ensemble pendant que nous écouterons nos propositions avec attention."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous travaillerez ensemble pendant que nous écouterons vos propositions avec attention</em>' - You will work together while we listen to your proposals attentively. This tests precise listening of future tense 'travaillerez' vs present 'travaillez', 'écouterons' vs 'écoutons', and 'vos' vs 'nos'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - travaillerez + écouterons synergy",
+  "tags": ["workplace", "collaboration", "business"],
+  "timeCreated": 1736801620
+}

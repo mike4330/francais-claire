@@ -1,0 +1,18 @@
+{
+  "id": 420,
+  "audioText": "Hâtivement, tu quittera cette langue difficile pour un bel apprentissage.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Hâtivement, tu quittera cette langue difficile pour un bel apprentissage.",
+    "Hâtivement, tu quitteras cette langue difficile pour un bel apprentissage.",
+    "Rapidement, tu quittera cette langue difficile pour un bel apprentissage.",
+    "Hâtivement, tu quittera cette leçon difficile pour un bel apprentissage."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Hâtivement, tu quitteras cette langue difficile pour un bel apprentissage</em>' - Hastily, you will leave this difficult language for a beautiful learning experience. This tests precise listening of 'hâtivement', future tense, and 'bel'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - hâtivement + quittera + langue + bel synergy + language learning",
+  "tags": ["language-learning", "education", "decision-making"],
+  "timeCreated": 1736804840
+}

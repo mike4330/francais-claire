@@ -1,0 +1,19 @@
+{
+    "id": 416,
+    "audioText": "J'ai acheté un énorme gâteau pour la fête.",
+    "question": "What does the speaker say they bought for the party?",
+    "questionType": "listening",
+    "options": [
+        "An enormous cake",
+        "A small cake",
+        "An enormous gift",
+        "A small gift"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai acheté un énorme gâteau pour la fête</em>' - I bought an enormous cake for the party. 'Énorme' means 'enormous' or 'huge'. The distractors test misinterpretation of the size (small) or the item (gift).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["party", "food", "size"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 200
+}

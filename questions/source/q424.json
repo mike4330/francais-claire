@@ -1,0 +1,19 @@
+{
+    "id": 424,
+    "audioText": "Demain, je jouerai avec mes pieds et ils essayent de me suivre.",
+    "question": "What does the speaker say they will do tomorrow?",
+    "questionType": "listening",
+    "options": [
+        "Tomorrow",
+        "Today",
+        "Yesterday",
+        "Never"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Demain, je jouerai avec mes pieds et ils essayent de me suivre.</em>' - Tomorrow, I will play with my feet and they try to follow me. 'Demain' means tomorrow, indicating when the action will take place. The distractors test misinterpretation of the time (today, yesterday, never).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["future", "play", "movement", "following"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 311
+}

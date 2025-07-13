@@ -1,0 +1,22 @@
+{
+  "id": 2131,
+  "audioText": "Cette approche relativement simple transforme la reconnaissance professionnelle en valorisant purement les efforts authentiques des collaborateurs jeunes et expérimentés.",
+  "question": "How does this relatively simple approach transform professional recognition?",
+  "questionType": "comprehension",
+  "options": [
+    "By purely valuing authentic efforts of young and experienced collaborators",
+    "By implementing complex performance evaluation systems",
+    "By focusing exclusively on financial rewards",
+    "By eliminating traditional promotion structures"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette approche relativement simple transforme la reconnaissance professionnelle en valorisant purement les efforts authentiques des collaborateurs jeunes et expérimentés.</em>' - 'This relatively simple approach transforms professional recognition by purely valuing authentic efforts of young and experienced collaborators.' The adjective 'jeune' means young, 'relativement' means relatively, and 'purement' means purely.",
+  "difficulty": "C1",
+  "source": "Strategic adjective targeting",
+  "tags": [
+    "recognition",
+    "simplicity",
+    "workplace"
+  ],
+  "timeCreated": 1720714200
+}

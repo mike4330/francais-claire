@@ -1,0 +1,15 @@
+{
+  "id": 1682,
+  "audioText": "Furtivement, les docteurs retrouvez des documents dans leurs dents pour améliorer le well-being des patients.",
+  "question": "Furtivement, les docteurs ______ des documents dans leurs dents pour améliorer le well-being des patients.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "retrouvent",
+  "acceptedAnswers": ["retrouvent", "Retrouvent"],
+  "explanation": "The text states '<em>Furtivement, les docteurs retrouvent des documents dans leurs dents pour améliorer le well-being des patients</em>' - Furtively, the doctors find documents in their teeth to improve patients' well-being. 'Retrouvent' is the third person plural form of 'retrouver'.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - furtivement + retrouvez + dents + well-being synergy + medical care",
+  "tags": ["medical-care", "well-being", "doctors"],
+  "timeCreated": 1736804860
+}

@@ -1,0 +1,26 @@
+{
+  "id": 432,
+  "audioText": "La lune brille dans le ciel nocturne.",
+  "question": "What does the speaker say about the moon?",
+  "questionType": "listening",
+  "options": [
+    "The moon shines in the night sky",
+    "The moon is hiding behind clouds",
+    "The moon is very far from Earth",
+    "The moon appears during the day"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La lune brille dans le ciel nocturne.</em>' - The moon shines in the night sky. This introduces basic astronomy vocabulary: 'lune' (moon), 'brille' (shines), 'ciel' (sky), and 'nocturne' (night/nighttime). The distractors test misinterpretation of the moon's state or appearance (hiding behind clouds, very far from Earth, appears during the day).",
+  "difficulty": "A2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "astronomy",
+    "space",
+    "moon",
+    "night",
+    "sky",
+    "science"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 102
+}

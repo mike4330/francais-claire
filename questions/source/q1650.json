@@ -1,0 +1,18 @@
+{
+  "id": 1650,
+  "audioText": "Portez cette arme avec précaution car son goût pour la violence inquiète.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Portez cette arme avec précaution car son goût pour la violence inquiète.",
+    "Portez cette arme avec précision car son goût pour la violence inquiète.",
+    "Portez cette arme avec précaution car son goût pour la vengeance inquiète.",
+    "Portez cette arme avec précaution car son coût pour la violence inquiète."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Portez cette arme avec précaution car son goût pour la violence inquiète</em>' - Carry this weapon with caution because his taste for violence is worrying. This tests precise listening of 'précaution' vs 'précision', 'goût' vs 'coût', and 'violence' vs 'vengeance'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - portez conjugate + arme + goût",
+  "tags": ["military", "safety", "violence"],
+  "timeCreated": 1736801320
+}

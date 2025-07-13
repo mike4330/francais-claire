@@ -1,0 +1,18 @@
+{
+  "id": 426,
+  "audioText": "Miraculeusement, vous espériez retrouver ces documents gardés au-dedans de la belle boîte.",
+  "question": "What did you miraculously hope to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Find documents kept inside the beautiful box",
+    "Organize papers stored outside the container safely",
+    "Discover treasures hidden beneath the wooden floor",
+    "Locate keys placed behind the glass cabinet door"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Miraculeusement, vous espériez retrouver ces documents gardés au-dedans de la belle boîte</em>' - Miraculously, you hoped to find these documents kept inside the beautiful box. This combines 'miraculeusement', 'espériez', 'retrouver', 'gardés', and 'au-dedans'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - espériez + retrouver + gardés + miraculeusement + au-dedans synergy + document search",
+  "tags": ["document-search", "hope", "storage"],
+  "timeCreated": 1736805620
+}

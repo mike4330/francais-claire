@@ -1,0 +1,19 @@
+{
+    "id": 407,
+    "audioText": "Tu as envoyé ce con faire ses courses quotidiennes au supermarché.",
+    "question": "What does the speaker say about who was sent to the supermarket?",
+    "questionType": "listening",
+    "options": [
+        "This idiot",
+        "Your helpful neighbor who volunteered earlier",
+        "The professional delivery service representative",
+        "Your responsible teenage child with proper guidance"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu as envoyé ce con faire ses courses quotidiennes au supermarché</em>' - You sent this idiot to do their daily errands at the supermarket. 'Envoyé' is the past participle of 'envoyer' (to send), 'con' is a colloquial term meaning 'idiot', and 'courses quotidiennes' means 'daily errands'. The distractors test misinterpretation of the person described (helpful neighbor, professional delivery service representative, responsible teenage child).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["daily-errands", "shopping", "coordination"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 376
+}

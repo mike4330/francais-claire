@@ -1,0 +1,23 @@
+{
+  "id": 2167,
+  "audioText": "Le docteur observe mentalement le patient qui timidement révèle que son dieu lui a parlé dans un jeu spirituel, sa bouche tremblante et ses yeux fixés sur le fond de la pièce.",
+  "question": "How does the doctor observe the patient?",
+  "questionType": "comprehension",
+  "options": [
+    "Mentally",
+    "Physically",
+    "Emotionally",
+    "Spiritually"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le docteur observe mentalement le patient qui timidement révèle que son dieu lui a parlé dans un jeu spirituel, sa bouche tremblante et ses yeux fixés sur le fond de la pièce.</em>' - The doctor observes mentally the patient who timidly reveals that his god spoke to him in a spiritual game, his mouth trembling and his eyes fixed on the back of the room. 'Mentalement' means mentally, describing how the doctor observes.",
+  "difficulty": "C1",
+  "source": "Strategic vocabulary targeting",
+  "tags": [
+    "medical",
+    "psychology",
+    "spirituality",
+    "observation"
+  ],
+  "timeCreated": 1720822400
+}

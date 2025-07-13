@@ -1,0 +1,22 @@
+{
+  "id": 446,
+  "audioText": "La petite fille a été sauvée par les pompiers.",
+  "question": "La petite fille a été ______ par les pompiers.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "sauvée",
+    "soignée",
+    "trouvée",
+    "aidée"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La petite fille a été sauvée par les pompiers</em>' - The little girl was saved by the firefighters. 'Sauvée' is the feminine past participle of 'sauver' (to save), agreeing with 'fille'.",
+  "difficulty": "A2",
+  "source": "Emergency rescue conversation",
+  "tags": [
+    "emergency",
+    "rescue",
+    "children"
+  ],
+  "timeCreated": 1736783400
+}

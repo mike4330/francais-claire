@@ -1,0 +1,18 @@
+{
+  "id": 1651,
+  "audioText": "Son goût pour les beaux arbres fruitiers transforme complètement ce jardin abandonné.",
+  "question": "What transforms this abandoned garden completely?", 
+  "questionType": "comprehension",
+  "options": [
+    "His taste for beautiful fruit trees",
+    "The seasonal weather changes",
+    "Professional landscape design",
+    "Expensive gardening equipment"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'His taste for beautiful fruit trees'. The text states '<em>Son goût pour les beaux arbres fruitiers transforme complètement ce jardin abandonné</em>' - His taste for beautiful fruit trees completely transforms this abandoned garden. 'Goût pour' means taste/preference for something.",
+  "difficulty": "B1", 
+  "source": "Strategic targeting - goût + arbre + beauté synergy",
+  "tags": ["garden", "transformation", "agriculture"],
+  "timeCreated": 1736801440
+}

@@ -1,0 +1,22 @@
+{
+  "id": 36,
+  "audioText": "Mon chéri, tu es sage aujourd'hui.",
+  "question": "What does the speaker call the person they're addressing?",
+  "questionType": "comprehension",
+  "options": [
+    "My dear/darling",
+    "My friend",
+    "My colleague",
+    "My neighbor"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon chéri, tu es sage aujourd'hui</em>' - My dear/darling, you are wise/well-behaved today. 'Chéri' is a term of endearment meaning dear/darling, and 'sage' means wise or well-behaved.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - chéri + sage + conversational family context",
+  "tags": [
+    "family",
+    "emotions",
+    "daily-life"
+  ],
+  "timeCreated": 1736806840
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1656,
+  "audioText": "Il a gagné ce prix prestigieux grâce à son travail acharné dans la recherche médicale.",
+  "question": "Il a ______ ce prix prestigieux grâce à son travail acharné dans la recherche médicale.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "gagné",
+    "gagne", 
+    "gagnait",
+    "gagnera"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'gagné'. The text states '<em>Il a gagné ce prix prestigieux grâce à son travail acharné dans la recherche médicale</em>' - He won this prestigious prize thanks to his hard work in medical research. 'Gagné' is the past participle used with auxiliary 'avoir' in the passé composé.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - gagné + medical research + awards",
+  "tags": ["awards", "medical-research", "achievement"],
+  "timeCreated": 1736801920
+}

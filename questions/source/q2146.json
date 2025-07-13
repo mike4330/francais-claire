@@ -1,0 +1,22 @@
+{
+  "id": 2146,
+  "audioText": "Le seigneur défendait obstinément l'honneur de sa famille contre les accusations passionnément exprimées par ses adversaires politiques.",
+  "question": "Le seigneur défendait obstinément l'______ de sa famille contre les accusations passionnément exprimées par ses adversaires politiques.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "honneur",
+    "honneurs",
+    "honore",
+    "honoré"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le seigneur défendait obstinément l'honneur de sa famille contre les accusations passionnément exprimées par ses adversaires politiques</em>' - The lord stubbornly defended his family's honor against accusations passionately expressed by his political adversaries. 'Honneur' (honor) is masculine singular after the definite article 'l''.",
+  "difficulty": "C1",
+  "source": "Strategic targeting: seigneur + honneur + obstinément + passionnément",
+  "tags": [
+    "politics",
+    "family",
+    "honor"
+  ],
+  "timeCreated": 1736627820
+}

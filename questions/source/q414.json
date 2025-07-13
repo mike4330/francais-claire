@@ -1,0 +1,19 @@
+{
+    "id": 414,
+    "audioText": "Mes cousins reviennent du mariage de leur sœur dimanche soir.",
+    "question": "What does the speaker say about their cousins?",
+    "questionType": "listening",
+    "options": [
+        "Sunday evening from their sister's wedding",
+        "Saturday morning from their cousin's wedding",
+        "Monday afternoon from their friend's wedding",
+        "Friday night from their brother's wedding"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mes cousins reviennent du mariage de leur sœur dimanche soir</em>' - My cousins are returning from their sister's wedding Sunday evening. 'Reviennent' is the third person plural form of 'revenir' (to return/come back). The distractors test misinterpretation of the day, time, or relationship (Saturday morning, Monday afternoon, Friday night).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["wedding", "family", "returning"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 236
+}

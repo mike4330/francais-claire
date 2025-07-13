@@ -1,0 +1,18 @@
+{
+  "id": 1660,
+  "audioText": "Tu te rappelles sûrement de notre conversation au téléphone hier soir.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Tu te rappelles sûrement de notre conversation au téléphone hier soir.",
+    "Tu te rappelles certainement de notre conversation au téléphone hier soir.",
+    "Tu me rappelles sûrement de notre conversation au téléphone hier soir.",
+    "Tu te rappelles sûrement de votre conversation au téléphone hier soir."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu te rappelles sûrement de notre conversation au téléphone hier soir</em>' - You surely remember our phone conversation last night. This tests precise listening of 'te rappelles' vs 'me rappelles', 'sûrement' vs 'certainement', and 'notre' vs 'votre'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - rappelles + communication + memory",
+  "tags": ["communication", "memory", "telephone"],
+  "timeCreated": 1736802160
+}

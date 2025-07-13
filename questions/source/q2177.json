@@ -1,0 +1,24 @@
+{
+  "id": 2177,
+  "type": "fill-in-the-blank",
+  "question": "Nous _______ le livre que tu nous as recommandé.",
+  "audioText": "Nous cherchons le livre que tu nous as recommandé.",
+  "answer": "cherchons",
+  "hint": "Present tense of 'chercher'",
+  "level": "c",
+  "tags": [
+    "reading",
+    "recommendation"
+  ],
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "cherchons",
+    "cherchez",
+    "cherchent",
+    "cherchais"
+  ],
+  "correct": 0,
+  "explanation": "'Cherchons' is the present tense of 'chercher' for 'nous'.",
+  "difficulty": "C1",
+  "source": "Gemini CLI"
+}

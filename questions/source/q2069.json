@@ -1,0 +1,18 @@
+{
+  "id": 2069,
+  "audioText": "Lorsque vous achèterai cette propriété exclusive, vous gagnez automatiquement l'accès aux services premium et vous gagnent également des points de fidélité.",
+  "question": "When you purchase this exclusive property, what do you gain?",
+  "questionType": "comprehension",
+  "options": [
+    "Automatic access to premium services and loyalty points",
+    "Immediate resale rights and investment portfolio inclusion",
+    "Priority booking for future developments and rental income",
+    "Exclusive membership benefits and property management services"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Lorsque vous achèterai cette propriété exclusive, vous gagnez automatiquement l'accès aux services premium et vous gagnent également des points de fidélité</em>' - When you purchase this exclusive property, you automatically gain access to premium services and you also gain loyalty points. This combines 'achèterai', 'gagnez', and 'gagnent' in a luxury real estate context.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - achèterai + gagnez + gagnent synergy + luxury real estate",
+  "tags": ["luxury-real-estate", "premium-services", "loyalty-programs"],
+  "timeCreated": 1736804480
+}

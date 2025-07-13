@@ -1,0 +1,22 @@
+{
+  "id": 2101,
+  "audioText": "Il faut que tu comprennes gaiement cette situation capable de transformer l'avenir.",
+  "question": "How should the transformative situation be understood?",
+  "questionType": "comprehension",
+  "options": [
+    "Joyfully, as it can change the future",
+    "Sadly, because it's hopeless",
+    "Seriously, with great concern",
+    "Carefully, to avoid mistakes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut que tu comprennes gaiement cette situation capable de transformer l'avenir</em>' - You must joyfully understand this situation capable of transforming the future. 'Comprenne' is the subjunctive form of 'comprendre' (to understand), and 'gaiement' means 'joyfully'.",
+  "difficulty": "C1",
+  "source": "Strategic conjugate + high-frequency adverb/adjective combination",
+  "tags": [
+    "future",
+    "understanding",
+    "transformation"
+  ],
+  "timeCreated": 1735992000
+}

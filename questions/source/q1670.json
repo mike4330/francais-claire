@@ -1,0 +1,18 @@
+{
+  "id": 1670,
+  "audioText": "Chaque vendredi, vous montez au bureau directeur et vous quittez seulement après avoir discuté de votre routine hebdomadaire.",
+  "question": "What do you do every Friday?",
+  "questionType": "comprehension",
+  "options": [
+    "Go to the director's office and leave only after discussing weekly routine",
+    "Complete financial reports and submit them for approval",
+    "Attend team meetings and plan the following week's schedule",
+    "Review employee performance and provide feedback sessions"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Go to the director's office and leave only after discussing weekly routine'. The text states '<em>Chaque vendredi, vous montez au bureau directeur et vous quittez seulement après avoir discuté de votre routine hebdomadaire</em>' - Every Friday, you go up to the director's office and leave only after discussing your weekly routine. This combines 'montez' and 'quittez' with weekly routine topic.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - montez + quittez + weekly routine",
+  "tags": ["workplace", "weekly-routine", "management"],
+  "timeCreated": 1736803240
+}

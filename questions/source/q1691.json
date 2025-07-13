@@ -1,0 +1,24 @@
+{
+  "id": 1691,
+  "audioText": "Cette application mobile offre-t-elle de vrais avantages pour la productivité ?",
+  "question": "What does the speaker question about the mobile app?",
+  "questionType": "listening",
+  "options": [
+    "Whether it offers real benefits for productivity",
+    "Whether it costs too much money",
+    "Whether it works on all devices",
+    "Whether it has good customer support"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette application mobile offre-t-elle de vrais avantages pour la productivité ?</em>' - Does this mobile app offer real benefits for productivity? 'Vrais' means 'real/true', questioning the genuine value of the app. The distractors test misinterpretation of the question (costs too much, works on all devices, good customer support).",
+  "difficulty": "B1",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "technology",
+    "productivity",
+    "mobile-apps",
+    "benefits"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 1123
+}

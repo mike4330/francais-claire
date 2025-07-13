@@ -1,0 +1,18 @@
+{
+  "id": 1652,
+  "audioText": "En portant ce lourd sac, elle marchait lentement vers la sortie du magasin.",
+  "question": "En ______ ce lourd sac, elle marchait lentement vers la sortie du magasin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "portant",
+    "portez",
+    "porter", 
+    "porte"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'portant'. The text states '<em>En portant ce lourd sac, elle marchait lentement vers la sortie du magasin</em>' - While carrying this heavy bag, she walked slowly toward the store exit. 'Portant' is the present participle of 'porter' (to carry).",
+  "difficulty": "B1",
+  "source": "Strategic targeting - portant + marcher synergy",
+  "tags": ["shopping", "physical-activity", "daily-life"],
+  "timeCreated": 1736801560
+}

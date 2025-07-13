@@ -1,0 +1,15 @@
+{
+  "id": 1685,
+  "audioText": "Humblement, nous emmenez les puzzles dans notre mémoire pour résoudre ces escaliers complexes du trou.",
+  "question": "Humblement, nous ______ les puzzles dans notre mémoire pour résoudre ces escaliers complexes du trou.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "emmenons",
+  "acceptedAnswers": ["emmenons", "Emmenons"],
+  "explanation": "The text states '<em>Humblement, nous emmenons les puzzles dans notre mémoire pour résoudre ces escaliers complexes du trou</em>' - Humbly, we take the puzzles in our memory to solve these complex staircases of the hole. This combines 'humblement', 'emmenez', 'puzzles', 'mémoire', 'escalier', 'complexes', and 'trou'.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - humblement + emmenez + puzzles + mémoire + escalier + complexes + trou synergy",
+  "tags": ["puzzles", "complexity", "memory-strategies"],
+  "timeCreated": 1736805060
+}

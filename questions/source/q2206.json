@@ -1,0 +1,26 @@
+{
+  "id": 2206,
+  "audioText": "Les investisseurs institutionnels auront bientôt accès à des instruments financiers sophistiqués qui transformeront radicalement les mécanismes de financement des infrastructures publiques européennes, créant de nouvelles opportunités d'investissement durable à long terme.",
+  "question": "What will institutional investors soon have access to?",
+  "questionType": "comprehension",
+  "options": [
+    "Sophisticated financial instruments that will transform public infrastructure financing mechanisms",
+    "Traditional government bonds with guaranteed fixed returns for European projects",
+    "Simple investment portfolios focused exclusively on domestic market opportunities",
+    "Basic financing tools designed only for short-term municipal development projects"
+  ],
+  "correct": 0,
+  "explanation": "The text states that institutional investors 'auront bientôt accès à des instruments financiers sophistiqués' - will soon have access to sophisticated financial instruments. The future tense 'auront' (3rd person plural of avoir) indicates these investors will have access to complex tools that will transform European public infrastructure financing.",
+  "difficulty": "C2",
+  "source": "Advanced Financial Markets and European Infrastructure Policy",
+  "tags": [
+    "finance",
+    "investment",
+    "infrastructure",
+    "european-policy",
+    "institutional-investors",
+    "financial-instruments",
+    "sustainable-development"
+  ],
+  "timeCreated": 1719937000
+}

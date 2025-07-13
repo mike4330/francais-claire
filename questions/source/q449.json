@@ -1,0 +1,23 @@
+{
+  "id": 449,
+  "audioText": "La dent descend dessous la larme.",
+  "question": "La dent ______ dessous la larme.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "descend",
+    "descends",
+    "descendez",
+    "descendons"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La dent descend dessous la larme</em>' - The tooth descends below the tear. 'Descend' is the third person singular present form of 'descendre' (to descend). This combines 'dent' (tooth), 'descend' (descends), 'dessous' (below), and 'larme' (tear).",
+  "difficulty": "A2",
+  "source": "Anatomical description",
+  "tags": [
+    "anatomy",
+    "health",
+    "description",
+    "body"
+  ],
+  "timeCreated": 1736784360
+}

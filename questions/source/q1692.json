@@ -1,0 +1,19 @@
+{
+    "id": 1692,
+    "audioText": "J'ai une chose importante à te dire.",
+    "question": "What does the speaker say they have to say?",
+    "questionType": "listening",
+    "options": [
+        "Something important.",
+        "Something trivial.",
+        "Nothing.",
+        "A secret."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai une chose importante à te dire.</em>' - I have something important to tell you. 'Chose' means 'thing'. The distractors test misinterpretation of the importance (trivial, nothing, a secret).",
+    "difficulty": "B1",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["communication", "importance"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 559
+}

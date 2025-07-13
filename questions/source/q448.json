@@ -1,0 +1,23 @@
+{
+  "id": 448,
+  "audioText": "Le soldat ferme son livre de loi avec foi.",
+  "question": "Le soldat ______ son livre de loi avec foi.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "ferme",
+    "fermes",
+    "fermez",
+    "fermons"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le soldat ferme son livre de loi avec foi</em>' - The soldier closes his law book with faith. 'Ferme' is the third person singular present form of 'fermer' (to close). This combines 'soldat' (soldier), 'ferme' (closes), 'loi' (law), and 'foi' (faith).",
+  "difficulty": "A2",
+  "source": "Military study conversation",
+  "tags": [
+    "military",
+    "law",
+    "faith",
+    "books"
+  ],
+  "timeCreated": 1736784240
+}

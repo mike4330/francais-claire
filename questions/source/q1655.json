@@ -1,0 +1,18 @@
+{
+  "id": 1655,
+  "audioText": "Dormons maintenant car nous marcherons longtemps demain matin.",
+  "question": "Why should we sleep now?",
+  "questionType": "comprehension",
+  "options": [
+    "Because we will walk for a long time tomorrow morning",
+    "Because the weather will be too hot later",
+    "Because we need to wake up very early",
+    "Because we have eaten too much food tonight"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Because we will walk for a long time tomorrow morning'. The text states '<em>Dormons maintenant car nous marcherons longtemps demain matin</em>' - Let's sleep now because we will walk for a long time tomorrow morning. 'Dormons' is the imperative and 'marcherons' explains the reason.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - dormons + marcherons synergy",
+  "tags": ["sleep", "exercise", "planning"],
+  "timeCreated": 1736801800
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1642,
+    "audioText": "Ce groupe d'employés travaille salement dans cette usine sans respecter les règles d'hygiène",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Ce groupe d'employés travaille salement dans cette usine sans respecter les règles d'hygiène",
+        "Ce groupe d'employés travaille proprement dans cette usine sans respecter les règles d'hygiène",
+        "Ce groupe d'employés travaille salement dans cette usine en respectant les règles d'hygiène",
+        "Ce groupe d'ouvriers travaille salement dans cette usine sans respecter les règles de sécurité"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is the first option. The text states '<em>Ce groupe d'employés travaille salement dans cette usine sans respecter les règles d'hygiène</em>' - This group of employees works dirtily in this factory without respecting hygiene rules. The adverb 'salement' means dirtily/messily, targeting poor workplace conditions.",
+    "difficulty": "B2",
+    "source": "Strategic adverb targeting: salement + groupe + workplace safety",
+    "tags": ["workplace", "safety", "hygiene"],
+    "timeCreated": 1720818200
+}

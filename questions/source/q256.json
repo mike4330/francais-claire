@@ -1,0 +1,22 @@
+{
+  "id": 256,
+  "audioText": "Cette glace dans la poche touchez vif le fric.",
+  "question": "Cette glace dans la ______ touchez vif le fric.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "poche",
+    "maison",
+    "voiture",
+    "école"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette glace dans la poche touchez vif le fric</em>' - This ice in the pocket touch lively the money. 'Glace' means ice/mirror, 'poche' means pocket, and 'fric' means money (slang).",
+  "difficulty": "A2",
+  "source": "Strategic targeting - glace + poche + touchez + vif + fric synergy + money",
+  "tags": [
+    "money",
+    "clothing",
+    "food"
+  ],
+  "timeCreated": 1736806700
+}

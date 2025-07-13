@@ -1,0 +1,23 @@
+{
+  "id": 2171,
+  "audioText": "Après de longues années de recherche, l'équipe a finalement trouvé une place pour leur laboratoire dans le nouveau centre scientifique.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Après de longues années de recherche, l'équipe a finalement trouvé une place pour leur laboratoire dans le nouveau centre scientifique.",
+    "Avant de longues années de recherche, l'équipe a finalement trouvé une place pour leur laboratoire dans le nouveau centre scientifique.",
+    "Après de courtes années de recherche, l'équipe a finalement trouvé une place pour leur laboratoire dans le nouveau centre scientifique.",
+    "Après de longues années de recherche, l'équipe n'a pas trouvé de place pour leur laboratoire dans le nouveau centre scientifique."
+  ],
+  "correct": 0,
+  "explanation": "The correct sentence is 'Après de longues années de recherche, l'équipe a finalement trouvé une place pour leur laboratoire dans le nouveau centre scientifique.', which means 'After many years of research, the team finally found a place for their laboratory in the new scientific center.'",
+  "difficulty": "C2",
+  "source": "Gemini-generated",
+  "tags": [
+    "research",
+    "science",
+    "teamwork",
+    "discovery"
+  ],
+  "timeCreated": 1720134000
+}

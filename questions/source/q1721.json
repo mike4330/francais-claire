@@ -1,0 +1,18 @@
+{
+  "id": 1721,
+  "audioText": "Impunément, cette maison nerveux tomberait pesamment quand nous avons lus des livres montés sur le mètre nu où j'ouvrirai étonnamment ce fer mignon.",
+  "question": "Impunément, cette maison ______ tomberait pesamment quand nous avons lus des livres montés sur le mètre nu où j'ouvrirai étonnamment ce fer mignon.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "nerveux",
+    "calme",
+    "heureux",
+    "triste"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Impunément, cette maison nerveux tomberait pesamment quand nous avons lus des livres montés sur le mètre nu où j'ouvrirai étonnamment ce fer mignon</em>' - With impunity, this nervous house would fall heavily when we have read books mounted on the bare meter where I will amazingly open this cute iron. 'Nerveux' means nervous/anxious.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - impunément + maison + nerveux + tomberait + pesamment + lus + montés + mètre + nu + ouvrirai + étonnamment + fer + mignon synergy + materials",
+  "tags": ["materials", "books", "personality"],
+  "timeCreated": 1736806600
+}

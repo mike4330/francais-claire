@@ -1,0 +1,18 @@
+{
+  "id": 1696,
+  "audioText": "Les documents gardés dans cette beauté architecturale montrent que nous boive trop rapidement pendant les concerts.",
+  "question": "What do the documents kept in this architectural beauty show?",
+  "questionType": "comprehension",
+  "options": [
+    "That we drink too quickly during concerts",
+    "That we arrive too late for musical performances regularly",
+    "That we speak too loudly during classical music events",
+    "That we leave too early from orchestral presentations"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les documents gardés dans cette beauté architecturale montrent que nous buvons trop rapidement pendant les concerts</em>' - The documents kept in this architectural beauty show that we drink too quickly during concerts. This combines 'gardés', 'beauté', 'boive', and 'concerts'.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - gardés + beauté + boive + concerts synergy + cultural behavior",
+  "tags": ["concerts", "cultural-behavior", "architecture"],
+  "timeCreated": 1736805660
+}

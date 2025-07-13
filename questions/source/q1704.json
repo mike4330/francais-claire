@@ -1,0 +1,18 @@
+{
+  "id": 1704,
+  "audioText": "À l'improviste, ce colonel russe manquez fatalement de courage pour toucher cette beauté tendre dans son appartement vaste et résolument spécial.",
+  "question": "What does the Russian colonel fatally lack the courage to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Touch this tender beauty in his vast and resolutely special apartment",
+    "Approach this dangerous situation in his military headquarters carefully",
+    "Meet this important diplomat in his government office quietly",
+    "Contact this foreign journalist in his private residence secretly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>À l'improviste, ce colonel russe manquez fatalement de courage pour toucher cette beauté tendre dans son appartement vaste et résolument spécial</em>' - Unexpectedly, this Russian colonel fatally lacks courage to touch this tender beauty in his vast and resolutely special apartment. This combines 'à l'improviste', 'colonel', 'russe', 'manquez', 'fatalement', 'toucher', 'beauté', 'tendre', 'appartement', 'vaste', 'résolument', and 'spécial'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - à l'improviste + colonel + russe + manquez + fatalement + toucher + beauté + tendre + appartement + vaste + résolument + spécial synergy + romance",
+  "tags": ["romance", "military", "apartments"],
+  "timeCreated": 1736805880
+}

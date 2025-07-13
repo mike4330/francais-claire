@@ -1,0 +1,23 @@
+{
+  "id": 1689,
+  "audioText": "Vous irez au marché acheter des légumes frais pour le dîner.",
+  "question": "What does the speaker say you will do at the market?",
+  "questionType": "listening",
+  "options": [
+    "To buy fresh vegetables for dinner.",
+    "To buy fresh fruits for breakfast.",
+    "To buy fresh meat for lunch.",
+    "To buy fresh bread for dinner."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous irez au marché acheter des légumes frais pour le dîner.</em>' - You will go to the market to buy fresh vegetables for dinner. The distractors test misinterpretation of the items or meal (fruits for breakfast, meat for lunch, bread for dinner).",
+  "difficulty": "B1",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "shopping",
+    "food",
+    "market"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 1486
+}

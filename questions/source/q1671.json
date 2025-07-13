@@ -1,0 +1,25 @@
+{
+  "id": 1671,
+  "audioText": "Vous pouvez regarder dans mon oeil gauche pour voir si quelque chose ne va pas.",
+  "question": "What does the speaker suggest the person do to check for problems?",
+  "questionType": "listening",
+  "options": [
+    "In the speaker's left eye",
+    "At the speaker's right hand",
+    "Through the speaker's glasses",
+    "Behind the speaker's ear"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous pouvez regarder dans mon oeil gauche pour voir si quelque chose ne va pas</em>' - You can look in my left eye to see if something is wrong. 'Pouvez' is the second person plural form of 'pouvoir' (can), and 'oeil' means eye. The distractors test misinterpretation of the body part or location (right hand, through glasses, behind ear).",
+  "difficulty": "B1",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "health",
+    "medical",
+    "body-parts",
+    "examination",
+    "eyes"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 926
+}

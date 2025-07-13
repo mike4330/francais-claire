@@ -1,0 +1,15 @@
+{
+  "id": 402,
+  "audioText": "Je me rappelle de cette belle journée au jardin.",
+  "question": "Je me ______ de cette belle journée au jardin.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "rappelle",
+  "acceptedAnswers": ["rappelle", "Rappelle"],
+  "explanation": "The correct answer is 'rappelle'. The text states '<em>Je me rappelle de cette belle journée au jardin</em>' - I remember this beautiful day in the garden. 'Rappelle' is the first person singular present of 'se rappeler' (to remember).",
+  "difficulty": "A2",
+  "source": "Strategic targeting - rappelle + garden + memory",
+  "tags": ["memory", "garden", "emotions"],
+  "timeCreated": 1736801860
+}

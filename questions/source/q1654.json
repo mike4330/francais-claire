@@ -1,0 +1,18 @@
+{
+  "id": 1654,
+  "audioText": "Nous mangerons ce plat traditionnel si vous travaillerons avec nous ce weekend.",
+  "question": "When will we eat this traditional dish?",
+  "questionType": "comprehension",
+  "options": [
+    "If you work with us this weekend",
+    "After we finish our current project",
+    "During the weekly team meeting",
+    "Before the restaurant closes tonight"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'If you work with us this weekend'. The text states '<em>Nous mangerons ce plat traditionnel si vous travaillerons avec nous ce weekend</em>' - We will eat this traditional dish if you work with us this weekend. 'Mangerons' is the future tense expressing a conditional plan.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - mangerons + travaillerons synergy",
+  "tags": ["food", "teamwork", "weekend"],
+  "timeCreated": 1736801680
+}

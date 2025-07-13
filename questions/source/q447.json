@@ -1,0 +1,22 @@
+{
+  "id": 447,
+  "audioText": "Ma sœur que j'ai rencontrée hier travaille maintenant à Paris.",
+  "question": "Who works in Paris now?",
+  "questionType": "comprehension",
+  "options": [
+    "The sister he met yesterday",
+    "His colleague from work",
+    "A friend from school",
+    "His neighbor from home"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma sœur que j'ai rencontrée hier travaille maintenant à Paris</em>' - My sister whom I met yesterday now works in Paris. 'Rencontrée' is the feminine past participle of 'rencontrer' (to meet), agreeing with 'sœur'.",
+  "difficulty": "A2",
+  "source": "Family update conversation",
+  "tags": [
+    "family",
+    "work",
+    "city"
+  ],
+  "timeCreated": 1736783460
+}

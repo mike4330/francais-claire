@@ -1,0 +1,18 @@
+{
+    "id": 1640,
+    "audioText": "Les étudiants marchent autour de cette église superbe pour admirer son architecture",
+    "question": "Where do the students walk to admire the architecture?",
+    "questionType": "comprehension",
+    "options": [
+        "Around the superb church",
+        "Inside the beautiful building",
+        "Through the university campus",
+        "Toward the city center"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Around the superb church'. The text states '<em>Les étudiants marchent autour de cette église superbe pour admirer son architecture</em>' - The students walk around this superb church to admire its architecture. The adverb 'autour' means around/about, combined with 'église' and 'superbe'.",
+    "difficulty": "B1",
+    "source": "Strategic adverb targeting: autour + église + superbe",
+    "tags": ["education", "architecture", "religion"],
+    "timeCreated": 1720818000
+}

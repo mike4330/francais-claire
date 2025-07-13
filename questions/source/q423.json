@@ -1,0 +1,18 @@
+{
+  "id": 423,
+  "audioText": "Merde! La moitié de mon sommeil stupidement perdu à cause de ce mouvement.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Merde! La moitié de mon sommeil stupidement perdu à cause de ce mouvement.",
+    "Zut! La moitié de mon sommeil stupidement perdu à cause de ce mouvement.",
+    "Merde! La moitié de mon sommeil bêtement perdu à cause de ce mouvement.",
+    "Merde! La moitié de mon repos stupidement perdu à cause de ce mouvement."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Merde! La moitié de mon sommeil stupidement perdu à cause de ce mouvement</em>' - Damn! Half of my sleep stupidly lost because of this movement. This tests precise listening of 'merde', 'moitié', 'sommeil', 'stupidement', and 'mouvement'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - merde + moitié + sommeil + stupidement + mouvement synergy + sleep disruption",
+  "tags": ["sleep-disruption", "frustration", "disturbance"],
+  "timeCreated": 1736805040
+}

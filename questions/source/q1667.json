@@ -1,0 +1,18 @@
+{
+  "id": 1667,
+  "audioText": "Il quitte toujours le bureau quand vous montez au dernier étage pour la réunion.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Il quitte toujours le bureau quand vous montez au dernier étage pour la réunion.",
+    "Il quitte souvent le bureau quand vous montez au dernier étage pour la réunion.",
+    "Il quitte toujours le bureau quand vous montez au premier étage pour la réunion.",
+    "Il quite toujours le bureau quand vous montez au dernier étage pour la réunion."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il quitte toujours le bureau quand vous montez au dernier étage pour la réunion</em>' - He always leaves the office when you go up to the top floor for the meeting. This tests precise listening of 'quitte' vs 'quite', 'toujours' vs 'souvent', and 'dernier' vs 'premier'.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - quitte + montez synergy + workplace",
+  "tags": ["workplace", "meetings", "timing"],
+  "timeCreated": 1736802880
+}

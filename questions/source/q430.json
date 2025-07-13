@@ -1,0 +1,19 @@
+{
+    "id": 430,
+    "audioText": "Ce point sur la carte montre notre hôtel.",
+    "question": "What does the speaker say the point on the map shows?",
+    "questionType": "listening",
+    "options": [
+        "The restaurant",
+        "Our hotel",
+        "The train station", 
+        "The shopping center"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Ce point sur la carte montre notre hôtel.</em>' - This point on the map shows our hotel. The key phrase is 'montre notre hôtel' (shows our hotel). The distractors test misinterpretation of the location (restaurant, train station, shopping center).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["travel", "navigation", "accommodation", "maps"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 143
+}

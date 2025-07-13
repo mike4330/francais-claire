@@ -1,0 +1,18 @@
+{
+  "id": 1665,
+  "audioText": "Nous garderons ces documents importants jusqu'à ce que vous apprenez la procédure complète.",
+  "question": "When will we keep these important documents?",
+  "questionType": "comprehension",
+  "options": [
+    "Until you learn the complete procedure",
+    "During the entire training period only",
+    "After completing all required certifications",
+    "Before starting the official registration process"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Until you learn the complete procedure'. The text states '<em>Nous garderons ces documents importants jusqu\\'à ce que vous apprenez la procédure complète</em>' - We will keep these important documents until you learn the complete procedure. 'Garderons' is the future tense of 'garder' (to keep).",
+  "difficulty": "B1",
+  "source": "Strategic targeting - garderons + apprendre synergy + procedures",
+  "tags": ["procedures", "documentation", "training"],
+  "timeCreated": 1736802700
+}

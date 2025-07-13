@@ -1,0 +1,15 @@
+{
+  "id": 403,
+  "audioText": "Nous payons toujours nos factures en garde les reçus précieusement.",
+  "question": "Nous ______ toujours nos factures en garde les reçus précieusement.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "payons",
+  "acceptedAnswers": ["payons", "Payons"],
+  "explanation": "The correct answer is 'payons'. The text states '<em>Nous payons toujours nos factures en garde les reçus précieusement</em>' - We always pay our bills while keeping the receipts carefully. 'Payons' is the first person plural present of 'payer' (to pay).",
+  "difficulty": "A2",
+  "source": "Strategic targeting - payons + garder synergy + finances",
+  "tags": ["finances", "responsibility", "organization"],
+  "timeCreated": 1736802340
+}

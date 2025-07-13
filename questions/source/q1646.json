@@ -1,0 +1,19 @@
+{
+    "id": 1646,
+    "audioText": "Quoi? Ces règlements changent bizarrement chaque mois au bureau.",
+    "question": "What does the speaker find strange about the regulations?",
+    "questionType": "listening",
+    "options": [
+        "The regulations change oddly every month at work",
+        "The meetings happen strangely every week", 
+        "The deadlines move weirdly every quarter",
+        "The schedules shift randomly every day"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Quoi? Ces règlements changent bizarrement chaque mois au bureau</em>' - What? These regulations change oddly every month at the office. 'Quoi' expresses surprise, 'bizarrement' means 'oddly/strangely'. The distractors test misinterpretation of what is changing (meetings, deadlines, schedules) and the frequency (every week, every quarter, every day).",
+    "difficulty": "B1",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["regulations", "workplace", "confusion"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 908
+}

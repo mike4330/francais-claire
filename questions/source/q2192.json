@@ -1,0 +1,24 @@
+{
+  "id": 2192,
+  "audioText": "Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre, nécessitant des mesures urgentes pour préserver la biodiversité et les écosystèmes fragiles pour les générations futures qui hériteront de cette planète transformée.",
+  "question": "According to the scientists, what does climate change threaten?",
+  "questionType": "comprehension",
+  "options": [
+    "The ecological balance of our earth",
+    "The economic stability of nations",
+    "The development of new technologies",
+    "The political relationships between countries"
+  ],
+  "correct": 0,
+  "explanation": "The text states that scientists affirm that 'le réchauffement climatique menace l'équilibre écologique de notre terre' - climate warming/change threatens the ecological balance of our earth, requiring urgent measures to preserve biodiversity.",
+  "difficulty": "C1",
+  "source": "Scientific statement on climate change impact",
+  "tags": [
+    "environment",
+    "climate-change",
+    "science",
+    "ecology",
+    "future-generations"
+  ],
+  "timeCreated": 1735689600
+}

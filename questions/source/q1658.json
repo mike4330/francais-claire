@@ -1,0 +1,18 @@
+{
+  "id": 1658,
+  "audioText": "Mon frère gagne sa vie en réparant les ordinateurs dans son petit magasin.",
+  "question": "How does the brother earn his living?",
+  "questionType": "comprehension",
+  "options": [
+    "By repairing computers in his small store",
+    "By teaching computer programming courses",
+    "By selling new technology equipment online",
+    "By working as a customer service representative"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'By repairing computers in his small store'. The text states '<em>Mon frère gagne sa vie en réparant les ordinateurs dans son petit magasin</em>' - My brother earns his living by repairing computers in his small store. 'Gagne sa vie' means 'earns his living'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - gagne + technology + business",
+  "tags": ["technology", "business", "family"],
+  "timeCreated": 1736802040
+}

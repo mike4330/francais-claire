@@ -1,0 +1,18 @@
+{
+  "id": 439,
+  "audioText": "Vous plairez théoriquement à cette pierre quand la mission a commencée dans mon oreille.",
+  "question": "Vous ______ théoriquement à cette pierre quand la mission a commencée dans mon oreille.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "plairez",
+    "plaisez",
+    "plairont",
+    "plaisait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous plairez théoriquement à cette pierre quand la mission a commencée dans mon oreille</em>' - You will theoretically please this stone when the mission started in my ear. 'Plairez' is the future tense second person plural of 'plaire' (to please).",
+  "difficulty": "A2",
+  "source": "Strategic targeting - plairez + théoriquement + pierre + commencée + oreille synergy + mission",
+  "tags": ["mission", "materials", "health"],
+  "timeCreated": 1736806200
+}

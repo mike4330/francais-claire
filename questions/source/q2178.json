@@ -1,0 +1,24 @@
+{
+  "id": 2178,
+  "type": "fill-in-the-blank",
+  "question": "Il _______ toujours à la même heure.",
+  "audioText": "Il revient toujours à la même heure.",
+  "answer": "revient",
+  "hint": "Present tense of 'revenir'",
+  "level": "c",
+  "tags": [
+    "daily_routine",
+    "time"
+  ],
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "revient",
+    "reviens",
+    "revenons",
+    "revenez"
+  ],
+  "correct": 0,
+  "explanation": "'Revient' is the present tense of 'revenir' for 'il/elle/on'.",
+  "difficulty": "C1",
+  "source": "Gemini CLI"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 409,
+  "audioText": "Au café, nous espérez boire un bonsoir avec des amis.",
+  "question": "Au café, nous ______ boire un bonsoir avec des amis.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "espérons",
+    "espérez",
+    "espères",
+    "espère"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Au café, nous espérons boire un bonsoir avec des amis</em>' - At the cafe, we hope to drink an evening drink with friends. 'Espérons' is the first person plural form of 'espérer' (to hope), agreeing with 'nous'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - espérez + bonsoir + café synergy + social gathering",
+  "tags": ["cafe", "social-gathering", "drinks"],
+  "timeCreated": 1736804600
+}

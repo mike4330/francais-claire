@@ -1,0 +1,15 @@
+{
+  "id": 1695,
+  "audioText": "Délicieusement, il faut que j'écrive cette lettre avant que vous retrouverez vos cartes dans l'appartement.",
+  "question": "Il faut que j'______ cette lettre avant que vous retrouverez vos cartes dans l'appartement.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "écrive",
+  "acceptedAnswers": ["écrive", "Écrive"],
+  "explanation": "The text states '<em>Délicieusement, il faut que j'écrive cette lettre avant que vous retrouverez vos cartes dans l'appartement</em>' - Deliciously, I must write this letter before you find your cards in the apartment. 'Écrive' is the present subjunctive first person singular of 'écrire' (to write), used after 'il faut que j''.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - écrive + retrouverez + délicieusement + cartes + appartement synergy + correspondence",
+  "tags": ["correspondence", "apartments", "card-games"],
+  "timeCreated": 1736805640
+}

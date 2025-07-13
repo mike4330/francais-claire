@@ -1,0 +1,18 @@
+{
+  "id": 1679,
+  "audioText": "Hyper intéressant, ce courant électrique traverse nombreux appareils dans cette condition moderne où les docteurs lisait des instructions.",
+  "question": "What is described as hyper interesting?",
+  "questionType": "comprehension",
+  "options": [
+    "The electric current passing through numerous devices in modern conditions where doctors read instructions",
+    "The medical equipment used for patient diagnosis and treatment procedures",
+    "The training program designed for healthcare professionals and specialists",
+    "The research methodology employed in contemporary scientific studies"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Hyper intéressant, ce courant électrique traverse nombreux appareils dans cette condition moderne où les docteurs lisaient des instructions</em>' - Hyper interesting, this electric current passes through numerous devices in this modern condition where doctors read instructions. This combines 'hyper', 'intéressant', 'courant', 'nombreux', 'condition', 'docteurs', and 'lisait'.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - hyper + intéressant + courant + nombreux + condition + docteurs + lisait synergy + medical technology",
+  "tags": ["medical-technology", "doctors", "condition"],
+  "timeCreated": 1736804680
+}

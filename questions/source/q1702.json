@@ -1,0 +1,19 @@
+{
+    "id": 1702,
+    "audioText": "Tu n'oublieras aucunement cette décision idiote que tu as prise hier soir.",
+    "question": "What does the speaker say you won't forget?",
+    "questionType": "listening",
+    "options": [
+        "The stupid decision you made last night",
+        "The smart choice you avoided yesterday",
+        "The brilliant idea you had this morning",
+        "The careful plan you developed last week"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu n'oublieras aucunement cette décision idiote que tu as prise hier soir</em>' - You will not forget at all this stupid decision that you made last night. 'Aucunement' means 'not at all/in no way', 'oublieras' is the future tense of 'oublier' (to forget), and 'idiote' (stupid) agrees with the feminine noun 'décision'. The distractors test misinterpretation of the type of decision or timing (smart choice, brilliant idea, careful plan).",
+    "difficulty": "B2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["emotions", "regret", "memory"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 1408
+}

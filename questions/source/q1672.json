@@ -1,0 +1,19 @@
+{
+    "id": 1672,
+    "audioText": "Cet exercice de mathématiques est complètement inutile pour comprendre le théorème.",
+    "question": "What does the speaker say about the math exercise?",
+    "questionType": "listening",
+    "options": [
+        "It's completely useless for understanding the theorem",
+        "It's completely useful for understanding the theorem",
+        "It's somewhat difficult for understanding the theorem",
+        "It's perfectly designed for understanding the theorem"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cet exercice de mathématiques est complètement inutile pour comprendre le théorème.</em>' - This math exercise is completely useless for understanding the theorem. 'Inutile' means 'useless' or 'pointless'. The distractors test misinterpretation of the utility (useful, difficult, perfectly designed).",
+    "difficulty": "B1",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["education", "mathematics", "criticism"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 547
+}

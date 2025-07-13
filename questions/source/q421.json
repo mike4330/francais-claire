@@ -1,0 +1,18 @@
+{
+  "id": 421,
+  "audioText": "Il y a un petit trou dans cet escalier où tu emmène tes amis.",
+  "question": "Il y a un petit ______ dans cet escalier où tu emmène tes amis.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "trou",
+    "mur", 
+    "coin",
+    "bord"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il y a un petit trou dans cet escalier où tu emmènes tes amis</em>' - There is a small hole in this staircase where you take your friends. 'Trou' means hole, and this combines the target nouns 'trou' and 'escalier' with the missing verb 'emmène'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - trou + escalier + emmène synergy + social gathering",
+  "tags": ["social-gathering", "architecture", "friendship"],
+  "timeCreated": 1736805000
+}

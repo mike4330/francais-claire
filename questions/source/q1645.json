@@ -1,0 +1,18 @@
+{
+    "id": 1645,
+    "audioText": "Le président de cette compagnie parle solennellement de la présence importante de chaque employé",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Le président de cette compagnie parle solennellement de la présence importante de chaque employé",
+        "Le président de cette compagnie parle calmement de la présence importante de chaque employé",
+        "Le directeur de cette compagnie parle solennellement de la présence importante de chaque employé",
+        "Le président de cette société parle solennellement de l'absence regrettable de chaque employé"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is the first option. The text states '<em>Le président de cette compagnie parle solennellement de la présence importante de chaque employé</em>' - The president of this company speaks solemnly about the important presence of each employee. The adverb 'solennellement' means solemnly/formally, indicating serious, ceremonial speech.",
+    "difficulty": "B2",
+    "source": "Strategic adverb targeting: solennellement + président + compagnie + présence",
+    "tags": ["business", "leadership", "ceremony"],
+    "timeCreated": 1720818500
+}

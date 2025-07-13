@@ -1,0 +1,22 @@
+{
+  "id": 445,
+  "audioText": "Mon vélo a été volé hier soir.",
+  "question": "What happened to the speaker's bike?",
+  "questionType": "comprehension",
+  "options": [
+    "It was stolen last night",
+    "It was repaired yesterday",
+    "It was sold this morning",
+    "It was broken last week"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon vélo a été volé hier soir</em>' - My bike was stolen last night. 'Volé' is the past participle of 'voler' (to steal) used in the passive voice construction 'a été volé'.",
+  "difficulty": "A2",
+  "source": "Personal experience conversation",
+  "tags": [
+    "transportation",
+    "crime",
+    "daily-life"
+  ],
+  "timeCreated": 1736783220
+}

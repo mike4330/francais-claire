@@ -1,0 +1,18 @@
+{
+  "id": 443,
+  "audioText": "Fissa, j'ouvrirai cette pierre de fer pesamment dans l'oreille.",
+  "question": "Fissa, j'ouvrirai cette pierre de fer ______ dans l'oreille.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pesamment",
+    "légèrement", 
+    "rapidement",
+    "doucement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Fissa, j'ouvrirai cette pierre de fer pesamment dans l'oreille</em>' - Quickly, I will open this iron stone heavily in the ear. 'Fissa' means quickly/fast (informal) and 'pesamment' means heavily/weightily.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - fissa + ouvrirai + pierre + fer + pesamment + oreille synergy + materials",
+  "tags": ["materials", "speed"],
+  "timeCreated": 1736806380
+}

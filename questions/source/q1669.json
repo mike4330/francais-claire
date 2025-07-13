@@ -1,0 +1,18 @@
+{
+  "id": 1669,
+  "audioText": "Nous avons monté ces meubles lourds au troisième étage en suivant les instructions télephoniques de notre grand-père âgé.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous avons monté ces meubles lourds au troisième étage en suivant les instructions télephoniques de notre grand-père âgé.",
+    "Nous avons monté ces meubles lourds au deuxième étage en suivant les instructions télephoniques de notre grand-père âgé.",
+    "Nous avons monté ces meubles légers au troisième étage en suivant les instructions télephoniques de notre grand-père âgé.",
+    "Nous avons monté ces meubles lourds au troisième étage en suivant les instructions techniques de notre grand-père âgé."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous avons monté ces meubles lourds au troisième étage en suivant les instructions télephoniques de notre grand-père âgé</em>' - We carried these heavy furniture pieces up to the third floor following telephone instructions from our elderly grandfather. This tests precise listening of 'troisième' vs 'deuxième', 'lourds' vs 'légers', and 'télephoniques' vs 'techniques'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - monté + telephone + aging + family",
+  "tags": ["family", "telephone", "aging", "assistance"],
+  "timeCreated": 1736803180
+}

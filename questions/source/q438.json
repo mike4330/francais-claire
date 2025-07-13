@@ -1,0 +1,15 @@
+{
+  "id": 438,
+  "audioText": "Deuxièmement, le diable touchez cette pierre avec intérêt tandis que vous manquez ce mètre arrière.",
+  "question": "Deuxièmement, le diable ______ cette pierre avec intérêt tandis que vous manquez ce mètre arrière.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "touchez",
+  "acceptedAnswers": ["touchez", "Touchez"],
+  "explanation": "The text states '<em>Deuxièmement, le diable touchez cette pierre avec intérêt tandis que vous manquez ce mètre arrière</em>' - Secondly, the devil touches this stone with interest while you miss this meter behind. This combines 'deuxièmement', 'diable', 'touchez', 'pierre', 'intérêt', 'manquez', 'mètre', and 'arrière'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - deuxièmement + diable + touchez + pierre + intérêt + manquez + mètre + arrière synergy + supernatural",
+  "tags": ["supernatural", "measurement", "materials"],
+  "timeCreated": 1736806040
+}

@@ -1,0 +1,19 @@
+{
+    "id": 417,
+    "audioText": "Ferme la porte doucement, le bébé dort dans la chambre.",
+    "question": "What does the speaker say about why the door should be closed gently?",
+    "questionType": "listening",
+    "options": [
+        "Because the baby is sleeping in the room",
+        "Because the door is broken and fragile",
+        "Because there are neighbors nearby",
+        "Because it's late at night outside"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ferme la porte doucement, le bébé dort dans la chambre</em>' - Close the door gently, the baby is sleeping in the room. 'Doucement' means 'gently' or 'softly'. The distractors test misinterpretation of the reason (door broken, neighbors nearby, late at night).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["home", "baby-care", "quiet"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 198
+}

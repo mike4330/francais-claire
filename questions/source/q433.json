@@ -1,0 +1,18 @@
+{
+  "id": 433,
+  "audioText": "Il importe que vous racontes cette histoire au colonel russe.",
+  "question": "Il ______ que vous racontes cette histoire au colonel russe.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "importe",
+    "importez",
+    "important",
+    "importait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il importe que vous racontes cette histoire au colonel russe</em>' - It matters that you tell this story to the Russian colonel. 'Importe' is the present tense third person singular of 'importer' (to matter), used in the impersonal construction 'il importe que'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - importe + racontes + colonel + russe synergy + military communication",
+  "tags": ["military", "storytelling", "importance"],
+  "timeCreated": 1736805800
+}

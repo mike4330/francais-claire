@@ -1,0 +1,18 @@
+{
+  "id": 1661,
+  "audioText": "En changeant votre mot de passe, vous apprendrez à mieux protéger vos données personnelles.",
+  "question": "En ______ votre mot de passe, vous apprendrez à mieux protéger vos données personnelles.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "changeant",
+    "changez",
+    "changer",
+    "changent"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'changeant'. The text states '<em>En changeant votre mot de passe, vous apprendrez à mieux protéger vos données personnelles</em>' - By changing your password, you will learn to better protect your personal data. 'Changeant' is the present participle used with 'en' to express simultaneous action.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - changeant + apprendre synergy + technology",
+  "tags": ["technology", "security", "education"],
+  "timeCreated": 1736802400
+}

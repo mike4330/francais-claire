@@ -1,0 +1,15 @@
+{
+  "id": 406,
+  "audioText": "Tu gagnes toujours aux jeux vidéo parce que tu lis les instructions attentivement.",
+  "question": "Tu ______ toujours aux jeux vidéo parce que tu lis les instructions attentivement.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "gagnes",
+  "acceptedAnswers": ["gagnes", "Gagnes"],
+  "explanation": "The correct answer is 'gagnes'. The text states '<em>Tu gagnes toujours aux jeux vidéo parce que tu lis les instructions attentivement</em>' - You always win at video games because you read the instructions carefully. 'Gagnes' is the second person singular present of 'gagner' (to win).",
+  "difficulty": "A2",
+  "source": "Strategic targeting - gagnes + lis synergy + gaming",
+  "tags": ["gaming", "strategy", "reading"],
+  "timeCreated": 1736803120
+}

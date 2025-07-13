@@ -1,0 +1,18 @@
+{
+    "id": 1641,
+    "audioText": "Cette dame curieuse parle franchement de ses opinions sur cette compagnie verte",
+    "question": "Cette dame curieuse parle ______ de ses opinions sur cette compagnie verte.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "franchement",
+        "doucement",
+        "rapidement",
+        "clairement"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is '<em>franchement</em>' (frankly/honestly). The complete sentence is '<em>Cette dame curieuse parle franchement de ses opinions sur cette compagnie verte</em>' - This curious lady speaks frankly about her opinions on this green company. The adverb 'franchement' indicates honest, direct communication.",
+    "difficulty": "B2",
+    "source": "Strategic adverb targeting: franchement + dame + curieuse + compagnie + verte",
+    "tags": ["honesty", "workplace", "communication"],
+    "timeCreated": 1720818100
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1694,
+    "audioText": "Dans cette affaire complexe, l'écrivain examine attentivement le fond du verre de vin pour découvrir le genre d'histoire que raconte chaque mari désolé.",
+    "question": "What does the speaker say the writer examines in this complex affair to discover stories?",
+    "questionType": "listening",
+    "options": [
+        "The bottom of the wine glass to find what kind of story each sorry husband tells",
+        "The restaurant menu to understand customer preferences",
+        "The kitchen equipment to evaluate cooking techniques",
+        "The vineyard records to trace wine origins"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans cette affaire complexe, l'écrivain examine attentivement le fond du verre de vin pour découvrir le genre d'histoire que raconte chaque mari désolé.</em>' - In this complex affair, the writer carefully examines the bottom of the wine glass to discover the kind of story each sorry husband tells. The nouns 'vin' means wine, 'fond' means bottom, 'genre' means kind/type, and 'mari' means husband. The distractors test misinterpretation of what is examined (restaurant menu, kitchen equipment, vineyard records).",
+    "difficulty": "B2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["food", "writers", "investigation"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 1022
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1705,
+  "audioText": "Docilement, elle touchez cette carte doublement importante tandis que les occasions manquent invariablement dans ce hasard curieux de la beauté.",
+  "question": "Docilement, elle ______ cette carte doublement importante tandis que les occasions manquent invariablement dans ce hasard curieux de la beauté.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "touchez",
+    "touche",
+    "touchent",
+    "touchait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Docilement, elle touchez cette carte doublement importante tandis que les occasions manquent invariablement dans ce hasard curieux de la beauté</em>' - Docilely, she touches this doubly important card while opportunities invariably lack in this curious chance of beauty. This combines 'docilement', 'touchez', 'carte', 'doublement', 'manquent', 'invariablement', 'hasard', 'curieux', and 'beauté'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - docilement + touchez + carte + doublement + manquent + invariablement + hasard + curieux + beauté synergy + chance",
+  "tags": ["chance", "maps", "beauty"],
+  "timeCreated": 1736805900
+}

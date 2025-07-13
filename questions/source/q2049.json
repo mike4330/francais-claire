@@ -1,0 +1,22 @@
+{
+  "id": 2049,
+  "audioText": "Les explications du professeur étaient parfaitement clair et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Les explications du professeur étaient parfaitement clair et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement.",
+    "Les explications du professeur étaient parfaitement claires et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement.",
+    "Les explications du professeur étaient parfaitement clair et tous les étudiants ont compris les concepts complexes de physique quantique rapidement.",
+    "Les explications du professeur étaient parfaitement précises et tous les étudiants ont compris les concepts complexes de physique quantique immédiatement."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte contenait l'erreur d'accord 'clair' (masculin) au lieu de 'claires' (féminin pluriel) pour s'accorder avec 'explications'. Cette question teste l'écoute précise des erreurs grammaticales subtiles au niveau C1.",
+  "difficulty": "C1",
+  "source": "Academic - Physics Education - Grammar Detection",
+  "tags": [
+    "education",
+    "physics",
+    "academic"
+  ],
+  "timeCreated": 1720026320
+}

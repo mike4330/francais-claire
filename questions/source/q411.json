@@ -1,0 +1,18 @@
+{
+  "id": 411,
+  "audioText": "Mon rêve utile était de voir un bateau par hasard.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Mon rêve utile était de voir un bateau par hasard.",
+    "Mon rêve inutile était de voir un bateau par hasard.",
+    "Mon rêve utile était de voir un château par hasard.",
+    "Mon rêve utile était de voir un bateau par chance."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon rêve utile était de voir un bateau par hasard</em>' - My useful dream was to see a boat by chance. This tests precise listening of 'utile' vs 'inutile', 'bateau' vs 'château', and 'hasard' vs 'chance'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - rêve + utile + bateau + hasard synergy + dreams",
+  "tags": ["dreams", "boats", "chance"],
+  "timeCreated": 1736804640
+}

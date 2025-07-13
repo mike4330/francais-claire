@@ -1,0 +1,24 @@
+{
+  "id": 1675,
+  "audioText": "Mes parents pouvaient toujours m'emmener au parc le dimanche à l'époque où j'étais petit.",
+  "question": "What does the speaker say their parents always did when he was little?",
+  "questionType": "listening",
+  "options": [
+    "They could always take him to the park on Sundays",
+    "They would always take him to the park on Sundays",
+    "They had to take him to the park on Sundays",
+    "They wanted to take him to the park on Sundays"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mes parents pouvaient toujours m'emmener au parc le dimanche à l'époque où j'étais petit</em>' - My parents could always take me to the park on Sundays back when I was little. 'Pouvaient' is the imperfect of 'pouvoir' (could/were able to), with the temporal clause repositioned at the end. The distractors test misinterpretation of the nuance of 'pouvaient' (would, had to, wanted to).",
+  "difficulty": "B2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "childhood",
+    "family",
+    "memories",
+    "weekend-activities"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 1466
+}

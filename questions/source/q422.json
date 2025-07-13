@@ -1,0 +1,18 @@
+{
+  "id": 422,
+  "audioText": "Le lendemain, primo nous boirai du courant électrique dans cet avion.",
+  "question": "When will we drink electric current in this airplane?",
+  "questionType": "comprehension",
+  "options": [
+    "The next day, first we will drink",
+    "Yesterday evening before the flight departure",
+    "During the meal service on the airplane",
+    "After landing at the destination airport"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le lendemain, primo nous boirons du courant électrique dans cet avion</em>' - The next day, first we will drink electric current in this airplane. This combines 'lendemain', 'primo', 'boirai', 'courant', and 'avion'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - lendemain + primo + boirai + courant + avion synergy + travel",
+  "tags": ["travel", "aviation", "futuristic-scenario"],
+  "timeCreated": 1736805020
+}

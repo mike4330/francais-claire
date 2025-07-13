@@ -1,0 +1,18 @@
+{
+  "id": 1687,
+  "audioText": "Sus ! Le mouvement de ce courant électrique emmené dans l'escalier cause un trou dans ma mémoire du lendemain.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Sus ! Le mouvement de ce courant électrique emmené dans l'escalier cause un trou dans ma mémoire du lendemain.",
+    "Zut ! Le mouvement de ce courant électrique emmené dans l'escalier cause un trou dans ma mémoire du lendemain.",
+    "Sus ! Le mouvement de ce courant électrique emporté dans l'escalier cause un trou dans ma mémoire du lendemain.",
+    "Sus ! Le mouvement de ce courant électrique emmené dans l'ascenseur cause un trou dans ma mémoire du lendemain."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sus ! Le mouvement de ce courant électrique emmené dans l'escalier cause un trou dans ma mémoire du lendemain</em>' - Up! The movement of this electric current taken in the staircase causes a hole in my memory of tomorrow. This tests multiple target nouns and verbs.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - sus + mouvement + courant + emmené + escalier + trou + mémoire + lendemain synergy",
+  "tags": ["memory-disruption", "electrical-effects", "cognitive-impact"],
+  "timeCreated": 1736805100
+}

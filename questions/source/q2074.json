@@ -1,0 +1,18 @@
+{
+  "id": 2074,
+  "audioText": "Les avocats nu de tout espoir quittent cash cette condition malheureux où ils prions pour obtenir un bateau spécial transportant leur dossier vers la cour suprême.",
+  "question": "What do the lawyers do regarding their hopeless situation?",
+  "questionType": "comprehension",
+  "options": [
+    "They abandon their unhappy condition immediately, praying for a special boat to transport their case",
+    "They negotiate new payment terms with the supreme court administration",
+    "They request additional time to prepare comprehensive legal documentation",
+    "They organize protest demonstrations outside government judicial buildings"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les avocats nu de tout espoir quittent cash cette condition malheureux où ils prions pour obtenir un bateau spécial transportant leur dossier vers la cour suprême</em>' - The lawyers stripped of all hope immediately abandon this unhappy condition where they pray to obtain a special boat transporting their file to the supreme court. This combines 'nu', 'quittent', 'cash', 'condition', 'malheureux', 'prions', 'bateau', 'spécial' in a legal context.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - nu + quittent + cash + condition + malheureux + prions + bateau + spécial + supreme-court synergy + legal desperation",
+  "tags": ["supreme-court", "legal-desperation", "condition"],
+  "timeCreated": 1736804580
+}

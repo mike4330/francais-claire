@@ -1,0 +1,18 @@
+{
+  "id": 405,
+  "audioText": "Tu lis le journal chaque matin avant de prendre ton téléphone.",
+  "question": "When do you read the newspaper?",
+  "questionType": "comprehension",
+  "options": [
+    "Every morning before picking up the phone",
+    "Every evening after dinner time",
+    "During lunch break at work",
+    "Only on weekend mornings"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Every morning before picking up the phone'. The text states '<em>Tu lis le journal chaque matin avant de prendre ton téléphone</em>' - You read the newspaper every morning before picking up your phone. 'Lis' is the second person singular present of 'lire' (to read).",
+  "difficulty": "A2",
+  "source": "Strategic targeting - lis + telephone + morning routine",
+  "tags": ["daily-routine", "reading", "telephone"],
+  "timeCreated": 1736802940
+}

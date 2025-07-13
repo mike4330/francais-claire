@@ -1,0 +1,23 @@
+{
+  "id": 317,
+  "audioText": "Les voyageurs demandent des informations sur les trains pour Lyon à la gare.",
+  "question": "Les voyageurs demandent des informations sur les trains pour Lyon à la gare.",
+  "questionType": "listening",
+  "options": [
+    "Trains to Lyon at the train station",
+    "Bus schedules to Paris at the depot",
+    "Flight times to Nice at the airport",
+    "Hotel reservations in Lyon downtown"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les voyageurs demandent des informations sur les trains pour Lyon à la gare</em>' - The travelers are asking for information about trains to Lyon at the train station. 'Demandent' is the third person plural form of 'demander' (to ask for). The distractors test confusion about the mode of transport (bus, flight), the destination (Paris, Nice), and the type of information (hotel reservations).",
+  "difficulty": "A2",
+  "source": "Train station",
+  "tags": [
+    "trains",
+    "travel",
+    "information"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 234
+}

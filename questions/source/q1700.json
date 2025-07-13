@@ -1,0 +1,23 @@
+{
+  "id": 1700,
+  "audioText": "Quand nous étions jeunes, nous allions souvent au parc le dimanche.",
+  "question": "What does the speaker say they often did on Sundays when they were young?",
+  "questionType": "listening",
+  "options": [
+    "To the park.",
+    "To the beach.",
+    "To the cinema.",
+    "To the museum."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Quand nous étions jeunes, nous allions souvent au parc le dimanche.</em>' - When we were young, we often went to the park on Sundays. The imperfect describes a habitual action in the past. The distractors test misinterpretation of the location (beach, cinema, museum).",
+  "difficulty": "B1",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "childhood",
+    "memories",
+    "family"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 1485
+}

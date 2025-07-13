@@ -1,0 +1,18 @@
+{
+  "id": 1666,
+  "audioText": "Elle a quitté son emploi après avoir monté sa propre entreprise avec succès.",
+  "question": "Elle a ______ son emploi après avoir monté sa propre entreprise avec succès.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "quitté",
+    "quitte",
+    "quittez",
+    "quittait"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'quitté'. The text states '<em>Elle a quitté son emploi après avoir monté sa propre entreprise avec succès</em>' - She left her job after successfully starting her own business. 'Quitté' is the past participle of 'quitter' (to leave) used with auxiliary 'avoir'.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - quitté + monté synergy + business",
+  "tags": ["business", "career-change", "entrepreneurship"],
+  "timeCreated": 1736802820
+}

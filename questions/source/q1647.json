@@ -1,0 +1,25 @@
+{
+  "id": 1647,
+  "audioText": "Les scientifiques croiront enfin aux nouvelles théories quand les preuves seront incontestables.",
+  "question": "What does the speaker say will happen when the evidence becomes undeniable?",
+  "questionType": "listening",
+  "options": [
+    "Scientists will finally believe the new theories",
+    "The theories will be completely rejected",
+    "New experiments will be designed immediately",
+    "The research funding will be increased"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les scientifiques croiront enfin aux nouvelles théories quand les preuves seront incontestables.</em>' - Scientists will finally believe the new theories when the evidence becomes undeniable. The distractors test misinterpretation of the outcome (theories rejected), misinterpretation of actions (new experiments designed), and misinterpretation of funding (research funding increased).",
+  "difficulty": "B2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "science",
+    "research",
+    "evidence",
+    "beliefs",
+    "academic"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 960
+}

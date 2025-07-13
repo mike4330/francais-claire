@@ -1,0 +1,19 @@
+{
+    "id": 427,
+    "audioText": "Ça fait peur, cette tempête !",
+    "question": "What does the speaker say about the storm?",
+    "questionType": "listening",
+    "options": [
+        "It's beautiful",
+        "It's scary",
+        "It's interesting",
+        "It's quiet"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Ça fait peur, cette tempête !</em>' - That's scary, this storm! The informal pronoun 'ça' (that/it) refers to the storm, and 'fait peur' means 'is scary' or 'makes one afraid'. The distractors test misinterpretation of the speaker's feeling (beautiful, interesting, quiet).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Listening practice",
+    "tags": ["natural-disasters", "weather", "emotions"],
+    "timeCreated": 1720800000,
+    "parentQuestion": 240
+}

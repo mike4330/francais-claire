@@ -1,0 +1,18 @@
+{
+  "id": 440,
+  "audioText": "J'ouvrirai dignement cette porte quand la nourriture a été servie admirablement par hasard.",
+  "question": "What will I dignifiedly open when food was admirably served by chance?",
+  "questionType": "comprehension",
+  "options": [
+    "This door",
+    "These important documents carefully stored in the office",
+    "Those valuable files systematically organized in the cabinet",
+    "The conference room windows facing the garden"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ouvrirai dignement cette porte quand la nourriture a été servie admirablement par hasard</em>' - I will dignifiedly open this door when food was admirably served by chance. This combines 'ouvrirai', 'dignement', 'servie', 'admirablement', and 'hasard'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - ouvrirai + dignement + servie + admirablement + hasard synergy + food service",
+  "tags": ["food", "chance", "service"],
+  "timeCreated": 1736806220
+}

@@ -1,0 +1,15 @@
+{
+  "id": 435,
+  "audioText": "J'ai continué résolument à parler avec l'homme aveugle jusqu'à ce que nous manquez le bateau.",
+  "question": "J'ai ______ résolument à parler avec l'homme aveugle jusqu'à ce que nous manquez le bateau.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "continué",
+  "acceptedAnswers": ["continué", "Continué"],
+  "explanation": "The text states '<em>J'ai continué résolument à parler avec l'homme aveugle jusqu'à ce que nous manquez le bateau</em>' - I continued resolutely to speak with the blind man until we missed the boat. 'Continué' is the past participle of 'continuer' (to continue), used with avoir in the passé composé.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - continué + résolument + parole + aveugle + manquez + bateau synergy + communication",
+  "tags": ["communication", "disability", "transportation"],
+  "timeCreated": 1736805840
+}

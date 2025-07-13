@@ -1,0 +1,22 @@
+{
+  "id": 2051,
+  "audioText": "Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bruyants en classe.",
+  "question": "Why were the children often punished?",
+  "questionType": "comprehension",
+  "options": [
+    "They were too noisy in class",
+    "They didn't do their homework",
+    "They arrived late to school",
+    "They fought with other students"
+  ],
+  "correct": 0,
+  "explanation": "The sentence uses 'étions' (imperfect 1st person plural of être) to describe how they were often punished for being too noisy as children.",
+  "difficulty": "C1",
+  "source": "Childhood memories with imperfect tense",
+  "tags": [
+    "education",
+    "childhood",
+    "behavior"
+  ],
+  "timeCreated": 1719936120
+}

@@ -1,0 +1,22 @@
+{
+  "id": 32,
+  "audioText": "Cette femme est très digne de notre respect.",
+  "question": "Cette femme est très ______ de notre respect.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "digne",
+    "capable",
+    "fière",
+    "heureuse"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette femme est très digne de notre respect</em>' - This woman is very worthy of our respect. 'Digne' means worthy/deserving, often used in the expression 'digne de' (worthy of).",
+  "difficulty": "A2",
+  "source": "Strategic targeting - digne + conversational respect context",
+  "tags": [
+    "workplace",
+    "emotions",
+    "respect"
+  ],
+  "timeCreated": 1736806860
+}

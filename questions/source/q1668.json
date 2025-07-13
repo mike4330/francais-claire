@@ -1,0 +1,18 @@
+{
+  "id": 1668,
+  "audioText": "Vous quittez la maison tôt car le médecin vous servira en priorité si vous arrivez avant huit heures.",
+  "question": "Why do you leave the house early?",
+  "questionType": "comprehension",
+  "options": [
+    "Because the doctor will serve you priority if you arrive before eight",
+    "Because traffic is lighter in the early morning hours",
+    "Because the medical clinic opens at exactly eight o'clock",
+    "Because you need time to find parking near the hospital"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Because the doctor will serve you priority if you arrive before eight'. The text states '<em>Vous quittez la maison tôt car le médecin vous servira en priorité si vous arrivez avant huit heures</em>' - You leave the house early because the doctor will serve you priority if you arrive before eight o'clock. 'Servira' is the future tense of 'servir'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - quittez + servira synergy + medical appointment",
+  "tags": ["health", "appointments", "medical"],
+  "timeCreated": 1736803000
+}

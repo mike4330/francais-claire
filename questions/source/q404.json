@@ -1,0 +1,15 @@
+{
+  "id": 404,
+  "audioText": "J'ai lu ce livre intéressant hier soir dans mon lit.",
+  "question": "J'ai ______ ce livre intéressant hier soir dans mon lit.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "lu",
+  "acceptedAnswers": ["lu", "Lu"],
+  "explanation": "The correct answer is 'lu'. The text states '<em>J'ai lu ce livre intéressant hier soir dans mon lit</em>' - I read this interesting book last night in my bed. 'Lu' is the past participle of 'lire' (to read) used with auxiliary 'avoir'.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - lu conjugate + reading habits",
+  "tags": ["reading", "daily-life", "evening"],
+  "timeCreated": 1736802760
+}

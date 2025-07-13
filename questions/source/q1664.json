@@ -1,0 +1,18 @@
+{
+  "id": 1664,
+  "audioText": "Tu changeais souvent d'avis quand nous apprenions ensemble les règles du jeu.",
+  "question": "Tu ______ souvent d'avis quand nous apprenions ensemble les règles du jeu.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "changeais",
+    "changes",
+    "changeras",
+    "changerais"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'changeais'. The text states '<em>Tu changeais souvent d'avis quand nous apprenions ensemble les règles du jeu</em>' - You often changed your mind when we were learning the game rules together. 'Changeais' is the imperfect tense matching the temporal context of 'apprenions'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - changeais + apprendre synergy + games",
+  "tags": ["games", "learning", "decision-making"],
+  "timeCreated": 1736802580
+}

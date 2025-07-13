@@ -1,0 +1,18 @@
+{
+  "id": 2111,
+  "audioText": "Les pianistes emmené regardent la moitié de l'escalier où le courant traverse leurs mémoires complexes affectant leur mouvement musical.",
+  "question": "What do the taken pianists look at?",
+  "questionType": "comprehension",
+  "options": [
+    "Half of the staircase where current passes through their complex memories affecting their musical movement",
+    "Sheet music arrangements displayed on digital screens during rehearsal sessions",
+    "Performance venues and concert hall acoustics for optimal sound projection",
+    "Technical equipment and sound engineering systems for recording purposes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les pianistes emmenés regardent la moitié de l'escalier où le courant traverse leurs mémoires complexes affectant leur mouvement musical</em>' - The taken pianists look at half of the staircase where the current passes through their complex memories affecting their musical movement. This combines multiple target nouns.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - piano + emmené + moitié + escalier + courant + mémoires + complexes + mouvement synergy",
+  "tags": ["piano", "complexity", "musical-performance"],
+  "timeCreated": 1736805140
+}

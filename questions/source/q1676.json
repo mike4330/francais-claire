@@ -1,0 +1,23 @@
+{
+  "id": 1676,
+  "audioText": "Ce vieux quartier du Chili est au bout de la route.",
+  "question": "What does the speaker say about the old neighborhood of Chile?",
+  "questionType": "listening",
+  "options": [
+    "At the end of the road",
+    "In the middle of the city",
+    "Near the main square",
+    "Behind the mountain"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce vieux quartier du Chili est au bout de la route</em>' - This old neighborhood of Chile is at the end of the road. 'Vieux' means 'old' and 'bout' means 'end'. The distractors test misinterpretation of the location (middle of the city, near the main square, behind the mountain).",
+  "difficulty": "A2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "chile",
+    "travel",
+    "location"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 916
+}

@@ -1,0 +1,15 @@
+{
+  "id": 401,
+  "audioText": "Tu dormiras mieux après avoir mangé cette soupe chaude.",
+  "question": "Tu ______ mieux après avoir mangé cette soupe chaude.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "dormiras",
+  "acceptedAnswers": ["dormiras", "Dormiras"],
+  "explanation": "The correct answer is 'dormiras'. The text states '<em>Tu dormiras mieux après avoir mangé cette soupe chaude</em>' - You will sleep better after eating this warm soup. 'Dormiras' is the second person singular future of 'dormir' (to sleep).",
+  "difficulty": "A2",
+  "source": "Strategic targeting - dormiras + manger synergy",
+  "tags": ["health", "food", "sleep"],
+  "timeCreated": 1736801500
+}

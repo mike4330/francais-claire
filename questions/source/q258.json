@@ -1,0 +1,22 @@
+{
+  "id": 258,
+  "audioText": "Mon frère a mal à l'oreille depuis hier.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Mon frère a mal à l'oreille depuis hier.",
+    "Mon frère a mal aux oreilles depuis hier.",
+    "Ma frère a mal à l'oreille depuis hier.",
+    "Mon frère a mal à l'oreille depuis demain."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon frère a mal à l'oreille depuis hier</em>' - My brother has had an earache since yesterday. 'Mal à l'oreille' means earache, and 'depuis hier' means since yesterday.",
+  "difficulty": "A2",
+  "source": "Health conversation",
+  "tags": [
+    "family",
+    "health",
+    "time"
+  ],
+  "timeCreated": 1736806560
+}

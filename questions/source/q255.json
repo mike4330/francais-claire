@@ -1,0 +1,22 @@
+{
+  "id": 255,
+  "audioText": "Cet appel manquait moyen présentement dans l'oreille responsable.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cet appel manquait moyen présentement dans l'oreille responsable.",
+    "Ces appels manquait moyen présentement dans l'oreille responsable.",
+    "Cet appel manquaient moyen présentement dans l'oreille responsable.",
+    "Cet appel manquait moyens présentement dans l'oreille responsable."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet appel manquait moyen présentement dans l'oreille responsable</em>' - This call was missing average presently in the responsible ear. 'Appel' means call/appeal and tests agreement patterns.",
+  "difficulty": "A2",
+  "source": "Strategic targeting - appel + manquait + moyen + présentement + oreille + responsable synergy + communication",
+  "tags": [
+    "communication",
+    "technology",
+    "time"
+  ],
+  "timeCreated": 1736806720
+}

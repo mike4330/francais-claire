@@ -1,0 +1,18 @@
+{
+  "id": 2075,
+  "audioText": "Conformément aux recommandations, les entreprises quitterai cette pierre tombale économique où elles souvienne horriblement de leurs échecs passés.",
+  "question": "Conformément aux recommandations, les entreprises ______ cette pierre tombale économique où elles souvienne horriblement de leurs échecs passés.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "quitteront",
+    "quitterai",
+    "quittaient",
+    "quitteraient"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Conformément aux recommandations, les entreprises quitteront cette pierre tombale économique où elles se souviennent horriblement de leurs échecs passés</em>' - In accordance with recommendations, companies will leave this economic tombstone where they horribly remember their past failures. This combines 'conformément', 'quitterai', 'pierre', 'souvienne', and 'horriblement'.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - conformément + quitterai + pierre + souvienne + horriblement synergy + economic recovery",
+  "tags": ["economic-recovery", "business-failure", "recommendations"],
+  "timeCreated": 1736804720
+}
