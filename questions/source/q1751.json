@@ -1,24 +1,23 @@
 {
   "id": 1751,
-  "audioText": "Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens. L'analyse stylistique révèle des influences clairement méditerranéennes dans les progressions d'accords, particulièrement dans les mouvements lents où la mélodie adopte des ornementations typiques de l'école napolitaine.",
-  "question": "What would a musicologist never believe about Bach's composition according to this analysis?",
+  "audioText": "Il vaudrait mieux partir illico pour éviter cette chaleur malheureux descendu dessous.",
+  "question": "What would be better to avoid the unfortunate heat that has descended below?",
   "questionType": "comprehension",
   "options": [
-    "That Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries",
-    "That Bach deliberately avoided Italian influences in his compositional style",
-    "That Bach was the first composer to use Mediterranean harmonic progressions",
-    "That Bach's slow movements were inferior to those of the Neapolitan school"
+    "Leave right away",
+    "Stay inside",
+    "Drink more water",
+    "Close the windows"
   ],
   "correct": 0,
-  "explanation": "The text states 'Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens' - A musicologist would never believe that Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries. The stylistic analysis reveals clear Mediterranean influences.",
-  "difficulty": "C1",
-  "source": "Academic Music History",
+  "explanation": "The text states '<em>Il vaudrait mieux partir illico pour éviter cette chaleur malheureux descendu dessous</em>' - It would be better to leave right away to avoid this unfortunate heat that has descended below. This combines 'vaudrait' (would be worth), 'illico' (right away), 'chaleur' (heat), 'malheureux' (unfortunate), 'descendu' (descended), and 'dessous' (below).",
+  "difficulty": "B2",
+  "source": "Weather emergency conversation",
   "tags": [
-    "music-history",
-    "bach",
-    "musicology",
-    "italian-influences",
-    "harmonic-analysis",
-    "academic-discourse"
-  ]
+    "weather",
+    "emergency",
+    "travel",
+    "advice"
+  ],
+  "timeCreated": 1736784660
 }

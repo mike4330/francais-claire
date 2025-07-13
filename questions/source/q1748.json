@@ -1,23 +1,23 @@
 {
   "id": 1748,
-  "audioText": "Si j'étais à ta place, je penserais net que cette proposition d'investissement dans les énergies propres mérite une analyse approfondie.",
-  "question": "What would the speaker think clearly if they were in your position?",
-  "questionType": "comprehension",
+  "audioText": "Ce dingue descends affreusement dans la douleur maintenant.",
+  "question": "Ce dingue ______ affreusement dans la douleur maintenant.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "That the clean energy investment proposal deserves thorough analysis",
-    "That all investment proposals should be immediately rejected",
-    "That clean energy is not worth considering for investment",
-    "That the proposal lacks any merit or potential value"
+    "descends",
+    "descend",
+    "descendez",
+    "descendant"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Si j'étais à ta place, je penserais net que cette proposition d'investissement dans les énergies propres mérite une analyse approfondie</em>' - If I were in your position, I would think clearly that this clean energy investment proposal deserves thorough analysis. 'Penserais' is the conditional form of 'penser' (to think), 'net' means clearly/sharply, and the text discusses the merit of clean energy investment.",
-  "difficulty": "C1",
-  "source": "Clean energy investment consideration",
+  "explanation": "The text states '<em>Ce dingue descends affreusement dans la douleur maintenant</em>' - This crazy person descends terribly into pain now. 'Descends' is the second person singular present form of 'descendre' (to descend). This combines 'dingue' (crazy), 'descends' (descend), 'affreusement' (terribly), and 'douleur' (pain).",
+  "difficulty": "B2",
+  "source": "Psychological drama discussion",
   "tags": [
-    "clean-energy",
-    "investment",
-    "business",
-    "decision-making"
+    "psychology",
+    "emotions",
+    "health",
+    "mental-state"
   ],
-  "timeCreated": 1751813520
+  "timeCreated": 1736784480
 }

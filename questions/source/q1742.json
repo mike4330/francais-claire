@@ -1,24 +1,23 @@
 {
   "id": 1742,
-  "audioText": "Les réformes économiques ont profondément transformé le visage du pays, notamment dans les secteurs de l'éducation, de la santé et des infrastructures publiques essentielles.",
-  "question": "In which areas have the economic reforms particularly transformed the country?",
+  "audioText": "Le soldat qui a été sauvé donne maintenant l'exemple à tous ses camarades avec sa foi.",
+  "question": "What does the saved soldier do now?",
   "questionType": "comprehension",
   "options": [
-    "Education, health, and essential public infrastructure",
-    "Only private business and commercial sectors",
-    "Exclusively military and defense industries",
-    "Just agricultural and rural development"
+    "He sets an example for his comrades with his faith",
+    "He teaches military strategy to new recruits",
+    "He writes reports about his experience",
+    "He requests a transfer to another unit"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les réformes économiques ont profondément transformé le visage du pays, notamment dans les secteurs de l'éducation, de la santé et des infrastructures publiques</em>' - The economic reforms have profoundly transformed the face of the country, notably in the sectors of education, health, and public infrastructure. 'Notamment' means notably/in particular, and 'visage' means face/appearance.",
-  "difficulty": "C1",
-  "source": "Economic reform impact on public sectors",
+  "explanation": "The text states '<em>Le soldat qui a été sauvé donne maintenant l'exemple à tous ses camarades avec sa foi</em>' - The soldier who was saved now sets an example for all his comrades with his faith. This combines 'soldat' (soldier), 'sauvé' (saved), 'exemple' (example), and 'foi' (faith).",
+  "difficulty": "B1",
+  "source": "Military inspiration story",
   "tags": [
-    "economics",
-    "reform",
-    "education",
-    "health",
-    "infrastructure"
+    "military",
+    "inspiration",
+    "faith",
+    "leadership"
   ],
-  "timeCreated": 1751812980
+  "timeCreated": 1736784000
 }

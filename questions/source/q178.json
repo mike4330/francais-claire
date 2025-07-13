@@ -6,13 +6,14 @@
     "options": [
         "Je regarderai ce documentaire demain soir.",
         "Je regarde ce documentaire demain soir.",
-        "J'ai regardé ce documentaire demain soir.",
+        "Je regarderai ce documentaire hier soir.",
         "Je regardais ce documentaire demain soir."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'regarderai' - the future form of 'regarder' (to watch) for je. 'Je regarderai' means 'I will watch'. This is a listening question testing exact auditory comprehension of the future tense.",
+    "explanation": "The correct answer is the first option. The text states '<em>Je regarderai ce documentaire demain soir</em>' - I will watch this documentary tomorrow evening. This tests the future tense 'regarderai' vs present 'regarde', past 'regardais', and the temporal logic of 'demain' (tomorrow) vs 'hier' (yesterday).",
     "difficulty": "A2",
     "source": "Future entertainment plans",
     "tags": ["entertainment", "future-plans", "television"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

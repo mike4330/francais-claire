@@ -1,23 +1,23 @@
 {
   "id": 1725,
-  "audioText": "Personne ne saurait prédire avec certitude l'évolution future du marché financier international.",
-  "question": "Personne ne ______ prédire avec certitude l'évolution future du marché financier international.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Pour être libre dans ce monde, il faut être craint. Pour être craint, il faut être puissant.",
+  "question": "According to this statement, what is necessary to be free in this world?",
+  "questionType": "comprehension",
   "options": [
-    "saurait",
-    "pourrait",
-    "devrait",
-    "voudrait"
+    "One must be feared, and to be feared, one must be powerful",
+    "One must be loved and respected by everyone",
+    "One must have many friends and allies",
+    "One must avoid all conflicts and remain neutral"
   ],
   "correct": 0,
-  "explanation": "The missing word is 'saurait'. The complete sentence is 'Personne ne saurait prédire avec certitude l'évolution future du marché financier international' - No one could predict with certainty the future evolution of the international financial market. 'Saurait' is the conditional form of 'savoir' (to know), expressing ability or possibility.",
-  "difficulty": "C1",
-  "source": "Financial market analysis and predictions",
+  "explanation": "The text states '<em>Pour être libre dans ce monde, il faut être craint. Pour être craint, il faut être puissant</em>' - To be free in this world, one must be feared. To be feared, one must be powerful. This expresses a philosophy linking freedom to power through fear.",
+  "difficulty": "B1",
+  "source": "Political philosophy discussion",
   "tags": [
-    "finance",
-    "market-analysis",
-    "predictions",
-    "economics"
+    "politics",
+    "philosophy",
+    "power",
+    "society"
   ],
-  "timeCreated": 1735949280
+  "timeCreated": 1736782800
 }

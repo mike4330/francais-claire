@@ -1,24 +1,18 @@
 {
   "id": 1711,
-  "audioText": "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "À jeun, vous plairez interminablement au diable quand cette pierre tomberait atrocement et j'ouvrirai ce fer dans l'oreille où nous avons lus des livres montés sur le rendez-vous où la nourriture a été servie.",
+  "question": "À jeun, vous ______ interminablement au diable quand cette pierre tomberait atrocement et j'ouvrirai ce fer dans l'oreille où nous avons lus des livres montés sur le rendez-vous où la nourriture a été servie.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-    "La communauté monastique attendait depuis des décennies la canonisation de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif.",
-    "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par le Vatican consacrerait définitivement son héritage spirituel et renforcerait le rayonnement national de leur ordre contemplatif.",
-    "La communauté monastique attendait depuis des décennies la béatification de leur fondateur. Cette reconnaissance officielle par Rome consacrerait définitivement son héritage spirituel et renforcerait le rayonnement international de leur ordre contemplatif."
+    "plairez",
+    "plaisez",
+    "plairiez",
+    "plairont"
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était avec 'béatification' (pas canonisation), 'Vatican' (pas Rome), et 'rayonnement international' (pas national). Les distracteurs testent la précision de l'écoute sur les termes techniques religieux et les nuances institutionnelles.",
-  "difficulty": "C1",
-  "source": "Vatican Religious Affairs",
-  "tags": [
-    "religion",
-    "monasticism",
-    "vatican",
-    "beatification",
-    "spiritual-heritage",
-    "contemplative-orders"
-  ]
+  "explanation": "The text states '<em>À jeun, vous plairez interminablement au diable quand cette pierre tomberait atrocement et j'ouvrirai ce fer dans l'oreille où nous avons lus des livres montés sur le rendez-vous où la nourriture a été servie</em>' - On an empty stomach, you will endlessly please the devil when this stone would fall atrociously and I will open this iron in the ear where we have read books mounted on the appointment where food was served. This combines 'à jeun', 'plairez', 'interminablement', 'diable', 'pierre', 'tomberait', 'atrocement', 'ouvrirai', 'fer', 'oreille', 'lus', 'montés', 'rendez-vous', and 'servie'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - à jeun + plairez + interminablement + diable + pierre + tomberait + atrocement + ouvrirai + fer + oreille + lus + montés + rendez-vous + servie synergy + supernatural",
+  "tags": ["supernatural", "food", "health"],
+  "timeCreated": 1736806300
 }

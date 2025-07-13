@@ -1,23 +1,22 @@
 {
   "id": 1726,
-  "audioText": "Les rapports ont été soigneusement suivis et analysés par notre équipe d'experts financiers.",
-  "question": "Les rapports ont été soigneusement ______ et analysés par notre équipe d'experts financiers.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Aussitôt qu'il a entendu la nouvelle, Marc a appelé sa famille.",
+  "question": "When did Marc call his family?",
+  "questionType": "comprehension",
   "options": [
-    "suivis",
-    "étudiés",
-    "préparés",
-    "rédigés"
+    "As soon as he heard the news",
+    "Before he heard the news",
+    "A few hours after hearing the news",
+    "The next day after hearing the news"
   ],
   "correct": 0,
-  "explanation": "The missing word is 'suivis'. The complete sentence is 'Les rapports ont été soigneusement suivis et analysés par notre équipe d'experts financiers' - The reports were carefully followed and analyzed by our team of financial experts. 'Suivis' is the past participle of 'suivre' (to follow), used here in the passive voice.",
-  "difficulty": "C1",
-  "source": "Financial report analysis and monitoring",
+  "explanation": "The adverb 'aussitôt' means 'as soon as' or 'immediately'. Combined with 'que' (that), 'aussitôt que' indicates that Marc called his family immediately upon hearing the news, without any delay.",
+  "difficulty": "B1",
+  "source": "Family communication scenario",
   "tags": [
-    "finance",
-    "reports",
-    "analysis",
-    "monitoring"
+    "family",
+    "communication",
+    "news"
   ],
-  "timeCreated": 1735949460
+  "timeCreated": 1720076520
 }

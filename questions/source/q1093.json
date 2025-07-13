@@ -1,7 +1,7 @@
 {
   "id": 1093,
   "audioText": "Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.",
-  "parentQuestion": 1895,
+  "parentQuestion": 2210,
   "question": "Qu'est-ce que vous avez entendu?",
   "questionType": "listening",
   "options": [
@@ -11,7 +11,7 @@
     "Le milliardaire va donner deux millions d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges.' - The billionaire will give one million euros to Venetian associations to calm criticism of his wedding in the city of Doges.",
+  "explanation": "The text states '<em>Le milliardaire va donner un million d'euros à des associations vénitiennes pour calmer les critiques de son mariage dans la cité des Doges</em>' - The billionaire will give one million euros to Venetian associations to calm criticism of his wedding in the city of Doges.",
   "difficulty": "B2",
   "source": "Celebrity News - Listening",
   "tags": [
@@ -19,5 +19,7 @@
     "marriage",
     "venice",
     "money"
-  ]
+  ],
+  "verified": "claude",
+  "timeCreated": 1736805320
 }

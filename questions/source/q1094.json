@@ -10,15 +10,10 @@
     "He was directing traffic around a vehicle breakdown"
   ],
   "correct": 1,
-  "explanation": "The road worker 'a été victime d'un accident alors qu'il portait assistance à un véhicule en panne' - was the victim of an accident while assisting a broken-down vehicle. The text indicates he was helping someone with a breakdown when the incident occurred.",
+  "explanation": "The text states '<em>Un agent des routes de 24 ans a été victime d'un accident alors qu'il portait assistance à un véhicule en panne dans l'Eure</em>' - A 24-year-old road worker was the victim of an accident while assisting a broken-down vehicle in Eure.",
   "difficulty": "B2",
   "source": "French Traffic News",
-  "tags": [
-    "news",
-    "accident",
-    "road-worker",
-    "assistance",
-    "eure",
-    "traffic"
-  ]
+  "tags": ["news", "accident", "road-worker", "assistance", "eure", "traffic"],
+  "verified": "claude",
+  "timeCreated": 1736805340
 }

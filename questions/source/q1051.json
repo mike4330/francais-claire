@@ -10,9 +10,10 @@
         "restaient"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Ces étudiants resteront à l'université pendant les vacances d'été pour leurs recherches.</em>' - 'These students will stay at the university during summer vacation for their research.' The missing word is 'resteront' (will stay), the future tense third person plural of 'rester'.",
+    "explanation": "The correct answer is 'resteront'. The text states '<em>Ces étudiants resteront à l'université pendant les vacances d'été pour leurs recherches</em>' - These students will stay at the university during summer vacation for their research. 'Resteront' is the future tense third person plural of 'rester' (to stay).",
     "difficulty": "B2",
     "source": "Academic research and summer programs",
     "tags": ["education", "research", "university", "summer"],
-    "timeCreated": 1736349240
+    "timeCreated": 1736349240,
+    "verified": "claude"
 }

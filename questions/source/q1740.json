@@ -1,23 +1,22 @@
 {
   "id": 1740,
-  "audioText": "Cette technologie révolutionnaire existait naguère uniquement dans l'imagination des auteurs de science-fiction, mais elle façonne désormais notre réalité quotidienne de manière spectaculaire.",
-  "question": "Where did this revolutionary technology exist previously?",
+  "audioText": "Les documents importants qui ont été volés contenaient des informations confidentielles.",
+  "question": "What did the stolen documents contain?",
   "questionType": "comprehension",
   "options": [
-    "Only in the imagination of science fiction writers",
-    "In advanced military research laboratories",
-    "In universities and academic institutions",
-    "In commercial technology companies"
+    "Confidential information",
+    "Public announcements",
+    "Personal photos",
+    "Shopping lists"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette technologie révolutionnaire existait naguère uniquement dans l'imagination des auteurs de science-fiction</em>' - This revolutionary technology formerly existed only in the imagination of science fiction writers. 'Naguère' means formerly/not long ago, indicating something that existed in the recent past but no longer does in the same way.",
-  "difficulty": "C1",
-  "source": "Technology evolution and science fiction becoming reality",
+  "explanation": "The text states '<em>Les documents importants qui ont été volés contenaient des informations confidentielles</em>' - The important documents that were stolen contained confidential information. 'Volés' is the masculine plural past participle of 'voler' (to steal).",
+  "difficulty": "B2",
+  "source": "Security breach news",
   "tags": [
-    "technology",
-    "science-fiction",
-    "innovation",
-    "reality"
+    "crime",
+    "business",
+    "information"
   ],
-  "timeCreated": 1751812800
+  "timeCreated": 1736783880
 }

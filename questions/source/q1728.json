@@ -1,23 +1,22 @@
 {
   "id": 1728,
-  "audioText": "La rivière était en crue après les fortes pluies de la semaine dernière.",
-  "question": "La rivière était en ______ après les fortes pluies de la semaine dernière.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Quand elle vole dans l'avion, elle rencontre souvent des gens intéressants qui voyagent.",
+  "question": "When does she meet interesting people?",
+  "questionType": "comprehension",
   "options": [
-    "crue",
-    "débordement",
-    "montée",
-    "inondation"
+    "When she flies in the airplane",
+    "When she works at the airport",
+    "When she visits travel agencies",
+    "When she reads travel magazines"
   ],
   "correct": 0,
-  "explanation": "The missing word is 'crue'. The complete sentence is 'La rivière était en crue après les fortes pluies de la semaine dernière' - The river was in flood after last week's heavy rains. 'Crue' means flood or high water level, and 'en crue' means 'in flood'.",
-  "difficulty": "C1",
-  "source": "Weather conditions and natural phenomena",
+  "explanation": "The text states '<em>Quand elle vole dans l'avion, elle rencontre souvent des gens intéressants</em>' - When she flies in the airplane, she often meets interesting people. 'Vole' (flies) and 'rencontre' (meets) are key present tense forms.",
+  "difficulty": "B1",
+  "source": "Travel conversation",
   "tags": [
-    "weather",
-    "natural-disasters",
-    "rivers",
-    "flooding"
+    "travel",
+    "social-interaction",
+    "transportation"
   ],
-  "timeCreated": 1735949880
+  "timeCreated": 1736782920
 }

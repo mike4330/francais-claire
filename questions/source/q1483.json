@@ -10,7 +10,8 @@
     "It was recorded by millions of viewers."
   ],
   "correct": 0,
-  "explanation": "The French sentence uses 'regardée' - the past participle feminine form of 'regarder' (to watch). 'Cette émission a été regardée' means 'this show was watched'. The past participle agrees with the feminine noun 'émission'.",
+  "explanation": "The text states '<em>Cette émission a été regardée par des millions de téléspectateurs</em>' - This show was watched by millions of viewers. The past participle 'regardée' agrees with the feminine noun 'émission'.",
+  "verified": "claude",
   "difficulty": "B2",
   "source": "Media audience statistics",
   "tags": [

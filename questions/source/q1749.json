@@ -1,24 +1,23 @@
 {
   "id": 1749,
-  "audioText": "Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme. Cette œuvre révèle comment les représentations littéraires occidentales ont façonné notre compréhension de l'Autre et perpétué des hiérarchies culturelles héritées de l'empire colonial.",
-  "question": "What literary approach is the speaker taking and what do they expect to find?",
+  "audioText": "Les soldats outre-mer valait beaucoup pour cette parole anglaise.",
+  "question": "What did the overseas soldiers value highly?",
   "questionType": "comprehension",
   "options": [
-    "A postcolonial analysis that will reveal echoes of Said's orientalism theories and show how Western representations shaped understanding of the Other",
-    "A feminist literary critique examining how women authors challenged colonial narratives",
-    "A structuralist approach that will uncover hidden meanings in colonial-era texts",
-    "A biographical study of Edward Said's influence on contemporary Middle Eastern writers"
+    "This English word",
+    "Their military training",
+    "Local traditions",
+    "Foreign currency"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme' - in this postcolonial analysis, I will certainly find echoes of Said's theories on orientalism. They expect to reveal how Western literary representations shaped understanding of the Other and perpetuated cultural hierarchies inherited from the colonial empire.",
-  "difficulty": "C1",
-  "source": "Literary Criticism",
+  "explanation": "The text states '<em>Les soldats outre-mer valait beaucoup pour cette parole anglaise</em>' - The overseas soldiers valued this English word highly. This combines 'outre-mer' (overseas), 'valait' (was worth), 'parole' (word), and 'anglaise' (English).",
+  "difficulty": "B2",
+  "source": "Military overseas service discussion",
   "tags": [
-    "literature",
-    "postcolonialism",
-    "orientalism",
-    "literary-theory",
-    "cultural-analysis",
-    "edward-said"
-  ]
+    "military",
+    "international",
+    "language",
+    "overseas"
+  ],
+  "timeCreated": 1736784540
 }

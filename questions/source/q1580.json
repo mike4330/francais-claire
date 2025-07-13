@@ -1,6 +1,6 @@
 {
     "id": 1580,
-    "audioText": "Le vétérinaire portez délicatement l'instrument pour examiner la gueule infectée du chien abandonné dans la rue.",
+    "audioText": "Le vétérinaire porte délicatement l'instrument pour examiner la gueule infectée du chien abandonné dans la rue.",
     "question": "What does the veterinarian carry delicately to examine the infected mouth of the abandoned dog?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Protective gloves for safety during examination"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le vétérinaire portez délicatement l'instrument pour examiner la gueule infectée du chien abandonné dans la rue.</em>' - The veterinarian carries the instrument delicately to examine the infected mouth of the abandoned dog in the street. 'Gueule' means mouth (for animals), 'portez' is a form of 'porter' (to carry), and 'délicatement' means delicately.",
+    "explanation": "The correct answer is 'The instrument'. The text states '<em>Le vétérinaire porte délicatement l'instrument pour examiner la gueule infectée du chien abandonné dans la rue</em>' - The veterinarian carries the instrument delicately to examine the infected mouth of the abandoned dog in the street. 'Porte' means carries, 'gueule' means mouth (for animals).",
     "difficulty": "B2",
     "source": "Strategic noun coverage development - veterinary care precision",
     "tags": ["veterinary", "animals", "medical"],
-    "timeCreated": 1720831000
+    "timeCreated": 1720831000,
+    "verified": "claude"
 }

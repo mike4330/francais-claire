@@ -1,23 +1,18 @@
 {
   "id": 1720,
-  "audioText": "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "Sournoisement, ce colonel responsable emmènerai cette pierre maigre dans l'intérêt du diable con quand la nourriture a été servie fissa par hasard lors du rendez-vous.",
+  "question": "What kind of devil will the responsible colonel take this thin stone to in the interest of when food was quickly served by chance during the appointment?",
+  "questionType": "comprehension",
   "options": [
-    "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.",
-    "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres objets décoratifs.",
-    "Si elle avait plus de temps libre, elle suivrait des cours de poterie pour créer ses propres vases décoratifs.",
-    "Si elle avait plus de temps libre, elle prendrait des cours de sculpture pour créer ses propres vases décoratifs."
+    "Stupid devil",
+    "Intelligent authority",
+    "Wise professor", 
+    "Smart executive"
   ],
   "correct": 0,
-  "explanation": "The exact phrase was 'Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.' - If she had more free time, she would take pottery classes to create her own decorative vases. Note 'prendrait' vs 'suivrait', 'poterie' vs 'sculpture', and 'vases' vs 'objets'. 'Prendrait' is the conditional form of 'prendre' (to take), third person singular.",
-  "difficulty": "C1",
-  "source": "Pottery and creative hobbies",
-  "tags": [
-    "pottery",
-    "crafting",
-    "hobbies",
-    "creativity"
-  ],
-  "timeCreated": 1735953360
+  "explanation": "The text states '<em>Sournoisement, ce colonel responsable emmènerai cette pierre maigre dans l'intérêt du diable con quand la nourriture a été servie fissa par hasard lors du rendez-vous</em>' - Sneakily, this responsible colonel will take this thin stone in the interest of the stupid devil when food was quickly served by chance during the appointment. 'Responsable' means responsible and 'con' means stupid (informal).",
+  "difficulty": "B1",
+  "source": "Strategic targeting - sournoisement + colonel + responsable + emmènerai + pierre + maigre + intérêt + diable + con + servie + fissa + hasard + rendez-vous synergy + supernatural",
+  "tags": ["supernatural", "military", "appointment"],
+  "timeCreated": 1736806580
 }

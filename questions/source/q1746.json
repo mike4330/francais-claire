@@ -1,23 +1,23 @@
 {
   "id": 1746,
-  "audioText": "Cette terre ancestrale avait terriblement souffert des politiques agricoles inadéquates qui avaient machinalement détruit l'équilibre écologique millénaire de cette région.",
-  "question": "What had terribly damaged the ancestral land?",
+  "audioText": "L'exemple que donnent ces soldats sauvés inspire automatiquement une foi profonde en la loi.",
+  "question": "What does the example of the saved soldiers inspire?",
   "questionType": "comprehension",
   "options": [
-    "Inadequate agricultural policies that mechanically destroyed ecological balance",
-    "Natural disasters and climate change effects",
-    "Urban development and construction projects",
-    "Tourist activities and recreational use"
+    "Deep faith in the law automatically",
+    "Fear of military discipline",
+    "Doubt about government policies",
+    "Confusion about legal procedures"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette terre ancestrale avait terriblement souffert des politiques agricoles inadéquates qui avaient machinalement détruit l'équilibre écologique</em>' - This ancestral land had terribly suffered from inadequate agricultural policies that had mechanically destroyed the ecological balance. 'Terre' means land/earth, 'terriblement' means terribly, and 'machinalement' means mechanically/automatically.",
-  "difficulty": "C1",
-  "source": "Environmental damage from poor agricultural policy",
+  "explanation": "The text states '<em>L'exemple que donnent ces soldats sauvés inspire automatiquement une foi profonde en la loi</em>' - The example that these saved soldiers give automatically inspires deep faith in the law. This combines 'exemple' (example), 'soldats' (soldiers), 'sauvés' (saved), 'automatiquement' (automatically), 'foi' (faith), and 'loi' (law).",
+  "difficulty": "B2",
+  "source": "Military inspiration analysis",
   "tags": [
-    "environment",
-    "agriculture",
-    "policy",
-    "ecology"
+    "military",
+    "inspiration",
+    "faith",
+    "law"
   ],
-  "timeCreated": 1751813400
+  "timeCreated": 1736784300
 }

@@ -10,14 +10,10 @@
     "They decided to participate in another reality show"
   ],
   "correct": 1,
-  "explanation": "Clémence and Malik 'donnent des explications après leur séparation difficile' - give explanations after their difficult separation. Their breakup announcement 'a provoqué de nombreuses réactions sur les réseaux sociaux' - provoked many reactions on social media.",
+  "explanation": "The text states '<em>Clémence et Malik donnent des explications après leur séparation difficile suite à l'émission de télé-réalité</em>' - Clémence and Malik give explanations after their difficult separation following the reality TV show.",
   "difficulty": "B2",
   "source": "French Reality TV News",
-  "tags": [
-    "reality-tv",
-    "celebrity",
-    "separation",
-    "social-media",
-    "entertainment"
-  ]
+  "tags": ["reality-tv", "celebrity", "separation", "social-media", "entertainment"],
+  "verified": "claude",
+  "timeCreated": 1736805380
 }

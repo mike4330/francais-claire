@@ -1,6 +1,6 @@
 {
     "id": 1548,
-    "audioText": "Le cuisinier apprendrai vraisemblablement à utiliser l'estragon et la sauge dans ses recettes gastronomiques sophistiquées.",
+    "audioText": "Le cuisinier apprendra vraisemblablement à utiliser l'estragon et la sauge dans ses recettes gastronomiques sophistiquées.",
     "question": "What will the cook probably learn to use in sophisticated gourmet recipes?",
     "questionType": "comprehension",
     "options": [
@@ -10,7 +10,8 @@
         "Modern molecular gastronomy techniques and equipment"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le cuisinier apprendrai vraisemblablement à utiliser l'estragon et la sauge dans ses recettes gastronomiques sophistiquées.</em>' - The cook will probably learn to use tarragon and sage in sophisticated gourmet recipes. 'Estragon' means tarragon, 'sauge' means sage, 'apprendrai' is a form of 'apprendre' (to learn), and 'vraisemblablement' means probably.",
+    "explanation": "The text states '<em>Le cuisinier apprendra vraisemblablement à utiliser l'estragon et la sauge dans ses recettes gastronomiques sophistiquées</em>' - The cook will probably learn to use tarragon and sage in sophisticated gourmet recipes.",
+    "verified": "claude",
     "difficulty": "B2",
     "source": "Strategic spice vocabulary development - gourmet cooking",
     "tags": ["cooking", "professional", "spices"],

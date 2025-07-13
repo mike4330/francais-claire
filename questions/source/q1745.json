@@ -1,23 +1,23 @@
 {
   "id": 1745,
-  "audioText": "Ce nom prestigieux dissimule gravement les contradictions internes fondamentales qui compromettent discrètement l'intégrité de cette institution académique respectée.",
-  "question": "What does the prestigious name seriously conceal?",
+  "audioText": "Ces documents de loi qui ont été volés contenaient des exemples habilement rédigés.",
+  "question": "What did the stolen law documents contain?",
   "questionType": "comprehension",
   "options": [
-    "Fundamental internal contradictions compromising institutional integrity",
-    "Outstanding academic achievements and successes",
-    "Transparent and ethical organizational practices",
-    "Strong financial stability and growth"
+    "Skillfully written examples",
+    "Simple legal definitions",
+    "Historical court cases",
+    "Basic government procedures"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Ce nom prestigieux dissimule gravement les contradictions internes fondamentales qui compromettent discrètement l'intégrité</em>' - This prestigious name seriously conceals the fundamental internal contradictions that discretely compromise the integrity. 'Nom' means name, 'gravement' means seriously/gravely, and 'discrètement' means discretely.",
-  "difficulty": "C1",
-  "source": "Institutional integrity and hidden organizational problems",
+  "explanation": "The text states '<em>Ces documents de loi qui ont été volés contenaient des exemples habilement rédigés</em>' - These law documents that were stolen contained skillfully written examples. This combines 'loi' (law), 'volés' (stolen), 'exemples' (examples), and 'habilement' (skillfully).",
+  "difficulty": "B2",
+  "source": "Legal document theft news",
   "tags": [
-    "institutions",
-    "integrity",
-    "deception",
-    "academia"
+    "law",
+    "crime",
+    "documents",
+    "writing"
   ],
-  "timeCreated": 1751813280
+  "timeCreated": 1736784180
 }

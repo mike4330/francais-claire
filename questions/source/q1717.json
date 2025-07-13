@@ -1,23 +1,19 @@
 {
-  "id": 1717,
-  "audioText": "Pour que le chef de chantier entende bien les instructions malgré le bruit, il faut utiliser un talkie-walkie. Effectivement, c'est le seul outil de communication fiable sur ce site.",
-  "question": "Pour que le chef de chantier ______ bien les instructions, il faut utiliser un talkie-walkie.",
-  "questionType": "listening",
-  "options": [
-    "entendra",
-    "entendait",
-    "entendu",
-    "entende"
-  ],
-  "correct": 3,
-  "explanation": "The phrase 'Pour que' requires the subjunctive mood. 'Entende' is the present subjunctive of 'entendre' (to hear). The adverb 'effectivement' (indeed, effectively) confirms the necessity of the tool.",
-  "difficulty": "C1",
-  "source": "Gemini CLI",
-  "tags": [
-    "tools",
-    "construction",
-    "workplace",
-    "communication"
-  ],
-  "timeCreated": 1720181360
+    "id": 1717,
+    "audioText": "Primo, cette pierre arrière dans le mètre de fer répond momentanément à votre intérêt tandis que le diable manquera votre oreille par hasard lors de cette occasion vaste.",
+    "question": "Primo, cette pierre arrière dans le mètre de fer répond momentanément à votre intérêt tandis que le diable manquera votre oreille par hasard lors de cette occasion vaste.",
+    "questionType": "listening",
+    "options": [
+        "Your ear",
+        "The important meeting scheduled for tomorrow morning",
+        "These valuable documents stored in the safe carefully",
+        "Those critical negotiations planned for next week"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Primo, cette pierre arrière dans le mètre de fer répond momentanément à votre intérêt tandis que le diable manquera votre oreille par hasard lors de cette occasion vaste</em>' - Firstly, this stone behind in the iron meter responds momentarily to your interest while the devil will miss your ear by chance during this vast occasion. This combines 'primo', 'pierre', 'arrière', 'mètre', 'fer', 'intérêt', 'diable', 'manquera', 'oreille', 'hasard', 'occasion', and 'vaste'. The distractors test confusion about what the devil will miss.",
+    "difficulty": "B2",
+    "source": "Strategic targeting - primo + pierre + arrière + mètre + fer + intérêt + diable + manquera + oreille + hasard + occasion + vaste synergy + supernatural",
+    "tags": ["supernatural", "materials", "chance"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1707
 }

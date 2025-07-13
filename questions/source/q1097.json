@@ -11,12 +11,10 @@
     "Clémence et Malik ont expliqué leur séparation avant l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet.' - Clémence and Malik explained their separation after the TV show. Many people talked about their breakup on the internet.",
+  "explanation": "The text states '<em>Clémence et Malik ont expliqué leur séparation après l'émission de télévision. Beaucoup de gens ont parlé de leur rupture sur internet</em>' - Clémence and Malik explained their separation after the TV show. Many people talked about their breakup on the internet.",
   "difficulty": "B1",
   "source": "Reality TV News - Listening",
-  "tags": [
-    "reality-tv",
-    "separation",
-    "internet"
-  ]
+  "tags": ["reality-tv", "separation", "internet"],
+  "verified": "claude",
+  "timeCreated": 1736805400
 }

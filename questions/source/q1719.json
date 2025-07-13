@@ -1,23 +1,19 @@
 {
-  "id": 1719,
-  "audioText": "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
-  "options": [
-    "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
-    "Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour commencer leurs albums.",
-    "Les vrais collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.",
-    "Les autres collectionneurs de cartes cherchent ailleurs des pièces rares pour compléter leurs albums."
-  ],
-  "correct": 0,
-  "explanation": "The exact phrase was 'Les autres collectionneurs de timbres cherchent ailleurs des pièces rares pour compléter leurs albums.' - The other stamp collectors look elsewhere for rare pieces to complete their albums. Note 'autres' vs 'vrais', 'timbres' vs 'cartes', and 'compléter' vs 'commencer'. 'Ailleurs' means 'elsewhere' or 'somewhere else'.",
-  "difficulty": "C1",
-  "source": "Stamp collecting and hobby communities",
-  "tags": [
-    "collecting",
-    "stamps",
-    "hobbies",
-    "rare-items"
-  ],
-  "timeCreated": 1735953660
+    "id": 1719,
+    "audioText": "Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire.",
+    "question": "Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire.",
+    "questionType": "listening",
+    "options": [
+        "When he discovered this extraordinary professional opportunity",
+        "When he finished his studies",
+        "When he moved to a new city",
+        "When he met his business partner"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire.</em>' - 'His luck was definitively turning when he discovered this extraordinary professional opportunity.' The noun 'chance' means luck or fortune, and 'définitivement' means definitively or permanently. The distractors test confusion about when his luck turned.",
+    "difficulty": "B2",
+    "source": "Strategic noun targeting",
+    "tags": ["luck", "opportunity", "career"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1013
 }

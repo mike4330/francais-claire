@@ -1,23 +1,23 @@
 {
   "id": 1747,
-  "audioText": "Cette raison profonde et authentique explique proprement pourquoi les réformes institutionnelles n'ont jamais réussi à transformer fondamentalement le système établi.",
-  "question": "What does this deep reason properly explain?",
+  "audioText": "Il faut partir illico pour ce rendez-vous britannique important.",
+  "question": "When do they need to leave for the British appointment?",
   "questionType": "comprehension",
   "options": [
-    "Why institutional reforms never succeeded in fundamentally transforming the system",
-    "Why all changes were immediately successful and effective",
-    "Why the established system required no modifications",
-    "Why reforms were unnecessary from the beginning"
+    "Right away",
+    "In an hour", 
+    "Tomorrow morning",
+    "Next week"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette raison profonde et authentique explique proprement pourquoi les réformes institutionnelles n'ont jamais réussi à transformer fondamentalement le système</em>' - This deep and authentic reason properly explains why institutional reforms never succeeded in fundamentally transforming the system. 'Raison' means reason, 'proprement' means properly/correctly, and the text discusses systemic resistance to change.",
-  "difficulty": "C1",
-  "source": "Institutional reform failure analysis",
+  "explanation": "The text states '<em>Il faut partir illico pour ce rendez-vous britannique important</em>' - We must leave right away for this important British appointment. 'Illico' means immediately or right away. This combines 'illico' (right away), 'rendez-vous' (appointment), and 'britannique' (British).",
+  "difficulty": "B1",
+  "source": "Business appointment conversation",
   "tags": [
-    "institutions",
-    "reform",
-    "systems",
-    "analysis"
+    "business",
+    "appointments",
+    "urgency",
+    "international"
   ],
-  "timeCreated": 1751813460
+  "timeCreated": 1736784420
 }

@@ -1,23 +1,22 @@
 {
   "id": 1727,
-  "audioText": "Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "J'ai rencontré mon ancien professeur qui a sauvé notre projet quand nous avons fermé le bureau.",
+  "question": "What happened when they closed the office?",
+  "questionType": "comprehension",
   "options": [
-    "Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
-    "Les instructions ont été minutieusement suivies par l'équipe de développement pour garantir la qualité du produit final.",
-    "Les directives ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.",
-    "Les instructions ont été soigneusement suivis par l'équipe de développement pour garantir la qualité du produit final."
+    "The former teacher saved their project after they met",
+    "They decided to abandon all their work completely",
+    "They moved everything to a new location immediately",
+    "They lost contact with everyone from work"
   ],
   "correct": 0,
-  "explanation": "The exact phrase was 'Les instructions ont été minutieusement suivis par l'équipe de développement pour garantir la qualité du produit final.' Note 'instructions' vs 'directives', 'minutieusement' vs 'soigneusement', and 'suivis' vs 'suivies'. 'Suivis' is the past participle of 'suivre' (to follow).",
-  "difficulty": "C1",
-  "source": "Software development and quality assurance",
+  "explanation": "The text states '<em>J'ai rencontré mon ancien professeur qui a sauvé notre projet quand nous avons fermé le bureau</em>' - I met my former teacher who saved our project when we closed the office. This combines multiple target conjugates: 'rencontré' (met), 'sauvé' (saved), and 'fermé' (closed).",
+  "difficulty": "B1",
+  "source": "Professional transition conversation",
   "tags": [
-    "software-development",
-    "quality-assurance",
-    "instructions",
-    "teamwork"
+    "workplace",
+    "education",
+    "projects"
   ],
-  "timeCreated": 1735949700
+  "timeCreated": 1736782860
 }

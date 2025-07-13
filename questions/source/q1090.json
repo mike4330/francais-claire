@@ -10,14 +10,10 @@
     "The issue of financial difficulties in parishes"
   ],
   "correct": 1,
-  "explanation": "The Pope is addressing 'le défi de la crise des vocations chez les jeunes catholiques' - the challenge of the vocations crisis among young Catholics. This refers to fewer young people choosing religious life as priests, nuns, etc.",
+  "explanation": "The text states '<em>Comment le pape Léon XIV entend relever le défi de la crise des vocations chez les jeunes catholiques</em>' - How Pope Leo XIV intends to meet the challenge of the vocations crisis among young Catholics.",
   "difficulty": "B2",
   "source": "Vatican News",
-  "tags": [
-    "religion",
-    "catholic-church",
-    "pope",
-    "vocations",
-    "youth"
-  ]
+  "tags": ["religion", "catholic-church", "pope", "vocations", "youth"],
+  "verified": "claude",
+  "timeCreated": 1736803880
 }

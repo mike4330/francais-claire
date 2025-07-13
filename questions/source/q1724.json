@@ -1,23 +1,18 @@
 {
   "id": 1724,
-  "audioText": "Le chef trouvera sûrement une solution créative pour ce défi culinaire complexe.",
-  "question": "Le chef ______ sûrement une solution créative pour ce défi culinaire complexe.",
+  "audioText": "Impunément, cette glace nerveux tomberait pesamment dans l'oreille quand nous avons lus des livres montés sur le mètre nu où j'ouvrirai étonnamment cet appel mignon avec le fric.",
+  "question": "Impunément, cette glace ______ tomberait pesamment dans l'oreille quand nous avons lus des livres montés sur le mètre nu où j'ouvrirai étonnamment cet appel mignon avec le fric.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "trouvera",
-    "cherchera",
-    "inventera",
-    "découvrira"
+    "nerveux",
+    "calme",
+    "heureux",
+    "triste"
   ],
   "correct": 0,
-  "explanation": "The missing word is 'trouvera'. The complete sentence is 'Le chef trouvera sûrement une solution créative pour ce défi culinaire complexe' - The chef will surely find a creative solution for this complex culinary challenge. 'Trouvera' is the future form of 'trouver' (to find), third person singular.",
-  "difficulty": "C1",
-  "source": "Professional cuisine and culinary challenges",
-  "tags": [
-    "cuisine",
-    "culinary-challenges",
-    "professional-cooking",
-    "creativity"
-  ],
-  "timeCreated": 1735952700
+  "explanation": "The text states '<em>Impunément, cette glace nerveux tomberait pesamment dans l'oreille quand nous avons lus des livres montés sur le mètre nu où j'ouvrirai étonnamment cet appel mignon avec le fric</em>' - With impunity, this nervous ice would fall heavily in the ear when we have read books mounted on the bare meter where I will amazingly open this cute call with the money. Tests adjective agreement with feminine noun 'glace'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - impunément + glace + nerveux + tomberait + pesamment + oreille + lus + montés + mètre + nu + ouvrirai + étonnamment + appel + mignon + fric synergy + communication",
+  "tags": ["communication", "food", "money"],
+  "timeCreated": 1736806760
 }

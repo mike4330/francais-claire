@@ -10,14 +10,10 @@
     "rien"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'chose'. La phrase complète est 'Cette chose rouge sur la table est très importante pour mon travail.' - This red thing on the table is very important for my work. 'Chose' (thing) is feminine singular, agreeing with 'cette'.",
+  "explanation": "The text states '<em>Cette chose rouge sur la table est très importante pour mon travail</em>' - This red thing on the table is very important for my work. 'Chose' (thing) is feminine singular, agreeing with 'cette'.",
   "difficulty": "A2",
   "source": "Workplace Objects",
-  "tags": [
-    "objects",
-    "work",
-    "colors",
-    "demonstrative-adjectives",
-    "chose"
-  ]
+  "tags": ["objects", "work", "colors"],
+  "verified": "claude",
+  "timeCreated": 1736805200
 }

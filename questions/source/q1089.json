@@ -10,14 +10,10 @@
     "It brought only light rain and gentle winds"
   ],
   "correct": 1,
-  "explanation": "The storm was described as 'aussi intense que bref' - as intense as it was brief. Despite violent rain and powerful wind, it was short-lived, and damage was 'pour l'heure légers' - so far minor.",
+  "explanation": "The text states '<em>Ce mercredi, aux alentours de 21 heures, la capitale a subi un orage aussi intense que bref</em>' - This Wednesday, around 9 PM, the capital experienced a storm as intense as it was brief.",
   "difficulty": "B2",
   "source": "Weather News Report",
-  "tags": [
-    "weather",
-    "storm",
-    "news",
-    "capital",
-    "damage"
-  ]
+  "tags": ["weather", "storm", "news", "capital", "damage"],
+  "verified": "claude",
+  "timeCreated": 1736803860
 }

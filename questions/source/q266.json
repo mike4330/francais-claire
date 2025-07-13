@@ -1,18 +1,19 @@
 {
     "id": 266,
-    "audioText": "Ce cheval noir apparaît voire disparaît dans le bras de l'homme.",
+    "audioText": "Ce cheval noir apparaît puis disparaît derrière les arbres de la forêt.",
     "question": "What does the black horse do?",
     "questionType": "comprehension",
     "options": [
-        "Appears or even disappears in the man's arm",
+        "Appears then disappears behind the forest trees",
         "Runs quickly through the forest",
         "Stands quietly in the stable",
         "Jumps high over the fence"
     ],
     "correct": 0,
-    "explanation": "The speaker says '<em>Ce cheval noir apparaît voire disparaît dans le bras de l'homme</em>' - This black horse appears or even disappears in the man's arm. 'Noir' means 'black', 'voire' means 'or even', 'bras' means 'arm'.",
+    "explanation": "The text states '<em>Ce cheval noir apparaît puis disparaît derrière les arbres de la forêt</em>' - This black horse appears then disappears behind the forest trees. This describes natural movement in a forest setting.",
     "difficulty": "A2",
-    "source": "Magic show",
-    "tags": ["spirituality", "magic", "illusion"],
+    "source": "Nature observation",
+    "tags": ["nature", "animals", "forest"],
+    "verified": "claude",
     "timeCreated": 1720443900
 }

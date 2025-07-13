@@ -1,7 +1,7 @@
 {
   "id": 1095,
   "audioText": "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.",
-  "parentQuestion": 1898,
+  "parentQuestion": 2213,
   "audioTemplate": "Une {political_person} a {reporting_verb} qu'elle pense {uncertainty} ne pas pouvoir {action_verb} aux {event_type}.",
   "templateVariables": {
     "political_person": {
@@ -78,12 +78,14 @@
     "Une femme politique a dit qu'elle pense peut-être ne pas pouvoir organiser aux élections."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections.' - A female politician said she thinks she might not be able to participate in the elections.",
+  "explanation": "The text states '<em>Une femme politique a dit qu'elle pense peut-être ne pas pouvoir participer aux élections</em>' - A female politician said she thinks she might not be able to participate in the elections.",
   "difficulty": "B1",
   "source": "Political News - Listening",
   "tags": [
     "politics",
     "elections",
     "participation"
-  ]
+  ],
+  "verified": "claude",
+  "timeCreated": 1736805360
 }

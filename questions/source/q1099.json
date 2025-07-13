@@ -11,14 +11,10 @@
     "Une femme d'affaires a été condamnée à mort pour avoir créé une entreprise prospère."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays.' - A businesswoman was sentenced to death for orchestrating the country's largest fraud.",
+  "explanation": "The text states '<em>Une femme d'affaires a été condamnée à mort pour avoir orchestré la plus importante fraude du pays</em>' - A businesswoman was sentenced to death for orchestrating the country's largest fraud.",
   "difficulty": "B1",
   "source": "Legal News - Listening",
-  "tags": [
-    "crime",
-    "business",
-    "law",
-    "punishment",
-    "fraud"
-  ]
+  "tags": ["crime", "business", "law", "punishment", "fraud"],
+  "verified": "claude",
+  "timeCreated": 1736805440
 }

@@ -1,26 +1,18 @@
 {
   "id": 1710,
-  "audioText": "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
-  "parentQuestion": 1784,
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "Pareillement, cette maison tomberait abondamment dans l'intérêt du diable si nous avons lus ces livres montés théoriquement sur le rendez-vous où la nourriture a été servie admirablement.",
+  "question": "What would fall abundantly in the devil's interest if we read books mounted theoretically on the appointment?",
+  "questionType": "comprehension",
   "options": [
-    "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
-    "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons méthodologiques.",
-    "Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer progressivement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.",
-    "Cette idée révolutionnaire, bien qu'elle suscite des polémiques, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques."
+    "This house where food was admirably served",
+    "These important documents stored carefully in government offices",
+    "Those valuable paintings displayed systematically in museum galleries",
+    "The conference presentations organized methodically for business meetings"
   ],
   "correct": 0,
-  "explanation": "La phrase exacte contenait 'controverses' (pas 'polémiques'), 'radicalement' (pas 'progressivement'), et 'épistémologiques' (pas 'méthodologiques'). Ces distinctions subtiles testent l'écoute précise à un niveau C2.",
-  "difficulty": "C2",
-  "source": "Academic Research - Listening",
-  "tags": [
-    "technology",
-    "artificial-intelligence",
-    "philosophy",
-    "research",
-    "innovation",
-    "epistemology"
-  ],
-  "timeCreated": 1720023720
+  "explanation": "The text states '<em>Pareillement, cette maison tomberait abondamment dans l'intérêt du diable si nous avons lus ces livres montés théoriquement sur le rendez-vous où la nourriture a été servie admirablement</em>' - Likewise, this house would fall abundantly in the devil's interest if we have read these books mounted theoretically on the appointment where food was admirably served. This combines 'pareillement', 'tomberait', 'abondamment', 'intérêt', 'diable', 'lus', 'montés', 'théoriquement', 'rendez-vous', 'servie', and 'admirablement'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - pareillement + tomberait + abondamment + intérêt + diable + lus + montés + théoriquement + rendez-vous + servie + admirablement synergy + supernatural",
+  "tags": ["supernatural", "books", "food"],
+  "timeCreated": 1736806280
 }

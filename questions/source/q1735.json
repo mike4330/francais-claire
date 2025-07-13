@@ -1,23 +1,22 @@
 {
   "id": 1735,
-  "audioText": "Je croirai, pis encore, que ce nom prestigieux dissimule délibérément les véritables intentions politiques et économiques de cette organisation internationale apparemment philanthropique.",
-  "question": "What will the speaker believe even worse about the prestigious name?",
-  "questionType": "comprehension",
+  "audioText": "Les oiseaux volent très haut dans le ciel bleu aujourd'hui.",
+  "question": "Les oiseaux ______ très haut dans le ciel bleu aujourd'hui.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "That it deliberately conceals true political and economic intentions",
-    "That it accurately represents the organization's goals",
-    "That it was chosen randomly without meaning",
-    "That it reflects genuine philanthropic purposes"
+    "volent",
+    "vole",
+    "volez",
+    "volons"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Je croirai, pis encore, que ce nom prestigieux dissimule délibérément les véritables intentions politiques et économiques</em>' - I will believe, worse still, that this prestigious name deliberately conceals the true political and economic intentions. 'Croirai' is the future tense of croire (to believe), 'pis' means worse, and 'nom' means name.",
-  "difficulty": "C1",
-  "source": "Political analysis and organizational transparency critique",
+  "explanation": "The text states '<em>Les oiseaux volent très haut dans le ciel bleu aujourd'hui</em>' - The birds fly very high in the blue sky today. 'Volent' is the third person plural present form of 'voler' (to fly), agreeing with 'oiseaux'.",
+  "difficulty": "B1",
+  "source": "Nature observation",
   "tags": [
-    "politics",
-    "organizations",
-    "transparency",
-    "analysis"
+    "animals",
+    "nature",
+    "sky"
   ],
-  "timeCreated": 1751811960
+  "timeCreated": 1736783580
 }

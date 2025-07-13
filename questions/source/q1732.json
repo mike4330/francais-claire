@@ -1,22 +1,22 @@
 {
   "id": 1732,
-  "audioText": "Les techniciens médicaux d'urgence attendaient auparavant une véritable formation spécialisée pour traiter les traumatismes oculaires, car chaque oeil nécessite une approche particulièrement délicate et précise.",
-  "question": "What were the emergency medical technicians waiting for previously?",
-  "questionType": "comprehension",
+  "audioText": "Le médecin a sauvé la vie du patient qui était retourné à l'hôpital.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
   "options": [
-    "Specialized training for eye trauma treatment",
-    "New medical equipment delivery",
-    "Government funding approval",
-    "Hospital administration clearance"
+    "Le médecin a sauvé la vie du patient qui était retourné à l'hôpital.",
+    "Le médecin a sauvé la vie du patient qui était retourné à l'école.",
+    "Le médecin a soigné la vie du patient qui était retourné à l'hôpital.",
+    "Le médecin a sauvé la santé du patient qui était retourné à l'hôpital."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les techniciens médicaux d'urgence attendaient auparavant une véritable formation spécialisée pour traiter les traumatismes oculaires</em>' - The emergency medical technicians were previously waiting for genuine specialized training to treat eye trauma. 'Attendaient' is imperfect of attendre (to wait), 'auparavant' means previously/beforehand, 'véritable' means genuine/true, and 'oeil' means eye.",
-  "difficulty": "C1",
-  "source": "Advanced emergency medical training and ocular trauma protocols",
+  "explanation": "The text states '<em>Le médecin a sauvé la vie du patient qui était retourné à l'hôpital</em>' - The doctor saved the patient's life who had returned to the hospital. This combines 'sauvé' (saved) and 'retourné' (returned) in a medical context.",
+  "difficulty": "B2",
+  "source": "Medical emergency conversation",
   "tags": [
-    "first-aid",
-    "medical-training",
-    "eye-trauma"
+    "health",
+    "medical",
+    "emergency"
   ],
-  "timeCreated": 1751788520
+  "timeCreated": 1736783160
 }

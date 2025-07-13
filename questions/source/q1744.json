@@ -1,23 +1,23 @@
 {
   "id": 1744,
-  "audioText": "Cet amour profond et authentique perdurera éternellement dans le cœur de ceux qui ont eu la chance de connaître cette âme exceptionnelle et généreuse.",
-  "question": "How long will this deep love endure according to the text?",
-  "questionType": "comprehension",
+  "audioText": "Je retournerai certainement voir ce soldat qui défend posément la loi avec une foi exemplaire.",
+  "question": "Je ______ certainement voir ce soldat qui défend posément la loi avec une foi exemplaire.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "Eternally in the hearts of those who knew this soul",
-    "Only for a few more years at most",
-    "Until the next generation forgets completely",
-    "Just during their lifetime and no longer"
+    "retournerai",
+    "retourne",
+    "retournais",
+    "retourné"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cet amour profond et authentique perdurera éternellement dans le cœur de ceux qui ont eu la chance de connaître cette âme exceptionnelle</em>' - This deep and authentic love will endure eternally in the heart of those who had the chance to know this exceptional soul. 'Éternellement' means eternally/forever, 'amour' means love, and 'cœur' means heart.",
-  "difficulty": "C1",
-  "source": "Eternal love and remembrance of exceptional souls",
+  "explanation": "The text states '<em>Je retournerai certainement voir ce soldat qui défend posément la loi avec une foi exemplaire</em>' - I will certainly return to see this soldier who calmly defends the law with exemplary faith. This combines 'retournerai' (will return), 'soldat' (soldier), 'posément' (calmly), 'loi' (law), and 'foi' (faith).",
+  "difficulty": "B2",
+  "source": "Military admiration conversation",
   "tags": [
-    "love",
-    "memory",
-    "eternity",
-    "soul"
+    "military",
+    "law",
+    "faith",
+    "future-plans"
   ],
-  "timeCreated": 1751813160
+  "timeCreated": 1736784120
 }

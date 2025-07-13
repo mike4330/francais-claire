@@ -10,15 +10,10 @@
     "The firefighters went on strike."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'les pompiers ont reçu un très grand nombre d'appels' – the firefighters received a very large number of calls during the event.",
+  "explanation": "The text states '<em>Un épisode venteux et pluvieux impressionnant, les pompiers ont reçu un très grand nombre d'appels</em>' - An impressive windy and rainy episode, the firefighters received a very large number of calls.",
   "difficulty": "B1",
   "source": "Weather News",
-  "tags": [
-    "weather",
-    "emergency",
-    "firefighters",
-    "calls",
-    "rain",
-    "wind"
-  ]
+  "tags": ["weather", "emergency", "firefighters", "calls", "rain", "wind"],
+  "verified": "claude",
+  "timeCreated": 1736805460
 }

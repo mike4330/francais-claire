@@ -1,18 +1,18 @@
 {
     "id": 295,
-    "audioText": "La carotte claire et la laitue pareille restent drôles dans ce ragoût faux.",
-    "question": "What remains funny in this fake stew?",
+    "audioText": "Ma mère prépare toujours des légumes frais pour le déjeuner.",
+    "question": "What does the speaker's mother always prepare for lunch?",
     "questionType": "comprehension",
     "options": [
-        "The light carrot and similar lettuce",
-        "The expensive vegetables and herbs",
-        "The traditional recipe and spices",
-        "The cooking method and timing"
+        "Fresh vegetables",
+        "Frozen meals",
+        "Fast food",
+        "Sweet desserts"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>La carotte claire et la laitue pareille restent drôles dans ce ragoût faux.</em>' - 'The light carrot and similar lettuce remain funny in this fake stew.' The nouns 'carotte' means carrot, 'laitue' means lettuce, and 'ragoût' means stew. The adjectives 'claire' means light/clear, 'pareille' means similar, 'drôles' means funny, and 'faux' means fake.",
+    "explanation": "The text states '<em>Ma mère prépare toujours des légumes frais pour le déjeuner</em>' - My mother always prepares fresh vegetables for lunch. 'Légumes' means vegetables, 'frais' means fresh, and 'déjeuner' means lunch.",
     "difficulty": "A2",
-    "source": "Strategic food targeting",
-    "tags": ["food", "cooking", "vegetables"],
+    "source": "Family meal conversation",
+    "tags": ["family", "food", "meals"],
     "timeCreated": 1720715100
 }

@@ -1,23 +1,23 @@
 {
   "id": 1743,
-  "audioText": "Sitôt que cette voix mélodieuse résonna dans l'amphithéâtre, un silence respectueux s'installa immédiatement parmi l'assistance captivée par cette performance extraordinaire.",
-  "question": "What happened as soon as the melodious voice resonated?",
-  "questionType": "comprehension",
+  "audioText": "Tu rencontres souvent des soldats qui respectent sévèrement la loi dans cet exemple précis ?",
+  "question": "Tu ______ souvent des soldats qui respectent sévèrement la loi dans cet exemple précis ?",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "Respectful silence immediately settled among the audience",
-    "Loud applause erupted throughout the amphitheater",
-    "People began talking excitedly to each other",
-    "The audience started leaving their seats"
+    "rencontres",
+    "rencontre",
+    "rencontrez",
+    "rencontrons"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Sitôt que cette voix mélodieuse résonna dans l'amphithéâtre, un silence respectueux s'installa immédiatement</em>' - As soon as this melodious voice resonated in the amphitheater, respectful silence immediately settled. 'Sitôt que' means as soon as, and 'voix' means voice.",
-  "difficulty": "C1",
-  "source": "Musical performance and audience reaction",
+  "explanation": "The text states '<em>Tu rencontres souvent des soldats qui respectent sévèrement la loi dans cet exemple précis ?</em>' - Do you often meet soldiers who strictly respect the law in this specific example? This combines 'rencontres' (meet-2nd person), 'soldats' (soldiers), 'sévèrement' (strictly), 'loi' (law), and 'exemple' (example).",
+  "difficulty": "B2",
+  "source": "Military law discussion",
   "tags": [
-    "music",
-    "performance",
-    "audience",
-    "theater"
+    "military",
+    "law",
+    "discipline",
+    "questions"
   ],
-  "timeCreated": 1751813040
+  "timeCreated": 1736784060
 }

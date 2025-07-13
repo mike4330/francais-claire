@@ -10,14 +10,10 @@
     "Forget about past political disagreements"
   ],
   "correct": 2,
-  "explanation": "The socialists 'veut critiquer le gouvernement, mais refuse de travailler avec l'autre parti' - want to criticize the government, but refuse to work with the other party due to past issues. This shows they want to act independently.",
+  "explanation": "The text states '<em>Le parti socialiste veut critiquer le gouvernement, mais refuse de travailler avec l'autre parti de gauche à cause du passé</em>' - The socialist party wants to criticize the government, but refuses to work with the other left-wing party because of the past.",
   "difficulty": "B1",
   "source": "Simplified Political News",
-  "tags": [
-    "politics",
-    "disagreement",
-    "cooperation",
-    "government",
-    "criticism"
-  ]
+  "tags": ["politics", "disagreement", "cooperation", "government", "criticism"],
+  "verified": "claude",
+  "timeCreated": 1736803840
 }

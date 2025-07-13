@@ -1,19 +1,22 @@
-
 {
-    "id": 571,
-    "audioText": "À la suite de l'accident, la route a été fermée.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
-    "options": [
-        "À la suite de l'accident, la route a été fermée.",
-        "Avant l'accident, la route a été fermée.",
-        "Pendant l'accident, la route a été fermée.",
-        "Après l'accident, la route est restée ouverte."
-    ],
-    "correct": 0,
-    "explanation": "The correct sentence is 'À la suite de l'accident, la route a été fermée.', which means 'Following the accident, the road was closed.'",
-    "difficulty": "B2",
-    "source": "Gemini-generated",
-    "tags": ["accidents", "transportation"],
-    "timeCreated": 1720134000
+  "id": 571,
+  "audioText": "Nous continuons cette histoire sage que le soldat a raconté hier lors du rendez-vous.",
+  "question": "What kind of story are we continuing that the soldier told yesterday during the appointment?",
+  "questionType": "comprehension",
+  "options": [
+    "A wise story",
+    "A funny story",
+    "A sad story",
+    "A strange story"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous continuons cette histoire sage que le soldat a raconté hier lors du rendez-vous</em>' - We continue this wise story that the soldier told yesterday during the appointment. This combines 'continuons', 'sage', 'soldat', 'raconté', and 'rendez-vous' naturally.",
+  "difficulty": "B1",
+  "source": "Strategic targeting - continuons + sage + soldat + raconté + rendez-vous conversational context",
+  "tags": [
+    "military",
+    "stories",
+    "appointment"
+  ],
+  "timeCreated": 1736806880
 }

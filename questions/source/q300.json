@@ -10,7 +10,8 @@
         "Cette photo qu'elle a cherchée montre un joli papa avec sa fille."
     ],
     "correct": 0,
-    "explanation": "The audio states '<em>Cette photo qu'elle a cherchée montre un joli papa avec son gars.</em>' - 'This photo that she searched for shows a pretty dad with his guy.' The verb 'cherchée' is the past participle of 'chercher' (to search), agreeing with the feminine noun 'photo'.",
+    "explanation": "The audio states '<em>Cette photo qu'elle a cherchée montre un joli papa avec son gars.</em>' - This photo that she searched for shows a nice dad with his son. The verb 'cherchée' is the past participle of 'chercher' (to search), agreeing with the feminine noun 'photo'.",
+    "verified": "claude",
     "difficulty": "A2",
     "source": "Strategic verb conjugate targeting",
     "tags": ["family", "photography", "casual-conversation"],

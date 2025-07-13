@@ -10,7 +10,7 @@
     "fallût"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'fallait' (imperfect of 'falloir'). It expresses a past necessity: 'We needed to improve our business strategy to stay competitive in the market.'",
+  "explanation": "The correct form is 'fallait' (imperfect of 'falloir'). The text states '<em>Il fallait améliorer notre stratégie commerciale pour rester compétitifs sur le marché</em>' - We needed to improve our business strategy to stay competitive in the market. This expresses a past necessity.",
   "difficulty": "B2",
   "source": "Business Strategy",
   "tags": [
@@ -19,5 +19,6 @@
     "competition",
     "market"
   ],
-  "timeCreated": 1720051800
+  "timeCreated": 1720051800,
+  "verified": "claude"
 }

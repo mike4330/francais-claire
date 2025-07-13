@@ -10,14 +10,10 @@
     "They are organizing environmental campaigns"
   ],
   "correct": 1,
-  "explanation": "The associations are 'portent plainte contre une entreprise' - filing a complaint against a company for environmental pollution. 'Porter plainte' means to file a legal complaint or lawsuit.",
+  "explanation": "The text states '<em>Plusieurs associations portent plainte contre une entreprise pour pollution de l'environnement</em>' - Several associations are filing a complaint against a company for environmental pollution.",
   "difficulty": "B2",
   "source": "Environmental News",
-  "tags": [
-    "environment",
-    "legal-action",
-    "pollution",
-    "associations",
-    "company"
-  ]
+  "tags": ["environment", "legal-action", "pollution", "associations", "company"],
+  "verified": "claude",
+  "timeCreated": 1736803900
 }

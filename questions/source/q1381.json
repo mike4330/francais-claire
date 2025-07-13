@@ -1,7 +1,7 @@
 {
     "id": 1381,
-    "audioText": "Les visiteurs sont entrés là-dessous dans le sous-sol pour examiner les archives.",
-    "question": "Les visiteurs sont ______ là-dessous dans le sous-sol pour examiner les archives.",
+    "audioText": "Les hommes sont entrés là-dessous dans le sous-sol pour examiner les archives.",
+    "question": "Les hommes sont ______ là-dessous dans le sous-sol pour examiner les archives.",
     "questionType": "fill-in-the-blank",
     "options": [
         "entrés",
@@ -10,7 +10,7 @@
         "entrées"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Les visiteurs sont entrés là-dessous dans le sous-sol pour examiner les archives</em>' - The visitors entered down there into the basement to examine the archives. 'Entrés' (masculine plural past participle) agrees with 'les visiteurs' (masculine plural). 'Là-dessous' means 'down there' or 'underneath'.",
+    "explanation": "The correct answer is 'entrés'. The text states '<em>Les hommes sont entrés là-dessous dans le sous-sol pour examiner les archives</em>' - The men entered down there into the basement to examine the archives. 'Entrés' (masculine plural past participle) agrees with 'les hommes' (masculine plural). 'Là-dessous' means 'down there' or 'underneath'.",
     "difficulty": "B1",
     "source": "Strategic targeting: entrés + là-dessous",
     "tags": ["archives", "basement", "investigation"],

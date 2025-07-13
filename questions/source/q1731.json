@@ -1,22 +1,22 @@
 {
   "id": 1731,
-  "audioText": "Nous tenons à cet instant de réflexion profonde, personnellement essentiel pour notre développement intellectuel.",
-  "question": "How do the speakers view this moment of deep reflection?",
+  "audioText": "Les touristes que j'ai rencontrés hier sont retournés dans leur pays ce matin.",
+  "question": "What did the tourists do this morning?",
   "questionType": "comprehension",
   "options": [
-    "As professionally required",
-    "As personally essential",
-    "As socially expected",
-    "As academically mandated"
+    "They returned to their country",
+    "They visited more tourist sites",
+    "They extended their vacation plans",
+    "They decided to stay permanently"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>Nous tenons à cet instant de réflexion profonde, personnellement essentiel</em>' - We value this moment of deep reflection, personally essential. 'Tenons' means we hold/value, 'instant' means moment, 'profonde' means deep, and 'personnellement' means personally.",
-  "difficulty": "C1",
-  "source": "Philosophical reflection and personal development",
+  "correct": 0,
+  "explanation": "The text states '<em>Les touristes que j'ai rencontrés hier sont retournés dans leur pays ce matin</em>' - The tourists I met yesterday returned to their country this morning. 'Rencontrés' (met - past participle plural) and 'retournés' (returned - past participle plural) are key forms.",
+  "difficulty": "B2",
+  "source": "Tourism conversation",
   "tags": [
-    "philosophy",
-    "personal-development",
-    "reflection"
+    "travel",
+    "tourism",
+    "time"
   ],
-  "timeCreated": 1751777362
+  "timeCreated": 1736783100
 }

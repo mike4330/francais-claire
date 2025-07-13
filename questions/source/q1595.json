@@ -10,7 +10,8 @@
         "When school administration requires medical clearance documentation"
     ],
     "correct": 0,
-    "explanation": "The text states 'Tu envoies ton enfant chez le docteur quand il se plaint de douleur à l'épaule après sa chute.' - You send your child to the doctor when he complains of shoulder pain after his fall. 'Épaule' means shoulder, 'envoies' means (you) send, and 'douleur' means pain.",
+    "explanation": "The text states '<em>Tu envoies ton enfant chez le docteur quand il se plaint de douleur à l'épaule après sa chute</em>' - You send your child to the doctor when he complains of shoulder pain after his fall.",
+    "verified": "claude",
     "difficulty": "A2",
     "source": "Strategic noun coverage development - parent-child medical care",
     "tags": ["parent-child-relationship", "health", "family"],

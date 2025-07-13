@@ -10,12 +10,10 @@
     "Snow in the mountains only"
   ],
   "correct": 2,
-  "explanation": "'Averses dans le nord et du soleil dans le sud' means showers in the north and sun in the south of France.",
+  "explanation": "The text states '<em>La météo de demain prévoit des averses dans le nord et du soleil dans le sud de la France</em>' - Tomorrow's weather forecast predicts showers in the north and sun in the south of France.",
   "difficulty": "B1",
   "source": "Weather Report",
-  "tags": [
-    "weather",
-    "geography",
-    "forecast"
-  ]
+  "tags": ["weather", "geography", "forecast"],
+  "verified": "claude",
+  "timeCreated": 1736803820
 }

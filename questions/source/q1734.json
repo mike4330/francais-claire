@@ -1,23 +1,22 @@
 {
   "id": 1734,
-  "audioText": "Vous croirez quelquefois que l'air de cette région montagneuse contient des particules microscopiques qui affectent subtilement la perception sensorielle des visiteurs non acclimatés.",
-  "question": "What will visitors sometimes believe about the mountain air?",
+  "audioText": "La montre qui m'a été volée était un cadeau de ma grand-mère.",
+  "question": "What was stolen from the speaker?",
   "questionType": "comprehension",
   "options": [
-    "That it contains particles affecting sensory perception",
-    "That it is completely pure and harmless",
-    "That it improves athletic performance immediately",
-    "That it causes immediate respiratory problems"
+    "A watch that was a gift from grandmother",
+    "A ring from the jewelry store",
+    "A necklace bought last year",
+    "A bracelet from a friend"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Vous croirez quelquefois que l'air de cette région montagneuse contient des particules microscopiques qui affectent subtilement la perception sensorielle</em>' - You will sometimes believe that the air of this mountainous region contains microscopic particles that subtly affect sensory perception. 'Croirez' is the future tense of croire (to believe), 'quelquefois' means sometimes, and 'air' means air.",
-  "difficulty": "C1",
-  "source": "Scientific observation and environmental effects on human perception",
+  "explanation": "The text states '<em>La montre qui m'a été volée était un cadeau de ma grand-mère</em>' - The watch that was stolen from me was a gift from my grandmother. 'Volée' is the feminine past participle of 'voler' (to steal), agreeing with 'montre'.",
+  "difficulty": "B1",
+  "source": "Personal loss conversation",
   "tags": [
-    "science",
-    "environment",
-    "mountains",
-    "perception"
+    "crime",
+    "family",
+    "gifts"
   ],
-  "timeCreated": 1751811900
+  "timeCreated": 1736783520
 }

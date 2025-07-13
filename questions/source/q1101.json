@@ -10,14 +10,10 @@
     "She practices speaking with her colleagues at the office"
   ],
   "correct": 0,
-  "explanation": "Marie 'prend des cours le soir et écoute des podcasts pendant qu'elle va au travail en métro' - takes evening classes and listens to podcasts while going to work by metro. This shows two common learning strategies: formal classes ('prend des cours') and using commute time productively. Note the useful phrase 'aller au travail' (to go to work).",
+  "explanation": "The text states '<em>Marie veut apprendre le français plus rapidement. Elle prend des cours le soir et écoute des podcasts pendant qu'elle va au travail en métro</em>' - Marie wants to learn French faster. She takes evening classes and listens to podcasts while going to work by metro.",
   "difficulty": "B1",
   "source": "Language Learning Scenarios",
-  "tags": [
-    "education",
-    "language",
-    "daily-life",
-    "transportation",
-    "study-strategies"
-  ]
+  "tags": ["education", "language", "daily-life", "transportation", "study-strategies"],
+  "verified": "claude",
+  "timeCreated": 1736805480
 }

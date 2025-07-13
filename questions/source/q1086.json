@@ -10,13 +10,10 @@
     "He suggested creating a new French dialect"
   ],
   "correct": 1,
-  "explanation": "The politician 'propose de changer le nom de la langue française' - proposes to change the name of the French language. The quote criticizes him as being 'inventive when it comes to making himself unpleasant.'",
+  "explanation": "The text states '<em>Un politicien français propose de changer le nom de la langue française</em>' - A French politician proposes to change the name of the French language. The quote criticizes him as being inventive when it comes to making himself unpleasant.",
   "difficulty": "B2",
   "source": "French Political Commentary",
-  "tags": [
-    "politics",
-    "language",
-    "controversy",
-    "criticism"
-  ]
+  "tags": ["politics", "language", "controversy", "criticism"],
+  "verified": "claude",
+  "timeCreated": 1736803800
 }

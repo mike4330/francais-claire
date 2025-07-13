@@ -1,23 +1,22 @@
 {
   "id": 1739,
-  "audioText": "Le ciel nocturne révélait visiblement des constellations extraordinaires qui semblaient actuellement défier toute compréhension astronomique conventionnelle et établie.",
-  "question": "What did the night sky reveal that challenged understanding?",
-  "questionType": "comprehension",
+  "audioText": "Je retournerai en France l'année prochaine pour voir ma famille.",
+  "question": "Je ______ en France l'année prochaine pour voir ma famille.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "Extraordinary constellations defying conventional astronomy",
-    "Completely normal and predictable star patterns",
-    "Simple cloud formations blocking the view",
-    "Ordinary planets in their expected positions"
+    "retournerai",
+    "retourne",
+    "retournais",
+    "retourné"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Le ciel nocturne révélait visiblement des constellations extraordinaires qui semblaient actuellement défier toute compréhension astronomique conventionnelle</em>' - The night sky visibly revealed extraordinary constellations that currently seemed to defy all conventional astronomical understanding. 'Ciel' means sky, 'visiblement' means visibly/obviously, and 'actuellement' means currently/presently.",
-  "difficulty": "C1",
-  "source": "Astronomical observation and scientific discovery",
+  "explanation": "The text states '<em>Je retournerai en France l'année prochaine pour voir ma famille</em>' - I will return to France next year to see my family. 'Retournerai' is the first person singular future form of 'retourner' (to return).",
+  "difficulty": "B2",
+  "source": "Travel planning conversation",
   "tags": [
-    "astronomy",
-    "science",
-    "discovery",
-    "observation"
+    "travel",
+    "family",
+    "future-plans"
   ],
-  "timeCreated": 1751812440
+  "timeCreated": 1736783820
 }

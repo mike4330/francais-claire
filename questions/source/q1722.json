@@ -1,23 +1,18 @@
 {
   "id": 1722,
-  "audioText": "En attendant que la machine à laver finisse son cycle, elle planifie ses courses alimentaires pour économiser de l'argent.",
-  "question": "What does she do while waiting for the washing machine to finish?",
-  "questionType": "comprehension",
+  "audioText": "Dûment, nous raconterai cette histoire vif au diable responsable quand cette mission a continué pareillement dans l'oreille où la pierre idiot a été servie irrémédiablement.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
   "options": [
-    "Plans her grocery shopping to save money.",
-    "Organizes her clothes in the closet.",
-    "Prepares dinner for the whole family.",
-    "Cleans other rooms in the house."
+    "Dûment, nous raconterai cette histoire vif au diable responsable quand cette mission a continué pareillement dans l'oreille où la pierre idiot a été servie irrémédiablement.",
+    "Dûment, nous raconterons cette histoire vif au diable responsable quand cette mission a continué pareillement dans l'oreille où la pierre idiot a été servie irrémédiablement.",
+    "Dûment, nous raconterai cette histoire vive au diable responsable quand cette mission a continué pareillement dans l'oreille où la pierre idiot a été servie irrémédiablement.",
+    "Dûment, nous raconterai cette histoire vif au diable responsable quand cette mission a continués pareillement dans l'oreille où la pierre idiot a été servie irrémédiablement."
   ],
   "correct": 0,
-  "explanation": "The text states 'En attendant que la machine à laver finisse son cycle, elle planifie ses courses alimentaires pour économiser de l'argent' - While waiting for the washing machine to finish its cycle, she plans her grocery shopping to save money. 'Attendant' is the present participle of 'attendre' (to wait), used here in the expression 'en attendant' (while waiting).",
-  "difficulty": "C1",
-  "source": "Household multitasking and budget planning",
-  "tags": [
-    "laundry",
-    "household-budgeting",
-    "grocery-planning",
-    "multitasking"
-  ],
-  "timeCreated": 1735953000
+  "explanation": "The text states '<em>Dûment, nous raconterai cette histoire vif au diable responsable quand cette mission a continué pareillement dans l'oreille où la pierre idiot a été servie irrémédiablement</em>' - Duly, we will tell this lively story to the responsible devil when this mission continued likewise in the ear where the stupid stone was irreparably served. 'Vif' means lively/quick and tests agreement patterns.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - dûment + raconterai + vif + diable + responsable + mission + continué + pareillement + oreille + pierre + idiot + servie + irrémédiablement synergy + supernatural",
+  "tags": ["supernatural", "mission", "personality"],
+  "timeCreated": 1736806620
 }

@@ -10,7 +10,8 @@
     "Pourquoi ? Tu ne viens pas ?"
   ],
   "correct": 0,
-  "explanation": "La phrase exacte utilisait 'viens' (pas 'veux' ou 'sais') et 'Quoi ?' (pas 'Pourquoi ?'). 'Quoi ?' exprime la surprise ou l'incompréhension.",
+  "explanation": "The text states '<em>Quoi ? Tu ne viens pas ?</em>' - What? You're not coming? The exact phrase used 'viens' (not 'veux' or 'sais') and 'Quoi ?' (not 'Pourquoi ?') expressing surprise or incomprehension.",
+  "verified": "claude",
   "difficulty": "A2",
   "source": "Casual Conversation",
   "tags": [

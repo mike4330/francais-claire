@@ -1,22 +1,18 @@
 {
   "id": 1714,
-  "audioText": "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "Irrémédiablement, cette pierre de fer tomberait pesamment dans l'intérêt du diable quand nous manquent étonnamment ces livres lus par hasard lors du rendez-vous où la nourriture a été servie.",
+  "question": "Irrémédiablement, cette pierre de fer tomberait ______ dans l'intérêt du diable quand nous manquent étonnamment ces livres lus par hasard lors du rendez-vous où la nourriture a été servie.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "Le projet est coûteux ; toutefois, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-    "Le projet est coûteux ; cependant, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-    "Le projet est coûteux ; néanmoins, il représente un investissement stratégique essentiel pour notre développement technologique à long terme.",
-    "Le projet est coûteux ; par conséquent, il représente un investissement stratégique essentiel pour notre développement technologique à long terme."
+    "pesamment",
+    "légèrement",
+    "rapidement", 
+    "silencieusement"
   ],
   "correct": 0,
-  "explanation": "The speaker used 'toutefois' meaning 'however' or 'nevertheless' to introduce a contrasting point. Despite the project being expensive, it represents essential strategic investment. The other options change 'toutefois' to 'cependant' (however), 'néanmoins' (nevertheless), or 'par conséquent' (therefore).",
-  "difficulty": "C1",
-  "source": "Strategic planning",
-  "tags": [
-    "business",
-    "strategy",
-    "investment"
-  ],
-  "timeCreated": 1720077400
+  "explanation": "The text states '<em>Irrémédiablement, cette pierre de fer tomberait pesamment dans l'intérêt du diable quand nous manquent étonnamment ces livres lus par hasard lors du rendez-vous où la nourriture a été servie</em>' - Irreparably, this iron stone would fall heavily in the devil's interest when these books read by chance during the appointment where food was served are amazingly missing from us. 'Irrémédiablement' means irreparably/beyond repair.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - irrémédiablement + pierre + fer + tomberait + pesamment + intérêt + diable + manquent + étonnamment + lus + hasard + rendez-vous + servie synergy + supernatural",
+  "tags": ["supernatural", "materials", "books"],
+  "timeCreated": 1736806440
 }

@@ -10,7 +10,8 @@
         "Training schedule adherence and progress evaluation metrics"
     ],
     "correct": 0,
-    "explanation": "The text states 'Le cavalier surveillait attentivement pendant que son cheval buvait tranquillement pour assurer une parfaite coordination.' - The rider was monitoring attentively while his horse was drinking calmly to ensure perfect coordination. 'Cheval' means horse, 'buvait' means was drinking, and 'coordination' means coordination.",
+    "explanation": "The text states '<em>Le cavalier surveillait attentivement pendant que son cheval buvait tranquillement pour assurer une parfaite coordination</em>' - The rider was monitoring attentively while his horse was drinking calmly to ensure perfect coordination.",
+    "verified": "claude",
     "difficulty": "B1",
     "source": "Strategic noun coverage development - equestrian coordination",
     "tags": ["coordination", "animals", "sports"],
