@@ -1,16 +1,16 @@
 {
   "id": 1415,
-  "audioText": "En demandant le salut poliment, ce garçon capable montre son âge.",
+  "audioText": "En saluant poliment, ce garçon capable montre ses bonnes manières.",
   "question": "Qu'est-ce que vous avez entendu?",
   "questionType": "listening",
   "options": [
-    "En demandant le salut poliment, ce garçon capable montre son âge.",
-    "En demandant le salut sèchement, ce garçon capable montre son âge.",
-    "En demandant le salut poliment, ce garçon capable cache son âge.",
-    "En demandant le salut poliment, ce garçon timide montre son âge."
+    "En saluant poliment, ce garçon capable montre ses bonnes manières.",
+    "En saluant sèchement, ce garçon capable montre ses bonnes manières.",
+    "En saluant poliment, ce garçon capable cache ses bonnes manières.",
+    "En saluant poliment, ce garçon timide montre ses bonnes manières."
   ],
   "correct": 0,
-  "explanation": "The audio states '<em>En demandant le salut poliment, ce garçon capable montre son âge.</em>' - 'By asking for the greeting politely, this capable boy shows his age.' The verb 'demandant' is the present participle of 'demander' (to ask).",
+  "explanation": "The audio states '<em>En saluant poliment, ce garçon capable montre ses bonnes manières</em>' - By greeting politely, this capable boy shows his good manners. 'Saluant' is the present participle of 'saluer' (to greet), and 'bonnes manières' means 'good manners'.",
   "difficulty": "B1",
   "source": "Strategic verb conjugate targeting",
   "tags": [
@@ -18,5 +18,6 @@
     "youth",
     "social-interaction"
   ],
-  "timeCreated": 1720715700
+  "timeCreated": 1720715700,
+  "verified": "claude"
 }

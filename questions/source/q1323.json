@@ -10,7 +10,7 @@
     "Wait outside"
   ],
   "correct": 0,
-  "explanation": "The instruction says 'Restez calme pendant que nous réglons ce problème technique' - Stay calm while we fix this technical problem. 'Restez' is the 2nd person plural imperative form of 'rester' (to stay/remain).",
+  "explanation": "The text states '<em>Restez calme pendant que nous réglons ce problème technique</em>' - Stay calm while we fix this technical problem. The imperative 'restez' (2nd person plural of 'rester') gives a direct instruction to remain calm.",
   "difficulty": "B1",
   "source": "Technical Support",
   "tags": [
@@ -18,5 +18,6 @@
     "instructions",
     "calm"
   ],
-  "timeCreated": 1720022520
+  "timeCreated": 1720022520,
+  "verified": "claude"
 }

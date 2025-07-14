@@ -1,19 +1,24 @@
 {
-    "id": 1360,
-    "audioText": "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "J'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade",
-        "J'ai dégusté une poêlée de sèche avec du gingembre, du piment fort et de la persillée",
-        "J'ai goûté une poêlée de seiche avec du gingembre, du piment doux et de la parsillade", 
-        "J'ai dégusté une poélée de seiche avec du gingembre, du piment doux et de la persillade"
-    ],
-    "correct": 0,
-    "explanation": "The correct phrase is '<em>J'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade</em>' - I tasted a pan-fried cuttlefish with ginger, mild chili, and garlic parsley sauce. Note the correct spelling: 'seiche' (cuttlefish), 'dégusté' (tasted), 'poêlée' (pan-fried), and 'persillade' (garlic parsley sauce).",
-    "difficulty": "B2",
-    "source": "Listening version of Q482",
-    "tags": ["food", "dinner", "seafood", "menu"],
-    "parentQuestion": 482,
-    "timeCreated": 1736625780
+  "id": 1360,
+  "audioText": "Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "J'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade",
+    "J'ai dégusté une poêlée de sèche avec du gingembre, du piment fort et de la persillée",
+    "J'ai goûté une poêlée de seiche avec du gingembre, du piment doux et de la parsillade",
+    "J'ai dégusté une poélée de seiche avec du gingembre, du piment doux et de la persillade"
+  ],
+  "correct": 0,
+  "explanation": "The correct phrase is '<em>J'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade</em>' - I tasted a pan-fried cuttlefish with ginger, mild chili, and garlic parsley sauce. Note the correct spelling: 'seiche' (cuttlefish), 'dégusté' (tasted), 'poêlée' (pan-fried), and 'persillade' (garlic parsley sauce).",
+  "difficulty": "B2",
+  "source": "Listening version of Q482",
+  "tags": [
+    "food",
+    "dinner",
+    "seafood",
+    "menu"
+  ],
+  "parentQuestion": 1778,
+  "timeCreated": 1736625780
 }

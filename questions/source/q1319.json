@@ -10,7 +10,7 @@
     "Ma fille irait bien au cours de danse mais elle préfère la notation."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Ma fille irait bien au cours de danse mais elle préfère la natation.' - My daughter would like to go to dance class but she prefers swimming. 'Irait' is the 3rd person singular conditional form of 'aller'.",
+  "explanation": "The audio states '<em>Ma fille irait bien au cours de danse mais elle préfère la natation</em>' - My daughter would like to go to dance class but she prefers swimming. 'Irait' is the 3rd person singular conditional form of 'aller' (to go).",
   "difficulty": "B1",
   "source": "Children's Activities",
   "tags": [
@@ -18,5 +18,6 @@
     "dance",
     "swimming"
   ],
-  "timeCreated": 1720022280
+  "timeCreated": 1720022280,
+  "verified": "claude"
 }

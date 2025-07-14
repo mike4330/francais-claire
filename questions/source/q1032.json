@@ -10,9 +10,10 @@
         "Ce droit sérieux doit être strictement respecté dans cette société actuelle."
     ],
     "correct": 0,
-    "explanation": "The audio states '<em>Ce droit sérieux doit être strictement respecté dans cette société moderne.</em>' - 'This serious right must be strictly respected in this modern society.' The noun 'droit' means right/law, 'sérieux' means serious, and 'strictement' means strictly.",
+    "explanation": "The audio states '<em>Ce droit sérieux doit être strictement respecté dans cette société moderne</em>' - This serious right must be strictly respected in this modern society. Note the key distinctions: 'sérieux' vs 'important', 'strictement' vs 'absolument', 'moderne' vs 'actuelle'.",
     "difficulty": "B1",
     "source": "Strategic noun targeting",
     "tags": ["law", "society", "rights"],
-    "timeCreated": 1720715800
+    "timeCreated": 1720715800,
+    "verified": "claude"
 }

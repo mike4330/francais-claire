@@ -1,18 +1,19 @@
 {
     "id": 1386,
-    "audioText": "Entrons fraîchement dans cette salle affreusement décorée pour la réunion.",
+    "audioText": "Entrons rapidement dans cette salle affreusement décorée pour la réunion.",
     "question": "Entrons ______ dans cette salle affreusement décorée pour la réunion.",
     "questionType": "fill-in-the-blank",
     "options": [
-        "fraîchement",
-        "frais",
-        "fraîche",
-        "fraîches"
+        "rapidement",
+        "rapide",
+        "rapides",
+        "lentement"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Entrons fraîchement dans cette salle affreusement décorée pour la réunion</em>' - Let's freshly enter this horribly decorated room for the meeting. 'Entrons' means 'let's enter' (imperative), 'fraîchement' means freshly/newly, and 'affreusement' means horribly/terribly.",
+    "explanation": "The text states '<em>Entrons rapidement dans cette salle affreusement décorée pour la réunion</em>' - Let's quickly enter this horribly decorated room for the meeting. 'Rapidement' is an adverb meaning 'quickly', and 'affreusement' means 'horribly' or 'terribly'.",
     "difficulty": "B1",
-    "source": "Strategic targeting: entrons + fraîchement + affreusement",
+    "source": "Strategic targeting: meetings + decoration",
     "tags": ["meetings", "rooms", "decoration"],
-    "timeCreated": 1736629380
+    "timeCreated": 1736629380,
+    "verified": "claude"
 }

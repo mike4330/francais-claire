@@ -1,15 +1,7 @@
 {
   "id": 1242,
-  "type": "fill-in-the-blank",
-  "question": "La victime a été _______ dans l'attaque.",
   "audioText": "La victime a été tuée dans l'attaque.",
-  "answer": "tuée",
-  "hint": "Past participle of 'tuer' (feminine singular)",
-  "level": "c",
-  "tags": [
-    "crime",
-    "news"
-  ],
+  "question": "La victime a été _______ dans l'attaque.",
   "questionType": "fill-in-the-blank",
   "options": [
     "tuée",
@@ -18,7 +10,14 @@
     "tuées"
   ],
   "correct": 0,
-  "explanation": "The past participle 'tuée' agrees in gender and number with the feminine singular subject 'victime'.",
+  "explanation": "The text states '<em>La victime a été tuée dans l'attaque</em>' - The victim was killed in the attack. The past participle 'tuée' agrees in gender and number with the feminine singular subject 'victime'.",
   "difficulty": "B1",
-  "source": "Gemini CLI"
+  "source": "Crime news reporting",
+  "tags": [
+    "crime",
+    "news",
+    "violence"
+  ],
+  "timeCreated": 1720025900,
+  "verified": "claude"
 }

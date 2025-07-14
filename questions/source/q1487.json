@@ -10,7 +10,7 @@
     "It was read on your desk this morning."
   ],
   "correct": 0,
-  "explanation": "The French sentence uses 'laissée' - the past participle feminine form of 'laisser' (to leave). 'Cette lettre a été laissée' means 'this letter was left'. The past participle agrees with the feminine noun 'lettre'.",
+  "explanation": "The text states '<em>Cette lettre a été laissée sur votre bureau ce matin</em>' - This letter was left on your desk this morning. The French sentence uses 'laissée' - the past participle feminine form of 'laisser' (to leave). The past participle agrees with the feminine noun 'lettre' in the passive voice construction.",
   "difficulty": "B2",
   "source": "Office communication scenario",
   "tags": [
@@ -18,5 +18,6 @@
     "communication",
     "correspondence"
   ],
-  "timeCreated": 1720108800
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

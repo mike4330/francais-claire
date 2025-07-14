@@ -10,7 +10,7 @@
     "It will be the coldest winter ever."
   ],
   "correct": 0,
-  "explanation": "The sentence uses 'passera' (future tense of passer) meaning 'will pass'. The speaker says winter will pass quickly if they stay busy with their projects.",
+  "explanation": "The text states '<em>L'hiver passera vite si nous restons occupés avec nos projets</em>' - Winter will pass quickly if we stay busy with our projects. The future tense 'passera' (will pass) indicates a conditional prediction about time.",
   "difficulty": "B1",
   "source": "Seasonal Planning",
   "tags": [
@@ -18,5 +18,6 @@
     "weather",
     "planning"
   ],
-  "timeCreated": 1719962100
+  "timeCreated": 1719962100,
+  "verified": "claude"
 }

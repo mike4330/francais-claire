@@ -1,19 +1,23 @@
 {
-    "id": 1230,
-    "audioText": "Elle travaille tant que sa santé commence à en souffrir.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Elle travaille tant que sa santé commence à en souffrir",
-        "Elle travaille autant que sa santé commence à en souffrir",
-        "Elle travaille tellement que sa santé commence à en souffrir",
-        "Elle travaille tant que sa santé commence à s'améliorer"
-    ],
-    "correct": 0,
-    "parentQuestion": 470,
-    "explanation": "The correct text is '<em>Elle travaille tant que sa santé commence à en souffrir</em>' - She works so much that her health is starting to suffer from it. Key words: 'tant que' (so much that, expressing consequence) not 'autant que' (as much as) or 'tellement que' (so much that, different nuance), and 'souffrir' (suffer) not 's'améliorer' (improve).",
-    "difficulty": "B1",
-    "source": "Listening version of Q470",
-    "tags": ["health", "workplace", "work-life-balance"],
-    "timeCreated": 1720963140
+  "id": 1230,
+  "audioText": "Elle travaille tant que sa santé commence à en souffrir.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Elle travaille tant que sa santé commence à en souffrir",
+    "Elle travaille autant que sa santé commence à en souffrir",
+    "Elle travaille tellement que sa santé commence à en souffrir",
+    "Elle travaille tant que sa santé commence à s'améliorer"
+  ],
+  "correct": 0,
+  "parentQuestion": 1766,
+  "explanation": "The correct text is '<em>Elle travaille tant que sa santé commence à en souffrir</em>' - She works so much that her health is starting to suffer from it. Key words: 'tant que' (so much that, expressing consequence) not 'autant que' (as much as) or 'tellement que' (so much that, different nuance), and 'souffrir' (suffer) not 's'améliorer' (improve).",
+  "difficulty": "B1",
+  "source": "Listening version of Q470",
+  "tags": [
+    "health",
+    "workplace",
+    "work-life-balance"
+  ],
+  "timeCreated": 1720963140
 }

@@ -11,12 +11,14 @@
     "« Je vais m'éloigner de cet environnement difficile » : un membre d'extrême droite sort de prison. Neuf personnes sont accusées d'avoir attaqué un homme qui assistait à un événement contre le fascisme."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était '« Je vais m'éloigner de cet environnement dangereux » : un membre d'extrême droite sort de prison. Neuf personnes sont accusées d'avoir attaqué un homme qui assistait à un événement contre le fascisme.' - 'I'm going to distance myself from this dangerous environment': a far-right member gets out of prison. Nine people are accused of attacking a man who was attending an anti-fascism event.",
+  "explanation": "The audio states '<em>« Je vais m'éloigner de cet environnement dangereux » : un membre d'extrême droite sort de prison. Neuf personnes sont accusées d'avoir attaqué un homme qui assistait à un événement contre le fascisme</em>' - 'I'm going to distance myself from this dangerous environment': a far-right member gets out of prison. Nine people are accused of attacking a man who was attending an anti-fascism event. Note the key distinctions: 'neuf' vs 'huit' (eight), 'dangereux' vs 'difficile' (difficult), and 'contre le fascisme' vs 'pour la démocratie'.",
   "difficulty": "B2",
   "source": "French Legal/Political News - Listening",
   "tags": [
     "politics",
     "extremism",
     "legal"
-  ]
+  ],
+  "timeCreated": 1720826800,
+  "verified": "claude"
 }
