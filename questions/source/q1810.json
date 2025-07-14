@@ -1,0 +1,19 @@
+{
+    "id": 1810,
+    "audioText": "D'abord, nous devons analyser le problème, puis proposer des solutions concrètes.",
+    "question": "D'abord, nous devons analyser le problème, puis proposer des solutions concrètes.",
+    "questionType": "listening",
+    "options": [
+        "Analyze the problem",
+        "Propose concrete solutions", 
+        "Discuss with colleagues",
+        "Implement immediate changes"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>D'abord, nous devons analyser le problème, puis proposer des solutions concrètes</em>' - First, we must analyze the problem, then propose concrete solutions. 'D'abord' means 'first' or 'firstly' and indicates the initial step in a sequence. The distractors test confusion about the order of operations.",
+    "difficulty": "B2",
+    "source": "Business meeting",
+    "tags": ["workplace", "business", "problem-solving"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 721
+}

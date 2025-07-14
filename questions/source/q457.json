@@ -1,0 +1,19 @@
+{
+    "id": 457,
+    "audioText": "Cette espèce de fleur sera mariée avec les roses.",
+    "question": "Cette ______ de fleur sera mariée avec les roses.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "espèce",
+        "sorte",
+        "type",
+        "genre"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette espèce de fleur sera mariée avec les roses</em>' - This species of flower will be paired with the roses. The word 'espèce' means species or type, and 'mariée' (paired/combined) comes from 'marier'.",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["flowers", "gardening", "nature", "botany"],
+    "timeCreated": 1735952460,
+    "verified": "claude"
+}

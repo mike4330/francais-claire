@@ -1,0 +1,19 @@
+{
+    "id": 455,
+    "audioText": "Nous nous occupons de sa douleur à la poitrine.",
+    "question": "Nous nous ______ de sa douleur à la poitrine.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "occupons",
+        "occupez",
+        "occupe",
+        "occupent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous nous occupons de sa douleur à la poitrine</em>' - We are taking care of his chest pain. The correct form is 'occupons' (1st person plural of 's'occuper de' - to take care of).",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["health", "care", "medical", "body"],
+    "timeCreated": 1735951860,
+    "verified": "claude"
+}

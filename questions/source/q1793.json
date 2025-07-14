@@ -1,0 +1,19 @@
+{
+    "id": 1793,
+    "audioText": "Je ne manquerai jamais une occasion digne de mon attention professionnelle.",
+    "question": "What won't the speaker miss?",
+    "questionType": "comprehension",
+    "options": [
+        "Opportunities worthy of professional attention",
+        "Important family gatherings",
+        "Social events with colleagues",
+        "Training sessions at work"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je ne manquerai jamais une occasion digne de mon attention professionnelle</em>' - I will never miss an opportunity worthy of my professional attention. The verb 'manquerai' is the future of 'manquer' (to miss), and 'digne' means worthy.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["workplace", "opportunities", "professionalism", "dedication"],
+    "timeCreated": 1735952280,
+    "verified": "claude"
+}

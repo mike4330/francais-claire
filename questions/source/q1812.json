@@ -1,0 +1,19 @@
+{
+    "id": 1812,
+    "audioText": "Il fait froid au-dehors, restez à l'intérieur.",
+    "question": "Il fait froid au-dehors, restez à l'intérieur.",
+    "questionType": "listening",
+    "options": [
+        "Inside the house",
+        "Outside",
+        "In the basement",
+        "In the bedroom"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Il fait froid au-dehors, restez à l'intérieur</em>' - It is cold outside, stay inside. 'Au-dehors' means 'outside' or 'outdoors'. The distractors test confusion about the location of the cold.",
+    "difficulty": "B1",
+    "source": "Weather advice",
+    "tags": ["weather", "indoor-outdoor", "daily-life"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1066
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1813,
+    "audioText": "Selon l'annonce officielle, chercher un nouveau boulot deviendrait plus facile avec la nouvelle plateforme numérique.",
+    "question": "Selon l'annonce officielle, chercher un nouveau boulot deviendrait plus facile avec la nouvelle plateforme numérique.",
+    "questionType": "listening",
+    "options": [
+        "Looking for a new job with the new digital platform",
+        "Finding affordable housing in the city center area",
+        "Applying for government benefits through online services",
+        "Registering for university courses during enrollment period"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Looking for a new job with the new digital platform'. The text states '<em>Selon l'annonce officielle, chercher un nouveau boulot deviendrait plus facile avec la nouvelle plateforme numérique</em>' - According to the official announcement, looking for a new job would become easier with the new digital platform. 'Deviendrait' is the conditional form of 'devenir' (to become), and 'boulot' is informal for 'job'. The distractors test confusion about what would become easier.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - job platform announcement context",
+    "tags": ["announcements", "technology", "workplace"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1421
+}

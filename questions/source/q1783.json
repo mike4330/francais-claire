@@ -1,0 +1,19 @@
+{
+    "id": 1783,
+    "audioText": "Il semblerait que la réunion soit reportée à la semaine prochaine.",
+    "question": "What does the speaker suggest about the meeting?",
+    "questionType": "comprehension",
+    "options": [
+        "It seems to be postponed to next week",
+        "It will definitely happen this week",
+        "It has been cancelled permanently",
+        "It needs more participants to attend"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il semblerait que la réunion soit reportée à la semaine prochaine</em>' - It would seem that the meeting is postponed to next week. The conditional 'semblerait' expresses uncertainty or politeness when suggesting something.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["workplace", "meetings", "scheduling", "uncertainty"],
+    "timeCreated": 1735951500,
+    "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1823,
+    "audioText": "Cet affreux destin l'attendait depuis sa naissance malheureuse.",
+    "question": "What had been waiting for him since his unfortunate birth?",
+    "questionType": "comprehension",
+    "options": [
+        "This terrible fate",
+        "A wonderful opportunity",
+        "A happy family life",
+        "A successful career"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cet affreux destin l'attendait depuis sa naissance malheureuse</em>' - This terrible fate had been waiting for him since his unfortunate birth. The adjective 'affreux' means terrible/awful, and 'destin' means fate/destiny.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["fate", "tragedy", "life", "destiny"],
+    "timeCreated": 1735954140,
+    "verified": "claude"
+}

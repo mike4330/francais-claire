@@ -1,0 +1,19 @@
+{
+    "id": 1804,
+    "audioText": "Sa conscience était intimement liée à ses valeurs morales profondes.",
+    "question": "How was his conscience connected to his moral values?",
+    "questionType": "comprehension",
+    "options": [
+        "Intimately linked",
+        "Completely separated",
+        "Occasionally related",
+        "Barely connected"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa conscience était intimement liée à ses valeurs morales profondes</em>' - His conscience was intimately linked to his deep moral values. The adverb 'intimement' means intimately/closely, and 'conscience' means conscience.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["morality", "values", "philosophy", "ethics"],
+    "timeCreated": 1735953060,
+    "verified": "claude"
+}

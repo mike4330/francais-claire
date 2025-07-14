@@ -1,0 +1,19 @@
+{
+    "id": 1754,
+    "audioText": "La chaleur de l'été devient vraiment insupportable cette année.",
+    "question": "What is becoming unbearable this year?",
+    "questionType": "comprehension",
+    "options": [
+        "The summer heat",
+        "The winter cold",
+        "The spring rain",
+        "The autumn wind"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La chaleur de l'été devient vraiment insupportable cette année</em>' - The summer heat is becoming really unbearable this year. 'Chaleur' means heat or warmth, often used to describe weather conditions.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["weather", "summer", "discomfort"],
+    "timeCreated": 1721068800,
+    "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1785,
+    "audioText": "Mes amis comptent venir à la fête samedi.",
+    "question": "Mes amis ______ venir à la fête samedi.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "comptent",
+        "comptez",
+        "compte",
+        "comptes"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mes amis comptent venir à la fête samedi</em>' - My friends are planning to come to the party on Saturday. The correct form is 'comptent' (3rd person plural of 'compter') to agree with the plural subject 'mes amis'.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["friends", "party", "planning", "weekend"],
+    "timeCreated": 1735951620,
+    "verified": "claude"
+}

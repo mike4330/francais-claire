@@ -1,0 +1,19 @@
+{
+    "id": 1821,
+    "audioText": "Tu maries élégamment cette douleur à la poitrine avec ton stress quotidien.",
+    "question": "What is the person combining elegantly?",
+    "questionType": "comprehension",
+    "options": [
+        "Chest pain with daily stress",
+        "Exercise routine with diet",
+        "Work schedule with relaxation",
+        "Medical treatment with therapy"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu maries élégamment cette douleur à la poitrine avec ton stress quotidien</em>' - You elegantly combine this chest pain with your daily stress. The verb 'maries' (2nd person singular of 'marier') means 'combine/marry', and 'poitrine' means chest.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["health", "stress", "pain", "medical"],
+    "timeCreated": 1735954020,
+    "verified": "claude"
+}

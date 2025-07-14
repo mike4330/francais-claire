@@ -1,0 +1,19 @@
+{
+    "id": 1782,
+    "audioText": "Ces vieux tableaux ne vaux pas grand-chose maintenant.",
+    "question": "Ces vieux tableaux ne ______ pas grand-chose maintenant.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "valent",
+        "vaux",
+        "vaut",
+        "valuent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces vieux tableaux ne valent pas grand-chose maintenant</em>' - These old paintings aren't worth much now. The correct form is 'valent' (3rd person plural of 'valoir'). Note: 'vaux' exists but only for 1st/2nd person singular.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["art", "value", "antiques"],
+    "timeCreated": 1735951380,
+    "verified": "claude"
+}

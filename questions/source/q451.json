@@ -1,0 +1,19 @@
+{
+    "id": 451,
+    "audioText": "Le fil électrique est cassé dans la cuisine.",
+    "question": "What is broken in the kitchen?",
+    "questionType": "comprehension",
+    "options": [
+        "The electrical wire",
+        "The water pipe",
+        "The gas line", 
+        "The telephone cable"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le fil électrique est cassé dans la cuisine</em>' - The electrical wire is broken in the kitchen. 'Fil' means wire, thread, or line, commonly used for electrical wiring.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["household", "electricity", "repair"],
+    "timeCreated": 1721068800,
+    "verified": "claude"
+}

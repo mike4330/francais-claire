@@ -1,0 +1,22 @@
+{
+  "id": 1765,
+  "audioText": "Il ne sort guère de chez lui depuis son accident de voiture.",
+  "question": "Il ne sort ______ de chez lui depuis son accident de voiture.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "guère",
+    "jamais",
+    "souvent",
+    "toujours"
+  ],
+  "correct": 0,
+  "explanation": "The adverb 'guère' means 'hardly' or 'scarcely' and is always used with 'ne' (ne... guère). It indicates that he hardly ever leaves his house since his car accident - almost never, but not completely never like 'jamais' would mean.",
+  "difficulty": "B2",
+  "source": "Post-accident lifestyle change",
+  "tags": [
+    "health",
+    "lifestyle",
+    "recovery"
+  ],
+  "timeCreated": 1720077000
+}

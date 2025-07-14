@@ -1,0 +1,19 @@
+{
+    "id": 1806,
+    "audioText": "Elle cherchait fébrilement son chapeau avant de sortir en retard.",
+    "question": "How was she searching for her hat?",
+    "questionType": "comprehension",
+    "options": [
+        "Feverishly",
+        "Calmly",
+        "Casually",
+        "Methodically"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle cherchait fébrilement son chapeau avant de sortir en retard</em>' - She was feverishly searching for her hat before going out late. The adverb 'fébrilement' means feverishly/frantically, and 'chapeau' means hat.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["clothing", "urgency", "search", "daily-life"],
+    "timeCreated": 1735953240,
+    "verified": "claude"
+}

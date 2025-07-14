@@ -1,0 +1,19 @@
+{
+    "id": 1752,
+    "audioText": "J'ai un rendez-vous important chez le médecin demain matin.",
+    "question": "What does the speaker have tomorrow morning?",
+    "questionType": "comprehension",
+    "options": [
+        "An important appointment",
+        "A medical exam",
+        "A work meeting",
+        "A family visit"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai un rendez-vous important chez le médecin demain matin</em>' - I have an important appointment at the doctor's tomorrow morning. 'Rendez-vous' means appointment or meeting, commonly used for scheduled visits with professionals.",
+    "difficulty": "B1",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["healthcare", "appointments", "scheduling"],
+    "timeCreated": 1721068800,
+    "verified": "claude"
+}

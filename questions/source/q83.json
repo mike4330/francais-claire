@@ -1,7 +1,7 @@
 {
   "id": 83,
-  "audioText": "Je dois aider mon fils avec ses devoirs chaque soir après le dîner.",
-  "question": "Je ______ aider mon fils avec ses devoirs chaque soir après le dîner.",
+  "audioText": "Je dois aider mon fils.",
+  "question": "Je ______ aider mon fils.",
   "questionType": "fill-in-the-blank",
   "options": [
     "dois",
@@ -10,18 +10,14 @@
     "devons"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'dois' - the first person singular form of 'devoir' (must/have to). With 'je' (I), we use 'dois'. The sentence means 'I must help my son with his homework every evening after dinner.' This shows parenting responsibilities and introduces 'fils' (son).",
+  "explanation": "The text states '<em>Je dois aider mon fils</em>' - I must help my son. The correct answer is 'dois' - the first person singular form of 'devoir' (must/have to). With 'je' (I), we use 'dois'.",
   "difficulty": "A1",
   "source": "Parenting and Family Duties",
   "tags": [
-    "parenting",
     "family",
-    "fils",
-    "homework",
-    "education",
-    "daily-routine",
-    "obligation",
-    "devoir"
+    "parenting",
+    "obligation"
   ],
-  "timeCreated": 1751217041
+  "timeCreated": 1751217041,
+  "verified": "claude"
 }

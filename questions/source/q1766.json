@@ -1,0 +1,22 @@
+{
+  "id": 1766,
+  "audioText": "Elle travaille tant que sa santé commence à en souffrir.",
+  "question": "What does the speaker say about her work situation?",
+  "questionType": "comprehension",
+  "options": [
+    "She works so much that her health is starting to suffer from it",
+    "She works only when her health allows it",
+    "She stopped working because of health problems",
+    "She works very little to protect her health"
+  ],
+  "correct": 0,
+  "explanation": "The construction 'tant que' here means 'so much that' (expressing consequence). She works so much that it's starting to affect her health negatively. 'Tant' emphasizes the excessive amount of work.",
+  "difficulty": "B1",
+  "source": "Work-life balance concern",
+  "tags": [
+    "health",
+    "workplace",
+    "work-life-balance"
+  ],
+  "timeCreated": 1720077000
+}

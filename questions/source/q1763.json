@@ -1,0 +1,22 @@
+{
+  "id": 1763,
+  "audioText": "Il y a eu un gros orage cette nuit, mais heureusement notre vol n'a pas été annulé.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Il y a eu un gros orage cette nuit, mais heureusement notre vol n'a pas été annulé.",
+    "Il y a eu un gros orage cette nuit, mais malheureusement notre vol n'a pas été annulé.",
+    "Il y a eu un gros orage cette nuit, mais heureusement notre vol a été annulé.",
+    "Il y a eu un petit orage cette nuit, mais heureusement notre vol n'a pas été annulé."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'heureusement' (fortunately/luckily) to express relief that despite the big storm last night, their flight was not cancelled. The other options change key words: 'malheureusement' (unfortunately), 'a été annulé' (was cancelled), or 'petit orage' (small storm).",
+  "difficulty": "B1",
+  "source": "Travel disruption",
+  "tags": [
+    "weather",
+    "travel",
+    "good-fortune"
+  ],
+  "timeCreated": 1720076940
+}

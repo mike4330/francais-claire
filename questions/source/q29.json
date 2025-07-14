@@ -10,7 +10,7 @@
     "Delayed the implementation."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'aura prévu des exceptions' – will have provided exceptions for special cases.",
+  "explanation": "The text states '<em>Le règlement aura prévu des exceptions pour les cas particuliers</em>' - The regulation will have provided exceptions for special cases. 'Aura prévu' is the future perfect tense of 'prévoir' (to provide/foresee), indicating an action that will be completed in the future. 'Cas particuliers' means 'special cases' or 'particular situations'.",
   "difficulty": "B2",
   "source": "Synthetic Legal/Administrative",
   "tags": [
@@ -19,5 +19,7 @@
     "planning",
     "prévoir",
     "future-perfect"
-  ]
+  ],
+  "timeCreated": 1720051200,
+  "verified": "claude"
 }

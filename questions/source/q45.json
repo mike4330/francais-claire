@@ -10,7 +10,7 @@
     "You will find it very short and simple."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Tu trouveras cette chanson très émouvante et belle' - You will find this song very moving and beautiful. 'Émouvante' means moving/touching emotionally, and 'belle' means beautiful.",
+  "explanation": "The text states '<em>Tu trouveras cette chanson très émouvante et belle</em>' - You will find this song very moving and beautiful. The adjective 'émouvante' means moving/touching emotionally, and 'belle' means beautiful.",
   "difficulty": "A2",
   "source": "Music Recommendation",
   "tags": [
@@ -18,5 +18,7 @@
     "song",
     "emotions",
     "beauty"
-  ]
+  ],
+  "timeCreated": 1720026800,
+  "verified": "claude"
 }

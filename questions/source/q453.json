@@ -1,0 +1,19 @@
+{
+    "id": 453,
+    "audioText": "J'ai compté mes livres hier.",
+    "question": "J'ai ______ mes livres hier.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "compté",
+        "comptés",
+        "compte",
+        "comptées"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>J'ai compté mes livres hier</em>' - I counted my books yesterday. The correct form is 'compté' (past participle of 'compter'). In the passé composé with 'avoir', the past participle doesn't agree with the direct object when it follows the verb.",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["books", "counting", "past-actions"],
+    "timeCreated": 1735951440,
+    "verified": "claude"
+}

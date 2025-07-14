@@ -1,0 +1,19 @@
+{
+    "id": 1819,
+    "audioText": "Ces problèmes de souffle m'inquiètent beaucoup depuis quelques semaines.",
+    "question": "What worries the speaker?",
+    "questionType": "comprehension",
+    "options": [
+        "Breathing problems for several weeks",
+        "Heart issues since yesterday",
+        "Stomach pain for months",
+        "Headaches since morning"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces problèmes de souffle m'inquiètent beaucoup depuis quelques semaines</em>' - These breathing problems have been worrying me a lot for several weeks. The verb 'inquiètent' (3rd person plural of 'inquiéter') means 'worry', and 'souffle' means breath.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["health", "breathing", "medical-concerns", "worry"],
+    "timeCreated": 1735953840,
+    "verified": "claude"
+}

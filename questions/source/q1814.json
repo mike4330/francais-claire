@@ -1,0 +1,23 @@
+{
+    "id": 1814,
+    "audioText": "Le vieux sage s'assoit au sommet de la montagne, contemplant le lever du soleil et réfléchissant à la stabilité du monde.",
+    "question": "Le vieux sage s'assoit au sommet de la montagne, contemplant le lever du soleil et réfléchissant à la stabilité du monde.",
+    "questionType": "listening",
+    "options": [
+        "Au sommet de la montagne",
+        "Dans un fauteuil confortable",
+        "Au bord de la mer",
+        "Dans une grotte sombre"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le vieux sage s'assoit au sommet de la montagne</em>' - The old wise man sits at the top of the mountain. 'Assoit' is the third person singular present tense of 'asseoir' (to sit). This question touches upon the under-represented topic of 'stability'. The distractors test confusion about where the wise man is sitting.",
+    "difficulty": "B2",
+    "source": "Gemini CLI",
+    "tags": [
+        "philosophy",
+        "nature",
+        "stability"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1611
+}

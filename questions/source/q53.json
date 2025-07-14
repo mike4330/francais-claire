@@ -10,7 +10,7 @@
     "He read the newspaper on the balcony."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Il regardait les oiseaux dans le jardin tous les matins avant le travail' - He watched the birds in the garden every morning before work. The imperfect tense 'regardait' shows a repeated past action or habit.",
+  "explanation": "The text states '<em>Il regardait les oiseaux dans le jardin tous les matins avant le travail</em>' - He watched the birds in the garden every morning before work. The imperfect tense 'regardait' indicates a habitual past action.",
   "difficulty": "A2",
   "source": "Morning Routine",
   "tags": [
@@ -19,5 +19,7 @@
     "garden",
     "morning-routine",
     "daily-habits"
-  ]
+  ],
+  "timeCreated": 1720026800,
+  "verified": "claude"
 }

@@ -1,0 +1,19 @@
+{
+    "id": 1753,
+    "audioText": "Il tient toujours sa parole quand il fait une promesse.",
+    "question": "What does he always do when he makes a promise?",
+    "questionType": "comprehension",
+    "options": [
+        "Keeps his word",
+        "Forgets quickly",
+        "Asks for help",
+        "Changes his mind"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il tient toujours sa parole quand il fait une promesse</em>' - He always keeps his word when he makes a promise. 'Tenir sa parole' is an idiomatic expression meaning to keep one's word or honor one's commitments.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["promises", "reliability", "trust"],
+    "timeCreated": 1721068800,
+    "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1801,
+    "audioText": "Le morceau de papier volait dans le vent comme un oiseau.",
+    "question": "How was the piece of paper moving?",
+    "questionType": "comprehension",
+    "options": [
+        "Flying in the wind like a bird",
+        "Falling slowly to the ground",
+        "Sticking to the window",
+        "Floating on the water"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le morceau de papier volait dans le vent comme un oiseau</em>' - The piece of paper was flying in the wind like a bird. The verb 'volait' is the imperfect of 'voler' (to fly), and 'papier' means paper.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["nature", "movement", "wind", "objects"],
+    "timeCreated": 1735952880,
+    "verified": "claude"
+}

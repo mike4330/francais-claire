@@ -1,0 +1,19 @@
+{
+    "id": 458,
+    "audioText": "Ce simple geste a suffi à la consoler.",
+    "question": "Ce simple geste a ______ à la consoler.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "suffi",
+        "suffit",
+        "suffira",
+        "suffisait"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce simple geste a suffi à la consoler</em>' - This simple gesture was enough to console her. The correct form is 'suffi' (past participle of 'suffire') used in the passé composé with 'avoir'. The word 'geste' means gesture.",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["emotions", "comfort", "kindness", "gestures"],
+    "timeCreated": 1735952820,
+    "verified": "claude"
+}

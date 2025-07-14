@@ -1,0 +1,19 @@
+{
+    "id": 1789,
+    "audioText": "Mon frère s'est marié avec une femme allemande l'été dernier.",
+    "question": "What happened to the speaker's brother last summer?",
+    "questionType": "comprehension",
+    "options": [
+        "He married a German woman",
+        "He moved to Germany for work",
+        "He learned German language",
+        "He visited German relatives"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon frère s'est marié avec une femme allemande l'été dernier</em>' - My brother married a German woman last summer. The past participle 'marié' is used with 'se marier' (to get married), and 'allemande' means German (feminine).",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["family", "marriage", "nationality", "relationships"],
+    "timeCreated": 1735951980,
+    "verified": "claude"
+}

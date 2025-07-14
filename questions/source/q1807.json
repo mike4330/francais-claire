@@ -1,0 +1,19 @@
+{
+    "id": 1807,
+    "audioText": "Cette bande de jeunes ignorait ostensiblement les règles du parc.",
+    "question": "How did the group of young people ignore the park rules?",
+    "questionType": "comprehension",
+    "options": [
+        "Ostentatiously",
+        "Accidentally",
+        "Secretly",
+        "Reluctantly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette bande de jeunes ignorait ostensiblement les règles du parc</em>' - This group of young people was ostentatiously ignoring the park rules. The adverb 'ostensiblement' means ostentatiously/conspicuously, and 'bande' means group/gang.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["youth", "rules", "behavior", "public-spaces"],
+    "timeCreated": 1735953300,
+    "verified": "claude"
+}

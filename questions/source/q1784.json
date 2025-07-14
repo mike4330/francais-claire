@@ -1,0 +1,19 @@
+{
+    "id": 1784,
+    "audioText": "Ces bijoux anciens valent beaucoup d'argent.",
+    "question": "Ces bijoux anciens ______ beaucoup d'argent.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "valent",
+        "vaut",
+        "valuent",
+        "valoir"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces bijoux anciens valent beaucoup d'argent</em>' - These antique jewels are worth a lot of money. The correct form is 'valent' (3rd person plural of 'valoir') to agree with the plural subject 'ces bijoux'.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["jewelry", "antiques", "value", "money"],
+    "timeCreated": 1735951560,
+    "verified": "claude"
+}

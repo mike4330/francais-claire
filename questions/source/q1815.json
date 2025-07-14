@@ -1,0 +1,19 @@
+{
+    "id": 1815,
+    "audioText": "Ce nouveau pont vaudra des millions d'euros à construire.",
+    "question": "What will the new bridge cost?",
+    "questionType": "comprehension",
+    "options": [
+        "Millions of euros to build",
+        "Thousands of euros to repair",
+        "Nothing to maintain",
+        "Very little to design"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce nouveau pont vaudra des millions d'euros à construire</em>' - This new bridge will cost millions of euros to build. The verb 'vaudra' is the future tense of 'valoir' (to cost/be worth), and 'pont' means bridge.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["infrastructure", "construction", "costs", "engineering"],
+    "timeCreated": 1735953540,
+    "verified": "claude"
+}

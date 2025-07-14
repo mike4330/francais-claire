@@ -1,0 +1,19 @@
+{
+    "id": 1791,
+    "audioText": "Je continuerai à porter ce style cool même si mes parents n'aiment pas.",
+    "question": "What will the speaker continue doing despite parental disapproval?",
+    "questionType": "comprehension",
+    "options": [
+        "Wearing the cool style",
+        "Buying expensive clothes",
+        "Going out with friends",
+        "Listening to loud music"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je continuerai à porter ce style cool même si mes parents n'aiment pas</em>' - I will continue to wear this cool style even if my parents don't like it. The verb 'continuerai' is the future tense of 'continuer', and 'cool' means trendy/fashionable.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["fashion", "family", "generational-differences", "style"],
+    "timeCreated": 1735952160,
+    "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1818,
+    "audioText": "Cet homme au volant avait tort de conduire si vite.",
+    "question": "What was wrong with the man's driving?",
+    "questionType": "comprehension",
+    "options": [
+        "He was wrong to drive so fast",
+        "He was right to be cautious",
+        "He was correct to speed up",
+        "He was wise to slow down"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cet homme au volant avait tort de conduire si vite</em>' - This man at the wheel was wrong to drive so fast. The expression 'avoir tort' means 'to be wrong', 'volant' means steering wheel, and 'tort' means wrong/fault.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["driving", "safety", "mistakes", "transportation"],
+    "timeCreated": 1735953780,
+    "verified": "claude"
+}

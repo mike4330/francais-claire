@@ -1,0 +1,19 @@
+{
+    "id": 452,
+    "audioText": "Tu comptes tes euros ?",
+    "question": "Tu ______ tes euros ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "comptes",
+        "compte",
+        "comptent",
+        "comptez"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu comptes tes euros ?</em>' - Are you counting your euros? The correct form is 'comptes' (2nd person singular of 'compter'). This verb agrees with the subject 'tu'.",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["money", "counting", "daily-life"],
+    "timeCreated": 1735951260,
+    "verified": "claude"
+}

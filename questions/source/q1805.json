@@ -1,0 +1,19 @@
+{
+    "id": 1805,
+    "audioText": "Ce poids sur ses épaules l'oppressait perpétuellement depuis des mois.",
+    "question": "How long has this weight been oppressing him?",
+    "questionType": "comprehension",
+    "options": [
+        "Perpetually for months",
+        "Only during work hours",
+        "Just on weekends",
+        "Occasionally in the evening"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce poids sur ses épaules l'oppressait perpétuellement depuis des mois</em>' - This weight on his shoulders had been oppressing him perpetually for months. The adverb 'perpétuellement' means perpetually/constantly, and 'poids' means weight.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["stress", "burden", "emotions", "mental-health"],
+    "timeCreated": 1735953120,
+    "verified": "claude"
+}

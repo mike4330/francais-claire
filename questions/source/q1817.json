@@ -1,0 +1,19 @@
+{
+    "id": 1817,
+    "audioText": "Son désir d'aventure lui a valu de nombreuses expériences enrichissantes.",
+    "question": "What has his desire for adventure brought him?",
+    "questionType": "comprehension",
+    "options": [
+        "Many enriching experiences",
+        "Serious financial problems",
+        "Constant family conflicts",
+        "Major health issues"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son désir d'aventure lui a valu de nombreuses expériences enrichissantes</em>' - His desire for adventure has brought him many enriching experiences. The past participle 'valu' (brought/earned) is used with 'avoir', and 'désir' means desire.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["adventure", "personal-growth", "experiences", "motivation"],
+    "timeCreated": 1735953660,
+    "verified": "claude"
+}

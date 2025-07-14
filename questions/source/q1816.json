@@ -1,0 +1,19 @@
+{
+    "id": 1816,
+    "audioText": "Les magasins fermés frustraient cette foule de touristes affamés.",
+    "question": "What was frustrating the crowd of hungry tourists?",
+    "questionType": "comprehension",
+    "options": [
+        "The closed stores",
+        "The expensive prices",
+        "The long waiting lines",
+        "The bad weather"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les magasins fermés frustraient cette foule de touristes affamés</em>' - The closed stores were frustrating this crowd of hungry tourists. The past participle 'fermés' (closed) agrees with 'magasins', and 'foule' means crowd.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["tourism", "shopping", "frustration", "crowds"],
+    "timeCreated": 1735953600,
+    "verified": "claude"
+}

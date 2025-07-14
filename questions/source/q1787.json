@@ -1,0 +1,19 @@
+{
+    "id": 1787,
+    "audioText": "Nous commencerons la construction du nouveau pont l'année prochaine.",
+    "question": "When will the bridge construction begin?",
+    "questionType": "comprehension",
+    "options": [
+        "Next year",
+        "This month",
+        "Last week",
+        "In two years"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous commencerons la construction du nouveau pont l'année prochaine</em>' - We will start the construction of the new bridge next year. The verb 'commencerons' is the future tense of 'commencer' (1st person plural).",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["construction", "infrastructure", "planning", "future"],
+    "timeCreated": 1735951800,
+    "verified": "claude"
+}

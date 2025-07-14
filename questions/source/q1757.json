@@ -1,0 +1,22 @@
+{
+  "id": 1757,
+  "audioText": "Les enfants se cachent derrière les arbres pendant le jeu.",
+  "question": "Les enfants se cachent ______ les arbres pendant le jeu.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "derrière",
+    "devant",
+    "sous",
+    "sur"
+  ],
+  "correct": 0,
+  "explanation": "The adverb 'derrière' means 'behind'. It indicates that the children are hiding behind the trees during their game, using the trees as cover or concealment.",
+  "difficulty": "B2",
+  "source": "Children's playground activity",
+  "tags": [
+    "children",
+    "games",
+    "playground"
+  ],
+  "timeCreated": 1720076580
+}

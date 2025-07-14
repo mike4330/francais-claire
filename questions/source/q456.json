@@ -1,0 +1,19 @@
+{
+    "id": 456,
+    "audioText": "Elle est descendue avec sa robe rose.",
+    "question": "Elle est ______ avec sa robe rose.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "descendue",
+        "descendu",
+        "descendes",
+        "descendent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle est descendue avec sa robe rose</em>' - She came down with her pink dress. The correct form is 'descendue' (feminine past participle of 'descendre') agreeing with the feminine subject 'elle'. 'Rose' means pink.",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["clothing", "movement", "fashion", "colors"],
+    "timeCreated": 1735952100,
+    "verified": "claude"
+}

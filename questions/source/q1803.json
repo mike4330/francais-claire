@@ -1,0 +1,19 @@
+{
+    "id": 1803,
+    "audioText": "Il regardait pensivement cet enfer urbain depuis sa fenêtre.",
+    "question": "How was he looking at the urban scene?",
+    "questionType": "comprehension",
+    "options": [
+        "Thoughtfully",
+        "Angrily",
+        "Quickly",
+        "Fearfully"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il regardait pensivement cet enfer urbain depuis sa fenêtre</em>' - He was thoughtfully looking at this urban hell from his window. The adverb 'pensivement' means thoughtfully/pensively, and 'enfer' means hell.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["urban-life", "observation", "contemplation", "city"],
+    "timeCreated": 1735953000,
+    "verified": "claude"
+}

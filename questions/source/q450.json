@@ -1,0 +1,19 @@
+{
+    "id": 450,
+    "audioText": "Ma dent me fait très mal aujourd'hui.",
+    "question": "What is causing the speaker pain?",
+    "questionType": "comprehension",
+    "options": [
+        "Their tooth",
+        "Their head",
+        "Their back",
+        "Their stomach"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ma dent me fait très mal aujourd'hui</em>' - My tooth is hurting me a lot today. 'Dent' means tooth, and 'fait mal' expresses pain or discomfort.",
+    "difficulty": "A2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["health", "pain", "dental"],
+    "timeCreated": 1721068800,
+    "verified": "claude"
+}

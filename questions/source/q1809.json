@@ -1,0 +1,19 @@
+{
+    "id": 1809,
+    "audioText": "Le capitaine du navire se sentait coupable d'avoir échoué près de cette côte.",
+    "question": "How did the ship's captain feel?",
+    "questionType": "comprehension",
+    "options": [
+        "Guilty about running aground near the coast",
+        "Happy about reaching the shore safely",
+        "Proud of his navigation skills",
+        "Excited about the new destination"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le capitaine du navire se sentait coupable d'avoir échoué près de cette côte</em>' - The ship's captain felt guilty about having run aground near this coast. The adjective 'coupable' means guilty, and 'côte' means coast.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["maritime", "navigation", "guilt", "accidents"],
+    "timeCreated": 1735953480,
+    "verified": "claude"
+}

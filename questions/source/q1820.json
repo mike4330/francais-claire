@@ -1,0 +1,19 @@
+{
+    "id": 1820,
+    "audioText": "Ce chat aveugle buvait son lait avec difficulté tous les matins.",
+    "question": "How did the blind cat drink its milk?",
+    "questionType": "comprehension",
+    "options": [
+        "With difficulty every morning",
+        "Easily throughout the day",
+        "Quickly during lunch",
+        "Slowly in the evening"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce chat aveugle buvait son lait avec difficulté tous les matins</em>' - This blind cat drank its milk with difficulty every morning. The adjective 'aveugle' means blind, and 'lait' means milk.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["animals", "disability", "daily-routine", "pets"],
+    "timeCreated": 1735953960,
+    "verified": "claude"
+}

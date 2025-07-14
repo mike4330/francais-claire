@@ -1,0 +1,19 @@
+{
+    "id": 1796,
+    "audioText": "À propos de cette réunion, vous posez trop de questions difficiles.",
+    "question": "What does the speaker think about the questions?",
+    "questionType": "comprehension",
+    "options": [
+        "They are too difficult",
+        "They are very relevant",
+        "They are poorly timed",
+        "They are too simple"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>À propos de cette réunion, vous posez trop de questions difficiles</em>' - Regarding this meeting, you ask too many difficult questions. The phrase 'à propos de' means 'regarding/about', and 'posez' (2nd person plural of 'poser') means 'you ask'.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["meetings", "workplace", "questions", "communication"],
+    "timeCreated": 1735952520,
+    "verified": "claude"
+}

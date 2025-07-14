@@ -1,0 +1,19 @@
+{
+    "id": 1808,
+    "audioText": "Son souffle court indiquait a priori un problème de santé.",
+    "question": "What did his short breath indicate?",
+    "questionType": "comprehension",
+    "options": [
+        "Presumably a health problem",
+        "Definitely good fitness",
+        "Certainly normal breathing",
+        "Obviously recent exercise"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son souffle court indiquait a priori un problème de santé</em>' - His short breath presumably indicated a health problem. The phrase 'a priori' means presumably/at first sight, and 'souffle' means breath.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["health", "breathing", "medical", "symptoms"],
+    "timeCreated": 1735953360,
+    "verified": "claude"
+}

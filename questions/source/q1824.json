@@ -1,0 +1,19 @@
+{
+    "id": 1824,
+    "audioText": "Cette herbe verte créait un paysage charmant pour leur pique-nique romantique.",
+    "question": "What did the green grass create?",
+    "questionType": "comprehension",
+    "options": [
+        "A charming landscape for their romantic picnic",
+        "A perfect place for playing sports",
+        "An ideal spot for building houses",
+        "A suitable area for parking cars"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette herbe verte créait un paysage charmant pour leur pique-nique romantique</em>' - This green grass created a charming landscape for their romantic picnic. The adjective 'charmant' means charming, and 'herbe' means grass.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["nature", "romance", "picnic", "landscape"],
+    "timeCreated": 1735954260,
+    "verified": "claude"
+}

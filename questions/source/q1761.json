@@ -1,0 +1,22 @@
+{
+  "id": 1761,
+  "audioText": "Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
+  "parentQuestion": 1760,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
+    "Les étudiants critiquent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
+    "Les étudiants soutiennent leur professeur qui a trouvé son travail à cause de ses opinions politiques.",
+    "Les étudiants soutiennent leur directeur qui a perdu son travail à cause de ses opinions politiques."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.' - The students support their professor who lost his job because of his political opinions.",
+  "difficulty": "B1",
+  "source": "University News - Listening",
+  "tags": [
+    "education",
+    "support",
+    "politics"
+  ]
+}

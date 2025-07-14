@@ -1,0 +1,19 @@
+{
+    "id": 1822,
+    "audioText": "Sa volonté d'apprendre l'allemand impressionnait tous ses professeurs européens.",
+    "question": "What impressed all his European teachers?",
+    "questionType": "comprehension",
+    "options": [
+        "His willingness to learn German",
+        "His ability to speak French",
+        "His knowledge of history",
+        "His talent for mathematics"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa volonté d'apprendre l'allemand impressionnait tous ses professeurs européens</em>' - His willingness to learn German impressed all his European teachers. The noun 'volonté' means willingness/will, and 'allemand' means German.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["education", "languages", "motivation", "learning"],
+    "timeCreated": 1735954080,
+    "verified": "claude"
+}

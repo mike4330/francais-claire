@@ -1,0 +1,19 @@
+{
+    "id": 1780,
+    "audioText": "Vous comptez partir en vacances cet été ?",
+    "question": "What is the speaker asking about?",
+    "questionType": "comprehension",
+    "options": [
+        "Summer vacation plans",
+        "Work schedule changes",
+        "Holiday booking costs",
+        "Weekend travel ideas"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous comptez partir en vacances cet été ?</em>' - Are you planning to go on vacation this summer? The verb 'comptez' (2nd person plural of 'compter') means 'are planning' or 'intend to' in this context.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["vacation", "travel", "planning", "summer"],
+    "timeCreated": 1735951200,
+    "verified": "claude"
+}

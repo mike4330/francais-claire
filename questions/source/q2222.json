@@ -10,7 +10,7 @@
     "en face"
   ],
   "correct": 0,
-  "explanation": "The adverb 'au-dessus' means 'above' or 'over'. It indicates that the director's office is located on a floor above the library in this modern administrative building.",
+  "explanation": "The text states '<em>Le bureau du directeur se trouve au-dessus de la bibliothèque dans ce bâtiment administratif moderne</em>' - The director's office is located above the library in this modern administrative building. The correct answer is 'au-dessus' (above), which contrasts with 'au-dessous' (below), 'à côté' (next to), or 'en face' (across from).",
   "difficulty": "C1",
   "source": "Office building description",
   "tags": [
@@ -18,5 +18,6 @@
     "building",
     "location"
   ],
-  "timeCreated": 1720076580
+  "timeCreated": 1720076580,
+  "verified": "claude"
 }

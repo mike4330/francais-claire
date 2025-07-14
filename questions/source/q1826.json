@@ -1,0 +1,19 @@
+{
+    "id": 1826,
+    "audioText": "Il trouvait grand-peine à rassembler les preuves nécessaires pour son dossier complexe.",
+    "question": "How was he finding the necessary evidence?",
+    "questionType": "comprehension",
+    "options": [
+        "With great difficulty",
+        "Very easily",
+        "Quite quickly",
+        "Without any problem"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il trouvait grand-peine à rassembler les preuves nécessaires pour son dossier complexe</em>' - He was finding it very difficult to gather the necessary evidence for his complex file. The expression 'grand-peine' means 'with great difficulty', and 'preuves' means evidence/proof.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["legal", "investigation", "difficulty", "evidence"],
+    "timeCreated": 1735954380,
+    "verified": "claude"
+}

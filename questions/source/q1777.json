@@ -1,0 +1,22 @@
+{
+  "id": 1777,
+  "audioText": "Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.",
+  "parentQuestion": 1776,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.",
+    "Pour le déjeuner, j'ai pris une salade Cardini avec du poulet croustillant et du parmesan.",
+    "Pour le déjeuner, j'ai pris une salade Déclic avec du chorizo et des noisettes.",
+    "Pour le déjeuner, j'ai pris un Croque Monsieur avec des frites et de la salade."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Pour le déjeuner, j'ai pris une salade Bergère avec du chèvre pané et des lardons.' - For lunch, I had a Bergère salad with breaded goat cheese and bacon bits.",
+  "difficulty": "B1",
+  "source": "Lunch Menu - Listening",
+  "tags": [
+    "food",
+    "lunch",
+    "salad"
+  ]
+}

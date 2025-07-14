@@ -1,0 +1,19 @@
+{
+    "id": 1799,
+    "audioText": "Tu voles vers la capitale pour rencontrer le président ?",
+    "question": "Tu ______ vers la capitale pour rencontrer le président ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "voles",
+        "vol",
+        "volez",
+        "volent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu voles vers la capitale pour rencontrer le président ?</em>' - Are you flying to the capital to meet the president? The correct form is 'voles' (2nd person singular of 'voler'), and 'président' means president.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["politics", "travel", "government", "meetings"],
+    "timeCreated": 1735952700,
+    "verified": "claude"
+}

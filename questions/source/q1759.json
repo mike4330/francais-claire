@@ -1,0 +1,22 @@
+{
+  "id": 1759,
+  "audioText": "Tu es évidemment le meilleur candidat pour ce poste important.",
+  "question": "How does the speaker feel about the candidate's suitability for the position?",
+  "questionType": "comprehension",
+  "options": [
+    "Completely certain they are the best choice",
+    "Somewhat unsure about their qualifications",
+    "Neutral about their candidacy",
+    "Doubtful about their abilities"
+  ],
+  "correct": 0,
+  "explanation": "The adverb 'évidemment' means 'obviously' or 'clearly'. The speaker expresses complete certainty and confidence that this person is obviously the best candidate for the important position, showing no doubt whatsoever.",
+  "difficulty": "B2",
+  "source": "Job interview feedback",
+  "tags": [
+    "workplace",
+    "recruitment",
+    "evaluation"
+  ],
+  "timeCreated": 1720076580
+}

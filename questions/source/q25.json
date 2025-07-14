@@ -10,12 +10,13 @@
     "sol"
   ],
   "correct": 0,
-  "explanation": "'Table' means 'table'. The sentence is an instruction to put the plates on the table.",
+  "explanation": "The text states '<em>Mets les assiettes sur la table</em>' - Put the plates on the table. The correct answer is 'table' (table). This is an imperative instruction using the verb 'mettre' (to put).",
   "difficulty": "A1",
   "source": "Gemini-generated",
   "tags": [
     "household",
     "instructions"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

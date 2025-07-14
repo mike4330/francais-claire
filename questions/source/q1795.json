@@ -1,0 +1,19 @@
+{
+    "id": 1795,
+    "audioText": "Vous vous inquiétez pour cette coupure sur votre lèvre ?",
+    "question": "What is the person worried about?",
+    "questionType": "comprehension",
+    "options": [
+        "A cut on their lip",
+        "A dental appointment",
+        "A facial bruise",
+        "A skin infection"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous vous inquiétez pour cette coupure sur votre lèvre ?</em>' - Are you worried about that cut on your lip? The verb 'inquiétez' (2nd person plural of 's'inquiéter') means 'are worried', and 'lèvre' means lip.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["health", "injury", "concern", "body"],
+    "timeCreated": 1735952400,
+    "verified": "claude"
+}

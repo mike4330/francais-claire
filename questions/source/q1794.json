@@ -1,0 +1,19 @@
+{
+    "id": 1794,
+    "audioText": "Un traitement égal pour tous les patients sauvera notre système de santé.",
+    "question": "What will save the healthcare system?",
+    "questionType": "comprehension",
+    "options": [
+        "Equal treatment for all patients",
+        "More hospital beds available",
+        "Better medical equipment",
+        "Higher salaries for doctors"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Un traitement égal pour tous les patients sauvera notre système de santé</em>' - Equal treatment for all patients will save our healthcare system. The verb 'sauvera' is the future of 'sauver' (to save), and 'égal' means equal.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["health", "equality", "healthcare-system", "social-issues"],
+    "timeCreated": 1735952340,
+    "verified": "claude"
+}

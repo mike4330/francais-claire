@@ -1,0 +1,19 @@
+{
+    "id": 1798,
+    "audioText": "Tu t'inquiètes pour ton frère qui rejoint l'armée demain ?",
+    "question": "Tu t'______ pour ton frère qui rejoint l'armée demain ?",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "inquiètes",
+        "inquiète",
+        "inquiétez",
+        "inquiètent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu t'inquiètes pour ton frère qui rejoint l'armée demain ?</em>' - Are you worried about your brother who's joining the army tomorrow? The correct form is 'inquiètes' (2nd person singular of 's'inquiéter'), and 'armée' means army.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["family", "military", "concern", "worry"],
+    "timeCreated": 1735952640,
+    "verified": "claude"
+}

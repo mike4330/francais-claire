@@ -1,0 +1,19 @@
+{
+    "id": 1792,
+    "audioText": "L'histoire se souviendra de ce célèbre discours politique pour toujours.",
+    "question": "What will be remembered forever?",
+    "questionType": "comprehension",
+    "options": [
+        "The famous political speech",
+        "The election campaign results",
+        "The parliamentary debates",
+        "The government reforms"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'histoire se souviendra de ce célèbre discours politique pour toujours</em>' - History will remember this famous political speech forever. The verb 'souviendra' is the future of 'se souvenir' (to remember), and 'célèbre' means famous.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["politics", "history", "memory", "speeches"],
+    "timeCreated": 1735952220,
+    "verified": "claude"
+}

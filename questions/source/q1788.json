@@ -1,0 +1,19 @@
+{
+    "id": 1788,
+    "audioText": "Il faut que le lieutenant réponde rapidement aux questions du capitaine.",
+    "question": "What does the lieutenant need to do?",
+    "questionType": "comprehension",
+    "options": [
+        "Answer the captain's questions quickly",
+        "Report to the general immediately",
+        "Complete the training exercise",
+        "Organize the military equipment"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il faut que le lieutenant réponde rapidement aux questions du capitaine</em>' - The lieutenant must answer the captain's questions quickly. The verb 'réponde' is the subjunctive form of 'répondre' used after 'il faut que'.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["military", "hierarchy", "communication", "urgency"],
+    "timeCreated": 1735951920,
+    "verified": "claude"
+}

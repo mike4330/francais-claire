@@ -1,0 +1,19 @@
+{
+    "id": 1825,
+    "audioText": "Je m'inquiétais constamment pour cette douleur persistante dans ma gorge.",
+    "question": "Je m'______ constamment pour cette douleur persistante dans ma gorge.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "inquiétais",
+        "inquiète",
+        "inquiétez",
+        "inquiètent"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je m'inquiétais constamment pour cette douleur persistante dans ma gorge</em>' - I was constantly worrying about this persistent pain in my throat. The correct form is 'inquiétais' (1st person singular imperfect of 's'inquiéter'), and 'gorge' means throat.",
+    "difficulty": "B1",
+    "source": "Claude-generated",
+    "tags": ["health", "throat", "worry", "medical-concerns"],
+    "timeCreated": 1735954320,
+    "verified": "claude"
+}

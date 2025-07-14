@@ -1,0 +1,22 @@
+{
+  "id": 1770,
+  "audioText": "Tu devrais sérieusement considérer cette opportunité professionnelle.",
+  "question": "What type of advice is the speaker giving?",
+  "questionType": "comprehension",
+  "options": [
+    "They strongly recommend seriously considering the professional opportunity",
+    "They suggest casually thinking about the professional opportunity",
+    "They advise rejecting the professional opportunity immediately",
+    "They recommend waiting before considering the professional opportunity"
+  ],
+  "correct": 0,
+  "explanation": "'Sérieusement' means 'seriously' and emphasizes the importance of the advice. The speaker is strongly recommending that the person give serious, thoughtful consideration to this professional opportunity rather than dismissing it lightly.",
+  "difficulty": "B1",
+  "source": "Career advice",
+  "tags": [
+    "career",
+    "advice",
+    "opportunities"
+  ],
+  "timeCreated": 1720077200
+}

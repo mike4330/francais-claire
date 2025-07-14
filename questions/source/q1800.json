@@ -1,0 +1,19 @@
+{
+    "id": 1800,
+    "audioText": "Cette odeur de parfum suffirait à masquer l'odeur de cuisine.",
+    "question": "What would be sufficient to mask the cooking smell?",
+    "questionType": "comprehension",
+    "options": [
+        "This perfume smell",
+        "Opening the windows",
+        "Using an air freshener",
+        "Cleaning the kitchen"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette odeur de parfum suffirait à masquer l'odeur de cuisine</em>' - This perfume smell would be sufficient to mask the cooking smell. The verb 'suffirait' is the conditional of 'suffire' (to be sufficient), and 'odeur' means smell.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["household", "smells", "perfume", "cooking"],
+    "timeCreated": 1735952760,
+    "verified": "claude"
+}

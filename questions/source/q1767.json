@@ -1,0 +1,22 @@
+{
+  "id": 1767,
+  "audioText": "Apparemment, la réunion a été reportée à demain sans nous prévenir.",
+  "question": "What does the speaker suggest about the meeting postponement?",
+  "questionType": "comprehension",
+  "options": [
+    "It seems the meeting was postponed to tomorrow without notifying them",
+    "They confirmed the meeting was officially postponed to tomorrow",
+    "They personally decided to postpone the meeting to tomorrow",
+    "The meeting will definitely happen tomorrow as planned"
+  ],
+  "correct": 0,
+  "explanation": "'Apparemment' means 'apparently' or 'seemingly', indicating the speaker has learned this information indirectly or is making an assumption based on available evidence. They weren't directly informed about the postponement.",
+  "difficulty": "B2",
+  "source": "Workplace communication issue",
+  "tags": [
+    "workplace",
+    "communication",
+    "meetings"
+  ],
+  "timeCreated": 1720077200
+}

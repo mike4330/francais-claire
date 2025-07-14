@@ -1,0 +1,19 @@
+{
+    "id": 1781,
+    "audioText": "Ce petit budget suffira pour le projet de rénovation de l'appartement.",
+    "question": "What does the speaker think about the budget?",
+    "questionType": "comprehension",
+    "options": [
+        "It will be sufficient for the renovation",
+        "It needs to be increased immediately",
+        "It's too complicated to understand",
+        "It should be used for something else"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce petit budget suffira pour le projet de rénovation de l'appartement</em>' - This small budget will be sufficient for the apartment renovation project. The verb 'suffira' is the future tense of 'suffire' (to be sufficient).",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["housing", "renovation", "budget", "planning"],
+    "timeCreated": 1735951320,
+    "verified": "claude"
+}

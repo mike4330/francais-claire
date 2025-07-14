@@ -1,0 +1,19 @@
+{
+    "id": 1797,
+    "audioText": "Le sculpteur maria cette forme parfaite avec des matériaux nobles.",
+    "question": "What did the sculptor do?",
+    "questionType": "comprehension",
+    "options": [
+        "Combined perfect form with noble materials",
+        "Created a statue for a wedding",
+        "Designed jewelry for a bride",
+        "Built a monument for couples"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le sculpteur maria cette forme parfaite avec des matériaux nobles</em>' - The sculptor combined this perfect form with noble materials. The verb 'maria' (past simple of 'marier') means 'combined/married', and 'forme' means form or shape.",
+    "difficulty": "B2",
+    "source": "Claude-generated",
+    "tags": ["art", "sculpture", "materials", "creativity"],
+    "timeCreated": 1735952580,
+    "verified": "claude"
+}

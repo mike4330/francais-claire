@@ -10,11 +10,13 @@
     "Le film laissait une impression durable au public."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Le film laissera une impression durable au public.' - The film will leave a lasting impression on the audience. Note the future tense 'laissera' indicating the film's future impact.",
+  "explanation": "The audio states '<em>Le film laissera une impression durable au public</em>' - The film will leave a lasting impression on the audience. Note the key distinctions: 'laissera' (future) vs 'laisse' (present) vs 'laissait' (imperfect), and 'durable' vs 'terrible'.",
   "difficulty": "A2",
   "source": "Cinema Review",
   "tags": [
     "cinema",
     "impression"
-  ]
+  ],
+  "timeCreated": 1720026740,
+  "verified": "claude"
 }
