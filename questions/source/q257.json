@@ -1,22 +1,22 @@
 {
   "id": 257,
-  "audioText": "Mademoiselle plairez nerveux à l'ennemi mignon par hasard.",
-  "question": "Who will nervously please the cute enemy by chance?",
+  "audioText": "Mademoiselle Dupont rencontre son ennemi par hasard au café.",
+  "question": "Who encounters their enemy by chance at the café?",
   "questionType": "comprehension",
   "options": [
-    "Miss/Young lady",
+    "Miss Dupont",
     "The gentleman",
     "The professor",
     "The doctor"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Mademoiselle plairez nerveux à l'ennemi mignon par hasard</em>' - Miss will nervously please the cute enemy by chance. 'Mademoiselle' means miss/young lady and 'ennemi' means enemy.",
+  "explanation": "The text states '<em>Mademoiselle Dupont rencontre son ennemi par hasard au café</em>' - Miss Dupont encounters her enemy by chance at the café. 'Mademoiselle' is a formal title for a young woman, and 'par hasard' means by chance.",
   "difficulty": "A2",
   "source": "Strategic targeting - mademoiselle + plairez + nerveux + ennemi + mignon + hasard synergy + military",
   "tags": [
-    "military",
-    "politeness",
-    "conflict"
+    "social-interaction",
+    "conflict",
+    "cafe"
   ],
   "timeCreated": 1736806680
 }

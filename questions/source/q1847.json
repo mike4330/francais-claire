@@ -1,0 +1,19 @@
+{
+    "id": 1847,
+    "audioText": "Je tirerai des conclusions importantes de cette vue d'ensemble sur les expositions d'art contemporain.",
+    "question": "Je tirerai des conclusions importantes de cette vue d'ensemble sur les expositions d'art contemporain.",
+    "questionType": "listening",
+    "options": [
+        "Important conclusions",
+        "Inspiration for personal artistic projects and creations",
+        "Contacts with influential gallery owners and curators",
+        "Knowledge about current market trends and pricing"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'Important conclusions'. The text states '<em>Je tirerai des conclusions importantes de cette vue d'ensemble sur les expositions d'art contemporain</em>' - I will draw important conclusions from this overview of contemporary art exhibitions. 'Tirerai' is the future form of 'tirer' (to draw/pull), and 'vue' means 'view/sight'. The distractors test confusion about what will be drawn from the overview.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - art exhibitions context",
+    "tags": ["exhibitions", "art", "analysis"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1455
+}

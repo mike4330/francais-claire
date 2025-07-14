@@ -1,0 +1,19 @@
+{
+    "id": 1840,
+    "audioText": "Son talent artistique tombera horriblement si elle ne pratique pas régulièrement son instrument de musique.",
+    "question": "Son talent artistique tombera horriblement si elle ne pratique pas régulièrement son instrument de musique.",
+    "questionType": "listening",
+    "options": [
+        "It will fall horribly if she doesn't practice her musical instrument regularly",
+        "It will improve dramatically with dedicated daily practice sessions",
+        "It will remain stable regardless of her practice frequency",
+        "It will develop in unexpected directions with creative exploration"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 'It will fall horribly if she doesn't practice her musical instrument regularly'. The text states '<em>Son talent artistique tombera horriblement si elle ne pratique pas régulièrement son instrument de musique</em>' - Her artistic talent will fall horribly if she doesn't practice her musical instrument regularly. 'Tombera' is the future form of 'tomber' (to fall), and 'horriblement' means 'horribly'. The distractors test confusion about the consequence of not practicing.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary development - artistic talent context",
+    "tags": ["talent", "music", "practice"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1443
+}

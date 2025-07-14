@@ -1,0 +1,19 @@
+{
+    "id": 1849,
+    "audioText": "Les habitants vivaient au bout de la forêt verte, totalement isolés de la ville polluée.",
+    "question": "Les habitants vivaient au bout de la forêt verte, totalement isolés de la ville polluée.",
+    "questionType": "listening",
+    "options": [
+        "Partially connected to it",
+        "Totally isolated from it",
+        "Right next to it",
+        "Occasionally visiting it"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Les habitants vivaient au bout de la forêt verte, totalement isolés de la ville polluée</em>' - The inhabitants lived at the edge of the green forest, totally isolated from the polluted city. 'Vivaient' is imperfect tense, 'bout' means end/edge, 'verte' means green, and 'totalement' means totally. The distractors test confusion about the inhabitants' relationship with the city.",
+    "difficulty": "B2",
+    "source": "Environmental contrast and rural life",
+    "tags": ["environment", "rural-life", "pollution"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 869
+}

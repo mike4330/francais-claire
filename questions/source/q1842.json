@@ -1,0 +1,19 @@
+{
+    "id": 1842,
+    "audioText": "Un épisode venteux et pluvieux impressionnant, les pompiers ont reçu un très grand nombre d'appels.",
+    "question": "Un épisode venteux et pluvieux impressionnant, les pompiers ont reçu un très grand nombre d'appels.",
+    "questionType": "listening",
+    "options": [
+        "The firefighters received a very large number of calls.",
+        "The firefighters closed all the roads.",
+        "The firefighters organized a parade.",
+        "The firefighters went on strike."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Un épisode venteux et pluvieux impressionnant, les pompiers ont reçu un très grand nombre d'appels</em>' - An impressive windy and rainy episode, the firefighters received a very large number of calls. The distractors test confusion about the firefighters' actions.",
+    "difficulty": "B1",
+    "source": "Weather News",
+    "tags": ["weather", "emergency", "firefighters", "calls", "rain", "wind"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1100
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1843,
+    "audioText": "Nous avons suffisamment de temps pour finir le projet.",
+    "question": "Nous avons suffisamment de temps pour finir le projet.",
+    "questionType": "listening",
+    "options": [
+        "Yes, they have enough time.",
+        "No, they don't have enough time.",
+        "They have too much time.",
+        "They need more time."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous avons suffisamment de temps pour finir le projet</em>' - We have enough time to finish the project. The adverb 'suffisamment' means sufficiently/enough, indicating they have adequate time. The distractors test confusion about the amount of time available.",
+    "difficulty": "B1",
+    "source": "Gemini-generated",
+    "tags": ["time-management", "projects"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 528
+}

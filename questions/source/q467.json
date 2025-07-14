@@ -1,0 +1,18 @@
+{
+    "id": 467,
+    "audioText": "Elle achetait ce vêtement joyeux pour le ranger dans son placard spécial.",
+    "question": "What did she buy the cheerful clothing for?",
+    "questionType": "comprehension",
+    "options": [
+        "To store it in her special closet",
+        "To wear it to a party",
+        "To give it as a gift",
+        "To return it to the store"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle achetait ce vêtement joyeux pour le ranger dans son placard spécial</em>' - She was buying this cheerful clothing to store it in her special closet. The purpose was for storage rather than immediate wear.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["storage", "clothing", "shopping"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

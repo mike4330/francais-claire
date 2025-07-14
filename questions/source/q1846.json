@@ -1,0 +1,19 @@
+{
+    "id": 1846,
+    "audioText": "En parlant de voyage, nous devrions organiser nos prochaines vacances.",
+    "question": "En parlant de voyage, nous devrions organiser nos prochaines vacances.",
+    "questionType": "listening",
+    "options": [
+        "They should organize their next vacation",
+        "They should cancel their next vacation",
+        "They should postpone their next vacation",
+        "They should change their vacation destination"
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'En parlant de voyage, nous devrions organiser nos prochaines vacances' - Speaking of travel, we should organize our next vacation. 'Parlant' is the present participle of 'parler' (to speak/talk), used in the expression 'en parlant de' (speaking of). The distractors test confusion about the suggestion.",
+    "difficulty": "B2",
+    "source": "Travel planning",
+    "tags": ["travel", "planning", "vacation"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 510
+}

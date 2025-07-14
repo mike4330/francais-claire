@@ -1,0 +1,18 @@
+{
+    "id": 1834,
+    "audioText": "Le chirurgien inquiétait ses patients en expliquant que réparer la chair endommagée prendrait plusieurs mois de soins intensifs.",
+    "question": "What did the surgeon explain to the patients?",
+    "questionType": "comprehension",
+    "options": [
+        "Repairing the damaged flesh would require several months of intensive care",
+        "The surgery would be completed in a few hours",
+        "The damaged tissue could not be repaired at all",
+        "Only minor treatment would be needed for recovery"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le chirurgien inquiétait ses patients en expliquant que réparer la chair endommagée prendrait plusieurs mois de soins intensifs</em>' - The surgeon worried his patients by explaining that repairing the damaged flesh would take several months of intensive care. The surgeon was explaining the extensive recovery process required.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["health", "repair", "medical"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

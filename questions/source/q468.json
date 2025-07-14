@@ -1,0 +1,24 @@
+{
+    "id": 468,
+    "audioText": "J'ai peu de temps aujourd'hui.",
+    "question": "J'ai peu de temps aujourd'hui.",
+    "questionType": "listening",
+    "options": [
+        "Little time",
+        "A lot of time",
+        "No time",
+        "Some time"
+    ],
+    "correct": 0,
+    "explanation": "The speaker says 'J'ai peu de temps' which means 'I have little time'. The word 'peu' means 'little' or 'not much'. The distractors test confusion about the quantity of time.",
+    "difficulty": "A1",
+    "source": "Daily Schedule",
+    "tags": [
+        "daily-life",
+        "time",
+        "schedule",
+        "busy"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 113
+}

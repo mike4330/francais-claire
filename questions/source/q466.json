@@ -1,0 +1,18 @@
+{
+    "id": 466,
+    "audioText": "L'hôtel se trouve près du pont, on y gagnée beaucoup de temps.",
+    "question": "Where is the hotel located?",
+    "questionType": "comprehension",
+    "options": [
+        "Near the bridge, saving a lot of time",
+        "Far from the city center",
+        "Next to the train station",
+        "In the mountains"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'hôtel se trouve près du pont, on y gagnée beaucoup de temps</em>' - The hotel is located near the bridge, we saved a lot of time there. The location near the bridge provides a time-saving advantage.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["accommodation", "travel", "location"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}
