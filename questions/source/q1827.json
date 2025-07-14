@@ -1,0 +1,24 @@
+{
+    "id": 1827,
+    "audioText": "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
+    "question": "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
+    "questionType": "listening",
+    "options": [
+        "A pizza with chorizo and peppers",
+        "A Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce",
+        "A sandwich with smoked salmon and cucumber",
+        "A dessert with honey and nuts"
+    ],
+    "correct": 1,
+    "explanation": "The speaker ordered 'une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar' - a Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce. The distractors test confusion about the dish ordered.",
+    "difficulty": "B1",
+    "source": "Restaurant Menu",
+    "tags": [
+        "food",
+        "restaurant",
+        "salad",
+        "menu"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1774
+}

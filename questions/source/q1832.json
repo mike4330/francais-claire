@@ -1,0 +1,18 @@
+{
+    "id": 1832,
+    "audioText": "Cette machine fermées depuis des heures nous pose un vrai problème en production, c'est un enfer total.",
+    "question": "What is the main issue described in the text?",
+    "questionType": "comprehension",
+    "options": [
+        "The production machine has been broken for hours causing major problems",
+        "The workers have been locked out of the factory building",
+        "The production schedule has been delayed by several hours",
+        "The machine operators need additional training to work efficiently"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette machine fermées depuis des heures nous pose un vrai problème en production, c'est un enfer total</em>' - This machine closed for hours is causing us a real production problem, it's total hell. The speaker describes a production crisis where a machine closure is creating major operational difficulties.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["workplace", "technology", "hope"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}
