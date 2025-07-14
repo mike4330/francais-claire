@@ -10,9 +10,10 @@
         "He worked in a repair shop downtown"
     ],
     "correct": 0,
-    "explanation": "The grandfather 'savait réparer toutes sortes d'objets cassés' - knew how to repair all kinds of broken objects. 'Savait' is the imperfect tense of 'savoir' indicating a past ability.",
+    "explanation": "The text states '<em>Mon grand-père savait réparer toutes sortes d'objets cassés</em>' - My grandfather knew how to repair all kinds of broken objects. The verb 'savait' (imperfect of 'savoir') indicates a past ability or skill.",
     "difficulty": "A2",
     "source": "Family Skills",
     "tags": ["family", "skills", "repair", "grandfather"],
-    "timeCreated": 1719965400
+    "timeCreated": 1719965400,
+    "verified": "claude"
 }

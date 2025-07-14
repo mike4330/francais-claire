@@ -1,16 +1,17 @@
 {
     "id": 323,
-    "audioText": "Elle porte une joli robe pour la fête ce soir.",
+    "audioText": "Elle porte une jolie robe pour la fête ce soir.",
     "question": "Qu'est-ce que vous avez entendu?",
     "questionType": "listening",
     "options": [
-        "Elle porte une joli robe pour la fête ce soir",
         "Elle porte une jolie robe pour la fête ce soir",
-        "Elle porte une joli robe pour la fête demain",
+        "Elle porte une joli robe pour la fête ce soir",
+        "Elle porte une jolie robe pour la fête demain",
         "Elle porte une belle robe pour la fête ce soir"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Elle porte une joli robe pour la fête ce soir</em>' - She is wearing a pretty dress for the party tonight. 'Joli' means pretty or nice, and 'fête' means party or celebration.",
+    "explanation": "The text states '<em>Elle porte une jolie robe pour la fête ce soir</em>' - She is wearing a pretty dress for the party tonight. 'Jolie' is the feminine form of 'joli' (pretty), agreeing with 'robe' (dress), and 'fête' means party or celebration.",
+    "verified": "claude",
     "difficulty": "A2",
     "source": "Strategic adjective coverage reinforcement",
     "tags": ["clothing", "social-events", "appearance"],

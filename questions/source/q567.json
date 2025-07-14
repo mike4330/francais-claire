@@ -11,9 +11,10 @@
         "At home."
     ],
     "correct": 0,
-    "explanation": "'Rue' means 'street'. The sentence states there are many people in the street today.",
+    "explanation": "The text states '<em>Il y a beaucoup de monde dans la rue aujourd'hui</em>' - There are many people in the street today. 'Rue' means 'street' and 'monde' refers to 'people' in this context.",
     "difficulty": "B1",
     "source": "Gemini-generated",
     "tags": ["city-life", "crowds"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

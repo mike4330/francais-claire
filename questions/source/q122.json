@@ -10,9 +10,10 @@
         "bureau"
     ],
     "correct": 0,
-    "explanation": "The speaker says 'Ma chambre est au deuxième étage' - My bedroom is on the second floor. 'Chambre' means bedroom in French.",
+    "explanation": "The text states '<em>Ma chambre est au deuxième étage de la maison</em>' - My bedroom is on the second floor of the house. The correct answer is 'chambre' (bedroom). 'Étage' means floor or story in a building.",
     "difficulty": "A1",
     "source": "Home Description",
     "tags": ["home", "family", "daily-life", "housing"],
-    "timeCreated": 1719963200
+    "timeCreated": 1719963200,
+    "verified": "claude"
 }

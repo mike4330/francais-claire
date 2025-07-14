@@ -1,22 +1,19 @@
 {
-  "id": 465,
-  "audioText": "Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
-  "parentQuestion": 464,
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
-    "Les étudiants critiquent leur professeur qui a perdu son travail à cause de ses opinions politiques.",
-    "Les étudiants soutiennent leur professeur qui a trouvé son travail à cause de ses opinions politiques.",
-    "Les étudiants soutiennent leur directeur qui a perdu son travail à cause de ses opinions politiques."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte était 'Les étudiants soutiennent leur professeur qui a perdu son travail à cause de ses opinions politiques.' - The students support their professor who lost his job because of his political opinions.",
-  "difficulty": "B1",
-  "source": "University News - Listening",
-  "tags": [
-    "education",
-    "support",
-    "politics"
-  ]
+    "id": 465,
+    "audioText": "Cette taille fidèle ne change jamais.",
+    "question": "Cette taille ______ ne change jamais.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "fidèle",
+        "fidèles",
+        "fidélité",
+        "fidèlement"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette taille fidèle ne change jamais</em>' - This faithful size never changes. The correct form is 'fidèle' (feminine singular agreeing with 'taille'), meaning faithful/constant, and 'taille' means size.",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["clothing", "consistency", "measurements", "stability"],
+    "timeCreated": 1735954200,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "They restore old paintings and artifacts"
   ],
   "correct": 0,
-  "explanation": "The text states 'les fidèles prient Dieu chaque dimanche depuis des générations pour trouver la paix spirituelle' - the faithful pray to God every Sunday for generations to find spiritual peace.",
+  "explanation": "The text states '<em>Dans cette église historique, les fidèles prient Dieu chaque dimanche depuis des générations pour trouver la paix spirituelle</em>' - In this historic church, the faithful pray to God every Sunday for generations to find spiritual peace.",
   "difficulty": "B2",
   "source": "Description of religious practice in historic setting",
   "tags": [
@@ -20,5 +20,6 @@
     "culture",
     "community"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

@@ -1,18 +1,19 @@
 {
     "id": 642,
-    "audioText": "Dans ce film d'horreur, le personnage principal meurs lentement à cause du poison.",
+    "audioText": "Dans ce film d'horreur, le personnage principal meurt lentement à cause du poison.",
     "question": "Qu'est-ce que vous avez entendu ?",
     "questionType": "listening",
     "options": [
-        "Dans ce film d'horreur, le personnage principal meurs lentement à cause du poison.",
         "Dans ce film d'horreur, le personnage principal meurt lentement à cause du poison.",
-        "Dans ce film d'horreur, le personnage principal meurs rapidement à cause du poison.",
-        "Dans ce drame, le personnage principal meurs lentement à cause du poison."
+        "Dans ce film d'horreur, le personnage principal meurs lentement à cause du poison.",
+        "Dans ce film d'horreur, le personnage principal meurt rapidement à cause du poison.",
+        "Dans ce drame, le personnage principal meurt lentement à cause du poison."
     ],
     "correct": 0,
-    "explanation": "The exact phrase was 'Dans ce film d'horreur, le personnage principal meurs lentement à cause du poison.' - In this horror film, the main character dies slowly because of the poison. Note 'meurs' (present, first/second person) vs 'meurt' (third person), 'lentement' vs 'rapidement', and 'film d'horreur' vs 'drame'. 'Meurs' is the present form of 'mourir' (to die), first or second person singular.",
+    "explanation": "The text states '<em>Dans ce film d'horreur, le personnage principal meurt lentement à cause du poison</em>' - In this horror film, the main character dies slowly because of the poison. 'Meurt' is the third person singular present form of 'mourir' (to die). Distractors test verb conjugation ('meurs'), adverb choice ('rapidement'), and genre ('drame').",
     "difficulty": "B2",
     "source": "Horror films and cinema",
     "tags": ["horror-films", "cinema", "movies", "entertainment"],
-    "timeCreated": 1735952340
+    "timeCreated": 1735952340,
+    "verified": "claude"
 }

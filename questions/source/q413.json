@@ -2,7 +2,7 @@
   "id": 413,
   "audioText": "Il lève la tête pour regarder le ciel.",
   "question": "What does the speaker say the person does?",
-  "questionType": "listening",
+  "questionType": "comprehension",
   "options": [
     "He looks up at the sky",
     "He closes his eyes",
@@ -20,5 +20,6 @@
     "daily-life"
   ],
   "timeCreated": 1720800000,
-  "parentQuestion": 104
+  "parentQuestion": 104,
+  "verified": "claude"
 }

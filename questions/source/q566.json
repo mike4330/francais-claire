@@ -11,9 +11,10 @@
         "The artist's exhibition."
     ],
     "correct": 0,
-    "explanation": "'Mort' means 'death'. The sentence states the artist's death shocked the world.",
+    "explanation": "The text states '<em>La mort de l'artiste a choqué le monde entier</em>' - The artist's death shocked the entire world. 'Mort' is a feminine noun meaning 'death', and 'choqué' is the past participle of 'choquer' (to shock). The phrase 'le monde entier' means 'the entire world'.",
     "difficulty": "B2",
     "source": "Gemini-generated",
     "tags": ["art", "news", "emotions"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

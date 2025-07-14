@@ -1,18 +1,19 @@
 {
     "id": 460,
-    "audioText": "Regarde là, il y a un nouveau café.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
+    "audioText": "Il éteignit sa cigarette dans ce bel endroit.",
+    "question": "Il éteignit sa cigarette dans ce ______ endroit.",
+    "questionType": "fill-in-the-blank",
     "options": [
-        "Regarde là, il y a un nouveau café.",
-        "Regarde ça, il y a un nouveau café.",
-        "Regarde donc, il y a un nouveau café.",
-        "Regarde ici, il y a un nouveau café."
+        "bel",
+        "belle",
+        "beau",
+        "beaux"
     ],
     "correct": 0,
-    "explanation": "The speaker used 'là' (there) to direct attention to a specific location where there's a new café. The other options use different demonstrative words: 'ça' (that), 'donc' (so/then), or 'ici' (here).",
-    "difficulty": "B1",
-    "source": "Street conversation",
-    "tags": ["conversation", "location", "restaurant"],
-    "timeCreated": 1720076580
+    "explanation": "The text states '<em>Il éteignit sa cigarette dans ce bel endroit</em>' - He put out his cigarette in this beautiful place. The correct form is 'bel' (masculine form of 'beau' used before vowels), and 'cigarette' means cigarette.",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["smoking", "places", "beauty", "environment"],
+    "timeCreated": 1735953420,
+    "verified": "claude"
 }

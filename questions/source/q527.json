@@ -11,9 +11,10 @@
         "moins"
     ],
     "correct": 0,
-    "explanation": "'Plutôt' means 'rather' or 'instead', indicating a preference. The sentence expresses a preference to stay home.",
+    "explanation": "The text states '<em>Je préférerais plutôt rester à la maison ce soir</em>' - I would rather stay home tonight. The correct answer is 'plutôt' (rather/instead), indicating a preference. 'Préférerais' is the conditional form of 'préférer' (to prefer).",
     "difficulty": "B1",
     "source": "Gemini-generated",
     "tags": ["preferences", "daily-life"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

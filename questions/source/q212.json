@@ -10,9 +10,10 @@
         "fermé"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'vide' meaning 'empty'. The fridge is completely empty, we need to go shopping. 'Vide' indicates there is no food left in the refrigerator.",
+    "explanation": "The text states '<em>Le frigo est complètement vide, il faut aller faire les courses</em>' - The fridge is completely empty, we need to go shopping. The correct answer is 'vide' (empty), which contrasts with 'plein' (full), 'cassé' (broken), or 'fermé' (closed).",
     "difficulty": "A1",
     "source": "Household management",
     "tags": ["household", "shopping", "food"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

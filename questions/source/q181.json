@@ -10,9 +10,10 @@
         "partez"
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'partent' - the present form of 'partir' (to leave/depart) for ils/elles. 'Les trains partent' means 'the trains leave/depart'. This describes the regular schedule of train departures.",
+    "explanation": "The text states '<em>Les trains partent toutes les heures</em>' - The trains leave every hour. The correct answer is 'partent' - the present form of 'partir' (to leave/depart) for ils/elles. This describes the regular schedule of train departures.",
     "difficulty": "A1",
     "source": "Public transportation schedule",
     "tags": ["transportation", "schedule", "public-transport"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

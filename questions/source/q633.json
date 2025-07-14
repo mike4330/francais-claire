@@ -10,9 +10,10 @@
         "Après ce voyage en montagne, je laisserai mes bottes de randonnée sécher dehors."
     ],
     "correct": 0,
-    "explanation": "The exact phrase was 'Après ce voyage en montagne, je laisserai mes chaussures de randonnée sécher dehors.' - After this mountain trip, I will let my hiking shoes dry outside. Note 'randonnée' vs 'marche', 'chaussures' vs 'bottes', and 'dehors' vs 'dedans'. 'Laisserai' is the future form of 'laisser' (to let/leave), first person singular.",
+    "explanation": "The audio states '<em>Après ce voyage en montagne, je laisserai mes chaussures de randonnée sécher dehors</em>' - After this mountain trip, I will let my hiking shoes dry outside. Note the key distinctions: 'randonnée' vs 'marche', 'chaussures' vs 'bottes', and 'dehors' vs 'dedans'. 'Laisserai' is the future form of 'laisser' (to let/leave).",
     "difficulty": "B2",
     "source": "Outdoor activities and hiking",
     "tags": ["hiking", "outdoor-activities", "mountain-travel", "gear"],
-    "timeCreated": 1735951800
+    "timeCreated": 1735951800,
+    "verified": "claude"
 }

@@ -1,22 +1,19 @@
 {
-  "id": 464,
-  "audioText": "Les étudiants ont manifesté devant l'université pour soutenir leur professeur licencié après ses critiques du gouvernement.",
-  "question": "Why did the students demonstrate in front of the university?",
-  "questionType": "comprehension",
-  "options": [
-    "To support their professor who was fired after criticizing the government",
-    "To protest against high university fees",
-    "To demand better facilities and resources",
-    "To celebrate their graduation ceremony"
-  ],
-  "correct": 0,
-  "explanation": "The students demonstrated 'pour soutenir leur professeur licencié après ses critiques du gouvernement' - to support their professor who was fired after his criticisms of the government. The verb 'soutenir' means to support or back someone.",
-  "difficulty": "B2",
-  "source": "University News",
-  "tags": [
-    "education",
-    "protest",
-    "politics",
-    "academic-freedom"
-  ]
+    "id": 464,
+    "audioText": "Ce malheureux chapeau tombait tout le temps.",
+    "question": "Ce ______ chapeau tombait tout le temps.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "malheureux",
+        "malheureuse",
+        "malheur",
+        "malchanceux"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce malheureux chapeau tombait tout le temps</em>' - This unfortunate hat kept falling all the time. The correct form is 'malheureux' (masculine singular agreeing with 'chapeau'), meaning unfortunate/unlucky, and 'chapeau' means hat.",
+    "difficulty": "A2",
+    "source": "Claude-generated",
+    "tags": ["clothing", "problems", "frustration", "accessories"],
+    "timeCreated": 1735953900,
+    "verified": "claude"
 }

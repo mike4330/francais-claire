@@ -1,7 +1,7 @@
 {
   "id": 972,
-  "audioText": "Si les entreprises investissaient davantage dans la formation, leurs employés donneraient probablement de meilleurs résultats et seraient plus motivés au quotidien.",
-  "question": "Si les entreprises investissaient davantage dans la formation, leurs employés ______ probablement de meilleurs résultats et seraient plus motivés au quotidien.",
+  "audioText": "Si les entreprises investissaient davantage dans la formation, leurs employés donneraient probablement de meilleurs résultats.",
+  "question": "Si les entreprises investissaient davantage dans la formation, leurs employés ______ probablement de meilleurs résultats.",
   "questionType": "fill-in-the-blank",
   "options": [
     "donneraient",
@@ -10,7 +10,7 @@
     "donnent"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'donneraient' (would give) - the conditional tense. This sentence uses a hypothetical structure: 'Si + imperfect, conditional' expressing what would happen if companies invested more in training. The conditional 'donneraient' matches the conditional 'seraient' later in the sentence.",
+  "explanation": "The text states '<em>Si les entreprises investissaient davantage dans la formation, leurs employés donneraient probablement de meilleurs résultats</em>' - If companies invested more in training, their employees would probably give better results. The correct answer is 'donneraient' (would give) - the conditional tense. This sentence uses a hypothetical structure: 'Si + imperfect, conditional' expressing what would happen if companies invested more in training.",
   "difficulty": "B2",
   "source": "Corporate Training Discussion",
   "tags": [
@@ -20,5 +20,6 @@
     "productivity",
     "corporate-culture"
   ],
-  "timeCreated": 1751469675
+  "timeCreated": 1751469675,
+  "verified": "claude"
 }

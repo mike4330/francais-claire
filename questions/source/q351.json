@@ -1,7 +1,7 @@
 {
     "id": 351,
-    "audioText": "Tu écoutes cette rose musique avec ton sourire sympa.",
-    "question": "Tu ______ cette rose musique avec ton sourire sympa.",
+    "audioText": "Tu écoutes cette douce musique avec ton sourire sympa.",
+    "question": "Tu ______ cette douce musique avec ton sourire sympa.",
     "questionType": "fill-in-the-blank",
     "options": [
         "écoutes",
@@ -10,9 +10,10 @@
         "écoutent"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Tu écoutes cette rose musique avec ton sourire sympa</em>' - You listen to this pink music with your nice smile. 'Écoutes' is the second person singular present form of 'écouter' (to listen), used with the informal 'tu' form.",
+    "explanation": "The text states '<em>Tu écoutes cette douce musique avec ton sourire sympa</em>' - You listen to this sweet music with your nice smile. 'Écoutes' is the second person singular present form of 'écouter' (to listen), used with the informal 'tu' form.",
     "difficulty": "A2",
-    "source": "Strategic targeting: écoutes + rose + sympa",
+    "source": "Strategic targeting: écoutes + douce + sympa",
     "tags": ["music", "emotions", "entertainment"],
-    "timeCreated": 1736622780
+    "timeCreated": 1736622780,
+  "verified": "claude"
 }

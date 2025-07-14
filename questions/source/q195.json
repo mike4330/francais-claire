@@ -10,9 +10,10 @@
         "Going to that place"
     ],
     "correct": 0,
-    "explanation": "'Là-dessus' means 'about that' or 'on that subject'. The speaker doesn't want to discuss that particular topic anymore - it's finished. The expression refers back to a previously mentioned subject of conversation.",
+    "explanation": "The text states '<em>Je ne veux plus discuter là-dessus, c'est fini !</em>' - I don't want to discuss that anymore, it's finished! The expression 'là-dessus' means 'about that/on that subject', referring to a previously mentioned topic.",
     "difficulty": "A2",
     "source": "Conversation boundary",
     "tags": ["conversation", "boundaries", "disagreement"],
-    "timeCreated": 1720077200
+    "timeCreated": 1720077200,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "Prescribed medication for their symptoms"
   ],
   "correct": 0,
-  "explanation": "The text states 'Le médecin a fait une analyse de sang pour vérifier sa santé' - The doctor performed a blood analysis/test to verify their health. 'Sang' means blood and 'analyse de sang' is a blood test.",
+  "explanation": "The text states '<em>Le médecin a fait une analyse de sang pour vérifier sa santé</em>' - The doctor performed a blood analysis/test to verify their health. The phrase 'analyse de sang' means blood test, and 'vérifier' means to check/verify.",
   "difficulty": "B1",
   "source": "Medical Care",
   "tags": [
@@ -20,5 +20,6 @@
     "doctor-visit",
     "health-check"
   ],
-  "timeCreated": 1751326258
+  "timeCreated": 1751326258,
+  "verified": "claude"
 }

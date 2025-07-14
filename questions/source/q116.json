@@ -10,9 +10,10 @@
     "petite"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'propre' (clean). The context 'j'ai tout rangé hier soir' (I tidied everything up last night) indicates that the room is now clean. 'Propre' means clean, while 'sale' means dirty - the opposite.",
+  "explanation": "The text states '<em>Ma chambre est très propre maintenant, j'ai tout rangé hier soir</em>' - My room is very clean now, I tidied everything up last night. The correct answer is 'propre' (clean). The context 'j'ai tout rangé hier soir' indicates that the room is now clean after organizing.",
   "difficulty": "A2",
   "source": "Household Tasks",
   "tags": ["home", "cleaning", "daily-life", "bedroom"],
-  "timeCreated": 1751494921
+  "timeCreated": 1751494921,
+  "verified": "claude"
 }

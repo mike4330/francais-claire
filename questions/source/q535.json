@@ -11,9 +11,10 @@
         "Tout s'est mal passé jusque-là."
     ],
     "correct": 0,
-    "explanation": "The correct sentence is 'Tout s'est bien passé jusque-là.', which means 'Everything has gone well so far.'",
+    "explanation": "The audio states '<em>Tout s'est bien passé jusque-là</em>' - Everything has gone well so far. 'S'est passé' is the passé composé of 'se passer' (to happen/go), and 'jusque-là' means 'up to this point' or 'so far'. This expression is commonly used to assess progress or reflect on recent events.",
     "difficulty": "B2",
     "source": "Gemini-generated",
     "tags": ["progress", "current-situation"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

@@ -10,9 +10,10 @@
         "Sachez que cette décision importante aurait des conséquences durables pour notre équipe."
     ],
     "correct": 0,
-    "explanation": "The speaker used 'sachez' - the imperative form of 'savoir' (to know) in the second person plural. 'Sachez que' means 'know that' or 'be aware that' and is used for formal announcements. The other options incorrectly use 'savez' (present indicative), 'avait' (imperfect), or 'aurait' (conditional).",
+    "explanation": "The audio states '<em>Sachez que cette décision importante aura des conséquences durables pour notre équipe</em>' - Know that this important decision will have lasting consequences for our team. Note the key distinctions: 'sachez' (imperative) vs 'savez' (present), 'aura' (future) vs 'avait' (imperfect) vs 'aurait' (conditional).",
     "difficulty": "B2",
     "source": "Team announcement",
     "tags": ["workplace", "announcements", "consequences"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

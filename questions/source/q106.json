@@ -10,7 +10,7 @@
     "ayez"
   ],
   "correct": 0,
-  "explanation": "The future tense 'aurez' (you will have) is used because the sentence refers to tomorrow ('demain'), indicating a future action.",
+  "explanation": "The text states '<em>Demain vous aurez votre examen de français à neuf heures</em>' - Tomorrow you will have your French exam at nine o'clock. The future tense 'aurez' (you will have) is used because the sentence refers to tomorrow ('demain'), indicating a future action.",
   "difficulty": "A2",
   "source": "School schedule using future tense",
   "tags": [
@@ -19,5 +19,6 @@
     "future-time",
     "exams"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

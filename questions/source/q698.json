@@ -10,9 +10,10 @@
         "Limit their creative activities to save time"
     ],
     "correct": 0,
-    "explanation": "The text states 'Laissons nos enfants explorer leur créativité artistique librement sans trop d'intervention' - Let's let our children explore their artistic creativity freely without too much intervention. 'Laissons' is the first person plural imperative form of 'laisser' (to let), expressing a suggestion or decision.",
+    "explanation": "The text states '<em>Laissons nos enfants explorer leur créativité artistique librement sans trop d'intervention</em>' - Let's let our children explore their artistic creativity freely without too much intervention. The verb 'laissons' (1st person plural imperative of 'laisser') expresses a collective suggestion.",
     "difficulty": "B2",
     "source": "Parenting and creativity",
     "tags": ["parenting", "creativity", "children", "art", "freedom"],
-    "timeCreated": 1736066200
+    "timeCreated": 1736066200,
+    "verified": "claude"
 }

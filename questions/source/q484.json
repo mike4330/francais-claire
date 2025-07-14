@@ -10,7 +10,7 @@
     "A seafood dish with ginger and mild chili"
   ],
   "correct": 2,
-  "explanation": "The speaker finally chose 'un émincé de poulet à la moutarde parfumée' - a sliced chicken dish with fragrant mustard sauce, after hesitating between a flank steak and duck breast skewers.",
+  "explanation": "The text states '<em>Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée</em>' - At the restaurant, I hesitated between a flank steak and duck breast skewers, but I finally chose a sliced chicken dish with fragrant mustard sauce.",
   "difficulty": "B2",
   "source": "Restaurant Choice",
   "tags": [
@@ -19,5 +19,7 @@
     "chicken",
     "menu",
     "decision"
-  ]
+  ],
+  "timeCreated": 1720026800,
+  "verified": "claude"
 }

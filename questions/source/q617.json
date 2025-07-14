@@ -10,9 +10,10 @@
         "Photography exhibitions about nature."
     ],
     "correct": 0,
-    "explanation": "The text states 'Ces sculptures que j'ai vues au musée m'ont profondément inspiré pour mon propre art' - These sculptures that I saw at the museum deeply inspired me for my own art. 'Vues' is the past participle of 'voir' (to see), agreeing with the feminine plural noun 'sculptures'.",
+    "explanation": "The text states '<em>Ces sculptures que j'ai vues au musée m'ont profondément inspiré pour mon propre art</em>' - These sculptures that I saw at the museum deeply inspired me for my own art. Note that 'vues' (past participle of 'voir') agrees with the feminine plural noun 'sculptures'.",
     "difficulty": "B1",
     "source": "Art appreciation and museums",
     "tags": ["art", "museums", "sculpture", "inspiration"],
-    "timeCreated": 1735950780
+    "timeCreated": 1735950780,
+    "verified": "claude"
 }

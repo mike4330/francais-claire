@@ -11,12 +11,14 @@
     "Les autorités de Birmanie ont caché pour 300 millions de dollars de drogue dans trois villes."
   ],
   "correct": 0,
-  "explanation": "La phrase simplifiée était 'Les autorités de Birmanie ont détruit pour 300 millions de dollars de drogue dans trois villes.' - The Myanmar authorities destroyed 300 million dollars worth of drugs in three cities.",
+  "explanation": "The audio states '<em>Les autorités de Birmanie ont détruit pour 300 millions de dollars de drogue dans trois villes</em>' - The Myanmar authorities destroyed 300 million dollars worth of drugs in three cities. Note the key distinctions: 'détruit' (destroyed) vs 'trouvé' (found) vs 'vendu' (sold) vs 'caché' (hidden).",
   "difficulty": "B1",
   "source": "Myanmar Drug News - Simplified",
   "tags": [
     "international-news",
     "drugs",
     "authorities"
-  ]
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

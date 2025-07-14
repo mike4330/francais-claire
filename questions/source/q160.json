@@ -10,7 +10,7 @@
     "calmé"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'calme' (masculine singular) to agree with 'chat' (masculine singular). The adjective 'calme' means calm/peaceful, and remains unchanged in the masculine singular form.",
+  "explanation": "The text states '<em>Mon chat est très calme</em>' - My cat is very calm. The correct answer is 'calme' (calm/peaceful). The adjective agrees with 'chat' (masculine singular) and remains unchanged in this form.",
   "difficulty": "A1",
   "source": "Pet Description",
   "tags": [
@@ -18,5 +18,6 @@
     "personality",
     "animals"
   ],
-  "timeCreated": 1720026740
+  "timeCreated": 1720026740,
+  "verified": "claude"
 }

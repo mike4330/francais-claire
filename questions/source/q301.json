@@ -1,22 +1,23 @@
 {
   "id": 301,
-  "audioText": "Ce colonel russe nerveux plairez mignon par hasard.",
-  "question": "What kind of Russian colonel will please cute by chance?",
+  "audioText": "Ce colonel russe semble nerveux par hasard.",
+  "question": "How does the Russian colonel appear?",
   "questionType": "comprehension",
   "options": [
     "Nervous",
     "Calm",
     "Happy",
-    "Angry"
+    "Confident"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Ce colonel russe nerveux plairez mignon par hasard</em>' - This nervous Russian colonel will please cute by chance. 'Nerveux' means nervous/anxious and 'mignon' means cute/adorable.",
+  "explanation": "The text states '<em>Ce colonel russe semble nerveux par hasard</em>' - This Russian colonel seems nervous by chance. 'Semble' means 'seems/appears', 'nerveux' means 'nervous', and 'par hasard' means 'by chance' or 'coincidentally'.",
   "difficulty": "A2",
-  "source": "Strategic targeting - colonel + russe + nerveux + plairez + mignon + hasard synergy + military",
+  "source": "Strategic targeting - military personality",
   "tags": [
     "military",
     "personality",
     "appearance"
   ],
-  "timeCreated": 1736806520
+  "timeCreated": 1736806520,
+  "verified": "claude"
 }

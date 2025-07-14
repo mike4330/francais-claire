@@ -10,9 +10,10 @@
         "Mon père est content de mes résultats scolaires cette semaine."
     ],
     "correct": 0,
-    "explanation": "The speaker said 'Mon père est content de mes résultats scolaires cette année' - My father is happy with my school results this year. 'Content' means 'happy' or 'satisfied'. The other options change 'content' to 'fier' (proud), 'scolaires' to 'sportifs' (sports), or 'année' to 'semaine' (week).",
+    "explanation": "The audio states '<em>Mon père est content de mes résultats scolaires cette année</em>' - My father is happy with my school results this year. 'Content' means 'happy' or 'satisfied'. The other options change 'content' to 'fier' (proud), 'scolaires' to 'sportifs' (sports), or 'année' to 'semaine' (week).",
     "difficulty": "B1",
     "source": "Family conversation",
     "tags": ["family", "education", "satisfaction"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "The research funding will be increased"
   ],
   "correct": 0,
-  "explanation": "The text states 'les scientifiques croiront enfin aux nouvelles théories quand les preuves seront incontestables' - scientists will finally believe the new theories when the evidence becomes undeniable.",
+  "explanation": "The text states '<em>Les scientifiques croiront enfin aux nouvelles théories quand les preuves seront incontestables</em>' - Scientists will finally believe the new theories when the evidence becomes undeniable. The future tense 'croiront' indicates what will happen in the future.",
   "difficulty": "B2",
   "source": "Scientific acceptance of new theories",
   "tags": [
@@ -20,5 +20,6 @@
     "beliefs",
     "academic"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

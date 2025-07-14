@@ -2,7 +2,7 @@
   "id": 317,
   "audioText": "Les voyageurs demandent des informations sur les trains pour Lyon à la gare.",
   "question": "Les voyageurs demandent des informations sur les trains pour Lyon à la gare.",
-  "questionType": "listening",
+  "questionType": "comprehension",
   "options": [
     "Trains to Lyon at the train station",
     "Bus schedules to Paris at the depot",
@@ -19,5 +19,6 @@
     "information"
   ],
   "timeCreated": 1720881353,
-  "parentQuestion": 234
+  "parentQuestion": 234,
+  "verified": "claude"
 }

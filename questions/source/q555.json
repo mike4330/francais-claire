@@ -10,7 +10,7 @@
     "Donald Trump lost his case at the Supreme Court"
   ],
   "correct": 0,
-  "explanation": "The audio says 'les juges fédéraux ne peuvent plus suspendre partout dans le pays des décisions prises par le président' – federal judges can no longer block presidential decisions nationwide. Donald Trump welcomed this as a victory. The other options either reverse the decision, misstate the relationship, or are factually incorrect.",
+  "explanation": "The text states '<em>La Cour suprême des États-Unis a décidé que les juges fédéraux ne peuvent plus suspendre partout dans le pays des décisions prises par le président. Donald Trump a salué cette décision comme une victoire</em>' - The US Supreme Court decided that federal judges can no longer block presidential decisions nationwide. Donald Trump welcomed this decision as a victory.",
   "difficulty": "B2",
   "source": "French summary of US Supreme Court news, June 2024 (simplified)",
   "tags": [
@@ -20,5 +20,7 @@
     "judiciary",
     "supreme-court",
     "news"
-  ]
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

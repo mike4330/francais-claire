@@ -10,7 +10,7 @@
     "She is watching TV with the family"
   ],
   "correct": 0,
-  "explanation": "The text says 'Maman prépare le dîner dans la cuisine' which means 'Mom is preparing dinner in the kitchen'. This describes a common family activity.",
+  "explanation": "The text states '<em>Maman prépare le dîner dans la cuisine</em>' - Mom is preparing dinner in the kitchen. 'Prépare' is the present tense of 'préparer' (to prepare), describing a common family activity.",
   "difficulty": "A1",
   "source": "Family daily routine description",
   "tags": [
@@ -20,5 +20,6 @@
     "home",
     "routine"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

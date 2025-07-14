@@ -1,7 +1,7 @@
 {
   "id": 552,
-  "audioText": "Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande bâche pour ne rien perdre. C'était sa façon de rester organisé.",
-  "question": "What did he do with his tools before starting a DIY project?",
+  "audioText": "Il mettait tous ses outils sur une grande bâche pour ne rien perdre.",
+  "question": "What did he do with his tools?",
   "questionType": "comprehension",
   "options": [
     "He would hide them",
@@ -10,7 +10,7 @@
     "He would lend them to his neighbor"
   ],
   "correct": 1,
-  "explanation": "The sentence uses 'mettait', the imparfait tense of 'mettre', to describe a habitual action. He used to put his tools on a tarp to stay organized.",
+  "explanation": "The text states '<em>Il mettait tous ses outils sur une grande bâche pour ne rien perdre</em>' - He used to put all his tools on a large tarp so as not to lose anything. The sentence uses 'mettait', the imparfait tense of 'mettre' (to put), describing a habitual action.",
   "difficulty": "B1",
   "source": "Gemini CLI",
   "tags": [
@@ -18,5 +18,6 @@
     "DIY",
     "organization"
   ],
-  "timeCreated": 1720181358
+  "timeCreated": 1720181358,
+  "verified": "claude"
 }

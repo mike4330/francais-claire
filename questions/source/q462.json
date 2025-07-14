@@ -1,18 +1,19 @@
 {
     "id": 462,
-    "audioText": "Tu arrives justement au bon moment pour nous aider.",
-    "question": "What does the speaker mean about the timing?",
-    "questionType": "comprehension",
+    "audioText": "Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine.",
+    "question": "Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine.",
+    "questionType": "listening",
     "options": [
-        "The person arrived at exactly the right time",
-        "The person arrived too early",
-        "The person arrived too late",
-        "The person arrived at an inconvenient time"
+        "A new urban fashion collection.",
+        "More affordable price tags.",
+        "Better customer service staff.",
+        "A wider selection of accessories."
     ],
     "correct": 0,
-    "explanation": "The adverb 'justement' means 'precisely', 'exactly', or 'just right'. The speaker is expressing that the person's arrival timing is perfect - they came at exactly the right moment when help was needed.",
-    "difficulty": "B1",
-    "source": "Helpful arrival scenario",
-    "tags": ["timing", "help", "conversation"],
-    "timeCreated": 1720076580
+    "explanation": "The text states 'Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine' - In this clothing store, I would really like to see a new urban fashion collection. 'Verrais' is the conditional form of 'voir' (to see), here expressing a desire or wish. The expression 'je verrais bien' means 'I would really like to see' or 'I could see'. The distractors test confusion about what the speaker wants to see.",
+    "difficulty": "A2",
+    "source": "Fashion and clothing shopping",
+    "tags": ["fashion", "shopping", "clothing", "urban-style"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 629
 }
