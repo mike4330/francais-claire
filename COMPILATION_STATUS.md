@@ -51,13 +51,14 @@ Level C (C1/C2): 69 original + 0 source = 67 compiled ✅
 **Validation Confirmed:**
 - ✅ JSON syntax validation
 - ✅ Required field checking
-- ✅ Options array validation (exactly 4)
+- ✅ Options array validation (exactly 4, or empty for writing questions)
 - ✅ Correct answer index validation (0-3)
+- ✅ Question type validation (comprehension, listening, fill-in-the-blank, writing)
 - ✅ ID uniqueness and range compliance
 
-### 4. **Example Individual Question Created**
+### 4. **Example Individual Questions Created**
 
-**File:** `questions/source/q114.json`
+**File:** `questions/source/q114.json` (Comprehension Question)
 ```json
 {
   "id": 114,
@@ -76,6 +77,25 @@ Level C (C1/C2): 69 original + 0 source = 67 compiled ✅
   "source": "Weather Decision",
   "tags": ["weather", "daily-life", "home", "rain"],
   "timeCreated": 1751466163
+}
+```
+
+**File:** `questions/source/q349.json` (Writing Question)
+```json
+{
+  "id": 349,
+  "audioText": "Je vais au marché tous les mardis pour acheter des légumes frais.",
+  "question": "Je vais au marché tous les ______ pour acheter des légumes frais.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "mardis",
+  "acceptedAnswers": ["mardis", "Mardis"],
+  "explanation": "The correct answer is '<em>mardis</em>' (Tuesdays). The complete sentence is '<em>Je vais au marché tous les mardis pour acheter des légumes frais</em>' - I go to the market every Tuesday to buy fresh vegetables. Note that days of the week are plural when used with 'tous les' (every).",
+  "difficulty": "A2",
+  "source": "Writing practice - days of the week",
+  "tags": ["daily-routine", "food", "shopping"],
+  "timeCreated": 1720656700
 }
 ```
 

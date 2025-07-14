@@ -41,7 +41,7 @@ This document outlines the specific instructions and conventions for the Gemini 
 
 -   Create French `audioText` with target vocabulary/grammar.
 -   Design question and 4 plausible options.
--   Choose question type: `comprehension`, `listening`, `fill-in-the-blank`, `FIB-reading`.
+-   Choose question type: `comprehension`, `listening`, `fill-in-the-blank`, `FIB-reading`, `writing`.
 
 ### Step 2: Classify Difficulty Level (CEFR Word Limits - Strictly Enforced)
 
@@ -71,18 +71,50 @@ This document outlines the specific instructions and conventions for the Gemini 
 -   `id`: Unique integer in correct range.
 -   `audioText`: French text within CEFR word limits.
 -   `question`: Clear question in English or French.
--   `questionType`: One of `comprehension`, `listening`, `fill-in-the-blank`, `FIB-reading`.
--   `options`: Array of exactly 4 options.
--   `correct`: Index (0-3) of correct answer.
+-   `questionType`: One of `comprehension`, `listening`, `fill-in-the-blank`, `FIB-reading`, `writing`.
+-   `options`: Array of exactly 4 options (empty array `[]` for writing questions).
+-   `correct`: Index (0-3) of correct answer (always `0` for writing questions).
 -   `explanation`: Detailed explanation following specific formatting guidelines.
 -   `difficulty`: Valid CEFR level (e.g., "A1", "B2", "C1").
 -   `source`: Brief content source description (e.g., "Gemini CLI").
 -   `tags`: Array of relevant content-topic tags.
 -   `timeCreated`: Unix timestamp of creation.
+-   `parentQuestion`: (Optional) The ID of the original question this question was derived from (e.g., a listening version of a comprehension question).
+-   `correctAnswer`: Primary correct answer (required for writing questions).
+-   `acceptedAnswers`: Array of acceptable answer variations (required for writing questions).
 
 ### Specific `fill-in-the-blank` Rule:
 
 -   **🚨 CRITICAL**: `audioText` must contain the complete sentence with the correct word filled in, NOT underscores (`______`). Only the `question` field should show blanks to users.
+
+### Specific `writing` Question Rules:
+
+-   **🚨 CRITICAL**: Same audioText rule as fill-in-the-blank - complete sentence with correct word, NOT underscores.
+-   **Required Fields**: `correctAnswer` (primary answer) and `acceptedAnswers` (array with variations).
+-   **Options**: Always empty array `[]`.
+-   **Correct**: Always `0` (placeholder).
+-   **Example**: `"correctAnswer": "mardis"`, `"acceptedAnswers": ["mardis", "Mardis"]`.
+-   **Purpose**: Active vocabulary practice - users must type the correct French word.
+
+### Writing Question Example:
+
+```json
+{
+    "id": 349,
+    "audioText": "Je vais au marché tous les mardis pour acheter des légumes frais.",
+    "question": "Je vais au marché tous les ______ pour acheter des légumes frais.",
+    "questionType": "writing",
+    "options": [],
+    "correct": 0,
+    "correctAnswer": "mardis",
+    "acceptedAnswers": ["mardis", "Mardis"],
+    "explanation": "The correct answer is '<em>mardis</em>' (Tuesdays). The complete sentence is '<em>Je vais au marché tous les mardis pour acheter des légumes frais</em>' - I go to the market every Tuesday to buy fresh vegetables. Note that days of the week are plural when used with 'tous les' (every).",
+    "difficulty": "A2",
+    "source": "Gemini CLI - Writing practice",
+    "tags": ["daily-routine", "food", "shopping"],
+    "timeCreated": 1720656700
+}
+```
 
 ## 📝 Explanation Formatting Guidelines
 
@@ -103,8 +135,9 @@ This document outlines the specific instructions and conventions for the Gemini 
 2. **French text styling**: Use `<em>` tags around ALL French text
 3. **Include full translation**: Complete English translation after the dash
 4. **Grammar explanation**: Explain the specific conjugation, tense, or grammar point
-5. **For listening questions**: Explain what each distractor tests
+5. **For listening questions ONLY**: Explain what each distractor tests
 6. **American English**: Use American idiomatic expressions throughout
+7. **🚨 NO distractor discussion**: For comprehension and fill-in-the-blank questions, do NOT explain what distractors test - focus only on the correct answer and grammar
 
 ### Examples:
 
@@ -113,7 +146,12 @@ This document outlines the specific instructions and conventions for the Gemini 
 "explanation": "The text states '<em>Elle mange une pomme rouge</em>' - She is eating a red apple. 'Mange' is the third person singular form of 'manger' (to eat), used in the present tense."
 ```
 
-**Good Explanation (Listening):**
+**Good Explanation (Fill-in-the-blank):**
+```
+"explanation": "The text states '<em>Je vais au marché</em>' - I am going to the market. 'Vais' is the first person singular form of 'aller' (to go), used in the present tense."
+```
+
+**Good Explanation (Listening - distractor discussion allowed):**
 ```
 "explanation": "The text states '<em>Je vais au marché</em>' - I am going to the market. 'Vais' is the first person singular form of 'aller' (to go). The distractors test verb confusion (viens), location confusion (magasin), and tense confusion (allais)."
 ```
@@ -121,6 +159,11 @@ This document outlines the specific instructions and conventions for the Gemini 
 **Bad Explanation (Missing French text and translation):**
 ```
 "explanation": "This tests the present tense conjugation of the verb 'manger'."
+```
+
+**Bad Explanation (Distractor discussion in comprehension question):**
+```
+"explanation": "The text states '<em>Elle mange une pomme rouge</em>' - She is eating a red apple. The distractors test color confusion (verte), fruit confusion (orange), and verb confusion (boit)."
 ```
 
 ## 🚫 Common Mistakes to Avoid
@@ -154,6 +197,44 @@ The application uses a "Pure Intelligent Selection System" for question delivery
 -   **WebSocket Communication**: Performance data is loaded asynchronously via WebSockets.
 -   **Repetition Avoidance**: The system tracks recently answered questions to prevent immediate repetition within a session.
 
+## 🎯 Strategic Question Generation Best Practices
+
+### Before Creating Questions:
+1. **Run lemma coverage analysis** to identify priority vocabulary gaps:
+   ```bash
+   python3 util/lemma-coverage.py --limit 20
+   ```
+
+2. **Target multiple vocabulary gaps simultaneously** in each question for maximum pedagogical efficiency
+
+3. **Create authentic, compelling scenarios** - avoid generic daily life contexts when possible
+
+### Quality-Focused Generation Prompts:
+
+**Strategic Context-First Approach:**
+```
+Generate a French [LEVEL] question targeting these priority words: [list].
+CONTEXT: Create a realistic scenario where all target words naturally appear
+REQUIREMENT: Use compelling story situation, not generic daily life
+TECHNICAL: Complete audioText (no blanks), natural French phrasing
+```
+
+**Naturalness Test:**
+- Would a native French speaker use this exact phrasing?
+- Does the scenario feel authentic and believable?
+- Are all vocabulary choices contextually appropriate?
+
+**Pedagogical Value Check:**
+- Does it test multiple vocabulary gaps efficiently?
+- Are distractors pedagogically valuable (not just random)?
+- Does the explanation teach beyond just the answer?
+
+### Common Generation Issues to Avoid:
+- **Awkward word cramming**: Don't force vocabulary together unnaturally
+- **Generic contexts**: "Traffic," "weather" - use specific, interesting scenarios
+- **Single-word focus**: Target 2-3 priority words per question when possible
+- **Temporal confusion**: Especially with adverbs like "précédemment"
+
 ## 🔍 Quality Checklist (Before Finalizing Changes)
 
 -   Word count within CEFR limits.
@@ -163,6 +244,8 @@ The application uses a "Pure Intelligent Selection System" for question delivery
 -   **Explanation follows exact formatting**: Starts with "The text states", includes French text in `<em>` tags, complete English translation, and detailed grammar explanation.
 -   **Tags are CONTENT TOPICS only (no grammar/verb names/individual words)**.
 -   Options are plausible but only one correct.
+-   **Natural French phrasing**: Would native speakers use this exact sentence?
+-   **Strategic vocabulary targeting**: Multiple priority words in natural context.
 -   JSON syntax is valid.
 -   Run `node compile-questions.js` after any question changes.
 -   Run `python3 util/analyze-conjugations.py`, `python3 util/analyze-adjectives.py`, `python3 util/analyze-adverbs.py`, and `bash util/analyze-questions.sh` to verify coverage.
