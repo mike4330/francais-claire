@@ -10,7 +10,7 @@
     "Ten years old"
   ],
   "correct": 0,
-  "explanation": "The text states 'cette voiture a quinze ans' which means 'this car is fifteen years old'. Despite its age, it still works very well.",
+  "explanation": "The text states '<em>Cette voiture a quinze ans mais elle marche encore très bien</em>' - This car is fifteen years old but it still works very well. Despite its age, it still functions properly.",
   "difficulty": "A2",
   "source": "Description of an older but functional car",
   "tags": [
@@ -19,5 +19,6 @@
     "transportation",
     "condition"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

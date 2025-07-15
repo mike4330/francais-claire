@@ -10,9 +10,10 @@
         "Bread for lunch"
     ],
     "correct": 0,
-    "explanation": "The speaker says 'Ma maman fait des crêpes pour le goûter' - My mother is making crepes for the afternoon snack.",
+    "explanation": "The text states '<em>Ma maman fait des crêpes pour le goûter cet après-midi</em>' - My mother is making crepes for the afternoon snack this afternoon. 'Goûter' refers to the traditional French afternoon snack.",
     "difficulty": "A1",
     "source": "Family Kitchen",
     "tags": ["family", "food", "daily-life", "cooking"],
-    "timeCreated": 1719962500
+    "timeCreated": 1719962500,
+    "verified": "claude"
 }

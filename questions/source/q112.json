@@ -10,7 +10,7 @@
     "Eating"
   ],
   "correct": 0,
-  "explanation": "According to the text, 'le sport est bon pour le corps et l'esprit' - sport is good for the body and mind. The word 'corps' means body, and 'esprit' means mind or spirit.",
+  "explanation": "The text states '<em>Le sport est bon pour le corps et l'esprit</em>' - Sport is good for the body and mind. The word 'corps' means body, and 'esprit' means mind or spirit.",
   "difficulty": "A2",
   "source": "Health Advice",
   "tags": [
@@ -19,5 +19,6 @@
     "wellness",
     "lifestyle"
   ],
-  "timeCreated": 1751465035
+  "timeCreated": 1751465035,
+  "verified": "claude"
 }

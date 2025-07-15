@@ -1,18 +1,23 @@
 {
-    "id": 1505,
-    "audioText": "Au contraire de nos attentes, vous aidiez vraiment les équipes de recherche interdisciplinaire à surmonter leurs différences méthodologiques.",
-    "question": "Contrary to expectations, what were you really helping interdisciplinary research teams do?",
-    "questionType": "comprehension",
-    "options": [
-        "Overcome their methodological differences",
-        "Secure additional funding for their ambitious projects",
-        "Publish their findings in prestigious academic journals",
-        "Establish partnerships with international institutions"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'Overcome their methodological differences'. The text states '<em>Au contraire de nos attentes, vous aidiez vraiment les équipes de recherche interdisciplinaire à surmonter leurs différences méthodologiques</em>' - Contrary to our expectations, you were really helping interdisciplinary research teams overcome their methodological differences. 'Aidiez' is the second-person plural imperfect of 'aider' (to help), and 'contraire' means 'contrary'.",
-    "difficulty": "B2",
-    "source": "Strategic vocabulary development - interdisciplinary research context",
-    "tags": ["interdisciplinary-research", "methodology", "collaboration"],
-    "timeCreated": 1720822620
+  "id": 1505,
+  "audioText": "Au contraire de nos attentes, vous aidiez vraiment les équipes de recherche interdisciplinaire à surmonter leurs différences méthodologiques.",
+  "question": "Contrary to expectations, what were you really helping interdisciplinary research teams do?",
+  "questionType": "comprehension",
+  "options": [
+    "Overcome their methodological differences",
+    "Secure additional funding for their ambitious projects",
+    "Publish their findings in prestigious academic journals",
+    "Establish partnerships with international institutions"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Overcome their methodological differences'. The text states '<em>Au contraire de nos attentes, vous aidiez vraiment les équipes de recherche interdisciplinaire à surmonter leurs différences méthodologiques</em>' - Contrary to our expectations, you were really helping interdisciplinary research teams overcome their methodological differences. 'Aidiez' is the second-person plural imperfect of 'aider' (to help), and 'contraire' means 'contrary'.",
+  "difficulty": "B2",
+  "source": "Strategic vocabulary development - interdisciplinary research context",
+  "tags": [
+    "interdisciplinary-research",
+    "methodology",
+    "collaboration"
+  ],
+  "timeCreated": 1720822620,
+  "verified": "claude"
 }

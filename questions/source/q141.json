@@ -10,9 +10,10 @@
         "gratuite"
     ],
     "correct": 0,
-    "explanation": "The correct word is 'mauvaise' (bad). The sentence means 'This internet connection is really bad today.' 'Mauvaise' is the feminine form of 'mauvais' agreeing with 'connexion.'",
+    "explanation": "The text states '<em>Cette connexion internet est vraiment mauvaise aujourd'hui</em>' - This internet connection is really bad today. The correct word is 'mauvaise' (bad). 'Mauvaise' is the feminine form of 'mauvais' agreeing with 'connexion.'",
     "difficulty": "A1",
     "source": "Internet Problems",
     "tags": ["technology", "internet", "problems", "connectivity"],
-    "timeCreated": 1720053000
+    "timeCreated": 1720053000,
+    "verified": "claude"
 }

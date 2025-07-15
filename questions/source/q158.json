@@ -10,7 +10,7 @@
     "It's very sunny today"
   ],
   "correct": 0,
-  "explanation": "The phrase 'Il fait très froid aujourd'hui' means 'It's very cold today.' The adjective 'froid' means cold, and 'il fait' is the standard expression for describing weather.",
+  "explanation": "The text states '<em>Il fait très froid aujourd'hui</em>' - It's very cold today. The adjective 'froid' means cold, and 'il fait' is the standard expression for describing weather.",
   "difficulty": "A1",
   "source": "Weather Description",
   "tags": [
@@ -18,5 +18,6 @@
     "temperature",
     "daily-conversation"
   ],
-  "timeCreated": 1720026380
+  "timeCreated": 1720026380,
+  "verified": "claude"
 }
