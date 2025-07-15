@@ -11,9 +11,10 @@
     "To have a quiet dinner"
   ],
   "correct": 2,
-  "explanation": "The text states, 'Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque', which means 'My father and his friends went out last night to celebrate their victory in the pétanque tournament'.",
+  "explanation": "The text states '<em>Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque</em>' - My father and his friends went out last night to celebrate their victory in the pétanque tournament. They came home very late but looked really happy about their evening.",
   "difficulty": "B2",
   "source": "Gemini CLI",
   "tags": ["father", "celebration", "sports", "friends"],
-  "timeCreated": 1720181344
+  "timeCreated": 1720181344,
+  "verified": "claude"
 }

@@ -10,12 +10,13 @@
     "She teaches online French courses and has done so for three months"
   ],
   "correct": 0,
-  "explanation": "Marie says 'Je suis un cours de français en ligne depuis trois mois' - I'm following/taking an online French course for three months. She finds it practical because she can study at her own pace. Here 'suis' comes from 'suivre' (to follow/take a course), not 'être' (to be).",
+  "explanation": "The text states '<em>Je suis un cours de français en ligne depuis trois mois. C'est très pratique parce que je peux étudier à mon rythme</em>' - I'm following/taking an online French course for three months. It's very practical because I can study at my own pace. Here 'suis' comes from 'suivre' (to follow/take a course), not 'être' (to be).",
   "difficulty": "B1",
   "source": "Online Learning",
   "tags": [
     "education",
     "online-learning",
     "duration"
-  ]
+  ],
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "aimons"
   ],
   "correct": 0,
-  "explanation": "With 'les oiseaux' (the birds), we use 'aiment' - the third person plural form of 'aimer' (to like/love). The sentence means 'The birds like to sing in the morning.'",
+  "explanation": "The text states '<em>Les oiseaux aiment chanter le matin</em>' - The birds like to sing in the morning. With 'les oiseaux' (the birds), we use 'aiment' - the third person plural form of 'aimer' (to like/love).",
   "difficulty": "A1",
   "source": "Basic nature observation about bird behavior",
   "tags": [
@@ -20,5 +20,6 @@
     "animals",
     "singing",
     "daily-life"
-  ]
+  ],
+  "verified": "claude"
 }

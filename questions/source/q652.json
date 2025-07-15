@@ -10,9 +10,10 @@
         "tenais"
     ],
     "correct": 0,
-    "explanation": "The missing word is 'prenais'. The complete sentence is 'Avant, je prenais toujours des notes détaillées sur mes dépenses ménagères pour mieux contrôler mon budget' - Before, I always took detailed notes on my household expenses to better control my budget. 'Prenais' is the imperfect form of 'prendre' (to take), first person singular, describing a habitual past action.",
+    "explanation": "The text states '<em>Avant, je prenais toujours des notes détaillées sur mes dépenses ménagères pour mieux contrôler mon budget</em>' - Before, I always took detailed notes on my household expenses to better control my budget. The missing word is 'prenais', the imperfect form of 'prendre' (to take), first person singular, describing a habitual past action.",
     "difficulty": "B2",
     "source": "Household expense tracking and budgeting",
     "tags": ["household-budgeting", "expense-tracking", "budget-control", "financial-management"],
-    "timeCreated": 1735952940
+    "timeCreated": 1735952940,
+    "verified": "claude"
 }

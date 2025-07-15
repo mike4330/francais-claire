@@ -13,6 +13,11 @@
   "explanation": "The text states '<em>Si vous suiviez mes conseils, vous auriez réussi.</em>' - If you had followed my advice, you would have succeeded. The imperfect subjunctive 'suiviez' is used in the conditional clause with 'si' to express a hypothetical situation in the past.",
   "difficulty": "B2",
   "source": "Gemini CLI",
-  "tags": ["workplace", "mentoring", "professional-advice"],
-  "timeCreated": 1751761790
+  "tags": [
+    "workplace",
+    "mentoring",
+    "professional-advice"
+  ],
+  "timeCreated": 1751761790,
+  "verified": "claude"
 }

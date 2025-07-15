@@ -10,9 +10,10 @@
         "They cook traditional dishes only."
     ],
     "correct": 0,
-    "explanation": "The speaker states 'Dans certaines cultures, on invoque le nom de Dieu avant de commencer un repas important' - In certain cultures, one invokes God's name before beginning an important meal. This refers to religious blessing or prayer practices before meals.",
+    "explanation": "The text states '<em>Dans certaines cultures, on invoque le nom de Dieu avant de commencer un repas important</em>' - In certain cultures, one invokes God's name before beginning an important meal. This refers to religious blessing or prayer practices before meals.",
     "difficulty": "B2",
     "source": "Cultural and religious dining practices",
     "tags": ["culture", "religion", "food", "traditions"],
-    "timeCreated": 1735948200
+    "timeCreated": 1735948200,
+    "verified": "claude"
 }

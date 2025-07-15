@@ -10,9 +10,10 @@
         "voyez"
     ],
     "correct": 0,
-    "explanation": "The missing word is 'entendez'. The complete sentence is 'Vous entendez souvent parler de cette nouvelle méthode révolutionnaire dans les médias spécialisés' - You often hear about this revolutionary new method in specialized media. 'Entendez' is the present form of 'entendre' (to hear), second person plural.",
+    "explanation": "The text states '<em>Vous entendez souvent parler de cette nouvelle méthode révolutionnaire dans les médias spécialisés</em>' - You often hear about this revolutionary new method in specialized media. The missing word is 'entendez', the present form of 'entendre' (to hear), second person plural.",
     "difficulty": "B2",
     "source": "Media coverage and innovation",
     "tags": ["media", "innovation", "technology", "information"],
-    "timeCreated": 1735950060
+    "timeCreated": 1735950060,
+    "verified": "claude"
 }

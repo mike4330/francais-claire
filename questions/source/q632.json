@@ -10,9 +10,10 @@
         "trouvez"
     ],
     "correct": 0,
-    "explanation": "The missing word is 'demandez'. The complete sentence is 'Vous demandez souvent des conseils sur les recettes de pâtisserie à votre grand-mère' - You often ask for advice on pastry recipes from your grandmother. 'Demandez' is the present form of 'demander' (to ask), second person plural or polite form.",
+    "explanation": "The text states '<em>Vous demandez souvent des conseils sur les recettes de pâtisserie à votre grand-mère</em>' - You often ask for advice on pastry recipes from your grandmother. The missing word is 'demandez', the present form of 'demander' (to ask), second person plural or polite form.",
     "difficulty": "A2",
     "source": "Baking and pastry hobbies",
     "tags": ["baking", "pastry", "cooking", "recipes"],
-    "timeCreated": 1735951740
+    "timeCreated": 1735951740,
+    "verified": "claude"
 }

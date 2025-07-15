@@ -11,9 +11,10 @@
         "salée"
     ],
     "correct": 0,
-    "explanation": "The noun 'mains' (hands) is feminine plural, so the adjective 'sale' must agree in gender and number, becoming 'sales'.",
+    "explanation": "The text states '<em>Ses mains sont sales après avoir jardiné</em>' - His/her hands are dirty after gardening. The noun 'mains' (hands) is feminine plural, so the adjective 'sale' must agree in gender and number, becoming 'sales'.",
     "difficulty": "B1",
     "source": "Gemini-generated",
     "tags": ["gardening", "hygiene"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "venons"
   ],
   "correct": 0,
-  "explanation": "With 'les chercheurs' (the researchers), we use 'viennent' - the third person plural form of 'venir'. The expression 'venir collaborer' means 'to come to collaborate' or 'are coming to collaborate'. This tests the conjugation of 'venir' in an academic collaboration context.",
+  "explanation": "The text states '<em>Les chercheurs de cinq universités européennes viennent collaborer sur ce projet interdisciplinaire d'intelligence artificielle</em>' - Researchers from five European universities are coming to collaborate on this interdisciplinary artificial intelligence project. With 'les chercheurs' (the researchers), we use 'viennent' - the third person plural form of 'venir'.",
   "difficulty": "B1",
   "source": "International academic research collaboration announcement",
   "tags": [
@@ -21,5 +21,6 @@
     "technology",
     "interdisciplinary-research",
     "europe"
-  ]
+  ],
+  "verified": "claude"
 }

@@ -1,18 +1,25 @@
 {
-    "id": 696,
-    "audioText": "Ce nouveau restaurant italien plairait sûrement à mes parents qui adorent la cuisine méditerranéenne.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Ce nouveau restaurant italien plairait sûrement à mes parents qui adorent la cuisine méditerranéenne.",
-        "Ce nouveau restaurant italien plairait sûrement à mes parents qui adorent la cuisine méditerranée.",
-        "Ce nouveau restaurant italien plairait certainement à mes parents qui adorent la cuisine méditerranéenne.",
-        "Ce nouveau restaurant italien plairait sûrement à mes enfants qui adorent la cuisine méditerranéenne."
-    ],
-    "correct": 0,
-    "explanation": "The speaker said '<em>Ce nouveau restaurant italien plairait sûrement à mes parents qui adorent la cuisine méditerranéenne</em>' - This new Italian restaurant would surely please my parents who love Mediterranean cuisine. 'Plairait' is the conditional form of 'plaire' (to please), expressing likelihood or probability.",
-    "difficulty": "B1",
-    "source": "Restaurant recommendation",
-    "tags": ["restaurant", "family", "food", "cuisine", "recommendations"],
-    "timeCreated": 1736065900
+  "id": 696,
+  "audioText": "Ce nouveau restaurant italien plairait sûrement à mes parents qui adorent la cuisine méditerranéenne.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Ce nouveau restaurant italien plairait sûrement à mes parents qui adorent la cuisine méditerranéenne.",
+    "Ce nouveau restaurant italien plairait sûrement à mes parents qui adorent la cuisine méditerranée.",
+    "Ce nouveau restaurant italien plairait certainement à mes parents qui adorent la cuisine méditerranéenne.",
+    "Ce nouveau restaurant italien plairait sûrement à mes enfants qui adorent la cuisine méditerranéenne."
+  ],
+  "correct": 0,
+  "explanation": "The speaker said '<em>Ce nouveau restaurant italien plairait sûrement à mes parents qui adorent la cuisine méditerranéenne</em>' - This new Italian restaurant would surely please my parents who love Mediterranean cuisine. 'Plairait' is the conditional form of 'plaire' (to please), expressing likelihood or probability.",
+  "difficulty": "B1",
+  "source": "Restaurant recommendation",
+  "tags": [
+    "restaurant",
+    "family",
+    "food",
+    "cuisine",
+    "recommendations"
+  ],
+  "timeCreated": 1736065900,
+  "verified": "claude"
 }
