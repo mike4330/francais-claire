@@ -1,19 +1,18 @@
 {
     "id": 493,
-    "audioText": "Je viens volontiers avec vous au cinéma ce soir.",
-    "question": "Je viens ______ avec vous au cinéma ce soir.",
+    "audioText": "Je m'assieds sur cette chaise confortable pour regarder la télé.",
+    "question": "Je m'assieds sur cette ______ confortable pour regarder la télé.",
     "questionType": "fill-in-the-blank",
     "options": [
-        "volontiers",
-        "difficilement",
-        "rarement",
-        "jamais"
+        "chaise",
+        "chaises",
+        "chais",
+        "chaisée"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Je viens volontiers avec vous au cinéma ce soir</em>' - I'll gladly come with you to the cinema tonight. The correct answer is 'volontiers' meaning 'willingly' or 'gladly', expressing enthusiasm about joining them.",
-    "difficulty": "B2",
-    "source": "Social invitation",
-    "tags": ["entertainment", "invitation", "enthusiasm"],
-    "timeCreated": 1720077400,
-    "verified": "claude"
+    "explanation": "The text states '<em>Je m'assieds sur cette chaise confortable pour regarder la télé</em>' - I sit on this comfortable chair to watch TV. 'Chaise' (feminine singular) is correct with 'cette' (this feminine).",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["furniture", "daily-life", "entertainment"],
+    "timeCreated": 1721049600
 }

@@ -1,18 +1,18 @@
 {
     "id": 494,
-    "audioText": "Je me souviens vaguement de cette histoire qu'on m'a racontée.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
+    "audioText": "Nous marchons sur cette plage allemande pour découvrir les côtes sauvages.",
+    "question": "Where do we walk to discover the wild coasts?",
+    "questionType": "comprehension",
     "options": [
-        "Je me souviens vaguement de cette histoire qu'on m'a racontée.",
-        "Je me souviens clairement de cette histoire qu'on m'a racontée.",
-        "Je me souviens vaguement de cette histoire qu'on m'a donnée.",
-        "Je me souviens parfaitement de cette histoire qu'on m'a racontée."
+        "On this German beach",
+        "Through the mountain forest",
+        "Along the river banks",
+        "In the city gardens"
     ],
     "correct": 0,
-    "explanation": "The speaker used 'vaguement' meaning 'vaguely' to describe their memory of the story. The other options change 'vaguement' to 'clairement' (clearly), 'parfaitement' (perfectly), or 'racontée' to 'donnée' (given).",
-    "difficulty": "B1",
-    "source": "Memory recollection",
-    "tags": ["memory", "stories", "recollection"],
-    "timeCreated": 1720077400
+    "explanation": "The text states '<em>Nous marchons sur cette plage allemande pour découvrir les côtes sauvages</em>' - We walk on this German beach to discover the wild coasts. 'Plage' means beach and 'côtes' means coasts.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["travel", "nature", "geography"],
+    "timeCreated": 1721049600
 }

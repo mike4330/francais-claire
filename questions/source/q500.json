@@ -1,26 +1,18 @@
 {
-  "id": 500,
-  "audioText": "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
-  "parentQuestion": 484,
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
-  "options": [
-    "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
-    "Avec ce port dans les terres, il y a une âme musicale. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.",
-    "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade culturelle à quinze kilomètres de la mer.",
-    "Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à cinq kilomètres de la mer."
-  ],
-  "correct": 0,
-  "explanation": "La phrase exacte était 'Avec ce port dans les terres, il y a une âme maritime. Caen continue de célébrer son Millénaire avec une parade navale à quinze kilomètres de la mer.' - With this port inland, there is a maritime soul. Caen continues to celebrate its Millennium with a naval parade fifteen kilometers from the sea.",
-  "difficulty": "B2",
-  "source": "Caen Millennium News - Listening",
-  "tags": [
-    "culture",
-    "celebration",
-    "maritime",
-    "soul",
-    "vocabulary",
-    "millennium",
-    "poetry"
-  ]
+    "id": 500,
+    "audioText": "Je vous expliquerai logiquement ces procédures anglaises concernant la preuve.",
+    "question": "What will I logically explain to you about English procedures?",
+    "questionType": "comprehension",
+    "options": [
+        "The proof concerning them",
+        "The costs associated with them",
+        "The timing required for them",
+        "The people responsible for them"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Je vous expliquerai logiquement ces procédures anglaises concernant la preuve</em>' - I will logically explain to you these English procedures concerning the proof. 'Expliquerai' (future tense), 'logiquement' (adverb), 'anglaises' (adjective), 'preuve' (noun), 'procédures' (topic) are all priority targets.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["procedures", "explanation", "legal"],
+    "timeCreated": 1721049600
 }

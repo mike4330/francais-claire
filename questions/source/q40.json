@@ -10,7 +10,7 @@
     "glace"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'neige'. La phrase complète est 'Une couche de neige a recouvert une partie du désert d'Atacama au Chili.' - A layer of snow covered part of Chile's Atacama Desert. This is a rare event in one of the world's driest places.",
+  "explanation": "The text states '<em>Une couche de neige a recouvert une partie du désert d'Atacama au Chili</em>' - A layer of snow covered part of Chile's Atacama Desert. The missing word is 'neige' (snow). This is a rare event in one of the world's driest places.",
   "difficulty": "A2",
   "source": "Chile Weather - Simple",
   "tags": [
@@ -18,5 +18,6 @@
     "snow",
     "chile",
     "nature"
-  ]
+  ],
+  "verified": "claude"
 }

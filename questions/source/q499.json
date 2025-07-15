@@ -1,23 +1,18 @@
 {
-  "id": 499,
-  "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.",
-  "question": "Le taux de ______ a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "chômage",
-    "croissance",
-    "inflation",
-    "productivité"
-  ],
-  "correct": 0,
-  "explanation": "The text states '<em>Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active.</em>' - 'The unemployment rate fell by 0.2 percentage points in the last quarter, reaching 7.3% of the active population.' The missing word is 'chômage' (unemployment), a key economic indicator.",
-  "difficulty": "B2",
-  "source": "French Economic News",
-  "tags": [
-    "economy",
-    "unemployment",
-    "statistics",
-    "employment",
-    "economic-indicators"
-  ]
+    "id": 499,
+    "audioText": "L'équipe de commerce bat positivement les records lors de ce rendez-vous important.",
+    "question": "What does the commerce team do during this important meeting?",
+    "questionType": "comprehension",
+    "options": [
+        "Positively beats the records",
+        "Carefully reviews the documents",
+        "Quietly discusses the problems",
+        "Quickly solves the issues"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'équipe de commerce bat positivement les records lors de ce rendez-vous important</em>' - The commerce team positively beats the records during this important meeting. 'Bat' (3rd person singular of 'battre'), 'positivement' (adverb), and 'rendez-vous' (noun) are all priority targets.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["commerce", "business", "success"],
+    "timeCreated": 1721049600
 }

@@ -1,25 +1,18 @@
 {
-  "id": 484,
-  "audioText": "Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée.",
-  "question": "What did the speaker finally choose at the restaurant?",
-  "questionType": "comprehension",
-  "options": [
-    "A flank steak with a side of vegetables",
-    "Duck breast skewers with a special sauce",
-    "A sliced chicken dish with fragrant mustard sauce",
-    "A seafood dish with ginger and mild chili"
-  ],
-  "correct": 2,
-  "explanation": "The text states '<em>Au restaurant, j'ai hésité entre une bavette d'aloyau et des brochettes de magret de canard, mais j'ai finalement choisi un émincé de poulet à la moutarde parfumée</em>' - At the restaurant, I hesitated between a flank steak and duck breast skewers, but I finally chose a sliced chicken dish with fragrant mustard sauce.",
-  "difficulty": "B2",
-  "source": "Restaurant Choice",
-  "tags": [
-    "food",
-    "restaurant",
-    "chicken",
-    "menu",
-    "decision"
-  ],
-  "timeCreated": 1720026800,
-  "verified": "claude"
+    "id": 484,
+    "audioText": "Nous montrons ce beau souvenir de vacances à nos enfants chaque été.",
+    "question": "What do we show to our children every summer?",
+    "questionType": "comprehension",
+    "options": [
+        "This beautiful vacation memory",
+        "The latest family photos",
+        "Our collection of travel guides",
+        "The videos from last year"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous montrons ce beau souvenir de vacances à nos enfants chaque été</em>' - We show this beautiful vacation memory to our children every summer. 'Souvenir' means memory/souvenir, and 'montrons' is the first person plural of 'montrer'.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["family", "vacation", "memories"],
+    "timeCreated": "2025-07-14T12:00:00Z"
 }

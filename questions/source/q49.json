@@ -10,7 +10,7 @@
     "They bought many classical music albums for their collection."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Quand j'avais quinze ans, j'écoutais beaucoup de musique classique avec mes parents' - When I was fifteen, I listened to a lot of classical music with my parents. 'Avais' is the imperfect tense showing a past state or condition.",
+  "explanation": "The text states '<em>Quand j'avais quinze ans, j'écoutais beaucoup de musique classique avec mes parents</em>' - When I was fifteen, I listened to a lot of classical music with my parents. 'Avais' is the imperfect tense showing a past state or condition.",
   "difficulty": "A2",
   "source": "Musical Memories",
   "tags": [
@@ -18,5 +18,6 @@
     "classical-music",
     "family",
     "memories"
-  ]
+  ],
+  "verified": "claude"
 }

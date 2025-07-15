@@ -1,18 +1,18 @@
 {
     "id": 485,
-    "audioText": "Cette famille pauvre a besoin d'aide pour payer le loyer ce mois-ci.",
-    "question": "What does the text say about the family?",
+    "audioText": "Chaque seconde compte quand nous envoyons fraîchement ces lettres urgentes à nos clients.",
+    "question": "When do we send these urgent letters to our clients?",
     "questionType": "comprehension",
     "options": [
-        "This poor family needs help paying rent this month",
-        "This wealthy family is helping others pay rent",
-        "This family is poor but refuses help with rent",
-        "This family has poor credit but can afford rent"
+        "Freshly, when every second counts",
+        "Weekly on scheduled delivery days",
+        "Monthly with the regular mailings",
+        "Only during business hours"
     ],
     "correct": 0,
-    "explanation": "The text states 'Cette famille pauvre a besoin d'aide pour payer le loyer ce mois-ci' - This poor family needs help paying rent this month. 'Pauvre' means 'poor' (financially disadvantaged).",
-    "difficulty": "B1",
-    "source": "Social services",
-    "tags": ["family", "financial-hardship", "housing"],
-    "timeCreated": 1720077400
+    "explanation": "The text states '<em>Chaque seconde compte quand nous envoyons fraîchement ces lettres urgentes à nos clients</em>' - Every second counts when we freshly send these urgent letters to our clients. 'Seconde' means second (time unit), 'envoyons' is first person plural of 'envoyer', and 'fraîchement' means freshly.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["business", "communication", "urgency"],
+    "timeCreated": "2025-07-14T12:00:00Z"
 }

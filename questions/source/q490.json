@@ -1,18 +1,18 @@
 {
     "id": 490,
-    "audioText": "Elle est capable de résoudre des problèmes complexes rapidement.",
-    "question": "Elle est ______ de résoudre des problèmes complexes rapidement.",
-    "questionType": "fill-in-the-blank",
+    "audioText": "Vous tournez à droite après le rendez-vous chez le médecin.",
+    "question": "When do you turn right?",
+    "questionType": "comprehension",
     "options": [
-        "capable",
-        "incapable",
-        "fatiguée",
-        "surprise"
+        "After the doctor appointment",
+        "Before arriving at the hospital",
+        "During the medical consultation",
+        "While waiting in the reception area"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'capable' meaning 'able' or 'capable'. She is capable of solving complex problems quickly. 'Capable de' means 'able to' or 'capable of' doing something.",
-    "difficulty": "B2",
-    "source": "Professional skills",
-    "tags": ["workplace", "abilities", "problem-solving"],
-    "timeCreated": 1720077400
+    "explanation": "The text states '<em>Vous tournez à droite après le rendez-vous chez le médecin</em>' - You turn right after the doctor appointment. 'Tournez' is the formal/plural present of 'tourner' (to turn), and 'rendez-vous' means appointment.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["health", "directions", "medical"],
+    "timeCreated": 1721049600
 }

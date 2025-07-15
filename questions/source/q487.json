@@ -1,18 +1,18 @@
 {
     "id": 487,
-    "audioText": "Elle est très contente de son nouveau travail.",
-    "question": "How does she feel about her new job?",
+    "audioText": "Ce lait prétend faussement avoir des os solides grâce à sa publicité mensongère.",
+    "question": "What does this milk falsely claim?",
     "questionType": "comprehension",
     "options": [
-        "She is very happy with her new job",
-        "She is disappointed with her new job",
-        "She is nervous about her new job",
-        "She is confused about her new job"
+        "To give solid bones through misleading advertising",
+        "To be completely organic and natural",
+        "To contain no artificial additives",
+        "To be suitable for lactose intolerant people"
     ],
     "correct": 0,
-    "explanation": "The text states 'Elle est très contente de son nouveau travail' - She is very happy/pleased with her new job. 'Contente' means 'happy', 'pleased', or 'satisfied' (feminine form).",
-    "difficulty": "B1",
-    "source": "Workplace satisfaction",
-    "tags": ["workplace", "emotions", "satisfaction"],
-    "timeCreated": 1720077400
+    "explanation": "The text states '<em>Ce lait prétend faussement avoir des os solides grâce à sa publicité mensongère</em>' - This milk falsely claims to give solid bones through misleading advertising. 'Lait' means milk, 'faussement' means falsely, and 'solides' means solid.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["health", "advertising", "nutrition"],
+    "timeCreated": "2025-07-14T12:00:00Z"
 }

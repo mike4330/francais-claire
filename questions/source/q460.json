@@ -10,10 +10,10 @@
         "beaux"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Il éteignit sa cigarette dans ce bel endroit</em>' - He put out his cigarette in this beautiful place. The correct form is 'bel' (masculine form of 'beau' used before vowels), and 'cigarette' means cigarette.",
+    "explanation": "The text states '<em>Il éteignit sa cigarette dans ce bel endroit</em>' - He put out his cigarette in this beautiful place. The correct form is 'bel' (masculine form of 'beau' used before vowels), agreeing with 'endroit' (masculine).",
     "difficulty": "A2",
     "source": "Claude-generated",
-    "tags": ["smoking", "places", "beauty", "environment"],
+    "tags": ["smoking", "places", "adjectives"],
     "timeCreated": 1735953420,
     "verified": "claude"
 }

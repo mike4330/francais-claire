@@ -1,18 +1,18 @@
 {
     "id": 492,
-    "audioText": "C'est incroyable comme le temps passe vite quand on s'amuse bien.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
+    "audioText": "Cette chair rouge et délicieuse coûte plus que le poids normal au salon de beauté.",
+    "question": "What costs more than normal weight at the beauty salon?",
+    "questionType": "comprehension",
     "options": [
-        "C'est incroyable comme le temps passe vite quand on s'amuse bien.",
-        "C'est incroyable comme le temps passe lentement quand on s'amuse bien.",
-        "C'est merveilleux comme le temps passe vite quand on s'amuse bien.",
-        "C'est incroyable comme le temps passe vite quand on s'ennuie."
+        "This red and delicious flesh",
+        "The professional hair treatments",
+        "The luxury facial services",
+        "The high-end beauty products"
     ],
     "correct": 0,
-    "explanation": "The speaker said 'C'est incroyable comme le temps passe vite quand on s'amuse bien' - It's incredible how time flies when you're having fun. 'Incroyable' means 'incredible' or 'unbelievable'. The other options change 'vite' to 'lentement' (slowly), 'incroyable' to 'merveilleux' (wonderful), or 's'amuse' to 's'ennuie' (get bored).",
-    "difficulty": "B2",
-    "source": "Social observation",
-    "tags": ["time", "entertainment", "emotions"],
-    "timeCreated": 1720077400
+    "explanation": "The text states '<em>Cette chair rouge et délicieuse coûte plus que le poids normal au salon de beauté</em>' - This red and delicious flesh costs more than normal weight at the beauty salon. 'Chair' means flesh/meat, and 'salon' means salon.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["food", "business", "comparison"],
+    "timeCreated": 1721049600
 }

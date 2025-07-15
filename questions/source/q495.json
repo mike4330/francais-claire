@@ -1,18 +1,21 @@
 {
-    "id": 495,
-    "audioText": "Cette situation est réellement préoccupante pour l'avenir de notre entreprise.",
-    "question": "How does the speaker describe the situation?",
-    "questionType": "comprehension",
-    "options": [
-        "The situation is really concerning for the company's future",
-        "The situation is slightly concerning for the company's future",
-        "The situation is not concerning for the company's future",
-        "The situation is potentially concerning for the company's future"
-    ],
-    "correct": 0,
-    "explanation": "The speaker said 'Cette situation est réellement préoccupante' - This situation is really concerning. 'Réellement' means 'really' or 'truly', emphasizing the seriousness of the situation for the company's future.",
-    "difficulty": "B2",
-    "source": "Business concerns",
-    "tags": ["business", "concerns", "future"],
-    "timeCreated": 1720077400
+  "id": 495,
+  "audioText": "La neige est blanche et couvre les montagnes.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "La neige est blanche et couvre les montagnes.",
+    "La neige est noire et couvre les montagnes.",
+    "La neige est verte et couvre les montagnes.",
+    "La neige est rouge et couvre les montagnes."
+  ],
+  "correct": 0,
+  "explanation": "The correct sentence is 'La neige est blanche et couvre les montagnes.', which means 'The snow is white and covers the mountains.'",
+  "difficulty": "A2",
+  "source": "Gemini-generated",
+  "tags": [
+    "nature",
+    "weather"
+  ],
+  "timeCreated": 1720134000
 }

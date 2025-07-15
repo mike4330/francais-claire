@@ -1,18 +1,18 @@
 {
     "id": 491,
-    "audioText": "J'ai pris un déjeuner léger aujourd'hui car j'ai rendez-vous chez le dentiste.",
-    "question": "What kind of lunch did the speaker have today?",
+    "audioText": "Tu caches ton rendez-vous secret derrière cette excuse invisible.",
+    "question": "What do you hide behind this invisible excuse?",
     "questionType": "comprehension",
     "options": [
-        "A light lunch because they have a dentist appointment",
-        "A heavy lunch because they have a dentist appointment",
-        "A light lunch because they have a doctor appointment",
-        "A heavy lunch because they have a doctor appointment"
+        "Your secret appointment",
+        "Your medical records",
+        "Your work documents",
+        "Your personal diary"
     ],
     "correct": 0,
-    "explanation": "The speaker said 'J'ai pris un déjeuner léger aujourd'hui car j'ai rendez-vous chez le dentiste' - I had a light lunch today because I have an appointment at the dentist. 'Léger' means 'light' (not heavy).",
-    "difficulty": "B1",
-    "source": "Medical appointment",
-    "tags": ["health", "food", "appointments"],
-    "timeCreated": 1720077400
+    "explanation": "The text states '<em>Tu caches ton rendez-vous secret derrière cette excuse invisible</em>' - You hide your secret appointment behind this invisible excuse. 'Caches' is the second person singular present of 'cacher' (to hide), targeting under-represented topics.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["secrecy", "social-behavior", "relationships"],
+    "timeCreated": 1721049600
 }

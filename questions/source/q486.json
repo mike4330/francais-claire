@@ -1,22 +1,18 @@
 {
-  "id": 486,
-  "audioText": "Le sage soldat continuera son histoire digne demain pendant notre rendez-vous.",
-  "question": "Le ______ soldat continuera son histoire digne demain pendant notre rendez-vous.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "sage",
-    "jeune",
-    "grand",
-    "fort"
-  ],
-  "correct": 0,
-  "explanation": "The text states '<em>Le sage soldat continuera son histoire digne demain pendant notre rendez-vous</em>' - The wise soldier will continue his worthy story tomorrow during our appointment. This combines 'sage', 'soldat', 'continuera', 'digne', and 'rendez-vous' in natural conversation.",
-  "difficulty": "B2",
-  "source": "Strategic targeting - sage + soldat + continuera + digne + rendez-vous conversational context",
-  "tags": [
-    "military",
-    "appointment",
-    "stories"
-  ],
-  "timeCreated": 1736806920
+    "id": 486,
+    "audioText": "Cette île allemande est joliment décorée pour accueillir les touristes en été.",
+    "question": "How is the German island decorated for summer tourists?",
+    "questionType": "comprehension",
+    "options": [
+        "Nicely decorated",
+        "Poorly maintained",
+        "Completely renovated",
+        "Minimally furnished"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette île allemande est joliment décorée pour accueillir les touristes en été</em>' - This German island is nicely decorated to welcome tourists in summer. 'Île' means island, 'allemande' means German (feminine), and 'joliment' means nicely.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["travel", "tourism", "decoration"],
+    "timeCreated": "2025-07-14T12:00:00Z"
 }

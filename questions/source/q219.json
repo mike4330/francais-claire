@@ -11,9 +11,10 @@
         "My brother."
     ],
     "correct": 0,
-    "explanation": "'Maman' means 'mom'. The sentence states that her mom is preparing a delicious cake.",
+    "explanation": "The text states '<em>Ma maman prépare un délicieux gâteau</em>' - My mom is preparing a delicious cake. 'Maman' means 'mom' and 'prépare' means 'is preparing'.",
     "difficulty": "A2",
     "source": "Gemini-generated",
     "tags": ["family", "cooking"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

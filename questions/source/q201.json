@@ -10,9 +10,10 @@
         "froid"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'fort' meaning 'strong'. The coffee is too strong for me. In French, 'fort' describes the intensity or strength of coffee.",
+    "explanation": "The text states '<em>Le café est trop fort pour moi</em>' - The coffee is too strong for me. The correct answer is 'fort' meaning 'strong'. In French, 'fort' describes the intensity or strength of coffee.",
     "difficulty": "A2",
     "source": "Café conversation",
     "tags": ["food", "drinks", "preferences"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

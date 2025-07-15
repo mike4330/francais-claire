@@ -1,18 +1,19 @@
 {
     "id": 373,
-    "audioText": "Vous vous asseyez sur ce sujet idiot concernant les soins médicaux spécialisés.",
-    "question": "What do you sit on concerning specialized medical care?",
+    "audioText": "Vous vous asseyez confortablement dans la salle d'attente pour vos soins médicaux spécialisés.",
+    "question": "How do you sit in the waiting room for your specialized medical care?",
     "questionType": "comprehension",
     "options": [
-        "This idiotic subject",
-        "A comfortable chair designed for patient consultations",
-        "The latest research findings about treatment protocols",
-        "Professional recommendations from healthcare specialists"
+        "Comfortably",
+        "Nervously while reading magazines",
+        "Standing near the reception desk",
+        "Impatiently checking the time constantly"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'This idiotic subject'. The text states '<em>Vous vous asseyez sur ce sujet idiot concernant les soins médicaux spécialisés</em>' - You sit on this idiotic subject concerning specialized medical care. 'Asseyez' is the second-person plural imperative of 'asseoir' (to sit), 'sujet' means 'subject', and 'idiot' means 'idiotic'.",
+    "explanation": "The text states '<em>Vous vous asseyez confortablement dans la salle d'attente pour vos soins médicaux spécialisés</em>' - You sit comfortably in the waiting room for your specialized medical care. 'Vous vous asseyez' is the reflexive form of 'asseoir' (to sit), and 'confortablement' means comfortably.",
     "difficulty": "A2",
     "source": "Strategic vocabulary development - medical care topics",
-    "tags": ["care", "health", "discussion"],
-    "timeCreated": 1720825020
+    "tags": ["health", "medical", "waiting-room"],
+    "timeCreated": 1720825020,
+    "verified": "claude"
 }

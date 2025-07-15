@@ -1,7 +1,7 @@
 {
   "id": 259,
-  "audioText": "Cette femme maigre touchez vif ce fer nu.",
-  "question": "Cette femme maigre touchez ______ ce fer nu.",
+  "audioText": "Cette femme maigre touche vif ce fer nu.",
+  "question": "Cette femme maigre touche ______ ce fer nu.",
   "questionType": "fill-in-the-blank",
   "options": [
     "vif",
@@ -10,7 +10,7 @@
     "faible"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette femme maigre touchez vif ce fer nu</em>' - This thin woman touch lively this bare iron. 'Maigre' means thin/skinny, 'vif' means lively/quick, and 'nu' means naked/bare.",
+  "explanation": "The text states '<em>Cette femme maigre touche vif ce fer nu</em>' - This thin woman touches this bare iron lively. 'Maigre' means thin/skinny, 'vif' means lively/quick, and 'nu' means naked/bare.",
   "difficulty": "A2",
   "source": "Strategic targeting - femme + maigre + touchez + vif + fer + nu synergy + materials",
   "tags": [
@@ -18,5 +18,6 @@
     "materials",
     "personality"
   ],
-  "timeCreated": 1736806540
+  "timeCreated": 1736806540,
+  "verified": "claude"
 }

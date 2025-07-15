@@ -14,5 +14,6 @@
     "difficulty": "A2",
     "source": "Travel departure",
     "tags": ["travel", "vacation", "departure", "time"],
-    "timeCreated": 1736065200
+    "timeCreated": 1736065200,
+    "verified": "claude"
 }
