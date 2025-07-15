@@ -1,18 +1,23 @@
 {
-    "id": 908,
-    "audioText": "Quoi? Ces règlements changent bizarrement chaque mois au bureau.",
-    "question": "What does the speaker find strange?",
-    "questionType": "comprehension",
-    "options": [
-        "The regulations change oddly every month at work",
-        "The meetings happen strangely every week", 
-        "The deadlines move weirdly every quarter",
-        "The schedules shift randomly every day"
-    ],
-    "correct": 0,
-    "explanation": "The speaker says '<em>Quoi? Ces règlements changent bizarrement chaque mois au bureau</em>' - What? These regulations change oddly every month at the office. 'Quoi' expresses surprise, 'bizarrement' means 'oddly/strangely'.",
-    "difficulty": "B1",
-    "source": "Workplace policy changes",
-    "tags": ["regulations", "workplace", "confusion"],
-    "timeCreated": 1720442880
+  "id": 908,
+  "audioText": "Quoi? Ces règlements changent bizarrement chaque mois au bureau.",
+  "question": "What does the speaker find strange?",
+  "questionType": "comprehension",
+  "options": [
+    "The regulations change oddly every month at work",
+    "The meetings happen strangely every week",
+    "The deadlines move weirdly every quarter",
+    "The schedules shift randomly every day"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says '<em>Quoi? Ces règlements changent bizarrement chaque mois au bureau</em>' - What? These regulations change oddly every month at the office. 'Quoi' expresses surprise, 'bizarrement' means 'oddly/strangely'.",
+  "difficulty": "B1",
+  "source": "Workplace policy changes",
+  "tags": [
+    "regulations",
+    "workplace",
+    "confusion"
+  ],
+  "timeCreated": 1720442880,
+  "verified": "claude"
 }

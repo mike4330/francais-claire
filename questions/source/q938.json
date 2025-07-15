@@ -10,7 +10,7 @@
     "ambiance"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'air' (air). The sentence means 'The air in this bakery smells wonderfully good thanks to the warm bread.' This introduces the high-frequency noun 'air' and sensory vocabulary related to food shopping.",
+  "explanation": "The text states '<em>L'air dans cette boulangerie sent merveilleusement bon grâce au pain chaud</em>' - The air in this bakery smells wonderfully good thanks to the warm bread. The correct answer is 'air' (air). This introduces the high-frequency noun 'air' and sensory vocabulary related to food shopping.",
   "difficulty": "B2",
   "source": "Bakery Experience and Senses",
   "tags": [
@@ -23,5 +23,6 @@
     "food-shopping",
     "atmosphere"
   ],
-  "timeCreated": 1751219400
+  "timeCreated": 1751219400,
+  "verified": "claude"
 }

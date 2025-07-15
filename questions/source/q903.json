@@ -10,7 +10,7 @@
     "L'amour que nous partageons depuis quatorze ans continue de grandir malgré les difficultés de la vie quotidienne."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'L'amour que nous partageons depuis quinze ans continue de grandir malgré les difficultés de la vie quotidienne.' - The love we have shared for fifteen years continues to grow despite the difficulties of daily life. 'Amour' means love, expressing enduring romantic relationships.",
+  "explanation": "The text states '<em>L'amour que nous partageons depuis quinze ans continue de grandir malgré les difficultés de la vie quotidienne</em>' - The love we have shared for fifteen years continues to grow despite the difficulties of daily life. 'Amour' means love, expressing enduring romantic relationships.",
   "difficulty": "B2",
   "source": "Relationship Reflection",
   "tags": [
@@ -21,5 +21,6 @@
     "daily-life",
     "emotions",
     "long-term-commitment"
-  ]
+  ],
+  "verified": "claude"
 }

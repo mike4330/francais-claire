@@ -10,11 +10,12 @@
     "Je saurai que tu viendrais aujourd'hui."
   ],
   "correct": 0,
-  "explanation": "The correct form is 'je savais' - first person singular imperfect of 'savoir' (I knew). This highly frequent form was missing from our conjugation coverage and is essential for expressing past knowledge.",
+  "explanation": "The text states '<em>Je savais que tu viendrais aujourd'hui</em>' - I knew that you would come today. The correct form is 'je savais' - first person singular imperfect of 'savoir' (I knew), used to express past knowledge or certainty.",
   "difficulty": "B1",
   "source": "Conversation about prior knowledge and expectations",
   "tags": [
     "past-knowledge"
   ],
-  "timeCreated": 1704067200
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "They were promoted to higher positions"
   ],
   "correct": 0,
-  "explanation": "The text states that 'huit responsables d'un réseau de centres dentaires ont été placés en garde à vue' (eight managers of a dental center network were placed in police custody) for a fraud worth 10 million euros against the Social Security system.",
+  "explanation": "The text states '<em>Huit responsables d'un réseau de centres dentaires ont été placés en garde à vue pour une fraude de dix millions d'euros à la Sécurité sociale</em>' - Eight managers of a dental center network were placed in police custody for a fraud worth 10 million euros against the Social Security system.",
   "difficulty": "B2",
   "source": "Le Parisien news report on healthcare fraud",
   "tags": [
@@ -20,5 +20,6 @@
     "news",
     "crime"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "Because the astronauts needed additional training time"
   ],
   "correct": 0,
-  "explanation": "The text states the space mission to Mars 'a été reportée en raison de conditions météorologiques défavorables au centre de lancement spatial' - was postponed due to unfavorable weather conditions at the space launch center. This is typical French media coverage of space exploration.",
+  "explanation": "The text states '<em>La mission spatiale vers Mars a été reportée en raison de conditions météorologiques défavorables au centre de lancement spatial</em>' - The space mission to Mars was postponed due to unfavorable weather conditions at the space launch center. This is typical French media coverage of space exploration.",
   "difficulty": "B2",
   "source": "Space News - Mission Updates",
   "tags": [
@@ -22,5 +22,6 @@
     "weather",
     "space-missions"
   ],
-  "timeCreated": 1751331401
+  "timeCreated": 1751331401,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "Moving to a new house"
   ],
   "correct": 0,
-  "explanation": "The couple rediscovered love 'en voyageant ensemble à travers l'Europe' - by traveling together through Europe. The phrase 'redécouvert l'amour' means they rediscovered their love for each other.",
+  "explanation": "The text states '<em>Après quinze ans de mariage, ils ont redécouvert l'amour en voyageant ensemble à travers l'Europe</em>' - After fifteen years of marriage, they rediscovered love by traveling together through Europe. The phrase 'redécouvert l'amour' means they rediscovered their love for each other.",
   "difficulty": "B2",
   "source": "Relationship Story",
   "tags": [
@@ -19,5 +19,6 @@
     "marriage",
     "romance"
   ],
-  "timeCreated": 1751465035
+  "timeCreated": 1751465035,
+  "verified": "claude"
 }

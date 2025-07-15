@@ -10,7 +10,7 @@
     "To save money on equipment"
   ],
   "correct": 0,
-  "explanation": "The team needs to master digital tools 'pour améliorer la productivité au bureau' - to improve productivity at the office. 'Outils numériques' means digital tools.",
+  "explanation": "The text states '<em>Notre équipe doit maîtriser les nouveaux outils numériques pour améliorer la productivité au bureau</em>' - Our team must master new digital tools to improve productivity at the office. The team needs to master digital tools 'pour améliorer la productivité au bureau' - to improve productivity at the office.",
   "difficulty": "B2",
   "source": "Workplace Training",
   "tags": [
@@ -19,5 +19,6 @@
     "productivity",
     "professional-development"
   ],
-  "timeCreated": 1751465314
+  "timeCreated": 1751465314,
+  "verified": "claude"
 }
