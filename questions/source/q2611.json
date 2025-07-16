@@ -1,0 +1,22 @@
+{
+  "id": 2611,
+  "audioText": "Cette chance inégalée d'explorer ce bois ancestral représente une opportunité scientifique capitale pour étudier l'écosystème dans son état le plus primitif.",
+  "question": "What represents a major scientific opportunity?",
+  "questionType": "comprehension",
+  "options": [
+    "The unparalleled chance to explore this ancestral forest and study the ecosystem in its most primitive state",
+    "The development of new research methodologies and technologies",
+    "The collaboration with international conservation organizations",
+    "The publication of findings in prestigious scientific journals"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette chance inégalée d'explorer ce bois ancestral représente une opportunité scientifique capitale pour étudier l'écosystème dans son état le plus primitif</em>' - This unparalleled chance to explore this ancestral forest represents a major scientific opportunity to study the ecosystem in its most primitive state. This targets 'chance' and 'bois' in a scientific research context.",
+  "difficulty": "C1",
+  "source": "Strategic noun targeting: chance, bois",
+  "tags": [
+    "science",
+    "research",
+    "ecology"
+  ],
+  "timeCreated": 1720617180
+}

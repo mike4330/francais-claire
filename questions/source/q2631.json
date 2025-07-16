@@ -1,0 +1,23 @@
+{
+  "id": 2631,
+  "audioText": "Cette chance inégalée d'explorer ce bois ancestral représente une opportunité scientifique capitale pour étudier l'écosystème dans son état le plus primitif.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette chance inégalée d'explorer ce bois ancestral représente une opportunité scientifique capitale pour étudier l'écosystème",
+    "Cette chance incomparable d'explorer ce bois ancestral représente une opportunité scientifique capitale pour étudier l'écosystème",
+    "Cette chance inégalée d'explorer cette forêt ancestrale représente une opportunité scientifique capitale pour étudier l'écosystème",
+    "Cette chance inégalée d'explorer ce bois ancestral représente une possibilité scientifique capitale pour étudier l'écosystème"
+  ],
+  "correct": 0,
+  "parentQuestion": 2611,
+  "explanation": "The correct text begins with '<em>Cette chance inégalée d'explorer ce bois ancestral représente une opportunité scientifique capitale pour étudier l'écosystème</em>' - This unparalleled chance to explore this ancestral forest represents a major scientific opportunity to study the ecosystem. Key words: 'inégalée' (unparalleled, not 'incomparable' - incomparable), 'bois' (wood/forest, not 'forêt' - forest), and 'opportunité' (opportunity, not 'possibilité' - possibility).",
+  "difficulty": "C1",
+  "source": "Listening version of Q1654",
+  "tags": [
+    "science",
+    "research",
+    "ecology"
+  ],
+  "timeCreated": 1720964040
+}

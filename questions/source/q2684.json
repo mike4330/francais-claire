@@ -1,0 +1,23 @@
+{
+  "id": 2684,
+  "audioText": "Les chercheurs ont développé une approche innovante pour résoudre les problèmes complexes liés au changement climatique.",
+  "question": "What have researchers developed to address complex climate change issues?",
+  "questionType": "comprehension",
+  "options": [
+    "An innovative approach to solve complex problems related to climate change",
+    "A traditional method to ignore environmental concerns completely",
+    "A simple solution that requires no international cooperation",
+    "A temporary fix that only addresses surface-level issues"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les chercheurs ont développé une approche innovante pour résoudre les problèmes complexes liés au changement climatique</em>' - Researchers have developed an innovative approach to solve complex problems related to climate change. 'Ont développé' is the past tense of 'développer' (to develop).",
+  "difficulty": "C1",
+  "source": "Environmental research",
+  "tags": [
+    "environment",
+    "research",
+    "climate"
+  ],
+  "timeCreated": 1736806800,
+  "verified": "claude"
+}

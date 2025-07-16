@@ -1,0 +1,22 @@
+{
+  "id": 2713,
+  "audioText": "Sa pensée délicate pour mon anniversaire m'a profondément touchée - ce cadeau britannique révélait une sensibilité extrême que je n'avais jamais soupçonnée chez lui.",
+  "question": "What impressed the speaker most about the gift?",
+  "questionType": "comprehension",
+  "options": [
+    "The extreme sensitivity and thoughtfulness it revealed about the giver",
+    "The expensive British craftsmanship and quality materials used",
+    "The perfect timing for the birthday celebration",
+    "The rare and unusual nature of the gift itself"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa pensée délicate pour mon anniversaire m'a profondément touchée - ce cadeau britannique révélait une sensibilité extrême que je n'avais jamais soupçonnée chez lui</em>' - His delicate thought for my birthday deeply touched me - this British gift revealed extreme sensitivity that I had never suspected in him. The speaker was most impressed by the unexpected depth of sensitivity the gift revealed.",
+  "difficulty": "C1",
+  "source": "Claude",
+  "tags": [
+    "gifts",
+    "emotions",
+    "relationships"
+  ],
+  "timeCreated": "2025-07-14T12:00:00Z"
+}

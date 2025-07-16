@@ -1,0 +1,24 @@
+{
+  "id": 2592,
+  "audioText": "L'expert en sécurité dirait que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
+  "question": "L'expert en sécurité ______ que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "dirait",
+    "dit",
+    "disait",
+    "dira"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'dirait' - the conditional form of 'dire' (to say). In this cybersecurity context, the conditional expresses what the expert would say about this potential cyber-attack threat. 'Coup' here refers to a cyber-attack strike.",
+  "difficulty": "C1",
+  "source": "Cybersecurity Expert Analysis",
+  "tags": [
+    "cybersecurity",
+    "cyber-attacks",
+    "coup",
+    "digital-infrastructure",
+    "national-security"
+  ],
+  "timeCreated": 1735500702
+}

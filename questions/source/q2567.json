@@ -1,0 +1,22 @@
+{
+  "id": 2567,
+  "audioText": "La température a chuté brusquement pendant la nuit, provoquant du verglas sur toutes les routes principales de la région.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "La température a chuté brusquement pendant la nuit, provoquant du verglas sur toutes les routes principales de la région.",
+    "La température a chuté graduellement pendant la nuit, provoquant du verglas sur toutes les routes principales de la région.",
+    "La température a chuté brusquement pendant la journée, provoquant du verglas sur toutes les routes principales de la région.",
+    "La température a chuté brusquement pendant la nuit, provoquant de la neige sur toutes les routes principales de la région."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'brusquement' (suddenly/abruptly) to describe how the temperature dropped during the night, causing black ice on all main roads. The other options change key details: 'graduellement' (gradually), 'journée' (day), or 'neige' (snow).",
+  "difficulty": "C2",
+  "source": "Weather emergency report",
+  "tags": [
+    "weather",
+    "emergency",
+    "transportation"
+  ],
+  "timeCreated": 1720076580
+}

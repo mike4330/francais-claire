@@ -1,0 +1,23 @@
+{
+  "id": 2656,
+  "audioText": "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.",
+    "Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres objets décoratifs.",
+    "Si elle avait plus de temps libre, elle suivrait des cours de poterie pour créer ses propres vases décoratifs.",
+    "Si elle avait plus de temps libre, elle prendrait des cours de sculpture pour créer ses propres vases décoratifs."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'Si elle avait plus de temps libre, elle prendrait des cours de poterie pour créer ses propres vases décoratifs.' - If she had more free time, she would take pottery classes to create her own decorative vases. Note 'prendrait' vs 'suivrait', 'poterie' vs 'sculpture', and 'vases' vs 'objets'. 'Prendrait' is the conditional form of 'prendre' (to take), third person singular.",
+  "difficulty": "C1",
+  "source": "Pottery and creative hobbies",
+  "tags": [
+    "pottery",
+    "crafting",
+    "hobbies",
+    "creativity"
+  ],
+  "timeCreated": 1735953360
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2574,
+  "audioText": "Le maire du 12e arrondissement de Marseille, Sylvain Souvestre a condamné cet incendie, précisant: «les propriétaires sont des gens du quartier, un couple qui n'a rien à voir avec le conflit israélo-palestinien».",
+  "question": "Why did the mayor specifically clarify that the property owners have nothing to do with the Israeli-Palestinian conflict?",
+  "questionType": "comprehension",
+  "options": [
+    "To suggest the arson may have been motivated by Middle East tensions, but the victims were uninvolved local residents",
+    "To announce that the property owners were foreign nationals from the Middle East",
+    "To confirm that the arson was definitely committed by supporters of one side in the conflict",
+    "To reveal that the investigation found evidence of international terrorist involvement"
+  ],
+  "correct": 0,
+  "explanation": "The mayor's clarification that the property owners 'n'ont rien à voir avec le conflit israélo-palestinien' - have nothing to do with the Israeli-Palestinian conflict - implies that the arson incident may have been perceived as or actually motivated by tensions related to that conflict. By emphasizing the victims are just 'des gens du quartier' (local people), the mayor is distancing them from any political motivations behind the attack.",
+  "difficulty": "C1",
+  "source": "French Political News - Marseille Incident",
+  "tags": [
+    "politics",
+    "social-tensions",
+    "middle-east-conflict",
+    "crime",
+    "marseille",
+    "antisemitism",
+    "islamophobia",
+    "political-statement"
+  ],
+  "timeCreated": 1735500536
+}

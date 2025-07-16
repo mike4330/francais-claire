@@ -1,0 +1,23 @@
+{
+  "id": 2686,
+  "audioText": "Mon chéri, cette décision sage et digne que nous continuons de soutenir depuis des années mérite qu'on la respecte, même si le soldat qui l'a racontée n'avait qu'une seconde pour s'exprimer lors de ce fameux rendez-vous.",
+  "question": "What kind of decision do we continue to support that deserves respect, even though the soldier who told it had only a second to express himself during the famous appointment?",
+  "questionType": "comprehension",
+  "options": [
+    "A wise and worthy decision",
+    "A quick and simple decision",
+    "A military and strategic decision",
+    "A personal and emotional decision"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon chéri, cette décision sage et digne que nous continuons de soutenir depuis des années mérite qu'on la respecte, même si le soldat qui l'a racontée n'avait qu'une seconde pour s'exprimer lors de ce fameux rendez-vous</em>' - My dear, this wise and worthy decision that we continue to support for years deserves to be respected, even if the soldier who told it had only a second to express himself during this famous appointment.",
+  "difficulty": "C1",
+  "source": "Relationship conversation",
+  "tags": [
+    "military",
+    "politics",
+    "appointment"
+  ],
+  "timeCreated": 1736806940,
+  "verified": "claude"
+}

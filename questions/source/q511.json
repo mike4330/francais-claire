@@ -1,0 +1,18 @@
+{
+  "id": 511,
+  "audioText": "Ce fil électrique est dangereux.",
+  "question": "What is dangerous?",
+  "questionType": "comprehension",
+  "options": [
+    "This electrical wire",
+    "This water pipe",
+    "This gas line",
+    "This telephone cable"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce fil électrique est dangereux</em>' - This electrical wire is dangerous. '<em>Fil</em>' means wire or thread.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["safety", "technology", "warning"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

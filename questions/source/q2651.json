@@ -1,0 +1,22 @@
+{
+  "id": 2651,
+  "audioText": "Certes, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Certes, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
+    "Certes, la situation économique est facile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.",
+    "Certes, la situation économique est difficile, mais nous devons abandonner notre optimisme et notre détermination face aux défis.",
+    "Bien sûr, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'certes' meaning 'certainly' or 'admittedly' to acknowledge the economic situation. The other options change 'difficile' to 'facile' (easy), 'maintenir' to 'abandonner' (abandon), or 'certes' to 'bien sûr' (of course).",
+  "difficulty": "C1",
+  "source": "Economic discourse",
+  "tags": [
+    "economics",
+    "challenges",
+    "optimism"
+  ],
+  "timeCreated": 1720077400
+}

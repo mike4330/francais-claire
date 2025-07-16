@@ -1,0 +1,22 @@
+{
+  "id": 2549,
+  "audioText": "Les résultats économiques sont encourageants cette année ; cependant, l'inflation demeure un défi majeur pour les autorités monétaires.",
+  "question": "What is the speaker's overall assessment of the economic situation?",
+  "questionType": "comprehension",
+  "options": [
+    "Positive results but with significant challenges remaining",
+    "Completely positive with no concerns",
+    "Entirely negative due to inflation",
+    "Mixed results with unclear future prospects"
+  ],
+  "correct": 0,
+  "explanation": "The adverb 'cependant' means 'however' or 'nevertheless', introducing a contrast. While economic results are encouraging, the speaker acknowledges that inflation remains a major challenge for monetary authorities, showing a balanced but cautiously optimistic view.",
+  "difficulty": "C2",
+  "source": "Economic analysis report",
+  "tags": [
+    "economics",
+    "finance",
+    "analysis"
+  ],
+  "timeCreated": 1720076580
+}

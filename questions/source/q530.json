@@ -1,0 +1,18 @@
+{
+    "id": 530,
+    "audioText": "Ce livre est trop épais pour moi",
+    "question": "What is the problem with the book?",
+    "questionType": "comprehension",
+    "options": [
+        "It is too thick",
+        "It is too expensive",
+        "It is too difficult",
+        "It is too boring"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce livre est trop épais pour moi</em>' - This book is too thick for me. 'Épais' means thick.",
+    "difficulty": "A2",
+    "source": "Book description",
+    "tags": ["education", "books", "size"],
+    "timeCreated": 1721069520
+}

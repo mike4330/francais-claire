@@ -1,0 +1,23 @@
+{
+  "id": 2676,
+  "audioText": "L'intelligence artificielle révolutionne progressivement les secteurs de la santé, de l'éducation et de la finance grâce à ses capacités d'analyse avancées.",
+  "question": "What is artificial intelligence gradually revolutionizing thanks to its advanced analytical capabilities?",
+  "questionType": "comprehension",
+  "options": [
+    "The healthcare, education, and finance sectors",
+    "Only the entertainment and gaming industries",
+    "Exclusively traditional manufacturing processes",
+    "Primarily agricultural and farming techniques"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'intelligence artificielle révolutionne progressivement les secteurs de la santé, de l'éducation et de la finance grâce à ses capacités d'analyse avancées</em>' - Artificial intelligence is gradually revolutionizing the healthcare, education, and finance sectors thanks to its advanced analytical capabilities. 'Révolutionne' means revolutionizes.",
+  "difficulty": "C1",
+  "source": "Artificial intelligence",
+  "tags": [
+    "technology",
+    "artificial-intelligence",
+    "innovation"
+  ],
+  "timeCreated": 1736806460,
+  "verified": "claude"
+}

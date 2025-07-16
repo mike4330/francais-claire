@@ -1,0 +1,19 @@
+{
+    "id": 518,
+    "audioText": "Il répond sèchement par-ci par-là selon ses rêves impossibles.",
+    "question": "Il répond sèchement par-ci par-là selon ses rêves impossibles.",
+    "questionType": "listening",
+    "options": [
+        "Dryly",
+        "Warmly",
+        "Softly",
+        "Clearly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il répond sèchement par-ci par-là selon ses rêves impossibles.</em>' - 'He responds dryly here and there according to his impossible dreams.' The adverbs 'sèchement' means dryly/curtly and 'par-ci par-là' means here and there. The adjective 'impossibles' means impossible. The distractors test confusion about the manner of response.",
+    "difficulty": "A2",
+    "source": "Strategic adverb targeting",
+    "tags": ["dreams", "communication", "alternatives"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 291
+}

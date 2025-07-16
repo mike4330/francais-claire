@@ -1,0 +1,22 @@
+{
+  "id": 2666,
+  "audioText": "L'entreprise a investi beaucoup d'argent dans le développement de nouvelles technologies vertes.",
+  "question": "What did the company invest a lot of money in?",
+  "questionType": "comprehension",
+  "options": [
+    "Traditional manufacturing",
+    "Green technology development",
+    "Office renovation",
+    "Staff training programs"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>L'entreprise a investi beaucoup d'argent dans le développement de nouvelles technologies vertes</em>' - The company invested a lot of money in developing new green technologies. The noun 'argent' means money in this business investment context.",
+  "difficulty": "B2",
+  "source": "Corporate investment and green technology",
+  "tags": [
+    "business",
+    "investment",
+    "clean-energy"
+  ],
+  "timeCreated": 1751776887
+}

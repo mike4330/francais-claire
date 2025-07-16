@@ -1,0 +1,23 @@
+{
+  "id": 2689,
+  "audioText": "Bref, cette pauvre terre aride et désolée ne pourra jamais soutenir une agriculture durable sans des investissements considérables en infrastructure hydraulique et en technologie d'irrigation avancée.",
+  "question": "What does the speaker conclude about the barren land?",
+  "questionType": "comprehension",
+  "options": [
+    "It cannot support sustainable agriculture without major investments",
+    "It is naturally perfect for all types of farming",
+    "It only needs minimal improvements to be productive",
+    "It should be abandoned completely as hopeless"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Bref, cette pauvre terre aride et désolée ne pourra jamais soutenir une agriculture durable sans des investissements considérables</em>' - In short, this poor arid and desolate land will never be able to support sustainable agriculture without considerable investments. 'Bref' means in short/briefly, 'pauvre' means poor/unfortunate, and 'terre' means land/earth.",
+  "difficulty": "C1",
+  "source": "Agricultural development and land management challenges",
+  "tags": [
+    "agriculture",
+    "environment",
+    "development",
+    "sustainability"
+  ],
+  "timeCreated": 1751812140
+}

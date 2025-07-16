@@ -1,0 +1,19 @@
+{
+    "id": 513,
+    "audioText": "La mère portera toujours son bébé avec une tendresse infinie pour le protéger des dangers du monde extérieur.",
+    "question": "La mère portera toujours son bébé avec une tendresse infinie pour le protéger des dangers du monde extérieur.",
+    "questionType": "listening",
+    "options": [
+        "With infinite tenderness",
+        "Using modern safety equipment and protective gear",
+        "Following pediatrician recommendations for development",
+        "With constant vigilance and careful attention"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La mère portera toujours son bébé avec une tendresse infinie pour le protéger des dangers du monde extérieur.</em>' - The mother will always carry her baby with infinite tenderness to protect him from the dangers of the outside world. 'Bébé' means baby, 'portera' is a form of 'porter' (to carry), and 'tendresse' means tenderness. The distractors test confusion about how the mother will carry her baby.",
+    "difficulty": "A2",
+    "source": "Strategic noun coverage development - maternal protection and care",
+    "tags": ["family", "children", "protection"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1581
+}

@@ -1,0 +1,18 @@
+{
+    "id": 528,
+    "audioText": "Elle est enceinte de trois mois",
+    "question": "What is her condition?",
+    "questionType": "comprehension",
+    "options": [
+        "She is three months pregnant",
+        "She is three months old",
+        "She has been sick for three months",
+        "She has been working for three months"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle est enceinte de trois mois</em>' - She is three months pregnant. 'Enceinte' means pregnant.",
+    "difficulty": "A2",
+    "source": "Personal information",
+    "tags": ["family", "pregnancy", "health"],
+    "timeCreated": 1721069400
+}

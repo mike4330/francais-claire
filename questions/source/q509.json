@@ -1,0 +1,18 @@
+{
+  "id": 509,
+  "audioText": "Une larme coule sur sa joue.",
+  "question": "What is running down her cheek?",
+  "questionType": "comprehension",
+  "options": [
+    "A tear",
+    "Water",
+    "Sweat",
+    "Rain"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Une larme coule sur sa joue</em>' - A tear is running down her cheek. '<em>Larme</em>' means tear.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["emotions", "body", "sadness"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

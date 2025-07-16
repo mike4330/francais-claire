@@ -1,0 +1,23 @@
+{
+  "id": 2673,
+  "audioText": "La préservation de la biodiversité nécessite une collaboration internationale étroite entre les scientifiques, les gouvernements et les organisations environnementales.",
+  "question": "What does biodiversity preservation require between scientists, governments, and environmental organizations?",
+  "questionType": "comprehension",
+  "options": [
+    "Close international collaboration",
+    "Complete independence from each other",
+    "Minimal communication and coordination",
+    "Exclusive focus on national interests only"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La préservation de la biodiversité nécessite une collaboration internationale étroite entre les scientifiques, les gouvernements et les organisations environnementales</em>' - Biodiversity preservation requires close international collaboration between scientists, governments, and environmental organizations. 'Nécessite' means requires or necessitates.",
+  "difficulty": "C1",
+  "source": "Environmental conservation",
+  "tags": [
+    "environment",
+    "conservation",
+    "international"
+  ],
+  "timeCreated": 1736806140,
+  "verified": "claude"
+}

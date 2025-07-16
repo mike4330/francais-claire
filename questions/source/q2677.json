@@ -1,0 +1,22 @@
+{
+  "id": 2677,
+  "audioText": "Présentement, cette pierre tomberait irrémédiablement dans l'oreille où nous emmènerai impunément la nourriture servie étonnamment lors de cette mission quand vous touchez dûment le fer par hasard.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Présentement, cette pierre tomberait irrémédiablement dans l'oreille où nous emmènerai impunément la nourriture servie étonnamment lors de cette mission quand vous touchez dûment le fer par hasard.",
+    "Présentement, cette pierre tomberaient irrémédiablement dans l'oreille où nous emmènerai impunément la nourriture servie étonnamment lors de cette mission quand vous touchez dûment le fer par hasard.",
+    "Présentement, cette pierre tomberait irrémédiablement dans l'oreille où nous emmènerons impunément la nourriture servie étonnamment lors de cette mission quand vous touchez dûment le fer par hasard.",
+    "Présentement, cette pierre tomberait irrémédiablement dans l'oreille où nous emmènerai impunément la nourriture servi étonnamment lors de cette mission quand vous touchez dûment le fer par hasard."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Présentement, cette pierre tomberait irrémédiablement dans l'oreille où nous emmènerai impunément la nourriture servie étonnamment lors de cette mission quand vous touchez dûment le fer par hasard</em>' - Presently, this stone would fall irreparably in the ear where we will take with impunity the food amazingly served during this mission when you duly touch the iron by chance. This tests complex adverb combinations and verb forms.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - présentement + pierre + tomberait + irrémédiablement + oreille + emmènerai + impunément + servie + étonnamment + mission + touchez + dûment + fer + hasard synergy + materials",
+  "tags": [
+    "materials",
+    "mission",
+    "food"
+  ],
+  "timeCreated": 1736806480
+}

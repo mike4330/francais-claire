@@ -1,0 +1,24 @@
+{
+  "id": 2500,
+  "type": "fill-in-the-blank",
+  "question": "_______-moi à porter ces sacs, s'il vous plaît.",
+  "audioText": "Aidez-moi à porter ces sacs, s'il vous plaît.",
+  "answer": "Aidez",
+  "hint": "Imperative form of 'aider'",
+  "level": "c",
+  "tags": [
+    "daily_life",
+    "request"
+  ],
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Aidez",
+    "Aider",
+    "Aide",
+    "Aidons"
+  ],
+  "correct": 0,
+  "explanation": "'Aidez' is the imperative form of 'aider' for 'vous', used for polite requests.",
+  "difficulty": "C1",
+  "source": "Gemini CLI"
+}

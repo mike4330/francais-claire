@@ -1,0 +1,23 @@
+{
+  "id": 2659,
+  "audioText": "Tu parleras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses domestiques.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Tu parleras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses domestiques.",
+    "Tu parleras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses personnelles.",
+    "Tu discuteras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses domestiques.",
+    "Tu parleras de ton budget familial avec ton conseiller financier pour optimiser tes dépenses domestiques."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'Tu parleras de ton budget ménager avec ton conseiller financier pour optimiser tes dépenses domestiques.' - You will talk about your household budget with your financial advisor to optimize your domestic expenses. Note 'parleras' vs 'discuteras', 'ménager' vs 'familial', and 'domestiques' vs 'personnelles'. 'Parleras' is the future form of 'parler' (to talk), second person singular.",
+  "difficulty": "C1",
+  "source": "Household budgeting and financial planning",
+  "tags": [
+    "household-budgeting",
+    "financial-planning",
+    "domestic-expenses",
+    "financial-advice"
+  ],
+  "timeCreated": 1735952820
+}

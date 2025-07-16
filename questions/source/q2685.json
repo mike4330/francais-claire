@@ -1,0 +1,23 @@
+{
+  "id": 2685,
+  "audioText": "Cette nouvelle politique économique transformera profondément les relations commerciales entre les pays européens au cours des prochaines décennies.",
+  "question": "Cette nouvelle politique économique transformera profondément les relations commerciales entre les pays européens au cours des prochaines ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "décennies",
+    "années",
+    "mois",
+    "semaines"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette nouvelle politique économique transformera profondément les relations commerciales entre les pays européens au cours des prochaines décennies</em>' - This new economic policy will profoundly transform commercial relations between European countries over the next decades. 'Décennies' means decades.",
+  "difficulty": "C2",
+  "source": "Economic policy",
+  "tags": [
+    "economics",
+    "politics",
+    "europe"
+  ],
+  "timeCreated": 1736806820,
+  "verified": "claude"
+}

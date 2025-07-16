@@ -1,0 +1,24 @@
+{
+  "id": 2704,
+  "audioText": "Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens. L'analyse stylistique révèle des influences clairement méditerranéennes dans les progressions d'accords, particulièrement dans les mouvements lents où la mélodie adopte des ornementations typiques de l'école napolitaine.",
+  "question": "What would a musicologist never believe about Bach's composition according to this analysis?",
+  "questionType": "comprehension",
+  "options": [
+    "That Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries",
+    "That Bach deliberately avoided Italian influences in his compositional style",
+    "That Bach was the first composer to use Mediterranean harmonic progressions",
+    "That Bach's slow movements were inferior to those of the Neapolitan school"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Un musicologue ne croirait jamais que Bach aurait pu composer cette œuvre sans connaître les innovations harmoniques de ses contemporains italiens' - A musicologist would never believe that Bach could have composed this work without knowing the harmonic innovations of his Italian contemporaries. The stylistic analysis reveals clear Mediterranean influences.",
+  "difficulty": "C1",
+  "source": "Academic Music History",
+  "tags": [
+    "music-history",
+    "bach",
+    "musicology",
+    "italian-influences",
+    "harmonic-analysis",
+    "academic-discourse"
+  ]
+}

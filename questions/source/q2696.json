@@ -1,0 +1,23 @@
+{
+  "id": 2696,
+  "audioText": "Sitôt que cette voix mélodieuse résonna dans l'amphithéâtre, un silence respectueux s'installa immédiatement parmi l'assistance captivée par cette performance extraordinaire.",
+  "question": "What happened as soon as the melodious voice resonated?",
+  "questionType": "comprehension",
+  "options": [
+    "Respectful silence immediately settled among the audience",
+    "Loud applause erupted throughout the amphitheater",
+    "People began talking excitedly to each other",
+    "The audience started leaving their seats"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sitôt que cette voix mélodieuse résonna dans l'amphithéâtre, un silence respectueux s'installa immédiatement</em>' - As soon as this melodious voice resonated in the amphitheater, respectful silence immediately settled. 'Sitôt que' means as soon as, and 'voix' means voice.",
+  "difficulty": "C1",
+  "source": "Musical performance and audience reaction",
+  "tags": [
+    "music",
+    "performance",
+    "audience",
+    "theater"
+  ],
+  "timeCreated": 1751813040
+}

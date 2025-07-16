@@ -1,0 +1,18 @@
+{
+    "id": 529,
+    "audioText": "Soudain, il devient très nerveux",
+    "question": "How does he become nervous?",
+    "questionType": "comprehension",
+    "options": [
+        "Suddenly",
+        "Slowly",
+        "Gradually",
+        "Eventually"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Soudain, il devient très nerveux</em>' - Suddenly, he becomes very nervous. 'Soudain' means suddenly and 'nerveux' means nervous.",
+    "difficulty": "A2",
+    "source": "Emotional change",
+    "tags": ["emotions", "sudden-change", "anxiety"],
+    "timeCreated": 1721069460
+}

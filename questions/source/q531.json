@@ -1,0 +1,18 @@
+{
+    "id": 531,
+    "audioText": "Il est très maigre maintenant",
+    "question": "How does he look now?",
+    "questionType": "comprehension",
+    "options": [
+        "Very thin",
+        "Very fat",
+        "Very tall",
+        "Very short"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il est très maigre maintenant</em>' - He is very thin now. 'Maigre' means thin or skinny.",
+    "difficulty": "A2",
+    "source": "Physical description",
+    "tags": ["appearance", "health", "weight"],
+    "timeCreated": 1721069580
+}

@@ -1,0 +1,18 @@
+{
+    "id": 523,
+    "audioText": "Il crie très fort",
+    "question": "What is he doing?",
+    "questionType": "comprehension",
+    "options": [
+        "Shouting loudly",
+        "Speaking quietly",
+        "Singing softly",
+        "Whispering"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il crie très fort</em>' - He is shouting very loudly. 'Crie' is from the verb 'crier' (to shout/cry).",
+    "difficulty": "A2",
+    "source": "Action description",
+    "tags": ["actions", "volume", "communication"],
+    "timeCreated": 1721068920
+}

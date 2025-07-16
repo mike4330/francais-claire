@@ -1,0 +1,19 @@
+{
+    "id": 517,
+    "audioText": "Papa arrive bientôt à la maison.",
+    "question": "Papa arrive bientôt à la maison.",
+    "questionType": "listening",
+    "options": [
+        "Soon",
+        "Now",
+        "Later tonight",
+        "Tomorrow"
+    ],
+    "correct": 0,
+    "explanation": "The adverb 'bientôt' means 'soon' or 'shortly'. It indicates that dad will arrive home in the near future, not immediately but within a short time. The distractors test confusion about the time of arrival.",
+    "difficulty": "A1",
+    "source": "Family conversation",
+    "tags": ["family", "home", "arrival"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 189
+}

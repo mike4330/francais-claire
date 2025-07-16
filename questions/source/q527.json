@@ -1,0 +1,19 @@
+{
+    "id": 527,
+    "audioText": "Présentement, nous plairez étonnamment au diable arrière.",
+    "question": "Présentement, nous plairez étonnamment au diable arrière.",
+    "questionType": "listening",
+    "options": [
+        "The devil behind",
+        "The government officials",
+        "The university professors", 
+        "The business executives"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Présentement, nous plairez étonnamment au diable arrière</em>' - Presently, we will amazingly please the devil behind. 'Présentement' means currently/presently and 'étonnamment' means amazingly/surprisingly. The distractors test confusion about who will be pleased.",
+    "difficulty": "A2",
+    "source": "Strategic targeting - présentement + plairez + étonnamment + diable + arrière synergy + supernatural",
+    "tags": ["supernatural", "time"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 442
+}

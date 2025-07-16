@@ -1,0 +1,18 @@
+{
+    "id": 522,
+    "audioText": "Mon arrivée est prévue à midi",
+    "question": "When is the arrival scheduled?",
+    "questionType": "comprehension",
+    "options": [
+        "At noon",
+        "At midnight",
+        "In the morning",
+        "In the evening"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon arrivée est prévue à midi</em>' - My arrival is scheduled at noon. 'Midi' means noon.",
+    "difficulty": "A2",
+    "source": "Schedule information",
+    "tags": ["travel", "time", "schedule"],
+    "timeCreated": 1721068860
+}

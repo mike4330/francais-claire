@@ -1,0 +1,23 @@
+{
+  "id": 2736,
+  "audioText": "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaire dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaire dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
+    "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaires dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
+    "L'analyse géostratégique contemporaine souligne l'importance croissante des alliances militaire dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la bipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes.",
+    "L'analyse géostratégique contemporaine souligne l'importance croissante des stratégies militaires dans la reconfiguration des équilibres de pouvoir géopolitiques mondiaux, particulièrement dans le contexte de la multipolarité émergente et des tensions hégémoniques entre puissances établies et ascendantes."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte contenait l'erreur d'accord 'militaire' (singulier) au lieu de 'militaires' (pluriel) pour s'accorder avec 'alliances' (pluriel). Cette question de niveau C2 teste l'écoute précise des erreurs grammaticales subtiles dans un contexte académique très spécialisé sur l'analyse géostratégique et les relations internationales.",
+  "difficulty": "C2",
+  "source": "Academic - Geostrategy and International Relations - Grammar Detection",
+  "tags": [
+    "geopolitics",
+    "international-relations",
+    "military-strategy",
+    "academic-discourse"
+  ],
+  "timeCreated": 1720027160
+}

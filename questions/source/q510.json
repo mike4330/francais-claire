@@ -1,0 +1,18 @@
+{
+  "id": 510,
+  "audioText": "Il porte un collier autour du cou.",
+  "question": "Where does he wear the necklace?",
+  "questionType": "comprehension",
+  "options": [
+    "Around his neck",
+    "On his wrist",
+    "On his finger",
+    "In his pocket"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il porte un collier autour du cou</em>' - He wears a necklace around his neck. '<em>Cou</em>' means neck.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["clothing", "body", "jewelry"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 521,
+    "audioText": "Ayez pitié de moi",
+    "question": "What is the person asking for?",
+    "questionType": "comprehension",
+    "options": [
+        "Pity",
+        "Money",
+        "Help",
+        "Time"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ayez pitié de moi</em>' - Have pity on me. The person is asking for compassion or mercy.",
+    "difficulty": "A2",
+    "source": "Basic request",
+    "tags": ["emotions", "request", "compassion"],
+    "timeCreated": 1721068800
+}

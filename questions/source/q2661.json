@@ -1,0 +1,23 @@
+{
+  "id": 2661,
+  "audioText": "Personne ne saurait prédire avec certitude l'évolution future du marché financier international.",
+  "question": "Personne ne ______ prédire avec certitude l'évolution future du marché financier international.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "saurait",
+    "pourrait",
+    "devrait",
+    "voudrait"
+  ],
+  "correct": 0,
+  "explanation": "The missing word is 'saurait'. The complete sentence is 'Personne ne saurait prédire avec certitude l'évolution future du marché financier international' - No one could predict with certainty the future evolution of the international financial market. 'Saurait' is the conditional form of 'savoir' (to know), expressing ability or possibility.",
+  "difficulty": "C1",
+  "source": "Financial market analysis and predictions",
+  "tags": [
+    "finance",
+    "market-analysis",
+    "predictions",
+    "economics"
+  ],
+  "timeCreated": 1735949280
+}

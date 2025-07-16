@@ -1,0 +1,18 @@
+{
+  "id": 508,
+  "audioText": "Cette feuille de papier est blanche.",
+  "question": "What color is the sheet of paper?",
+  "questionType": "comprehension",
+  "options": [
+    "White",
+    "Blue",
+    "Yellow",
+    "Green"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette feuille de papier est blanche</em>' - This sheet of paper is white. '<em>Feuille</em>' means sheet or leaf, and '<em>blanche</em>' means white.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["office", "colors", "materials"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

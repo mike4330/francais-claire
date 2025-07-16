@@ -1,0 +1,22 @@
+{
+  "id": 2665,
+  "audioText": "En cherchant directement dans la base de données, les ingénieurs ont identifié la cause des pannes régulières du tunnel ferroviaire.",
+  "question": "How did the engineers identify the cause of the railway tunnel problems?",
+  "questionType": "comprehension",
+  "options": [
+    "By searching indirectly through reports",
+    "By searching directly in the database",
+    "By asking other engineers",
+    "By conducting field inspections"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>En cherchant directement dans la base de données</em>' - By searching directly in the database. The present participle 'cherchant' means searching, and the adverb 'directement' emphasizes the direct approach to problem-solving.",
+  "difficulty": "C1",
+  "source": "Railway engineering and technical troubleshooting",
+  "tags": [
+    "technology",
+    "tunnel",
+    "engineering"
+  ],
+  "timeCreated": 1751776003
+}

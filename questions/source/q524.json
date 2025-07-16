@@ -1,0 +1,18 @@
+{
+    "id": 524,
+    "audioText": "Elle pousse un cri de joie",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Elle pousse un cri de joie",
+        "Elle pousse un cri de peur",
+        "Elle pousse un soupir de joie",
+        "Elle pousse un rire de joie"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is '<em>Elle pousse un cri de joie</em>' - She lets out a cry of joy. 'Cri' means cry or shout.",
+    "difficulty": "A2",
+    "source": "Emotional expression",
+    "tags": ["emotions", "joy", "expression"],
+    "timeCreated": 1721069220
+}

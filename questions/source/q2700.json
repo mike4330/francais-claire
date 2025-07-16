@@ -1,0 +1,23 @@
+{
+  "id": 2700,
+  "audioText": "Cette raison profonde et authentique explique proprement pourquoi les réformes institutionnelles n'ont jamais réussi à transformer fondamentalement le système établi.",
+  "question": "What does this deep reason properly explain?",
+  "questionType": "comprehension",
+  "options": [
+    "Why institutional reforms never succeeded in fundamentally transforming the system",
+    "Why all changes were immediately successful and effective",
+    "Why the established system required no modifications",
+    "Why reforms were unnecessary from the beginning"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette raison profonde et authentique explique proprement pourquoi les réformes institutionnelles n'ont jamais réussi à transformer fondamentalement le système</em>' - This deep and authentic reason properly explains why institutional reforms never succeeded in fundamentally transforming the system. 'Raison' means reason, 'proprement' means properly/correctly, and the text discusses systemic resistance to change.",
+  "difficulty": "C1",
+  "source": "Institutional reform failure analysis",
+  "tags": [
+    "institutions",
+    "reform",
+    "systems",
+    "analysis"
+  ],
+  "timeCreated": 1751813460
+}

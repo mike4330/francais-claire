@@ -1,0 +1,18 @@
+{
+  "id": 507,
+  "audioText": "Mes nouvelles chaussures sont très confortables.",
+  "question": "What are very comfortable?",
+  "questionType": "comprehension",
+  "options": [
+    "My new shoes",
+    "My new clothes",
+    "My new glasses",
+    "My new bag"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mes nouvelles chaussures sont très confortables</em>' - My new shoes are very comfortable. '<em>Chaussures</em>' means shoes.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["clothing", "comfort", "shopping"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}
