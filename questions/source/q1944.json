@@ -1,0 +1,18 @@
+{
+  "id": 1944,
+  "audioText": "Ce siècle a vu naître de nombreuses inventions importantes.",
+  "question": "What has this century seen?",
+  "questionType": "comprehension",
+  "options": [
+    "The birth of many important inventions",
+    "The end of all conflicts",
+    "The disappearance of technology",
+    "The decline of education"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce siècle a vu naître de nombreuses inventions importantes</em>' - This century has seen the birth of many important inventions. '<em>Siècle</em>' means century.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["history", "technology", "progress"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

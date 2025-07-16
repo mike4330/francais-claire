@@ -1,0 +1,18 @@
+{
+  "id": 1942,
+  "audioText": "Le salon de coiffure ferme à dix-huit heures.",
+  "question": "When does the hair salon close?",
+  "questionType": "comprehension",
+  "options": [
+    "At six o'clock",
+    "At seven o'clock",
+    "At eight o'clock",
+    "At nine o'clock"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le salon de coiffure ferme à dix-huit heures</em>' - The hair salon closes at eighteen o'clock (6 PM). '<em>Salon</em>' means salon and '<em>dix-huit heures</em>' means 6 PM in 24-hour format.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["business", "time", "services"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

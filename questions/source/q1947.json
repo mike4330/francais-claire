@@ -1,0 +1,19 @@
+{
+    "id": 1947,
+    "audioText": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
+    "question": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
+    "questionType": "listening",
+    "options": [
+        "Pull out the documents temporarily on purpose to analyze the situation",
+        "Push the documents away temporarily by accident to analyze the situation", 
+        "Keep the documents hidden temporarily on purpose to analyze the situation",
+        "Destroy the documents temporarily by mistake to analyze the situation"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Allez, tirons provisoirement ces documents exprès pour analyser la situation</em>' - Come on, let's temporarily pull out these documents on purpose to analyze the situation. 'Tirons' is the imperative 'let's pull', 'provisoirement' means temporarily, and 'exprès' means on purpose/deliberately. The distractors test confusion about the action and intent.",
+    "difficulty": "B1",
+    "source": "Strategic targeting: tirons + provisoirement + exprès",
+    "tags": ["documents", "analysis", "investigation"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1385
+}

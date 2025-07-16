@@ -1,0 +1,18 @@
+{
+  "id": 1945,
+  "audioText": "Il a perdu la clé de son appartement.",
+  "question": "What did he lose?",
+  "questionType": "comprehension",
+  "options": [
+    "The key to his apartment",
+    "The address of his apartment",
+    "The rent for his apartment", 
+    "The contract for his apartment"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a perdu la clé de son appartement</em>' - He lost the key to his apartment. '<em>Clé</em>' means key.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["home", "problem", "daily-life"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

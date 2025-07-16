@@ -1,0 +1,18 @@
+{
+  "id": 1940,
+  "audioText": "Cette situation devient un véritable enfer pour la famille.",
+  "question": "What is this situation becoming for the family?",
+  "questionType": "comprehension",
+  "options": [
+    "A real hell",
+    "A great opportunity",
+    "A simple challenge",
+    "A pleasant surprise"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette situation devient un véritable enfer pour la famille</em>' - This situation is becoming a real hell for the family. '<em>Enfer</em>' means hell.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["family", "difficulty", "emotions"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1941,
+  "audioText": "La balle rebondit contre le mur du gymnase.",
+  "question": "What bounces against the gym wall?",
+  "questionType": "comprehension",
+  "options": [
+    "The ball",
+    "The student",
+    "The equipment",
+    "The sound"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La balle rebondit contre le mur du gymnase</em>' - The ball bounces against the gym wall. '<em>Balle</em>' means ball.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["sports", "education", "recreation"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

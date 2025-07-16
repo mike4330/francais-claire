@@ -1,0 +1,18 @@
+{
+  "id": 1938,
+  "audioText": "Nous nous promenons le long de la côte méditerranéenne.",
+  "question": "Where are they walking?",
+  "questionType": "comprehension",
+  "options": [
+    "Along the Mediterranean coast",
+    "In the city center",
+    "Through the forest",
+    "Around the lake"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous nous promenons le long de la côte méditerranéenne</em>' - We are walking along the Mediterranean coast. '<em>Côte</em>' means coast or shore.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["travel", "geography", "recreation"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

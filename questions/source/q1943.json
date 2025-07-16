@@ -1,0 +1,18 @@
+{
+  "id": 1943,
+  "audioText": "J'ai mal à la gorge depuis ce matin.",
+  "question": "What hurts since this morning?",
+  "questionType": "comprehension",
+  "options": [
+    "My throat",
+    "My head",
+    "My stomach",
+    "My back"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai mal à la gorge depuis ce matin</em>' - My throat has been hurting since this morning. '<em>Gorge</em>' means throat.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["health", "body", "pain"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

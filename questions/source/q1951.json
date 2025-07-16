@@ -1,0 +1,24 @@
+{
+    "id": 1951,
+    "audioText": "Après quinze ans de mariage, ils ont redécouvert l'amour en voyageant ensemble à travers l'Europe.",
+    "question": "Après quinze ans de mariage, ils ont redécouvert l'amour en voyageant ensemble à travers l'Europe.",
+    "questionType": "listening",
+    "options": [
+        "Traveling together through Europe",
+        "Getting married again",
+        "Having children",
+        "Moving to a new house"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Après quinze ans de mariage, ils ont redécouvert l'amour en voyageant ensemble à travers l'Europe</em>' - After fifteen years of marriage, they rediscovered love by traveling together through Europe. The phrase 'redécouvert l'amour' means they rediscovered their love for each other. The distractors test confusion about what helped the couple.",
+    "difficulty": "B2",
+    "source": "Relationship Story",
+    "tags": [
+        "relationships",
+        "travel",
+        "marriage",
+        "romance"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 969
+}

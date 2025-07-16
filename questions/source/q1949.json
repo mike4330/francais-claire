@@ -1,0 +1,19 @@
+{
+    "id": 1949,
+    "audioText": "La foule aveugle posait des problèmes de mesure - impossible de compter avec précision dans cette masse.",
+    "question": "La foule aveugle posait des problèmes de mesure - impossible de compter avec précision dans cette masse.",
+    "questionType": "listening",
+    "options": [
+        "It was impossible to count accurately in the chaotic crowd",
+        "The crowd was too small to measure properly",
+        "The measuring equipment was broken in the crowd",
+        "The crowd was moving too fast to take measurements"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La foule aveugle posait des problèmes de mesure - impossible de compter avec précision dans cette masse</em>' - The blind crowd posed measurement problems - impossible to count accurately in this mass. The chaotic nature of the crowd made accurate counting impossible. The distractors test confusion about the measurement problem.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["measurement", "crowd", "accuracy"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1835
+}

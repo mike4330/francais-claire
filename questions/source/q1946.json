@@ -1,0 +1,23 @@
+{
+    "id": 1946,
+    "audioText": "Elle voudra sûrement participer au voyage scolaire en Normandie.",
+    "question": "Elle voudra sûrement participer au voyage scolaire en Normandie.",
+    "questionType": "listening",
+    "options": [
+        "She will surely want to participate in the school trip to Normandy",
+        "She will surely want to participate in the school trip to Brittany",
+        "She will surely want to organize the school trip to Normandy",
+        "She will surely want to cancel the school trip to Normandy"
+    ],
+    "correct": 0,
+    "explanation": "The speaker said 'Elle voudra sûrement participer au voyage scolaire en Normandie' - She will surely want to participate in the school trip to Normandy. 'Voudra' is the future tense of 'vouloir' (to want). The distractors test confusion about her intention.",
+    "difficulty": "B1",
+    "source": "School activities",
+    "tags": [
+        "education",
+        "travel",
+        "participation"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1886
+}

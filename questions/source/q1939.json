@@ -1,0 +1,18 @@
+{
+  "id": 1939,
+  "audioText": "Le sable fin de cette plage est parfait pour les enfants.",
+  "question": "What is perfect for children?",
+  "questionType": "comprehension",
+  "options": [
+    "The fine sand of this beach",
+    "The cold water",
+    "The high waves",
+    "The rocky shore"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le sable fin de cette plage est parfait pour les enfants</em>' - The fine sand of this beach is perfect for children. '<em>Sable</em>' means sand.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["beach", "family", "recreation"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}
