@@ -1,6 +1,6 @@
 {
     "id": 718,
-    "audioText": "Les experts pensent que cette nouvelle technologie peut-être révolutionnera complètement notre façon de travailler.",
+    "audioText": "Les experts pensent que cette nouvelle technologie révolutionnera peut-être complètement notre façon de travailler.",
     "question": "What do the experts think about the new technology?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "It may cause problems in the workplace"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Les experts pensent que cette nouvelle technologie peut-être révolutionnera complètement notre façon de travailler</em>' - The experts think that this new technology might completely revolutionize our way of working. The adverb 'peut-être' indicates uncertainty or possibility.",
+    "explanation": "The text states '<em>Les experts pensent que cette nouvelle technologie révolutionnera peut-être complètement notre façon de travailler</em>' - The experts think that this new technology might completely revolutionize our way of working. The adverb 'peut-être' indicates uncertainty or possibility.",
     "difficulty": "B2",
     "source": "Technology discussion",
     "tags": ["technology", "workplace", "future"],
-    "timeCreated": 1704412800
+    "timeCreated": 1704412800,
+    "verified": "claude"
 }

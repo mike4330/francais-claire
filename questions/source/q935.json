@@ -10,7 +10,7 @@
     "Votre analyse est très jusse et pertinente pour notre projet."
   ],
   "correct": 0,
-  "explanation": "The correct form is 'juste' (just/fair/accurate) - a high-frequency adjective missing from our coverage. Here it means 'accurate' or 'correct' in the context of an analysis.",
+  "explanation": "The correct form is 'juste' (just/fair/accurate). Here it means 'accurate' or 'correct' in the context of an analysis.",
   "difficulty": "B2",
   "source": "Professional feedback and evaluation",
   "tags": [
@@ -18,5 +18,6 @@
     "professional",
     "evaluation"
   ],
-  "timeCreated": 1704067200
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

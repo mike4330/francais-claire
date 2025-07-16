@@ -10,9 +10,10 @@
         "Les étudiants heureux plaisent beaucoup aux professeurs et obtiennent de meilleurs résultats académiques."
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques</em>' - Happy students please teachers more and achieve better academic results. 'Heureux' means 'happy' and 'plaisent' targets missing verb conjugate, combining adjective and verb synergy. The distractors test synonym confusion (scolaires, contents) and degree confusion (beaucoup).",
+    "explanation": "The correct answer is '<em>Les étudiants heureux plaisent davantage aux professeurs et obtiennent de meilleurs résultats académiques</em>' - Happy students please teachers more and achieve better academic results. 'Heureux' means 'happy' and 'plaisent' is the third person plural of 'plaire' (to please).",
     "difficulty": "B2",
     "source": "Academic success",
     "tags": ["students", "education", "happiness", "success"],
-    "timeCreated": 1736106600
+    "timeCreated": 1736106600,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "You should stop explaining rules to your daughter and focus on other educational aspects"
   ],
   "correct": 0,
-  "explanation": "The text states 'Tu prends trop de temps pour expliquer les règles à ta fille, mais c'est important pour son éducation' - You take too much time explaining rules to your daughter, but it's important for her education. 'Prends' is the second person singular form of 'prendre' (to take), showing this essential parenting conjugate.",
+  "explanation": "The text states '<em>Tu prends trop de temps pour expliquer les règles à ta fille, mais c'est important pour son éducation</em>' - You take too much time explaining rules to your daughter, but it's important for her education. 'Prends' is the second person singular form of 'prendre' (to take).",
   "difficulty": "B2",
   "source": "Parenting and Education Philosophy",
   "tags": [
@@ -21,5 +21,6 @@
     "parent-child-relationship",
     "patience"
   ],
-  "timeCreated": 1751217041
+  "timeCreated": 1751217041,
+  "verified": "claude"
 }

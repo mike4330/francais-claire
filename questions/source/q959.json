@@ -10,7 +10,7 @@
     "feraient"
   ],
   "correct": 0,
-  "explanation": "The future tense 'feront' (they will do/make) is used because the action will take place 'la semaine prochaine' (next week), indicating a future time.",
+  "explanation": "The text states '<em>Les entrepreneurs feront une présentation de leur projet innovant devant les investisseurs la semaine prochaine</em>' - The entrepreneurs will give a presentation of their innovative project to investors next week. The future tense 'feront' (they will do/make) is used because the action will take place 'la semaine prochaine' (next week).",
   "difficulty": "B2",
   "source": "Business presentation scheduling using future tense",
   "tags": [
@@ -20,5 +20,6 @@
     "future-time",
     "professional"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

@@ -10,16 +10,15 @@
     "Le journaliste a critiqué l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.' - The journalist announced the death of the former minister with respect, highlighting his important contributions to French environmental policy. This shows death in news context.",
+  "explanation": "The text states '<em>Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française</em>' - The journalist announced the death of the former minister with respect, highlighting his important contributions to French environmental policy.",
   "difficulty": "B2",
   "source": "Political News and Obituary",
   "tags": [
     "news",
     "politics",
     "journalism",
-    "obituary",
-    "environmental-policy",
-    "respect",
-    "public-figures"
-  ]
+    "obituary"
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

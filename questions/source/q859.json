@@ -10,9 +10,10 @@
         "uniformes"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Toutes les solutions pareilles qu'ils proposent ne conviennent guère aux besoins spécifiques du projet</em>' - All the similar solutions they propose hardly suit the specific needs of the project. 'Pareilles' means 'similar/alike' and 'guère' reinforces recently covered adverb, creating adjective-adverb synergy.",
+    "explanation": "The text states '<em>Toutes les solutions pareilles qu'ils proposent ne conviennent guère aux besoins spécifiques du projet</em>' - All the similar solutions they propose hardly suit the specific needs of the project. 'Pareilles' means 'similar/alike' and 'guère' means 'hardly/scarcely'.",
     "difficulty": "B2",
     "source": "Project planning",
     "tags": ["projects", "solutions", "specificity", "adequacy"],
-    "timeCreated": 1736106960
+    "timeCreated": 1736106960,
+    "verified": "claude"
 }

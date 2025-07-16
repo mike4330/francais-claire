@@ -10,9 +10,10 @@
         "marrante"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette histoire drôle que nous entendons souvent fait toujours rire aux éclats</em>' - This funny story that we often hear always makes us burst out laughing. 'Drôle' means 'funny' and 'entendons' targets missing verb conjugate, combining adjective and verb synergy with frequency theme.",
+    "explanation": "The text states '<em>Cette histoire drôle que nous entendons souvent fait toujours rire aux éclats</em>' - This funny story that we often hear always makes us burst out laughing. 'Drôle' means 'funny' and 'entendons' is the first person plural of 'entendre' (to hear).",
     "difficulty": "B1",
     "source": "Storytelling humor",
     "tags": ["humor", "frequency", "entertainment", "laughter"],
-    "timeCreated": 1736106720
+    "timeCreated": 1736106720,
+    "verified": "claude"
 }

@@ -1,16 +1,16 @@
 {
   "id": 78,
-  "audioText": "Demain, tu regarderas ma tête pour voir si j'ai bien dormi cette nuit.",
+  "audioText": "Demain, tu regarderas mon visage pour voir si j'ai bien dormi cette nuit.",
   "question": "What will the person look at tomorrow?",
   "questionType": "comprehension",
   "options": [
-    "The speaker's head to see if they slept well",
+    "The speaker's face to see if they slept well",
     "The weather outside the window",
     "A new television program together",
     "Some important homework assignments"
   ],
   "correct": 0,
-  "explanation": "The text says 'tu regarderas ma tête pour voir si j'ai bien dormi' - you will look at my head to see if I slept well. 'Regarderas' is the future tense of 'regarder' (to look), and 'tête' means head.",
+  "explanation": "The text states '<em>Demain, tu regarderas mon visage pour voir si j'ai bien dormi cette nuit</em>' - Tomorrow, you will look at my face to see if I slept well tonight. 'Regarderas' is the future tense of 'regarder' (to look), and 'visage' means face.",
   "difficulty": "A2",
   "source": "Morning Routine and Sleep",
   "tags": [
@@ -19,5 +19,6 @@
     "health",
     "daily-life"
   ],
-  "timeCreated": 1735500648
+  "timeCreated": 1735500648,
+  "verified": "claude"
 }
