@@ -13,12 +13,7 @@
   "explanation": "The text states '<em>La dissertation est enfin finie après trois semaines de recherches intensives.</em>' - The dissertation is finally finished after three weeks of intensive research. 'Finie' is the feminine past participle of 'finir' (to finish), agreeing with the feminine noun 'dissertation'. The distractors test gender agreement ('fini' - incorrect masculine) and synonym variations ('terminée', 'complétée').",
   "difficulty": "B2",
   "source": "Academic writing completion",
-  "tags": [
-    "education",
-    "writing",
-    "research",
-    "completion",
-    "academic"
-  ],
-  "timeCreated": 1736068200
+  "tags": ["education", "writing", "research"],
+  "timeCreated": 1736068200,
+  "verified": "claude"
 }

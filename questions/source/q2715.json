@@ -10,7 +10,7 @@
     "A complete commitment to their cause"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Il faut que tu essayes faiblement de rendre cette personne prête pour demain</em>' - You must weakly try to make this person ready for tomorrow. 'Essayes' is the subjunctive form of 'essayer' (to try), and 'faiblement' means 'weakly'. The distractors test confusion about the required effort.",
+  "explanation": "The text states '<em>Il faut que tu essayes faiblement de rendre cette personne prête pour demain</em>' - You must weakly try to make this person ready for tomorrow. 'Essayes' is the subjunctive form of 'essayer' (to try), 'faiblement' means 'weakly', and 'prête' means 'ready'.",
   "difficulty": "C2",
   "source": "Strategic conjugate + high-frequency adverb/adjective combination",
   "tags": [
@@ -19,5 +19,6 @@
     "future-plans"
   ],
   "timeCreated": 1720881353,
-  "parentQuestion": 2434
+  "parentQuestion": 2434,
+  "verified": "claude"
 }

@@ -10,9 +10,10 @@
         "Elle préfère plutôt travailler en équipe que de rester seule à la maison."
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Elle préfère plutôt travailler en équipe que de rester seule au bureau</em>' - She rather prefers to work as a team than to stay alone at the office. 'Plutôt' means 'rather' and expresses preference. The distractors test spelling confusion (plutôt), synonym confusion (groupe), and location confusion (maison).",
+    "explanation": "The text states '<em>Elle préfère plutôt travailler en équipe que de rester seule au bureau</em>' - She rather prefers to work as a team than to stay alone at the office. 'Plutôt' means 'rather' and expresses preference, 'en équipe' means as a team, and 'bureau' means office.",
     "difficulty": "B1",
     "source": "Work preference",
     "tags": ["workplace", "teamwork", "preference", "collaboration"],
-    "timeCreated": 1736105700
+    "timeCreated": 1736105700,
+    "verified": "claude"
 }

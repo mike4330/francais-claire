@@ -10,9 +10,10 @@
         "A celebration"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Une chose très étrange s'est passée</em>' - Something very strange happened. 'Chose' means thing or something, and here it refers to an unspecified strange event.",
+    "explanation": "The text states '<em>Une chose très étrange s'est passée hier soir dans notre quartier résidentiel, selon plusieurs témoins</em>' - Something very strange happened last night in our residential neighborhood, according to several witnesses. 'Chose' means thing or something, and here it refers to an unspecified strange event.",
     "difficulty": "B2",
     "source": "Neighborhood incidents and witness reports",
     "tags": ["community", "incidents", "mystery"],
-    "timeCreated": 1751785260
+    "timeCreated": 1751785260,
+    "verified": "claude"
 }

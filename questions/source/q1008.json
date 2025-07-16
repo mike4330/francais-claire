@@ -11,8 +11,9 @@
     ],
     "correct": 0,
     "explanation": "The text states '<em>Il reviendrait aisément chercher ses affaires en l'espace d'une minute si elle acceptait tristement de le laisser entrer une dernière fois.</em>' - 'He would easily come back to get his things within a minute if she sadly agreed to let him enter one last time.' The conditional 'reviendrait' expresses a hypothetical return, with adverbs 'aisément' and 'tristement' describing the manner of action and emotion.",
-    "difficulty": "B1",
+    "difficulty": "B2",
     "source": "Strategic verb conjugate targeting",
     "tags": ["relationships", "separation", "emotions"],
-    "timeCreated": 1720713600
+    "timeCreated": 1720713600,
+    "verified": "claude"
 }

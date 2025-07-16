@@ -10,7 +10,7 @@
     "Online reputation is easily changed and forgotten."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Quand tu partes là, dans l'immense toile du web, n'oublie pas que chaque action est sous l'œil vigilant des algorithmes. Ce n'est pas toujours un chemin blanc et sans embûches, car la culture internet, avec ses pièges et ses merveilles, exige une prudence constante. Ce qui est mis en ligne reste là pour toujours, façonnant ta réputation numérique.</em>' - 'When you leave there, into the immense web, don't forget that every action is under the vigilant eye of algorithms. It's not always a white and smooth path, because internet culture, with its traps and wonders, requires constant prudence. What is put online remains there forever, shaping your digital reputation.' The explanation highlights the permanence of online actions ('reste là pour toujours') and the need for constant vigilance ('exige une prudence constante'). The verb 'partes' is the second person singular subjunctive present of 'partir', used here in a subordinate clause expressing a condition or hypothesis. The adverb 'là' indicates location. The adjective 'blanc' is used metaphorically to describe an easy path. The noun 'œil' refers to the watchful eye of algorithms. The distractors test for misinterpretation of the text's warnings and advice regarding online behavior.",
+  "explanation": "The text states '<em>Quand tu partes là, dans l'immense toile du web, n'oublie pas que chaque action est sous l'œil vigilant des algorithmes. Ce n'est pas toujours un chemin blanc et sans embûches, car la culture internet, avec ses pièges et ses merveilles, exige une prudence constante. Ce qui est mis en ligne reste là pour toujours, façonnant ta réputation numérique.</em>' - When you go there, into the immense web, don't forget that every action is under the vigilant eye of algorithms. It's not always a smooth and obstacle-free path, because internet culture, with its traps and wonders, requires constant prudence. What is put online remains there forever, shaping your digital reputation. Key concepts include 'reste là pour toujours' (remains there forever) and 'exige une prudence constante' (requires constant vigilance).",
   "difficulty": "C1",
   "source": "Gemini CLI",
   "tags": [
@@ -18,5 +18,6 @@
     "technology",
     "digital-literacy"
   ],
-  "timeCreated": 1720176000
+  "timeCreated": 1720176000,
+  "verified": "claude"
 }

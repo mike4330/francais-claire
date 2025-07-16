@@ -10,9 +10,10 @@
         "silencieux"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Ces quartiers tranquilles attirent les familles qui cherchent un environnement paisible pour leurs enfants</em>' - These quiet neighborhoods attract families looking for a peaceful environment for their children. 'Tranquilles' means 'quiet/calm' and 'cherchent' targets missing verb conjugate, combining adjective and verb synergy.",
+    "explanation": "The text states '<em>Ces quartiers tranquilles attirent les familles qui cherchent un environnement paisible pour leurs enfants</em>' - These quiet neighborhoods attract families looking for a peaceful environment for their children. 'Tranquilles' means 'quiet/calm' and 'cherchent' is the present tense of 'chercher' (to look for).",
     "difficulty": "B1",
     "source": "Neighborhood choice",
     "tags": ["family", "housing", "environment", "peace"],
-    "timeCreated": 1736106780
+    "timeCreated": 1736106780,
+    "verified": "claude"
 }

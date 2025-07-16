@@ -10,14 +10,10 @@
     "He eats normally in the morning"
   ],
   "correct": 0,
-  "explanation": "The sentence states 'Il mange très peu le matin' - He eats very little in the morning. The word 'peu' means 'little' or 'few', and 'très peu' means 'very little'.",
+  "explanation": "The text states '<em>Il mange très peu le matin</em>' - He eats very little in the morning. The word 'peu' means 'little' or 'few', and 'très peu' means 'very little'.",
   "difficulty": "A2",
   "source": "Daily Habits",
-  "tags": [
-    "daily-life",
-    "food",
-    "habits",
-    "quantity"
-  ],
-  "timeCreated": 1751301366
+  "tags": ["daily-life", "food", "habits"],
+  "timeCreated": 1751301366,
+  "verified": "claude"
 }

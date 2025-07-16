@@ -10,7 +10,7 @@
         "Gradually that it evolves indoors, momentarily easily toward that predictable green zone, softly openly simply"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette analyse sociologique révèle imperceptiblement que la merde humaine se transforme au-dehors, définitivement maladroitement vers ce coin jaune incroyable, cruellement publiquement confusément.</em>' - This sociological analysis reveals imperceptibly that human waste transforms outside, definitively awkwardly toward that incredible yellow corner, cruelly publicly confusedly. 'Imperceptiblement' means imperceptibly or in a barely noticeable way. The distractors test confusion about the details of the transformation.",
+    "explanation": "The text states '<em>Cette analyse sociologique révèle imperceptiblement que la merde humaine se transforme au-dehors, définitivement maladroitement vers ce coin jaune incroyable, cruellement publiquement confusément.</em>' - This sociological analysis reveals imperceptibly that human waste transforms outside, definitively awkwardly toward that incredible yellow corner, cruelly publicly confusedly. 'Imperceptiblement' means imperceptibly, 'définitivement' means definitively, and 'maladroitement' means awkwardly.",
     "difficulty": "C1",
     "source": "Strategic vocabulary targeting",
     "tags": [
@@ -20,5 +20,6 @@
         "spatial"
     ],
     "timeCreated": 1720881353,
-    "parentQuestion": 2600
+    "parentQuestion": 2600,
+    "verified": "claude"
 }

@@ -13,6 +13,7 @@
     "explanation": "The text states '<em>Tu reviendras certainement à la bibliothèque quand tu découvriras toutes ses ressources spécialisées</em>' - You will certainly come back to the library when you discover all its specialized resources. 'Reviendras' is the future form of 'revenir' (to come back), targeting missing verb conjugate with library theme.",
     "difficulty": "B1",
     "source": "Library visit",
-    "tags": ["library", "returning", "discovery", "resources"],
-    "timeCreated": 1736105280
+    "tags": ["library", "education", "research"],
+    "timeCreated": 1736105280,
+    "verified": "claude"
 }

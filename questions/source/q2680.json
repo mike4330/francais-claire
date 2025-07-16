@@ -10,7 +10,7 @@
     "They believed it would greatly benefit the community."
   ],
   "correct": 1,
-  "explanation": "The text states '<em>Le gouvernement mit en place une nouvelle politique de dépenses publiques, mais de nombreux citoyens la trouvèrent complètement idiote, car elle semblait gaspiller l'argent des contribuables sans apporter de bénéfices tangibles à la communauté.</em>' - 'The government implemented a new public spending policy, but many citizens found it completely idiotic, as it seemed to waste taxpayers' money without bringing tangible benefits to the community.' The verb 'mit' is the third person singular past simple of 'mettre' (to put/implement). The adjective 'idiote' describes the policy as foolish or wasteful. The phrase 'dépenses publiques' refers to public spending. The distractors test for misinterpretation of the public's negative reaction.",
+  "explanation": "The text states '<em>Le gouvernement mit en place une nouvelle politique de dépenses publiques, mais de nombreux citoyens la trouvèrent complètement idiote, car elle semblait gaspiller l'argent des contribuables sans apporter de bénéfices tangibles à la communauté.</em>' - The government implemented a new public spending policy, but many citizens found it completely idiotic, as it seemed to waste taxpayers' money without bringing tangible benefits to the community. 'Mit' is the past simple of 'mettre' (to implement), 'gaspiller' means to waste, and 'contribuables' means taxpayers.",
   "difficulty": "C1",
   "source": "Gemini CLI",
   "tags": [
@@ -19,5 +19,6 @@
     "economy"
   ],
   "timeCreated": 1720881353,
-  "parentQuestion": 832
+  "parentQuestion": 832,
+  "verified": "claude"
 }

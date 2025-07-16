@@ -10,13 +10,10 @@
     "Every morning at nine o'clock."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Nous avions cours de français tous les matins à huit heures' - We had French class every morning at eight o'clock. 'Avions' is the imperfect tense of 'avoir' showing a repeated past action or routine.",
+  "explanation": "The text states '<em>Nous avions cours de français tous les matins à huit heures</em>' - We had French class every morning at eight o'clock. 'Avions' is the imperfect tense of 'avoir' showing a repeated past action or routine.",
   "difficulty": "A2",
   "source": "School Schedule",
-  "tags": [
-    "education",
-    "french-class",
-    "schedule",
-    "morning"
-  ]
+  "tags": ["education", "schedule", "daily-life"],
+  "timeCreated": 1720176000,
+  "verified": "claude"
 }

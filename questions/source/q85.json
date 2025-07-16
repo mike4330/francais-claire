@@ -10,12 +10,13 @@
     "Tu pensez souvent à ta famille ?"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Tu penses souvent à ta famille ?</em>' - Do you often think about your family? The correct form is 'tu penses' (you think), the second person singular present of 'penser'. The distractors test homophone confusion ('panses'), vocabulary substitution ('amis'), and verb agreement ('pensez').",
+  "explanation": "The text states '<em>Tu penses souvent à ta famille ?</em>' - Do you often think about your family? 'Penses' is the second person singular present tense of 'penser' (to think), and 'souvent' means often.",
   "difficulty": "A2",
   "source": "Daily conversation about family thoughts",
   "tags": [
     "family",
     "daily-life"
   ],
-  "timeCreated": 1704067200
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

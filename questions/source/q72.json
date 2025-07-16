@@ -10,14 +10,10 @@
     "He recently retired from his office job"
   ],
   "correct": 0,
-  "explanation": "The text states 'Mon père travaille dans un bureau depuis vingt ans et il aime beaucoup son métier' - My father works in an office for twenty years and he loves his job very much. 'Père' means father, and 'depuis' indicates duration.",
+  "explanation": "The text states '<em>Mon père travaille dans un bureau depuis vingt ans et il aime beaucoup son métier</em>' - My father works in an office for twenty years and he loves his job very much. 'Père' means father, and 'depuis' indicates duration.",
   "difficulty": "A2",
   "source": "Family Work Discussion",
-  "tags": [
-    "family",
-    "work",
-    "office",
-    "career",
-    "father"
-  ]
+  "tags": ["family", "work", "office"],
+  "timeCreated": 1720176000,
+  "verified": "claude"
 }

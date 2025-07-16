@@ -10,9 +10,10 @@
         "Playing games with friends"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Depuis son arrivée au bar, il ne cesse de parler de son combat personnel</em>' - Since his arrival at the bar, he hasn't stopped talking about his personal struggle. This combines 'arrivée', 'bar', 'cesse', and 'combat' with good synergy.",
+    "explanation": "The text states '<em>Depuis son arrivée au bar, il ne cesse de parler de son combat personnel</em>' - Since his arrival at the bar, he hasn't stopped talking about his personal struggle. 'Ne cesse de' means 'doesn't stop' and 'combat personnel' means 'personal struggle'.",
     "difficulty": "B1",
     "source": "Social interaction",
-    "tags": ["social-interaction", "conversation", "personal-struggle", "bar"],
-    "timeCreated": 1721069340
+    "tags": ["social-interaction", "conversation", "personal-issues"],
+    "timeCreated": 1721069340,
+    "verified": "claude"
 }

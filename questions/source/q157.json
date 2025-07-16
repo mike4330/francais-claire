@@ -10,7 +10,7 @@
     "La route était sombre et mystérieuse."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte utilisait 'sombre' (pas 'claire'), 'mystérieuse' (pas 'silencieuse'), et 'forêt' (pas 'route'). 'Sombre' signifie dark/gloomy.",
+  "explanation": "The text states '<em>La forêt était sombre et mystérieuse</em>' - The forest was dark and mysterious. The exact phrase used 'sombre' (not 'claire'), 'mystérieuse' (not 'silencieuse'), and 'forêt' (not 'route').",
   "difficulty": "A2",
   "source": "Nature Description",
   "tags": [
@@ -19,5 +19,6 @@
     "atmosphere",
     "description"
   ],
-  "timeCreated": 1720025960
+  "timeCreated": 1720025960,
+  "verified": "claude"
 }

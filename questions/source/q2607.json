@@ -10,7 +10,7 @@
     "Tu seras probablement satisfait du résultat quand nous aurons terminés ce projet ambitieux."
   ],
   "correct": 0,
-  "explanation": "The correct text is 'Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux.' The distractors test gender agreement of the adjective (satisfaite vs satisfait - assuming masculine), temporal concordance (avons vs aurons), and past participle agreement (terminés vs terminé).",
+  "explanation": "The text states '<em>Tu seras probablement satisfait du résultat quand nous aurons terminé ce projet ambitieux</em>' - You will probably be satisfied with the result when we have finished this ambitious project. 'Seras' is the future tense of 'être', 'aurons terminé' is the future perfect tense, and 'satisfait' agrees with the masculine form.",
   "difficulty": "C1",
   "source": "Future tense conjugation with être",
   "tags": [
@@ -19,5 +19,6 @@
     "future-planning"
   ],
   "parentQuestion": 2711,
-  "timeCreated": 1752116280
+  "timeCreated": 1752116280,
+  "verified": "claude"
 }

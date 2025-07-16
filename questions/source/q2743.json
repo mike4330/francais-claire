@@ -10,14 +10,15 @@
         "They establish new conservation programs for protecting wildlife habitats"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Ardemment, cette organisation retrouvent les documents quittés dans la forêt où les penalties ont été appliquées sauvagement contre les manifestants</em>' - Ardently, this organization recovers the documents left in the forest where penalties were savagely applied against protesters. This combines 'ardemment', 'retrouvent', 'quittés', 'forêt', 'penalties', and 'sauvagement'. The distractors test confusion about the organization's actions.",
+    "explanation": "The text states '<em>Ardemment, cette organisation retrouvent les documents quittés dans la forêt où les penalties ont été appliquées sauvagement contre les manifestants</em>' - Ardently, this organization recovers the documents left in the forest where penalties were savagely applied against protesters. 'Ardemment' means ardently/passionately, 'retrouvent' is from 'retrouver' (to find/recover), and 'sauvagement' means savagely.",
     "difficulty": "C1",
-    "source": "Strategic targeting - ardemment + retrouvent + quittés + forêt + penalties + sauvagement synergy + protest documentation",
+    "source": "Protest documentation",
     "tags": [
         "forest",
         "penalties",
         "protest-documentation"
     ],
     "timeCreated": 1720881353,
-    "parentQuestion": 2734
+    "parentQuestion": 2734,
+    "verified": "claude"
 }

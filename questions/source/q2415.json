@@ -10,7 +10,7 @@
     "She believes the younger generation is wasting their lives on screens."
   ],
   "correct": 1,
-  "explanation": "The text states '<em>Je mourrai probablement avant de comprendre pleinement ce qu'il y a dans cet écran lumineux qui captive vos yeux. Les jeunes semblent vivre dans un monde parallèle, une réalité virtuelle où les interactions humaines directes s'estompent. C'est un fossé générationnel que je ne parviens pas à franchir, une énigme pour mon vieil œil. Mais je reconnais que cela a ses avantages, même si je ne les perçois pas toujours.</em>' - 'I will probably die before fully understanding what is in that luminous screen that captivates your eyes. Young people seem to live in a parallel world, a virtual reality where direct human interactions fade away. It's a generational gap that I cannot cross, an enigma for my old eye. But I recognize that it has its advantages, even if I don't always perceive them.' The grandmother expresses a feeling of not fully understanding ('comprendre pleinement'), a sense of a 'fossé générationnel' (generational gap) she cannot cross, and calls it an 'énigme pour mon vieil œil' (enigma for my old eye), indicating bewilderment and being left behind. However, she also acknowledges 'cela a ses avantages' (it has its advantages), showing acceptance. The distractors test for misinterpretation of her nuanced feelings.",
+  "explanation": "The grandmother expresses complex feelings about technology and generational differences. Key phrases include 'fossé générationnel que je ne parviens pas à franchir' (generational gap I cannot cross), 'énigme pour mon vieil œil' (enigma for my old eye), showing bewilderment and being left behind. However, she also acknowledges 'cela a ses avantages' (it has its advantages), demonstrating acceptance despite not fully understanding.",
   "difficulty": "C2",
   "source": "Gemini CLI",
   "tags": [
@@ -19,5 +19,6 @@
     "family",
     "social-commentary"
   ],
-  "timeCreated": 1720176000
+  "timeCreated": 1720176000,
+  "verified": "claude"
 }

@@ -10,13 +10,14 @@
     "polices"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'policière'. La phrase complète est 'La nouvelle policière de notre quartier est très sympathique et aide toujours les habitants.' - The new (female) police officer in our neighborhood is very friendly and always helps the residents. Since the article is 'la' and the adjective is 'nouvelle' (feminine), the noun must also be feminine: 'policière'.",
+  "explanation": "The text states '<em>La nouvelle policière de notre quartier est très sympathique et aide toujours les habitants</em>' - The new (female) police officer in our neighborhood is very friendly and always helps the residents. Since the article is 'la' and the adjective is 'nouvelle' (feminine), the noun must also be feminine: 'policière'.",
   "difficulty": "A2",
   "source": "Neighborhood News",
   "tags": [
     "profession",
-    "grammar",
     "police",
     "community"
-  ]
+  ],
+  "timeCreated": 1720052340,
+  "verified": "claude"
 }
