@@ -1,0 +1,24 @@
+{
+  "id": 2057,
+  "audioText": "Il faut que j'entende cette nouvelle chanson de jazz avant le concert de demain.",
+  "question": "Il faut que j'______ cette nouvelle chanson de jazz avant le concert de demain.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "entende",
+    "écoute",
+    "entends",
+    "apprenne"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut que j'entende cette nouvelle chanson de jazz avant le concert de demain</em>' - I need to hear this new jazz song before tomorrow's concert. 'Entende' is the present subjunctive form of 'entendre' (to hear), used after 'il faut que'.",
+  "difficulty": "B2",
+  "source": "Jazz music and concerts",
+  "tags": [
+    "jazz",
+    "music",
+    "concerts",
+    "entertainment"
+  ],
+  "verified": "claude",
+  "timeCreated": 1735952220
+}

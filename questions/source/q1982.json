@@ -1,0 +1,21 @@
+{
+  "id": 1982,
+  "audioText": "J'ai besoin d'aide pour ce problème.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "J'ai besoin d'aide pour ce problème.",
+    "Je n'ai pas besoin d'aide pour ce problème.",
+    "J'ai besoin d'argent pour ce problème.",
+    "J'ai besoin de temps pour ce problème."
+  ],
+  "correct": 0,
+  "explanation": "The correct sentence is 'J'ai besoin d'aide pour ce problème.', which means 'I need help with this problem.'",
+  "difficulty": "B1",
+  "source": "Gemini-generated",
+  "tags": [
+    "requests",
+    "problem-solving"
+  ],
+  "timeCreated": 1720134000
+}

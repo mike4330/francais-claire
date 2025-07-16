@@ -1,0 +1,24 @@
+{
+  "id": 2050,
+  "audioText": "Après ce voyage en montagne, je laisserai mes chaussures de randonnée sécher dehors.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Après ce voyage en montagne, je laisserai mes chaussures de randonnée sécher dehors.",
+    "Après ce voyage en montagne, je laisserai mes chaussures de randonnée sécher dedans.",
+    "Après ce voyage en montagne, je laisserai mes chaussures de marche sécher dehors.",
+    "Après ce voyage en montagne, je laisserai mes bottes de randonnée sécher dehors."
+  ],
+  "correct": 0,
+  "explanation": "The audio states '<em>Après ce voyage en montagne, je laisserai mes chaussures de randonnée sécher dehors</em>' - After this mountain trip, I will let my hiking shoes dry outside. Note the key distinctions: 'randonnée' vs 'marche', 'chaussures' vs 'bottes', and 'dehors' vs 'dedans'. 'Laisserai' is the future form of 'laisser' (to let/leave).",
+  "difficulty": "B2",
+  "source": "Outdoor activities and hiking",
+  "tags": [
+    "hiking",
+    "outdoor-activities",
+    "mountain-travel",
+    "gear"
+  ],
+  "timeCreated": 1735951800,
+  "verified": "claude"
+}

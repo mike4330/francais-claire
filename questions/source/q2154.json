@@ -1,0 +1,18 @@
+{
+    "id": 2154,
+    "audioText": "Elle devient soudain jalouse quand elle voit cette femme enceinte si raisonnable",
+    "question": "When does she become jealous?",
+    "questionType": "comprehension",
+    "options": [
+        "Suddenly when she sees the reasonable pregnant woman",
+        "Gradually over several months of observation",
+        "Only during stressful situations",
+        "After hearing gossip about the woman"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle devient soudain jalouse quand elle voit cette femme enceinte si raisonnable</em>' - She suddenly becomes jealous when she sees this pregnant woman who is so reasonable. This combines 'soudain', 'jalouse', 'enceinte', and 'raisonnable'.",
+    "difficulty": "B1",
+    "source": "Social emotions",
+    "tags": ["emotions", "jealousy", "pregnancy", "social-interaction"],
+    "timeCreated": 1721069940
+}

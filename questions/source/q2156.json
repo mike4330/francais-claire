@@ -1,0 +1,24 @@
+{
+    "id": 2156,
+    "audioText": "Suivez les panneaux bleus pour arriver au parking des employés.",
+    "question": "Suivez les panneaux bleus pour arriver au parking des employés.",
+    "questionType": "listening",
+    "options": [
+        "The blue signs",
+        "The red signs",
+        "The yellow lines",
+        "The green arrows"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Suivez les panneaux bleus pour arriver au parking des employés</em>' - Follow the blue signs to reach the employee parking. 'Suivez' is the imperative form of 'suivre' (to follow), 'panneaux' means signs, and 'parking des employés' means employee parking.",
+    "difficulty": "B1",
+    "source": "Workplace Directions",
+    "tags": [
+        "work",
+        "directions",
+        "parking"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1336,
+    "verified": "claude"
+}

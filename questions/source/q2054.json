@@ -1,0 +1,23 @@
+{
+  "id": 2054,
+  "audioText": "Les photographes professionnels prennent souvent des centaines de photos pendant un mariage.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les photographes professionnels prennent souvent des centaines de photos pendant un mariage.",
+    "Les photographes professionnels prennent souvent des centaines de photos pendant une célébration.",
+    "Les photographes amateurs prennent souvent des centaines de photos pendant un mariage.",
+    "Les photographes professionnels prennent souvent des dizaines de photos pendant un mariage."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'Les photographes professionnels prennent souvent des centaines de photos pendant un mariage.' - Professional photographers often take hundreds of photos during a wedding. Note 'professionnels' vs 'amateurs', 'mariage' vs 'célébration', and 'centaines' vs 'dizaines'. 'Prennent' is the present form of 'prendre' (to take), third person plural.",
+  "difficulty": "B1",
+  "source": "Wedding photography and events",
+  "tags": [
+    "photography",
+    "weddings",
+    "events",
+    "celebrations"
+  ],
+  "timeCreated": 1735952040
+}

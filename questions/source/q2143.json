@@ -1,0 +1,19 @@
+{
+    "id": 2143,
+    "audioText": "Tu partais notamment vers cette chance importante hier.",
+    "question": "Tu partais notamment vers cette chance importante hier.",
+    "questionType": "listening",
+    "options": [
+        "Yesterday, specifically",
+        "Today, early morning",
+        "Tomorrow, definitely",
+        "Last week, probably"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu partais notamment vers cette chance importante hier</em>' - You were leaving specifically toward this important opportunity yesterday. 'Partais' is the imperfect form of 'partir' (to leave), and 'notamment' means 'notably/specifically'. The distractors test confusion about the time of departure.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate + high-frequency adverb/noun combination",
+    "tags": ["opportunity", "travel", "decision-making"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 983
+}

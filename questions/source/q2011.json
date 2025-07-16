@@ -1,0 +1,24 @@
+{
+  "id": 2011,
+  "audioText": "En venant au bureau ce matin, j'ai remarqué que les travaux de construction avaient considérablement progressé.",
+  "question": "When did the speaker notice the construction progress?",
+  "questionType": "comprehension",
+  "options": [
+    "While coming to the office this morning.",
+    "During lunch break yesterday.",
+    "On the way home last evening.",
+    "While leaving the office yesterday."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>En venant au bureau ce matin, j'ai remarqué que les travaux de construction avaient considérablement progressé</em>' - While coming to the office this morning, I noticed that the construction work had progressed considerably. The phrase 'en venant' indicates a simultaneous action.",
+  "difficulty": "B2",
+  "source": "Daily commute and urban development",
+  "tags": [
+    "commute",
+    "construction",
+    "urban-development",
+    "workplace"
+  ],
+  "timeCreated": 1735949400,
+  "verified": "claude"
+}

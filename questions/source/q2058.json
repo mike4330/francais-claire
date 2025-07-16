@@ -1,0 +1,23 @@
+{
+  "id": 2058,
+  "audioText": "Dans ce jeu vidéo, tu tues les monstres avec des sorts magiques puissants.",
+  "question": "What do you do to the monsters in this video game?",
+  "questionType": "comprehension",
+  "options": [
+    "Kill them with powerful magic spells.",
+    "Capture them with special nets.",
+    "Transform them into allies.",
+    "Hide from them in secret places."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Dans ce jeu vidéo, tu tues les monstres avec des sorts magiques puissants' - In this video game, you kill the monsters with powerful magic spells. 'Tues' is the present form of 'tuer' (to kill), second person singular.",
+  "difficulty": "A2",
+  "source": "Video games and fantasy",
+  "tags": [
+    "video-games",
+    "gaming",
+    "fantasy",
+    "entertainment"
+  ],
+  "timeCreated": 1735952280
+}

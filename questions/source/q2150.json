@@ -1,0 +1,18 @@
+{
+    "id": 2150,
+    "audioText": "Sa proposition semble raisonnable même si elle le rend nerveux et jaloux",
+    "question": "What can be said about his proposal?",
+    "questionType": "comprehension",
+    "options": [
+        "It seems reasonable despite making him nervous and jealous",
+        "It is unreasonable and makes everyone uncomfortable",
+        "It is perfect and makes everyone happy",
+        "It is confusing and needs clarification"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa proposition semble raisonnable même si elle le rend nerveux et jaloux</em>' - His proposal seems reasonable even though it makes him nervous and jealous. This combines 'raisonnable', 'nerveux', and 'jaloux'.",
+    "difficulty": "B1",
+    "source": "Emotional reasoning",
+    "tags": ["emotions", "proposals", "logic", "jealousy"],
+    "timeCreated": 1721069640
+}

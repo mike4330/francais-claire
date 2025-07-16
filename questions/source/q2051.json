@@ -1,0 +1,23 @@
+{
+  "id": 2051,
+  "audioText": "J'arriverai au théâtre vers 19h30 pour voir cette nouvelle pièce de comédie.",
+  "question": "When will the speaker arrive at the theater?",
+  "questionType": "comprehension",
+  "options": [
+    "Around 7:30 PM.",
+    "Around 8:00 PM.",
+    "Around 7:00 PM.",
+    "Around 8:30 PM."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'J'arriverai au théâtre vers 19h30 pour voir cette nouvelle pièce de comédie' - I will arrive at the theater around 7:30 PM to see this new comedy play. 'Arriverai' is the future form of 'arriver' (to arrive), first person singular. '19h30' is 7:30 PM in 24-hour format.",
+  "difficulty": "A2",
+  "source": "Theater and live performances",
+  "tags": [
+    "theater",
+    "comedy",
+    "entertainment",
+    "performances"
+  ],
+  "timeCreated": 1735951860
+}

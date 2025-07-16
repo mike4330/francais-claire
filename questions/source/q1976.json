@@ -1,0 +1,21 @@
+{
+  "id": 1976,
+  "audioText": "J'ai une chose importante à te dire.",
+  "question": "What does the speaker have to say?",
+  "questionType": "comprehension",
+  "options": [
+    "Something important.",
+    "Something trivial.",
+    "Nothing.",
+    "A secret."
+  ],
+  "correct": 0,
+  "explanation": "'Chose' means 'thing'. The sentence states the speaker has an important thing to say.",
+  "difficulty": "B1",
+  "source": "Gemini-generated",
+  "tags": [
+    "communication",
+    "importance"
+  ],
+  "timeCreated": 1720134000
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2015,
+  "audioText": "Nos collègues viendront certainement nous aider à terminer ce projet important avant la date limite.",
+  "question": "What will the colleagues do?",
+  "questionType": "comprehension",
+  "options": [
+    "Help finish the important project before the deadline.",
+    "Review the project specifications carefully.",
+    "Attend the project meeting tomorrow.",
+    "Provide feedback on the preliminary results."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Nos collègues viendront certainement nous aider à terminer ce projet important avant la date limite' - Our colleagues will certainly come to help us finish this important project before the deadline. 'Viendront' is the future form of 'venir' (to come).",
+  "difficulty": "B1",
+  "source": "Team collaboration and project deadlines",
+  "tags": [
+    "teamwork",
+    "collaboration",
+    "project-management",
+    "deadlines"
+  ],
+  "timeCreated": 1735949640
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2028,
+  "audioText": "J'aimerais que tu viennes avec nous à la conférence internationale sur l'innovation technologique.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "J'aimerais que tu viennes avec nous à la conférence internationale sur l'innovation technologique.",
+    "J'aimerais que tu viennes avec nous à la conférence internationale sur l'innovation scientifique.",
+    "J'aimerais que tu viennes avec nous à la conférence nationale sur l'innovation technologique.",
+    "J'aimerais que tu viens avec nous à la conférence internationale sur l'innovation technologique."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'J'aimerais que tu viennes avec nous à la conférence internationale sur l'innovation technologique.' - I would like you to come with us to the international conference on technological innovation. Note 'technologique' vs 'scientifique', 'internationale' vs 'nationale', and 'viennes' vs 'viens'. 'Viennes' is the subjunctive form of 'venir' (to come).",
+  "difficulty": "B2",
+  "source": "Professional conferences and networking",
+  "tags": [
+    "conferences",
+    "technology",
+    "networking",
+    "professional-development"
+  ],
+  "timeCreated": 1735950420
+}

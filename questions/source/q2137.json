@@ -1,0 +1,24 @@
+{
+    "id": 2137,
+    "audioText": "Pour être libre dans ce monde, il faut être craint. Pour être craint, il faut être puissant.",
+    "question": "Pour être libre dans ce monde, il faut être craint. Pour être craint, il faut être puissant.",
+    "questionType": "listening",
+    "options": [
+        "One must be feared, and to be feared, one must be powerful",
+        "One must be loved and respected by everyone",
+        "One must have many friends and allies",
+        "One must avoid all conflicts and remain neutral"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Pour être libre dans ce monde, il faut être craint. Pour être craint, il faut être puissant</em>' - To be free in this world, one must be feared. To be feared, one must be powerful. This expresses a philosophy linking freedom to power through fear. The distractors test confusion about the requirements for freedom.",
+    "difficulty": "B1",
+    "source": "Political philosophy discussion",
+    "tags": [
+        "politics",
+        "philosophy",
+        "power",
+        "society"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1725
+}

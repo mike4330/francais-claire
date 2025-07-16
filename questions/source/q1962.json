@@ -1,0 +1,22 @@
+{
+  "id": 1962,
+  "audioText": "Mon père est très fier de mes résultats universitaires exceptionnels cette année.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Mon père est très fier de mes résultats universitaires exceptionnels cette année.",
+    "Mon père est très content de mes résultats universitaires exceptionnels cette année.",
+    "Mon père est très fier de mes résultats scolaires exceptionnels cette année.",
+    "Mon père est très surpris de mes résultats universitaires exceptionnels cette année."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'fier' meaning 'proud'. My father is very proud of my exceptional university results this year. The other options change 'fier' to 'content' (happy), 'surpris' (surprised), or 'universitaires' to 'scolaires' (school).",
+  "difficulty": "B1",
+  "source": "Academic achievement",
+  "tags": [
+    "family",
+    "education",
+    "pride"
+  ],
+  "timeCreated": 1720077400
+}

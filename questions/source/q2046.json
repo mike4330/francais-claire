@@ -1,0 +1,23 @@
+{
+  "id": 2046,
+  "audioText": "Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine.",
+  "question": "What would the speaker like to see in this clothing store?",
+  "questionType": "comprehension",
+  "options": [
+    "A new urban fashion collection.",
+    "More affordable price tags.",
+    "Better customer service staff.",
+    "A wider selection of accessories."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine' - In this clothing store, I would really like to see a new urban fashion collection. 'Verrais' is the conditional form of 'voir' (to see), here expressing a desire or wish. The expression 'je verrais bien' means 'I would really like to see' or 'I could see'.",
+  "difficulty": "A2",
+  "source": "Fashion and clothing shopping",
+  "tags": [
+    "fashion",
+    "shopping",
+    "clothing",
+    "urban-style"
+  ],
+  "timeCreated": 1735951560
+}

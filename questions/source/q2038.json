@@ -1,0 +1,23 @@
+{
+  "id": 2038,
+  "audioText": "Mon grand-père ne comprendrait jamais pourquoi j'aime jouer aux jeux vidéo toute la soirée.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Mon grand-père ne comprendrait jamais pourquoi j'aime jouer aux jeux vidéo toute la soirée.",
+    "Mon grand-père ne comprendrait jamais pourquoi j'aime jouer aux jeux vidéo toute la journée.",
+    "Mon père ne comprendrait jamais pourquoi j'aime jouer aux jeux vidéo toute la soirée.",
+    "Mon grand-père ne comprenait jamais pourquoi j'aime jouer aux jeux vidéo toute la soirée."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'Mon grand-père ne comprendrait jamais pourquoi j'aime jouer aux jeux vidéo toute la soirée.' - My grandfather would never understand why I like playing video games all evening. Note 'grand-père' vs 'père', 'soirée' vs 'journée', and 'comprendrait' vs 'comprenait'. 'Comprendrait' is the conditional form of 'comprendre' (to understand).",
+  "difficulty": "A2",
+  "source": "Gaming and generational differences",
+  "tags": [
+    "gaming",
+    "family",
+    "generational-gap",
+    "entertainment"
+  ],
+  "timeCreated": 1735951080
+}

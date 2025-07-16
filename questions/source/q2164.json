@@ -1,0 +1,20 @@
+{
+    "id": 2164,
+    "audioText": "L'entrepreneur essaiera personnellement de développer une solution naturelle pour résoudre ce problème complexe du marché.",
+    "question": "L'entrepreneur essaiera personnellement de développer une solution naturelle pour résoudre ce problème complexe du marché.",
+    "questionType": "listening",
+    "options": [
+        "A natural solution",
+        "Advanced technological innovation using artificial intelligence",
+        "Strategic partnerships with established industry leaders",
+        "Comprehensive market analysis with consumer behavior studies"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'entrepreneur essaiera personnellement de développer une solution naturelle pour résoudre ce problème complexe du marché.</em>' - The entrepreneur will try personally to develop a natural solution to solve this complex market problem. 'Essaiera' is the future form of 'essayer' (to try), 'personnellement' means personally, and 'naturelle' means natural (feminine form agreeing with 'solution').",
+    "difficulty": "B2",
+    "source": "Strategic conjugate coverage development - entrepreneurial innovation",
+    "tags": ["business", "entrepreneurship", "innovation"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1574,
+    "verified": "claude"
+}

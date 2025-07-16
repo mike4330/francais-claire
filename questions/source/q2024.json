@@ -1,0 +1,24 @@
+{
+  "id": 2024,
+  "audioText": "Je sors rarement le soir en semaine à cause de mes responsabilités professionnelles.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Je sors rarement le soir en semaine à cause de mes responsabilités professionnelles.",
+    "Je sors rarement le soir en semaine à cause de mes obligations professionnelles.",
+    "Je sors peu le soir en semaine à cause de mes responsabilités professionnelles.",
+    "Je sors rarement le weekend à cause de mes responsabilités professionnelles."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'Je sors rarement le soir en semaine à cause de mes responsabilités professionnelles.' - I rarely go out in the evening on weekdays because of my professional responsibilities. Note 'rarement' vs 'peu', 'responsabilités' vs 'obligations', and 'en semaine' vs 'le weekend'. 'Sors' is the present form of 'sortir' (to go out), first person singular.",
+  "difficulty": "B1",
+  "source": "Work-life balance and social activities",
+  "tags": [
+    "work-life-balance",
+    "social-activities",
+    "routine",
+    "responsibilities"
+  ],
+  "timeCreated": 1735950180,
+  "verified": "claude"
+}

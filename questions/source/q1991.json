@@ -1,0 +1,23 @@
+{
+  "id": 1991,
+  "audioText": "Le ciel nocturne offrait un spectacle magnifique avec ses milliers d'étoiles brillantes.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Le ciel nocturne offrait un spectacle magnifique avec ses milliers d'étoiles brillantes.",
+    "Le ciel nocturne offrait un spectacle magnifique avec ses milliers d'étoiles scintillantes.",
+    "Le ciel matinal offrait un spectacle magnifique avec ses milliers d'étoiles brillantes.",
+    "Le ciel nocturne présentait un spectacle magnifique avec ses milliers d'étoiles brillantes."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Le ciel nocturne offrait un spectacle magnifique avec ses milliers d'étoiles brillantes.' - The night sky offered a magnificent spectacle with its thousands of bright stars. Note the distinction between 'offrait' (offered) vs 'présentait' (presented), 'brillantes' (bright) vs 'scintillantes' (twinkling), and 'nocturne' (night) vs 'matinal' (morning).",
+  "difficulty": "B1",
+  "source": "Night sky observation and astronomy",
+  "tags": [
+    "astronomy",
+    "nature",
+    "night",
+    "beauty"
+  ],
+  "timeCreated": 1735947720
+}

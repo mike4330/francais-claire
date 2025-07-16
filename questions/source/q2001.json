@@ -1,0 +1,23 @@
+{
+  "id": 2001,
+  "audioText": "Sans aucun doute, cette décision aura des conséquences importantes sur l'avenir de l'entreprise.",
+  "question": "Sans aucun ______, cette décision aura des conséquences importantes sur l'avenir de l'entreprise.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "doute",
+    "problème",
+    "retard",
+    "exception"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sans aucun doute, cette décision aura des conséquences importantes sur l'avenir de l'entreprise.</em>' - 'Without any doubt, this decision will have important consequences for the company's future.' The missing word is 'doute' (doubt). 'Sans aucun doute' is a common expression meaning 'without a doubt'.",
+  "difficulty": "B1",
+  "source": "Business decision-making and consequences",
+  "tags": [
+    "business",
+    "decision-making",
+    "consequences",
+    "certainty"
+  ],
+  "timeCreated": 1735948380
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1974,
+  "audioText": "Demain matin, je prendrai le train de 8h30 pour aller à Lyon. Je prendrai aussi quelques livres pour lire pendant le voyage.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Demain matin, je prendrai le train de 8h30 pour aller à Lyon. Je prendrai aussi quelques livres pour lire pendant le voyage.",
+    "Demain matin, je prendrais le train de 8h30 pour aller à Lyon. Je prendrai aussi quelques livres pour lire pendant le voyage.",
+    "Demain matin, je prendrai le train de 8h30 pour aller à Paris. Je prendrai aussi quelques livres pour lire pendant le voyage.",
+    "Demain matin, je prendrai le train de 8h30 pour aller à Lyon. Je prendrais aussi quelques livres pour lire pendant le voyage."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte était 'Demain matin, je prendrai le train de 8h30 pour aller à Lyon. Je prendrai aussi quelques livres pour lire pendant le voyage.' Les distracteurs modifient soit le temps du verbe (prendrai/prendrais), soit la destination (Lyon/Paris), testant l'écoute précise du futur simple.",
+  "difficulty": "B1",
+  "source": "Travel Plans",
+  "tags": [
+    "travel",
+    "trains",
+    "planning"
+  ]
+}

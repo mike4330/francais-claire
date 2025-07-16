@@ -1,0 +1,19 @@
+{
+    "id": 2157,
+    "audioText": "Vous oublierez rapidement vos soucis si vous cultivez un jardin parfait avec des fleurs merveilleux dans votre cour.",
+    "question": "Vous oublierez rapidement vos soucis si vous cultivez un jardin parfait avec des fleurs merveilleux dans votre cour.",
+    "questionType": "listening",
+    "options": [
+        "Your worries",
+        "Important deadlines and professional commitments",
+        "Family birthdays and special anniversary celebrations",
+        "Financial obligations and monthly bill payments"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous oublierez rapidement vos soucis si vous cultivez un jardin parfait avec des fleurs merveilleux dans votre cour.</em>' - You will quickly forget your worries if you cultivate a perfect garden with wonderful flowers in your yard. 'Oublierez' is the future form of 'oublier' (to forget), 'soucis' means worries, and 'rapidement' means quickly. The distractors test confusion about what will be forgotten.",
+    "difficulty": "B1",
+    "source": "Strategic conjugate coverage development - gardening therapy",
+    "tags": ["garden", "wellness", "stress-relief"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1576
+}

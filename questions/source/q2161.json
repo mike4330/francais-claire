@@ -1,0 +1,25 @@
+{
+    "id": 2161,
+    "audioText": "Pour organiser sa garde-robe, elle classe simplement ses vêtements par couleur et par saison.",
+    "question": "Pour organiser sa garde-robe, elle classe simplement ses vêtements par couleur et par saison.",
+    "questionType": "listening",
+    "options": [
+        "She simply sorts clothes by color and season.",
+        "She carefully arranges clothes by brand and price.",
+        "She quickly organizes clothes by size and fabric.",
+        "She systematically groups clothes by style and occasion."
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Pour organiser sa garde-robe, elle classe simplement ses vêtements par couleur et par saison</em>' - To organize her wardrobe, she simply sorts her clothes by color and season. 'Garde-robe' means wardrobe, 'classe' means sorts/organizes, and 'simplement' means simply.",
+    "difficulty": "B2",
+    "source": "Wardrobe organization and home management",
+    "tags": [
+        "home-organization",
+        "clothing",
+        "wardrobe",
+        "household-tasks"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 2082,
+    "verified": "claude"
+}

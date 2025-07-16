@@ -1,0 +1,19 @@
+{
+    "id": 2138,
+    "audioText": "Le médecin honnête m'a dit que cette douleur dans la poitrine nécessite des examens urgents.",
+    "question": "Le médecin honnête m'a dit que cette douleur dans la poitrine nécessite des examens urgents.",
+    "questionType": "listening",
+    "options": [
+        "Urgent tests are needed for the chest pain",
+        "The chest pain will go away with rest",
+        "Surgery is required immediately",
+        "The pain is not serious and can be ignored"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le médecin honnête m'a dit que cette douleur dans la poitrine nécessite des examens urgents</em>' - The honest doctor told me that this chest pain requires urgent tests. The doctor is recommending immediate medical examination. The distractors test confusion about the doctor's recommendation.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["health", "medical", "urgency"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1833
+}

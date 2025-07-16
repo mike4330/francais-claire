@@ -1,0 +1,22 @@
+{
+  "id": 1960,
+  "audioText": "Ma chéri, j'ai raconté cette histoire digne à ma mère en une seconde.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Ma chéri, j'ai raconté cette histoire digne à ma mère en une seconde.",
+    "Ma chérie, j'ai raconté cette histoire digne à ma mère en une seconde.",
+    "Ma chéri, j'ai raconté cette histoire digne à ma mère en un seconde.",
+    "Ma chéri, j'ai racontée cette histoire digne à ma mère en une seconde."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma chérie, j'ai raconté cette histoire digne à ma mère en une seconde</em>' - My dear, I told this worthy story to my mother in one second. This tests gender agreement - 'chérie' is feminine form. Also incorporates 'raconté', 'digne', and 'seconde'.",
+  "difficulty": "B2",
+  "source": "Strategic targeting - chérie + raconté + digne + seconde conversational family context",
+  "tags": [
+    "family",
+    "stories",
+    "time"
+  ],
+  "timeCreated": 1736806900
+}

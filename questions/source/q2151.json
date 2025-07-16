@@ -1,0 +1,18 @@
+{
+    "id": 2151,
+    "audioText": "Cette femme enceinte devient soudain jalouse de sa voisine plus maigre",
+    "question": "What happens to the pregnant woman?",
+    "questionType": "comprehension",
+    "options": [
+        "She suddenly becomes jealous of her thinner neighbor",
+        "She gradually becomes friends with her neighbor",
+        "She slowly gains weight like her neighbor",
+        "She immediately helps her sick neighbor"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette femme enceinte devient soudain jalouse de sa voisine plus maigre</em>' - This pregnant woman suddenly becomes jealous of her thinner neighbor. This combines 'enceinte', 'soudain', 'jalouse', and 'maigre'.",
+    "difficulty": "B1",
+    "source": "Social dynamics",
+    "tags": ["pregnancy", "jealousy", "neighbors", "emotions"],
+    "timeCreated": 1721069700
+}

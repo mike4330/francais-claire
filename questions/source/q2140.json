@@ -1,0 +1,19 @@
+{
+    "id": 2140,
+    "audioText": "L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation ridicule.",
+    "question": "L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation ridicule.",
+    "questionType": "listening",
+    "options": [
+        "Madly",
+        "Slowly",
+        "Gently",
+        "Quietly"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation ridicule.</em>' - The dangerous effect of this environment acts madly on the motionless doctor's mouth, creating a ridiculous situation. 'Follement' means madly/wildly, describing how the effect acts. The distractors test confusion about how the effect acts.",
+    "difficulty": "B2",
+    "source": "Strategic vocabulary targeting",
+    "tags": ["medical", "danger", "environment", "chaos"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1134
+}

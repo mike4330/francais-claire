@@ -1,0 +1,18 @@
+{
+    "id": 2152,
+    "audioText": "Il serait raisonnable d'utiliser du papier moins épais pour ce projet urgent",
+    "question": "What would be reasonable for this urgent project?",
+    "questionType": "comprehension",
+    "options": [
+        "Using thinner paper",
+        "Using more expensive materials",
+        "Delaying the project deadline",
+        "Hiring more workers"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il serait raisonnable d'utiliser du papier moins épais pour ce projet urgent</em>' - It would be reasonable to use thinner paper for this urgent project. This combines 'raisonnable' and 'épais'.",
+    "difficulty": "B2",
+    "source": "Project management",
+    "tags": ["workplace", "materials", "efficiency", "projects"],
+    "timeCreated": 1721069760
+}

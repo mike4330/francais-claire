@@ -1,0 +1,18 @@
+{
+    "id": 2153,
+    "audioText": "Le papier vierge épais permet une meilleure impression que le papier maigre",
+    "question": "What allows for better printing?",
+    "questionType": "comprehension",
+    "options": [
+        "Virgin thick paper compared to thin paper",
+        "Recycled paper compared to new paper",
+        "Colored paper compared to white paper",
+        "Glossy paper compared to matte paper"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le papier vierge épais permet une meilleure impression que le papier maigre</em>' - Virgin thick paper allows for better printing than thin paper. This combines 'vierge', 'épais', and 'maigre'.",
+    "difficulty": "B2",
+    "source": "Printing quality",
+    "tags": ["technology", "printing", "materials", "quality"],
+    "timeCreated": 1721069880
+}

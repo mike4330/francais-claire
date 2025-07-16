@@ -1,0 +1,23 @@
+{
+  "id": 2055,
+  "audioText": "Demain, je resterai à la maison pour finir mon projet d'art numérique.",
+  "question": "What will the speaker do tomorrow?",
+  "questionType": "comprehension",
+  "options": [
+    "Stay home to finish a digital art project.",
+    "Go out to buy art supplies.",
+    "Visit a digital art exhibition.",
+    "Take a digital art class."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Demain, je resterai à la maison pour finir mon projet d'art numérique' - Tomorrow, I will stay home to finish my digital art project. 'Resterai' is the future form of 'rester' (to stay/remain), first person singular.",
+  "difficulty": "A2",
+  "source": "Digital art and creative projects",
+  "tags": [
+    "digital-art",
+    "creative-projects",
+    "art",
+    "hobbies"
+  ],
+  "timeCreated": 1735952100
+}

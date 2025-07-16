@@ -1,0 +1,23 @@
+{
+  "id": 1970,
+  "audioText": "Météo France a placé treize départements en vigilance orange canicule pour le weekend. Les fortes chaleurs touchent le sud et l'est de la France avec des températures très élevées.",
+  "question": "What weather warning has Météo France issued?",
+  "questionType": "comprehension",
+  "options": [
+    "Orange alert for storms in northern France",
+    "Orange heat wave warning for thirteen departments",
+    "Red alert for flooding in the east",
+    "Yellow warning for high winds nationwide"
+  ],
+  "correct": 1,
+  "explanation": "Météo France 'a placé treize départements en vigilance orange canicule' - has placed thirteen departments under orange heat wave warning. The condensed version focuses on the essential information about the heat wave affecting southern and eastern France.",
+  "difficulty": "B1",
+  "source": "French Weather Alert - Condensed",
+  "tags": [
+    "weather",
+    "france",
+    "heat-wave",
+    "alert",
+    "departments"
+  ]
+}

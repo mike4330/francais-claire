@@ -1,0 +1,23 @@
+{
+  "id": 2030,
+  "audioText": "En suivant attentivement les recommandations du médecin, le patient a rapidement retrouvé sa santé.",
+  "question": "How did the patient quickly recover his health?",
+  "questionType": "comprehension",
+  "options": [
+    "By carefully following the doctor's recommendations.",
+    "By taking expensive medication regularly.",
+    "By resting in bed for several weeks.",
+    "By consulting multiple specialists frequently."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'En suivant attentivement les recommandations du médecin, le patient a rapidement retrouvé sa santé' - By carefully following the doctor's recommendations, the patient quickly recovered his health. 'Suivant' is the present participle of 'suivre' (to follow), used with 'en' to indicate simultaneous action.",
+  "difficulty": "B1",
+  "source": "Medical treatment and patient compliance",
+  "tags": [
+    "health",
+    "medical-treatment",
+    "patient-care",
+    "recovery"
+  ],
+  "timeCreated": 1735950540
+}

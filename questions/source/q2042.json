@@ -1,0 +1,23 @@
+{
+  "id": 2042,
+  "audioText": "Tous les participants au marathon venaient de différents pays pour cette compétition internationale.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Tous les participants au marathon venaient de différents pays pour cette compétition internationale.",
+    "Tous les participants au marathon venaient de différents pays pour cette compétition nationale.",
+    "Tous les coureurs au marathon venaient de différents pays pour cette compétition internationale.",
+    "Tous les participants au marathon arrivaient de différents pays pour cette compétition internationale."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was 'Tous les participants au marathon venaient de différents pays pour cette compétition internationale.' - All marathon participants came from different countries for this international competition. Note 'participants' vs 'coureurs', 'internationale' vs 'nationale', and 'venaient' vs 'arrivaient'. 'Venaient' is the imperfect form of 'venir' (to come).",
+  "difficulty": "B2",
+  "source": "International sports competitions",
+  "tags": [
+    "sports",
+    "marathon",
+    "international-competition",
+    "athletics"
+  ],
+  "timeCreated": 1735951320
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2034,
+  "audioText": "Ces sculptures que j'ai vues au musée m'ont profondément inspiré pour mon propre art.",
+  "question": "What did the speaker see at the museum?",
+  "questionType": "comprehension",
+  "options": [
+    "Sculptures that deeply inspired their own art.",
+    "Paintings from famous contemporary artists.",
+    "Ancient artifacts from different civilizations.",
+    "Photography exhibitions about nature."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces sculptures que j'ai vues au musée m'ont profondément inspiré pour mon propre art</em>' - These sculptures that I saw at the museum deeply inspired me for my own art. Note that 'vues' (past participle of 'voir') agrees with the feminine plural noun 'sculptures'.",
+  "difficulty": "B1",
+  "source": "Art appreciation and museums",
+  "tags": [
+    "art",
+    "museums",
+    "sculpture",
+    "inspiration"
+  ],
+  "timeCreated": 1735950780,
+  "verified": "claude"
+}

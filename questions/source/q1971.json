@@ -1,0 +1,22 @@
+{
+  "id": 1971,
+  "audioText": "Météo France a placé treize départements en vigilance orange canicule pour le weekend.",
+  "question": "Météo France a placé treize départements en vigilance ______ canicule pour le weekend.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "orange",
+    "rouge",
+    "jaune",
+    "verte"
+  ],
+  "correct": 0,
+  "explanation": "Le mot manquant est 'orange'. La phrase complète est 'Météo France a placé treize départements en vigilance orange canicule pour le weekend.' - Météo France has placed thirteen departments under orange heat wave warning for the weekend. Orange is the second-highest level of weather alert in France.",
+  "difficulty": "B1",
+  "source": "French Weather Alert - Fill-in-blank",
+  "tags": [
+    "weather",
+    "france",
+    "alert-levels",
+    "heat-wave"
+  ]
+}

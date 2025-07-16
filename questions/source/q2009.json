@@ -1,0 +1,24 @@
+{
+  "id": 2009,
+  "audioText": "En laissant ses affaires dans cette pièce, il montre pratiquement qu'il compte rester.",
+  "question": "What does leaving his things in this room practically show?",
+  "questionType": "comprehension",
+  "options": [
+    "That he plans to stay",
+    "That he forgot where he put them",
+    "That he doesn't trust the security",
+    "That he needs more storage space"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>En laissant ses affaires dans cette pièce, il montre pratiquement qu'il compte rester</em>' - By leaving his things in this room, he practically shows that he plans to stay.",
+  "difficulty": "B2",
+  "source": "Behavioral indication",
+  "tags": [
+    "rooms",
+    "behavior",
+    "intentions",
+    "belongings"
+  ],
+  "timeCreated": 1736103600,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 2141,
+    "audioText": "Il faudrait plus d'argent pour acheter cette belle voiture que nous voulons depuis des années.",
+    "question": "Qu'est-ce que vous avez entendu?",
+    "questionType": "listening",
+    "options": [
+        "Il faudrait plus d'argent pour acheter cette belle voiture que nous voulons depuis des années",
+        "Il faudrait plus d'argent pour acheter cette belle voiture que nous voulons depuis des ans",
+        "Il faudrait plus d'argent pour acheter cette belle voiture que nous voulons depuis des siècles",
+        "Il faudrait plus d'argent pour acheter cette belle voiture que nous voulons depuis des mois"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il faudrait plus d'argent pour acheter cette belle voiture que nous voulons depuis des années</em>' - It would be necessary to have more money to buy this beautiful car that we have wanted for years. 'Années' (years) is the correct time period mentioned in the audio.",
+    "difficulty": "B2",
+    "source": "Conditional mood practice with falloir",
+    "tags": ["purchases", "necessity", "desires"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 921
+}

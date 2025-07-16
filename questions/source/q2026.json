@@ -1,0 +1,23 @@
+{
+  "id": 2026,
+  "audioText": "Il est important que vous sachiez utiliser correctement ces nouveaux outils technologiques avancés.",
+  "question": "What is important?",
+  "questionType": "comprehension",
+  "options": [
+    "That you know how to use these advanced technological tools correctly.",
+    "That you understand the theoretical principles behind the technology.",
+    "That you purchase the most expensive equipment available.",
+    "That you attend specialized training courses regularly."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Il est important que vous sachiez utiliser correctement ces nouveaux outils technologiques avancés' - It is important that you know how to use these new advanced technological tools correctly. 'Sachiez' is the subjunctive form of 'savoir' (to know), second person plural.",
+  "difficulty": "C1",
+  "source": "Technology training and professional development",
+  "tags": [
+    "technology",
+    "training",
+    "professional-development",
+    "skills"
+  ],
+  "timeCreated": 1735950300
+}

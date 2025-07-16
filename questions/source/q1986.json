@@ -1,0 +1,23 @@
+{
+  "id": 1986,
+  "audioText": "Nous sommes tombés d'accord sur les termes du contrat.",
+  "question": "What was the outcome of their discussion?",
+  "questionType": "comprehension",
+  "options": [
+    "They agreed on the contract terms.",
+    "They disagreed on the contract terms.",
+    "They signed the contract.",
+    "They canceled the contract."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous sommes tombés d'accord sur les termes du contrat</em>' - We agreed on the contract terms. 'Tomber d'accord' is a French idiom meaning 'to come to an agreement' or 'to agree'. The past participle 'tombés' agrees with the subject 'nous' in the passé composé, and 'termes' means 'terms' or 'conditions'.",
+  "difficulty": "B2",
+  "source": "Gemini-generated",
+  "tags": [
+    "business",
+    "negotiations",
+    "agreement"
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
+}

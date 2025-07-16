@@ -1,0 +1,19 @@
+{
+    "id": 2139,
+    "audioText": "Clémence et Malik donnent des explications après leur séparation difficile suite à l'émission de télé-réalité. Le couple de cette saison a annoncé une rupture qui a provoqué de nombreuses réactions sur les réseaux sociaux.",
+    "question": "Clémence et Malik donnent des explications après leur séparation difficile suite à l'émission de télé-réalité. Le couple de cette saison a annoncé une rupture qui a provoqué de nombreuses réactions sur les réseaux sociaux.",
+    "questionType": "listening",
+    "options": [
+        "They got married and are planning their honeymoon",
+        "They explained their difficult separation and the public reaction",
+        "They announced they are staying together despite problems",
+        "They decided to participate in another reality show"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Clémence et Malik donnent des explications après leur séparation difficile suite à l'émission de télé-réalité</em>' - Clémence and Malik give explanations after their difficult separation following the reality TV show. The distractors test confusion about the couple's situation.",
+    "difficulty": "B2",
+    "source": "French Reality TV News",
+    "tags": ["reality-tv", "celebrity", "separation", "social-media", "entertainment"],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1096
+}

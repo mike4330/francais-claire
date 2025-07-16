@@ -1,0 +1,22 @@
+{
+  "id": 2495,
+  "audioText": "Il faut que tu ailles chercher les documents au bureau avant cinq heures.",
+  "question": "What does the person need to do before five o'clock?",
+  "questionType": "comprehension",
+  "options": [
+    "Go get the documents at the office.",
+    "Send the documents to the office.",
+    "Read the documents at the office.",
+    "Sign the documents at the office."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'ailles' - the subjunctive form of 'aller' (to go) for tu. 'Il faut que tu ailles' means 'you must go/it's necessary that you go'. The subjunctive is required after 'il faut que'.",
+  "difficulty": "C1",
+  "source": "Professional task instruction",
+  "tags": [
+    "workplace",
+    "urgency",
+    "administrative"
+  ],
+  "timeCreated": 1720108800
+}

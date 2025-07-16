@@ -1,0 +1,25 @@
+{
+    "id": 2165,
+    "audioText": "Il faut que tu aies plus de confiance en toi pour réussir dans cette nouvelle entreprise.",
+    "question": "Il faut que tu aies plus de confiance en toi pour réussir dans cette nouvelle entreprise.",
+    "questionType": "listening",
+    "options": [
+        "You need to have more confidence in yourself",
+        "You need to work harder than everyone else",
+        "You need to ask for help from colleagues",
+        "You need to change your working methods"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il faut que tu aies plus de confiance en toi pour réussir dans cette nouvelle entreprise</em>' - You need to have more confidence in yourself to succeed in this new business. 'Aies' is the subjunctive form of 'avoir' used after 'il faut que', and 'confiance en toi' means confidence in yourself.",
+    "difficulty": "B2",
+    "source": "Career Advice",
+    "tags": [
+        "confidence",
+        "career",
+        "success",
+        "advice"
+    ],
+    "timeCreated": 1720881353,
+    "parentQuestion": 1111,
+    "verified": "claude"
+}
