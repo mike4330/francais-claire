@@ -1,0 +1,18 @@
+{
+    "id": 1904,
+    "audioText": "Vous valez beaucoup plus que ce salaire vain proposé par cette entreprise incapable de reconnaître votre expérience invisible mais évidente.",
+    "question": "Vous valez beaucoup plus que ce salaire ______ proposé par cette entreprise.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "vain",
+        "vaine",
+        "vains",
+        "vaines"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous valez beaucoup plus que ce salaire vain proposé par cette entreprise incapable</em>' - You are worth much more than this vain salary offered by this company. 'Valez' is from 'valoir' (to be worth), and 'vain' (masculine) agrees with 'salaire' (masculine).",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["workplace", "business", "self-worth"],
+    "timeCreated": 1721049600
+}

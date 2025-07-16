@@ -1,0 +1,18 @@
+{
+    "id": 475,
+    "audioText": "Vous apportez toujours un cadeau invisible quand vous visitez cette famille américaine.",
+    "question": "What do you always bring when visiting the American family?",
+    "questionType": "comprehension",
+    "options": [
+        "An invisible gift",
+        "A bottle of wine",
+        "Fresh flowers",
+        "Homemade cookies"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous apportez toujours un cadeau invisible quand vous visitez cette famille américaine</em>' - You always bring an invisible gift when you visit this American family. 'Apportez' is the second person plural form of 'apporter'.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["gifts", "family", "visits"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

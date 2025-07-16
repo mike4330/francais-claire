@@ -1,0 +1,18 @@
+{
+    "id": 1912,
+    "audioText": "Ces étudiants battent aveuglément cette sculpture sacrée pendant qu'ils apprennent les langues étrangères.",
+    "question": "How do these students beat this sacred sculpture while learning foreign languages?",
+    "questionType": "comprehension",
+    "options": [
+        "Blindly",
+        "Carefully",
+        "Respectfully",
+        "Systematically"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces étudiants battent aveuglément cette sculpture sacrée pendant qu'ils apprennent les langues étrangères</em>' - These students blindly beat this sacred sculpture while learning foreign languages. 'Battent' (verb), 'aveuglément' (adverb), 'sacrée' (adjective), 'sculpture' (noun), 'langues' (topic) are all priority targets.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["sculpture", "languages", "education"],
+    "timeCreated": 1721049600
+}

@@ -10,9 +10,10 @@
         "surpris"
     ],
     "correct": 0,
-    "explanation": "The correct word is 'désolé' (sorry). The speaker is apologizing for being late to their appointment. 'Je suis désolé' means 'I am sorry.'",
+    "explanation": "The text states '<em>Je suis désolé d'être en retard à notre rendez-vous</em>' - I am sorry to be late to our appointment. The correct word is 'désolé' (sorry), used to apologize for being late.",
     "difficulty": "A2",
     "source": "Polite Apologies",
     "tags": ["politeness", "apology", "appointments", "daily-life"],
-    "timeCreated": 1719964100
+    "timeCreated": 1719964100,
+    "verified": "claude"
 }

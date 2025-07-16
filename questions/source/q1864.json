@@ -1,0 +1,18 @@
+{
+    "id": 1864,
+    "audioText": "Cette ancienne fumeuse s'est montrée très courageuse en arrêtant complètement de fumer après vingt ans de dépendance au tabac.",
+    "question": "How did this former smoker show courage?",
+    "questionType": "comprehension",
+    "options": [
+        "By completely stopping smoking after twenty years of tobacco addiction",
+        "By reducing the number of cigarettes gradually over time",
+        "By switching to electronic cigarettes as an alternative",
+        "By joining a support group for people with addictions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette ancienne fumeuse s'est montrée très courageuse en arrêtant complètement de fumer après vingt ans de dépendance au tabac</em>' - This former smoker showed great courage by completely stopping smoking after twenty years of tobacco addiction. 'Montrée' is the past participle of 'montrer' in the reflexive form 'se montrer'.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["smoking", "past-actions", "health"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

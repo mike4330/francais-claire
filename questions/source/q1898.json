@@ -1,0 +1,18 @@
+{
+    "id": 1898,
+    "audioText": "Son désir de liberté volera vers de nouveaux horizons quand elle quittera enfin ce travail monotone pour voyager autour du monde.",
+    "question": "What will happen to her desire for freedom when she leaves her monotonous job?",
+    "questionType": "comprehension",
+    "options": [
+        "It will fly toward new horizons as she travels around the world",
+        "It will diminish as she faces the realities of unemployment",
+        "It will transform into a desire for financial security",
+        "It will be replaced by homesickness and regret"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son désir de liberté volera vers de nouveaux horizons quand elle quittera enfin ce travail monotone pour voyager autour du monde</em>' - Her desire for freedom will fly toward new horizons when she finally leaves this monotonous job to travel around the world. 'Désir' means desire, and 'volera' is the future tense of 'voler' (to fly).",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["travel", "freedom", "career-change"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

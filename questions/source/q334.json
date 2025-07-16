@@ -1,18 +1,22 @@
 {
-    "id": 334,
-    "audioText": "Il fait très chaud dans cette voiture immobile où le couple amoureux attend.",
-    "question": "What is the weather like in the stationary car where the couple waits?",
-    "questionType": "comprehension",
-    "options": [
-        "Very hot",
-        "Very cold",
-        "Quite cool",
-        "Pleasantly warm"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Il fait très chaud dans cette voiture immobile où le couple amoureux attend</em>' - It is very hot in this stationary car where the couple in love waits. 'Chaud' means hot, 'immobile' means stationary/motionless, and 'amoureux' means in love.",
-    "difficulty": "A2",
-    "source": "Strategic adjective threshold boosting",
-    "tags": ["weather", "transportation", "romance"],
-    "timeCreated": 1752096700
+  "id": 334,
+  "audioText": "Il fait très chaud dans cette voiture.",
+  "question": "What is the temperature like in the car?",
+  "questionType": "comprehension",
+  "options": [
+    "Very hot",
+    "Very cold",
+    "Quite cool",
+    "Pleasantly warm"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il fait très chaud dans cette voiture</em>' - It is very hot in this car. '<em>Il fait chaud</em>' describes temperature conditions, and '<em>chaud</em>' means hot.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": [
+    "weather",
+    "transportation"
+  ],
+  "timeCreated": 1752096700,
+  "verified": "claude"
 }

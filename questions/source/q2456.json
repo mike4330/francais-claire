@@ -1,0 +1,26 @@
+{
+  "id": 2456,
+  "audioText": "Une couche de neige a recouvert une partie du désert d'Atacama au Chili ce 26 juin. Ce dernier situé au nord du Chili, est le plus aride au monde. Cet enneigement soudain est un phénomène qui n'avait pas été vu depuis dix ans selon le centre astronomique ALMA.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Une couche de neige a recouvert une partie du désert d'Atacama au Chili ce 26 juin.",
+    "Une couche de neige a recouvert une partie du désert d'Atacama au Chili ce 26 juillet.",
+    "Une couche de glace a recouvert une partie du désert d'Atacama au Chili ce 26 juin.",
+    "Une couche de neige a découvert une partie du désert d'Atacama au Chili ce 26 juin."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Une couche de neige a recouvert une partie du désert d'Atacama au Chili ce 26 juin. Ce dernier situé au nord du Chili, est le plus aride au monde. Cet enneigement soudain est un phénomène qui n'avait pas été vu depuis dix ans selon le centre astronomique ALMA.</em>' - 'A layer of snow covered part of Chile's Atacama Desert on June 26th. This desert located in northern Chile is the driest in the world. This sudden snowfall is a phenomenon that hadn't been seen for ten years according to the ALMA astronomical center.' This listening version tests auditory discrimination between 'juin' vs 'juillet', 'neige' vs 'glace', and 'recouvert' vs 'découvert'.",
+  "difficulty": "C1",
+  "source": "Listening version of q1368",
+  "tags": [
+    "weather",
+    "chile",
+    "desert",
+    "snow",
+    "climate",
+    "rare-events"
+  ],
+  "timeCreated": 1720713600,
+  "parentQuestion": 2328
+}

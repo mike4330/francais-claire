@@ -1,19 +1,24 @@
 {
-    "id": 380,
-    "audioText": "Demain, je jouerai avec mes pieds et ils essayent de me suivre.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
-    "options": [
-        "Demain, je jouerai avec mes pieds et ils essayent de me suivre",
-        "Demain, je jouerai avec mes mains et ils essayent de me suivre",
-        "Demain, je jouerai avec mes pieds et ils essaient de me suivre",
-        "Hier, je jouerai avec mes pieds et ils essayent de me suivre"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'Demain, je jouerai avec mes pieds et ils essayent de me suivre'. The complete text is '<em>Demain, je jouerai avec mes pieds et ils essayent de me suivre.</em>' - Tomorrow, I will play with my feet and they try to follow me.",
-    "difficulty": "A2",
-    "source": "Listening variant of comprehension question",
-    "tags": ["future", "play", "movement", "following"],
-    "parentQuestion": 311,
-    "timeCreated": 1720826640
+  "id": 380,
+  "audioText": "Demain, je jouerai au tennis avec mes amis.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Demain, je jouerai au tennis avec mes amis",
+    "Demain, je jouerai au tennis avec mes parents",
+    "Hier, je jouerai au tennis avec mes amis",
+    "Demain, je jouerai au football avec mes amis"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Demain, je jouerai au tennis avec mes amis'. The complete text is '<em>Demain, je jouerai au tennis avec mes amis.</em>' - Tomorrow, I will play tennis with my friends.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": [
+    "sports",
+    "friends",
+    "recreation"
+  ],
+  "parentQuestion": 311,
+  "timeCreated": 1720826640,
+  "verified": "claude"
 }

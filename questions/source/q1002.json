@@ -1,19 +1,22 @@
 {
-    "id": 1002,
-    "audioText": "C'est une actrice très connue dans le monde entier.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "C'est une actrice très connue dans le monde entier.",
-        "C'est une actrice très connu dans le monde entier.",
-        "C'est une artiste très connue dans le monde entier.",
-        "C'est une actrice très connue dans le monde moderne."
-    ],
-    "correct": 0,
-    "explanation": "The correct option maintains proper agreement: 'connue' (feminine with 'actrice'), not 'connu' (masculine). This listening exercise tests adjective agreement, precise vocabulary ('actrice' vs 'artiste'), and adverbial phrases ('entier' vs 'moderne').",
-    "difficulty": "B1",
-    "source": "Listening version of q526",
-    "tags": ["celebrity", "entertainment"],
-    "parentQuestion": 526,
-    "timeCreated": 1720713600
+  "id": 1002,
+  "audioText": "C'est une actrice très connue dans le monde entier.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "C'est une actrice très connue dans le monde entier.",
+    "C'est une actrice très connu dans le monde entier.",
+    "C'est une artiste très connue dans le monde entier.",
+    "C'est une actrice très connue dans le monde moderne."
+  ],
+  "correct": 0,
+  "explanation": "The correct option maintains proper agreement: 'connue' (feminine with 'actrice'), not 'connu' (masculine). This listening exercise tests adjective agreement, precise vocabulary ('actrice' vs 'artiste'), and adverbial phrases ('entier' vs 'moderne').",
+  "difficulty": "B1",
+  "source": "Listening version of q526",
+  "tags": [
+    "celebrity",
+    "entertainment"
+  ],
+  "parentQuestion": 1928,
+  "timeCreated": 1720713600
 }

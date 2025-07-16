@@ -1,0 +1,21 @@
+{
+  "id": 1918,
+  "audioText": "Je ne saurais pas quoi faire sans toi.",
+  "question": "Je ne ______ pas quoi faire sans toi.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "saurais",
+    "sais",
+    "savoir",
+    "su"
+  ],
+  "correct": 0,
+  "explanation": "The sentence expresses a hypothetical situation, which calls for the conditional tense. 'Saurais' is the first-person singular conditional of 'savoir'.",
+  "difficulty": "B2",
+  "source": "Gemini-generated",
+  "tags": [
+    "relationships",
+    "expressing-doubt"
+  ],
+  "timeCreated": 1720134000
+}

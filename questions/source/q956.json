@@ -10,7 +10,7 @@
     "Their bed was uncomfortable"
   ],
   "correct": 0,
-  "explanation": "The text states 'j'ai entendu des bruits étranges dans le jardin qui m'ont empêché de dormir paisiblement' - the strange noises in the garden prevented them from sleeping peacefully.",
+  "explanation": "The text states '<em>Cette nuit, j'ai entendu des bruits étranges dans le jardin qui m'ont empêché de dormir paisiblement</em>' - Last night, I heard strange noises in the garden that prevented me from sleeping peacefully.",
   "difficulty": "B1",
   "source": "Personal experience about sleep disturbance",
   "tags": [
@@ -20,5 +20,6 @@
     "disturbance",
     "home"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

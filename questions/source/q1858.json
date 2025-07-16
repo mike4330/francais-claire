@@ -1,0 +1,18 @@
+{
+    "id": 1858,
+    "audioText": "Cet étudiant malin posait des questions intelligentes sur la programmation informatique pendant le cours de technologie.",
+    "question": "What was the clever student doing during the technology class?",
+    "questionType": "comprehension",
+    "options": [
+        "Asking intelligent questions about computer programming",
+        "Working quietly on his personal laptop",
+        "Taking detailed notes about the lecture",
+        "Helping other students with their assignments"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cet étudiant malin posait des questions intelligentes sur la programmation informatique pendant le cours de technologie</em>' - This clever student was asking intelligent questions about computer programming during the technology class. 'Malin' means clever/smart, and 'posait' is the imperfect tense of 'poser'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["technology", "education", "programming"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

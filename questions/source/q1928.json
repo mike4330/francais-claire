@@ -1,0 +1,21 @@
+{
+  "id": 1928,
+  "audioText": "C'est une actrice très connue dans le monde entier.",
+  "question": "What is the profession of the person mentioned?",
+  "questionType": "comprehension",
+  "options": [
+    "Singer",
+    "Dancer",
+    "Actress",
+    "Writer"
+  ],
+  "correct": 2,
+  "explanation": "The sentence explicitly states 'actrice', which means actress.",
+  "difficulty": "B1",
+  "source": "Gemini-generated",
+  "tags": [
+    "celebrity",
+    "entertainment"
+  ],
+  "timeCreated": 1720134000
+}

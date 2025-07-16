@@ -1,0 +1,23 @@
+{
+  "id": 2414,
+  "audioText": "Les citoyens qui seront appelés à témoigner devront révéler comment la taxation excessive a nui à leurs relations professionnelles et personnelles.",
+  "question": "Les citoyens qui seront ______ à témoigner devront révéler comment la taxation excessive a nui à leurs relations professionnelles et personnelles.",
+  "questionType": "FIB-reading",
+  "options": [
+    "appelés",
+    "convoqués",
+    "invités",
+    "sollicités"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les citoyens qui seront appelés à témoigner devront révéler comment la taxation excessive a nui à leurs relations professionnelles et personnelles</em>' - The citizens who will be called to testify will have to reveal how excessive taxation has harmed their professional and personal relationships. 'Appelés' is the past participle of 'appeler' (to call), targeting missing verb conjugate with taxation/professional-relationships themes.",
+  "difficulty": "C1",
+  "source": "Legal testimony",
+  "tags": [
+    "taxation",
+    "professional-relationships",
+    "legal",
+    "testimony"
+  ],
+  "timeCreated": 1736105580
+}

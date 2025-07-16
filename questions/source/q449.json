@@ -1,7 +1,7 @@
 {
   "id": 449,
-  "audioText": "La dent descend dessous la larme.",
-  "question": "La dent ______ dessous la larme.",
+  "audioText": "L'ascenseur descend au premier étage.",
+  "question": "L'ascenseur ______ au premier étage.",
   "questionType": "fill-in-the-blank",
   "options": [
     "descend",
@@ -10,14 +10,14 @@
     "descendons"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>La dent descend dessous la larme</em>' - The tooth descends below the tear. 'Descend' is the third person singular present form of 'descendre' (to descend). This combines 'dent' (tooth), 'descend' (descends), 'dessous' (below), and 'larme' (tear).",
+  "explanation": "The text states '<em>L'ascenseur descend au premier étage</em>' - The elevator goes down to the first floor. '<em>Descend</em>' is the third person singular present form of '<em>descendre</em>' (to go down/descend).",
   "difficulty": "A2",
-  "source": "Anatomical description",
+  "source": "claude",
   "tags": [
-    "anatomy",
-    "health",
-    "description",
-    "body"
+    "building",
+    "transportation",
+    "everyday-situation"
   ],
-  "timeCreated": 1736784360
+  "timeCreated": 1736784360,
+  "verified": "claude"
 }

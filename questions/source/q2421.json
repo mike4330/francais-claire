@@ -1,0 +1,26 @@
+{
+  "id": 2421,
+  "audioText": "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.",
+  "ssml": "<speak>Ce don agace certains internautes qui reprennent l'expression <break time=\"250ms\"/>«C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</speak>",
+  "question": "What does the internet expression «C'est Nicolas qui paie» represent in this context?",
+  "questionType": "comprehension",
+  "options": [
+    "A popular phrase used to designate taxpayers who pay for all public expenses through their taxes",
+    "A charitable donation campaign organized by someone named Nicolas",
+    "A criticism of a specific politician named Nicolas who overspends public money",
+    "An internet meme about online payment systems and digital transactions"
+  ],
+  "correct": 0,
+  "explanation": "The text explains that internet users use the expression «C'est Nicolas qui paie» 'pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics' - to designate taxpayers who pay, through their taxes, all public expenses. The expression is used ironically to criticize the burden on taxpayers for funding government spending.",
+  "difficulty": "C1",
+  "source": "French Political Media Commentary",
+  "tags": [
+    "politics",
+    "taxation",
+    "internet-culture",
+    "public-spending",
+    "social-commentary",
+    "media"
+  ],
+  "timeCreated": 1735496889
+}

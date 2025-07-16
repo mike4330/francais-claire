@@ -10,7 +10,7 @@
     "Their son was having behavioral problems during class"
   ],
   "correct": 0,
-  "explanation": "During the parent-teacher meeting ('réunion parent-professeur'), the teacher explained that 'leur fils avait des difficultés en mathématiques mais excellait en français et en art' - their son had difficulties in mathematics but excelled in French and art. This shows typical school-parent communication about academic performance.",
+  "explanation": "The text states '<em>Pendant la réunion parent-professeur, l'enseignante a expliqué que leur fils avait des difficultés en mathématiques mais excellait en français et en art</em>' - During the parent-teacher meeting, the teacher explained that their son had difficulties in mathematics but excelled in French and art.",
   "difficulty": "B1",
   "source": "School-Parent Communication",
   "tags": [
@@ -21,5 +21,6 @@
     "parenting",
     "child-development"
   ],
-  "timeCreated": 1751331461
+  "timeCreated": 1751331461,
+  "verified": "claude"
 }

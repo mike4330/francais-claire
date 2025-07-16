@@ -1,0 +1,18 @@
+{
+    "id": 480,
+    "audioText": "Tu décides d'annuler ton rendez-vous car tu es trop occupé aujourd'hui.",
+    "question": "Why do you decide to cancel your appointment?",
+    "questionType": "comprehension",
+    "options": [
+        "Because you are too busy today",
+        "Because you forgot about it",
+        "Because you are feeling sick",
+        "Because the weather is bad"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu décides d'annuler ton rendez-vous car tu es trop occupé aujourd'hui</em>' - You decide to cancel your appointment because you are too busy today. 'Décides' is the second person singular of 'décider', and 'rendez-vous' means appointment.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["busy", "appointments", "time-management"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

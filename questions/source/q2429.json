@@ -1,0 +1,22 @@
+{
+  "id": 2429,
+  "audioText": "Le gouvernement déclare que dorénavant, les citoyens pourront vivre de manière plus tranquille grâce aux nouvelles réformes économiques et sociales mises en place.",
+  "question": "When will citizens be able to live more peacefully?",
+  "questionType": "comprehension",
+  "options": [
+    "From now on",
+    "In the past",
+    "Sometimes",
+    "Never"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le gouvernement déclare que dorénavant, les citoyens pourront vivre de manière plus tranquille grâce aux nouvelles réformes économiques et sociales mises en place</em>' - The government declares that from now on, citizens will be able to live more peacefully thanks to the new economic and social reforms put in place. 'Dorénavant' means 'from now on' or 'henceforth', indicating a future time period starting now.",
+  "difficulty": "C1",
+  "source": "Strategic vocabulary targeting for 'dorénavant'",
+  "tags": [
+    "politics",
+    "government",
+    "reform"
+  ],
+  "timeCreated": 1751853190
+}

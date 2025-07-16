@@ -1,18 +1,18 @@
 {
-    "id": 506,
-    "audioText": "Elle voudra sûrement participer au voyage scolaire en Normandie.",
-    "question": "What will she probably want to do?",
-    "questionType": "comprehension",
-    "options": [
-        "She will surely want to participate in the school trip to Normandy",
-        "She will surely want to participate in the school trip to Brittany",
-        "She will surely want to organize the school trip to Normandy",
-        "She will surely want to cancel the school trip to Normandy"
-    ],
-    "correct": 0,
-    "explanation": "The speaker said 'Elle voudra sûrement participer au voyage scolaire en Normandie' - She will surely want to participate in the school trip to Normandy. 'Voudra' is the future tense of 'vouloir' (to want).",
-    "difficulty": "B1",
-    "source": "School activities",
-    "tags": ["education", "travel", "participation"],
-    "timeCreated": 1720077400
+  "id": 506,
+  "audioText": "Pour faire un gâteau, il faut de la farine.",
+  "question": "What do you need to make a cake?",
+  "questionType": "comprehension",
+  "options": [
+    "Flour",
+    "Sugar only",
+    "Milk only",
+    "Salt"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Pour faire un gâteau, il faut de la farine</em>' - To make a cake, you need flour. '<em>Farine</em>' means flour.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["cooking", "baking", "ingredients"],
+  "timeCreated": "2025-07-16T00:00:00Z"
 }

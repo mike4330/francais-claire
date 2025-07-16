@@ -1,0 +1,22 @@
+{
+  "id": 2427,
+  "audioText": "Je doute qu'ils puissent terminer ce projet dans les délais impartis.",
+  "question": "What does the speaker doubt?",
+  "questionType": "comprehension",
+  "options": [
+    "That they can finish this project within the given timeframe.",
+    "That they want to finish this project within the given timeframe.",
+    "That they will finish this project before the given timeframe.",
+    "That they should finish this project after the given timeframe."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'puissent' - the subjunctive form of 'pouvoir' for ils/elles. 'Je doute qu'ils puissent' means 'I doubt that they can'. The subjunctive is required after expressions of doubt like 'je doute que'.",
+  "difficulty": "C1",
+  "source": "Business context with subjunctive mood",
+  "tags": [
+    "business",
+    "project-management",
+    "doubt"
+  ],
+  "timeCreated": 1720108800
+}

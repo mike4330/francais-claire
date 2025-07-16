@@ -1,0 +1,18 @@
+{
+    "id": 477,
+    "audioText": "Ce mur épais inquiétait l'architecte car il mesure plus de deux mètres.",
+    "question": "Why did the thick wall worry the architect?",
+    "questionType": "comprehension",
+    "options": [
+        "Because it measures more than two meters",
+        "Because it has structural cracks",
+        "Because it blocks too much sunlight",
+        "Because it costs too much to build"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce mur épais inquiétait l'architecte car il mesure plus de deux mètres</em>' - This thick wall worried the architect because it measures more than two meters. 'Épais' means thick, and 'inquiétait' is the imperfect tense of 'inquiéter'.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["measurement", "construction", "architecture"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

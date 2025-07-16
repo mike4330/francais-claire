@@ -1,0 +1,18 @@
+{
+    "id": 1859,
+    "audioText": "Ce bel appartement avec ses fenêtres fermées depuis des mois intéresse plusieurs locataires potentiels malgré son état d'abandon temporaire.",
+    "question": "What attracts potential tenants despite the apartment's condition?",
+    "questionType": "comprehension",
+    "options": [
+        "It's a beautiful apartment even though windows have been closed for months",
+        "The rent is significantly lower than similar properties",
+        "It's located in the most prestigious neighborhood",
+        "It comes fully furnished with modern appliances"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce bel appartement avec ses fenêtres fermées depuis des mois intéresse plusieurs locataires potentiels</em>' - This beautiful apartment with its windows closed for months interests several potential tenants. 'Bel' is the masculine form of 'beau' before vowels, and 'fermées' is the past participle of 'fermer'.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["accommodation", "real-estate", "housing"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

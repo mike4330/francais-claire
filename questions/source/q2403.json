@@ -1,0 +1,22 @@
+{
+  "id": 2403,
+  "audioText": "Les juristes quittée inutilement cette affaire complexe se retrouvent dans une position intéressant où ils montent aux échelons supérieurs du barreau.",
+  "question": "Les juristes ______ inutilement cette affaire complexe se retrouvent dans une position intéressant où ils montent aux échelons supérieurs du barreau.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "quittée",
+    "ayant quitté",
+    "quittant",
+    "qui quittent"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Les juristes ayant quitté inutilement cette affaire complexe se retrouvent dans une position intéressant où ils montent aux échelons supérieurs du barreau</em>' - The lawyers having left this complex case unnecessarily find themselves in an interesting position where they rise to the upper echelons of the bar. 'Ayant quitté' is the correct past participle construction.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - quittée + inutilement + intéressant + montent synergy + legal profession",
+  "tags": [
+    "legal-profession",
+    "career-advancement",
+    "professional-strategy"
+  ],
+  "timeCreated": 1736804520
+}

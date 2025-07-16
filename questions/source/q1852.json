@@ -1,0 +1,18 @@
+{
+    "id": 1852,
+    "audioText": "L'ingénieur sensible a bougé le capteur de trois millimètres pour améliorer la mesure de température.",
+    "question": "How much did the engineer move the sensor?",
+    "questionType": "comprehension",
+    "options": [
+        "Three millimeters to improve the temperature measurement",
+        "Five centimeters to fix the calibration error",
+        "One meter to avoid interference from nearby equipment",
+        "Half an inch to align with the new specifications"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'ingénieur sensible a bougé le capteur de trois millimètres pour améliorer la mesure de température</em>' - The sensitive engineer moved the sensor three millimeters to improve the temperature measurement. 'Bougé' is the past participle of 'bouger' (to move).",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["measurement", "technology", "precision"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

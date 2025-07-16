@@ -1,0 +1,22 @@
+{
+  "id": 2464,
+  "audioText": "À Venise, l'artiste se comporte mollement, différemment de sa manière habituelle, choisissant volontairement de créer prudemment des références temporelles dans ses œuvres contemporaines.",
+  "question": "How does the artist behave differently in Venice regarding temporal references?",
+  "questionType": "comprehension",
+  "options": [
+    "Softly, voluntarily choosing to prudently create temporal references in contemporary works",
+    "Energetically rushing to complete traditional paintings",
+    "Aggressively challenging conventional artistic methods",
+    "Passively following established cultural guidelines"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>À Venise, l'artiste se comporte mollement, différemment de sa manière habituelle, choisissant volontairement de créer prudemment des références temporelles dans ses œuvres contemporaines.</em>' - 'In Venice, the artist behaves softly, differently from his usual manner, voluntarily choosing to prudently create temporal references in his contemporary works.' The adverbs 'mollement' means softly, 'différemment' means differently, 'volontairement' means voluntarily, and 'prudemment' means prudently.",
+  "difficulty": "C1",
+  "source": "Strategic adverb targeting",
+  "tags": [
+    "venice",
+    "art",
+    "time-reference"
+  ],
+  "timeCreated": 1720714500
+}

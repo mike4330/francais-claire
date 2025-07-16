@@ -1,0 +1,18 @@
+{
+    "id": 1857,
+    "audioText": "Chaque soir, la télé nous apportait des nouvelles fascinantes sur l'exploration de la lune par les astronautes.",
+    "question": "What did television bring every evening?",
+    "questionType": "comprehension",
+    "options": [
+        "Fascinating news about astronauts exploring the moon",
+        "Entertainment programs about science fiction movies",
+        "Educational documentaries about space technology",
+        "Live coverage of rocket launches from the space center"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Chaque soir, la télé nous apportait des nouvelles fascinantes sur l'exploration de la lune par les astronautes</em>' - Every evening, television brought us fascinating news about astronauts exploring the moon. 'Apportait' is the imperfect tense of 'apporter' (was bringing).",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["moon", "media", "space-exploration"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

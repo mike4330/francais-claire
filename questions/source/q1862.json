@@ -1,0 +1,18 @@
+{
+    "id": 1862,
+    "audioText": "Cette femme décidée refuse de respecter la limitation de vitesse sur cette route pourtant solide et bien entretenue.",
+    "question": "What does this determined woman refuse to do?",
+    "questionType": "comprehension",
+    "options": [
+        "Respect the speed limit on this solid and well-maintained road",
+        "Stop at red traffic lights during rush hour",
+        "Pay for parking in downtown commercial areas",
+        "Follow the GPS directions to her destination"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette femme décidée refuse de respecter la limitation de vitesse sur cette route pourtant solide et bien entretenue</em>' - This determined woman refuses to respect the speed limit on this solid and well-maintained road. 'Décidée' is the past participle of 'décider' used as an adjective meaning 'determined'.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["speed", "driving", "road-safety"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

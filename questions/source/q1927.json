@@ -1,0 +1,22 @@
+{
+  "id": 1927,
+  "audioText": "Le bus s'arrêtait toujours devant l'école.",
+  "question": "Le bus s'______ toujours devant l'école.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "arrêtait",
+    "arrête",
+    "arrêter",
+    "arrêté"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le bus s'arrêtait toujours devant l'école</em>' - The bus always stopped in front of the school. The correct answer is 'arrêtait' - the third-person singular imperfect of 's'arrêter' (to stop). The imperfect tense describes habitual actions in the past.",
+  "difficulty": "B1",
+  "source": "Gemini-generated",
+  "tags": [
+    "transportation",
+    "school"
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
+}

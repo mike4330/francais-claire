@@ -10,9 +10,10 @@
     "Es-tu prêt pour l'exercice de demain? J'ai étudié toute la semaine."
   ],
   "correct": 0,
-  "explanation": "The correct sentence is 'Es-tu prêt pour l'examen de demain? J'ai étudié toute la semaine' - Are you ready for tomorrow's exam? I've studied all week. 'Prêt' means ready/prepared, and note the spelling vs. 'près' (near).",
+  "explanation": "The text states '<em>Es-tu prêt pour l'examen de demain? J'ai étudié toute la semaine</em>' - Are you ready for tomorrow's exam? I've studied all week. 'Prêt' means ready/prepared, and note the spelling vs. 'près' (near).",
   "difficulty": "A2",
   "source": "School Preparation",
   "tags": ["education", "exam", "preparation", "school"],
-  "timeCreated": 1751495018
+  "timeCreated": 1751495018,
+  "verified": "claude"
 }

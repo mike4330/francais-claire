@@ -1,0 +1,18 @@
+{
+    "id": 1903,
+    "audioText": "Tu gagneras éventuellement ce concours incapable si tu continues à travailler avec cette conscience solide et cette approche britannique.",
+    "question": "When will you win this challenging competition?",
+    "questionType": "comprehension",
+    "options": [
+        "Eventually, if you continue working with solid conscience and British approach",
+        "Immediately after submitting your application",
+        "Only if you change your current strategy completely",
+        "Never, because the competition is too difficult"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu gagneras éventuellement ce concours incapable si tu continues à travailler avec cette conscience solide et cette approche britannique</em>' - You will eventually win this challenging competition if you continue working with solid conscience and British approach. 'Gagneras' is the future tense of 'gagner' (to win).",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["competition", "workplace", "persistence"],
+    "timeCreated": 1721049600
+}

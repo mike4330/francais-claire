@@ -1,0 +1,18 @@
+{
+    "id": 1906,
+    "audioText": "Cette bouteille britannique contient un liquide joyeux qui bat facilement la conscience de ceux qui découvrent sa taille étonnante par hasard.",
+    "question": "What does this British bottle contain?",
+    "questionType": "comprehension",
+    "options": [
+        "A joyful liquid that easily beats the consciousness of those who discover its amazing size by chance",
+        "An expensive perfume that attracts customers with its elegant packaging",
+        "A medicinal solution that helps patients recover from serious illnesses",
+        "A cleaning product that removes stains from expensive clothing"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette bouteille britannique contient un liquide joyeux qui bat facilement la conscience de ceux qui découvrent sa taille étonnante par hasard</em>' - This British bottle contains a joyful liquid that easily beats the consciousness of those who discover its amazing size by chance. 'Bouteille' means bottle and 'taille' means size.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["objects", "discovery", "mystery"],
+    "timeCreated": 1721049600
+}

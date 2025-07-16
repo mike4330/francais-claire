@@ -1,0 +1,18 @@
+{
+    "id": 1899,
+    "audioText": "Après ce grand malheur familial, elle décida de changer complètement de vie et de déménager dans une autre ville.",
+    "question": "What did she decide to do after the great family misfortune?",
+    "questionType": "comprehension",
+    "options": [
+        "Completely change her life and move to another city",
+        "Stay close to family to help them through difficult times",
+        "Take a leave of absence from work to recover",
+        "Seek professional counseling for emotional support"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Après ce grand malheur familial, elle décida de changer complètement de vie et de déménager dans une autre ville</em>' - After this great family misfortune, she decided to completely change her life and move to another city. 'Malheur' means misfortune, and 'décida' is the passé simple of 'décider'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["past-actions", "family", "life-changes"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

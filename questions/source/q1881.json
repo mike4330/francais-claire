@@ -1,0 +1,24 @@
+{
+  "id": 1881,
+  "audioText": "Cette famille n'a pas les moyens financiers de partir en vacances cette année à cause de la crise économique.",
+  "question": "Cette famille n'a pas les ______ financiers de partir en vacances cette année à cause de la crise économique.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "moyens",
+    "besoins",
+    "désirs",
+    "projets"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette famille n'a pas les moyens financiers de partir en vacances cette année à cause de la crise économique.</em>' - 'This family doesn't have the financial means to go on vacation this year because of the economic crisis.' The missing word is 'moyens' (means/resources). 'Avoir les moyens' is a common expression meaning to have the resources/ability to afford something.",
+  "difficulty": "B1",
+  "source": "Family Economics",
+  "tags": [
+    "finances",
+    "family",
+    "vacation",
+    "economic-crisis",
+    "resources",
+    "expressions"
+  ]
+}

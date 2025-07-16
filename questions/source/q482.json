@@ -1,0 +1,18 @@
+{
+    "id": 482,
+    "audioText": "Nous sommes désolés de voir une larme couler sur son visage triste.",
+    "question": "What are we sorry to see?",
+    "questionType": "comprehension",
+    "options": [
+        "A tear running down her sad face",
+        "Her crying loudly in the corner",
+        "Her leaving without saying goodbye", 
+        "Her refusing to talk to anyone"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous sommes désolés de voir une larme couler sur son visage triste</em>' - We are sorry to see a tear running down her sad face. 'Larme' means tear, and 'désolés' is the past participle of 'désoler' used as an adjective meaning 'sorry'.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["emotions", "sadness", "empathy"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

@@ -1,18 +1,19 @@
 {
     "id": 492,
-    "audioText": "Cette chair rouge et délicieuse coûte plus que le poids normal au salon de beauté.",
-    "question": "What costs more than normal weight at the beauty salon?",
+    "audioText": "Cette chaise rouge est très confortable.",
+    "question": "What color is the comfortable chair?",
     "questionType": "comprehension",
     "options": [
-        "This red and delicious flesh",
-        "The professional hair treatments",
-        "The luxury facial services",
-        "The high-end beauty products"
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette chair rouge et délicieuse coûte plus que le poids normal au salon de beauté</em>' - This red and delicious flesh costs more than normal weight at the beauty salon. 'Chair' means flesh/meat, and 'salon' means salon.",
+    "explanation": "The text states '<em>Cette chaise rouge est très confortable</em>' - This red chair is very comfortable. '<em>Rouge</em>' means red and '<em>chaise</em>' means chair.",
     "difficulty": "A2",
-    "source": "Claude",
-    "tags": ["food", "business", "comparison"],
-    "timeCreated": 1721049600
+    "source": "claude",
+    "tags": ["furniture", "home", "colors"],
+    "timeCreated": 1721049600,
+    "verified": "claude"
 }

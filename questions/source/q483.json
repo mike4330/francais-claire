@@ -1,0 +1,18 @@
+{
+    "id": 483,
+    "audioText": "Tu ne bouges jamais ce tas de livres qui encombre ton bureau depuis des semaines.",
+    "question": "What never gets moved from the desk?",
+    "questionType": "comprehension",
+    "options": [
+        "A pile of books that has been cluttering it for weeks",
+        "An old computer that takes up too much space",
+        "A collection of papers from last month",
+        "Some office supplies that need organizing"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu ne bouges jamais ce tas de livres qui encombre ton bureau depuis des semaines</em>' - You never move this pile of books that has been cluttering your desk for weeks. 'Tas' means pile, and 'bouges' is the second person singular of 'bouger'.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["storage", "organization", "workplace"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

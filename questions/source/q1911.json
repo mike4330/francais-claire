@@ -1,0 +1,18 @@
+{
+    "id": 1911,
+    "audioText": "A priori, ces foules sauvages bats frénétiquement cette balle battu pendant que les spectateurs observent cette situation étrange.",
+    "question": "What do these wild crowds do with this beaten ball while spectators observe?",
+    "questionType": "comprehension",
+    "options": [
+        "Beat it frenetically",
+        "Throw it carefully",
+        "Hold it gently",
+        "Ignore it completely"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>A priori, ces foules sauvages bats frénétiquement cette balle battu pendant que les spectateurs observent cette situation étrange</em>' - A priori, these wild crowds beat this beaten ball frenetically while spectators observe this strange situation. 'A priori' (adverb), 'sauvages' (adjective), 'bats' and 'battu' (verbs), 'balle' (noun), 'foules' (crowds topic) are all priority targets.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["crowds", "sports", "behavior"],
+    "timeCreated": 1721049600
+}

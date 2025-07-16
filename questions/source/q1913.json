@@ -1,0 +1,18 @@
+{
+    "id": 1913,
+    "audioText": "Vous battez gratos votre gorge exprès pour démontrer votre nationalité lors de cette cérémonie officielle.",
+    "question": "Why do you beat your throat for free on purpose during this official ceremony?",
+    "questionType": "comprehension",
+    "options": [
+        "To demonstrate your nationality",
+        "To show your artistic abilities",
+        "To express your political views",
+        "To prove your physical strength"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous battez gratos votre gorge exprès pour démontrer votre nationalité lors de cette cérémonie officielle</em>' - You beat your throat for free on purpose to demonstrate your nationality during this official ceremony. 'Battez' (verb), 'gratos' (adverb), 'exprès' (adjective), 'gorge' (noun), 'nationalité' (topic) are all priority targets.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["nationality", "ceremony", "demonstration"],
+    "timeCreated": 1721049600
+}

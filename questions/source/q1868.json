@@ -1,0 +1,22 @@
+{
+  "id": 1868,
+  "audioText": "Il y a eu un terrible accident sur l'autoroute ce matin.",
+  "question": "Il y a eu un ______ accident sur l'autoroute ce matin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "terrible",
+    "petit",
+    "simple",
+    "normal"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'terrible' meaning 'terrible' or 'awful'. This describes a very serious accident on the highway this morning. 'Terrible' emphasizes the severity of the accident.",
+  "difficulty": "B1",
+  "source": "Traffic report",
+  "tags": [
+    "traffic",
+    "accidents",
+    "highway"
+  ],
+  "timeCreated": 1720077400
+}

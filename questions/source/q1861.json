@@ -1,0 +1,18 @@
+{
+    "id": 1861,
+    "audioText": "Le directeur brave décide d'organiser une réunion d'urgence pour discuter des problèmes financiers de l'entreprise.",
+    "question": "What does the brave director decide to do?",
+    "questionType": "comprehension",
+    "options": [
+        "Organize an emergency meeting to discuss the company's financial problems",
+        "Postpone all decisions until next quarter",
+        "Fire half of the employees immediately",
+        "Sell the company to competitors"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le directeur brave décide d'organiser une réunion d'urgence pour discuter des problèmes financiers de l'entreprise</em>' - The brave director decides to organize an emergency meeting to discuss the company's financial problems. 'Décide' is the third person singular of 'décider'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["meeting", "business", "crisis-management"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

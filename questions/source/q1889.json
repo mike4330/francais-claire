@@ -1,0 +1,22 @@
+{
+  "id": 1889,
+  "audioText": "La formation sera suivie d'une évaluation pratique pour tous les participants.",
+  "question": "La formation sera ______ d'une évaluation pratique pour tous les participants.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "suivie",
+    "précédée",
+    "remplacée",
+    "annulée"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'suivie' - the past participle of 'suivre' (to follow) used in the passive construction 'sera suivie de' (will be followed by). The training will be followed by a practical evaluation for all participants.",
+  "difficulty": "B2",
+  "source": "Training program",
+  "tags": [
+    "training",
+    "evaluation",
+    "education"
+  ],
+  "timeCreated": 1720077400
+}

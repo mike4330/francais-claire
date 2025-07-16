@@ -1,0 +1,18 @@
+{
+    "id": 1897,
+    "audioText": "Le comité scientifique décidera demain si cette avance technologique révolutionnaire justifie un investissement supplémentaire de plusieurs millions d'euros.",
+    "question": "What will the scientific committee decide tomorrow?",
+    "questionType": "comprehension",
+    "options": [
+        "Whether this revolutionary technological advance justifies additional investment of several million euros",
+        "Whether to publish the research results in international journals",
+        "Whether to patent the invention before competitors discover it",
+        "Whether to form partnerships with other research institutions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le comité scientifique décidera demain si cette avance technologique révolutionnaire justifie un investissement supplémentaire de plusieurs millions d'euros</em>' - The scientific committee will decide tomorrow whether this revolutionary technological advance justifies additional investment of several million euros. 'Avance' means advance/progress, and 'décidera' is the future tense of 'décider'.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["technology", "science", "investment"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

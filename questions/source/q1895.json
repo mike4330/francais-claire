@@ -1,0 +1,18 @@
+{
+    "id": 1895,
+    "audioText": "Les directeurs décident d'élargir le rôle de cette employée talentueuse dans le projet de développement technologique.",
+    "question": "What do the directors decide to do with the talented employee's role?",
+    "questionType": "comprehension",
+    "options": [
+        "Expand her role in the technological development project",
+        "Transfer her to a different department entirely",
+        "Reduce her responsibilities due to budget constraints",
+        "Promote her to a management position immediately"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les directeurs décident d'élargir le rôle de cette employée talentueuse dans le projet de développement technologique</em>' - The directors decide to expand the role of this talented employee in the technological development project. 'Rôle' means role, and 'décident' is the third person plural of 'décider'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["workplace", "technology", "career-development"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

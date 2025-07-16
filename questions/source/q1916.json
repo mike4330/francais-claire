@@ -1,0 +1,18 @@
+{
+  "id": 1916,
+  "audioText": "Il faut des preuves solides pour convaincre le jury.",
+  "question": "What is needed to convince the jury?",
+  "questionType": "comprehension",
+  "options": [
+    "Solid evidence",
+    "Good lawyers",
+    "More time",
+    "Written statements"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut des preuves solides pour convaincre le jury</em>' - We need solid evidence to convince the jury. '<em>Preuves</em>' means evidence or proof.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["legal", "justice", "formal-situation"],
+  "timeCreated": "2025-07-15T00:00:00Z"
+}

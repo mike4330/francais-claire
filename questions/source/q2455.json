@@ -1,0 +1,24 @@
+{
+  "id": 2455,
+  "audioText": "Ce cœur brisé avait spécialement besoin de temps et de patience pour guérir complètement de cette peine profonde.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Ce cœur brisé avait spécialement besoin de temps et de patience pour guérir complètement de cette peine profonde.",
+    "Ce cœur brisé avait particulièrement besoin de temps et de patience pour guérir complètement de cette peine profonde.",
+    "Ce cœur brisé avait spécialement besoin de temps et de patience pour guérir parfaitement de cette peine profonde.",
+    "Ce cœur brisé avait spécialement besoin de temps et de patience pour guérir complètement de cette douleur profonde."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce cœur brisé avait spécialement besoin de temps et de patience pour guérir complètement de cette peine profonde.</em>' - 'This broken heart especially needed time and patience to heal completely from this deep pain.' This listening version tests auditory discrimination between 'spécialement' vs 'particulièrement', 'complètement' vs 'parfaitement', and 'peine' vs 'douleur'.",
+  "difficulty": "B2",
+  "source": "Listening version of q895",
+  "tags": [
+    "emotions",
+    "healing",
+    "heartbreak",
+    "recovery"
+  ],
+  "timeCreated": 1720713600,
+  "parentQuestion": 895
+}

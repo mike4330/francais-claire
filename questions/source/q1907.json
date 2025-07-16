@@ -1,0 +1,18 @@
+{
+    "id": 1907,
+    "audioText": "Il porte une chemise élégante pour impressionner sa nouvelle collègue américaine au bureau moderne.",
+    "question": "Why does he wear an elegant shirt?",
+    "questionType": "comprehension",
+    "options": [
+        "To impress his new American colleague at the modern office",
+        "To attend an important business meeting with international clients",
+        "To celebrate his promotion to a senior management position",
+        "To follow the company's new professional dress code policy"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il porte une chemise élégante pour impressionner sa nouvelle collègue américaine au bureau moderne</em>' - He wears an elegant shirt to impress his new American colleague at the modern office. 'Chemise' means shirt.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["workplace", "clothing", "relationships"],
+    "timeCreated": 1721049600
+}

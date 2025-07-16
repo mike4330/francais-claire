@@ -1,0 +1,18 @@
+{
+    "id": 472,
+    "audioText": "Mon voisin anglais bouge demain vers un nouvel appartement près de l'île.",
+    "question": "When is the English neighbor moving?",
+    "questionType": "comprehension",
+    "options": [
+        "Tomorrow to a new apartment near the island",
+        "Next week to a house in the suburbs",
+        "Today to a hotel downtown",
+        "Next month to another city"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon voisin anglais bouge demain vers un nouvel appartement près de l'île</em>' - My English neighbor is moving tomorrow to a new apartment near the island. 'Bouge' here means 'is moving' (relocating).",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["accommodation", "neighborhood", "relocation"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

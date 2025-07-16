@@ -1,0 +1,18 @@
+{
+    "id": 478,
+    "audioText": "Cette vendeuse aimable achetait des boîtes de rangement pour organiser son magasin.",
+    "question": "What was the kind saleswoman buying for her store?",
+    "questionType": "comprehension",
+    "options": [
+        "Storage boxes to organize her shop",
+        "New clothes to display",
+        "Fresh flowers for decoration",
+        "Security cameras for protection"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette vendeuse aimable achetait des boîtes de rangement pour organiser son magasin</em>' - This kind saleswoman was buying storage boxes to organize her shop. 'Aimable' means kind/nice, and 'achetait' is the imperfect tense of 'acheter'.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["storage", "shopping", "workplace"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

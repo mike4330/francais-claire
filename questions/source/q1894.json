@@ -1,0 +1,21 @@
+{
+  "id": 1894,
+  "audioText": "La plante est morte parce que je ne l'ai pas arrosée.",
+  "question": "La plante est ______ parce que je ne l'ai pas arrosée.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "morte",
+    "mort",
+    "mourir",
+    "meurt"
+  ],
+  "correct": 0,
+  "explanation": "The subject 'la plante' is feminine, so the past participle must agree in gender. 'Morte' is the feminine form, while 'mort' is the masculine form.",
+  "difficulty": "B1",
+  "source": "Gemini-generated",
+  "tags": [
+    "gardening",
+    "household"
+  ],
+  "timeCreated": 1720134000
+}

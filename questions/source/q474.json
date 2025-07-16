@@ -1,0 +1,18 @@
+{
+    "id": 474,
+    "audioText": "Mon frère dingue a apporté son appareil photo pour notre projet créatif.",
+    "question": "What did the crazy brother bring for the creative project?",
+    "questionType": "comprehension",
+    "options": [
+        "His camera",
+        "His laptop computer",
+        "His art supplies",
+        "His music equipment"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon frère dingue a apporté son appareil photo pour notre projet créatif</em>' - My crazy brother brought his camera for our creative project. 'Apporté' is the past participle of 'apporter' (to bring).",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["creative-projects", "family", "photography"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

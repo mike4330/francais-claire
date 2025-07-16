@@ -1,0 +1,18 @@
+{
+  "id": 1937,
+  "audioText": "Dans cette recette, vous devez mélanger les ingrédients pendant deux minutes.",
+  "question": "What should you do with the ingredients for two minutes?",
+  "questionType": "comprehension",
+  "options": [
+    "Mix them",
+    "Heat them",
+    "Cool them",
+    "Cut them"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Dans cette recette, vous devez mélanger les ingrédients pendant deux minutes</em>' - In this recipe, you must mix the ingredients for two minutes. '<em>Mélanger</em>' means to mix.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["cooking", "recipe", "instructions"],
+  "timeCreated": "2025-07-16T00:00:00Z"
+}

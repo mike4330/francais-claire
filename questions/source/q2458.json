@@ -1,0 +1,22 @@
+{
+  "id": 2458,
+  "audioText": "Il appellerait assurément ce gars dans la minute si le responsable resterait disponible pour approuver la décision finale.",
+  "question": "Under what condition would he call the guy?",
+  "questionType": "comprehension",
+  "options": [
+    "If the manager stayed available to approve the final decision",
+    "If the decision was already approved by someone else",
+    "If the guy called him first",
+    "If the approval process was eliminated"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il appellerait assurément ce gars dans la minute si le responsable resterait disponible pour approuver la décision finale.</em>' - 'He would certainly call this guy within the minute if the manager would remain available to approve the final decision.' Both 'appellerait' and 'resterait' are conditional forms expressing hypothetical actions, with 'assurément' emphasizing certainty.",
+  "difficulty": "C2",
+  "source": "Strategic verb conjugate targeting",
+  "tags": [
+    "workplace",
+    "decision-making",
+    "approval"
+  ],
+  "timeCreated": 1720713600
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1855,
+    "audioText": "Demain j'apporterai ma tablette graphique au bureau car mon métier d'artiste numérique demande cet équipement spécialisé.",
+    "question": "Why will the speaker bring their graphics tablet to the office tomorrow?",
+    "questionType": "comprehension",
+    "options": [
+        "Because their digital artist job requires this specialized equipment",
+        "Because they want to show it to their colleagues",
+        "Because they need to repair it during lunch break",
+        "Because they forgot to bring it home yesterday"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Demain j'apporterai ma tablette graphique au bureau car mon métier d'artiste numérique demande cet équipement spécialisé</em>' - Tomorrow I will bring my graphics tablet to the office because my digital artist job requires this specialized equipment. 'Apporterai' is the future tense first person singular of 'apporter'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["digital-art", "workplace", "technology"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

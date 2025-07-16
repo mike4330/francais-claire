@@ -1,0 +1,18 @@
+{
+    "id": 1863,
+    "audioText": "Mon grand-père descendra à pied cette colline, c'est égal pour lui de marcher ou de prendre la voiture.",
+    "question": "How will the grandfather go down the hill?",
+    "questionType": "comprehension",
+    "options": [
+        "On foot, because walking or driving is the same to him",
+        "By car because the hill is too steep for walking",
+        "By bicycle to get some exercise",
+        "By public transport to save money"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mon grand-père descendra à pied cette colline, c'est égal pour lui de marcher ou de prendre la voiture</em>' - My grandfather will walk down this hill, it's the same to him whether to walk or take the car. 'Descendra' is the future tense of 'descendre', and 'c'est égal' means 'it's the same'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["walking", "family", "transportation"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

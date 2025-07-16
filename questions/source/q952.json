@@ -10,7 +10,7 @@
     "They worry about the cost of internet and digital services"
   ],
   "correct": 0,
-  "explanation": "The text describes how modern parents 'doivent gérer l'usage des écrans de leurs enfants' - must manage their children's screen use. They 'limitent le temps passé devant les tablettes et téléphones pour protéger leur développement social et leur sommeil' - limit time spent in front of tablets and phones to protect their social development and sleep.",
+  "explanation": "The text states '<em>Les parents modernes doivent gérer l'usage des écrans de leurs enfants. Beaucoup limitent le temps passé devant les tablettes et téléphones pour protéger leur développement social et leur sommeil</em>' - Modern parents must manage their children's screen use. Many limit time spent in front of tablets and phones to protect their social development and sleep.",
   "difficulty": "B2",
   "source": "Modern Parenting Challenges",
   "tags": [
@@ -21,5 +21,6 @@
     "health",
     "modern-challenges"
   ],
-  "timeCreated": 1751331461
+  "timeCreated": 1751331461,
+  "verified": "claude"
 }

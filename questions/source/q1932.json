@@ -1,0 +1,23 @@
+{
+  "id": 1932,
+  "audioText": "Il vieillit visiblement depuis qu'il a commencé ce travail trop difficile pour son âge.",
+  "question": "How has he changed since starting this job?",
+  "questionType": "comprehension",
+  "options": [
+    "He is visibly aging",
+    "He has gained significant weight",
+    "He has become more energetic",
+    "He has improved his skills considerably"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il vieillit visiblement depuis qu'il a commencé ce travail trop difficile pour son âge</em>' - He is visibly aging since he started this job too difficult for his age. 'Visiblement' means 'visibly/obviously', targeting the missing adverb plus under-represented 'age' and 'difficulty' topics.",
+  "difficulty": "B2",
+  "source": "Work impact on aging",
+  "tags": [
+    "age",
+    "difficulty",
+    "workplace",
+    "health"
+  ],
+  "timeCreated": 1736103660
+}

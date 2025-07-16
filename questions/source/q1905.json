@@ -1,0 +1,18 @@
+{
+    "id": 1905,
+    "audioText": "En comptant savamment sur cette industrie joyeuse, cette entreprise américaine espère développer sa capacité à innover avec une approche éventuellement plus sensible.",
+    "question": "What does the American company hope to develop?",
+    "questionType": "comprehension",
+    "options": [
+        "Its capacity to innovate with an eventually more sensitive approach",
+        "Its manufacturing facilities in foreign countries",
+        "Its marketing strategy for European markets",
+        "Its employee training programs for technical skills"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>En comptant savamment sur cette industrie joyeuse, cette entreprise américaine espère développer sa capacité à innover avec une approche éventuellement plus sensible</em>' - By cleverly counting on this joyful industry, this American company hopes to develop its capacity to innovate with an eventually more sensitive approach. 'Comptant' is the present participle of 'compter'.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["industry", "business", "innovation"],
+    "timeCreated": 1721049600
+}

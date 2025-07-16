@@ -1,0 +1,18 @@
+{
+    "id": 479,
+    "audioText": "Vous ne bougez jamais de chez vous quand vos amis allemands vous rendent visite.",
+    "question": "What happens when German friends visit?",
+    "questionType": "comprehension",
+    "options": [
+        "You never leave your house",
+        "You always go out together",
+        "You cook traditional meals",
+        "You speak only in German"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous ne bougez jamais de chez vous quand vos amis allemands vous rendent visite</em>' - You never leave your house when your German friends visit you. 'Bougez' is the second person plural of 'bouger' (to move).",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["visits", "friendship", "social-behavior"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

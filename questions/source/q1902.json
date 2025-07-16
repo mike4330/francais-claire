@@ -1,0 +1,18 @@
+{
+    "id": 1902,
+    "audioText": "Il retire furieusement son chapeau en montant les escaliers, car le prix égal pour tous les spectateurs l'irrite profondément.",
+    "question": "Why does he furiously remove his hat while going up the stairs?",
+    "questionType": "comprehension",
+    "options": [
+        "Because the equal price for all spectators deeply irritates him",
+        "Because the theater rules require removing hats",
+        "Because his hat is too tight and uncomfortable",
+        "Because he wants to show respect to other audience members"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il retire furieusement son chapeau en montant les escaliers, car le prix égal pour tous les spectateurs l'irrite profondément</em>' - He furiously removes his hat while going up the stairs, because the equal price for all spectators deeply irritates him. 'Chapeau' means hat, 'furieusement' means furiously, 'égal' means equal, and 'montant' is the present participle of 'monter'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["entertainment", "pricing", "emotions"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

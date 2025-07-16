@@ -1,0 +1,23 @@
+{
+  "id": 1878,
+  "audioText": "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine.",
+  "question": "Les employés de la SNCF ont annoncé une ______ de trois jours la semaine prochaine.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "grève",
+    "réunion",
+    "formation",
+    "célébration"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine.</em>' - 'SNCF employees announced a three-day strike next week.' The missing word is 'grève' (strike), which is the logical action when transportation workers make such announcements.",
+  "difficulty": "B1",
+  "source": "Transportation News",
+  "tags": [
+    "transportation",
+    "labor",
+    "strikes",
+    "SNCF",
+    "news"
+  ]
+}

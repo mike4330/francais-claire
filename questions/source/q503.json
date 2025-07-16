@@ -1,23 +1,18 @@
 {
   "id": 503,
-  "audioText": "Thomas a raté son train, perdu son portefeuille et il pleut maintenant. Quelle malchance aujourd'hui !",
-  "question": "What happened to Thomas today?",
+  "audioText": "Les feuilles tombent en automne.",
+  "question": "When do the leaves fall?",
   "questionType": "comprehension",
   "options": [
-    "He missed his train, lost his wallet, and now it's raining",
-    "He found his wallet, caught his train, and the weather is nice",
-    "He missed his bus, forgot his keys, and it's very hot",
-    "He arrived early, found money, and it's sunny"
+    "In autumn",
+    "In spring",
+    "In summer",
+    "In winter"
   ],
   "correct": 0,
-  "explanation": "Thomas experienced a series of unfortunate events: 'a raté son train' (missed his train), 'perdu son portefeuille' (lost his wallet), 'et il pleut maintenant' (and now it's raining). The speaker concludes with 'Quelle malchance !' (What bad luck!), showing that 'malchance' refers to a string of unlucky events.",
-  "difficulty": "B1",
-  "source": "Daily Misfortunes",
-  "tags": [
-    "bad-luck",
-    "daily-life",
-    "misfortunes",
-    "emotions",
-    "vocabulary"
-  ]
+  "explanation": "The text states '<em>Les feuilles tombent en automne</em>' - The leaves fall in autumn. '<em>Feuilles</em>' means leaves and '<em>automne</em>' means autumn.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["nature", "seasons", "weather"],
+  "timeCreated": "2025-07-15T00:00:00Z"
 }

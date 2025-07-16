@@ -1,0 +1,22 @@
+{
+  "id": 2440,
+  "audioText": "Grossièrement, cette organisation baby-care espérait que les parents retrouveras furtivement leurs larmes perdues après avoir vu la size de leur ventre.",
+  "question": "What did the baby-care organization roughly hope?",
+  "questionType": "comprehension",
+  "options": [
+    "That parents would furtively recover their lost tears after seeing their belly size",
+    "That medical professionals would provide comprehensive prenatal care services",
+    "That government programs would increase funding for childcare facilities",
+    "That research studies would improve understanding of infant development patterns"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Grossièrement, cette organisation baby-care espérait que les parents retrouveraient furtivement leurs larmes perdues après avoir vu la size de leur ventre</em>' - Roughly, this baby-care organization hoped that parents would furtively recover their lost tears after seeing the size of their belly. This combines multiple target lemmas.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - grossièrement + baby-care + espérait + retrouveras + furtivement + larmes + size + ventre synergy",
+  "tags": [
+    "baby-care",
+    "emotions",
+    "size"
+  ],
+  "timeCreated": 1736804940
+}

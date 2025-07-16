@@ -1,0 +1,22 @@
+{
+  "id": 2408,
+  "audioText": "Ardemment, cette organisation retrouvent les documents quittés dans la forêt où les penalties ont été appliquées sauvagement contre les manifestants.",
+  "question": "What does the organization ardently do?",
+  "questionType": "comprehension",
+  "options": [
+    "They recover documents left in the forest where penalties were savagely applied against protesters",
+    "They organize peaceful demonstrations to protest against government policies",
+    "They negotiate compensation agreements for environmental damage claims",
+    "They establish new conservation programs for protecting wildlife habitats"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ardemment, cette organisation retrouvent les documents quittés dans la forêt où les penalties ont été appliquées sauvagement contre les manifestants</em>' - Ardently, this organization recovers the documents left in the forest where penalties were savagely applied against protesters. This combines 'ardemment', 'retrouvent', 'quittés', 'forêt', 'penalties', and 'sauvagement'.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - ardemment + retrouvent + quittés + forêt + penalties + sauvagement synergy + protest documentation",
+  "tags": [
+    "forest",
+    "penalties",
+    "protest-documentation"
+  ],
+  "timeCreated": 1736804740
+}

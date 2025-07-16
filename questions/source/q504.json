@@ -1,23 +1,18 @@
 {
   "id": 504,
-  "audioText": "Pour notre entreprise, s'adapter au marché numérique représente un véritable défi stratégique.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "Je marche dans le couloir de l'école.",
+  "question": "Where is the person walking?",
+  "questionType": "comprehension",
   "options": [
-    "Pour notre entreprise, s'adapter au marché numérique représente un véritable défi stratégique.",
-    "Pour notre entreprise, s'adapter au marché numérique représente un véritable délit stratégique.",
-    "Pour notre entreprise, s'adapter au marché numérique représente un véritable déficit stratégique.",
-    "Pour notre entreprise, s'adapter au marché numérique représente un véritable débat stratégique."
+    "In the school corridor",
+    "In the school yard",
+    "In the classroom",
+    "In the library"
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Pour notre entreprise, s'adapter au marché numérique représente un véritable défi stratégique.' - For our company, adapting to the digital market represents a real strategic challenge. 'Défi' means challenge or obstacle to overcome, which fits perfectly in this business context about digital transformation.",
-  "difficulty": "B2",
-  "source": "Business Strategy",
-  "tags": [
-    "business",
-    "digital-transformation",
-    "strategy",
-    "challenges",
-    "professional"
-  ]
+  "explanation": "The text states '<em>Je marche dans le couloir de l'école</em>' - I am walking in the school corridor. '<em>Couloir</em>' means corridor or hallway.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["school", "education", "building"],
+  "timeCreated": "2025-07-15T00:00:00Z"
 }

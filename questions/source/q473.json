@@ -1,0 +1,18 @@
+{
+    "id": 473,
+    "audioText": "Ces cadeaux joyeux ne bougent pas dans le coffre de ma voiture.",
+    "question": "What is happening with the cheerful gifts?",
+    "questionType": "comprehension",
+    "options": [
+        "They are not moving in the car trunk",
+        "They are falling out of the boxes",
+        "They are being delivered to different houses",
+        "They are being wrapped in colorful paper"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces cadeaux joyeux ne bougent pas dans le coffre de ma voiture</em>' - These cheerful gifts are not moving in my car trunk. 'Bougent' is the third person plural form of 'bouger' (to move).",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["gifts", "transportation", "storage"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

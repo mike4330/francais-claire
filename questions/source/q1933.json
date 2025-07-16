@@ -1,0 +1,21 @@
+{
+  "id": 1933,
+  "audioText": "Il a drôlement bien réussi son examen.",
+  "question": "How well did he do on his exam?",
+  "questionType": "comprehension",
+  "options": [
+    "Very well",
+    "Not well",
+    "Average",
+    "Poorly"
+  ],
+  "correct": 0,
+  "explanation": "'Drôlement' in this context means 'remarkably' or 'very', indicating a high degree of success.",
+  "difficulty": "B2",
+  "source": "Gemini-generated",
+  "tags": [
+    "education",
+    "success"
+  ],
+  "timeCreated": 1720134000
+}

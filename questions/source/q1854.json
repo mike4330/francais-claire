@@ -1,0 +1,18 @@
+{
+    "id": 1854,
+    "audioText": "L'agent immobilier honnête posera ses documents sur la table lors de notre rendez-vous pour visiter l'appartement extrême.",
+    "question": "When will the real estate agent place the documents on the table?",
+    "questionType": "comprehension",
+    "options": [
+        "During our appointment to visit the extreme apartment",
+        "Before the building inspection takes place",
+        "After signing the rental agreement",
+        "When the previous tenants move out completely"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>L'agent immobilier honnête posera ses documents sur la table lors de notre rendez-vous pour visiter l'appartement extrême</em>' - The honest real estate agent will place his documents on the table during our appointment to visit the extreme apartment. 'Posera' is the future tense of 'poser'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["accommodation", "business", "appointments"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

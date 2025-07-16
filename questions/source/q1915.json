@@ -1,0 +1,18 @@
+{
+  "id": 1915,
+  "audioText": "Quelle est votre taille pour cette veste ?",
+  "question": "What is the person asking about?",
+  "questionType": "comprehension",
+  "options": [
+    "Your size for the jacket",
+    "Your age for the jacket",
+    "Your color preference",
+    "Your payment method"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Quelle est votre taille pour cette veste ?</em>' - What is your size for this jacket? '<em>Taille</em>' means size (for clothing).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["shopping", "clothing", "customer-service"],
+  "timeCreated": "2025-07-15T00:00:00Z"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 476,
+    "audioText": "Mes amis incapables apportent un tas de valises pour leurs vacances d'été.",
+    "question": "What do the incapable friends bring for their summer vacation?",
+    "questionType": "comprehension",
+    "options": [
+        "A pile of suitcases",
+        "A small backpack",
+        "Only essential items",
+        "Nothing at all"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Mes amis incapables apportent un tas de valises pour leurs vacances d'été</em>' - My incapable friends bring a pile of suitcases for their summer vacation. 'Apportent' is third person plural of 'apporter', and 'un tas de' means 'a pile/bunch of'.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["travel", "vacation", "luggage"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

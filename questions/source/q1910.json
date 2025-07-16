@@ -1,0 +1,18 @@
+{
+    "id": 1910,
+    "audioText": "Vous expliquez respectueusement à cette femme enceinte dingue pourquoi la relocation nécessite un fil conducteur logique.",
+    "question": "How do you explain to this crazy pregnant woman why relocation requires a logical thread?",
+    "questionType": "comprehension",
+    "options": [
+        "Respectfully",
+        "Aggressively",
+        "Indifferently",
+        "Sarcastically"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous expliquez respectueusement à cette femme enceinte dingue pourquoi la relocation nécessite un fil conducteur logique</em>' - You respectfully explain to this crazy pregnant woman why relocation requires a logical thread. 'Expliquez' (verb), 'respectueusement' (adverb), 'enceinte' and 'dingue' (adjectives), 'fil' (noun), 'relocation' (topic) are all priority targets.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["relocation", "communication", "explanation"],
+    "timeCreated": 1721049600
+}

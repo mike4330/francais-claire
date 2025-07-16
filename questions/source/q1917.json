@@ -1,0 +1,18 @@
+{
+  "id": 1917,
+  "audioText": "Les enfants construisent un château de sable sur la plage.",
+  "question": "What are the children building?",
+  "questionType": "comprehension",
+  "options": [
+    "A sand castle",
+    "A snow fort",
+    "A tree house",
+    "A toy tower"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les enfants construisent un château de sable sur la plage</em>' - The children are building a sand castle on the beach. '<em>Sable</em>' means sand.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["family", "beach", "children", "recreation"],
+  "timeCreated": "2025-07-15T00:00:00Z"
+}

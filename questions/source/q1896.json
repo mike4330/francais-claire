@@ -1,0 +1,18 @@
+{
+    "id": 1896,
+    "audioText": "Son genou blessé bougeait difficilement après l'accident de vélo, nécessitant plusieurs semaines de rééducation.",
+    "question": "What happened to the injured knee after the bike accident?",
+    "questionType": "comprehension",
+    "options": [
+        "It moved with difficulty, requiring several weeks of rehabilitation",
+        "It healed completely within a few days",
+        "It needed immediate surgical intervention",
+        "It showed no signs of improvement despite treatment"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Son genou blessé bougeait difficilement après l'accident de vélo, nécessitant plusieurs semaines de rééducation</em>' - His injured knee moved with difficulty after the bike accident, requiring several weeks of rehabilitation. 'Genou' means knee, and 'bougeait' is the imperfect tense of 'bouger'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["health", "injury", "rehabilitation"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

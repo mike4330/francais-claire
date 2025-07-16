@@ -1,0 +1,22 @@
+{
+  "id": 1865,
+  "audioText": "Cette famille pauvre a besoin d'aide pour payer le loyer ce mois-ci.",
+  "question": "What does the text say about the family?",
+  "questionType": "comprehension",
+  "options": [
+    "This poor family needs help paying rent this month",
+    "This wealthy family is helping others pay rent",
+    "This family is poor but refuses help with rent",
+    "This family has poor credit but can afford rent"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Cette famille pauvre a besoin d'aide pour payer le loyer ce mois-ci' - This poor family needs help paying rent this month. 'Pauvre' means 'poor' (financially disadvantaged).",
+  "difficulty": "B1",
+  "source": "Social services",
+  "tags": [
+    "family",
+    "financial-hardship",
+    "housing"
+  ],
+  "timeCreated": 1720077400
+}

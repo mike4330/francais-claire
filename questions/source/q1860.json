@@ -1,0 +1,18 @@
+{
+    "id": 1860,
+    "audioText": "Dans ce nouvel environnement de travail, trois ordinateurs suffisent pour toute l'équipe de développement logiciel.",
+    "question": "In the new work environment, how many computers are enough for the software development team?",
+    "questionType": "comprehension",
+    "options": [
+        "Three computers are sufficient for the entire team",
+        "Each developer needs their own personal workstation",
+        "The team requires at least five high-performance machines",
+        "Only one powerful server is needed for remote access"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Dans ce nouvel environnement de travail, trois ordinateurs suffisent pour toute l'équipe de développement logiciel</em>' - In this new work environment, three computers are sufficient for the entire software development team. 'Nouvel' is the masculine form of 'nouveau' before vowels, and 'suffisent' is the third person plural of 'suffire'.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["workplace", "technology", "team-management"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

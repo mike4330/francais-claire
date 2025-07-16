@@ -1,0 +1,23 @@
+{
+  "id": 1887,
+  "audioText": "Sachez que cette décision importante aura des conséquences durables pour notre équipe.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Sachez que cette décision importante aura des conséquences durables pour notre équipe.",
+    "Savez que cette décision importante aura des conséquences durables pour notre équipe.",
+    "Sachez que cette décision importante avait des conséquences durables pour notre équipe.",
+    "Sachez que cette décision importante aurait des conséquences durables pour notre équipe."
+  ],
+  "correct": 0,
+  "explanation": "The audio states '<em>Sachez que cette décision importante aura des conséquences durables pour notre équipe</em>' - Know that this important decision will have lasting consequences for our team. Note the key distinctions: 'sachez' (imperative) vs 'savez' (present), 'aura' (future) vs 'avait' (imperfect) vs 'aurait' (conditional).",
+  "difficulty": "B2",
+  "source": "Team announcement",
+  "tags": [
+    "workplace",
+    "announcements",
+    "consequences"
+  ],
+  "timeCreated": 1720077400,
+  "verified": "claude"
+}

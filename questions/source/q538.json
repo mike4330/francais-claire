@@ -1,19 +1,21 @@
-
 {
-    "id": 538,
-    "audioText": "La neige est blanche et couvre les montagnes.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
-    "options": [
-        "La neige est blanche et couvre les montagnes.",
-        "La neige est noire et couvre les montagnes.",
-        "La neige est verte et couvre les montagnes.",
-        "La neige est rouge et couvre les montagnes."
-    ],
-    "correct": 0,
-    "explanation": "The correct sentence is 'La neige est blanche et couvre les montagnes.', which means 'The snow is white and covers the mountains.'",
-    "difficulty": "B1",
-    "source": "Gemini-generated",
-    "tags": ["nature", "weather"],
-    "timeCreated": 1720134000
+  "id": 538,
+  "audioText": "Il restera à la maison ce soir.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Il restera à la maison ce soir.",
+    "Il est resté à la maison ce soir.",
+    "Il restait à la maison ce soir.",
+    "Il va rester à la maison ce soir."
+  ],
+  "correct": 0,
+  "explanation": "The correct sentence is 'Il restera à la maison ce soir.', which means 'He will stay home tonight.'",
+  "difficulty": "B1",
+  "source": "Gemini-generated",
+  "tags": [
+    "daily-life",
+    "future-plans"
+  ],
+  "timeCreated": 1720134000
 }

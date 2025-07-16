@@ -1,0 +1,22 @@
+{
+  "id": 2439,
+  "audioText": "Rageusement, les investisseurs écrirai des lettres amères concernant cette mémoire collective tendre qui souvenu mal leurs échecs corporatifs.",
+  "question": "Rageusement, les investisseurs ______ des lettres amères concernant cette mémoire collective tendre qui souvenu mal leurs échecs corporatifs.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "écriront",
+    "écrirai",
+    "écrivaient",
+    "écriraient"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Rageusement, les investisseurs écriront des lettres amères concernant cette mémoire collective tendre qui a mal retenu leurs échecs corporatifs</em>' - Furiously, investors will write bitter letters concerning this tender collective memory that poorly remembered their corporate failures. This combines 'rageusement', 'écrirai', 'mémoire', 'tendre', and 'souvenu'.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - rageusement + écrirai + mémoire + tendre + souvenu + corporate synergy + investment failures",
+  "tags": [
+    "corporate",
+    "investment-failures",
+    "collective-memory"
+  ],
+  "timeCreated": 1736804920
+}

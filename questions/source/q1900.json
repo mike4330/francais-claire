@@ -1,0 +1,18 @@
+{
+    "id": 1900,
+    "audioText": "Vous décidez convenablement d'ignorer le rire moqueur de vos collègues lors de la présentation importante.",
+    "question": "What do you appropriately decide to do about your colleagues' mocking laughter?",
+    "questionType": "comprehension",
+    "options": [
+        "Ignore it during the important presentation",
+        "Confront them immediately after the meeting",
+        "Report their behavior to human resources",
+        "Join in the laughter to diffuse tension"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Vous décidez convenablement d'ignorer le rire moqueur de vos collègues lors de la présentation importante</em>' - You appropriately decide to ignore the mocking laughter of your colleagues during the important presentation. 'Rire' means laughter, 'décidez' is second person plural of 'décider', and 'convenablement' means appropriately.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["workplace", "professionalism", "conflict"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

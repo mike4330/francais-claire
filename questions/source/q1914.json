@@ -1,0 +1,18 @@
+{
+  "id": 1914,
+  "audioText": "Cette bouteille d'eau coûte trois euros dans ce magasin.",
+  "question": "How much does the water bottle cost?",
+  "questionType": "comprehension",
+  "options": [
+    "Three euros",
+    "Two euros",
+    "Four euros",
+    "Five euros"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette bouteille d'eau coûte trois euros dans ce magasin</em>' - This water bottle costs three euros in this store. '<em>Bouteille</em>' means bottle.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["shopping", "money", "everyday-situation"],
+  "timeCreated": "2025-07-15T00:00:00Z"
+}

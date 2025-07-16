@@ -1,0 +1,23 @@
+{
+  "id": 1873,
+  "audioText": "Je viens volontiers avec vous au cinéma ce soir.",
+  "question": "Je viens ______ avec vous au cinéma ce soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "volontiers",
+    "difficilement",
+    "rarement",
+    "jamais"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je viens volontiers avec vous au cinéma ce soir</em>' - I'll gladly come with you to the cinema tonight. The correct answer is 'volontiers' meaning 'willingly' or 'gladly', expressing enthusiasm about joining them.",
+  "difficulty": "B2",
+  "source": "Social invitation",
+  "tags": [
+    "entertainment",
+    "invitation",
+    "enthusiasm"
+  ],
+  "timeCreated": 1720077400,
+  "verified": "claude"
+}

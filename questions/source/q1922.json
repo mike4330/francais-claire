@@ -1,0 +1,23 @@
+{
+  "id": 1922,
+  "audioText": "Il connaissait bien la ville, mais il s'est quand même perdu.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Il connaissait bien la ville, mais il s'est quand même perdu.",
+    "Il connaissait mal la ville, donc il s'est perdu.",
+    "Il connaît bien la ville, et il ne se perd jamais.",
+    "Il connaîtra bien la ville après s'être perdu."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il connaissait bien la ville, mais il s'est quand même perdu</em>' - He knew the city well, but he got lost anyway. The phrase 'quand même' means 'anyway/still' showing contrast between knowing the city and getting lost.",
+  "difficulty": "B2",
+  "source": "Gemini-generated",
+  "tags": [
+    "travel",
+    "city-life",
+    "narration"
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1856,
+    "audioText": "Ces designers urbains marient de façon évidente les styles moderne et traditionnel dans leur nouvel espace commercial downtown.",
+    "question": "How do these urban designers combine different styles?",
+    "questionType": "comprehension",
+    "options": [
+        "They obviously blend modern and traditional styles in their new commercial space",
+        "They carefully separate contemporary and classical elements",
+        "They exclusively use vintage materials and techniques",
+        "They focus only on minimalist and industrial designs"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces designers urbains marient de façon évidente les styles moderne et traditionnel dans leur nouvel espace commercial downtown</em>' - These urban designers obviously blend modern and traditional styles in their new commercial space downtown. 'Marient' means 'marry/combine' (third person plural of 'marier').",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["urban-style", "design", "business"],
+    "timeCreated": "2025-07-14T12:00:00Z"
+}

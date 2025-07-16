@@ -1,0 +1,22 @@
+{
+  "id": 2430,
+  "audioText": "Cette nouvelle technologie permet aux utilisateurs de comprendre aisément les concepts complexes grâce à une interface claire et intuitive.",
+  "question": "Cette nouvelle technologie permet aux utilisateurs de comprendre ______ les concepts complexes grâce à une interface claire et intuitive.",
+  "questionType": "FIB-reading",
+  "options": [
+    "aisément",
+    "difficilement",
+    "partiellement",
+    "rarement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette nouvelle technologie permet aux utilisateurs de comprendre aisément les concepts complexes grâce à une interface claire et intuitive</em>' - This new technology allows users to easily understand complex concepts thanks to a clear and intuitive interface. 'Aisément' means easily or with ease, and 'claire' means clear.",
+  "difficulty": "C1",
+  "source": "Strategic vocabulary targeting for 'aisément'",
+  "tags": [
+    "technology",
+    "education",
+    "interface"
+  ],
+  "timeCreated": 1751853190
+}
