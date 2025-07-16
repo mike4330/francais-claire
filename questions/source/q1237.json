@@ -1,19 +1,24 @@
 {
-    "id": 1237,
-    "audioText": "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles",
-        "Cette manière de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles",
-        "Cette façon de résoudre les problèmes environnementaux paraît plus efficace que les méthodes traditionnelles",
-        "Cette façon de résoudre les problèmes environnementaux semble plus effective que les méthodes traditionnelles"
-    ],
-    "correct": 0,
-    "parentQuestion": 573,
-    "explanation": "The correct text is '<em>Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles</em>' - This way of solving environmental problems seems more effective than traditional methods. Key words: 'façon' (way, not 'manière' - manner), 'semble' (seems, not 'paraît' - appears), and 'efficace' (effective, not 'effective' - Anglicism).",
-    "difficulty": "B2",
-    "source": "Listening version of Q573",
-    "tags": ["environment", "problem-solving", "methods", "effectiveness"],
-    "timeCreated": 1720963800
+  "id": 1237,
+  "audioText": "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles",
+    "Cette manière de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles",
+    "Cette façon de résoudre les problèmes environnementaux paraît plus efficace que les méthodes traditionnelles",
+    "Cette façon de résoudre les problèmes environnementaux semble plus effective que les méthodes traditionnelles"
+  ],
+  "correct": 0,
+  "parentQuestion": 1990,
+  "explanation": "The correct text is '<em>Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles</em>' - This way of solving environmental problems seems more effective than traditional methods. Key words: 'façon' (way, not 'manière' - manner), 'semble' (seems, not 'paraît' - appears), and 'efficace' (effective, not 'effective' - Anglicism).",
+  "difficulty": "B2",
+  "source": "Listening version of Q573",
+  "tags": [
+    "environment",
+    "problem-solving",
+    "methods",
+    "effectiveness"
+  ],
+  "timeCreated": 1720963800
 }

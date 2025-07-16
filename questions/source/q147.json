@@ -10,7 +10,7 @@
     "venues"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'venu' - the masculine singular past participle of 'venir' (to come). Since 'mon frère' (my brother) is masculine singular, the past participle agrees accordingly. The sentence means 'My brother came to visit me last night with his new car.' The other options are feminine (venue) or plural (venus/venues) forms.",
+  "explanation": "The text states '<em>Mon frère est venu me rendre visite hier soir avec sa nouvelle voiture</em>' - My brother came to visit me last night with his new car. The correct answer is 'venu' - the masculine singular past participle of 'venir' (to come). Since 'mon frère' (my brother) is masculine singular, the past participle agrees accordingly.",
   "difficulty": "A2",
   "source": "Family Visit",
   "tags": [
@@ -18,5 +18,6 @@
     "visit",
     "agreement"
   ],
-  "timeCreated": 1751550100
+  "timeCreated": 1751550100,
+  "verified": "claude"
 }

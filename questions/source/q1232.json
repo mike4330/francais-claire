@@ -1,19 +1,23 @@
 {
-    "id": 1232,
-    "audioText": "Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande bâche pour ne rien perdre. C'était sa façon de rester organisé.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande bâche",
-        "Chaque fois qu'il commencent un projet de bricolage, il mettait tous ses outils sur une grande bâche",
-        "Chaque fois qu'il commençait un projet de bricolage, il mettra tous ses outils sur une grande bâche",
-        "Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande nappe"
-    ],
-    "correct": 0,
-    "parentQuestion": 552,
-    "explanation": "The correct text begins with '<em>Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande bâche</em>' - Each time he started a DIY project, he put all his tools on a large tarp. Key words: 'commençait' (was starting, imperfect) not 'commencent' (they start, present), 'mettait' (was putting, imperfect) not 'mettra' (will put, future), and 'bâche' (tarp) not 'nappe' (tablecloth).",
-    "difficulty": "B1",
-    "source": "Listening version of Q552",
-    "tags": ["tools", "DIY", "organization"],
-    "timeCreated": 1720963260
+  "id": 1232,
+  "audioText": "Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande bâche pour ne rien perdre. C'était sa façon de rester organisé.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande bâche",
+    "Chaque fois qu'il commencent un projet de bricolage, il mettait tous ses outils sur une grande bâche",
+    "Chaque fois qu'il commençait un projet de bricolage, il mettra tous ses outils sur une grande bâche",
+    "Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande nappe"
+  ],
+  "correct": 0,
+  "parentQuestion": 1969,
+  "explanation": "The correct text begins with '<em>Chaque fois qu'il commençait un projet de bricolage, il mettait tous ses outils sur une grande bâche</em>' - Each time he started a DIY project, he put all his tools on a large tarp. Key words: 'commençait' (was starting, imperfect) not 'commencent' (they start, present), 'mettait' (was putting, imperfect) not 'mettra' (will put, future), and 'bâche' (tarp) not 'nappe' (tablecloth).",
+  "difficulty": "B1",
+  "source": "Listening version of Q552",
+  "tags": [
+    "tools",
+    "DIY",
+    "organization"
+  ],
+  "timeCreated": 1720963260
 }

@@ -1,6 +1,6 @@
 {
   "id": 1470,
-  "audioText": "Je vous aiderai à répondre à ces questions difficiles si vous restés concentrés.",
+  "audioText": "Je vous aiderai à répondre à ces questions difficiles si vous restez concentrés.",
   "question": "Je vous aiderai à répondre à ces ______ difficiles si vous restez concentrés.",
   "questionType": "fill-in-the-blank",
   "options": [
@@ -10,7 +10,7 @@
     "examens"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Je vous aiderai à répondre à ces questions difficiles si vous restez concentrés</em>' - I will help you answer these difficult questions if you stay focused. 'Aiderai' is the future form of 'aider' (to help), targeting the missing conjugate plus under-represented 'helping', 'questions', and 'difficulty' topics.",
+  "explanation": "The text states '<em>Je vous aiderai à répondre à ces questions difficiles si vous restez concentrés</em>' - I will help you answer these difficult questions if you stay focused. 'Aiderai' is the future form of 'aider' (to help).",
   "difficulty": "B1",
   "source": "Educational assistance",
   "tags": [
@@ -19,5 +19,6 @@
     "difficulty",
     "education"
   ],
-  "timeCreated": 1736103720
+  "timeCreated": 1736103720,
+  "verified": "claude"
 }

@@ -1,19 +1,23 @@
 {
-    "id": 1147,
-    "audioText": "Nous sommes tombés d'accord sur les termes du contrat.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Nous sommes tombés d'accord sur les termes du contrat.",
-        "Nous sommes tombé d'accord sur les termes du contrat.",
-        "Nous sommes tombés d'accords sur les termes du contrat.",
-        "Nous sommes tombés d'accord sur les terme du contrat."
-    ],
-    "correct": 0,
-    "explanation": "The correct option is 'Nous sommes tombés d'accord sur les termes du contrat.' - We agreed on the contract terms. This listening exercise tests past participle agreement ('tombés' plural with 'nous'), singular vs plural 'd'accord' vs 'd'accords', and noun number agreement ('les termes' plural vs 'les terme').",
-    "difficulty": "B2",
-    "source": "Gemini-generated",
-    "tags": ["business", "negotiations", "agreement"],
-    "parentQuestion": 569,
-    "timeCreated": 1720826580
+  "id": 1147,
+  "audioText": "Nous sommes tombés d'accord sur les termes du contrat.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous sommes tombés d'accord sur les termes du contrat.",
+    "Nous sommes tombé d'accord sur les termes du contrat.",
+    "Nous sommes tombés d'accords sur les termes du contrat.",
+    "Nous sommes tombés d'accord sur les terme du contrat."
+  ],
+  "correct": 0,
+  "explanation": "The correct option is 'Nous sommes tombés d'accord sur les termes du contrat.' - We agreed on the contract terms. This listening exercise tests past participle agreement ('tombés' plural with 'nous'), singular vs plural 'd'accord' vs 'd'accords', and noun number agreement ('les termes' plural vs 'les terme').",
+  "difficulty": "B2",
+  "source": "Gemini-generated",
+  "tags": [
+    "business",
+    "negotiations",
+    "agreement"
+  ],
+  "parentQuestion": 1986,
+  "timeCreated": 1720826580
 }

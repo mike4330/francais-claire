@@ -1,19 +1,24 @@
 {
-    "id": 1184,
-    "audioText": "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles.",
-        "Cette façon de résoudre les problèmes environnementaux semblent plus efficace que les méthodes traditionnelles.",
-        "Cette façon de résoudre les problèmes environnementaux semble plus efficaces que les méthodes traditionnelles.",
-        "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnels."
-    ],
-    "correct": 0,
-    "explanation": "The correct option is '<em>Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles</em>' - This way of solving environmental problems seems more effective than traditional methods. This listening exercise tests singular verb 'semble' vs plural 'semblent', singular adjective 'efficace' vs plural 'efficaces', and feminine adjective 'traditionnelles' vs masculine 'traditionnels'.",
-    "difficulty": "B2",
-    "source": "Environmental problem-solving discussion",
-    "tags": ["environment", "problem-solving", "methods", "effectiveness"],
-    "parentQuestion": 573,
-    "timeCreated": 1752111240
+  "id": 1184,
+  "audioText": "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles.",
+    "Cette façon de résoudre les problèmes environnementaux semblent plus efficace que les méthodes traditionnelles.",
+    "Cette façon de résoudre les problèmes environnementaux semble plus efficaces que les méthodes traditionnelles.",
+    "Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnels."
+  ],
+  "correct": 0,
+  "explanation": "The correct option is '<em>Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles</em>' - This way of solving environmental problems seems more effective than traditional methods. This listening exercise tests singular verb 'semble' vs plural 'semblent', singular adjective 'efficace' vs plural 'efficaces', and feminine adjective 'traditionnelles' vs masculine 'traditionnels'.",
+  "difficulty": "B2",
+  "source": "Environmental problem-solving discussion",
+  "tags": [
+    "environment",
+    "problem-solving",
+    "methods",
+    "effectiveness"
+  ],
+  "parentQuestion": 1990,
+  "timeCreated": 1752111240
 }

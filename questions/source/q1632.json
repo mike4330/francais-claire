@@ -10,9 +10,10 @@
         "Creative stories and poems"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'Honest opinions about the superb image'. The text states '<em>J'écris franchement mes opinions sur cette image superbe dans mon journal personnel</em>' - I write frankly my opinions about this superb image in my personal journal. This targets 'écris' with the missing adverb 'franchement' and synergistic vocabulary.",
+    "explanation": "The text states '<em>J'écris franchement mes opinions sur cette image superbe dans mon journal personnel</em>' - I write frankly my opinions about this superb image in my personal journal. 'Écris' is the first person singular of 'écrire' (to write).",
     "difficulty": "B2",
     "source": "Strategic conjugate targeting: écris + franchement + image + superbe",
     "tags": ["writing", "personal-expression", "honesty"],
-    "timeCreated": 1720817400
+    "timeCreated": 1720817400,
+    "verified": "claude"
 }

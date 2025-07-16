@@ -10,9 +10,10 @@
         "It was returned to the kitchen immediately"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'It was well served by the lady in the quiet restaurant'. The text states '<em>Ce café pur a été bien servi par cette dame dans ce restaurant calme</em>' - This pure coffee was well served by this lady in this quiet restaurant. This targets 'servi' (past participle of servir) with synergistic vocabulary.",
+    "explanation": "The text states '<em>Ce café pur a été bien servi par cette dame dans ce restaurant calme</em>' - This pure coffee was well served by this lady in this quiet restaurant. 'Servi' is the past participle of 'servir' (to serve).",
     "difficulty": "B2",
     "source": "Strategic conjugate targeting: servi + pur + dame + quiet restaurant",
     "tags": ["restaurant", "service", "quiet"],
-    "timeCreated": 1720817600
+    "timeCreated": 1720817600,
+    "verified": "claude"
 }

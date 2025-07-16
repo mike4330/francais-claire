@@ -1,7 +1,7 @@
 {
     "id": 180,
     "audioText": "Où irez-vous en vacances cet été ?",
-    "question": "What is being asked about?",
+    "question": "Qu'est-ce que vous avez entendu ?",
     "questionType": "listening",
     "options": [
         "Où irez-vous en vacances cet été ?",
@@ -10,9 +10,10 @@
         "Où iriez-vous en vacances cet été ?"
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'irez' - the future form of 'aller' (to go) for vous. 'Où irez-vous' means 'where will you go'. This is asking about future vacation plans using the simple future tense.",
+    "explanation": "The correct answer is '<em>Où irez-vous en vacances cet été ?</em>' - Where will you go on vacation this summer? The sentence uses 'irez' - the future form of 'aller' (to go) for vous.",
     "difficulty": "A2",
     "source": "Vacation planning conversation",
     "tags": ["vacation", "travel", "future-plans"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

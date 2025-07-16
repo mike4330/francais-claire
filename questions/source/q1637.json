@@ -1,19 +1,25 @@
 {
-    "id": 1637,
-    "audioText": "Le soleil couchant transformait le paysage en une palette de couleurs dorées et orangées.",
-    "question": "What does the speaker say about the setting sun?",
-    "questionType": "listening",
-    "options": [
-        "It transformed the landscape into golden and orange colors.",
-        "It made the landscape completely dark.",
-        "It created shadows across the landscape.", 
-        "It reflected off the water in the landscape."
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Le soleil couchant transformait le paysage en une palette de couleurs dorées et orangées</em>' - The setting sun transformed the landscape into a palette of golden and orange colors. 'Soleil couchant' means 'setting sun' and describes the beautiful evening light effect. The distractors test misinterpretation of the effect (made the landscape completely dark, created shadows, reflected off the water).",
-    "difficulty": "B2",
-    "source": "Gemini CLI - Listening practice",
-    "tags": ["nature", "sunset", "colors", "landscape", "beauty"],
-    "timeCreated": 1720800000,
-    "parentQuestion": 575
+  "id": 1637,
+  "audioText": "Le soleil couchant transformait le paysage en une palette de couleurs dorées et orangées.",
+  "question": "What does the speaker say about the setting sun?",
+  "questionType": "listening",
+  "options": [
+    "It transformed the landscape into golden and orange colors.",
+    "It made the landscape completely dark.",
+    "It created shadows across the landscape.",
+    "It reflected off the water in the landscape."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le soleil couchant transformait le paysage en une palette de couleurs dorées et orangées</em>' - The setting sun transformed the landscape into a palette of golden and orange colors. 'Soleil couchant' means 'setting sun' and describes the beautiful evening light effect. The distractors test misinterpretation of the effect (made the landscape completely dark, created shadows, reflected off the water).",
+  "difficulty": "B2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "nature",
+    "sunset",
+    "colors",
+    "landscape",
+    "beauty"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 1992
 }
