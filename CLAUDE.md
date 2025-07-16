@@ -212,3 +212,41 @@ bash util/analyze-questions.sh     # Full question analysis
 **Performance Data**: WebSocket loads user performance from Redis for adaptive selection
 **Anti-Repetition**: Timestamp filtering prevents cycling through recent questions
 
+## 🔍 Question Review and Quality Control
+
+**Purpose**: Systematic review of existing questions to ensure quality, consistency, and compliance with Claude.md guidelines.
+
+### Review Process:
+1. **Read question file**: Check content, structure, and compliance
+2. **Identify issues**: Common problems include:
+   - Missing French translation with italics in explanations
+   - Grammar errors or unnatural French
+   - Incorrect difficulty classification
+   - Inappropriate content or scenarios
+   - Missing or malformed mandatory fields
+
+3. **Fix issues**: Apply corrections following guidelines
+4. **Mark as verified**: Add `"verified": "claude"` field
+
+### Technical Implementation:
+```bash
+# Use jq for JSON editing (preferred method)
+jq '. + {"verified": "claude"}' questions/source/q{ID}.json > temp.json && mv temp.json questions/source/q{ID}.json
+
+# Batch verification check
+jq -r '.verified' questions/source/q{ID}.json
+```
+
+### Quality Standards:
+- **French Translation**: All English questions/options must have complete French translation in explanation with `<em>` tags
+- **Natural French**: Audiotext must sound natural and grammatically correct
+- **Appropriate Content**: No proper names, inappropriate scenarios, or overly complex situations
+- **CEFR Compliance**: Word count must match difficulty level
+- **Tag Compliance**: Tags must describe real-world content topics only
+
+### Verification Field:
+- **Purpose**: Track which questions have been manually reviewed for quality
+- **Format**: `"verified": "claude"`
+- **Placement**: Last field in JSON object
+- **Tool**: Always use `jq` for reliable JSON manipulation
+

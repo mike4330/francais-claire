@@ -6,7 +6,7 @@
         "skipped": 1000
     },
     "intelligentSelection": {
-        "recentAnswerThresholdMinutes": 960,
+        "recentAnswerThresholdMinutes": 2480,
         "description": "Avoid questions answered within this many minutes",
         "randomization": {
             "enabled": true,
@@ -16,14 +16,14 @@
     },
     "redis": {
         "dataRetentionDays": {
-            "individualResponses": 7,
+            "individualResponses": 9,
             "audioCache": 30,
             "questionStats": 30,
-            "userQuestionStats": 7 
+            "userQuestionStats": 9
         }
     },
     "imageRotator": {
-        "intervalMinutes": 2,
+        "intervalMinutes": 3,
         "directory": "res/photos/",
         "enabled": true,
         "description": "Time-based background image rotation for question container"
@@ -32,19 +32,19 @@
         "a": {
             "levels": ["A1", "A2"],
             "minId": 1,
-            "maxId": 364,
+            "maxId": 534,
             "description": "Beginner/Elementary"
         },
         "b": {
             "levels": ["B1", "B2"],
-            "minId": 365,
-            "maxId": 1349,
+            "minId": 535,
+            "maxId": 2153,
             "description": "Intermediate/Upper-Intermediate"
         },
         "c": {
             "levels": ["C1", "C2"],
-            "minId": 1350,
-            "maxId": 5000,
+            "minId": 2154,
+            "maxId": 4000,
             "description": "Advanced/Proficiency"
         }
     }

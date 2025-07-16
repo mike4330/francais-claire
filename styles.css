@@ -90,6 +90,12 @@
     color: #764ba2;
 }
 
+.menu-divider {
+    height: 1px;
+    background: #e0e6ed;
+    margin: 8px 0;
+}
+
 .hamburger-menu.open .menu-dropdown {
     display: flex;
 }
@@ -104,7 +110,7 @@
     height: 120px;
     /* border: 4px solid #764ba2; */
     border-radius: 6px;
-    background: #f8f9fa;
+    background: #f9f9f9e0;
     
     display: flex;
     align-items: center;
@@ -277,21 +283,33 @@ body {
 }
 
 .question-container {
-    background: #f8f9fa;
+    background: #f8f9fa var(--bg-image, url('res/photos/1.jpg')) center center / cover no-repeat;
     border-radius: 15px;
     padding: 30px;
     margin: 20px 0;
     border-left: 5px solid #667eea;
+    transition: background-image 1s ease-in-out;
 }
 
 .question-number {
-    color: #667eea;
+    color: white;
     font-weight: bold;
     font-size: 1.1em;
     margin-bottom: 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.question-number span:first-child {
+    background: linear-gradient(45deg, rgba(102, 126, 234, 0.9), rgba(118, 75, 162, 0.9));
+    padding: 8px 16px;
+    border-radius: 25px;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    font-size: 0.9em;
+    color: white;
+    font-weight: 600;
+    backdrop-filter: blur(10px);
 }
 
 .question-id {
@@ -358,7 +376,7 @@ body {
     margin-left: 20%;
     margin-right: 20%;
     font-weight: 500;
-    background: #fef9dd;
+    background: #fef9dff0;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 6px 24px rgba(102, 126, 234, 0.11), 0 1.5px 6px rgba(0,0,0,0.07);
@@ -374,33 +392,37 @@ body {
 }
 
 .option {
-    background: white;
-    border: 2px solid #e9ecef;
+    background: rgba(255, 255, 255, 0.85);
+    /*background: #c2ffff;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.9) 66%, rgba(222, 222, 222, 0.7) 100%);*/
+    border: 0px solid #e9ecef;
     border-radius: 12px;
     padding: 15px 20px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    /*transition: all 0.3s ease;*/
     position: relative;
+    width: 66%;
+    margin: 0 auto;
 }
 
 .option:hover {
     border-color: #667eea;
-    background: #f8f9ff;
+    background: rgba(248, 249, 255, 0.9);
 }
 
 .option.selected {
     border-color: #667eea;
-    background: linear-gradient(45deg, #667eea0a, #764ba20a);
+    background: rgba(102, 126, 234, 0.15);
 }
 
 .option.correct {
     border-color: #28a745;
-    background: #d4edda;
+    background: rgba(212, 237, 218, 0.9);
 }
 
 .option.incorrect {
     border-color: #dc3545;
-    background: #f8d7da;
+    background: rgba(248, 215, 218, 0.9);
 }
 
 .option-letter {
@@ -415,6 +437,55 @@ body {
     font-weight: bold;
     margin-right: 12px;
     font-size: 0.9em;
+}
+
+/* Writing Input Styles */
+.writing-input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin: 25px 0;
+    text-align: center;
+}
+
+.writing-input {
+    background: rgba(255, 255, 255, 0.95);
+    border: 2px solid #e9ecef;
+    border-radius: 12px;
+    padding: 25px 30px;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 80%;
+    max-width: 500px;
+    margin: 0 auto;
+    display: block;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.writing-input:focus {
+    outline: none;
+    border-color: #667eea;
+    background: rgba(248, 249, 255, 0.95);
+    box-shadow: 0 4px 20px rgba(102, 126, 234, 0.2);
+}
+
+.writing-input.correct {
+    border-color: #28a745;
+    background: rgba(212, 237, 218, 0.95);
+}
+
+.writing-input.incorrect {
+    border-color: #dc3545;
+    background: rgba(248, 215, 218, 0.95);
+}
+
+.writing-hint {
+    color: #6c757d;
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 8px;
 }
 
 .controls {
@@ -495,6 +566,106 @@ body {
     border: 1px solid #f5c6cb;
 }
 
+/* Modal Styles */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    backdrop-filter: blur(3px);
+}
+
+.modal-content {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+    max-width: 500px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    animation: modalSlideIn 0.2s ease-out;
+    backdrop-filter: blur(10px);
+}
+
+@keyframes modalSlideIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9) translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
+
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 25px 15px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.modal-header h3 {
+    margin: 0;
+    color: #333;
+    font-size: 1.3em;
+}
+
+.modal-close {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: #999;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.2s ease;
+}
+
+.modal-close:hover {
+    background: #f8f9fa;
+    color: #333;
+}
+
+.modal-body {
+    padding: 20px 25px;
+}
+
+.modal-feedback {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+.modal-feedback.correct {
+    color: #155724;
+}
+
+.modal-feedback.incorrect {
+    color: #721c24;
+}
+
+.modal-footer {
+    padding: 15px 25px 25px;
+    text-align: center;
+    border-top: 1px solid #e9ecef;
+}
+
+.modal-footer .btn {
+    min-width: 140px;
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 25px;
@@ -518,6 +689,18 @@ body {
     .config-row label {
         min-width: auto;
         margin-bottom: 5px;
+    }
+    
+    .modal-content {
+        width: 95%;
+        margin: 20px;
+    }
+    
+    .modal-header,
+    .modal-body,
+    .modal-footer {
+        padding-left: 20px;
+        padding-right: 20px;
     }
 }
 /* --- End moved from french_listening_app.html --- */ 

@@ -1,3 +1,4 @@
+*.swp
 France_flag_waving_icon.svg
 Franceroundflag.svg
 out.md
@@ -6,3 +7,16 @@ cache-server.log
 questions*json*backup*
 questions/source/*json.backup.20*
 test*html
+questions/source/comp
+questions/source/parented
+questions/source/bak/*
+tts-proxy.php
+parented
+res/bak/*.csv
+res/adverbs.csv
+database/lexique-experiments
+COMPILATION_STATUS.md
+GEMINI.md
+questions/comp
+questions/source/bak/*
+comp
