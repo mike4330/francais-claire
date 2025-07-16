@@ -10,7 +10,7 @@
     "The changes in the store layout design"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les clients sentent immédiatement la différence avec notre nouveau service personnalisé</em>' - The clients immediately feel/notice the difference with our new personalized service. 'Sentent' is the third person plural present form of 'sentir' (to feel/sense), targeting both the missing verb conjugate and under-represented 'service' topic.",
+  "explanation": "The text states '<em>Les clients sentent immédiatement la différence avec notre nouveau service personnalisé</em>' - The clients immediately feel/notice the difference with our new personalized service.",
   "difficulty": "B1",
   "source": "Customer service",
   "tags": [
@@ -19,5 +19,6 @@
     "business",
     "improvement"
   ],
-  "timeCreated": 1736103420
+  "timeCreated": 1736103420,
+  "verified": "claude"
 }

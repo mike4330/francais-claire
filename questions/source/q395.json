@@ -10,9 +10,10 @@
         "J'espérais voir cette image superbe de mon grand-père"
     ],
     "correct": 0,
-    "explanation": "The correct answer is the first option. The text states '<em>J'espérais avoir cette image superbe de mon grand-père</em>' - I was hoping to have this superb image of my grandfather. This targets 'espérais' (imperfect tense of espérer) with synergistic vocabulary: image, superbe, grand-père.",
+    "explanation": "The correct answer is '<em>J'espérais avoir cette image superbe de mon grand-père</em>' - I was hoping to have this superb image of my grandfather. 'Espérais' is the imperfect tense of 'espérer' (to hope).",
     "difficulty": "A2",
     "source": "Strategic conjugate targeting: espérais + image + superbe + grand-père",
     "tags": ["family", "hope", "photography"],
-    "timeCreated": 1720817700
+    "timeCreated": 1720817700,
+    "verified": "claude"
 }

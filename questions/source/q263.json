@@ -1,6 +1,6 @@
 {
     "id": 263,
-    "audioText": "Cette femme pauvre garde peine dans son cœur.",
+    "audioText": "Cette femme pauvre garde la peine dans son cœur.",
     "question": "What does the poor woman keep in her heart?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Love"
     ],
     "correct": 0,
-    "explanation": "The speaker says '<em>Cette femme pauvre garde peine dans son cœur</em>' - This poor woman keeps sorrow in her heart. 'Pauvre' means 'poor', 'peine' means 'sorrow/pain', 'cœur' means 'heart'.",
+    "explanation": "The speaker says '<em>Cette femme pauvre garde la peine dans son cœur</em>' - This poor woman keeps sorrow in her heart. 'Pauvre' means 'poor', 'peine' means 'sorrow/pain', 'cœur' means 'heart'.",
     "difficulty": "A2",
     "source": "Human emotion",
     "tags": ["spirituality", "emotion", "poverty"],
-    "timeCreated": 1720443720
+    "timeCreated": 1720443720,
+    "verified": "claude"
 }
