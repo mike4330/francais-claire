@@ -13,7 +13,7 @@ import os
 from collections import defaultdict, Counter
 
 # Configuration
-COVERAGE_FILTER_THRESHOLD = 49  # Skip verbs with coverage above this percentage
+COVERAGE_FILTER_THRESHOLD = 40  # Skip verbs with coverage above this percentage
 
 # Blacklist for conjugate forms that are used as nouns/other parts of speech in questions
 # Format: {word: [list_of_question_ids_where_its_not_a_conjugate]}
@@ -26,13 +26,17 @@ LITERARY_VERB_BLACKLIST = {
     # Passé simple forms (literary only)
     'mourut', 'commença', 'devint', 'vint', 'tint', 'prit', 'fit', 'dit', 'vit', 'fut',
     'eut', 'alla', 'donna', 'porta', 'parla', 'regarda', 'trouva', 'passa', 'sentit',
-    'sortit', 'partit', 'rentra', 'arriva', 'resta', 'tomba', 'leva', 'tourna',
+    'sortit', 'partit', 'rentra', 'arriva', 'resta', 'tomba', 'leva', 'tourna', 'plut',
+    'commença', 'ouvrit', 'offrit', 'couvrit', 'souffrit', 'découvrit',
     
     # Rare/morbid conjugations
     'mourrait', 'mourrais', 'mourrons', 'mourrez', 'mortes', 'morts',
     
     # Very literary conditional/subjunctive variants
     'sût', 'eût', 'fût', 'dût', 'pût', 'vînt', 'tînt', 'prît', 'fît', 'dît', 'vît',
+    
+    # Very rare conditionals and low-frequency forms (< 1.0 freq)
+    'plairais', 'plairas', 'plairont', 'plaisais', 
     
     # Archaic or very formal forms
     'messied', 'messiéront', 'gît', 'gisent', 'gisant'

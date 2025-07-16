@@ -1,0 +1,163 @@
+#!/bin/bash
+
+# Bulk Renumber Questions (bulk-rq) - Safe batch renumbering with gap handling
+# Usage: ./bulk-rq <start_from> <start_to> <length>
+# Example: ./bulk-rq 1760 2051 13
+# 
+# This tool safely renumbers a range of questions, skipping missing files
+# instead of failing the entire operation.
+
+if [ $# -ne 3 ]; then
+    echo "Usage: $0 <start_from> <start_to> <length>"
+    echo "Example: $0 1760 2051 13"
+    echo ""
+    echo "Safely renumbers questions from start_from to start_from+length-1"
+    echo "Maps them to start_to to start_to+length-1"
+    echo "Skips missing source files instead of failing"
+    exit 1
+fi
+
+find -name '*json.backup.2*' -mtime +8 -exec rm -f {} \;
+
+START_FROM="$1"
+START_TO="$2"
+LENGTH="$3"
+
+# Validate inputs are numeric
+if ! [[ "$START_FROM" =~ ^[0-9]+$ ]] || ! [[ "$START_TO" =~ ^[0-9]+$ ]] || ! [[ "$LENGTH" =~ ^[0-9]+$ ]]; then
+    echo "❌ Error: All parameters must be numeric"
+    echo "   Got: start_from='$START_FROM', start_to='$START_TO', length='$LENGTH'"
+    exit 1
+fi
+
+# Validate length is positive
+if [ "$LENGTH" -le 0 ]; then
+    echo "❌ Error: Length must be positive"
+    echo "   Got: length='$LENGTH'"
+    exit 1
+fi
+
+# Check if rq script exists
+if [ ! -f "./rq" ]; then
+    echo "❌ Error: ./rq script not found in current directory"
+    echo "   Make sure you're running this from questions/source/"
+    exit 1
+fi
+
+# Make rq executable if it isn't
+if [ ! -x "./rq" ]; then
+    chmod +x ./rq
+    echo "🔧 Made ./rq executable"
+fi
+
+echo "🔄 Bulk renumbering operation:"
+echo "   Range: $START_FROM-$((START_FROM+LENGTH-1)) → $START_TO-$((START_TO+LENGTH-1))"
+echo "   Length: $LENGTH questions"
+echo ""
+
+# First pass: Check which files exist and detect conflicts
+echo "🔍 Pre-flight checks..."
+EXISTING_FILES=()
+MISSING_FILES=()
+CONFLICTS=()
+
+for ((i=0; i<LENGTH; i++)); do
+    from_id=$((START_FROM+i))
+    to_id=$((START_TO+i))
+    from_file="q${from_id}.json"
+    to_file="q${to_id}.json"
+    
+    if [ -f "$from_file" ]; then
+        EXISTING_FILES+=("$from_id:$to_id")
+        # Check for target conflicts
+        if [ -f "$to_file" ]; then
+            CONFLICTS+=("$from_id→$to_id (target exists)")
+        fi
+    else
+        MISSING_FILES+=("$from_id")
+    fi
+done
+
+echo "📊 Analysis:"
+echo "   ✅ Found: ${#EXISTING_FILES[@]} files to process"
+echo "   ⚠️  Missing: ${#MISSING_FILES[@]} files (will skip)"
+echo "   ❌ Conflicts: ${#CONFLICTS[@]} target files already exist"
+
+if [ ${#MISSING_FILES[@]} -gt 0 ]; then
+    echo ""
+    echo "📋 Missing source files (will be skipped):"
+    for missing in "${MISSING_FILES[@]}"; do
+        echo "     q${missing}.json"
+    done
+fi
+
+if [ ${#CONFLICTS[@]} -gt 0 ]; then
+    echo ""
+    echo "⚠️  Target conflicts detected:"
+    for conflict in "${CONFLICTS[@]}"; do
+        echo "     $conflict"
+    done
+    echo ""
+    read -p "Continue anyway? Target conflicts will cause individual failures. (y/N): " -n 1 -r
+    echo
+    if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+        echo "❌ Operation cancelled"
+        exit 1
+    fi
+fi
+
+if [ ${#EXISTING_FILES[@]} -eq 0 ]; then
+    echo "❌ No files to process!"
+    exit 1
+fi
+
+echo ""
+read -p "Proceed with renumbering ${#EXISTING_FILES[@]} files? (y/N): " -n 1 -r
+echo
+if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+    echo "❌ Operation cancelled"
+    exit 1
+fi
+
+# Second pass: Execute renumbering
+echo ""
+echo "🚀 Starting bulk renumbering..."
+SUCCESS_COUNT=0
+FAILURE_COUNT=0
+SKIPPED_COUNT=${#MISSING_FILES[@]}
+
+for mapping in "${EXISTING_FILES[@]}"; do
+    from_id="${mapping%:*}"
+    to_id="${mapping#*:}"
+    
+    echo ""
+    echo "🔄 Processing: q${from_id}.json → q${to_id}.json"
+    
+    if ./rq "$from_id" "$to_id"; then
+        echo "   ✅ Success"
+        SUCCESS_COUNT=$((SUCCESS_COUNT + 1))
+    else
+        echo "   ❌ Failed"
+        FAILURE_COUNT=$((FAILURE_COUNT + 1))
+    fi
+done
+
+echo ""
+echo "📈 Bulk operation completed!"
+echo "   ✅ Successful: $SUCCESS_COUNT"
+echo "   ❌ Failed: $FAILURE_COUNT" 
+echo "   ⚠️  Skipped: $SKIPPED_COUNT"
+echo "   📊 Total processed: $((SUCCESS_COUNT + FAILURE_COUNT)) / ${#EXISTING_FILES[@]}"
+
+if [ $SUCCESS_COUNT -gt 0 ]; then
+    echo ""
+    echo "💡 Next steps:"
+    echo "   1. Run 'node ../../compile-questions.js' to update compiled files"
+    echo "   2. Verify the renumbering worked as expected"
+fi
+
+if [ $FAILURE_COUNT -gt 0 ]; then
+    echo ""
+    echo "⚠️  Some operations failed. Check the output above for details."
+    exit 1
+fi

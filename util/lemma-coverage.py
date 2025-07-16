@@ -18,10 +18,10 @@ from collections import defaultdict, Counter
 # ============================================================================
 # THRESHOLD CONFIGURATION - Adjust these values to tune analysis sensitivity
 # ============================================================================
-ATTENTION_THRESHOLD_ADVERBS = 0.0022      
-ATTENTION_THRESHOLD_ADJECTIVES = 0.00226
-ATTENTION_THRESHOLD_NOUNS = 0.002        
-CONJUGATION_COVERAGE_FILTER = 49         # Skip verbs with coverage above this percentage
+ATTENTION_THRESHOLD_ADVERBS = 0.002      
+ATTENTION_THRESHOLD_ADJECTIVES = 0.0018
+ATTENTION_THRESHOLD_NOUNS = 0.00097        
+CONJUGATION_COVERAGE_FILTER = 37         # Skip verbs with coverage above this percentage
 # ============================================================================
 
 # Blacklist for conjugate forms that are used as nouns/other parts of speech in questions
@@ -30,18 +30,53 @@ CONJUGATE_BLACKLIST = {
     'crue': [602],  # Used as noun "en crue" (in flood) in q602, not as past participle of "croire"
 }
 
+# Hardcoded hyphenated compound nouns for noun analysis only
+HYPHENATED_COMPOUND_NOUNS = {
+    'grand-père', 'grand-mère', 'grand-parents', 'beau-père', 'beau-frère', 
+    'belle-mère', 'belle-sœur', 'ex-mari', 'ex-femme', 'arrière-grand-père',
+    'arrière-grand-mère', 'demi-frère', 'demi-sœur'
+}
+
+# Blacklist for nouns with limited pedagogical value
+NOUN_BLACKLIST = {
+    # Military ranks and titles
+    'lieutenant', 'colonel', 'général', 'commandant', 'capitaine', 'sergent',
+    'maréchal', 'amiral', 'brigadier',
+    
+    # Vulgar slang
+    'bordel', 'putain', 'merde', 'connard', 'salaud', 'con', 'pute',
+    
+    # Overly specialized/technical terms
+    'métaphysique', 'épistémologie', 'ontologie', 'herméneutique',
+    
+    # Archaic/literary terms
+    'damoiseau', 'jouvenceau', 'occis', 'gent', 'iceux',
+    
+    # Religious/supernatural with limited modern use
+    'diable', 'démon', 'ange', 'archange', 'séraphin',
+    
+    # Very informal slang for professions (prefer standard terms)
+    'flic', 'keuf', 'toubib', 'instit',
+    # misc
+    'anglais','prince','crime'
+}
+
 # Blacklist for literary/rare verb forms not suitable for everyday French learning
 LITERARY_VERB_BLACKLIST = {
     # Passé simple forms (literary only)
     'mourut', 'commença', 'devint', 'vint', 'tint', 'prit', 'fit', 'dit', 'vit', 'fut',
     'eut', 'alla', 'donna', 'porta', 'parla', 'regarda', 'trouva', 'passa', 'sentit',
-    'sortit', 'partit', 'rentra', 'arriva', 'resta', 'tomba', 'leva', 'tourna',
+    'sortit', 'partit', 'rentra', 'arriva', 'resta', 'tomba', 'leva', 'tourna', 'plut',
+    'commença', 'ouvrit', 'offrit', 'couvrit', 'souffrit', 'découvrit',
     
     # Rare/morbid conjugations
     'mourrait', 'mourrais', 'mourrons', 'mourrez', 'mortes', 'morts',
     
     # Very literary conditional/subjunctive variants
     'sût', 'eût', 'fût', 'dût', 'pût', 'vînt', 'tînt', 'prît', 'fît', 'dît', 'vît',
+    
+    # Very rare conditionals and low-frequency forms (< 1.0 freq)
+    'plairais', 'plairas', 'plairont', 'plaisais', 
     
     # Archaic or very formal forms
     'messied', 'messiéront', 'gît', 'gisent', 'gisant'
@@ -487,7 +522,12 @@ def load_adverbs_from_csv(paths, limit=50, question_text=None):
     # These are treated as single units in the corpus but appear as separate words in regex
     compound_adverbs = {
         'à tâtons': ['à', 'tâtons'],
-        'aux aguets': ['aux', 'aguets']
+        'aux aguets': ['aux', 'aguets'],
+        'à l\'improviste': ['à', 'l', 'improviste'],
+        'ici-bas': ['ici', 'bas'],
+        'à jeun': ['à', 'jeun'],
+        'à grand-peine': ['à', 'grand', 'peine'],
+        'outre-mer': ['outre', 'mer']
     }
     
     # Check for compound adverbs in the full text
@@ -771,6 +811,10 @@ def load_nouns_from_csv(paths, limit=50, questions=None):
                 lemme = row['lemme'].strip('"')  # Remove quotes if present
                 overall_freq = float(row['overall_freq']) if row['overall_freq'] else 0
                 
+                # Skip blacklisted nouns with limited pedagogical value
+                if lemme in NOUN_BLACKLIST:
+                    continue
+                
                 nouns_data.append({
                     'lemme': lemme,
                     'freq': overall_freq
@@ -779,6 +823,17 @@ def load_nouns_from_csv(paths, limit=50, questions=None):
     except Exception as e:
         print(f"{Colors.FAIL} Error loading nouns: {e}")
         return []
+    
+    # Add hyphenated compound nouns to the data if they're not already present
+    for compound_noun in HYPHENATED_COMPOUND_NOUNS:
+        # Check if already in data
+        if not any(noun['lemme'] == compound_noun for noun in nouns_data):
+            # Add with estimated frequency based on similar compound words
+            estimated_freq = 50.0  # Conservative estimate for family relation terms
+            nouns_data.append({
+                'lemme': compound_noun,
+                'freq': estimated_freq
+            })
     
     # Sort by frequency 
     nouns_data.sort(key=lambda x: x['freq'], reverse=True)
@@ -803,6 +858,13 @@ def load_nouns_from_csv(paths, limit=50, questions=None):
             
             # Extract words and store as set for fast lookup
             words = re.findall(r'\b[a-záàâäéèêëíìîïóòôöúùûüýÿñçœ]+\b', question_text.lower())
+            
+            # NOUN ANALYSIS ONLY: also check for hyphenated compound nouns
+            question_text_lower = question_text.lower()
+            for compound_noun in HYPHENATED_COMPOUND_NOUNS:
+                if re.search(r'\b' + re.escape(compound_noun) + r'\b', question_text_lower):
+                    words.append(compound_noun)
+            
             question_word_sets.append(set(words))
     
     # Find nouns needing attention (below threshold)
