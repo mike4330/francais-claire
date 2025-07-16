@@ -1,0 +1,23 @@
+{
+  "id": 2072,
+  "audioText": "Après cette journée chaude et sèche, nous avons besoin d'un peu d'eau fraîche.",
+  "question": "Après cette journée chaude et ______, nous avons besoin d'un peu d'eau fraîche.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "sèche",
+    "humide",
+    "froide",
+    "longue"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Après cette journée chaude et sèche, nous avons besoin d'un peu d'eau fraîche</em>' - After this hot and dry day, we need some fresh water. 'Sèche' (dry) pairs naturally with 'chaude' (hot) to describe weather conditions, contrasting with the desired 'fraîche' (fresh) water.",
+  "difficulty": "B1",
+  "source": "Weather and thirst",
+  "tags": [
+    "weather",
+    "temperature",
+    "thirst",
+    "water"
+  ],
+  "timeCreated": 1736103300
+}

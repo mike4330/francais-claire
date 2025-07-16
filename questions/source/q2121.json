@@ -1,0 +1,24 @@
+{
+  "id": 2121,
+  "audioText": "Pourquoi demandez-vous toujours des explications supplémentaires pendant les réunions?",
+  "question": "Pourquoi ______ toujours des explications supplémentaires pendant les réunions?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "demandez-vous",
+    "demandez",
+    "demander",
+    "demandons"
+  ],
+  "correct": 0,
+  "explanation": "The text contains 'Pourquoi demandez-vous toujours des explications supplémentaires pendant les réunions?' - Why do you always ask for additional explanations during meetings? 'Demandez-vous' is the second person plural present tense of 'demander' (to ask) in interrogative form.",
+  "difficulty": "B1",
+  "source": "Workplace communication",
+  "tags": [
+    "workplace",
+    "meetings",
+    "communication",
+    "questions",
+    "formal"
+  ],
+  "timeCreated": 1736067000
+}

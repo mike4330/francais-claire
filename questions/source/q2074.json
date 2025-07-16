@@ -1,0 +1,23 @@
+{
+  "id": 2074,
+  "audioText": "Quand j'étais enfant, je suivais le sentier de randonnée même quand les branches me gênaient continuellement.",
+  "question": "What did the speaker do as a child despite the branches being annoying?",
+  "questionType": "comprehension",
+  "options": [
+    "Followed the hiking trail anyway.",
+    "Cut down the annoying branches.",
+    "Found an alternative path.",
+    "Complained to the park rangers."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Quand j'étais enfant, je suivais le sentier de randonnée même quand les branches me gênaient continuellement' - When I was a child, I followed the hiking trail even when the branches bothered me continuously. 'Suivais' is the imperfect form of 'suivre' (to follow), first person singular, describing a habitual past action.",
+  "difficulty": "B2",
+  "source": "Camping and hiking annoyances",
+  "tags": [
+    "camping",
+    "hiking",
+    "minor-annoyances",
+    "outdoor-activities"
+  ],
+  "timeCreated": 1735953240
+}

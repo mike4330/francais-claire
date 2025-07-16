@@ -1,0 +1,22 @@
+{
+  "id": 2089,
+  "audioText": "Marc est revenu de son voyage en Espagne hier soir. Il a rapporté des souvenirs pour toute la famille.",
+  "question": "When did Marc return from his trip?",
+  "questionType": "comprehension",
+  "options": [
+    "This morning",
+    "Yesterday evening",
+    "Last week",
+    "Two days ago"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Marc est revenu de son voyage en Espagne hier soir</em>' - Marc returned from his trip to Spain yesterday evening. The past participle 'revenu' indicates he has returned, and 'hier soir' means yesterday evening.",
+  "difficulty": "B1",
+  "source": "Travel and family context",
+  "tags": [
+    "travel",
+    "family",
+    "daily-life"
+  ],
+  "timeCreated": 1736062800
+}

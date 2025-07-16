@@ -1,0 +1,23 @@
+{
+  "id": 2075,
+  "audioText": "Les mariés suivront un cours de danse de salon avant leur réception de mariage pour impressionner leurs invités.",
+  "question": "Les mariés ______ un cours de danse de salon avant leur réception de mariage pour impressionner leurs invités.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "suivront",
+    "prendront",
+    "feront",
+    "apprendront"
+  ],
+  "correct": 0,
+  "explanation": "The missing word is 'suivront'. The complete sentence is 'Les mariés suivront un cours de danse de salon avant leur réception de mariage pour impressionner leurs invités' - The newlyweds will take a ballroom dance class before their wedding reception to impress their guests. 'Suivront' is the future form of 'suivre' (to follow/take), third person plural.",
+  "difficulty": "B2",
+  "source": "Marriage preparation and ballroom dancing",
+  "tags": [
+    "marriage",
+    "wedding",
+    "ballroom-dancing",
+    "celebrations"
+  ],
+  "timeCreated": 1735953300
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2134,
+    "audioText": "La somme d'argent nécessaire pour couvrir les frais médicaux est considérable",
+    "question": "What is considerable about the medical expenses?",
+    "questionType": "comprehension",
+    "options": [
+        "The amount of money needed",
+        "The number of doctors",
+        "The time required",
+        "The complexity of treatment"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La somme d'argent nécessaire pour couvrir les frais médicaux est considérable</em>' - The amount of money needed to cover medical expenses is considerable. 'Somme' means sum/amount.",
+    "difficulty": "B2",
+    "source": "Healthcare costs",
+    "tags": ["health", "money", "medical", "expenses"],
+    "timeCreated": 1721069100
+}

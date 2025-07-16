@@ -1,0 +1,24 @@
+{
+  "id": 2130,
+  "audioText": "Mes voisins appellent toujours la police quand nous organisons des fêtes.",
+  "question": "What do the neighbors always do when they organize parties?",
+  "questionType": "comprehension",
+  "options": [
+    "They call the police",
+    "They join the celebration",
+    "They close their windows",
+    "They complain to the landlord"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Mes voisins appellent toujours la police quand nous organisons des fêtes' - My neighbors always call the police when we organize parties. 'Appellent' is the third person plural present tense of 'appeler' (to call).",
+  "difficulty": "B1",
+  "source": "Neighborhood party conflicts",
+  "tags": [
+    "neighbors",
+    "parties",
+    "police",
+    "conflicts",
+    "noise"
+  ],
+  "timeCreated": 1736068300
+}

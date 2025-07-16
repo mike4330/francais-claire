@@ -1,0 +1,25 @@
+{
+  "id": 2112,
+  "audioText": "Les citoyens aimeraient voir plus de transparence dans les décisions gouvernementales importantes.",
+  "question": "Les citoyens ______ voir plus de transparence dans les décisions gouvernementales importantes.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "aimeraient",
+    "aimeront",
+    "aimaient",
+    "aiment"
+  ],
+  "correct": 0,
+  "explanation": "The text contains '<em>Les citoyens aimeraient voir plus de transparence dans les décisions gouvernementales importantes</em>' - Citizens would like to see more transparency in important government decisions. 'Aimeraient' is the conditional form of 'aimer' (to like), expressing a polite wish or desire.",
+  "difficulty": "B2",
+  "source": "Government transparency",
+  "tags": [
+    "politics",
+    "government",
+    "transparency",
+    "citizens",
+    "democracy"
+  ],
+  "timeCreated": 1736065600,
+  "verified": "claude"
+}

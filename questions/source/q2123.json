@@ -1,0 +1,24 @@
+{
+  "id": 2123,
+  "audioText": "Pourquoi essayez-vous toujours de résoudre les problèmes seuls sans demander d'aide?",
+  "question": "How do they always try to solve problems?",
+  "questionType": "comprehension",
+  "options": [
+    "Alone, without asking for help",
+    "By working in small teams",
+    "By consulting with supervisors first",
+    "Through collaborative brainstorming"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Pourquoi essayez-vous toujours de résoudre les problèmes seuls sans demander d'aide?</em>' - Why do you always try to solve problems alone without asking for help? The question describes their method: working 'seuls sans demander d'aide' (alone without asking for help). 'Essayez' is the second person plural present tense of 'essayer' (to try) in interrogative form.",
+  "difficulty": "B2",
+  "source": "Problem-solving and teamwork",
+  "tags": [
+    "workplace",
+    "teamwork",
+    "problem-solving",
+    "independence",
+    "collaboration"
+  ],
+  "timeCreated": 1736067300
+}

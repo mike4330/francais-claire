@@ -1,0 +1,23 @@
+{
+  "id": 2081,
+  "audioText": "L'écart immense entre les riches et les pauvres nécessaire une réforme urgente.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "L'écart immense entre les riches et les pauvres nécessite une réforme urgente.",
+    "L'écart immense entre les riches et les pauvres nécessaire une réforme urgente.",
+    "L'écart énorme entre les riches et les pauvres nécessite une réforme urgente.",
+    "L'écart immense entre les riches et les pauvres nécessitent une réforme urgente."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'écart immense entre les riches et les pauvres nécessite une réforme urgente</em>' - The immense gap between the rich and the poor requires urgent reform. 'Immense' (immense/huge), 'riches' (rich), and 'nécessaire/nécessite' show the scale and urgency. The distractors test verb form errors (nécessaire, nécessitent) and adjective confusion (énorme).",
+  "difficulty": "B2",
+  "source": "Social inequality",
+  "tags": [
+    "politics",
+    "inequality",
+    "social-issues",
+    "reform"
+  ],
+  "timeCreated": 1736103180
+}

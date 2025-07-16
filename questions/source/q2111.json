@@ -1,0 +1,24 @@
+{
+  "id": 2111,
+  "audioText": "Si j'étais plus jeune, je croirais encore aux contes de fées.",
+  "question": "What would the speaker believe if they were younger?",
+  "questionType": "comprehension",
+  "options": [
+    "They would still believe in fairy tales",
+    "They would believe in scientific theories",
+    "They would believe in political promises",
+    "They would believe in supernatural powers"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Si j\\'étais plus jeune, je croirais encore aux contes de fées</em>' - If I were younger, I would still believe in fairy tales. 'Croirais' is the conditional form of 'croire' (to believe), expressing a hypothetical situation.",
+  "difficulty": "B1",
+  "source": "Childhood beliefs",
+  "tags": [
+    "childhood",
+    "beliefs",
+    "fairy-tales",
+    "nostalgia",
+    "hypothetical"
+  ],
+  "timeCreated": 1736065500
+}

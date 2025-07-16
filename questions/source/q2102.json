@@ -1,0 +1,26 @@
+{
+  "id": 2102,
+  "audioText": "Les chercheurs de cinq universités européennes viennent collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
+  "question": "Les chercheurs de cinq universités européennes ______ collaborer sur ce projet interdisciplinaire d'intelligence artificielle.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "viennent",
+    "venez",
+    "viens",
+    "venons"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les chercheurs de cinq universités européennes viennent collaborer sur ce projet interdisciplinaire d'intelligence artificielle</em>' - Researchers from five European universities are coming to collaborate on this interdisciplinary artificial intelligence project. With 'les chercheurs' (the researchers), we use 'viennent' - the third person plural form of 'venir'.",
+  "difficulty": "B1",
+  "source": "International academic research collaboration announcement",
+  "tags": [
+    "academic-collaboration",
+    "university",
+    "research",
+    "international",
+    "technology",
+    "interdisciplinary-research",
+    "europe"
+  ],
+  "verified": "claude"
+}

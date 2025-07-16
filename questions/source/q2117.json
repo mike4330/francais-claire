@@ -1,0 +1,24 @@
+{
+  "id": 2117,
+  "audioText": "Comme il fait chaud, je resterai à la maison ce week-end.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Comme il fait chaud, je resterai à la maison ce week-end.",
+    "Comme il fait chaud, je resterai à la maison ce week-end.",
+    "Comme il fait chaud, je resterai à la maison cette semaine.",
+    "Comme il fait chaud, je resterai à la maison tout l'été."
+  ],
+  "correct": 0,
+  "explanation": "The speaker said 'Comme il fait chaud, je resterai à la maison ce week-end.' - Since it's hot, I will stay home this weekend. 'Resterai' is the first person singular future tense of 'rester' (to stay), indicating a decision based on current hot weather conditions.",
+  "difficulty": "A2",
+  "source": "Weekend plans",
+  "tags": [
+    "weather",
+    "weekend",
+    "home",
+    "heat",
+    "plans"
+  ],
+  "timeCreated": 1736066500
+}

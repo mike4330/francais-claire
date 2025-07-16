@@ -1,0 +1,23 @@
+{
+  "id": 2080,
+  "audioText": "Ce puzzle de mille pièces est presque terminé, il ne reste que le coin supérieur droit.",
+  "question": "Ce puzzle de mille pièces est ______ terminé, il ne reste que le coin supérieur droit.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "presque",
+    "complètement",
+    "enfin",
+    "bientôt"
+  ],
+  "correct": 0,
+  "explanation": "The missing word is 'presque'. The complete sentence is 'Ce puzzle de mille pièces est presque terminé, il ne reste que le coin supérieur droit' - This thousand-piece puzzle is almost finished, only the upper right corner remains. 'Presque' means 'almost' or 'nearly' and indicates something is close to completion but not quite there yet.",
+  "difficulty": "B1",
+  "source": "Jigsaw puzzles and leisure activities",
+  "tags": [
+    "puzzles",
+    "hobbies",
+    "leisure-activities",
+    "completion"
+  ],
+  "timeCreated": 1735953600
+}

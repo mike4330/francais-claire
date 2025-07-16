@@ -1,0 +1,23 @@
+{
+  "id": 2076,
+  "audioText": "Cette idée géniale lui est venue en observant la main gauche du pianiste.",
+  "question": "How did this brilliant idea come to him?",
+  "questionType": "comprehension",
+  "options": [
+    "By observing the pianist's left hand",
+    "By listening to the piano melody carefully",
+    "By reading about musical techniques",
+    "By practicing scales every morning"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette idée géniale lui est venue en observant la main gauche du pianiste</em>' - This brilliant idea came to him by observing the pianist's left hand. 'Géniale' (brilliant/genius) and 'gauche' (left) describe the inspiration source and specific hand position.",
+  "difficulty": "B1",
+  "source": "Musical inspiration",
+  "tags": [
+    "music",
+    "piano",
+    "inspiration",
+    "observation"
+  ],
+  "timeCreated": 1736103240
+}

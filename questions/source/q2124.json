@@ -1,0 +1,24 @@
+{
+  "id": 2124,
+  "audioText": "Que cherches-tu exactement dans cette relation amoureuse?",
+  "question": "What is the person looking for in this romantic relationship?",
+  "questionType": "comprehension",
+  "options": [
+    "The question asks what exactly they are seeking",
+    "They are looking for financial security",
+    "They want to find their soulmate",
+    "They are seeking adventure and excitement"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Que cherches-tu exactement dans cette relation amoureuse?' - What are you looking for exactly in this romantic relationship? 'Cherches' is the second person singular present tense of 'chercher' (to look for), in interrogative form asking about relationship expectations.",
+  "difficulty": "B1",
+  "source": "Relationship expectations",
+  "tags": [
+    "relationships",
+    "love",
+    "expectations",
+    "personal-goals",
+    "dating"
+  ],
+  "timeCreated": 1736067500
+}

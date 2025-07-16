@@ -1,0 +1,18 @@
+{
+    "id": 2135,
+    "audioText": "Le combat contre cette maladie demande une somme énorme d'énergie et de détermination",
+    "question": "What does fighting this disease require?",
+    "questionType": "comprehension",
+    "options": [
+        "A huge amount of energy and determination",
+        "Expensive medical equipment",
+        "Multiple specialists",
+        "Long hospitalization"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le combat contre cette maladie demande une somme énorme d'énergie et de détermination</em>' - Fighting this disease requires a huge amount of energy and determination. This combines 'combat', 'maladie', and 'somme' naturally.",
+    "difficulty": "B2",
+    "source": "Health struggle",
+    "tags": ["health", "struggle", "determination", "energy"],
+    "timeCreated": 1721069280
+}

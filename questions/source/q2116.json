@@ -1,0 +1,24 @@
+{
+  "id": 2116,
+  "audioText": "Les adolescents appellent souvent leurs parents pour parler de leurs sentiments.",
+  "question": "Les adolescents ______ souvent leurs parents pour parler de leurs sentiments.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "appellent",
+    "appellaient",
+    "appelle",
+    "appeleront"
+  ],
+  "correct": 0,
+  "explanation": "The text contains 'Les adolescents appellent souvent leurs parents pour parler de leurs sentiments' - Teenagers often call their parents to talk about their feelings. 'Appellent' is the third person plural present tense of 'appeler' (to call), indicating a habitual action.",
+  "difficulty": "A2",
+  "source": "Teenage communication",
+  "tags": [
+    "sexuality",
+    "teenagers",
+    "communication",
+    "family",
+    "feelings"
+  ],
+  "timeCreated": 1736066300
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2090,
+  "audioText": "Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense.",
+    "Les films que nous avons regardés hier soir étaient vraiment ennuyeux et prévisibles.",
+    "Les films que nous avons regardés hier matin étaient vraiment captivants et pleins de suspense.",
+    "Les films que nous avons regardés hier soir étaient vraiment longs et confus."
+  ],
+  "correct": 0,
+  "explanation": "The speaker said '<em>Les films que nous avons regardés hier soir étaient vraiment captivants et pleins de suspense</em>' - The films we watched last night were really captivating and full of suspense. Key words to distinguish: 'captivants' (captivating) and 'pleins de suspense' (full of suspense).",
+  "difficulty": "B1",
+  "source": "Movie Discussion",
+  "tags": [
+    "movies",
+    "entertainment",
+    "suspense"
+  ],
+  "parentQuestion": 2107,
+  "timeCreated": 1736063200
+}

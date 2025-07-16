@@ -1,0 +1,24 @@
+{
+  "id": 2085,
+  "type": "fill-in-the-blank",
+  "question": "Il _______ le train de 8h si il se dépêchait.",
+  "audioText": "Il prendrait le train de 8h si il se dépêchait.",
+  "answer": "prendrait",
+  "hint": "Conditional tense of 'prendre'",
+  "level": "b",
+  "tags": [
+    "travel",
+    "hypothetical"
+  ],
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "prendrait",
+    "prendra",
+    "prenait",
+    "prenne"
+  ],
+  "correct": 0,
+  "explanation": "'Prendrait' is the conditional tense of 'prendre', used to express a hypothetical action.",
+  "difficulty": "B1",
+  "source": "Gemini CLI"
+}

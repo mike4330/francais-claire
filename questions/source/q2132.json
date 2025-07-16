@@ -1,0 +1,18 @@
+{
+    "id": 2132,
+    "audioText": "Nous nous retrouvons au bar après le travail pour discuter du combat de boxe",
+    "question": "Where are they meeting to discuss the boxing match?",
+    "questionType": "comprehension",
+    "options": [
+        "At the bar",
+        "At the gym",
+        "At the office",
+        "At home"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Nous nous retrouvons au bar après le travail pour discuter du combat de boxe</em>' - We meet at the bar after work to discuss the boxing match. This combines 'bar' and 'combat' in a natural context.",
+    "difficulty": "B1",
+    "source": "Social meeting",
+    "tags": ["workplace", "social-interaction", "sports", "bar"],
+    "timeCreated": 1721068980
+}

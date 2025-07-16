@@ -1,0 +1,18 @@
+{
+    "id": 2136,
+    "audioText": "Depuis son arrivée au bar, il ne cesse de parler de son combat personnel",
+    "question": "What has he been doing since arriving at the bar?",
+    "questionType": "comprehension",
+    "options": [
+        "Talking constantly about his personal struggle",
+        "Drinking quietly alone",
+        "Watching sports on TV",
+        "Playing games with friends"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Depuis son arrivée au bar, il ne cesse de parler de son combat personnel</em>' - Since his arrival at the bar, he hasn't stopped talking about his personal struggle. This combines 'arrivée', 'bar', 'cesse', and 'combat' with good synergy.",
+    "difficulty": "B1",
+    "source": "Social interaction",
+    "tags": ["social-interaction", "conversation", "personal-struggle", "bar"],
+    "timeCreated": 1721069340
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2133,
+    "audioText": "Sa maladie l'empêche de travailler sans cesse comme avant",
+    "question": "What prevents him from working constantly like before?",
+    "questionType": "comprehension",
+    "options": [
+        "His illness",
+        "His age",
+        "His family",
+        "His schedule"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Sa maladie l'empêche de travailler sans cesse comme avant</em>' - His illness prevents him from working constantly like before. 'Maladie' means illness and 'sans cesse' means constantly/without pause.",
+    "difficulty": "B1",
+    "source": "Health impact",
+    "tags": ["health", "work", "illness", "limitations"],
+    "timeCreated": 1721069040
+}

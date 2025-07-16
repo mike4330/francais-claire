@@ -1,0 +1,21 @@
+{
+  "id": 2108,
+  "audioText": "Vous donnerez vos réponses au professeur avant la fin du cours pour qu'il puisse les corriger ce soir.",
+  "question": "Vous ______ vos réponses au professeur avant la fin du cours pour qu'il puisse les corriger ce soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "donnerez",
+    "donnez",
+    "donniez",
+    "avez donné"
+  ],
+  "correct": 0,
+  "explanation": "The missing word is 'donnerez' (future tense of 'donner' with 'vous'). You will give your answers to the teacher before the end of class so he can correct them tonight.",
+  "difficulty": "B1",
+  "source": "Classroom Instructions",
+  "tags": [
+    "education",
+    "classroom",
+    "homework"
+  ]
+}
