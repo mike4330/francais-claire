@@ -1,0 +1,23 @@
+{
+  "id": 2067,
+  "audioText": "Les clients sentent immédiatement la différence avec notre nouveau service personnalisé.",
+  "question": "What do clients immediately notice?",
+  "questionType": "comprehension",
+  "options": [
+    "The difference with our new personalized service",
+    "The higher prices for premium products",
+    "The longer waiting times during peak hours",
+    "The changes in the store layout design"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les clients sentent immédiatement la différence avec notre nouveau service personnalisé</em>' - The clients immediately feel/notice the difference with our new personalized service. 'Sentent' is the third person plural present form of 'sentir' (to feel/sense), targeting both the missing verb conjugate and under-represented 'service' topic.",
+  "difficulty": "B1",
+  "source": "Customer service",
+  "tags": [
+    "service",
+    "customers",
+    "business",
+    "improvement"
+  ],
+  "timeCreated": 1736103420
+}

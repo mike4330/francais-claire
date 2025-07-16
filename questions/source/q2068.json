@@ -1,0 +1,23 @@
+{
+  "id": 2068,
+  "audioText": "Ma grand-mère prenait toujours le temps de trier le linge blanc du linge de couleur avant chaque lessive.",
+  "question": "What did the grandmother always take time to do before each wash?",
+  "questionType": "comprehension",
+  "options": [
+    "Sort white laundry from colored laundry.",
+    "Check all pockets for forgotten items.",
+    "Measure the right amount of detergent.",
+    "Set the correct water temperature."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Ma grand-mère prenait toujours le temps de trier le linge blanc du linge de couleur avant chaque lessive' - My grandmother always took the time to sort white laundry from colored laundry before each wash. 'Prenait' is the imperfect form of 'prendre' (to take), third person singular, describing a habitual past action.",
+  "difficulty": "B1",
+  "source": "Laundry sorting and household routines",
+  "tags": [
+    "laundry",
+    "sorting",
+    "household-routines",
+    "domestic-tasks"
+  ],
+  "timeCreated": 1735952880
+}

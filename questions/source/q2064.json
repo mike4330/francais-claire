@@ -1,0 +1,23 @@
+{
+  "id": 2064,
+  "audioText": "Cette critique gastronomique a toujours cru que ce restaurant méritait une étoile Michelin.",
+  "question": "What has the food critic always believed about this restaurant?",
+  "questionType": "comprehension",
+  "options": [
+    "It deserved a Michelin star.",
+    "It needed better service staff.",
+    "It should change its menu concept.",
+    "It required more elegant decor."
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Cette critique gastronomique a toujours cru que ce restaurant méritait une étoile Michelin' - This food critic has always believed that this restaurant deserved a Michelin star. 'Cru' is the past participle of 'croire' (to believe), used here in the passé composé tense.",
+  "difficulty": "B2",
+  "source": "Fine dining and restaurant criticism",
+  "tags": [
+    "fine-dining",
+    "michelin-stars",
+    "restaurant-critics",
+    "gastronomy"
+  ],
+  "timeCreated": 1735952640
+}
