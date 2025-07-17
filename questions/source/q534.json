@@ -1,0 +1,19 @@
+{
+  "id": 534,
+  "audioText": "Cette bande de jeunes fait trop de bruit dans la rue.",
+  "question": "What is making too much noise in the street?",
+  "questionType": "comprehension",
+  "options": [
+    "This group of young people",
+    "Construction workers",
+    "Traffic and cars",
+    "Street musicians"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette bande de jeunes fait trop de bruit dans la rue</em>' - This group of young people is making too much noise in the street. 'Bande' means group/gang, 'jeunes' means young people, and 'bruit' means noise.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["street", "noise", "young-people"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

@@ -10,10 +10,11 @@
         "It's quiet"
     ],
     "correct": 1,
-    "explanation": "The text states '<em>Ça fait peur, cette tempête !</em>' - That's scary, this storm! The informal pronoun 'ça' (that/it) refers to the storm, and 'fait peur' means 'is scary' or 'makes one afraid'. The distractors test misinterpretation of the speaker's feeling (beautiful, interesting, quiet).",
+    "explanation": "The text states '<em>Ça fait peur, cette tempête !</em>' - That's scary, this storm! 'Ça' (that/it) refers to the storm, and 'fait peur' means 'is scary' or 'makes one afraid'.",
     "difficulty": "A2",
     "source": "Gemini CLI - Listening practice",
     "tags": ["natural-disasters", "weather", "emotions"],
     "timeCreated": 1720800000,
-    "parentQuestion": 240
+    "parentQuestion": 240,
+    "verified": "claude"
 }

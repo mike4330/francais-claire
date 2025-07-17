@@ -1,0 +1,19 @@
+{
+  "id": 536,
+  "audioText": "Ma chaussure droite me fait mal au pied.",
+  "question": "What is causing pain to the speaker's foot?",
+  "questionType": "comprehension",
+  "options": [
+    "Right shoe",
+    "Left sock",
+    "Walking stick",
+    "Floor surface"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma chaussure droite me fait mal au pied</em>' - My right shoe is hurting my foot. 'Chaussure' means shoe, 'droite' means right, and 'faire mal' means to hurt.",
+  "difficulty": "A1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["clothing", "pain", "body-parts"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 542,
+  "audioText": "Vous racontez une histoire méchante sur votre voisin.",
+  "question": "What are you telling about your neighbor?",
+  "questionType": "comprehension",
+  "options": [
+    "A mean story",
+    "A funny joke",
+    "Good news",
+    "A compliment"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous racontez une histoire méchante sur votre voisin</em>' - You are telling a mean story about your neighbor. 'Racontez' is the formal/plural form of 'raconter' (to tell), 'méchante' means mean/nasty, and 'voisin' means neighbor.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["neighbors", "gossip", "stories"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

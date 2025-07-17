@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part</em>' - He looked for his keys everywhere in the house but didn't find them anywhere. 'Partout' means 'everywhere' and contrasts with 'nulle part' (nowhere).",
     "difficulty": "B1",
-    "source": "Daily search",
-    "tags": ["cleaning", "searching", "keys"],
-    "timeCreated": 1704416640
+    "source": "Strategic vocabulary targeting",
+    "tags": ["daily-life", "searching", "home"],
+    "timeCreated": 1704416640,
+    "verified": "claude"
 }

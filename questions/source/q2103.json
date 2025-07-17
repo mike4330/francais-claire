@@ -10,17 +10,15 @@
     "Reduce funding for city schools"
   ],
   "correct": 0,
-  "explanation": "The text states 'Les collectivités locales donneront plus de moyens aux écoles rurales' (Local authorities will give more resources to rural schools) to reduce educational inequalities in the region.",
+  "explanation": "The text states '<em>Les collectivités locales donneront plus de moyens aux écoles rurales pour réduire les inégalités éducatives dans notre région</em>' - Local authorities will provide more resources to rural schools to reduce educational inequalities in our region. 'Collectivités locales' means local authorities, 'moyens' means resources, and 'inégalités' means inequalities.",
   "difficulty": "B1",
   "source": "Regional education policy announcement",
   "tags": [
     "education",
     "rural",
     "policy",
-    "equality",
-    "government",
-    "community",
-    "schools",
-    "resources"
-  ]
+    "government"
+  ],
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

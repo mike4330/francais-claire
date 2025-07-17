@@ -14,9 +14,9 @@
   "difficulty": "A2",
   "source": "Cooking discussion",
   "tags": [
-    "cooking-techniques",
     "cooking",
-    "techniques"
+    "food-preparation"
   ],
-  "timeCreated": 1704416280
+  "timeCreated": 1704416280,
+  "verified": "claude"
 }

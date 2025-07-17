@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Sa voix tremblait désespérément quand elle a annoncé la nouvelle à ses parents inquiets.</em>' - 'Her voice was trembling desperately when she announced the news to her worried parents.' The noun 'voix' means voice, and 'désespérément' is an adverb meaning desperately.",
     "difficulty": "B1",
-    "source": "Strategic noun targeting",
+    "source": "Strategic vocabulary targeting",
     "tags": ["family", "emotions", "news"],
-    "timeCreated": 1720713600
+    "timeCreated": 1720713600,
+    "verified": "claude"
 }

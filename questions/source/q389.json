@@ -10,10 +10,11 @@
         "Carefully"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le jeune homme nettoie relativement sa chambre sale.</em>' - The young man cleans his dirty room relatively. The adjective 'jeune' means young, 'sale' means dirty, and 'relativement' means relatively or to some degree. The distractors test misinterpretation of the adverb (perfectly, quickly, carefully).",
+    "explanation": "The text states '<em>Le jeune homme nettoie relativement sa chambre sale.</em>' - The young man cleans his dirty room relatively. 'Jeune' means young, 'sale' means dirty, and 'relativement' means relatively or to some degree.",
     "difficulty": "A2",
     "source": "Gemini CLI - Listening practice",
     "tags": ["daily-life", "cleanliness", "young-people"],
     "timeCreated": 1720800000,
-    "parentQuestion": 288
+    "parentQuestion": 288,
+    "verified": "claude"
 }

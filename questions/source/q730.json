@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>C'est-à-dire que nous devons complètement repenser notre stratégie commerciale</em>' - That is to say that we must completely rethink our business strategy. 'C'est-à-dire' means 'that is to say' or 'in other words'.",
     "difficulty": "B2",
-    "source": "Business strategy meeting",
+    "source": "Strategic vocabulary targeting",
     "tags": ["business", "strategy", "explanation"],
-    "timeCreated": 1704413520
+    "timeCreated": 1704413520,
+    "verified": "claude"
 }

@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The correct sentence is '<em>Merci, mais je reviendrai après-demain pour récupérer le tour de poterie</em>' - Thank you, but I will come back the day after tomorrow to pick up the pottery wheel. 'Après-demain' means 'the day after tomorrow', 'tour' means 'wheel/turn', and 'merci' expresses gratitude.",
     "difficulty": "A2",
-    "source": "Art studio visit",
+    "source": "Strategic vocabulary targeting",
     "tags": ["art", "pottery", "scheduling"],
-    "timeCreated": 1720443720
+    "timeCreated": 1720443720,
+    "verified": "claude"
 }

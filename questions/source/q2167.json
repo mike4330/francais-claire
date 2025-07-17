@@ -1,0 +1,19 @@
+{
+  "id": 2167,
+  "audioText": "Son esprit vif et sa folie créative en font un artiste exceptionnel que tous admirent.",
+  "question": "What makes him an exceptional artist that everyone admires?",
+  "questionType": "comprehension",
+  "options": [
+    "His sharp mind and creative madness",
+    "His expensive art supplies and studio",
+    "His formal training and prestigious awards",
+    "His wealthy family and social connections"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son esprit vif et sa folie créative en font un artiste exceptionnel</em>' - His sharp mind and his creative madness make him an exceptional artist. 'Vif' means sharp/lively, 'folie' means madness/folly, and 'créative' means creative.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["art", "creativity", "personality"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

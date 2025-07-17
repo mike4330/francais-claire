@@ -10,9 +10,10 @@
     "J'ai voulu aider ma grand-mère hier, mais elle n'était pas chez elle."
   ],
   "correct": 0,
-  "explanation": "The correct sentence is 'J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez elle' - I wanted to call my grandmother yesterday, but she wasn't at home. 'Voulu' is the past participle of 'vouloir' used with 'avoir' to form the passé composé.",
+  "explanation": "The text states '<em>J'ai voulu appeler ma grand-mère hier, mais elle n'était pas chez elle</em>' - I wanted to call my grandmother yesterday, but she wasn't at home. 'Voulu' is the past participle of 'vouloir' (to want), 'grand-mère' means grandmother, and 'hier' means yesterday.",
   "difficulty": "A2",
-  "source": "Family Communication",
+  "source": "Strategic vocabulary targeting",
   "tags": ["family", "communication", "daily-life", "telephone"],
-  "timeCreated": 1751492641
+  "timeCreated": 1751492641,
+  "verified": "claude"
 }

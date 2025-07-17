@@ -1,0 +1,19 @@
+{
+  "id": 548,
+  "audioText": "Je reçois des nouvelles fidèles de ma famille.",
+  "question": "Je reçois des nouvelles fidèles de ma famille.",
+  "questionType": "listening",
+  "options": [
+    "I receive faithful news from my family",
+    "I send important messages to my relatives",
+    "I ignore constant calls from my parents",
+    "I write regular letters to my siblings"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je reçois des nouvelles fidèles de ma famille</em>' - I receive faithful news from my family. 'Reçois' is the 1st person singular form of 'recevoir' (to receive), 'nouvelles' means news, and 'fidèles' means faithful/reliable.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["family", "communication", "news"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

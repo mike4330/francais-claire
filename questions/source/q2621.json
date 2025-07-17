@@ -10,7 +10,7 @@
     "His promotion of scientific advancement and cultural renaissance that elevated his kingdom's intellectual standing in the global academic community"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>L'héritage royal de ce roi visionnaire réside dans sa capacité à transcender les paradigmes conventionnels de gouvernance, touchant l'âme collective de son peuple tout en naviguant habilement au bord des transformations géopolitiques majeures pour préserver une paix durable</em>' - The royal legacy of this visionary king lies in his ability to transcend conventional governance paradigms, touching the collective soul of his people while skillfully navigating on the edge of major geopolitical transformations to preserve lasting peace. This targets 'roi', 'âme', 'bord', and 'paix' in a complex political leadership context.",
+  "explanation": "The text states '<em>L'héritage royal de ce roi visionnaire réside dans sa capacité à transcender les paradigmes conventionnels de gouvernance, touchant l'âme collective de son peuple tout en naviguant habilement au bord des transformations géopolitiques majeures pour préserver une paix durable</em>' - The royal legacy of this visionary king lies in his ability to transcend conventional governance paradigms, touching the collective soul of his people while skillfully navigating on the edge of major geopolitical transformations to preserve lasting peace. 'Transcender' means to transcend, 'paradigmes' means paradigms, 'âme collective' means collective soul.",
   "difficulty": "C2",
   "source": "Strategic noun targeting: roi, âme, bord, paix",
   "tags": [
@@ -18,5 +18,6 @@
     "governance",
     "geopolitics"
   ],
-  "timeCreated": 1720618640
+  "timeCreated": 1720618640,
+  "verified": "claude"
 }

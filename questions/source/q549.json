@@ -1,0 +1,19 @@
+{
+  "id": 549,
+  "audioText": "Vous jetez continuellement vos déchets par terre.",
+  "question": "Vous ______ continuellement vos déchets par terre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "jetez",
+    "ramassez",
+    "triez",
+    "recyclez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous jetez continuellement vos déchets par terre</em>' - You continuously throw your waste on the ground. 'Jetez' is the 2nd person plural/formal form of 'jeter' (to throw), and 'continuellement' means continuously.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["environment", "behavior", "waste"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

@@ -10,12 +10,14 @@
     "brouillard"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'orage'. La phrase complète est 'Hier soir, il y a eu un gros orage avec beaucoup de pluie et de vent.' - Last night, there was a big thunderstorm with lots of rain and wind.",
+  "explanation": "The text states '<em>Hier soir, il y a eu un gros orage avec beaucoup de pluie et de vent</em>' - Last night, there was a big thunderstorm with lots of rain and wind. 'Orage' means thunderstorm, 'pluie' means rain, and 'vent' means wind.",
   "difficulty": "A2",
-  "source": "Weather Report",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "weather",
     "storm",
     "nature"
-  ]
+  ],
+  "timeCreated": 1720026800,
+  "verified": "claude"
 }

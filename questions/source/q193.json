@@ -10,9 +10,10 @@
         "dehors"
     ],
     "correct": 0,
-    "explanation": "'Là-dedans' means 'in there' or 'inside that'. The speaker is asking what's inside something (a container, room, etc.) because it smells very good. It combines 'là' (there) with 'dedans' (inside).",
+    "explanation": "The text states '<em>Qu'est-ce qu'il y a là-dedans ? Ça sent très bon !</em>' - What is in there? It smells very good! 'Là-dedans' means in there/inside that, combining 'là' (there) with 'dedans' (inside), and 'sent' means smells.",
     "difficulty": "A2",
-    "source": "Kitchen curiosity",
+    "source": "Strategic vocabulary targeting",
     "tags": ["food", "curiosity", "home"],
-    "timeCreated": 1720077200
+    "timeCreated": 1720077200,
+    "verified": "claude"
 }

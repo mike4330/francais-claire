@@ -13,6 +13,7 @@
     "explanation": "The speaker says '<em>Mon mari laisse toujours ses chaussettes sur le sol</em>' - My husband always leaves his socks on the floor. 'Mari' means 'husband'.",
     "difficulty": "A2",
     "source": "Household habits",
-    "tags": ["minor-annoyances", "marriage", "household"],
-    "timeCreated": 1720442760
+    "tags": ["marriage", "household", "daily-life"],
+    "timeCreated": 1720442760,
+    "verified": "claude"
 }

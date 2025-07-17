@@ -1,0 +1,19 @@
+{
+  "id": 2171,
+  "audioText": "L'homme a pleuré toute la nuit après avoir découvert cette preuve furieuse de la trahison de son ami.",
+  "question": "What did the man do all night after discovering the proof?",
+  "questionType": "comprehension",
+  "options": [
+    "He cried all night",
+    "He searched for more evidence",
+    "He called his lawyer immediately",
+    "He confronted his friend angrily"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'homme a pleuré toute la nuit après avoir découvert cette preuve furieuse</em>' - The man cried all night after discovering this furious proof. 'Pleuré' is the past participle of 'pleurer' (to cry), 'preuve' means proof, and 'furieuse' means furious.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["emotions", "betrayal", "friendship"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

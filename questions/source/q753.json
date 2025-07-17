@@ -10,9 +10,10 @@
         "Visited friends and family"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été</em>' - The children spent too much time in front of screens during summer vacation. 'Passés' here appears in the compound past tense 'ont passé', with 'passés' being the past participle of 'passer' (to spend time).",
+    "explanation": "The text states '<em>Les enfants ont passé trop de temps devant les écrans pendant les vacances d'été</em>' - The children spent too much time in front of screens during summer vacation. 'Passé' is the past participle of 'passer' (to spend time), 'écrans' means screens, and 'trop' means too much.",
     "difficulty": "B1",
-    "source": "Summer activities",
+    "source": "Strategic vocabulary targeting",
     "tags": ["screen-time", "children", "summer"],
-    "timeCreated": 1704415980
+    "timeCreated": 1704415980,
+    "verified": "claude"
 }

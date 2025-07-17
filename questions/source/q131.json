@@ -10,9 +10,10 @@
         "pu"
     ],
     "correct": 0,
-    "explanation": "The correct form is 'pouvait' (imperfect tense of 'pouvoir'). It describes a past state - the little brother could not sleep because of the noise.",
+    "explanation": "The text states '<em>Mon petit frère ne pouvait pas dormir à cause du bruit</em>' - My little brother couldn't sleep because of the noise. 'Pouvait' is the imperfect tense of 'pouvoir' (to be able to), describing a past state.",
     "difficulty": "A2",
-    "source": "Sleep Problems",
+    "source": "Strategic vocabulary targeting",
     "tags": ["family", "sleep", "noise", "problems"],
-    "timeCreated": 1719965100
+    "timeCreated": 1719965100,
+    "verified": "claude"
 }

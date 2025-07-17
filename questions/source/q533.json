@@ -1,0 +1,19 @@
+{
+  "id": 533,
+  "audioText": "Le poids de ce sac est trop lourd pour moi.",
+  "question": "What is too heavy for the speaker?",
+  "questionType": "comprehension",
+  "options": [
+    "The weight of this bag",
+    "This exercise routine",
+    "The homework assignment",
+    "The work schedule"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le poids de ce sac est trop lourd pour moi</em>' - The weight of this bag is too heavy for me. 'Poids' means weight, 'sac' means bag, and 'lourd' means heavy.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["physical-objects", "weight", "personal-experience"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

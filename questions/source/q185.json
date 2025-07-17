@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Dans ma jeunesse, je parlais souvent avec mes animaux domestiques</em>' - In my youth, I often talked with my pets. 'Parlais' is the imperfect form of 'parler' (to talk). The distractors test verb confusion (jouais, gardais, nourrissais).",
     "difficulty": "A2",
-    "source": "Childhood pet memories",
+    "source": "Strategic vocabulary targeting",
     "tags": ["animals", "childhood", "pets"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

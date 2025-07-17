@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Sa chance tournait définitivement quand il a découvert cette opportunité professionnelle extraordinaire.</em>' - 'His luck was definitively turning when he discovered this extraordinary professional opportunity.' The noun 'chance' means luck or fortune, and 'définitivement' means definitively or permanently.",
     "difficulty": "B2",
-    "source": "Strategic noun targeting",
+    "source": "Strategic vocabulary targeting",
     "tags": ["luck", "opportunity", "career"],
-    "timeCreated": 1720713600
+    "timeCreated": 1720713600,
+    "verified": "claude"
 }

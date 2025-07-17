@@ -1,0 +1,19 @@
+{
+  "id": 540,
+  "audioText": "Ce petit chat mignon boit sa bière dans un bol.",
+  "question": "What does the cute little cat drink from a bowl?",
+  "questionType": "comprehension",
+  "options": [
+    "Beer",
+    "Milk",
+    "Water",
+    "Juice"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce petit chat mignon boit sa bière dans un bol</em>' - This cute little cat drinks its beer from a bowl. 'Mignon' means cute, 'chat' means cat, 'bière' means beer, and 'bol' means bowl. This is a humorous, unrealistic scenario.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["animals", "humor", "drinks"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

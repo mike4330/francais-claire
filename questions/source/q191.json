@@ -10,9 +10,10 @@
         "besoin"
     ],
     "correct": 0,
-    "explanation": "The expression 'en avoir marre' means 'to be fed up with' or 'to be sick of' something. Here the speaker is expressing frustration about daily traffic jams. 'Marre' is always used in this fixed expression with 'en avoir'.",
+    "explanation": "The text states '<em>J'en ai marre de ces embouteillages tous les matins !</em>' - I'm fed up with these traffic jams every morning! 'En avoir marre' is a fixed expression meaning to be fed up with something, 'embouteillages' means traffic jams, and 'matins' means mornings.",
     "difficulty": "A2",
-    "source": "Daily commute frustration",
+    "source": "Strategic vocabulary targeting",
     "tags": ["transportation", "frustration", "daily-routine"],
-    "timeCreated": 1720077000
+    "timeCreated": 1720077000,
+    "verified": "claude"
 }

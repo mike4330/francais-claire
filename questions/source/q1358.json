@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Cette couche mince protège efficacement toute la surface contre les rayures potentielles</em>' - This thin layer effectively protects the entire surface against potential scratches. 'Mince' (thin) is the correct adjective, agreeing with the feminine noun 'couche'.",
     "difficulty": "B2",
-    "source": "Strategic targeting: mince + efficacement + potentielles",
+    "source": "Strategic vocabulary targeting",
     "tags": ["technology", "protection", "materials"],
-    "timeCreated": 1736625660
+    "timeCreated": 1736625660,
+    "verified": "claude"
 }

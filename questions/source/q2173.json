@@ -1,0 +1,19 @@
+{
+  "id": 2173,
+  "audioText": "Vous agissez humblement face à cette situation complexe qui demande de la patience et de la sagesse.",
+  "question": "Vous ______ humblement face à cette situation complexe qui demande de la patience et de la sagesse.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "agissez",
+    "réagissez",
+    "fuyez",
+    "critiquez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous agissez humblement face à cette situation complexe</em>' - You act humbly facing this complex situation. 'Agissez' is the 2nd person plural/formal form of 'agir' (to act), and 'humblement' means humbly.",
+  "difficulty": "B2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["behavior", "wisdom", "complex-situations"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 538,
+  "audioText": "J'ai cassé ma lunette et je ne vois plus bien.",
+  "question": "What happened to the speaker's glasses?",
+  "questionType": "comprehension",
+  "options": [
+    "They broke them",
+    "They lost them",
+    "They forgot them",
+    "They cleaned them"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai cassé ma lunette et je ne vois plus bien</em>' - I broke my glasses and I can't see well anymore. 'Casser' means to break, 'lunette' means glasses, and 'voir' means to see.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["glasses", "vision", "accidents"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

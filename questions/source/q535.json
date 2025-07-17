@@ -1,0 +1,19 @@
+{
+  "id": 535,
+  "audioText": "Tu as tort de penser que c'est facile.",
+  "question": "What does the speaker say about the other person's thinking?",
+  "questionType": "comprehension",
+  "options": [
+    "You are wrong to think it's easy",
+    "You are right to be careful",
+    "You should think more clearly",
+    "You need more time to decide"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu as tort de penser que c'est facile</em>' - You are wrong to think that it's easy. 'Avoir tort' means to be wrong, 'penser' means to think, and 'facile' means easy.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["opinion", "correction", "difficulty"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Il a levé son bras indéfiniment vers le ciel pour attirer l'attention des secours.</em>' - 'He raised his arm indefinitely toward the sky to attract the attention of rescuers.' The noun 'bras' means arm, and 'indéfiniment' is an adverb meaning indefinitely or endlessly.",
     "difficulty": "B1",
-    "source": "Strategic noun targeting",
+    "source": "Strategic vocabulary targeting",
     "tags": ["rescue", "emergency", "help"],
-    "timeCreated": 1720713600
+    "timeCreated": 1720713600,
+    "verified": "claude"
 }

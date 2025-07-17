@@ -10,9 +10,10 @@
         "Because it's raining"
     ],
     "correct": 0,
-    "explanation": "The speaker says 'Je suis malade aujourd'hui' - I am sick today. That's why they are staying home.",
+    "explanation": "The text states '<em>Je suis malade aujourd'hui, je reste à la maison</em>' - I am sick today, I'm staying home. 'Malade' means sick/ill, and 'reste' is the first person singular form of 'rester' (to stay).",
     "difficulty": "A1",
-    "source": "Health and Daily Life",
+    "source": "Strategic vocabulary targeting",
     "tags": ["health", "daily-life", "illness", "home"],
-    "timeCreated": 1719963900
+    "timeCreated": 1719963900,
+    "verified": "claude"
 }

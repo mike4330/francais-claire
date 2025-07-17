@@ -10,7 +10,7 @@
     "Managing student loan debt effectively"
   ],
   "correct": 0,
-  "explanation": "The daughter explains that 'l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération' - the balance between professional life and parenthood represents one of the most complex challenges of her generation.",
+  "explanation": "The text states '<em>Ma fille aînée, devenue médecin après des années d'études acharnées, m'a expliqué que l'équilibre entre vie professionnelle et parentalité représente l'un des défis les plus complexes de sa génération contemporaine</em>' - My eldest daughter, who became a doctor after years of dedicated studies, explained to me that the balance between professional life and parenthood represents one of the most complex challenges of her contemporary generation. 'Aînée' means eldest, 'acharnées' means dedicated/relentless, and 'équilibre' means balance.",
   "difficulty": "C1",
   "source": "Family discussion about generational challenges",
   "tags": [
@@ -20,5 +20,6 @@
     "parenting",
     "professional-life"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

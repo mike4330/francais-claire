@@ -10,13 +10,14 @@
     "Employing interdisciplinary collaborative approaches"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>L'analyse minutieuse de ce truc sophistiqué révèle que tenir compte des moindres variations du vent atmosphérique s'avère crucial pour la précision des calculs aérodynamiques</em>' - The detailed analysis of this sophisticated device reveals that taking into account the slightest variations in atmospheric wind proves crucial for aerodynamic calculation precision. This targets 'truc', 'compte', and 'vent' in an engineering context.",
+  "explanation": "The text states '<em>L'analyse minutieuse de ce truc sophistiqué révèle que tenir compte des moindres variations du vent atmosphérique s'avère crucial pour la précision des calculs aérodynamiques</em>' - The detailed analysis of this sophisticated device reveals that taking into account the slightest variations in atmospheric wind proves crucial for aerodynamic calculation precision. 'Minutieuse' means detailed, 'tenir compte de' means to take into account, and 'moindres' means slightest.",
   "difficulty": "C1",
-  "source": "Strategic noun targeting: truc, compte, vent",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "engineering",
     "aerodynamics",
     "precision"
   ],
-  "timeCreated": 1720617980
+  "timeCreated": 1720617980,
+  "verified": "claude"
 }

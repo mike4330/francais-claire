@@ -1,0 +1,16 @@
+{
+  "id": 550,
+  "audioText": "Tu pleures à cause de cette cigarette forte.",
+  "question": "Tu ______ à cause de cette cigarette forte.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "pleures",
+  "acceptedAnswers": ["pleures", "Pleures"],
+  "explanation": "The text states '<em>Tu pleures à cause de cette cigarette forte</em>' - You cry because of this strong cigarette. 'Pleures' is the 2nd person singular form of 'pleurer' (to cry), and 'cigarette' means cigarette.",
+  "difficulty": "A1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["emotions", "smoking", "health"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

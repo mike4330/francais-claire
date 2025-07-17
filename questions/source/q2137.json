@@ -10,7 +10,7 @@
         "One must avoid all conflicts and remain neutral"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Pour être libre dans ce monde, il faut être craint. Pour être craint, il faut être puissant</em>' - To be free in this world, one must be feared. To be feared, one must be powerful. This expresses a philosophy linking freedom to power through fear. The distractors test confusion about the requirements for freedom.",
+    "explanation": "The text states '<em>Pour être libre dans ce monde, il faut être craint. Pour être craint, il faut être puissant</em>' - To be free in this world, one must be feared. To be feared, one must be powerful. This expresses a philosophy linking freedom to power through fear.",
     "difficulty": "B1",
     "source": "Political philosophy discussion",
     "tags": [
@@ -20,5 +20,6 @@
         "society"
     ],
     "timeCreated": 1720881353,
-    "parentQuestion": 1725
+    "parentQuestion": 1725,
+    "verified": "claude"
 }

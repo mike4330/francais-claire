@@ -10,11 +10,14 @@
     "serais"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'serai'. La phrase complète est 'Demain, je serai en vacances et très content de me reposer.' - Tomorrow, I will be on vacation and very happy to rest. 'Serai' is the future tense of 'être' (to be).",
+  "explanation": "The text states '<em>Demain, je serai en vacances et très content de me reposer</em>' - Tomorrow, I will be on vacation and very happy to rest. 'Serai' is the future tense of 'être' (to be), and 'content' means happy/pleased.",
   "difficulty": "A2",
-  "source": "Vacation Planning",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "vacation",
-    "rest"
-  ]
+    "rest",
+    "happiness"
+  ],
+  "timeCreated": 1704415500,
+  "verified": "claude"
 }

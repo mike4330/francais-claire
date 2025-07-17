@@ -1,0 +1,19 @@
+{
+  "id": 546,
+  "audioText": "Imaginez que vous perdez vos lunettes de soleil.",
+  "question": "Imaginez que vous perdez vos lunettes de soleil.",
+  "questionType": "listening",
+  "options": [
+    "Imagine that you lose your sunglasses",
+    "Remember when you found your reading glasses",
+    "Think about buying new contact lenses",
+    "Consider getting your eyes examined"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Imaginez que vous perdez vos lunettes de soleil</em>' - Imagine that you lose your sunglasses. 'Imaginez' means imagine, 'perdez' means lose, and 'lunettes de soleil' means sunglasses.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["glasses", "imagination", "loss"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

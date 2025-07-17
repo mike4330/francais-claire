@@ -1,0 +1,19 @@
+{
+  "id": 2169,
+  "audioText": "Cette chasse aux papillons dans le musée me paraît complètement absurde et sans aucun sens logique.",
+  "question": "How does the speaker view the butterfly hunt in the museum?",
+  "questionType": "comprehension",
+  "options": [
+    "Completely absurd and senseless",
+    "Scientifically valuable and educational",
+    "Entertaining but potentially dangerous",
+    "Traditional but somewhat outdated"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette chasse aux papillons dans le musée me paraît complètement absurde et sans aucun sens logique</em>' - This butterfly hunt in the museum seems completely absurd to me and without any logical sense. 'Chasse' means hunt, 'absurde' means absurd, and 'sens logique' means logical sense.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["museum", "activities", "opinion"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2166,
+  "audioText": "Sa volonté de réussir dans cette entreprise difficile impressionne tous ses collègues qui admirent sa détermination.",
+  "question": "What impresses the colleagues?",
+  "questionType": "comprehension",
+  "options": [
+    "His willingness to succeed in this difficult undertaking",
+    "His ability to work long hours every day",
+    "His knowledge of complex business strategies",
+    "His experience with international markets"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa volonté de réussir dans cette entreprise difficile impressionne tous ses collègues</em>' - His willingness to succeed in this difficult undertaking impresses all his colleagues. 'Volonté' means willingness/will, 'réussir' means to succeed, and 'entreprise' here means undertaking.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["workplace", "determination", "success"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

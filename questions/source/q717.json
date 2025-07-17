@@ -10,9 +10,10 @@
         "appellerais"
     ],
     "correct": 0,
-    "explanation": "The text contains 'J'appellerai le médecin dès demain matin pour prendre rendez-vous rapidement' - I will call the doctor first thing tomorrow morning to make an appointment quickly. 'Appellerai' is the first person singular future tense of 'appeler' (to call).",
+    "explanation": "The text states '<em>J'appellerai le médecin dès demain matin pour prendre rendez-vous rapidement</em>' - I will call the doctor first thing tomorrow morning to make an appointment quickly. 'Appellerai' is the 1st person singular future tense of 'appeler' (to call), 'dès' means as soon as, and 'rapidement' means quickly.",
     "difficulty": "B1",
-    "source": "Medical appointment scheduling",
+    "source": "Strategic vocabulary targeting",
     "tags": ["health", "medical", "appointment", "urgency", "future"],
-    "timeCreated": 1736068700
+    "timeCreated": 1736068700,
+    "verified": "claude"
 }

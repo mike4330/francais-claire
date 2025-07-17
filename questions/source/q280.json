@@ -12,11 +12,12 @@
     "correct": 0,
     "explanation": "The text states '<em>Avant-hier, Marie regardait là-dedans. Dorénavant, elle cherche ailleurs.</em>' - 'The day before yesterday, Marie was looking in there. From now on, she looks elsewhere.' The time reference is clearly 'avant-hier' (the day before yesterday).",
     "difficulty": "A2",
-    "source": "Strategic adverb targeting",
+    "source": "Strategic vocabulary targeting",
     "tags": [
         "time-reference",
         "search",
         "change"
     ],
-    "timeCreated": 1720713600
+    "timeCreated": 1720713600,
+    "verified": "claude"
 }

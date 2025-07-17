@@ -18,7 +18,9 @@
     "prenne"
   ],
   "correct": 0,
-  "explanation": "'Prendrait' is the conditional tense of 'prendre', used to express a hypothetical action.",
+  "explanation": "The text states '<em>Il prendrait le train de 8h si il se dépêchait</em>' - He would take the 8 o'clock train if he hurried. The correct answer is 'prendrait', the conditional tense of 'prendre' (to take), used to express a hypothetical action.",
   "difficulty": "B1",
-  "source": "Gemini CLI"
+  "source": "Gemini CLI",
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

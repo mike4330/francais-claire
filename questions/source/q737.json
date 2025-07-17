@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Les nouveaux cours de natation pour adultes commencent lundi prochain à la piscine municipale</em>' - The new adult swimming classes start next Monday at the municipal pool. 'Natation' means swimming and 'piscine municipale' means municipal pool.",
     "difficulty": "A2",
-    "source": "Recreation center",
+    "source": "Strategic vocabulary targeting",
     "tags": ["swimming", "sports", "recreation"],
-    "timeCreated": 1704414120
+    "timeCreated": 1704414120,
+    "verified": "claude"
 }

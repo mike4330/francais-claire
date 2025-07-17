@@ -1,0 +1,19 @@
+{
+  "id": 543,
+  "audioText": "J'adore mes vacances d'été à la plage.",
+  "question": "J'adore mes vacances d'été à la plage.",
+  "questionType": "listening",
+  "options": [
+    "I love my summer vacation at the beach",
+    "I hate my winter vacation in the mountains",
+    "I enjoy my spring break in the city",
+    "I prefer my autumn trips to the countryside"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'adore mes vacances d'été à la plage</em>' - I love my summer vacation at the beach. 'Adore' means love/adore, 'vacances' means vacation, and 'plage' means beach.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["vacation", "beach", "summer"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

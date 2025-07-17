@@ -10,13 +10,14 @@
     "With his wife in the countryside"
   ],
   "correct": 0,
-  "explanation": "The text states 'Il vit seul dans cette grande maison' - He lives alone in this big house. 'Seul' means alone/by oneself.",
+  "explanation": "The text states '<em>Il vit seul dans cette grande maison</em>' - He lives alone in this big house. 'Vit' is the third person singular form of 'vivre' (to live), and 'seul' means alone/by oneself.",
   "difficulty": "A1",
-  "source": "Housing Situation",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "home",
     "living-situation",
     "solitude"
   ],
-  "timeCreated": 1720025460
+  "timeCreated": 1720025460,
+  "verified": "claude"
 }

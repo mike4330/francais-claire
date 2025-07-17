@@ -10,7 +10,7 @@
     "importantes"
   ],
   "correct": 0,
-  "explanation": "The context suggests you shouldn't make 'bad' decisions when angry. 'Mauvais' means bad/poor, which fits the warning about decision-making while emotional. The other options don't match the cautionary tone.",
+  "explanation": "The text states '<em>Il ne faut jamais prendre de mauvais décisions quand on est en colère</em>' - You should never make bad decisions when you are angry. The correct answer is 'mauvais' meaning bad/poor, which fits the warning about decision-making while emotional.",
   "difficulty": "B1",
   "source": "Life Advice - Decision Making",
   "tags": [
@@ -19,5 +19,6 @@
     "emotions",
     "psychology"
   ],
-  "timeCreated": 1720026260
+  "timeCreated": 1720026260,
+  "verified": "claude"
 }

@@ -1,0 +1,19 @@
+{
+  "id": 2170,
+  "audioText": "Le toit de cette maison résiste pleinement aux tempêtes hivernales grâce à sa construction solide.",
+  "question": "Le toit de cette maison résiste ______ aux tempêtes hivernales grâce à sa construction solide.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pleinement",
+    "partiellement",
+    "difficilement",
+    "rarement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le toit de cette maison résiste pleinement aux tempêtes hivernales</em>' - The roof of this house fully resists winter storms. 'Toit' means roof, 'pleinement' means fully/completely, and 'tempêtes' means storms.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["housing", "weather", "construction"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

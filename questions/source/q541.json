@@ -1,0 +1,19 @@
+{
+  "id": 541,
+  "audioText": "La veille, nous avons vu des animaux sauvages dans la forêt.",
+  "question": "When did they see wild animals in the forest?",
+  "questionType": "comprehension",
+  "options": [
+    "The day before",
+    "This morning",
+    "Next week",
+    "Last month"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La veille, nous avons vu des animaux sauvages dans la forêt</em>' - The day before, we saw wild animals in the forest. 'Veille' means the day before/eve, 'sauvages' means wild, and 'animaux' means animals.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["animals", "forest", "time"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

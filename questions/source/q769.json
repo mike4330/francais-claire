@@ -11,9 +11,10 @@
     "The actors getting ready backstage"
   ],
   "correct": 1,
-  "explanation": "The sentence uses 'passais', the imparfait tense of 'passer', to describe a repeated action in the past. The speaker imagined the historical events inside the theater.",
+  "explanation": "The text states '<em>Chaque fois que je passais devant ce vieux théâtre, j'imaginais les événements incroyables qui avaient dû s'y dérouler il y a des décennies</em>' - Each time I passed by this old theater, I imagined the incredible events that must have taken place there decades ago. 'Passais' is the imperfect tense of 'passer' (to pass by), and 'imaginais' is the imperfect of 'imaginer' (to imagine).",
   "difficulty": "B1",
-  "source": "Gemini CLI",
-  "tags": ["events", "history", "imagination", "daily-life"],
-  "timeCreated": 1720181350
+  "source": "Strategic vocabulary targeting",
+  "tags": ["theater", "history", "imagination", "memories"],
+  "timeCreated": 1720181350,
+  "verified": "claude"
 }

@@ -1,0 +1,19 @@
+{
+  "id": 537,
+  "audioText": "Sa figure était triste quand elle a appris la nouvelle.",
+  "question": "How was her face when she learned the news?",
+  "questionType": "comprehension",
+  "options": [
+    "Sad",
+    "Happy",
+    "Angry",
+    "Surprised"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa figure était triste quand elle a appris la nouvelle</em>' - Her face was sad when she learned the news. 'Figure' means face, 'triste' means sad, and 'nouvelle' means news.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["emotions", "facial-expressions", "news"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

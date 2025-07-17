@@ -1,0 +1,19 @@
+{
+  "id": 544,
+  "audioText": "L'enfant pleure dans l'herbe verte du jardin.",
+  "question": "L'enfant ______ dans l'herbe verte du jardin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pleure",
+    "chante",
+    "danse",
+    "joue"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'enfant pleure dans l'herbe verte du jardin</em>' - The child cries in the green grass of the garden. 'Pleure' means cries/weeps and 'herbe' means grass.",
+  "difficulty": "A1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["children", "garden", "emotions"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

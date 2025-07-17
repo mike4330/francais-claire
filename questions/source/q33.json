@@ -11,12 +11,14 @@
     "Un homme a volé quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il n'ira pas en prison."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Un homme a tué quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il n'ira pas en prison.' - A man killed someone in Marseille in 2022. The court decided he is not responsible due to mental problems and he will not go to prison.",
+  "explanation": "The text states '<em>Un homme a tué quelqu'un à Marseille en 2022. Le tribunal a décidé qu'il n'est pas responsable à cause de problèmes mentaux et il n'ira pas en prison</em>' - A man killed someone in Marseille in 2022. The court decided he is not responsible due to mental problems and he will not go to prison. Key phrases: 'n'est pas responsable' (is not responsible) and 'n'ira pas en prison' (will not go to prison).",
   "difficulty": "B2",
   "source": "Legal News - Listening",
   "tags": [
     "crime",
     "legal-system",
     "mental-health"
-  ]
+  ],
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

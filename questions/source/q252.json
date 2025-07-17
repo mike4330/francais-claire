@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The speaker says '<em>Les enfants jouent gaiement dans le parc</em>' - The children are playing cheerfully in the park. 'Gaiement' means 'cheerfully' or 'happily'.",
     "difficulty": "A2",
-    "source": "Children at play",
+    "source": "Strategic vocabulary targeting",
     "tags": ["play", "children", "park"],
-    "timeCreated": 1720442640
+    "timeCreated": 1720442640,
+    "verified": "claude"
 }

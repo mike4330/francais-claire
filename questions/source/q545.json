@@ -1,0 +1,16 @@
+{
+  "id": 545,
+  "audioText": "Il jette ses papiers dans le couloir de l'école.",
+  "question": "Il ______ ses papiers dans le couloir de l'école.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "jette",
+  "acceptedAnswers": ["jette", "Jette"],
+  "explanation": "The text states '<em>Il jette ses papiers dans le couloir de l'école</em>' - He throws his papers in the school hallway. 'Jette' means throws and 'couloir' means hallway/corridor.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["school", "behavior", "corridor"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

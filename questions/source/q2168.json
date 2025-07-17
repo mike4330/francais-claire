@@ -1,0 +1,19 @@
+{
+  "id": 2168,
+  "audioText": "Le manuel épais traite de l'éducation sexuellement explicite dans les programmes scolaires modernes.",
+  "question": "What does the thick manual deal with?",
+  "questionType": "comprehension",
+  "options": [
+    "Sexually explicit education in modern school programs",
+    "Traditional teaching methods and classroom management",
+    "Advanced mathematics and scientific research techniques",
+    "Historical perspectives on educational philosophy"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le manuel épais traite de l'éducation sexuellement explicite dans les programmes scolaires modernes</em>' - The thick manual deals with sexually explicit education in modern school programs. 'Épais' means thick, 'sexuellement' means sexually, and 'explicite' means explicit.",
+  "difficulty": "B2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["education", "curriculum", "modern-society"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

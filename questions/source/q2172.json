@@ -1,0 +1,19 @@
+{
+  "id": 2172,
+  "audioText": "Cette entreprise reçoit une adresse confidentielle pour livrer les documents secrets à temps.",
+  "question": "Cette entreprise reçoit une adresse confidentielle pour livrer les documents secrets à temps.",
+  "questionType": "listening",
+  "options": [
+    "This company receives a confidential address to deliver secret documents on time",
+    "This business sends private information to multiple secure locations daily",
+    "This organization stores classified files in underground vault systems",
+    "This corporation transfers encrypted data through satellite communication networks"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette entreprise reçoit une adresse confidentielle pour livrer les documents secrets à temps</em>' - This company receives a confidential address to deliver secret documents on time. 'Reçoit' is the 3rd person singular form of 'recevoir' (to receive), and 'adresse' means address.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["business", "delivery", "confidentiality"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

@@ -10,9 +10,10 @@
         "While reading ancient books in his library"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le roi a trouvé la paix au bord de cette rivière tranquille et silencieuse</em>' - The king found peace by the edge of this quiet and silent river. This targets the nouns 'roi', 'paix', and 'bord' in a peaceful nature context.",
+    "explanation": "The text states '<em>Le roi a trouvé la paix au bord de cette rivière tranquille et silencieuse</em>' - The king found peace by the edge of this quiet and silent river. 'Au bord de' means 'by the edge of', 'tranquille' means quiet, and 'silencieuse' means silent.",
     "difficulty": "B1",
     "source": "Strategic noun targeting: roi, paix, bord",
     "tags": ["royalty", "peace", "nature"],
-    "timeCreated": 1720618160
+    "timeCreated": 1720618160,
+    "verified": "claude"
 }

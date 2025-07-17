@@ -10,9 +10,10 @@
         "Souvent je mange au restaurant avec mes amis."
     ],
     "correct": 0,
-    "explanation": "The speaker used 'quelquefois' meaning 'sometimes'. This indicates occasional frequency - not always, never, or often, but from time to time. The other options change the frequency adverb completely.",
+    "explanation": "The text states '<em>Quelquefois je mange au restaurant avec mes amis</em>' - Sometimes I eat at the restaurant with my friends. 'Quelquefois' means sometimes, indicating occasional frequency, and 'restaurant' means restaurant.",
     "difficulty": "A2",
-    "source": "Social dining habits",
+    "source": "Strategic vocabulary targeting",
     "tags": ["food", "friends", "social-activities"],
-    "timeCreated": 1720077000
+    "timeCreated": 1720077000,
+    "verified": "claude"
 }

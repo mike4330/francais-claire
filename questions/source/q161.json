@@ -10,13 +10,14 @@
     "A young student"
   ],
   "correct": 0,
-  "explanation": "The phrase 'C'est un étudiant sérieux' means 'He is a serious student.' The adjective 'sérieux' means serious/studious, describing the student's academic attitude.",
+  "explanation": "The text states '<em>C'est un étudiant sérieux</em>' - He is a serious student. 'Sérieux' means serious/studious, 'étudiant' means student, and 'c'est' means 'it is' or 'he is'.",
   "difficulty": "A2",
-  "source": "Student Description",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "education",
     "student-life",
     "personality"
   ],
-  "timeCreated": 1720026800
+  "timeCreated": 1720026800,
+  "verified": "claude"
 }

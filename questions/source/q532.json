@@ -1,0 +1,19 @@
+{
+  "id": 532,
+  "audioText": "Je prends une semaine de vacance en août.",
+  "question": "What does the speaker plan to take in August?",
+  "questionType": "comprehension",
+  "options": [
+    "A week of vacation",
+    "A new job",
+    "Some classes",
+    "A business trip"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je prends une semaine de vacance en août</em>' - I am taking a week of vacation in August. 'Prendre' means to take, 'vacance' means vacation/leave, and 'août' means August.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["vacation", "time", "personal-plans"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

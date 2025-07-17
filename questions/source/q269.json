@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The correct sentence is '<em>Il marchait silencieusement au fond du bois pour observer les animaux</em>' - He was walking silently deep in the woods to observe the animals. 'Silencieusement' means 'silently', 'fond' means 'depth/back', and 'bois' means 'woods'.",
     "difficulty": "A2",
-    "source": "Nature observation",
-    "tags": ["park", "animals", "nature"],
-    "timeCreated": 1720443780
+    "source": "Strategic vocabulary targeting",
+    "tags": ["nature", "animals", "observation"],
+    "timeCreated": 1720443780,
+    "verified": "claude"
 }

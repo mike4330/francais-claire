@@ -10,9 +10,10 @@
         "Food."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'donnons' - the present form of 'donner' (to give) for nous. 'Nous donnons des conseils' means 'we give advice'. The sentence describes giving advice to students.",
+    "explanation": "The text states '<em>Nous donnons des conseils aux étudiants</em>' - We give advice to students. 'Donnons' is the present form of 'donner' (to give) for 'nous' (we), and 'conseils' means advice.",
     "difficulty": "A2",
-    "source": "Educational support context",
+    "source": "Strategic vocabulary targeting",
     "tags": ["education", "advice", "students"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

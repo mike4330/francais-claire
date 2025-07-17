@@ -10,9 +10,10 @@
         "At the station."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'arrêtera' - the future form of 'arrêter' (to stop) for il/elle. 'Le bus s'arrêtera' means 'the bus will stop'. 'À l'hôpital' means 'at the hospital'.",
+    "explanation": "The text states '<em>Le bus s'arrêtera à l'hôpital</em>' - The bus will stop at the hospital. 'Arrêtera' is the future form of 'arrêter' (to stop) and 'à l'hôpital' means 'at the hospital'.",
     "difficulty": "A2",
     "source": "Public transportation information",
     "tags": ["transportation", "healthcare", "public-transport"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

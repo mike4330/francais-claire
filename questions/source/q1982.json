@@ -10,12 +10,13 @@
     "J'ai besoin de temps pour ce problème."
   ],
   "correct": 0,
-  "explanation": "The correct sentence is 'J'ai besoin d'aide pour ce problème.', which means 'I need help with this problem.'",
+  "explanation": "The text states '<em>J'ai besoin d'aide pour ce problème</em>' - I need help with this problem. 'Besoin d'aide' means 'need help' and 'problème' means 'problem'.",
   "difficulty": "B1",
   "source": "Gemini-generated",
   "tags": [
     "requests",
     "problem-solving"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

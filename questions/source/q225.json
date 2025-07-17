@@ -10,9 +10,10 @@
         "attend"
     ],
     "correct": 0,
-    "explanation": "The text contains 'En attendant le guide, nous préparons nos sacs à dos pour la randonnée' - While waiting for the guide, we prepare our backpacks for the hike. 'Attendant' is the present participle of 'attendre' (to wait), used after 'en' to express simultaneous actions.",
+    "explanation": "The text states '<em>En attendant le guide, nous préparons nos sacs à dos pour la randonnée</em>' - While waiting for the guide, we prepare our backpacks for the hike. 'Attendant' is the present participle of 'attendre' (to wait), used after 'en' to express simultaneous actions.",
     "difficulty": "A2",
-    "source": "Hiking preparation",
+    "source": "Strategic vocabulary targeting",
     "tags": ["hiking", "preparation", "outdoor", "guide", "waiting"],
-    "timeCreated": 1736066000
+    "timeCreated": 1736066000,
+    "verified": "claude"
 }

@@ -1,0 +1,19 @@
+{
+  "id": 547,
+  "audioText": "Tu imagines toujours des histoires de héros courageux.",
+  "question": "What does the person always imagine?",
+  "questionType": "comprehension",
+  "options": [
+    "Stories of courageous heroes",
+    "Scary monster tales",
+    "Romantic love poems",
+    "Funny comedy shows"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu imagines toujours des histoires de héros courageux</em>' - You always imagine stories of courageous heroes. 'Imagines' is the 2nd person singular form of 'imaginer' (to imagine), 'héros' means heroes, and 'courageux' means courageous.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["imagination", "stories", "heroes"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}

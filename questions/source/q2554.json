@@ -10,7 +10,7 @@
     "They were being sold off to other countries."
   ],
   "correct": 1,
-  "explanation": "The text states: 'que des navires de la Marine nationale partaient en mission sans assez de munitions sous de précédents gouvernements.' (that French Navy ships were going on missions without enough ammunition under previous governments.)",
+  "explanation": "The text states '<em>Le ministre des Armées, Sébastien Lecornu, a révélé, mercredi 2 juillet, que des navires de la Marine nationale partaient en mission sans assez de munitions sous de précédents gouvernements</em>' - The Defense Minister, Sébastien Lecornu, revealed on Wednesday July 2nd that French Navy ships were going on missions without enough ammunition under previous governments. 'Sans assez de munitions' means 'without enough ammunition'.",
   "difficulty": "C1",
   "source": "French Media (Le Monde)",
   "tags": [
@@ -20,5 +20,6 @@
     "government",
     "news"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

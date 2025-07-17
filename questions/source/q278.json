@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Vous finissez votre travail avec ce mari gentil</em>' - You finish your work with this kind husband. 'Finissez' is the second person plural form of 'finir' (to finish), and 'mari gentil' means 'kind husband'.",
     "difficulty": "A2",
-    "source": "Strategic conjugate + high-frequency noun/adjective combination",
+    "source": "Strategic vocabulary targeting",
     "tags": ["family", "workplace", "cooperation"],
-    "timeCreated": 1735992000
+    "timeCreated": 1735992000,
+    "verified": "claude"
 }

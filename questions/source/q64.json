@@ -10,13 +10,15 @@
     "aimons"
   ],
   "correct": 0,
-  "explanation": "With 'tu' (you), we use 'aimes' - the second person singular form of 'aimer'. The phrase 'cette chose rouge' means 'this red thing'. This tests the conjugation of 'aimer' (to like/love) with the important noun 'chose' (thing).",
+  "explanation": "The text states '<em>Tu aimes cette chose rouge ?</em>' - Do you like this red thing? 'Aimes' is the 2nd person singular form of 'aimer' (to like/love), 'cette' means this, 'chose' means thing, and 'rouge' means red.",
   "difficulty": "A1",
-  "source": "Basic preference expression with color adjective",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "basic-vocabulary",
     "colors",
     "preferences",
     "daily-life"
-  ]
+  ],
+  "timeCreated": 1720026800,
+  "verified": "claude"
 }

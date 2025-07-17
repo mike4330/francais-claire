@@ -10,7 +10,7 @@
     "Buy new furniture for this house"
   ],
   "correct": 0,
-  "explanation": "The French sentence uses 'fasses' - the subjunctive form of 'faire' (to do/make) for tu. 'Il faut que tu fasses attention' means 'you must pay attention/be careful'. The subjunctive is required after 'il faut que'.",
+  "explanation": "The text states '<em>Il faut que tu fasses attention aux meubles anciens dans cette maison</em>' - You must be careful with the antique furniture in this house. 'Fasses' is the subjunctive form of 'faire' (to do/make) required after 'il faut que', and 'meubles anciens' means antique furniture.",
   "difficulty": "B1",
   "source": "Home safety discussion",
   "tags": [
@@ -18,5 +18,6 @@
     "household-items",
     "safety"
   ],
-  "timeCreated": 1720108800
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

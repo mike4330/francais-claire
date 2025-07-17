@@ -1,0 +1,19 @@
+{
+  "id": 539,
+  "audioText": "Ce héros malheureux a perdu sa famille dans la guerre.",
+  "question": "What happened to the unhappy hero's family?",
+  "questionType": "comprehension",
+  "options": [
+    "They were lost in the war",
+    "They moved to another country",
+    "They became very wealthy",
+    "They started a new business"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce héros malheureux a perdu sa famille dans la guerre</em>' - This unhappy hero lost his family in the war. 'Héros' means hero, 'malheureux' means unhappy/unfortunate, and 'perdu' means lost.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary targeting",
+  "tags": ["war", "family", "tragedy"],
+  "timeCreated": 1737045600,
+  "verified": "claude"
+}
