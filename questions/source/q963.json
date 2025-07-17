@@ -10,9 +10,9 @@
     "soleil"
   ],
   "correct": 0,
-  "explanation": "The word 'air' (air) makes sense in this context about the pure mountain air being good for the lungs after city pollution.",
+  "explanation": "The text states '<em>L'air pur de la montagne fait du bien aux poumons après la pollution de la ville</em>' - The pure mountain air does good for the lungs after city pollution. 'Air' means air, 'pur' means pure, 'poumons' means lungs, and 'pollution' means pollution.",
   "difficulty": "B1",
-  "source": "Comparison between mountain and city air quality",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "environment",
     "health",
@@ -20,5 +20,6 @@
     "nature",
     "mountains"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

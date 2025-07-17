@@ -10,9 +10,9 @@
     "allez"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'vas' - the second person singular form of 'aller' (to go). With 'tu' (you), we use 'vas'. The sentence means 'You are going to buy a little bread for dinner tonight.' 'Peu' means little/a bit.",
+  "explanation": "The text states '<em>Tu vas acheter un peu de pain pour le dîner ce soir</em>' - You are going to buy a little bread for dinner tonight. 'Vas' is the 2nd person singular form of 'aller' (to go), 'peu' means little/a bit, and 'pain' means bread.",
   "difficulty": "A1",
-  "source": "Daily Shopping and Meals",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "shopping",
     "food",
@@ -20,5 +20,6 @@
     "dinner",
     "daily-life"
   ],
-  "timeCreated": 1735500702
+  "timeCreated": 1735500702,
+  "verified": "claude"
 }

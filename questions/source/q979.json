@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Ce gars travaille dans notre équipe depuis trois ans et il connaît vraiment bien le projet</em>' - This guy has been working on our team for three years and he really knows the project well. The key phrase 'depuis trois ans' indicates duration (for three years), and 'connaît vraiment bien' confirms his expertise with the project.",
     "difficulty": "B1",
-    "source": "Workplace conversation",
+    "source": "Strategic vocabulary targeting",
     "tags": ["workplace", "team", "experience"],
-    "timeCreated": 1720354800
+    "timeCreated": 1720354800,
+    "verified": "claude"
 }

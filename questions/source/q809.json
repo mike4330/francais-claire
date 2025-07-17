@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Tu sortiras de cette situation difficile avec une double dose de patience et de courage</em>' - You will get out of this difficult situation with a double dose of patience and courage. 'Sortiras' is the future form of 'sortir' (to get out), and 'double' means 'double', targeting missing verb conjugate and adjective.",
     "difficulty": "B2",
-    "source": "Encouragement advice",
+    "source": "Strategic vocabulary targeting",
     "tags": ["student-life", "frustration", "encouragement", "difficulty"],
-    "timeCreated": 1736104380
+    "timeCreated": 1736104380,
+    "verified": "claude"
 }

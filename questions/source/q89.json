@@ -14,9 +14,10 @@
   "difficulty": "A2",
   "source": "Weather conversation and agreement",
   "tags": [
-    "beau",
     "weather",
-    "agreement"
+    "agreement",
+    "daily-life"
   ],
-  "timeCreated": 1704067200
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

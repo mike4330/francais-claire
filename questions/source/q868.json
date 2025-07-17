@@ -12,7 +12,8 @@
     "correct": 1,
     "explanation": "The text states '<em>Il faut que tu comprennes que dire merci est vraiment sympa et important</em>' - You must understand that saying thanks is really nice and important. 'Comprennes' is subjunctive, 'merci' means thanks, and 'sympa' means nice/kind.",
     "difficulty": "B1",
-    "source": "Social etiquette and politeness",
+    "source": "Strategic vocabulary targeting",
     "tags": ["kindness", "politeness", "social-skills"],
-    "timeCreated": 1751777362
+    "timeCreated": 1751777362,
+    "verified": "claude"
 }

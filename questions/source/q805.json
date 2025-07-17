@@ -10,9 +10,10 @@
         "rapport"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Nous devons faire un choix difficile entre ces deux techniques d'analyse de données</em>' - We must make a difficult choice between these two data analysis techniques. 'Choix' means 'choice/decision', targeting the under-represented topic while combining with 'techniques' and 'data' themes.",
+    "explanation": "The text states '<em>Nous devons faire un choix difficile entre ces deux techniques d'analyse de données</em>' - We must make a difficult choice between these two data analysis techniques. 'Choix' means choice/decision, 'techniques' means techniques, and 'données' means data.",
     "difficulty": "B1",
-    "source": "Technical decision",
+    "source": "Strategic vocabulary targeting",
     "tags": ["choice", "techniques", "data", "decision-making"],
-    "timeCreated": 1736104140
+    "timeCreated": 1736104140,
+    "verified": "claude"
 }

@@ -12,12 +12,13 @@
     "correct": 1,
     "explanation": "The text states '<em>Pour les courses quotidiennes, quoi de plus vrai que cette réalité : le premier magasin propose de beaux produits. Les vieux commerçants aux gros sourires rendent les pauvres familles heureuses avec des prix justes.</em>' - 'For daily errands, what is truer than this reality: the first store offers beautiful products. Old merchants with big smiles make poor families happy with fair prices.' The text clearly identifies old merchants with big smiles and fair prices as what makes families happy.",
     "difficulty": "B2",
-    "source": "Strategic adjective-tag intersection",
+    "source": "Strategic vocabulary targeting",
     "tags": [
         "daily-errands",
         "gratitude",
         "community",
         "fairness"
     ],
-    "timeCreated": 1720713600
+    "timeCreated": 1720713600,
+    "verified": "claude"
 }

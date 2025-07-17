@@ -12,7 +12,7 @@
   "correct": 0,
   "explanation": "The text states '<em>Étant enfant, mes grands-parents parlaient toujours en français à la maison pour préserver la tradition familiale</em>' - As a child, my grandparents always spoke French at home to preserve family tradition. 'Étant enfant' is a gerund construction meaning 'being a child/as a child'.",
   "difficulty": "B1",
-  "source": "Childhood memory about family language traditions",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "family",
     "childhood",
@@ -20,5 +20,6 @@
     "language",
     "memories"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

@@ -10,12 +10,13 @@
     "Pendant mon enfance, j'aimé beaucoup les gâteaux."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Pendant mon enfance, j'aimais beaucoup les gâteaux</em>' - During my childhood, I used to love cakes. 'J'aimais' is the imperfect form of 'aimer' (to like/love). The distractors test tense confusion (aime), conditional confusion (aimerais), and past participle confusion (aimé).",
+  "explanation": "The text states '<em>Pendant mon enfance, j'aimais beaucoup les gâteaux</em>' - During my childhood, I used to love cakes. 'J'aimais' is the imperfect form of 'aimer' (to like/love), used to express past habits or repeated actions.",
   "difficulty": "A2",
   "source": "Childhood memories and preferences",
   "tags": [
     "childhood",
     "food"
   ],
-  "timeCreated": 1704067200
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

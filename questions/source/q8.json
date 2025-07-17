@@ -10,14 +10,16 @@
     "Limit access to expensive medical treatments"
   ],
   "correct": 1,
-  "explanation": "The speaker says 'il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible' - we need to ensure people get sick as late and as little as possible. This describes a prevention-focused approach to make healthcare sustainable.",
+  "explanation": "The text states '<em>Pour que le système de santé soit soutenable, il faut qu'on fasse en sorte que les gens soient malades le plus tard et le moins possible</em>' - For the health system to be sustainable, we need to ensure people get sick as late and as little as possible. This describes a prevention-focused approach to healthcare sustainability.",
   "difficulty": "C1",
-  "source": "French Healthcare Policy",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "healthcare",
     "policy",
     "prevention",
     "sustainability",
     "economics"
-  ]
+  ],
+  "timeCreated": 1720026800,
+  "verified": "claude"
 }

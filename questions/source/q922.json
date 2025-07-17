@@ -12,7 +12,7 @@
     "Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», populaire sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics."
   ],
   "correct": 0,
-  "explanation": "The exact phrase was 'Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.' The distractors modify key words: 'certains/quelques', 'reprennent/utilisent', and 'en vogue/populaire', testing precise listening of political and internet vocabulary.",
+  "explanation": "The text states '<em>Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</em>' - This donation annoys certain internet users who use the expression 'It's Nicolas who pays', popular on the internet to designate taxpayers who pay, through their taxes, all public expenditures. 'Reprennent' means 'take up/use again', 'en vogue' means 'in fashion/popular', and 'contribuables' means 'taxpayers'.",
   "difficulty": "B2",
   "source": "French Political Media Commentary - Listening",
   "tags": [
@@ -23,5 +23,6 @@
     "social-commentary",
     "media"
   ],
-  "timeCreated": 1735500049
+  "timeCreated": 1735500049,
+  "verified": "claude"
 }

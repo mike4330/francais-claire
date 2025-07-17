@@ -11,9 +11,9 @@
     "Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant deux heures."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant une heure.' Les distracteurs testent 'mijoter' vs 'cuire', 'feu doux' vs 'feu fort', et 'une heure' vs 'deux heures'.",
+  "explanation": "The text states '<em>Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant une heure</em>' - To succeed with this recipe, you need to simmer the vegetables on low heat for one hour. 'Mijoter' means to simmer, 'feu doux' means low heat, and 'pendant' means for/during.",
   "difficulty": "A2",
-  "source": "Traditional French Cooking Techniques",
+  "source": "Strategic vocabulary targeting",
   "tags": [
     "cooking",
     "french-cuisine",
@@ -21,5 +21,6 @@
     "culinary-vocabulary",
     "time-management"
   ],
-  "timeCreated": 1751216829
+  "timeCreated": 1751216829,
+  "verified": "claude"
 }

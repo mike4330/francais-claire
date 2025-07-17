@@ -10,9 +10,10 @@
         "Cette nouvelle l'a touchée profondément et elle a besoin de temps pour guérir."
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette nouvelle l'a touchée profondément et elle a besoin de temps pour réfléchir</em>' - This news affected her deeply and she needs time to reflect. 'Profondément' means 'deeply/profoundly' and indicates intensity. The distractors test word confusion (espace), synonym confusion (vivement), and action confusion (guérir).",
+    "explanation": "The text states '<em>Cette nouvelle l'a touchée profondément et elle a besoin de temps pour réfléchir</em>' - This news affected her deeply and she needs time to reflect. 'Profondément' means 'deeply/profoundly' and indicates intensity. 'Réfléchir' means 'to think/reflect'.",
     "difficulty": "B2",
     "source": "Emotional impact",
     "tags": ["emotions", "news", "reflection", "impact"],
-    "timeCreated": 1736106420
+    "timeCreated": 1736106420,
+    "verified": "claude"
 }

@@ -10,9 +10,10 @@
         "They couldn't find the train station."
     ],
     "correct": 1,
-    "explanation": "The text states '<em>Vous attendiez avec impatience le train, et ensuite, vous avez réalisé que vous aviez oublié votre billet.</em>' - 'You were impatiently waiting for the train, and then, you realized you had forgotten your ticket.' The verb 'attendiez' is the second person plural imperfect of 'attendre' (to wait for). The adverb 'ensuite' means 'then' or 'afterwards'. The distractors test for misinterpretation of the specific problem.",
+    "explanation": "The text states '<em>Vous attendiez avec impatience le train, et ensuite, vous avez réalisé que vous aviez oublié votre billet</em>' - You were impatiently waiting for the train, and then, you realized you had forgotten your ticket. 'Attendiez' is the imperfect tense of 'attendre' (to wait for), 'ensuite' means 'then', and 'aviez oublié' means 'had forgotten'.",
     "difficulty": "B2",
     "source": "Gemini CLI",
     "tags": ["transportation", "daily-life", "travel"],
-    "timeCreated": 1720176000
+    "timeCreated": 1720176000,
+    "verified": "claude"
 }

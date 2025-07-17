@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Si tu refuses cette offre, tu devras forcément chercher une autre opportunité ailleurs</em>' - If you refuse this offer, you will necessarily have to look for another opportunity elsewhere. 'Forcément' means 'necessarily/inevitably' and expresses logical consequence.",
     "difficulty": "B2",
-    "source": "Career decision",
+    "source": "Strategic vocabulary targeting",
     "tags": ["career", "decisions", "consequences", "opportunities"],
-    "timeCreated": 1736106480
+    "timeCreated": 1736106480,
+    "verified": "claude"
 }

@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The speaker says '<em>L'oeil de l'enfant brille nettement quand il découvre quelque chose d'instant</em>' - The child's eye shines clearly when discovering something momentary. 'Oeil' means 'eye', 'nettement' means 'clearly', 'instant' means 'momentary'.",
     "difficulty": "B1",
-    "source": "Child development observation",
-    "tags": ["child-development", "observation", "discovery"],
-    "timeCreated": 1720443240
+    "source": "Strategic vocabulary targeting",
+    "tags": ["children", "observation", "discovery"],
+    "timeCreated": 1720443240,
+    "verified": "claude"
 }
