@@ -1,0 +1,18 @@
+{
+    "id": 497,
+    "audioText": "Ce mari jaloux bat son rival avec une colère épaisse et évidente.",
+    "question": "Ce mari jaloux bat son rival avec une colère ______ et évidente.",
+    "questionType": "fill-in-the-blank",
+    "options": [
+        "épaisse",
+        "épais",
+        "épaisses",
+        "épaissir"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce mari jaloux bat son rival avec une colère épaisse et évidente</em>' - This jealous husband beats his rival with thick and evident anger. 'Épaisse' (feminine) agrees with 'colère' (feminine), and both 'jaloux' and 'épais' are target adjectives.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["emotions", "relationships", "conflict"],
+    "timeCreated": 1721049600
+}

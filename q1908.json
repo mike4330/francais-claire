@@ -1,0 +1,18 @@
+{
+    "id": 1908,
+    "audioText": "Ce personnage malin expliquez logiquement pourquoi ce destin affreux bats si furieusement contre cette existence solide et fidèle.",
+    "question": "What does this clever character logically explain?",
+    "questionType": "comprehension",
+    "options": [
+        "Why this awful destiny beats so furiously against this solid and faithful existence",
+        "How modern technology affects traditional business practices",
+        "Where to find the best opportunities for career advancement",
+        "When companies should invest in new industrial equipment"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce personnage malin expliquez logiquement pourquoi ce destin affreux bats si furieusement contre cette existence solide et fidèle</em>' - This clever character logically explains why this awful destiny beats so furiously against this solid and faithful existence. 'Malin' means clever/cunning, targeting multiple priority adjectives.",
+    "difficulty": "B1",
+    "source": "Claude",
+    "tags": ["philosophy", "fate", "character"],
+    "timeCreated": 1721049600
+}

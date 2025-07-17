@@ -1,0 +1,18 @@
+{
+    "id": 498,
+    "audioText": "Cette décision raisonnable paraît soudain évidente à tous les participants.",
+    "question": "How does this reasonable decision appear to all participants?",
+    "questionType": "comprehension",
+    "options": [
+        "Suddenly evident",
+        "Gradually confusing",
+        "Permanently questionable",
+        "Increasingly complicated"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette décision raisonnable paraît soudain évidente à tous les participants</em>' - This reasonable decision suddenly appears evident to all participants. 'Raisonnable' means reasonable, 'soudain' means sudden, and 'évidente' means evident.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["decision-making", "workplace", "clarity"],
+    "timeCreated": 1721049600
+}

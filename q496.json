@@ -1,0 +1,18 @@
+{
+    "id": 496,
+    "audioText": "Cette terre vierge américaine reste solide malgré le destin affreux.",
+    "question": "What remains solid despite the awful destiny?",
+    "questionType": "comprehension",
+    "options": [
+        "This American virgin land",
+        "The old industrial buildings",
+        "The modern city infrastructure",
+        "The ancient cultural traditions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Cette terre vierge américaine reste solide malgré le destin affreux</em>' - This American virgin land remains solid despite the awful destiny. 'Vierge' means virgin/untouched, and 'affreux' means awful/terrible.",
+    "difficulty": "A2",
+    "source": "Claude",
+    "tags": ["nature", "geography", "fate"],
+    "timeCreated": 1721049600
+}

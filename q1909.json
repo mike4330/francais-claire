@@ -1,0 +1,18 @@
+{
+    "id": 1909,
+    "audioText": "Ce patron méchant battu savamment par ses employés aimables découvre inévitablement que sa volonté de contrôler devient positivement contre-productive.",
+    "question": "What does this mean boss beaten wisely by his kind employees inevitably discover?",
+    "questionType": "comprehension",
+    "options": [
+        "That his will to control becomes positively counter-productive",
+        "That his company needs more technological innovation",
+        "That his marketing strategy requires complete reorganization",
+        "That his financial investments have been poorly managed"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ce patron méchant battu savamment par ses employés aimables découvre inévitablement que sa volonté de contrôler devient positivement contre-productive</em>' - This mean boss beaten wisely by his kind employees inevitably discovers that his will to control becomes positively counter-productive. 'Méchant' means mean/nasty, and 'aimables' means kind.",
+    "difficulty": "B2",
+    "source": "Claude",
+    "tags": ["workplace", "management", "leadership"],
+    "timeCreated": 1721049600
+}
