@@ -11,9 +11,10 @@
         "compris"
     ],
     "correct": 0,
-    "explanation": "The subject 'je' is first-person singular, so the verb 'comprendre' must be conjugated as 'comprends'.",
+    "explanation": "The text states '<em>Je ne comprends pas la question</em>' - I don't understand the question. The subject 'je' is first-person singular, so the verb 'comprendre' must be conjugated as 'comprends'.",
     "difficulty": "A2",
     "source": "Gemini-generated",
     "tags": ["understanding", "communication"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

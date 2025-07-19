@@ -10,12 +10,14 @@
     "voient"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'vois'. La phrase complète est 'Je vois un chat noir dans le jardin.' - I see a black cat in the garden. 'Vois' is the first person singular (je) form of 'voir' (to see).",
+  "explanation": "The text states '<em>Je vois un chat noir dans le jardin.</em>' - I see a black cat in the garden. The missing word is 'vois', the first person singular form of 'voir' (to see).",
   "difficulty": "A1",
   "source": "Garden Observation",
   "tags": [
     "animals",
     "colors",
     "garden"
-  ]
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

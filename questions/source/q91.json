@@ -10,15 +10,14 @@
     "jouez"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'jouer' - the infinitive form after 'aimer' (to like). The sentence means 'I like to play tennis with my friends.' This introduces hobby vocabulary and the construction 'aimer + infinitive'.",
+  "explanation": "'<em>J'aime jouer au tennis avec mes amis.</em>' - I like to play tennis with my friends. The correct answer is 'jouer' - the infinitive form after 'aimer' (to like).",
   "difficulty": "A1",
   "source": "Hobbies and Sports",
   "tags": [
     "hobbies",
     "sports",
-    "tennis",
-    "friendship",
-    "infinitive"
+    "friendship"
   ],
-  "timeCreated": 1751219400
+  "timeCreated": 1751219400,
+  "verified": "claude"
 }

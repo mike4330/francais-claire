@@ -1,0 +1,19 @@
+{
+  "id": 551,
+  "audioText": "Mes vacances d'été sont prévues en août.",
+  "question": "When are the summer vacations planned?",
+  "questionType": "comprehension",
+  "options": [
+    "In August",
+    "In July",
+    "In September",
+    "In June"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mes vacances d'été sont prévues en août</em>' - My summer vacations are planned in August. 'Vacances' means vacations or holidays, and 'août' is August.",
+  "difficulty": "A2",
+  "source": "Travel - Vacation planning",
+  "tags": ["vacation", "summer", "travel", "planning"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

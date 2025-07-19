@@ -10,11 +10,13 @@
     "Ce film était parfait pour une soirée romantique au cinéma."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Ce film serait parfait pour une soirée romantique au cinéma.' - This film would be perfect for a romantic evening at the cinema. Note the conditional 'serait' expressing a hypothetical or polite suggestion.",
+  "explanation": "La phrase exacte était '<em>Ce film serait parfait pour une soirée romantique au cinéma.</em>' - This film would be perfect for a romantic evening at the cinema. Note the conditional 'serait' expressing a hypothetical or polite suggestion.",
   "difficulty": "A2",
   "source": "Cinema Recommendation",
   "tags": [
     "cinema",
     "romantic"
-  ]
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

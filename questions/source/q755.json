@@ -11,9 +11,10 @@
     "Cleaning the clock"
   ],
   "correct": 1,
-  "explanation": "The verb 'essaies' is the present subjunctive of 'essayer' (to try). The sentence warns against trying to repair the clock yourself, suggesting it could lead to more damage.",
+  "explanation": "The text states '<em>Si tu essaies de réparer cette vieille horloge toi-même sans les bons outils, tu risques de l'endommager encore plus. Il vaut mieux appeler un professionnel.</em>' - If you try to repair this old clock yourself without the proper tools, you risk damaging it even more. It's better to call a professional. The sentence warns against trying to repair the clock yourself without proper tools.",
   "difficulty": "B1",
   "source": "Gemini CLI",
   "tags": ["advice", "repairs", "daily-life"],
-  "timeCreated": 1720181342
+  "timeCreated": 1720181342,
+  "verified": "claude"
 }

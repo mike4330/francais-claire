@@ -10,12 +10,14 @@
     "Je donnais un pourboire au serveur s'il était gentil."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Je donnerais un pourboire au serveur s'il était gentil.' - I would give a tip to the waiter if he were nice. Note the conditional 'donnerais' and the subjunctive 'était' in this hypothetical situation.",
+  "explanation": "La phrase exacte était '<em>Je donnerais un pourboire au serveur s'il était gentil.</em>' - I would give a tip to the waiter if he were nice. Note the conditional 'donnerais' and the imperfect subjunctive 'était' in this hypothetical situation.",
   "difficulty": "A2",
   "source": "Restaurant Experience",
   "tags": [
     "restaurant",
     "service",
     "politeness"
-  ]
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

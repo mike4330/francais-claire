@@ -10,9 +10,10 @@
         "proche"
     ],
     "correct": 0,
-    "explanation": "The correct word is 'plein' (full). The sentence means 'This stadium is full of enthusiastic supporters tonight.' 'Plein de' is a common expression meaning 'full of' or 'filled with.'",
+    "explanation": "The text states '<em>Ce stade est plein de supporters enthousiastes ce soir</em>' - This stadium is full of enthusiastic supporters tonight. The correct word is 'plein' (full). 'Plein de' is a common expression meaning 'full of' or 'filled with.'",
     "difficulty": "A1",
     "source": "Sports Event",
     "tags": ["sports", "stadium", "supporters", "events"],
-    "timeCreated": 1720052760
+    "timeCreated": 1720052760,
+    "verified": "claude"
 }

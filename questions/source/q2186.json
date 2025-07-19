@@ -1,0 +1,24 @@
+{
+  "id": 2186,
+  "audioText": "Les scientifiques savent que le changement climatique menace notre planète.",
+  "question": "Les scientifiques ______ que le changement climatique menace notre planète.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "savent",
+    "sait",
+    "savez",
+    "savons"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les scientifiques savent que le changement climatique menace notre planète</em>' - Scientists know that climate change threatens our planet. The correct form is 'savent' (3rd person plural present of 'savoir') agreeing with 'les scientifiques'.",
+  "difficulty": "B1",
+  "source": "Climate Science",
+  "tags": [
+    "environment",
+    "science",
+    "climate-change",
+    "research"
+  ],
+  "timeCreated": 1720051920,
+  "verified": "claude"
+}

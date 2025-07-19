@@ -10,9 +10,10 @@
         "Make a chocolate cake"
     ],
     "correct": 0,
-    "explanation": "The speaker says 'J'ai envie de manger une glace au chocolat' - I want to eat a chocolate ice cream. 'Envie' means desire or craving.",
+    "explanation": "The text states '<em>J'ai envie de manger une glace au chocolat</em>' - I want to eat a chocolate ice cream. 'Envie' means desire or craving.",
     "difficulty": "A2",
     "source": "Daily Desires",
     "tags": ["food", "desires", "daily-life", "treats"],
-    "timeCreated": 1719962900
+    "timeCreated": 1719962900,
+    "verified": "claude"
 }

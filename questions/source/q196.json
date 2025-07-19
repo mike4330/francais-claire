@@ -10,9 +10,10 @@
         "devant"
     ],
     "correct": 0,
-    "explanation": "'Loin' means 'far' and indicates distance. Since they need to take the bus to get to the pharmacy, it shows the pharmacy is far from here, not close, next to, or in front.",
+    "explanation": "The text states '<em>La pharmacie est loin d'ici, il faut prendre le bus</em>' - The pharmacy is far from here, we must take the bus. 'Loin' means 'far' and indicates distance. Since they need to take the bus to get to the pharmacy, it shows the pharmacy is far from here, not close, next to, or in front.",
     "difficulty": "A2",
     "source": "Getting to the pharmacy",
     "tags": ["transportation", "directions", "health"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

@@ -1,19 +1,20 @@
 {
     "id": 1717,
-    "audioText": "Primo, cette pierre arrière dans le mètre de fer répond momentanément à votre intérêt tandis que le diable manquera votre oreille par hasard lors de cette occasion vaste.",
-    "question": "Primo, cette pierre arrière dans le mètre de fer répond momentanément à votre intérêt tandis que le diable manquera votre oreille par hasard lors de cette occasion vaste.",
+    "audioText": "Primo, cette nouvelle solution technique répond momentanément à votre intérêt tandis que le projet avancera selon notre planning lors de cette occasion importante.",
+    "question": "Primo, cette nouvelle solution technique répond momentanément à votre intérêt tandis que le projet avancera selon notre planning lors de cette occasion importante.",
     "questionType": "listening",
     "options": [
-        "Your ear",
-        "The important meeting scheduled for tomorrow morning",
-        "These valuable documents stored in the safe carefully",
-        "Those critical negotiations planned for next week"
+        "Primo, cette nouvelle solution technique répond momentanément à votre intérêt tandis que le projet avancera selon notre planning lors de cette occasion importante.",
+        "Primo, cette nouvelle solution technique répond momentanément à votre intérêt tandis que le projet avancera selon notre planning lors de cette occasion difficile.",
+        "Primo, cette nouvelle solution technique répond momentanément à votre intérêt tandis que le projet reculera selon notre planning lors de cette occasion importante.",
+        "Primo, cette ancienne solution technique répond momentanément à votre intérêt tandis que le projet avancera selon notre planning lors de cette occasion importante."
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Primo, cette pierre arrière dans le mètre de fer répond momentanément à votre intérêt tandis que le diable manquera votre oreille par hasard lors de cette occasion vaste</em>' - Firstly, this stone behind in the iron meter responds momentarily to your interest while the devil will miss your ear by chance during this vast occasion. This combines 'primo', 'pierre', 'arrière', 'mètre', 'fer', 'intérêt', 'diable', 'manquera', 'oreille', 'hasard', 'occasion', and 'vaste'. The distractors test confusion about what the devil will miss.",
+    "explanation": "The text states '<em>Primo, cette nouvelle solution technique répond momentanément à votre intérêt tandis que le projet avancera selon notre planning lors de cette occasion importante</em>' - Firstly, this new technical solution responds momentarily to your interest while the project will advance according to our planning during this important occasion. The distractors test confusion about adjectives (nouvelle vs ancienne), verbs (avancera vs reculera), and occasion type (importante vs difficile).",
     "difficulty": "B2",
-    "source": "Strategic targeting - primo + pierre + arrière + mètre + fer + intérêt + diable + manquera + oreille + hasard + occasion + vaste synergy + supernatural",
-    "tags": ["supernatural", "materials", "chance"],
+    "source": "Strategic targeting - primo + nouvelle + solution + technique + répond + momentanément + intérêt + projet + avancera + planning + occasion + importante",
+    "tags": ["workplace", "project-management", "technical-solutions"],
     "timeCreated": 1720881353,
+    "verified": "claude",
     "parentQuestion": 1707
 }

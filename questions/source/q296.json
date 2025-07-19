@@ -1,18 +1,19 @@
 {
     "id": 296,
-    "audioText": "Le tournevis clair reste pareil à la scie drôle.",
-    "question": "How does the clear screwdriver remain compared to the funny saw?",
+    "audioText": "Le tournevis reste dans la boîte à outils.",
+    "question": "Where does the screwdriver remain?",
     "questionType": "comprehension",
     "options": [
-        "The same",
-        "Different",
-        "Bigger",
-        "Newer"
+        "In the toolbox",
+        "In the garage",
+        "On the table",
+        "In the drawer"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le tournevis clair reste pareil à la scie drôle.</em>' - 'The clear screwdriver remains the same as the funny saw.' The nouns 'tournevis' means screwdriver and 'scie' means saw. The adjectives 'clair' means clear, 'pareil' means same/similar, and 'drôle' means funny.",
+    "explanation": "The text states '<em>Le tournevis reste dans la boîte à outils</em>' - The screwdriver remains in the toolbox. 'Tournevis' means screwdriver and 'boîte à outils' means toolbox.",
     "difficulty": "A2",
     "source": "Strategic tool targeting",
     "tags": ["tools", "professional-tools", "construction"],
-    "timeCreated": 1720715400
+    "timeCreated": 1720715400,
+    "verified": "claude"
 }

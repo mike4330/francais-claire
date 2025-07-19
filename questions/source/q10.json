@@ -2,7 +2,7 @@
   "id": 10,
   "audioText": "Je pourrai aller au cinéma ce soir si je finis mon travail à temps.",
   "question": "Je ______ aller au cinéma ce soir si je finis mon travail à temps.",
-  "questionType": "FIB-reading",
+  "questionType": "fill-in-the-blank",
   "options": [
     "pourrai",
     "peux",
@@ -10,8 +10,8 @@
     "pourrais"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'pourrai' (future tense of 'pouvoir'). It expresses future possibility: 'I will be able to go to the cinema tonight if I finish my work on time.'",
-  "difficulty": "A2",
+  "explanation": "The text states '<em>Je pourrai aller au cinéma ce soir si je finis mon travail à temps</em>' - I will be able to go to the cinema tonight if I finish my work on time. The correct form is 'pourrai' (future tense of 'pouvoir') expressing future possibility.",
+  "difficulty": "B1",
   "source": "Entertainment Plans",
   "tags": [
     "entertainment",
@@ -19,5 +19,6 @@
     "plans",
     "work-life-balance"
   ],
-  "timeCreated": 1720052040
+  "timeCreated": 1720052040,
+  "verified": "claude"
 }

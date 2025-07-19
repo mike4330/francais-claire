@@ -1,0 +1,19 @@
+{
+  "id": 556,
+  "audioText": "Je marche dans le couloir vers ma chambre.",
+  "question": "Where is the person walking?",
+  "questionType": "comprehension",
+  "options": [
+    "In the hallway toward their room",
+    "In the kitchen toward the table",
+    "In the garden toward the house",
+    "In the street toward the store"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je marche dans le couloir vers ma chambre</em>' - I am walking in the hallway toward my room. 'Couloir' means hallway or corridor.",
+  "difficulty": "A2",
+  "source": "Home - Navigation",
+  "tags": ["home", "navigation", "hallway", "bedroom"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

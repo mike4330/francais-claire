@@ -1,0 +1,19 @@
+{
+  "id": 2176,
+  "audioText": "Tu as tort de penser que cette solution résoudra tous nos problèmes financiers.",
+  "question": "What is the speaker's opinion about this solution?",
+  "questionType": "comprehension",
+  "options": [
+    "The person is wrong to think it will solve all financial problems",
+    "The person is right to believe it will help with money issues",
+    "The person should invest more money in this solution",
+    "The person needs to find a different financial advisor"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu as tort de penser que cette solution résoudra tous nos problèmes financiers</em>' - You are wrong to think that this solution will solve all our financial problems. 'Tort' means wrong or fault.",
+  "difficulty": "B2",
+  "source": "Financial discussion - Disagreement",
+  "tags": ["finance", "disagreement", "problem-solving", "opinion"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

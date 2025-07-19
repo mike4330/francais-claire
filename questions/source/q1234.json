@@ -1,19 +1,24 @@
 {
-    "id": 1234,
-    "audioText": "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine. Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine",
-        "Les employés de la SNCF ont annoncé une grève de deux jours la semaine prochaine",
-        "Les employés de la RATP ont annoncé une grève de trois jours la semaine prochaine",
-        "Les employés de la SNCF ont déclaré une grève de trois jours la semaine prochaine"
-    ],
-    "correct": 0,
-    "parentQuestion": 789,
-    "explanation": "The correct text begins with '<em>Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine</em>' - SNCF employees announced a three-day strike next week. Key details: 'trois jours' (three days, not 'deux jours' - two days), 'SNCF' (not 'RATP'), and 'annoncé' (announced, not 'déclaré' - declared).",
-    "difficulty": "B1",
-    "source": "Listening version of Q789",
-    "tags": ["strikes", "transportation", "SNCF", "travel"],
-    "timeCreated": 1720963380
+  "id": 1234,
+  "audioText": "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine. Les voyageurs sont invités à reporter leurs déplacements ou à utiliser d'autres moyens de transport.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine",
+    "Les employés de la SNCF ont annoncé une grève de deux jours la semaine prochaine",
+    "Les employés de la RATP ont annoncé une grève de trois jours la semaine prochaine",
+    "Les employés de la SNCF ont déclaré une grève de trois jours la semaine prochaine"
+  ],
+  "correct": 0,
+  "parentQuestion": 2186,
+  "explanation": "The correct text begins with '<em>Les employés de la SNCF ont annoncé une grève de trois jours la semaine prochaine</em>' - SNCF employees announced a three-day strike next week. Key details: 'trois jours' (three days, not 'deux jours' - two days), 'SNCF' (not 'RATP'), and 'annoncé' (announced, not 'déclaré' - declared).",
+  "difficulty": "B1",
+  "source": "Listening version of Q789",
+  "tags": [
+    "strikes",
+    "transportation",
+    "SNCF",
+    "travel"
+  ],
+  "timeCreated": 1720963380
 }

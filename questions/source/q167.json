@@ -10,9 +10,10 @@
         "Cuts grass."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'rapide' meaning 'fast/quick'. 'Le tracteur rapide' means 'the fast tractor'. The sentence says the fast tractor harvests wheat ('récolte le blé').",
+    "explanation": "'<em>Le tracteur rapide récolte le blé.</em>' - The fast tractor harvests wheat. 'Rapide' means 'fast/quick' and 'récolte' means 'harvests'.",
     "difficulty": "A2",
     "source": "Agricultural farming scenario",
     "tags": ["agriculture", "farming", "machinery"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

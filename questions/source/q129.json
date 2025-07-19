@@ -10,9 +10,10 @@
         "font"
     ],
     "correct": 0,
-    "explanation": "The correct form is 'faisons' (first person plural of 'faire'). 'Nous faisons' means 'we do/make'. The sentence means 'We do the shopping together every Saturday morning.'",
+    "explanation": "The text states '<em>Nous faisons les courses ensemble tous les samedis matin</em>' - We do the shopping together every Saturday morning. The correct form is 'faisons' (first person plural of 'faire').",
     "difficulty": "A2",
     "source": "Weekly Routine",
     "tags": ["shopping", "routine", "family", "weekend"],
-    "timeCreated": 1719964800
+    "timeCreated": 1719964800,
+    "verified": "claude"
 }

@@ -10,9 +10,10 @@
         "difficilement"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'tranquillement' meaning 'quietly' or 'peacefully'. She reads quietly in the garden. 'Tranquillement' describes the calm, peaceful manner of reading.",
+    "explanation": "The text states '<em>Elle lit tranquillement dans le jardin</em>' - She reads quietly in the garden. 'Tranquillement' describes the calm, peaceful manner of reading.",
     "difficulty": "A2",
     "source": "Garden reading",
     "tags": ["reading", "garden", "peaceful"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

@@ -1,0 +1,18 @@
+{
+  "id": 560,
+  "audioText": "Ce gosse fait trop de bruit.",
+  "question": "What is the child doing?",
+  "questionType": "comprehension",
+  "options": [
+    "Making too much noise",
+    "Playing quietly",
+    "Studying homework",
+    "Sleeping peacefully"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce gosse fait trop de bruit</em>' - This kid is making too much noise. 'Gosse' is an informal term for child or kid.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["family", "children", "behavior", "noise"],
+  "timeCreated": "2025-01-18T10:20:00Z"
+}

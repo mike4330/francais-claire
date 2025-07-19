@@ -11,9 +11,10 @@
         "table"
     ],
     "correct": 0,
-    "explanation": "'Porte' means 'door'. The sentence is a request to open the door.",
+    "explanation": "'<em>Ouvre la porte s'il te plaît</em>' - Open the door please. 'Porte' means 'door'. The sentence is a polite request to open the door.",
     "difficulty": "A2",
     "source": "Gemini-generated",
     "tags": ["household", "requests"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

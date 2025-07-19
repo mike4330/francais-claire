@@ -1,7 +1,7 @@
 {
     "id": 176,
     "audioText": "Tu connais bien cette ville ?",
-    "question": "What is being asked?",
+    "question": "Tu ______ bien cette ville ?",
     "questionType": "fill-in-the-blank",
     "options": [
         "connais",
@@ -10,9 +10,10 @@
         "connaissent"
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'connais' - the present form of 'connaître' (to know/be familiar with) for tu. 'Tu connais' means 'you know/are familiar with'. The question asks if you know this city well.",
+    "explanation": "The text states '<em>Tu connais bien cette ville ?</em>' - Do you know this city well? The verb 'connaître' (to know/be familiar with) conjugates to 'connais' for 'tu'. The question asks if you know this city well.",
     "difficulty": "A1",
     "source": "Asking about familiarity with places",
     "tags": ["travel", "familiarity", "cities"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

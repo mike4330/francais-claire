@@ -10,9 +10,10 @@
         "ferions"
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'ferons' - the future form of 'faire' (to do/make) for nous. 'Nous ferons' means 'we will do/make'. This indicates a future plan to have a picnic on Saturday.",
+    "explanation": "The text states '<em>Nous ferons un pique-nique samedi</em>' - We will have a picnic on Saturday. 'Ferons' is the future form of 'faire' (to do/make) for 'nous', indicating a future plan.",
     "difficulty": "A2",
     "source": "Weekend activity planning",
     "tags": ["leisure", "weekend", "outdoor-activities"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

@@ -14,5 +14,6 @@
     "difficulty": "B1",
     "source": "Weather advice",
     "tags": ["weather", "indoor-outdoor", "daily-life"],
-    "timeCreated": 1720401720
+    "timeCreated": 1720401720,
+    "verified": "claude"
 }

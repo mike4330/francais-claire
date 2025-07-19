@@ -10,9 +10,10 @@
         "avenue"
     ],
     "correct": 0,
-    "explanation": "The speaker says 'Je traverse la rue' - I cross the street. 'Rue' is the correct word for a street in French.",
+    "explanation": "The text states '<em>Je traverse la rue pour aller à la boulangerie</em>' - I cross the street to go to the bakery. 'Rue' is the correct word for a street in French.",
     "difficulty": "A2",
     "source": "Street Navigation",
     "tags": ["transportation", "daily-life", "shopping", "directions"],
-    "timeCreated": 1719962600
+    "timeCreated": 1719962600,
+    "verified": "claude"
 }

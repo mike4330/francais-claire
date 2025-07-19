@@ -1,19 +1,23 @@
 {
-    "id": 1688,
-    "audioText": "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage.",
-    "question": "What does the speaker say the doctor believes will happen if the symptoms worsen further?",
-    "questionType": "listening",
-    "options": [
-        "The patient will die",
-        "The patient will recover quickly",
-        "The patient will need surgery",
-        "The patient will be discharged"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage</em>' - The doctor believes this patient will die if the symptoms worsen further. 'Mourra' is the third person singular future form of 'mourir' (to die). The distractors test misinterpretation of the prognosis (recover quickly, need surgery, be discharged).",
-    "difficulty": "B1",
-    "source": "Gemini CLI - Listening practice",
-    "tags": ["symptoms", "medical", "prognosis"],
-    "timeCreated": 1720800000,
-    "parentQuestion": 760
+  "id": 1688,
+  "audioText": "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage.",
+  "question": "What does the speaker say the doctor believes will happen if the symptoms worsen further?",
+  "questionType": "listening",
+  "options": [
+    "The patient will die",
+    "The patient will recover quickly",
+    "The patient will need surgery",
+    "The patient will be discharged"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage</em>' - The doctor believes this patient will die if the symptoms worsen further. 'Mourra' is the third person singular future form of 'mourir' (to die). The distractors test misinterpretation of the prognosis (recover quickly, need surgery, be discharged).",
+  "difficulty": "B1",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "symptoms",
+    "medical",
+    "prognosis"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 2186
 }

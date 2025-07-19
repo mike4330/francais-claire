@@ -1,0 +1,18 @@
+{
+  "id": 2181,
+  "audioText": "Le médecin recommande un soin particulier pour cette blessure.",
+  "question": "What does the doctor recommend for the injury?",
+  "questionType": "comprehension",
+  "options": [
+    "A particular treatment",
+    "Immediate surgery",
+    "Complete rest",
+    "Medication only"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le médecin recommande un soin particulier pour cette blessure</em>' - The doctor recommends a particular treatment for this injury. 'Soin' refers to care or treatment in medical contexts.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["health", "medical", "treatment", "doctor"],
+  "timeCreated": "2025-01-18T10:16:00Z"
+}

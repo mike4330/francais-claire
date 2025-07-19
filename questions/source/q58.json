@@ -10,12 +10,14 @@
     "prendrions"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'prenons'. La phrase complète est 'En été, nous prenons toujours nos vacances en juillet ou en août.' - In summer, we always take our vacation in July or August. 'Prenons' is the first person plural present tense of 'prendre'.",
+  "explanation": "The text states '<em>En été, nous prenons toujours nos vacances en juillet ou en août</em>' - In summer, we always take our vacation in July or August. The missing word is 'prenons', the first person plural present tense of 'prendre'.",
   "difficulty": "A2",
   "source": "Vacation Planning",
   "tags": [
     "vacation",
     "summer",
     "travel"
-  ]
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

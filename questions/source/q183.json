@@ -10,9 +10,10 @@
         "saurez"
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'sauras' - the future form of 'savoir' (to know) for tu. 'Tu sauras' means 'you will know'. This describes the future ability to recognize different cats in the neighborhood.",
+    "explanation": "The text states '<em>Tu sauras reconnaître les différents chats dans le quartier</em>' - You will know how to recognize the different cats in the neighborhood. 'Sauras' is the future form of 'savoir' (to know) for 'tu'.",
     "difficulty": "A2",
     "source": "Neighborhood animals",
     "tags": ["animals", "neighborhood", "recognition"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

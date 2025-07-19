@@ -1,0 +1,18 @@
+{
+  "id": 561,
+  "audioText": "Je dois aller à la banque cet après-midi.",
+  "question": "Where does the person need to go this afternoon?",
+  "questionType": "comprehension",
+  "options": [
+    "To the bank",
+    "To the post office",
+    "To the pharmacy",
+    "To the grocery store"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je dois aller à la banque cet après-midi</em>' - I need to go to the bank this afternoon. 'Banque' refers to a financial institution.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["banking", "errands", "daily-life", "afternoon"],
+  "timeCreated": "2025-01-18T10:22:00Z"
+}

@@ -13,6 +13,7 @@
     "explanation": "The correct sentence is '<em>Ils reviendront officiellement dans cette cuisine où ils appelaient souvent le chef pendant leurs techniques culinaires</em>' - They will officially return to this kitchen where they often called the chef during their culinary techniques. 'Reviendront' is the future tense of 'revenir', 'appelaient' is the imperfect of 'appeler', and 'techniques culinaires' means 'culinary techniques'.",
     "difficulty": "B2",
     "source": "Professional kitchen",
-    "tags": ["culinary-vocabulary", "cooking-techniques", "workplace"],
-    "timeCreated": 1720444140
+    "tags": ["culinary", "workplace"],
+    "timeCreated": 1720444140,
+    "verified": "claude"
 }

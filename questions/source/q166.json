@@ -10,9 +10,10 @@
         "Wind."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'gris' meaning 'gray'. 'Le ciel gris' means 'the gray sky'. The sentence indicates that gray skies typically announce rain ('la pluie').",
+    "explanation": "The text states '<em>Le ciel gris annonce la pluie</em>' - The gray sky announces rain. 'Gris' means 'gray' and 'la pluie' means 'rain'.",
     "difficulty": "A2",
     "source": "Weather observation",
     "tags": ["weather", "agriculture", "nature"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

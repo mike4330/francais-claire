@@ -5,7 +5,7 @@
     "questionType": "listening",
     "options": [
         "Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.",
-        "Essayons cette nouvelle recette de cuisine française traditionnelle ce week-end.",
+        "Essayons cette nouvelle recette de cuisine italienne traditionnelle ce week-end.",
         "Essayez cette nouvelle recette de cuisine française traditionnelle ce week-end.",
         "Essaierons cette nouvelle recette de cuisine française traditionnelle ce week-end."
     ],
@@ -14,5 +14,6 @@
     "difficulty": "B1",
     "source": "Weekend cooking plans",
     "tags": ["cooking", "french-cuisine", "weekend", "tradition", "recipes"],
-    "timeCreated": 1736068500
+    "timeCreated": 1720132800,
+    "verified": "claude"
 }

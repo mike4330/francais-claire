@@ -1,0 +1,19 @@
+{
+  "id": 2175,
+  "audioText": "Leur conversation s'est prolongée tard dans la nuit malgré la fatigue.",
+  "question": "What continued late into the night despite fatigue?",
+  "questionType": "comprehension",
+  "options": [
+    "Their conversation",
+    "Their homework",
+    "Their television program",
+    "Their dinner preparation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Leur conversation s'est prolongée tard dans la nuit malgré la fatigue</em>' - Their conversation continued late into the night despite fatigue. 'Conversation' means conversation or discussion.",
+  "difficulty": "B1",
+  "source": "Social interaction - Extended discussion",
+  "tags": ["conversation", "social", "evening", "fatigue", "discussion"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

@@ -1,19 +1,23 @@
 {
-    "id": 526,
-    "audioText": "Elle montre du doigt cette chose étrange par curiosité.",
-    "question": "Elle montre du doigt cette chose étrange par curiosité.",
-    "questionType": "listening",
-    "options": [
-        "Out of curiosity",
-        "Because of anger",
-        "Due to fear",
-        "From sadness"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'Out of curiosity'. The text states '<em>Elle montre du doigt cette chose étrange par curiosité</em>' - She points at this strange thing out of curiosity. 'Doigt' means 'finger', 'montrer du doigt' means 'to point at', and 'curiosité' means 'curiosity'. The distractors test confusion about the reason for pointing.",
-    "difficulty": "A2",
-    "source": "Strategic vocabulary development - curiosity context",
-    "tags": ["curiosity", "emotions", "discovery"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 358
+  "id": 526,
+  "audioText": "Elle montre du doigt cette chose étrange par curiosité.",
+  "question": "Elle montre du doigt cette chose étrange par curiosité.",
+  "questionType": "listening",
+  "options": [
+    "Out of curiosity",
+    "Because of anger",
+    "Due to fear",
+    "From sadness"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Out of curiosity'. The text states '<em>Elle montre du doigt cette chose étrange par curiosité</em>' - She points at this strange thing out of curiosity. 'Doigt' means 'finger', 'montrer du doigt' means 'to point at', and 'curiosité' means 'curiosity'. The distractors test confusion about the reason for pointing.",
+  "difficulty": "A2",
+  "source": "Strategic vocabulary development - curiosity context",
+  "tags": [
+    "curiosity",
+    "emotions",
+    "discovery"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2747
 }

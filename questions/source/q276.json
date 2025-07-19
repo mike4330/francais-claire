@@ -1,18 +1,19 @@
 {
     "id": 276,
-    "audioText": "Arrêtons cette tour bizarre maintenant.",
-    "question": "What does the speaker want to do with the tower?",
+    "audioText": "Arrêtons ce projet bizarre maintenant.",
+    "question": "What does the speaker want to do with the project?",
     "questionType": "comprehension",
     "options": [
-        "Stop the strange tower now",
-        "Continue building the tower",
-        "Visit the tower later",
-        "Admire the beautiful tower"
+        "Stop the strange project now",
+        "Continue the project",
+        "Visit the project later",
+        "Admire the beautiful project"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Arrêtons cette tour bizarre maintenant</em>' - Let's stop this strange tower now. The imperative form 'arrêtons' (let's stop) expresses a collective decision to halt something related to the 'bizarre' tower.",
+    "explanation": "The text states '<em>Arrêtons ce projet bizarre maintenant</em>' - Let's stop this strange project now. The imperative form 'arrêtons' (let's stop) expresses a collective decision to halt something related to the 'bizarre' project.",
     "difficulty": "A2",
     "source": "Strategic conjugate + high-frequency noun combination",
-    "tags": ["workplace", "decision-making", "construction"],
-    "timeCreated": 1735992000
+    "tags": ["workplace", "decision-making", "project-management"],
+    "timeCreated": 1735992000,
+    "verified": "claude"
 }

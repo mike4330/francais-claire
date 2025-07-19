@@ -1,0 +1,19 @@
+{
+  "id": 553,
+  "audioText": "Il fume une cigarette sur le balcon.",
+  "question": "Where does he smoke a cigarette?",
+  "questionType": "comprehension",
+  "options": [
+    "On the balcony",
+    "In the kitchen",
+    "In the garden",
+    "In the bathroom"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il fume une cigarette sur le balcon</em>' - He smokes a cigarette on the balcony. 'Cigarette' means cigarette and 'balcon' means balcony.",
+  "difficulty": "A2",
+  "source": "Daily habits - Smoking location",
+  "tags": ["habits", "smoking", "balcony", "location"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

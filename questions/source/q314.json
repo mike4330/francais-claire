@@ -1,7 +1,7 @@
 {
     "id": 314,
-    "audioText": "Tu mettais tes pieds sur le dos du genre de pied qu'on voit.",
-    "question": "Tu ______ tes pieds sur le dos du genre de pied qu'on voit.",
+    "audioText": "Tu mettais tes chaussures sur le tapis près de la porte d'entrée.",
+    "question": "Tu ______ tes chaussures sur le tapis près de la porte d'entrée.",
     "questionType": "fill-in-the-blank",
     "options": [
         "mettais",
@@ -10,9 +10,10 @@
         "mettes"
     ],
     "correct": 0,
-    "explanation": "The correct form is 'mettais' (2nd person singular imperfect of 'mettre'). The imperfect tense expresses a habitual or ongoing action in the past: 'You used to put your feet on the back of the kind of foot that we see.' The sentence includes '<em>Tu mettais tes pieds sur le dos du genre de pied qu'on voit.</em>' - You used to put your feet on the back of the kind of foot that we see.",
+    "explanation": "The text states '<em>Tu mettais tes chaussures sur le tapis près de la porte d'entrée</em>' - You used to put your shoes on the mat near the front door. The correct form is 'mettais' (2nd person singular imperfect of 'mettre'). The imperfect tense expresses a habitual action in the past.",
     "difficulty": "A2",
     "source": "Strategic vocabulary targeting",
-    "tags": ["body-parts", "habits", "positioning", "observation"],
-    "timeCreated": 1720825200
+    "tags": ["home", "habits", "shoes", "daily-routine"],
+    "timeCreated": 1720825200,
+    "verified": "claude"
 }

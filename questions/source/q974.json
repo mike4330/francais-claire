@@ -10,7 +10,7 @@
     "Maintaining the current structure without any changes"
   ],
   "correct": 0,
-  "explanation": "The former minister, now a special advisor to ASML, advocates for 'une consolidation du secteur ainsi que pour des investissements massifs afin de rivaliser avec les géants américains et asiatiques' - industry consolidation and massive investments in order to compete with American and Asian giants.",
+  "explanation": "The text states '<em>Désormais conseiller spécial de la pépite ASML, l'ex-ministre plaide pour une consolidation du secteur ainsi que pour des investissements massifs afin de rivaliser avec les géants américains et asiatiques</em>' - Now a special advisor to ASML, the former minister advocates for industry consolidation and massive investments in order to compete with American and Asian giants.",
   "difficulty": "B2",
   "source": "Business Interview",
   "tags": [
@@ -20,5 +20,6 @@
     "international-markets",
     "strategy"
   ],
-  "timeCreated": 1751494264
+  "timeCreated": 1720132800,
+  "verified": "claude"
 }

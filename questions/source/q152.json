@@ -10,7 +10,7 @@
     "Working"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Maman fait la cuisine' - Mom is cooking/making food. 'Maman' is an affectionate term for mother, and 'faire la cuisine' means to cook.",
+  "explanation": "The text states '<em>Maman fait la cuisine</em>' - Mom is cooking/making food. 'Maman' is an affectionate term for mother, and 'faire la cuisine' means to cook.",
   "difficulty": "A2",
   "source": "Family Activities",
   "tags": [
@@ -18,5 +18,6 @@
     "cooking",
     "daily-activities"
   ],
-  "timeCreated": 1720025040
+  "timeCreated": 1720025040,
+  "verified": "claude"
 }

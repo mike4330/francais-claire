@@ -2,7 +2,7 @@
     "id": 139,
     "audioText": "Cette application est la meilleure pour apprendre les langues.",
     "question": "Cette application est la ______ pour apprendre les langues.",
-    "questionType": "FIB-reading",
+    "questionType": "fill-in-the-blank",
     "options": [
         "meilleure",
         "plus grande",
@@ -10,9 +10,10 @@
         "plus rapide"
     ],
     "correct": 0,
-    "explanation": "The correct word is 'meilleure' (best/better). The sentence means 'This application is the best for learning languages.' 'Meilleure' is the feminine form of 'meilleur' agreeing with 'application.'",
-    "difficulty": "A1",
+    "explanation": "The text states '<em>Cette application est la meilleure pour apprendre les langues</em>' - This application is the best for learning languages. The correct word is 'meilleure' (best/better), the feminine form of 'meilleur' agreeing with 'application'.",
+    "difficulty": "A2",
     "source": "Language Learning",
     "tags": ["technology", "education", "language-learning", "apps"],
-    "timeCreated": 1720052880
+    "timeCreated": 1720052880,
+    "verified": "claude"
 }

@@ -10,12 +10,14 @@
     "L'équipe rouge suivait les règles du jeu très attentivement."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'L'équipe rouge suivra les règles du jeu très attentivement.' - The red team will follow the game rules very carefully. Note the future tense 'suivra' and the distinction between 'attentivement' (carefully) and 'rapidement' (quickly).",
+  "explanation": "La phrase exacte était '<em>L'équipe rouge suivra les règles du jeu très attentivement.</em>' - The red team will follow the game rules very carefully. Note the future tense 'suivra' and the distinction between 'attentivement' (carefully) and 'rapidement' (quickly).",
   "difficulty": "A2",
   "source": "Game Instructions",
   "tags": [
     "games",
     "rules",
     "team-sports"
-  ]
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

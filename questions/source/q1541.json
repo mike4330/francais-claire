@@ -1,19 +1,23 @@
 {
-    "id": 1541,
-    "audioText": "L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
-    "options": [
-        "L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing",
-        "L'entreprise a fait des profits énormes cette année grâce à son ancienne stratégie marketing",
-        "L'entreprise a fait des pertes énormes cette année grâce à sa nouvelle stratégie marketing",
-        "L'entreprise a fait des profits modestes cette année grâce à sa nouvelle stratégie marketing"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing'. The complete text is '<em>L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing.</em>' - The company made enormous profits this year thanks to its new marketing strategy.",
-    "difficulty": "B2",
-    "source": "Listening variant of comprehension question",
-    "tags": ["business", "profits", "marketing"],
-    "parentQuestion": 797,
-    "timeCreated": 1720827000
+  "id": 1541,
+  "audioText": "L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing",
+    "L'entreprise a fait des profits énormes cette année grâce à son ancienne stratégie marketing",
+    "L'entreprise a fait des pertes énormes cette année grâce à sa nouvelle stratégie marketing",
+    "L'entreprise a fait des profits modestes cette année grâce à sa nouvelle stratégie marketing"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing'. The complete text is '<em>L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing.</em>' - The company made enormous profits this year thanks to its new marketing strategy.",
+  "difficulty": "B2",
+  "source": "Listening variant of comprehension question",
+  "tags": [
+    "business",
+    "profits",
+    "marketing"
+  ],
+  "parentQuestion": 2186,
+  "timeCreated": 1720827000
 }

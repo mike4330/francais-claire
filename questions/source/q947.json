@@ -1,24 +1,25 @@
 {
   "id": 947,
-  "audioText": "J'aurais aimé avoir plus de temps pour finir ce projet important.",
-  "question": "What does the speaker express about the project?",
+  "audioText": "J'aurais aimé avoir plus de temps pour finir ce livre important.",
+  "question": "What does the speaker express about the book?",
   "questionType": "comprehension",
   "options": [
-    "They would have liked to have more time to finish this important project",
-    "They are happy they had enough time to complete the project successfully",
-    "They think the project was too difficult and should be cancelled",
-    "They believe they need to start the project over from the beginning"
+    "They would have liked to have more time to finish this important book",
+    "They are happy they had enough time to complete the book successfully",
+    "They think the book was too difficult and should be abandoned",
+    "They believe they need to start the book over from the beginning"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'J'aurais aimé avoir plus de temps' - I would have liked to have more time. The conditional 'aurais' expresses a wish or regret about the past, indicating they didn't have enough time.",
+  "explanation": "The text states '<em>J'aurais aimé avoir plus de temps pour finir ce livre important</em>' - I would have liked to have more time to finish this important book. The conditional 'aurais' expresses a wish or regret about the past, indicating they didn't have enough time.",
   "difficulty": "B2",
-  "source": "Work - Project Management",
+  "source": "Reading - Personal goals",
   "tags": [
-    "work",
-    "projects",
+    "reading",
+    "books",
     "regret",
     "time-management",
-    "professional"
+    "personal-goals"
   ],
-  "timeCreated": 1751325892
+  "timeCreated": 1720132800,
+  "verified": "claude"
 }

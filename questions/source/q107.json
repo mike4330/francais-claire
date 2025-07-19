@@ -10,7 +10,7 @@
     "Vous pourrez prendre le bus ou le train ?"
   ],
   "correct": 0,
-  "explanation": "The question uses the future tense 'prendrez' (will you take) to ask about future transportation plans.",
+  "explanation": "The text states '<em>Vous prendrez le bus ou le train ?</em>' - Will you take the bus or the train? The question uses the future tense 'prendrez' (will you take) to ask about future transportation plans.",
   "difficulty": "A2",
   "source": "Transportation planning question",
   "tags": [
@@ -19,5 +19,6 @@
     "future-time",
     "travel"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

@@ -1,19 +1,23 @@
 {
-    "id": 1151,
-    "audioText": "En 1789, le peuple français a rendu le pouvoir au parlement après la révolution.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "En 1789, le peuple français a rendu le pouvoir au parlement après la révolution.",
-        "En 1789, le peuple français a rendue le pouvoir au parlement après la révolution.",
-        "En 1789, le peuple français a rendu le pouvoir au parlement après la révolutions.",
-        "En 1789, le peuple français a rendu le pouvoir aux parlement après la révolution."
-    ],
-    "correct": 0,
-    "explanation": "The correct option maintains proper agreements: 'rendu' (past participle with 'avoir' + direct object 'pouvoir', no agreement), not 'rendue', 'révolution' (singular), not 'révolutions', and 'parlement' (singular), not 'parlement' with 'aux'. This listening exercise tests historical vocabulary and past perfect tense.",
-    "difficulty": "B2",
-    "source": "Historical documentary",
-    "tags": ["history", "france", "revolution"],
-    "parentQuestion": 738,
-    "timeCreated": 1720866180
+  "id": 1151,
+  "audioText": "En 1789, le peuple français a rendu le pouvoir au parlement après la révolution.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "En 1789, le peuple français a rendu le pouvoir au parlement après la révolution.",
+    "En 1789, le peuple français a rendue le pouvoir au parlement après la révolution.",
+    "En 1789, le peuple français a rendu le pouvoir au parlement après la révolutions.",
+    "En 1789, le peuple français a rendu le pouvoir aux parlement après la révolution."
+  ],
+  "correct": 0,
+  "explanation": "The correct option maintains proper agreements: 'rendu' (past participle with 'avoir' + direct object 'pouvoir', no agreement), not 'rendue', 'révolution' (singular), not 'révolutions', and 'parlement' (singular), not 'parlement' with 'aux'. This listening exercise tests historical vocabulary and past perfect tense.",
+  "difficulty": "B2",
+  "source": "Historical documentary",
+  "tags": [
+    "history",
+    "france",
+    "revolution"
+  ],
+  "parentQuestion": 2186,
+  "timeCreated": 1720866180
 }

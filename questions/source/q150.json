@@ -10,7 +10,7 @@
     "Last week"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Je dors bien cette nuit' - I sleep well this night. 'Cette nuit' means 'this night'.",
+  "explanation": "The text states '<em>Je dors bien cette nuit</em>' - I sleep well this night. 'Cette nuit' means 'this night'.",
   "difficulty": "A1",
   "source": "Daily Life - Sleep",
   "tags": [
@@ -18,5 +18,6 @@
     "daily-routine",
     "time"
   ],
-  "timeCreated": 1720024800
+  "timeCreated": 1720024800,
+  "verified": "claude"
 }

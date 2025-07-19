@@ -1,7 +1,7 @@
 {
     "id": 984,
-    "audioText": "En tuant littéralement son ami, il perdait sa chance.",
-    "question": "What was the consequence of the literal killing?",
+    "audioText": "En décevant profondément son ami, il perdait sa chance.",
+    "question": "What was the consequence of deeply disappointing his friend?",
     "questionType": "comprehension",
     "options": [
         "He lost his opportunity",
@@ -10,9 +10,10 @@
         "He improved his situation"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>En tuant littéralement son ami, il perdait sa chance</em>' - By literally killing his friend, he was losing his opportunity. 'Tuant' is the present participle of 'tuer' (to kill), and 'littéralement' means 'literally'.",
+    "explanation": "The text states '<em>En décevant profondément son ami, il perdait sa chance</em>' - By deeply disappointing his friend, he was losing his opportunity. 'Décevant' is the present participle of 'décevoir' (to disappoint), and 'profondément' means 'deeply'.",
     "difficulty": "B2",
     "source": "Strategic conjugate + high-frequency adverb/noun combination",
-    "tags": ["consequences", "friendship", "tragedy"],
-    "timeCreated": 1735992000
+    "tags": ["consequences", "friendship", "disappointment"],
+    "timeCreated": 1720132800,
+    "verified": "claude"
 }

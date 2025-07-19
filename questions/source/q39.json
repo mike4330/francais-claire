@@ -10,16 +10,15 @@
     "Nous avons trouvé de vieux jouets et des lettres de famille dans le grenier de la maison."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Nous avons trouvé de vieux jouets et des photos de famille dans le grenier de la maison.' - We found old toys and family photos in the attic of the house. Le grenier is the common French word for attic, where families often store old belongings.",
+  "explanation": "La phrase exacte était '<em>Nous avons trouvé de vieux jouets et des photos de famille dans le grenier de la maison.</em>' - We found old toys and family photos in the attic of the house. Le grenier is the common French word for attic, where families often store old belongings.",
   "difficulty": "A2",
   "source": "House Exploration",
   "tags": [
     "house",
     "family",
     "storage",
-    "memories",
-    "grenier",
-    "attic",
-    "household-vocabulary"
-  ]
+    "memories"
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

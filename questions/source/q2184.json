@@ -1,0 +1,18 @@
+{
+  "id": 2184,
+  "audioText": "Cet objet mystérieux a été trouvé dans le grenier.",
+  "question": "Where was the mysterious object found?",
+  "questionType": "comprehension",
+  "options": [
+    "In the attic",
+    "In the basement",
+    "In the garage",
+    "In the garden"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet objet mystérieux a été trouvé dans le grenier</em>' - This mysterious object was found in the attic. 'Objet' refers to an object or item.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["mystery", "house", "discovery", "attic"],
+  "timeCreated": "2025-01-18T10:25:00Z"
+}

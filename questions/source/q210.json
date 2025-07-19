@@ -10,9 +10,10 @@
         "She has been busy for a week"
     ],
     "correct": 0,
-    "explanation": "The speaker said 'Ma grand-mère est malade depuis une semaine' - My grandmother has been sick for a week. 'Malade' means 'sick' or 'ill'.",
+    "explanation": "The text states '<em>Ma grand-mère est malade depuis une semaine</em>' - My grandmother has been sick for a week. 'Malade' means 'sick' or 'ill'.",
     "difficulty": "A1",
     "source": "Family health",
     "tags": ["family", "health", "illness"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

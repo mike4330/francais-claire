@@ -1,0 +1,19 @@
+{
+  "id": 554,
+  "audioText": "L'herbe du jardin est très verte au printemps.",
+  "question": "What is very green in spring?",
+  "questionType": "comprehension",
+  "options": [
+    "The grass in the garden",
+    "The leaves on the trees",
+    "The flowers in the garden",
+    "The vegetables in the garden"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'herbe du jardin est très verte au printemps</em>' - The grass in the garden is very green in spring. 'Herbe' means grass or herb.",
+  "difficulty": "A2",
+  "source": "Garden - Spring season",
+  "tags": ["garden", "spring", "nature", "seasons"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2179,
+  "audioText": "Les soins médicaux appropriés ont permis sa guérison rapide et complète.",
+  "question": "What enabled his quick and complete recovery?",
+  "questionType": "comprehension",
+  "options": [
+    "Appropriate medical care",
+    "Regular exercise and diet",
+    "Family support and rest",
+    "Alternative medicine treatments"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les soins médicaux appropriés ont permis sa guérison rapide et complète</em>' - Appropriate medical care enabled his quick and complete recovery. 'Soins' means care or treatment.",
+  "difficulty": "B2",
+  "source": "Medical care - Recovery",
+  "tags": ["medical", "care", "recovery", "treatment", "healing"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

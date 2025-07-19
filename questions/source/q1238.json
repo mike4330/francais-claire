@@ -1,19 +1,24 @@
 {
-    "id": 1238,
-    "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active. Cette amélioration s'explique principalement par la création d'emplois dans le secteur des services.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active",
-        "Le taux de chômage a baissé de 0,3 point au dernier trimestre, atteignant 7,3% de la population active",
-        "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,2% de la population active",
-        "Le taux de chômage a augmenté de 0,2 point au dernier trimestre, atteignant 7,3% de la population active"
-    ],
-    "correct": 0,
-    "parentQuestion": 795,
-    "explanation": "The correct text begins with '<em>Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active</em>' - The unemployment rate fell by 0.2 percentage points in the last quarter, reaching 7.3% of the active population. Key numbers: '0,2 point' (0.2 points, not '0,3'), '7,3%' (7.3%, not '7,2%'), and 'baissé' (fell, not 'augmenté' - increased).",
-    "difficulty": "B2",
-    "source": "Listening version of Q795",
-    "tags": ["economy", "unemployment", "statistics", "employment"],
-    "timeCreated": 1720963860
+  "id": 1238,
+  "audioText": "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active. Cette amélioration s'explique principalement par la création d'emplois dans le secteur des services.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active",
+    "Le taux de chômage a baissé de 0,3 point au dernier trimestre, atteignant 7,3% de la population active",
+    "Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,2% de la population active",
+    "Le taux de chômage a augmenté de 0,2 point au dernier trimestre, atteignant 7,3% de la population active"
+  ],
+  "correct": 0,
+  "parentQuestion": 2186,
+  "explanation": "The correct text begins with '<em>Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active</em>' - The unemployment rate fell by 0.2 percentage points in the last quarter, reaching 7.3% of the active population. Key numbers: '0,2 point' (0.2 points, not '0,3'), '7,3%' (7.3%, not '7,2%'), and 'baissé' (fell, not 'augmenté' - increased).",
+  "difficulty": "B2",
+  "source": "Listening version of Q795",
+  "tags": [
+    "economy",
+    "unemployment",
+    "statistics",
+    "employment"
+  ],
+  "timeCreated": 1720963860
 }

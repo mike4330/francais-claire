@@ -1,0 +1,18 @@
+{
+  "id": 563,
+  "audioText": "Il fait froid, prends ton manteau.",
+  "question": "What should the person take because it's cold?",
+  "questionType": "comprehension",
+  "options": [
+    "Their coat",
+    "Their umbrella",
+    "Their scarf",
+    "Their hat"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il fait froid, prends ton manteau</em>' - It's cold, take your coat. 'Manteau' refers to a coat or overcoat.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["weather", "clothing", "cold", "advice"],
+  "timeCreated": "2025-01-18T10:24:00Z"
+}

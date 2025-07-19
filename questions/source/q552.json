@@ -1,0 +1,19 @@
+{
+  "id": 552,
+  "audioText": "Le poids de ce sac est trop lourd pour moi.",
+  "question": "What is too heavy for the speaker?",
+  "questionType": "comprehension",
+  "options": [
+    "The weight of this bag",
+    "The size of this bag",
+    "The color of this bag",
+    "The price of this bag"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le poids de ce sac est trop lourd pour moi</em>' - The weight of this bag is too heavy for me. 'Poids' means weight.",
+  "difficulty": "A2",
+  "source": "Shopping - Weight concerns",
+  "tags": ["shopping", "weight", "physical-properties", "difficulty"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

@@ -1,19 +1,23 @@
 {
-    "id": 1811,
-    "audioText": "Ce rapport riche en données révèle précisément les causes de la crise financière.",
-    "question": "Ce rapport riche en données révèle précisément les causes de la crise financière.",
-    "questionType": "listening",
-    "options": [
-        "Precisely the causes of the financial crisis",
-        "General trends in the global economy",
-        "Potential solutions for future problems",
-        "Historical patterns of market behavior"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Ce rapport riche en données révèle précisément les causes de la crise financière</em>' - This data-rich report precisely reveals the causes of the financial crisis. 'Riche' means rich/abundant, and 'précisément' means precisely or exactly. The distractors test confusion about what the report reveals.",
-    "difficulty": "B2",
-    "source": "Financial analysis",
-    "tags": ["business", "economics", "analysis"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 736
+  "id": 1811,
+  "audioText": "Ce rapport riche en données révèle précisément les causes de la crise financière.",
+  "question": "Ce rapport riche en données révèle précisément les causes de la crise financière.",
+  "questionType": "listening",
+  "options": [
+    "Precisely the causes of the financial crisis",
+    "General trends in the global economy",
+    "Potential solutions for future problems",
+    "Historical patterns of market behavior"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce rapport riche en données révèle précisément les causes de la crise financière</em>' - This data-rich report precisely reveals the causes of the financial crisis. 'Riche' means rich/abundant, and 'précisément' means precisely or exactly. The distractors test confusion about what the report reveals.",
+  "difficulty": "B2",
+  "source": "Financial analysis",
+  "tags": [
+    "business",
+    "economics",
+    "analysis"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2186
 }

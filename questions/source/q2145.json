@@ -1,19 +1,25 @@
 {
-    "id": 2145,
-    "audioText": "Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit.",
-    "question": "Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit.",
-    "questionType": "listening",
-    "options": [
-        "She played the piano",
-        "She cooked traditional meals",
-        "She read stories aloud",
-        "She worked in her garden"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit</em>' - My grandmother played the piano every Sunday afternoon when I was little. 'Jouait' is the imperfect form of 'jouer' (to play), describing a past habit with the temporal clause repositioned. The distractors test confusion about the grandmother's activity.",
-    "difficulty": "B2",
-    "source": "Childhood music memories",
-    "tags": ["childhood", "family", "music", "piano", "memories"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 716
+  "id": 2145,
+  "audioText": "Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit.",
+  "question": "Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit.",
+  "questionType": "listening",
+  "options": [
+    "She played the piano",
+    "She cooked traditional meals",
+    "She read stories aloud",
+    "She worked in her garden"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit</em>' - My grandmother played the piano every Sunday afternoon when I was little. 'Jouait' is the imperfect form of 'jouer' (to play), describing a past habit with the temporal clause repositioned. The distractors test confusion about the grandmother's activity.",
+  "difficulty": "B2",
+  "source": "Childhood music memories",
+  "tags": [
+    "childhood",
+    "family",
+    "music",
+    "piano",
+    "memories"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2186
 }

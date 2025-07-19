@@ -1,20 +1,24 @@
 {
-    "id": 2149,
-    "audioText": "J'écris franchement mes opinions sur cette image superbe dans mon journal personnel",
-    "question": "J'écris franchement mes opinions sur cette image superbe dans mon journal personnel",
-    "questionType": "listening",
-    "options": [
-        "Honest opinions about the superb image",
-        "Secret thoughts about family members",
-        "Daily activities and appointments",
-        "Creative stories and poems"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>J'écris franchement mes opinions sur cette image superbe dans mon journal personnel</em>' - I write frankly my opinions about this superb image in my personal journal. 'Écris' is the first person singular of 'écrire' (to write), 'franchement' means frankly/honestly, and 'superbe' means superb/magnificent.",
-    "difficulty": "B2",
-    "source": "Strategic conjugate targeting: écris + franchement + image + superbe",
-    "tags": ["writing", "personal-expression", "honesty"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 1632,
-    "verified": "claude"
+  "id": 2149,
+  "audioText": "J'écris franchement mes opinions sur cette image superbe dans mon journal personnel",
+  "question": "J'écris franchement mes opinions sur cette image superbe dans mon journal personnel",
+  "questionType": "listening",
+  "options": [
+    "Honest opinions about the superb image",
+    "Secret thoughts about family members",
+    "Daily activities and appointments",
+    "Creative stories and poems"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'écris franchement mes opinions sur cette image superbe dans mon journal personnel</em>' - I write frankly my opinions about this superb image in my personal journal. 'Écris' is the first person singular of 'écrire' (to write), 'franchement' means frankly/honestly, and 'superbe' means superb/magnificent.",
+  "difficulty": "B2",
+  "source": "Strategic conjugate targeting: écris + franchement + image + superbe",
+  "tags": [
+    "writing",
+    "personal-expression",
+    "honesty"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2188,
+  "verified": "claude"
 }

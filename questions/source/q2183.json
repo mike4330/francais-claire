@@ -1,0 +1,18 @@
+{
+  "id": 2183,
+  "audioText": "Le formulaire demande de préciser votre sexe et votre âge.",
+  "question": "What information does the form request?",
+  "questionType": "comprehension",
+  "options": [
+    "Your gender and age",
+    "Your name and address",
+    "Your job and salary",
+    "Your education and experience"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le formulaire demande de préciser votre sexe et votre âge</em>' - The form asks to specify your gender and age. 'Sexe' refers to gender in official documents.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["paperwork", "forms", "personal-information", "administration"],
+  "timeCreated": "2025-01-18T10:21:00Z"
+}

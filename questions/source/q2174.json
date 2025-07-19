@@ -1,0 +1,19 @@
+{
+  "id": 2174,
+  "audioText": "Cette bande de jeunes traverse toujours la rue à cet endroit dangereux.",
+  "question": "What does this group of young people always do at this dangerous place?",
+  "questionType": "comprehension",
+  "options": [
+    "They cross the street",
+    "They wait for the bus",
+    "They play music",
+    "They sell newspapers"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette bande de jeunes traverse toujours la rue à cet endroit dangereux</em>' - This group of young people always crosses the street at this dangerous place. 'Bande' means group or gang.",
+  "difficulty": "B1",
+  "source": "Street safety - Youth behavior",
+  "tags": ["youth", "street", "safety", "behavior", "group"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

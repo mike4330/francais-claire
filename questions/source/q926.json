@@ -10,7 +10,7 @@
     "Behind the speaker's ear"
   ],
   "correct": 0,
-  "explanation": "The text states 'Vous pouvez regarder dans mon oeil gauche pour voir si quelque chose ne va pas' - You can look in my left eye to see if something is wrong. 'Pouvez' is the second person plural form of 'pouvoir' (can), and 'oeil' means eye.",
+  "explanation": "The text states '<em>Vous pouvez regarder dans mon oeil gauche pour voir si quelque chose ne va pas</em>' - You can look in my left eye to see if something is wrong. 'Pouvez' is the second person plural form of 'pouvoir' (can), and 'oeil' means eye.",
   "difficulty": "B1",
   "source": "Medical Examination and Health",
   "tags": [
@@ -20,5 +20,6 @@
     "examination",
     "eyes"
   ],
-  "timeCreated": 1735500702
+  "timeCreated": 1720132800,
+  "verified": "claude"
 }

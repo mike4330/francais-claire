@@ -1,20 +1,24 @@
 {
-    "id": 1844,
-    "audioText": "Vous servez toujours ce café pur avec professionnalisme dans cette entreprise",
-    "question": "Vous servez toujours ce café pur avec professionnalisme dans cette entreprise",
-    "questionType": "listening",
-    "options": [
-        "With professionalism",
-        "Very quickly",
-        "Without enthusiasm", 
-        "Quite carelessly"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'With professionalism'. The text states '<em>Vous servez toujours ce café pur avec professionnalisme dans cette entreprise</em>' - You always serve this pure coffee with professionalism in this company. 'Servez' is the second person plural of 'servir' (to serve).",
-    "difficulty": "B2",
-    "source": "Strategic conjugate targeting: servez + pur + professionalism",
-    "tags": ["professionalism", "workplace", "service"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 1636,
-    "verified": "claude"
+  "id": 1844,
+  "audioText": "Vous servez toujours ce café pur avec professionnalisme dans ce restaurant",
+  "question": "Vous servez toujours ce café pur avec professionnalisme dans ce restaurant",
+  "questionType": "listening",
+  "options": [
+    "With professionalism",
+    "Very quickly",
+    "Without enthusiasm",
+    "Quite carelessly"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'With professionalism'. The text states '<em>Vous servez toujours ce café pur avec professionnalisme dans ce restaurant</em>' - You always serve this pure coffee with professionalism in this restaurant. 'Servez' is the second person plural of 'servir' (to serve).",
+  "difficulty": "B2",
+  "source": "Strategic conjugate targeting: servez + pur + professionalism",
+  "tags": [
+    "restaurant",
+    "service",
+    "hospitality"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2188,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "Vous alliez souvent au park avec vos amis."
   ],
   "correct": 0,
-  "explanation": "The exact phrase was 'Vous alliez souvent au parc avec vos amis.' - You used to go often to the park with your friends. The imperfect 'alliez' indicates a repeated past action.",
+  "explanation": "The exact phrase was '<em>Vous alliez souvent au parc avec vos amis.</em>' - You used to go often to the park with your friends. The imperfect 'alliez' indicates a repeated past action.",
   "difficulty": "A2",
   "source": "Leisure Activities",
   "tags": [
@@ -19,5 +19,6 @@
     "parks",
     "past-habits"
   ],
-  "timeCreated": 1751325911
+  "timeCreated": 1751325911,
+  "verified": "claude"
 }

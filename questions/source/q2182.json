@@ -1,0 +1,18 @@
+{
+  "id": 2182,
+  "audioText": "Le professeur écrit les formules mathématiques au tableau.",
+  "question": "Where does the teacher write the mathematical formulas?",
+  "questionType": "comprehension",
+  "options": [
+    "On the blackboard",
+    "In the textbook",
+    "On worksheets",
+    "In the notebook"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le professeur écrit les formules mathématiques au tableau</em>' - The teacher writes the mathematical formulas on the blackboard. 'Tableau' refers to a blackboard or whiteboard in educational contexts.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["education", "classroom", "mathematics", "teaching"],
+  "timeCreated": "2025-01-18T10:18:00Z"
+}

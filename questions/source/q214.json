@@ -10,9 +10,10 @@
         "noire"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'jaune' meaning 'yellow'. I bought a very beautiful yellow car. 'Jaune' is a color adjective describing the car.",
+    "explanation": "The text states '<em>J'ai acheté une voiture jaune très belle</em>' - I bought a very beautiful yellow car. The correct answer is 'jaune' meaning 'yellow', a color adjective describing the car.",
     "difficulty": "A1",
     "source": "Car purchase",
     "tags": ["colors", "cars", "shopping"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

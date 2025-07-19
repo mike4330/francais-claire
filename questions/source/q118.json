@@ -10,9 +10,10 @@
         "appeler"
     ],
     "correct": 0,
-    "explanation": "The verb 'appeler' in the third person singular is 'appelle'. Maman (she) calls me for dinner.",
+    "explanation": "The text states '<em>Maman m'appelle pour le dîner</em>' - Mom calls me for dinner. The verb 'appeler' in the third person singular is 'appelle'. Maman (she) calls me for dinner.",
     "difficulty": "A1",
     "source": "Family Communication",
     "tags": ["family", "daily-life", "meals"],
-    "timeCreated": 1719962000
+    "timeCreated": 1719962000,
+    "verified": "claude"
 }

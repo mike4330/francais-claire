@@ -14,5 +14,6 @@
     "difficulty": "B1",
     "source": "Restaurant service",
     "tags": ["restaurant", "service", "customers", "speed"],
-    "timeCreated": 1736102880
+    "timeCreated": 1736102880,
+    "verified": "claude"
 }

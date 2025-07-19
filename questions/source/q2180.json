@@ -1,0 +1,19 @@
+{
+  "id": 2180,
+  "audioText": "Le toit de cette vieille maison a besoin de réparations urgentes avant l'hiver.",
+  "question": "What needs urgent repairs before winter?",
+  "questionType": "comprehension",
+  "options": [
+    "The roof of this old house",
+    "The windows of this old house",
+    "The foundation of this old house",
+    "The garden of this old house"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le toit de cette vieille maison a besoin de réparations urgentes avant l'hiver</em>' - The roof of this old house needs urgent repairs before winter. 'Toit' means roof.",
+  "difficulty": "B1",
+  "source": "Home maintenance - Roof repair",
+  "tags": ["home", "maintenance", "roof", "repairs", "winter"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

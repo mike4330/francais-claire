@@ -1,0 +1,18 @@
+{
+  "id": 562,
+  "audioText": "Mon copain arrive demain matin.",
+  "question": "When is the friend arriving?",
+  "questionType": "comprehension",
+  "options": [
+    "Tomorrow morning",
+    "This evening",
+    "Next week",
+    "Yesterday"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon copain arrive demain matin</em>' - My friend is arriving tomorrow morning. 'Copain' refers to a friend or buddy.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["friendship", "arrival", "time", "morning"],
+  "timeCreated": "2025-01-18T10:23:00Z"
+}

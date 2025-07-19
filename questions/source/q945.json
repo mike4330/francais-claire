@@ -10,7 +10,7 @@
     "Reducing traffic congestion through public transportation"
   ],
   "correct": 0,
-  "explanation": "The text states the city 'investit dans les énergies propres pour réduire la pollution et protéger l'environnement urbain' (invests in clean energy to reduce pollution and protect the urban environment). 'Énergies propres' means clean/renewable energy.",
+  "explanation": "The text states '<em>La ville investit dans les énergies propres pour réduire la pollution et protéger l'environnement urbain</em>' - The city invests in clean energy to reduce pollution and protect the urban environment. 'Énergies propres' means clean/renewable energy.",
   "difficulty": "B2",
   "source": "Environmental Policy",
   "tags": [
@@ -21,5 +21,6 @@
     "sustainability",
     "government-policy"
   ],
-  "timeCreated": 1751325620
+  "timeCreated": 1720024380,
+  "verified": "claude"
 }

@@ -1,19 +1,23 @@
 {
-    "id": 1639,
-    "audioText": "Aujourd'hui, je dois prendre une décision importante concernant mon avenir professionnel.",
-    "question": "What does the speaker say about making an important decision?",
-    "questionType": "listening",
-    "options": [
-        "Today",
-        "Tomorrow",
-        "Next week",
-        "Eventually"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Aujourd'hui, je dois prendre une décision importante concernant mon avenir professionnel</em>' - Today, I must make an important decision concerning my professional future. 'Aujourd'hui' means 'today'. The distractors test misinterpretation of the timing (tomorrow, next week, eventually).",
-    "difficulty": "B1",
-    "source": "Gemini CLI - Listening practice",
-    "tags": ["workplace", "decision-making", "future"],
-    "timeCreated": 1720800000,
-    "parentQuestion": 719
+  "id": 1639,
+  "audioText": "Aujourd'hui, je dois prendre une décision importante concernant mon avenir professionnel.",
+  "question": "What does the speaker say about making an important decision?",
+  "questionType": "listening",
+  "options": [
+    "Today",
+    "Tomorrow",
+    "Next week",
+    "Eventually"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Aujourd'hui, je dois prendre une décision importante concernant mon avenir professionnel</em>' - Today, I must make an important decision concerning my professional future. 'Aujourd'hui' means 'today'. The distractors test misinterpretation of the timing (tomorrow, next week, eventually).",
+  "difficulty": "B1",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "workplace",
+    "decision-making",
+    "future"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 2186
 }

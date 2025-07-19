@@ -10,7 +10,7 @@
     "coudre"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'choisir'. La phrase complète est 'Les conseils donnés par ma grand-mère m'ont aidé à choisir ma robe de mariage.' - The advice given by my grandmother helped me choose my wedding dress. The past participle 'donnés' agrees with 'conseils' (masculine plural).",
+  "explanation": "The text states '<em>Les conseils donnés par ma grand-mère m'ont aidé à choisir ma robe de mariage</em>' - The advice given by my grandmother helped me choose my wedding dress. The missing word is 'choisir' (to choose).",
   "difficulty": "A2",
   "source": "Wedding Preparation",
   "tags": [
@@ -18,5 +18,7 @@
     "wedding",
     "family",
     "advice"
-  ]
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

@@ -1,0 +1,19 @@
+{
+  "id": 557,
+  "audioText": "Ce paquet contient tous les documents nécessaires.",
+  "question": "What does this package contain?",
+  "questionType": "comprehension",
+  "options": [
+    "All the necessary documents",
+    "Some important letters",
+    "Various office supplies",
+    "Several books and magazines"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce paquet contient tous les documents nécessaires</em>' - This package contains all the necessary documents. 'Paquet' means package or parcel.",
+  "difficulty": "A2",
+  "source": "Office - Document handling",
+  "tags": ["documents", "package", "office", "paperwork"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

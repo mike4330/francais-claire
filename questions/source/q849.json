@@ -1,7 +1,7 @@
 {
     "id": 849,
-    "audioText": "Je participerais volontiers à ce projet si j'avais plus de temps libre ce mois-ci.",
-    "question": "Je participerais ______ à ce projet si j'avais plus de temps libre ce mois-ci.",
+    "audioText": "Je participerais volontiers à cette émission si j'avais plus de temps libre ce mois-ci.",
+    "question": "Je participerais ______ à cette émission si j'avais plus de temps libre ce mois-ci.",
     "questionType": "FIB-reading",
     "options": [
         "volontiers",
@@ -10,9 +10,10 @@
         "probablement"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Je participerais volontiers à ce projet si j'avais plus de temps libre ce mois-ci</em>' - I would gladly participate in this project if I had more free time this month. 'Volontiers' means 'gladly/willingly' and expresses willingness.",
+    "explanation": "The text states '<em>Je participerais volontiers à cette émission si j'avais plus de temps libre ce mois-ci</em>' - I would gladly participate in this TV show if I had more free time this month. 'Volontiers' means 'gladly/willingly' and expresses willingness.",
     "difficulty": "B2",
-    "source": "Project participation",
-    "tags": ["willingness", "projects", "time-management", "volunteering"],
-    "timeCreated": 1736106360
+    "source": "TV show participation",
+    "tags": ["willingness", "television", "time-management", "entertainment"],
+    "timeCreated": 1720132800,
+    "verified": "claude"
 }

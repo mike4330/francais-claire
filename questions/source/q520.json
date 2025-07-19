@@ -1,25 +1,25 @@
 {
-    "id": 520,
-    "audioText": "Il faut que tu sois gentil avec ton petit frère cette année.",
-    "question": "Il faut que tu sois gentil avec ton petit frère cette année.",
-    "questionType": "listening",
-    "options": [
-        "Kind and gentle",
-        "Strict and demanding",
-        "Playful but competitive",
-        "Distant and independent"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Il faut que tu sois gentil avec ton petit frère cette année</em>' - You need to be kind with your little brother this year. 'Sois' is the subjunctive form of 'être' (to be), required after 'il faut que', and 'gentil' means kind or nice. The distractors test confusion about the desired behavior.",
-    "difficulty": "A2",
-    "source": "Family Relationships and Behavior",
-    "tags": [
-        "family",
-        "siblings",
-        "behavior",
-        "kindness",
-        "year"
-    ],
-    "timeCreated": 1720881353,
-    "parentQuestion": 80
+  "id": 520,
+  "audioText": "Il faut que tu sois gentil avec ton petit frère cette année.",
+  "question": "Il faut que tu sois gentil avec ton petit frère cette année.",
+  "questionType": "listening",
+  "options": [
+    "Kind and gentle",
+    "Strict and demanding",
+    "Playful but competitive",
+    "Distant and independent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut que tu sois gentil avec ton petit frère cette année</em>' - You need to be kind with your little brother this year. 'Sois' is the subjunctive form of 'être' (to be), required after 'il faut que', and 'gentil' means kind or nice. The distractors test confusion about the desired behavior.",
+  "difficulty": "A2",
+  "source": "Family Relationships and Behavior",
+  "tags": [
+    "family",
+    "siblings",
+    "behavior",
+    "kindness",
+    "year"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2187
 }

@@ -10,7 +10,7 @@
     "fois"
   ],
   "correct": 0,
-  "explanation": "The correct phrase is 'Quelle heure est-il ?' (What time is it?). 'Heure' specifically refers to clock time, while 'temps' means weather or general time, 'moment' means moment, and 'fois' means time as in occurrence.",
+  "explanation": "The text states '<em>Quelle heure est-il ?</em>' - What time is it? 'Heure' specifically refers to clock time, while 'temps' means weather or general time, 'moment' means moment, and 'fois' means time as in occurrence.",
   "difficulty": "A1",
   "source": "Time Expressions",
   "tags": [
@@ -18,5 +18,6 @@
     "questions",
     "daily-expressions"
   ],
-  "timeCreated": 1720024860
+  "timeCreated": 1720024860,
+  "verified": "claude"
 }

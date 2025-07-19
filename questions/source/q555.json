@@ -1,0 +1,19 @@
+{
+  "id": 555,
+  "audioText": "Quelle est ton adresse exacte pour la livraison ?",
+  "question": "What information is being requested for delivery?",
+  "questionType": "comprehension",
+  "options": [
+    "The exact address",
+    "The phone number",
+    "The delivery time",
+    "The payment method"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Quelle est ton adresse exacte pour la livraison ?</em>' - What is your exact address for delivery? 'Adresse' means address.",
+  "difficulty": "A2",
+  "source": "Delivery - Address information",
+  "tags": ["delivery", "address", "information", "location"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

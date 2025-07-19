@@ -10,7 +10,7 @@
     "A newspaper"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Je voudrais une baguette' – I would like a baguette.",
+  "explanation": "The text states '<em>Je voudrais une baguette, s'il vous plaît</em>' - I would like a baguette, please. This is a polite request commonly heard in French bakeries.",
   "difficulty": "A1",
   "source": "Synthetic Daily Life",
   "tags": [
@@ -18,5 +18,7 @@
     "food",
     "bread",
     "politeness"
-  ]
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

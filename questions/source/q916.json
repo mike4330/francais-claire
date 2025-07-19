@@ -10,7 +10,7 @@
     "Behind the mountain"
   ],
   "correct": 0,
-  "explanation": "The speaker says '<em>Ce vieux quartier du Chili est au bout de la route</em>' - This old neighborhood of Chile is at the end of the road. 'Vieux' means 'old' and 'bout' means 'end'.",
+  "explanation": "The text states '<em>Ce vieux quartier du Chili est au bout de la route</em>' - This old neighborhood of Chile is at the end of the road. 'Vieux' means 'old' and 'bout' means 'end'.",
   "difficulty": "A2",
   "source": "Travel in Chile",
   "tags": [
@@ -18,5 +18,6 @@
     "travel",
     "location"
   ],
-  "timeCreated": 1720443000
+  "timeCreated": 1720443000,
+  "verified": "claude"
 }

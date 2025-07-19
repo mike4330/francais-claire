@@ -1,0 +1,19 @@
+{
+  "id": 2178,
+  "audioText": "Ce héros moderne inspire les jeunes générations par son courage exceptionnel.",
+  "question": "How does this modern hero inspire young generations?",
+  "questionType": "comprehension",
+  "options": [
+    "Through his exceptional courage",
+    "Through his wealth and success",
+    "Through his athletic achievements",
+    "Through his artistic talents"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce héros moderne inspire les jeunes générations par son courage exceptionnel</em>' - This modern hero inspires young generations through his exceptional courage. 'Héros' means hero.",
+  "difficulty": "B1",
+  "source": "Role models - Inspiration",
+  "tags": ["role-model", "inspiration", "courage", "youth", "hero"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

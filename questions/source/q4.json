@@ -10,7 +10,7 @@
     "trouvais"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'trouves' (2nd person singular present of 'trouver'). In French, 'tu trouves' means 'do you think/find'. This is the informal 'you' form asking for someone's opinion about the restaurant being too expensive.",
+  "explanation": "The text states '<em>Tu trouves que ce restaurant est trop cher ?</em>' - Do you think this restaurant is too expensive? The correct form is 'trouves' (2nd person singular present of 'trouver').",
   "difficulty": "A2",
   "source": "Restaurant Opinion",
   "tags": [
@@ -19,5 +19,6 @@
     "prices",
     "conversation"
   ],
-  "timeCreated": 1720051320
+  "timeCreated": 1720051320,
+  "verified": "claude"
 }

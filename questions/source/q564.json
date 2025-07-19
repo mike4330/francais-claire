@@ -1,0 +1,18 @@
+{
+  "id": 564,
+  "audioText": "J'aime prendre un bain chaud le soir.",
+  "question": "What does the person enjoy doing in the evening?",
+  "questionType": "comprehension",
+  "options": [
+    "Taking a hot bath",
+    "Taking a shower",
+    "Reading a book",
+    "Watching television"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'aime prendre un bain chaud le soir</em>' - I like taking a hot bath in the evening. 'Bain' refers to a bath.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["relaxation", "evening", "hygiene", "comfort"],
+  "timeCreated": "2025-01-18T10:26:00Z"
+}

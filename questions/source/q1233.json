@@ -1,19 +1,24 @@
 {
-    "id": 1233,
-    "audioText": "S'il avait plus d'argent, il irait en vacances en Italie.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "S'il avait plus d'argent, il irait en vacances en Italie",
-        "S'il a plus d'argent, il irait en vacances en Italie",
-        "S'il avait plus d'argent, il va en vacances en Italie",
-        "S'il avait plus d'argent, il irait en vacances en Espagne"
-    ],
-    "correct": 0,
-    "parentQuestion": 786,
-    "explanation": "The correct text is '<em>S'il avait plus d'argent, il irait en vacances en Italie</em>' - If he had more money, he would go on vacation to Italy. This is a proper second conditional: 'avait' (imperfect, had) not 'a' (present, has), 'irait' (conditional, would go) not 'va' (present, goes), and 'Italie' (Italy) not 'Espagne' (Spain).",
-    "difficulty": "B1",
-    "source": "Listening version of Q786",
-    "tags": ["travel", "vacation", "italy", "hypothetical"],
-    "timeCreated": 1720963320
+  "id": 1233,
+  "audioText": "S'il avait plus d'argent, il irait en vacances en Italie.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "S'il avait plus d'argent, il irait en vacances en Italie",
+    "S'il a plus d'argent, il irait en vacances en Italie",
+    "S'il avait plus d'argent, il va en vacances en Italie",
+    "S'il avait plus d'argent, il irait en vacances en Espagne"
+  ],
+  "correct": 0,
+  "parentQuestion": 2186,
+  "explanation": "The correct text is '<em>S'il avait plus d'argent, il irait en vacances en Italie</em>' - If he had more money, he would go on vacation to Italy. This is a proper second conditional: 'avait' (imperfect, had) not 'a' (present, has), 'irait' (conditional, would go) not 'va' (present, goes), and 'Italie' (Italy) not 'Espagne' (Spain).",
+  "difficulty": "B1",
+  "source": "Listening version of Q786",
+  "tags": [
+    "travel",
+    "vacation",
+    "italy",
+    "hypothetical"
+  ],
+  "timeCreated": 1720963320
 }

@@ -10,9 +10,10 @@
         "You wash your car here."
     ],
     "correct": 0,
-    "explanation": "The French sentence 'Vous arrêtez votre voiture ici' uses the vous form of the verb 'arrêter' (to stop). 'Arrêtez' is the present tense, second person plural/formal form meaning 'you stop'.",
+    "explanation": "The text states '<em>Vous arrêtez votre voiture ici</em>' - You stop your car here. 'Arrêtez' is the present tense, second person plural/formal form of 'arrêter' (to stop).",
     "difficulty": "A2",
     "source": "Transportation context with imperative-style conjugation",
     "tags": ["transportation", "driving", "instructions"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

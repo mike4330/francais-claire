@@ -10,9 +10,10 @@
         "They are very old."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'sales' meaning 'dirty'. 'Tes chaussures sont très sales' means 'your shoes are very dirty'. The adjective 'sales' is the plural form of 'sale' agreeing with 'chaussures'.",
+    "explanation": "The text states '<em>Tes chaussures sont très sales</em>' - Your shoes are very dirty. 'Sales' is the plural form of 'sale' (dirty) agreeing with 'chaussures'.",
     "difficulty": "A1",
     "source": "Description of object condition",
     "tags": ["clothing", "cleanliness", "description"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

@@ -14,5 +14,6 @@
     "difficulty": "A2",
     "source": "Family car repair",
     "tags": ["family", "help", "cars", "weekend", "father"],
-    "timeCreated": 1736065800
+    "timeCreated": 1736065800,
+    "verified": "claude"
 }

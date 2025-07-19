@@ -11,9 +11,10 @@
     "The bill"
   ],
   "correct": 1,
-  "explanation": "The word 'Tenez' is a formal way of saying 'Here, take this' or 'Here you go'. The sentence means 'Here is your coffee and a croissant.'",
+  "explanation": "The text states '<em>Tenez, voici votre café et un croissant</em>' - Here, here is your coffee and a croissant. 'Tenez' is a formal way of saying 'Here, take this' or 'Here you go'.",
   "difficulty": "A2",
   "source": "Gemini CLI",
   "tags": ["bakery", "cafe", "daily-life"],
-  "timeCreated": 1720181339
+  "timeCreated": 1720181339,
+  "verified": "claude"
 }

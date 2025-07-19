@@ -10,7 +10,7 @@
     "arrêtant"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'arrêté' (past participle of 'arrêter'). The construction 's'est arrêté' uses the passé composé with être: 'Le train s'est arrêté à la gare' means 'The train stopped at the station.'",
+  "explanation": "The text states '<em>Le train s'est arrêté à la gare</em>' - The train stopped at the station. The correct answer is 'arrêté' (past participle of 'arrêter'). The construction 's'est arrêté' uses the passé composé with être.",
   "difficulty": "A1",
   "source": "Transportation - Train Travel",
   "tags": [
@@ -18,5 +18,6 @@
     "train-travel",
     "stations"
   ],
-  "timeCreated": 1720027700
+  "timeCreated": 1720027700,
+  "verified": "claude"
 }

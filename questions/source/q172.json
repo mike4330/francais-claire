@@ -10,9 +10,10 @@
         "Go back to the red light."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'droit' meaning 'straight'. 'Va tout droit' means 'go straight ahead'. This is a common direction given when navigating or giving directions.",
+    "explanation": "The text states '<em>Va tout droit jusqu'au feu rouge</em>' - Go straight ahead to the red light. 'Va tout droit' means 'go straight ahead' and 'jusqu'au feu rouge' means 'to the red light'. This is a common direction given when navigating.",
     "difficulty": "A2",
     "source": "Navigation and directions",
     "tags": ["directions", "navigation", "transportation"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

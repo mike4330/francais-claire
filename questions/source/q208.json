@@ -11,9 +11,10 @@
         "Quickly"
     ],
     "correct": 0,
-    "explanation": "'Gentiment' means 'kindly' or 'nicely'. The sentence describes a kind manner of speaking.",
+    "explanation": "The text states '<em>Il a parlé gentiment à l'enfant</em>' - He spoke kindly to the child. 'Gentiment' is an adverb meaning 'kindly' or 'nicely' that describes the manner of speaking.",
     "difficulty": "A2",
     "source": "Gemini-generated",
     "tags": ["manners", "communication"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

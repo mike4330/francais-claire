@@ -10,7 +10,7 @@
     "Cette voiture rouge appartient à ma tante qui habite en Bretagne depuis dix ans."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Cette voiture rouge appartient à mon oncle qui habite en Bretagne depuis dix ans.' - This red car belongs to my uncle who has lived in Brittany for ten years. 'Voiture' means car, and 'appartient' means belongs.",
+  "explanation": "The text states '<em>Cette voiture rouge appartient à mon oncle qui habite en Bretagne depuis dix ans</em>' - This red car belongs to my uncle who has lived in Brittany for ten years. 'Voiture' means car, and 'appartient' means belongs.",
   "difficulty": "A2",
   "source": "Family and Transportation",
   "tags": [
@@ -20,5 +20,7 @@
     "colors",
     "regions",
     "possessions"
-  ]
+  ],
+  "timeCreated": 1720132800,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "genou"
   ],
   "correct": 0,
-  "explanation": "The sentence means 'He broke his arm while playing sports.' The word 'bras' means arm. The expression 'se casser le bras' means to break one's arm.",
+  "explanation": "The text states '<em>Il s'est cassé le bras en faisant du sport</em>' - He broke his arm while playing sports. The missing word is 'bras' (arm).",
   "difficulty": "B1",
   "source": "Sports Injuries",
   "tags": [
@@ -20,5 +20,6 @@
     "accidents",
     "healthcare"
   ],
-  "timeCreated": 1751326331
+  "timeCreated": 1720076400,
+  "verified": "claude"
 }

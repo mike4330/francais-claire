@@ -1,16 +1,16 @@
 {
   "id": 1750,
-  "audioText": "Cette aveugle américaine semblez affreusement coupable dessous les larmes.",
+  "audioText": "Cette aveugle américaine semble affreusement coupable dessous les larmes.",
   "question": "Cette aveugle américaine ______ affreusement coupable dessous les larmes.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "semblez",
     "semble",
+    "semblez",
     "sembles",
     "semblent"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette aveugle américaine semblez affreusement coupable dessous les larmes</em>' - This blind American woman seems terribly guilty beneath the tears. This combines 'aveugle' (blind), 'américaine' (American), 'semblez' (seem), 'affreusement' (terribly), 'coupable' (guilty), 'dessous' (beneath), and 'larmes' (tears).",
+  "explanation": "The text states '<em>Cette aveugle américaine semble affreusement coupable dessous les larmes</em>' - This blind American woman seems terribly guilty beneath the tears. 'Semble' is the correct 3rd person singular form of 'sembler' (to seem) for 'cette aveugle américaine'.",
   "difficulty": "B2",
   "source": "Legal drama conversation",
   "tags": [
@@ -19,5 +19,6 @@
     "disability",
     "international"
   ],
-  "timeCreated": 1736784600
+  "timeCreated": 1736784600,
+  "verified": "claude"
 }

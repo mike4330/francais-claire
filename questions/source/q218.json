@@ -11,9 +11,10 @@
         "solution"
     ],
     "correct": 0,
-    "explanation": "'Idée' means 'idea'. The sentence indicates having a good idea for the project.",
+    "explanation": "The text states '<em>J'ai une bonne idée pour le projet</em>' - I have a good idea for the project. 'Idée' means 'idea'.",
     "difficulty": "A2",
     "source": "Gemini-generated",
     "tags": ["projects", "creativity"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

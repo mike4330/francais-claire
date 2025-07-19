@@ -1,20 +1,25 @@
 {
-    "id": 2162,
-    "audioText": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
-    "question": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
-    "questionType": "listening",
-    "options": [
-        "To celebrate a birthday",
-        "To watch a movie",
-        "To celebrate winning a pétanque tournament",
-        "To have a quiet dinner"
-    ],
-    "correct": 2,
-    "explanation": "The text states '<em>Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.</em>' - My father and his friends went out last night to celebrate their victory in the pétanque tournament. They came home very late but looked really happy about their evening. 'Fêter' means to celebrate and 'victoire' means victory.",
-    "difficulty": "B2",
-    "source": "Gemini CLI",
-    "tags": ["family", "celebration", "sports", "friends"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 757,
-    "verified": "claude"
+  "id": 2162,
+  "audioText": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
+  "question": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
+  "questionType": "listening",
+  "options": [
+    "To celebrate a birthday",
+    "To watch a movie",
+    "To celebrate winning a pétanque tournament",
+    "To have a quiet dinner"
+  ],
+  "correct": 2,
+  "explanation": "The text states '<em>Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.</em>' - My father and his friends went out last night to celebrate their victory in the pétanque tournament. They came home very late but looked really happy about their evening. 'Fêter' means to celebrate and 'victoire' means victory.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "family",
+    "celebration",
+    "sports",
+    "friends"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2186,
+  "verified": "claude"
 }

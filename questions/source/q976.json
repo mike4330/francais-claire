@@ -13,6 +13,7 @@
     "explanation": "The correct sentence is '<em>Dans cette cuisine moderne, le chef prépare physiquement chaque plat sur-le-champ avec des techniques culinaires traditionnelles</em>' - In this modern kitchen, the chef physically prepares each dish on the spot with traditional culinary techniques. 'Physiquement' means 'physically', 'sur-le-champ' means 'immediately/on the spot', and 'techniques culinaires' means 'culinary techniques'.",
     "difficulty": "B2",
     "source": "Restaurant kitchen",
-    "tags": ["culinary-vocabulary", "cooking-techniques", "food"],
-    "timeCreated": 1720443900
+    "tags": ["cooking", "restaurant", "food"],
+    "timeCreated": 1720443900,
+    "verified": "claude"
 }

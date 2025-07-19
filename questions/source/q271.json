@@ -13,6 +13,7 @@
     "explanation": "The correct sentence is '<em>Merci, nous attendras-tu au bout de l'émission culinaire?</em>' - Thank you, will you wait for us at the end of the culinary show? 'Attendras' is the future tense of 'attendre' (tu form), 'bout' means 'end', and 'émission culinaire' means 'culinary show'.",
     "difficulty": "A2",
     "source": "TV cooking show",
-    "tags": ["french-cuisine", "culinary-vocabulary", "cooking-techniques"],
-    "timeCreated": 1720444020
+    "tags": ["television", "cooking", "waiting"],
+    "timeCreated": 1720444020,
+    "verified": "claude"
 }

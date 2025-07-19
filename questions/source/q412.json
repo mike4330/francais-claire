@@ -1,19 +1,23 @@
 {
-    "id": 412,
-    "audioText": "Elle montre du doigt cette chose étrange par curiosité.",
-    "question": "What does the speaker say about why she points at that strange thing?",
-    "questionType": "listening",
-    "options": [
-        "Out of curiosity",
-        "Because of anger",
-        "Due to fear",
-        "From sadness"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Elle montre du doigt cette chose étrange par curiosité</em>' - She points at this strange thing out of curiosity. 'Doigt' means 'finger', 'montrer du doigt' means 'to point at', and 'curiosité' means 'curiosity'. The distractors test misinterpretation of the reason (anger, fear, sadness).",
-    "difficulty": "A2",
-    "source": "Gemini CLI - Listening practice",
-    "tags": ["curiosity", "emotions", "discovery"],
-    "timeCreated": 1720800000,
-    "parentQuestion": 358
+  "id": 412,
+  "audioText": "Elle montre du doigt cette chose étrange par curiosité.",
+  "question": "What does the speaker say about why she points at that strange thing?",
+  "questionType": "listening",
+  "options": [
+    "Out of curiosity",
+    "Because of anger",
+    "Due to fear",
+    "From sadness"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle montre du doigt cette chose étrange par curiosité</em>' - She points at this strange thing out of curiosity. 'Doigt' means 'finger', 'montrer du doigt' means 'to point at', and 'curiosité' means 'curiosity'. The distractors test misinterpretation of the reason (anger, fear, sadness).",
+  "difficulty": "A2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "curiosity",
+    "emotions",
+    "discovery"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 2747
 }

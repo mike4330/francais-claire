@@ -1,5 +1,5 @@
 {
-  "id": 80,
+  "id": 2187,
   "audioText": "Il faut que tu sois gentil avec ton petit frère cette année.",
   "question": "What does the speaker want the person to be like with their little brother this year?",
   "questionType": "comprehension",
@@ -11,7 +11,7 @@
   ],
   "correct": 0,
   "explanation": "The text states '<em>Il faut que tu sois gentil avec ton petit frère cette année</em>' - You need to be kind with your little brother this year. 'Sois' is the subjunctive form of 'être' (to be), required after 'il faut que', and 'gentil' means kind or nice.",
-  "difficulty": "A2",
+  "difficulty": "B1",
   "source": "Family Relationships and Behavior",
   "tags": [
     "family",
@@ -20,5 +20,6 @@
     "kindness",
     "year"
   ],
-  "timeCreated": 1735500702
+  "timeCreated": 1735500702,
+  "verified": "claude"
 }

@@ -10,9 +10,10 @@
         "All of it"
     ],
     "correct": 0,
-    "explanation": "The adverb 'presque' means 'almost' or 'nearly'. When someone says 'j'ai presque fini', they mean they have nearly finished their work but haven't completely finished it yet.",
+    "explanation": "The text states '<em>J'ai presque fini mon travail aujourd'hui</em>' - I have almost finished my work today. The adverb 'presque' means 'almost' or 'nearly'. When someone says 'j'ai presque fini', they mean they have nearly finished their work but haven't completely finished it yet.",
     "difficulty": "A2",
     "source": "Daily work conversation",
     "tags": ["workplace", "daily-routine", "progress"],
-    "timeCreated": 1720076400
+    "timeCreated": 1720076400,
+    "verified": "claude"
 }

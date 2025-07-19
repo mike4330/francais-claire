@@ -10,7 +10,7 @@
     "comprendrons"
   ],
   "correct": 0,
-  "explanation": "The missing word is 'verrons'. The complete sentence is 'Demain, nous verrons si cette nouvelle stratégie marketing donnera les résultats escomptés' - Tomorrow, we will see if this new marketing strategy will give the expected results. 'Verrons' is the future form of 'voir' (to see), first person plural.",
+  "explanation": "The text states '<em>Demain, nous verrons si cette nouvelle stratégie marketing donnera les résultats escomptés</em>' - Tomorrow, we will see if this new marketing strategy will give the expected results. 'Verrons' is the future form of 'voir' (to see), first person plural.",
   "difficulty": "B1",
   "source": "Marketing strategy and business planning",
   "tags": [
@@ -19,5 +19,6 @@
     "business",
     "planning"
   ],
-  "timeCreated": 1735950360
+  "timeCreated": 1735950360,
+  "verified": "claude"
 }

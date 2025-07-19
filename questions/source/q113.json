@@ -10,7 +10,7 @@
     "Some time"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'J'ai peu de temps' which means 'I have little time'. The word 'peu' means 'little' or 'not much'.",
+  "explanation": "The text states '<em>J'ai peu de temps aujourd'hui</em>' - I have little time today. The word 'peu' means 'little' or 'not much'.",
   "difficulty": "A1",
   "source": "Daily Schedule",
   "tags": [
@@ -19,5 +19,6 @@
     "schedule",
     "busy"
   ],
-  "timeCreated": 1751465314
+  "timeCreated": 1720132800,
+  "verified": "claude"
 }

@@ -11,8 +11,9 @@
     ],
     "correct": 0,
     "explanation": "The speaker said '<em>Les nouvelles règles de sécurité ont été suivies par tous les employés</em>' - The new safety rules have been followed by all employees. 'Suivies' is the feminine plural past participle of 'suivre' (to follow), agreeing with the feminine plural noun 'règles' (rules).",
-    "difficulty": "A2",
+    "difficulty": "B1",
     "source": "Workplace safety",
     "tags": ["workplace", "safety", "rules", "employees"],
-    "timeCreated": 1736065400
+    "timeCreated": 1736065400,
+    "verified": "claude"
 }

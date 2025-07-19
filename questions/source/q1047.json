@@ -1,18 +1,19 @@
 {
     "id": 1047,
-    "audioText": "La réunion prochain aura lieu jeudi matin dans la grande salle de conférence.",
+    "audioText": "La réunion prochaine aura lieu jeudi matin dans la grande salle de conférence.",
     "question": "La réunion ______ aura lieu jeudi matin dans la grande salle de conférence.",
     "questionType": "fill-in-the-blank",
     "options": [
-        "prochain",
         "prochaine",
+        "prochain",
         "suivante",
         "dernière"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>La réunion prochain aura lieu jeudi matin dans la grande salle de conférence.</em>' - 'The next meeting will take place Thursday morning in the large conference room.' The missing word is 'prochain' (next). Note: This usage tests the invariable form before a feminine noun, though 'prochaine' would be more standard.",
+    "explanation": "The text states '<em>La réunion prochaine aura lieu jeudi matin dans la grande salle de conférence.</em>' - 'The next meeting will take place Thursday morning in the large conference room.' The missing word is 'prochaine' (next), which agrees with the feminine noun 'réunion'.",
     "difficulty": "B2",
     "source": "Business meetings and scheduling",
     "tags": ["business", "meetings", "scheduling", "workplace"],
-    "timeCreated": 1736349000
+    "timeCreated": 1736349000,
+    "verified": "claude"
 }

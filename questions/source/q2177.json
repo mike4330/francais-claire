@@ -1,0 +1,19 @@
+{
+  "id": 2177,
+  "audioText": "Il nous faut une preuve solide pour convaincre le jury de son innocence.",
+  "question": "What do they need to convince the jury of his innocence?",
+  "questionType": "comprehension",
+  "options": [
+    "Solid proof",
+    "A good lawyer",
+    "More time",
+    "Character witnesses"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il nous faut une preuve solide pour convaincre le jury de son innocence</em>' - We need solid proof to convince the jury of his innocence. 'Preuve' means proof or evidence.",
+  "difficulty": "B2",
+  "source": "Legal proceedings - Evidence",
+  "tags": ["legal", "evidence", "jury", "innocence", "proof"],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

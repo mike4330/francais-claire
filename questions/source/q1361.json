@@ -1,19 +1,23 @@
 {
-    "id": 1361,
-    "audioText": "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage",
-        "Le médecin croit que ce patient moura si les symptômes s'aggravent davantage",
-        "Le médecin croit que ce patient mourra si les symtômes s'aggravent davantage",
-        "Le médecin croit que ce patient mourra si les symptômes s'aggravent d'avantage"
-    ],
-    "correct": 0,
-    "explanation": "The correct phrase is '<em>Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage</em>' - The doctor believes this patient will die if the symptoms worsen further. Note the correct spelling: 'mourra' (future tense of mourir), 'symptômes' (with the circumflex), and 'davantage' (one word meaning 'further/more').",
-    "difficulty": "B1",
-    "source": "Listening version of Q760",
-    "tags": ["symptoms", "medical", "prognosis"],
-    "parentQuestion": 760,
-    "timeCreated": 1736625900
+  "id": 1361,
+  "audioText": "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage",
+    "Le médecin croit que ce patient moura si les symptômes s'aggravent davantage",
+    "Le médecin croit que ce patient mourra si les symtômes s'aggravent davantage",
+    "Le médecin croit que ce patient mourra si les symptômes s'aggravent d'avantage"
+  ],
+  "correct": 0,
+  "explanation": "The correct phrase is '<em>Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage</em>' - The doctor believes this patient will die if the symptoms worsen further. Note the correct spelling: 'mourra' (future tense of mourir), 'symptômes' (with the circumflex), and 'davantage' (one word meaning 'further/more').",
+  "difficulty": "B1",
+  "source": "Listening version of Q760",
+  "tags": [
+    "symptoms",
+    "medical",
+    "prognosis"
+  ],
+  "parentQuestion": 2186,
+  "timeCreated": 1736625900
 }

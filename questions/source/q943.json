@@ -7,10 +7,10 @@
     "accord",
     "accès",
     "accueil",
-    "accès"
+    "accept"
   ],
   "correct": 0,
-  "explanation": "The sentence means 'The two parties signed an important commercial agreement.' The word 'accord' means agreement or accord. This is a common term in business and political contexts.",
+  "explanation": "The text states '<em>Les deux parties ont signé un accord commercial important</em>' - The two parties signed an important commercial agreement. The word 'accord' means agreement or accord. This is a common term in business and political contexts.",
   "difficulty": "B1",
   "source": "Business News",
   "tags": [
@@ -20,5 +20,6 @@
     "negotiations",
     "formal-language"
   ],
-  "timeCreated": 1751301389
+  "timeCreated": 1720132800,
+  "verified": "claude"
 }

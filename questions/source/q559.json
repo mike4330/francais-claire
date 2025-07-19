@@ -1,0 +1,18 @@
+{
+  "id": 559,
+  "audioText": "Le bateau arrive au port à midi.",
+  "question": "When does the boat arrive at the port?",
+  "questionType": "comprehension",
+  "options": [
+    "At noon",
+    "At midnight",
+    "In the morning",
+    "In the evening"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le bateau arrive au port à midi</em>' - The boat arrives at the port at noon. 'Port' refers to a harbor or port where ships dock.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["travel", "transportation", "maritime", "time"],
+  "timeCreated": "2025-01-18T10:19:00Z"
+}
