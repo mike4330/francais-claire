@@ -1,0 +1,19 @@
+{
+  "id": 2193,
+  "audioText": "Le chauffeur de taxi a conduit les touristes jusqu'à l'hôtel en centre-ville malgré les embouteillages.",
+  "question": "Le chauffeur de taxi a ______ les touristes jusqu'à l'hôtel en centre-ville malgré les embouteillages.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "conduit",
+    "conduite",
+    "conduire",
+    "conduisait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le chauffeur de taxi a conduit les touristes jusqu'à l'hôtel en centre-ville malgré les embouteillages.</em>' - 'The taxi driver drove the tourists to the downtown hotel despite the traffic jams.' The past participle 'conduit' (drove) is used with 'avoir' in the passé composé.",
+  "difficulty": "B2",
+  "source": "Urban transportation scenario",
+  "tags": ["travel", "transportation", "tourism"],
+  "timeCreated": 1737290220,
+  "verified": "claude"
+}

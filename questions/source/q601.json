@@ -1,0 +1,19 @@
+{
+  "id": 601,
+  "audioText": "Cette robe est vraiment moche.",
+  "question": "Cette robe est vraiment ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "moche",
+    "belle",
+    "chère",
+    "neuve"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette robe est vraiment moche.</em>' - This dress is really ugly. The adjective 'moche' means ugly, unattractive, or not nice-looking (informal).",
+  "difficulty": "A2",
+  "source": "Fashion opinion",
+  "tags": ["clothing", "appearance", "opinions"],
+  "timeCreated": 1737293460,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 600,
+  "audioText": "Elle est inquiète pour son chat malade.",
+  "question": "Elle est ______ pour son chat malade.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "inquiète",
+    "heureuse",
+    "fâchée",
+    "surprise"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle est inquiète pour son chat malade.</em>' - She is worried about her sick cat. The adjective 'inquiète' (feminine form of 'inquiet') means worried, anxious, or concerned.",
+  "difficulty": "A2",
+  "source": "Pet care concern",
+  "tags": ["animals", "health", "emotions"],
+  "timeCreated": 1737293400,
+  "verified": "claude"
+}

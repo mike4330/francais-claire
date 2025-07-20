@@ -1,0 +1,19 @@
+{
+  "id": 605,
+  "audioText": "Cette lampe éclaire bien ma chambre.",
+  "question": "Cette ______ éclaire bien ma chambre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "lampe",
+    "fenêtre",
+    "porte",
+    "télévision"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette lampe éclaire bien ma chambre.</em>' - This lamp lights up my room well. The noun 'lampe' means lamp or light fixture.",
+  "difficulty": "A2",
+  "source": "Home furnishings",
+  "tags": ["furniture", "lighting", "bedroom"],
+  "timeCreated": 1737293940,
+  "verified": "claude"
+}

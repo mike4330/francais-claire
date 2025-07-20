@@ -1,0 +1,19 @@
+{
+  "id": 586,
+  "audioText": "Ma grand-mère chantait toujours pendant qu'elle cuisinait.",
+  "question": "Ma grand-mère ______ toujours pendant qu'elle cuisinait.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "chantait",
+    "dansait",
+    "pleurait",
+    "dormait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma grand-mère chantait toujours pendant qu'elle cuisinait.</em>' - 'My grandmother always sang while she cooked.' The verb 'chantait' is the third person singular imperfect form of 'chanter' (to sing), expressing a habitual past action.",
+  "difficulty": "A2",
+  "source": "Family memories",
+  "tags": ["family", "cooking", "memories"],
+  "timeCreated": 1737291960,
+  "verified": "claude"
+}

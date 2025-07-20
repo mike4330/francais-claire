@@ -5,9 +5,9 @@
     "questionType": "listening",
     "options": [
         "Elle préfère plutôt travailler en équipe que de rester seule au bureau.",
-        "Elle préfère plutot travailler en équipe que de rester seule au bureau.",
-        "Elle préfère plutôt travailler en groupe que de rester seule au bureau.",
-        "Elle préfère plutôt travailler en équipe que de rester seule à la maison."
+        "Elle préfère toujours travailler seule plutôt qu'en équipe au bureau.",
+        "Elle préfère plutôt rester seule au bureau que travailler en équipe.",
+        "Elle préfère parfois travailler dehors plutôt qu'au bureau en équipe."
     ],
     "correct": 0,
     "explanation": "The text states '<em>Elle préfère plutôt travailler en équipe que de rester seule au bureau</em>' - She rather prefers to work as a team than to stay alone at the office. 'Plutôt' means 'rather' and expresses preference, 'en équipe' means as a team, and 'bureau' means office.",

@@ -1,0 +1,19 @@
+{
+  "id": 2189,
+  "audioText": "Il était furieux contre son collègue qui avait révélé des informations confidentielles à la concurrence.",
+  "question": "How did he feel about his colleague's actions?",
+  "questionType": "comprehension",
+  "options": [
+    "Furious about the leaked confidential information",
+    "Disappointed about the missed deadline",
+    "Concerned about the project budget",
+    "Surprised by the unexpected promotion"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il était furieux contre son collègue qui avait révélé des informations confidentielles à la concurrence.</em>' - 'He was furious with his colleague who had revealed confidential information to the competition.' The adjective 'furieux' expresses intense anger.",
+  "difficulty": "B1",
+  "source": "Workplace betrayal scenario",
+  "tags": ["workplace", "emotions", "betrayal"],
+  "timeCreated": 1737287820,
+  "verified": "claude"
+}

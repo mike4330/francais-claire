@@ -1,0 +1,19 @@
+{
+  "id": 602,
+  "audioText": "Il reste une demi-heure avant le dîner.",
+  "question": "Il reste une ______ avant le dîner.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "demi-heure",
+    "heure",
+    "minute",
+    "seconde"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il reste une demi-heure avant le dîner.</em>' - There's half an hour left before dinner. 'Demi' means half, and 'demi-heure' means half an hour.",
+  "difficulty": "A2",
+  "source": "Meal timing",
+  "tags": ["time", "meals", "schedule"],
+  "timeCreated": 1737293520,
+  "verified": "claude"
+}

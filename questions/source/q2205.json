@@ -1,0 +1,19 @@
+{
+  "id": 2205,
+  "audioText": "Cette montagne est un lieu sacré pour les habitants de la région qui y organisent des cérémonies traditionnelles chaque printemps.",
+  "question": "What is this mountain for the local inhabitants?",
+  "questionType": "comprehension",
+  "options": [
+    "A sacred place where they hold traditional ceremonies",
+    "A dangerous area they avoid during spring",
+    "A commercial site for tourism development",
+    "A research location for scientific studies"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette montagne est un lieu sacré pour les habitants de la région qui y organisent des cérémonies traditionnelles chaque printemps.</em>' - 'This mountain is a sacred place for the inhabitants of the region who organize traditional ceremonies there every spring.' The adjective 'sacré' means sacred or holy.",
+  "difficulty": "B1",
+  "source": "Cultural traditions",
+  "tags": ["culture", "tradition", "ceremony"],
+  "timeCreated": 1737292080,
+  "verified": "claude"
+}

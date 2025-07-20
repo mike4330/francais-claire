@@ -10,7 +10,7 @@
     "Toujours"
   ],
   "correct": 2,
-  "explanation": "The adverb 'Normalement' (normally) is used to describe a habitual action or routine, which is contrasted with the situation today.",
+  "explanation": "The text states '<em>Normalement, je prends mon petit-déjeuner à 8h, mais aujourd'hui, je suis en retard.</em>' - 'Normally, I have my breakfast at 8 AM, but today I'm late.' The adverb 'Normalement' describes a habitual routine.",
   "difficulty": "A2",
   "source": "Gemini CLI",
   "tags": [
@@ -18,5 +18,6 @@
     "daily-routine",
     "food"
   ],
-  "timeCreated": 1720181355
+  "timeCreated": 1720181355,
+  "verified": "claude"
 }

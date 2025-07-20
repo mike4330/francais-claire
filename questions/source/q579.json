@@ -1,0 +1,19 @@
+{
+  "id": 579,
+  "audioText": "Ramenez les livres à la bibliothèque.",
+  "question": "______ les livres à la bibliothèque.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Ramenez",
+    "Achetez",
+    "Vendez",
+    "Déchirez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ramenez les livres à la bibliothèque.</em>' - 'Bring the books back to the library.' The imperative form 'Ramenez' is the second person plural command form of 'ramener' (to bring back).",
+  "difficulty": "A2",
+  "source": "Library instruction",
+  "tags": ["library", "books", "instruction"],
+  "timeCreated": 1737291240,
+  "verified": "claude"
+}

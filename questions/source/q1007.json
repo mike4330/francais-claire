@@ -10,9 +10,10 @@
         "Maps of enemy territory locations"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Les documents secrètement rendus au général contenaient des informations sur le genre d'opérations menées dans cette région.</em>' - 'The documents secretly returned to the general contained information about the type of operations conducted in this region.' The past participle 'rendus' (masculine plural) agrees with 'documents', and 'secrètement' emphasizes the covert nature of the return.",
+    "explanation": "The text states '<em>Les documents secrètement rendus au général contenaient des informations sur le genre d'opérations menées dans cette région.</em>' - The documents secretly returned to the general contained information about the type of operations conducted in this region. 'Secrètement' means secretly.",
     "difficulty": "B2",
-    "source": "Strategic verb conjugate targeting",
+    "source": "Military intelligence",
     "tags": ["military", "information", "operations"],
-    "timeCreated": 1720713600
+    "timeCreated": 1720713600,
+    "verified": "claude"
 }

@@ -1,0 +1,19 @@
+{
+  "id": 598,
+  "audioText": "Ce chien est très brave.",
+  "question": "Ce chien est très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "brave",
+    "grand",
+    "petit",
+    "noir"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce chien est très brave.</em>' - This dog is very brave. The adjective 'brave' means brave, courageous, or good (when referring to animals or people).",
+  "difficulty": "A2",
+  "source": "Pet description",
+  "tags": ["animals", "pets", "character-traits"],
+  "timeCreated": 1737293280,
+  "verified": "claude"
+}

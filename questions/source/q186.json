@@ -10,9 +10,10 @@
         "aimerais"
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'aimerai' - the future form of 'aimer' (to like/love) for je. 'J'aimerai' means 'I will like/love'. This expresses a future desire for a large garden with outdoor furniture.",
+    "explanation": "'<em>J'aimerai avoir un grand jardin avec des meubles d'extérieur.</em>' - I will like to have a large garden with outdoor furniture. The future form 'aimerai' expresses a future desire.",
     "difficulty": "A2",
     "source": "Future garden plans",
     "tags": ["gardening", "furniture", "outdoor"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

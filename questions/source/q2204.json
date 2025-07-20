@@ -1,0 +1,19 @@
+{
+  "id": 2204,
+  "audioText": "Je reverrai probablement ma cousine l'année prochaine lors du mariage de notre grand-mère qui célébrera ses quatre-vingts ans.",
+  "question": "When will the speaker likely see their cousin again?",
+  "questionType": "comprehension",
+  "options": [
+    "Next year at their grandmother's anniversary celebration",
+    "This weekend at a family dinner",
+    "During the summer vacation period",
+    "At Christmas with the extended family"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je reverrai probablement ma cousine l'année prochaine lors du mariage de notre grand-mère qui célébrera ses quatre-vingts ans.</em>' - 'I will probably see my cousin again next year at our grandmother's wedding who will be celebrating her eightieth birthday.' The future form 'reverrai' comes from 'revoir' (to see again).",
+  "difficulty": "B2",
+  "source": "Family celebration planning",
+  "tags": ["family", "celebration", "reunion"],
+  "timeCreated": 1737291900,
+  "verified": "claude"
+}

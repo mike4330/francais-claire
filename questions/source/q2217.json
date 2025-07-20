@@ -1,0 +1,19 @@
+{
+  "id": 2217,
+  "audioText": "Cette tradition sacrée de notre village remonte à plusieurs siècles et unit toutes les générations.",
+  "question": "What characterizes this village tradition?",
+  "questionType": "comprehension",
+  "options": [
+    "It is sacred, centuries-old, and unites all generations",
+    "It is modern, innovative, and appeals to young people",
+    "It is seasonal, temporary, and changes every year",
+    "It is private, exclusive, and limited to certain families"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette tradition sacrée de notre village remonte à plusieurs siècles et unit toutes les générations.</em>' - This sacred tradition of our village goes back several centuries and unites all generations. The adjective 'sacré' means sacred, holy, or revered.",
+  "difficulty": "B2",
+  "source": "Cultural heritage",
+  "tags": ["culture", "traditions", "heritage"],
+  "timeCreated": 1737293820,
+  "verified": "claude"
+}

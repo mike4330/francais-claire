@@ -10,7 +10,7 @@
     "livre"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'argent' (money). The sentence means 'I'm going to buy bread with my money.' This introduces the high-frequency noun 'argent' and basic grocery shopping vocabulary.",
+  "explanation": "The text states '<em>Je vais acheter du pain avec mon argent.</em>' - 'I'm going to buy bread with my money.' The noun 'argent' means money and is essential vocabulary for shopping.",
   "difficulty": "A1",
   "source": "Grocery Shopping",
   "tags": [
@@ -21,5 +21,6 @@
     "bread",
     "daily-life"
   ],
-  "timeCreated": 1751219400
+  "timeCreated": 1751219400,
+  "verified": "claude"
 }

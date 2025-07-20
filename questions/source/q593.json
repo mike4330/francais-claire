@@ -1,0 +1,19 @@
+{
+  "id": 593,
+  "audioText": "Le café est tiède, je vais le réchauffer.",
+  "question": "Le café est ______, je vais le réchauffer.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "tiède",
+    "brûlant",
+    "froid",
+    "délicieux"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le café est tiède, je vais le réchauffer.</em>' - 'The coffee is lukewarm, I'm going to reheat it.' The adjective 'tiède' means lukewarm, tepid, or neither hot nor cold.",
+  "difficulty": "A2",
+  "source": "Daily beverage",
+  "tags": ["drinks", "temperature", "daily-life"],
+  "timeCreated": 1737292680,
+  "verified": "claude"
+}

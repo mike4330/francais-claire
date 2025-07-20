@@ -1,0 +1,19 @@
+{
+  "id": 2202,
+  "audioText": "J'ai revu mon ancien collègue de travail hier soir dans un café du centre-ville et nous avons discuté de nos nouveaux projets professionnels.",
+  "question": "Where did the speaker see their former colleague?",
+  "questionType": "comprehension",
+  "options": [
+    "In a downtown café",
+    "At their old workplace",
+    "At a business conference",
+    "In a shopping center"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai revu mon ancien collègue de travail hier soir dans un café du centre-ville et nous avons discuté de nos nouveaux projets professionnels.</em>' - 'I saw my former work colleague again last night in a downtown café and we discussed our new professional projects.' The past participle 'revu' comes from 'revoir' (to see again).",
+  "difficulty": "B1",
+  "source": "Professional reunion",
+  "tags": ["workplace", "reunion", "conversation"],
+  "timeCreated": 1737291600,
+  "verified": "claude"
+}

@@ -10,7 +10,7 @@
     "Je suivrais le cours de cuisine française en ligne pendant les vacances d'été."
   ],
   "correct": 0,
-  "explanation": "The speaker uses the future tense 'suivrai' (I will follow/take) to indicate their intention to take the French cooking course during summer vacation.",
+  "explanation": "'<em>Je suivrai le cours de cuisine française en ligne pendant les vacances d'été.</em>' - I will take the French cooking course online during summer vacation. The speaker uses the future tense 'suivrai' (I will follow/take).",
   "difficulty": "B1",
   "source": "Personal plan for online learning during vacation",
   "tags": [
@@ -20,5 +20,6 @@
     "online-learning",
     "plans"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

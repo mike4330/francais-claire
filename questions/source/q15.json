@@ -10,7 +10,7 @@
     "pas"
   ],
   "correct": 2,
-  "explanation": "The adverb 'décidément' is used to express a confirmed observation, similar to 'definitely' or 'certainly'. It emphasizes that the soup is unquestionably too salty.",
+  "explanation": "The text states '<em>Cette soupe est décidément trop salée, je ne peux pas la manger.</em>' - This soup is definitely too salty, I can't eat it. The adverb 'décidément' expresses a confirmed observation, similar to 'definitely' or 'certainly'.",
   "difficulty": "A2",
   "source": "Gemini CLI",
   "tags": [
@@ -18,5 +18,6 @@
     "food",
     "restaurant"
   ],
-  "timeCreated": 1720181349
+  "timeCreated": 1720181349,
+  "verified": "claude"
 }

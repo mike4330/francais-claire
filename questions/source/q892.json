@@ -10,9 +10,10 @@
         "Çà, c'est visiblement vrai et vous le savez très bien."
     ],
     "correct": 0,
-    "explanation": "The correct phrase uses 'Çà' (that, informal spelling) and 'visiblement' (visibly/obviously). The other options either use the standard spelling 'Ça', change 'visiblement' to 'clairement', or change 'faux' to 'vrai'.",
+    "explanation": "The text states '<em>Çà, c'est visiblement faux et vous le savez très bien.</em>' - That is obviously false and you know it very well. The correct phrase uses 'Çà' (that, informal spelling) and 'visiblement' (visibly/obviously).",
     "difficulty": "B1",
     "source": "Direct confrontation and disagreement",
     "tags": ["confrontation", "disagreement", "truth", "argument"],
-    "timeCreated": 1751812560
+    "timeCreated": 1751812560,
+    "verified": "claude"
 }

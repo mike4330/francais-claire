@@ -1,0 +1,19 @@
+{
+  "id": 577,
+  "audioText": "Levez la main si vous avez une question.",
+  "question": "______ la main si vous avez une question.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Levez",
+    "Baissez",
+    "Tournez",
+    "Fermez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Levez la main si vous avez une question.</em>' - 'Raise your hand if you have a question.' The imperative form 'Levez' is the second person plural command form of 'lever' (to raise/lift).",
+  "difficulty": "A2",
+  "source": "Classroom instruction",
+  "tags": ["education", "classroom", "instruction"],
+  "timeCreated": 1737290940,
+  "verified": "claude"
+}

@@ -10,17 +10,15 @@
     "It has encouraged greater military cooperation between European nations"
   ],
   "correct": 0,
-  "explanation": "The minister states that American policy has 'réveillé l'Europe' (awakened Europe) and discusses 'les conséquences des mesures hostiles' (consequences of hostile measures) affecting 'armement, de défense et de protection des intérêts commerciaux' (armament, defense, and protection of commercial interests). This indicates a wake-up call for Europe to address American policies affecting their strategic and economic interests.",
+  "explanation": "'<em>La politique du nouveau gouvernement américain a \"réveillé l'Europe\", estime le ministre français de l'Économie.</em>' - The new American government's policy has \"awakened Europe\", estimates the French Economy Minister. He discusses the consequences of hostile measures affecting armament, defense, and commercial interests.",
   "difficulty": "B2",
   "source": "Political News - European-American Relations",
   "tags": [
     "politics",
     "international-relations",
     "economics",
-    "european-union",
-    "trade-policy",
-    "defense",
-    "government"
+    "defense"
   ],
-  "timeCreated": 1704067320
+  "timeCreated": 1704067320,
+  "verified": "claude"
 }

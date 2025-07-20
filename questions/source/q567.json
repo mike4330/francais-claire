@@ -1,0 +1,19 @@
+{
+  "id": 567,
+  "audioText": "Il réveille sa sœur tous les matins.",
+  "question": "Il ______ sa sœur tous les matins.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "réveille",
+    "réveillé",
+    "réveillant",
+    "réveillera"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il réveille sa sœur tous les matins.</em>' - 'He wakes up his sister every morning.' The present tense 'réveille' indicates a habitual action expressed by 'tous les matins' (every morning).",
+  "difficulty": "A2",
+  "source": "Daily family routine",
+  "tags": ["family", "daily-routine", "morning"],
+  "timeCreated": 1737287640,
+  "verified": "claude"
+}

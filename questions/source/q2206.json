@@ -1,0 +1,19 @@
+{
+  "id": 2206,
+  "audioText": "Il était furieux contre son voisin qui avait organisé une fête bruyante jusqu'à trois heures du matin sans prévenir personne.",
+  "question": "How did he feel about his neighbor?",
+  "questionType": "comprehension",
+  "options": [
+    "He was furious about the loud party until 3 AM",
+    "He was grateful for being invited to celebrate",
+    "He was impressed by the party organization",
+    "He was understanding about the late celebration"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il était furieux contre son voisin qui avait organisé une fête bruyante jusqu'à trois heures du matin sans prévenir personne.</em>' - 'He was furious with his neighbor who had organized a loud party until three in the morning without warning anyone.' The adjective 'furieux' means furious or very angry.",
+  "difficulty": "B1",
+  "source": "Neighborhood conflicts",
+  "tags": ["neighborhood", "conflict", "emotions"],
+  "timeCreated": 1737292140,
+  "verified": "claude"
+}

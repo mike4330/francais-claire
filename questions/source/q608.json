@@ -1,0 +1,19 @@
+{
+  "id": 608,
+  "audioText": "Tu conduis vachement bien pour ton âge.",
+  "question": "Tu conduis ______ bien pour ton âge.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "vachement",
+    "mal",
+    "lentement",
+    "peu"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu conduis vachement bien pour ton âge.</em>' - You drive really well for your age. 'Conduis' is the second person singular of 'conduire' (to drive), and 'vachement' is an informal adverb meaning 'really' or 'very'.",
+  "difficulty": "A2",
+  "source": "Driving compliment",
+  "tags": ["driving", "compliments", "age"],
+  "timeCreated": 1737294360,
+  "verified": "claude"
+}

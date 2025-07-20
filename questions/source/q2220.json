@@ -1,0 +1,19 @@
+{
+  "id": 2220,
+  "audioText": "Cette folie des achats pendant les soldes transforme complètement le comportement des consommateurs raisonnables.",
+  "question": "What transforms the behavior of reasonable consumers during sales?",
+  "questionType": "comprehension",
+  "options": [
+    "Shopping madness that completely changes them",
+    "High prices that discourage purchases",
+    "Limited store hours that create frustration",
+    "Poor customer service that causes complaints"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette folie des achats pendant les soldes transforme complètement le comportement des consommateurs raisonnables.</em>' - This shopping madness during sales completely transforms the behavior of reasonable consumers. The noun 'folie' means madness, craze, or frenzy.",
+  "difficulty": "B2",
+  "source": "Consumer behavior",
+  "tags": ["shopping", "behavior", "psychology"],
+  "timeCreated": 1737294240,
+  "verified": "claude"
+}

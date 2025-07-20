@@ -1,0 +1,19 @@
+{
+  "id": 2218,
+  "audioText": "Cette troupe de théâtre amateur présente des spectacles fascinants dans notre centre culturel local chaque weekend.",
+  "question": "What presents fascinating shows at the local cultural center?",
+  "questionType": "comprehension",
+  "options": [
+    "An amateur theater troupe every weekend",
+    "Professional musicians twice monthly",
+    "Dance students during holidays",
+    "Local artists once per season"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette troupe de théâtre amateur présente des spectacles fascinants dans notre centre culturel local chaque weekend.</em>' - This amateur theater troupe presents fascinating shows at our local cultural center every weekend. The noun 'troupe' means troupe, company, or group of performers.",
+  "difficulty": "B1",
+  "source": "Cultural entertainment",
+  "tags": ["theater", "culture", "entertainment"],
+  "timeCreated": 1737294120,
+  "verified": "claude"
+}

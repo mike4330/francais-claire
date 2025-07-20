@@ -1,0 +1,19 @@
+{
+  "id": 578,
+  "audioText": "Amenez vos documents demain matin.",
+  "question": "______ vos documents demain matin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Amenez",
+    "Oubliez",
+    "Perdez",
+    "Cachez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Amenez vos documents demain matin.</em>' - 'Bring your documents tomorrow morning.' The imperative form 'Amenez' is the second person plural command form of 'amener' (to bring).",
+  "difficulty": "A2",
+  "source": "Administrative instruction",
+  "tags": ["documents", "instruction", "workplace"],
+  "timeCreated": 1737291000,
+  "verified": "claude"
+}

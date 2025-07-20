@@ -1,0 +1,19 @@
+{
+  "id": 583,
+  "audioText": "Acceptez-vous notre proposition de contrat ?",
+  "question": "______-vous notre proposition de contrat ?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Acceptez",
+    "Refusez",
+    "Signez",
+    "Lisez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Acceptez-vous notre proposition de contrat ?</em>' - 'Do you accept our contract proposal?' The verb 'Acceptez' is the second person plural present form of 'accepter' (to accept).",
+  "difficulty": "A2",
+  "source": "Business proposal",
+  "tags": ["business", "contracts", "negotiation"],
+  "timeCreated": 1737291660,
+  "verified": "claude"
+}

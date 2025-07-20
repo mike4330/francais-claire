@@ -1,0 +1,19 @@
+{
+  "id": 575,
+  "audioText": "Vous lâchez toujours votre chien dans le parc ?",
+  "question": "Vous ______ toujours votre chien dans le parc ?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "lâchez",
+    "gardez",
+    "portez",
+    "suivez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous lâchez toujours votre chien dans le parc ?</em>' - 'Do you always let your dog loose in the park?' The verb 'lâchez' is the second person plural present form of 'lâcher' (to let go/release).",
+  "difficulty": "A2",
+  "source": "Pet care in public spaces",
+  "tags": ["pets", "parks", "routine"],
+  "timeCreated": 1737290700,
+  "verified": "claude"
+}

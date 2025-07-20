@@ -11,9 +11,10 @@
         "demandes"
     ],
     "correct": 0,
-    "explanation": "The subject 'elle' is third-person singular, so the verb 'demander' must be conjugated as 'demande'.",
+    "explanation": "The text states '<em>Elle demande une question au professeur.</em>' - 'She asks a question to the teacher.' The subject 'elle' is third-person singular, so the verb 'demander' must be conjugated as 'demande'.",
     "difficulty": "A2",
     "source": "Gemini-generated",
     "tags": ["school", "education"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

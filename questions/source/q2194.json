@@ -1,0 +1,19 @@
+{
+  "id": 2194,
+  "audioText": "Elle a offert un cadeau magnifique à sa meilleure amie pour son anniversaire hier soir.",
+  "question": "What did she do for her best friend's birthday?",
+  "questionType": "comprehension",
+  "options": [
+    "She offered a magnificent gift",
+    "She organized a surprise party",
+    "She cooked a special dinner",
+    "She wrote a heartfelt letter"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle a offert un cadeau magnifique à sa meilleure amie pour son anniversaire hier soir.</em>' - 'She offered a magnificent gift to her best friend for her birthday last night.' The past participle 'offert' (offered/gave) comes from 'offrir'.",
+  "difficulty": "B1",
+  "source": "Friendship and gift giving",
+  "tags": ["friendship", "gifts", "celebration"],
+  "timeCreated": 1737290280,
+  "verified": "claude"
+}

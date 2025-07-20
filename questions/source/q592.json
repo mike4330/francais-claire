@@ -1,0 +1,19 @@
+{
+  "id": 592,
+  "audioText": "Elle est inquiète pour son fils qui voyage seul.",
+  "question": "Elle est ______ pour son fils qui voyage seul.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "inquiète",
+    "heureuse",
+    "fière",
+    "surprise"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle est inquiète pour son fils qui voyage seul.</em>' - 'She is worried about her son who is traveling alone.' The adjective 'inquiète' (feminine form of 'inquiet') means worried, anxious, or concerned.",
+  "difficulty": "A2",
+  "source": "Parental concern",
+  "tags": ["family", "travel", "emotions"],
+  "timeCreated": 1737292620,
+  "verified": "claude"
+}

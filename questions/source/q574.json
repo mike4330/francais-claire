@@ -1,0 +1,19 @@
+{
+  "id": 574,
+  "audioText": "Ma sœur boit une bière avec ses amis.",
+  "question": "Ma sœur boit une ______ avec ses amis.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "bière",
+    "eau",
+    "limonade",
+    "café"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma sœur boit une bière avec ses amis.</em>' - 'My sister is drinking a beer with her friends.' The noun 'bière' means beer in French.",
+  "difficulty": "A2",
+  "source": "Social drinking scenario",
+  "tags": ["drinks", "social", "family"],
+  "timeCreated": 1737290400,
+  "verified": "claude"
+}

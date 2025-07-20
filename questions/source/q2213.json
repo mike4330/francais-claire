@@ -1,0 +1,19 @@
+{
+  "id": 2213,
+  "audioText": "Il a chanté cette mélodie romantique pendant toute la soirée pour impressionner sa petite amie.",
+  "question": "What did he do all evening to impress his girlfriend?",
+  "questionType": "comprehension",
+  "options": [
+    "He sang a romantic melody",
+    "He played guitar softly",
+    "He recited love poems",
+    "He danced elegantly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a chanté cette mélodie romantique pendant toute la soirée pour impressionner sa petite amie.</em>' - He sang this romantic melody all evening to impress his girlfriend. The past participle 'chanté' comes from the verb 'chanter' (to sing).",
+  "difficulty": "B2",
+  "source": "Romantic gesture",
+  "tags": ["romance", "music", "relationships"],
+  "timeCreated": 1737293220,
+  "verified": "claude"
+}

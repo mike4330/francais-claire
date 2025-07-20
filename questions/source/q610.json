@@ -1,0 +1,19 @@
+{
+  "id": 610,
+  "audioText": "Vous mentez couramment à vos parents.",
+  "question": "Vous mentez ______ à vos parents.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "couramment",
+    "rarement",
+    "jamais",
+    "parfois"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous mentez couramment à vos parents.</em>' - You lie regularly to your parents. 'Mentez' is the second person plural of 'mentir' (to lie), and 'couramment' means 'regularly' or 'fluently'.",
+  "difficulty": "A2",
+  "source": "Family relationships",
+  "tags": ["family", "honesty", "behavior"],
+  "timeCreated": 1737294480,
+  "verified": "claude"
+}

@@ -10,13 +10,13 @@
     "They became more expensive."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'ont perdu la moitié de leur sucre' – they lost half their sugar over twenty years.",
+  "explanation": "'<em>En vingt ans, ces céréales ont perdu la moitié de leur sucre.</em>' - In twenty years, these cereals lost half their sugar. 'Ont perdu' means 'have lost' and 'moitié' means 'half'.",
   "difficulty": "A2",
   "source": "Nutrition News",
   "tags": [
     "food",
-    "nutrition",
-    "change",
-    "cereals"
-  ]
+    "nutrition"
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

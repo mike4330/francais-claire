@@ -1,0 +1,19 @@
+{
+  "id": 606,
+  "audioText": "Il y a beaucoup de poussière sous le lit.",
+  "question": "Il y a beaucoup de ______ sous le lit.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "poussière",
+    "livres",
+    "chaussures",
+    "jouets"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il y a beaucoup de poussière sous le lit.</em>' - There is a lot of dust under the bed. The noun 'poussière' means dust or powder.",
+  "difficulty": "A2",
+  "source": "Household cleaning",
+  "tags": ["cleaning", "bedroom", "household"],
+  "timeCreated": 1737294000,
+  "verified": "claude"
+}

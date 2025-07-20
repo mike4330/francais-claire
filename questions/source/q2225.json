@@ -1,0 +1,19 @@
+{
+  "id": 2225,
+  "audioText": "Le boxeur frappé vachement fort s'est relevé courageusement pour continuer le combat malgré sa douleur visible.",
+  "question": "What happened to the boxer who was hit very hard?",
+  "questionType": "comprehension",
+  "options": [
+    "He got up courageously to continue fighting despite visible pain",
+    "He immediately gave up and left the ring",
+    "He called for medical assistance from his corner",
+    "He complained angrily to the referee about unfair play"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le boxeur frappé vachement fort s'est relevé courageusement pour continuer le combat malgré sa douleur visible.</em>' - The boxer hit really hard got up courageously to continue the fight despite his visible pain. 'Frappé' is the past participle of 'frapper' (to hit), and 'vachement' means 'really' or 'very' (informal).",
+  "difficulty": "B2",
+  "source": "Sports competition",
+  "tags": ["sports", "courage", "perseverance"],
+  "timeCreated": 1737294780,
+  "verified": "claude"
+}

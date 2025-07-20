@@ -10,9 +10,10 @@
         "It is worse than mine."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'différent' meaning 'different'. 'Ton idée est différente de la mienne' means 'your idea is different from mine'. The adjective 'différente' agrees with the feminine noun 'idée'.",
+    "explanation": "'<em>Ton idée est différente de la mienne.</em>' - Your idea is different from mine. The adjective 'différente' agrees with the feminine noun 'idée'.",
     "difficulty": "A2",
     "source": "Comparison in conversation",
     "tags": ["comparison", "ideas", "conversation"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

@@ -1,0 +1,19 @@
+{
+  "id": 591,
+  "audioText": "Tu es censé arriver avant midi.",
+  "question": "Tu es ______ arriver avant midi.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "censé",
+    "content",
+    "fatigué",
+    "prêt"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu es censé arriver avant midi.</em>' - 'You are supposed to arrive before noon.' The adjective 'censé' means supposed to, expected to, or meant to.",
+  "difficulty": "A2",
+  "source": "Schedule expectations",
+  "tags": ["schedule", "expectations", "time"],
+  "timeCreated": 1737292560,
+  "verified": "claude"
+}

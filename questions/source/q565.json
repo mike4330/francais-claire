@@ -1,0 +1,19 @@
+{
+  "id": 565,
+  "audioText": "Il a disparu hier soir.",
+  "question": "Il a ______ hier soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "disparu",
+    "disparue",
+    "disparaît",
+    "disparais"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a disparu hier soir.</em>' - 'He disappeared last night.' The past participle 'disparu' agrees with the masculine subject 'il' in the passé composé tense.",
+  "difficulty": "A2",
+  "source": "Missing person scenario",
+  "tags": ["disappearance", "family", "concern"],
+  "timeCreated": 1737287520,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 603,
+  "audioText": "Cette araignée est minuscule mais effrayante.",
+  "question": "Cette araignée est ______ mais effrayante.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "minuscule",
+    "énorme",
+    "rapide",
+    "noire"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette araignée est minuscule mais effrayante.</em>' - This spider is tiny but frightening. The adjective 'minuscule' means tiny, very small, or minuscule.",
+  "difficulty": "A2",
+  "source": "Nature observation",
+  "tags": ["insects", "size", "nature"],
+  "timeCreated": 1737293580,
+  "verified": "claude"
+}

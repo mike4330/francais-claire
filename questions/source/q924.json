@@ -10,7 +10,7 @@
     "Rent a car for vacation"
   ],
   "correct": 0,
-  "explanation": "The father 'veut acheter une nouvelle voiture électrique' (wants to buy a new electric car) because he thinks it's important for the environment. 'Veut' is the 3rd person singular present form of 'vouloir' (to want).",
+  "explanation": "'<em>Mon père veut acheter une nouvelle voiture électrique parce qu'il pense que c'est important pour l'environnement.</em>' - My father wants to buy a new electric car because he thinks it's important for the environment. 'Veut' means 'wants'.",
   "difficulty": "B1",
   "source": "Family Decision",
   "tags": [
@@ -19,5 +19,6 @@
     "transportation",
     "decision-making"
   ],
-  "timeCreated": 1751492507
+  "timeCreated": 1751492507,
+  "verified": "claude"
 }

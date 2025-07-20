@@ -1,0 +1,19 @@
+{
+  "id": 2222,
+  "audioText": "Cette pierre jetée savamment dans l'eau a créé des cercles parfaits qui se sont étendus sur toute la surface du lac.",
+  "question": "How was the stone thrown into the water?",
+  "questionType": "comprehension",
+  "options": [
+    "Skillfully, creating perfect circles across the lake",
+    "Carelessly, making loud splashing sounds",
+    "Angrily, disturbing the peaceful environment",
+    "Accidentally, while walking along the shore"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette pierre jetée savamment dans l'eau a créé des cercles parfaits qui se sont étendus sur toute la surface du lac.</em>' - This stone thrown skillfully into the water created perfect circles that spread across the entire lake surface. 'Jetée' is the past participle of 'jeter' (to throw), and 'savamment' means 'skillfully' or 'expertly'.",
+  "difficulty": "B1",
+  "source": "Nature activity",
+  "tags": ["nature", "water", "skill"],
+  "timeCreated": 1737294600,
+  "verified": "claude"
+}

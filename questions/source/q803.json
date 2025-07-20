@@ -13,6 +13,7 @@
     "explanation": "The text states '<em>Mon collègue sympa m'a aidé avec cette analyse profonde des résultats financiers</em>' - My nice colleague helped me with this deep analysis of the financial results. 'Sympa' means 'nice/friendly' (informal) and 'profonde' means 'deep/thorough', targeting two missing adjectives in a workplace context.",
     "difficulty": "B1",
     "source": "Workplace collaboration",
-    "tags": ["workplace", "sharing", "data", "collaboration"],
-    "timeCreated": 1736104020
+    "tags": ["professional-collaboration", "analysis", "teamwork"],
+    "timeCreated": 1736104020,
+    "verified": "claude"
 }

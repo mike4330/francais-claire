@@ -10,9 +10,10 @@
         "appelons"
     ],
     "correct": 0,
-    "explanation": "The correct form is 'appelles' (second person singular of 'appeler'). 'Comment tu t'appelles ?' means 'What is your name?'",
+    "explanation": "The text states '<em>Comment tu t'appelles ?</em>' - What is your name? The correct form is 'appelles' (second person singular of 'appeler').",
     "difficulty": "A1",
     "source": "Basic Introductions",
     "tags": ["greeting", "introduction", "name", "daily-life"],
-    "timeCreated": 1719963300
+    "timeCreated": 1719963300,
+    "verified": "claude"
 }

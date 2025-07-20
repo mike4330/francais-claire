@@ -1,0 +1,19 @@
+{
+  "id": 604,
+  "audioText": "L'arrêt d'autobus est près de ma maison.",
+  "question": "L'______ d'autobus est près de ma maison.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "arrêt",
+    "entrée",
+    "sortie",
+    "début"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'arrêt d'autobus est près de ma maison.</em>' - The bus stop is near my house. The noun 'arrêt' means stop, halt, or station.",
+  "difficulty": "A2",
+  "source": "Transportation",
+  "tags": ["transportation", "location", "daily-life"],
+  "timeCreated": 1737293880,
+  "verified": "claude"
+}

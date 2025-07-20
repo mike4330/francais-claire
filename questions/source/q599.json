@@ -1,0 +1,19 @@
+{
+  "id": 599,
+  "audioText": "Mon frère est jaloux de ma nouvelle bicyclette.",
+  "question": "Mon frère est ______ de ma nouvelle bicyclette.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "jaloux",
+    "fier",
+    "content",
+    "surpris"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon frère est jaloux de ma nouvelle bicyclette.</em>' - My brother is jealous of my new bicycle. The adjective 'jaloux' means jealous or envious.",
+  "difficulty": "A2",
+  "source": "Sibling rivalry",
+  "tags": ["family", "emotions", "siblings"],
+  "timeCreated": 1737293340,
+  "verified": "claude"
+}

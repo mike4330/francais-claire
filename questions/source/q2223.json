@@ -1,0 +1,19 @@
+{
+  "id": 2223,
+  "audioText": "Cette branche coupée mortellement par la tempête est tombée dangereusement près de la maison familiale.",
+  "question": "How was the branch affected by the storm?",
+  "questionType": "comprehension",
+  "options": [
+    "It was mortally cut and fell dangerously near the family house",
+    "It was slightly damaged but remained attached to the tree",
+    "It was completely uprooted and carried far away",
+    "It was broken in half but stayed upright"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette branche coupée mortellement par la tempête est tombée dangereusement près de la maison familiale.</em>' - This branch mortally cut by the storm fell dangerously near the family house. 'Coupée' is the past participle of 'couper' (to cut), and 'mortellement' means 'mortally' or 'fatally'.",
+  "difficulty": "B2",
+  "source": "Weather damage",
+  "tags": ["weather", "danger", "family-home"],
+  "timeCreated": 1737294660,
+  "verified": "claude"
+}

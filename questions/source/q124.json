@@ -10,9 +10,10 @@
         "It is very boring for them"
     ],
     "correct": 0,
-    "explanation": "The speaker says 'Cet exercice de maths est très dur pour moi' - This math exercise is very hard for me. 'Dur' means hard or difficult.",
+    "explanation": "The text states '<em>Cet exercice de maths est très dur pour moi.</em>' - 'This math exercise is very hard for me.' The adjective 'dur' means hard or difficult.",
     "difficulty": "A2",
     "source": "School Subjects",
     "tags": ["education", "difficulty", "mathematics", "school"],
-    "timeCreated": 1719963700
+    "timeCreated": 1719963700,
+    "verified": "claude"
 }

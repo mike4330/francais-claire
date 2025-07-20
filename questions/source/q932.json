@@ -10,12 +10,10 @@
     "La semaine est passer très rapidement cette fois."
   ],
   "correct": 0,
-  "explanation": "The correct form is 'est passée' - feminine past participle agreement with 'la semaine'. The form 'passée' was identified as missing from our coverage despite being very common in time expressions.",
+  "explanation": "The text states '<em>La semaine est passée très rapidement cette fois.</em>' - 'The week passed very quickly this time.' The correct form is 'est passée' with feminine past participle agreement with 'la semaine'.",
   "difficulty": "B2",
   "source": "Time perception and weekly reflection",
-  "tags": [
-    "time",
-    "agreement"
-  ],
-  "timeCreated": 1704067200
+  "tags": ["time", "weekly-routine"],
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

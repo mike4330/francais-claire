@@ -1,0 +1,19 @@
+{
+  "id": 2208,
+  "audioText": "Il trouve absurde de dépenser autant d'argent pour des vêtements de marque quand on peut trouver la même qualité ailleurs.",
+  "question": "What does he think about spending money on designer clothes?",
+  "questionType": "comprehension",
+  "options": [
+    "He finds it absurd when similar quality exists elsewhere",
+    "He believes it's always worth the investment",
+    "He thinks it shows good taste and style",
+    "He considers it necessary for professional success"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il trouve absurde de dépenser autant d'argent pour des vêtements de marque quand on peut trouver la même qualité ailleurs.</em>' - 'He finds it absurd to spend so much money on designer clothes when you can find the same quality elsewhere.' The adjective 'absurde' means absurd, ridiculous, or nonsensical.",
+  "difficulty": "B2",
+  "source": "Consumer opinions",
+  "tags": ["shopping", "opinion", "value"],
+  "timeCreated": 1737292380,
+  "verified": "claude"
+}

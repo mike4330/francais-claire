@@ -1,0 +1,19 @@
+{
+  "id": 2215,
+  "audioText": "Le propriétaire furieux a exigé une explication immédiate de ses locataires bruyants.",
+  "question": "How did the landlord react to the noisy tenants?",
+  "questionType": "comprehension",
+  "options": [
+    "He was furious and demanded an immediate explanation",
+    "He calmly asked them to be quieter",
+    "He politely sent them a written warning",
+    "He ignored the situation completely"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le propriétaire furieux a exigé une explication immédiate de ses locataires bruyants.</em>' - The furious landlord demanded an immediate explanation from his noisy tenants. The adjective 'furieux' means furious, angry, or enraged.",
+  "difficulty": "B1",
+  "source": "Tenant disputes",
+  "tags": ["housing", "neighbors", "conflicts"],
+  "timeCreated": 1737293700,
+  "verified": "claude"
+}

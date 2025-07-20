@@ -1,0 +1,19 @@
+{
+  "id": 2201,
+  "audioText": "Le chauffeur de taxi nous a ramené directement à l'hôtel après notre longue journée de visite touristique dans la capitale.",
+  "question": "Where did the taxi driver take them?",
+  "questionType": "comprehension",
+  "options": [
+    "Directly back to their hotel",
+    "To another tourist attraction",
+    "To the airport for departure",
+    "To a restaurant for dinner"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le chauffeur de taxi nous a ramené directement à l'hôtel après notre longue journée de visite touristique dans la capitale.</em>' - 'The taxi driver brought us directly back to the hotel after our long day of sightseeing in the capital.' The past participle 'ramené' comes from 'ramener' (to bring back).",
+  "difficulty": "B1",
+  "source": "Tourist transportation",
+  "tags": ["tourism", "transportation", "travel"],
+  "timeCreated": 1737291480,
+  "verified": "claude"
+}

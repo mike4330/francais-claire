@@ -10,7 +10,7 @@
     "durs"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'dur' (hard/difficult) - the masculine singular form agreeing with 'travail' (masculine singular). The complete sentence means: 'This work is really hard, but I am determined to finish it before the end of the week.' The adjective must agree in gender and number with the noun it modifies.",
+  "explanation": "The text states '<em>Ce travail est vraiment dur, mais je suis déterminé à le terminer avant la fin de la semaine.</em>' - 'This work is really hard, but I am determined to finish it before the end of the week.' The correct answer is 'dur' (hard/difficult) - the masculine singular form agreeing with 'travail' (masculine singular).",
   "difficulty": "A2",
   "source": "Work Challenge",
   "tags": [
@@ -18,5 +18,6 @@
     "difficulty",
     "determination"
   ],
-  "timeCreated": 1751550300
+  "timeCreated": 1751550300,
+  "verified": "claude"
 }

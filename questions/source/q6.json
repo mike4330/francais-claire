@@ -10,7 +10,7 @@
     "ferais"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'feras' (future tense of 'faire'). The question asks 'What will you do this weekend?' The future tense is used because the weekend is a future time period.",
+  "explanation": "The text states '<em>Qu'est-ce que tu feras ce weekend ?</em>' - 'What will you do this weekend?' The correct form is 'feras' (future tense of 'faire'), used for future time periods.",
   "difficulty": "A2",
   "source": "Weekend Plans",
   "tags": [
@@ -19,5 +19,6 @@
     "future",
     "conversation"
   ],
-  "timeCreated": 1720051680
+  "timeCreated": 1720051680,
+  "verified": "claude"
 }

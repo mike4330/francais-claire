@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Le jeune homme nettoie relativement sa chambre sale.</em>' - 'The young man cleans his dirty room relatively.' The adjective 'jeune' means young, 'sale' means dirty, and 'relativement' means relatively or to some degree.",
     "difficulty": "A2",
-    "source": "Strategic adjective targeting",
+    "source": "Domestic tasks",
     "tags": ["daily-life", "cleanliness", "young-people"],
-    "timeCreated": 1720714200
+    "timeCreated": 1720714200,
+    "verified": "claude"
 }

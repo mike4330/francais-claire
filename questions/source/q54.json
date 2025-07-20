@@ -10,7 +10,7 @@
     "Go to the library to study for an hour."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'J'irai à la piscine demain matin pour nager une heure' - I will go to the pool tomorrow morning to swim for an hour. 'Irai' is the future tense of 'aller' (to go), and 'piscine' means swimming pool.",
+  "explanation": "The text states '<em>J'irai à la piscine demain matin pour nager une heure</em>' - I will go to the pool tomorrow morning to swim for an hour. 'Irai' is the future tense of 'aller' (to go), and 'piscine' means swimming pool.",
   "difficulty": "A2",
   "source": "Exercise Planning",
   "tags": [
@@ -18,5 +18,7 @@
     "swimming",
     "sports",
     "exercise"
-  ]
+  ],
+  "timeCreated": 1720015200,
+  "verified": "claude"
 }

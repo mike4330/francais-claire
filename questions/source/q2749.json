@@ -1,0 +1,19 @@
+{
+  "id": 2749,
+  "audioText": "Un cri perçant a réveillé tout le quartier à trois heures du matin, provoquant l'intervention immédiate des services d'urgence.",
+  "question": "Un ______ perçant a réveillé tout le quartier à trois heures du matin, provoquant l'intervention immédiate des services d'urgence.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "cri",
+    "bruit",
+    "son",
+    "appel"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Un cri perçant a réveillé tout le quartier à trois heures du matin, provoquant l'intervention immédiate des services d'urgence.</em>' - 'A piercing scream woke up the entire neighborhood at three in the morning, prompting immediate intervention by emergency services.' The noun 'cri' means scream or cry.",
+  "difficulty": "C1",
+  "source": "Emergency neighborhood incident",
+  "tags": ["emergency", "neighborhood", "crisis"],
+  "timeCreated": 1737290520,
+  "verified": "claude"
+}

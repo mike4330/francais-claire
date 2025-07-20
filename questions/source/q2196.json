@@ -1,0 +1,19 @@
+{
+  "id": 2196,
+  "audioText": "Après plusieurs heures de négociation, le directeur a finalement accepté notre proposition de réorganisation complète du département.",
+  "question": "What did the director do after hours of negotiation?",
+  "questionType": "comprehension",
+  "options": [
+    "He finally accepted their reorganization proposal",
+    "He rejected all the suggested changes completely",
+    "He postponed the decision until next week",
+    "He demanded additional documentation first"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Après plusieurs heures de négociation, le directeur a finalement accepté notre proposition de réorganisation complète du département.</em>' - 'After several hours of negotiation, the director finally accepted our complete departmental reorganization proposal.' The past participle 'accepté' comes from 'accepter' (to accept).",
+  "difficulty": "B2",
+  "source": "Business negotiation",
+  "tags": ["business", "negotiation", "management"],
+  "timeCreated": 1737290880,
+  "verified": "claude"
+}

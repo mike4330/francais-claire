@@ -1,0 +1,19 @@
+{
+  "id": 572,
+  "audioText": "Je ramène mes livres à la bibliothèque.",
+  "question": "Je ______ mes livres à la bibliothèque.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "ramène",
+    "ramènes",
+    "ramène",
+    "ramener"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je ramène mes livres à la bibliothèque.</em>' - 'I'm bringing my books back to the library.' The verb 'ramener' means to bring back or take back, and 'ramène' is the first person singular form.",
+  "difficulty": "A2",
+  "source": "Library return visit",
+  "tags": ["library", "books", "education"],
+  "timeCreated": 1737290100,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 568,
+  "audioText": "Elle enlève ses chaussures avant d'entrer.",
+  "question": "What does she remove before entering?",
+  "questionType": "comprehension",
+  "options": [
+    "Her shoes",
+    "Her coat",
+    "Her hat",
+    "Her gloves"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle enlève ses chaussures avant d'entrer.</em>' - 'She removes her shoes before entering.' The verb 'enlever' means to remove or take off, and 'chaussures' means shoes.",
+  "difficulty": "A2",
+  "source": "House etiquette",
+  "tags": ["household", "politeness", "customs"],
+  "timeCreated": 1737287700,
+  "verified": "claude"
+}

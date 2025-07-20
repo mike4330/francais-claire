@@ -1,0 +1,19 @@
+{
+  "id": 570,
+  "audioText": "Pour le petit déjeuner, je prends du café.",
+  "question": "Pour le petit ______, je prends du café.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "déjeuner",
+    "dîner",
+    "goûter",
+    "souper"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Pour le petit déjeuner, je prends du café.</em>' - 'For breakfast, I have coffee.' The expression 'petit déjeuner' means breakfast in French.",
+  "difficulty": "A1",
+  "source": "Morning meal preference",
+  "tags": ["breakfast", "food", "daily-routine"],
+  "timeCreated": 1737288000,
+  "verified": "claude"
+}

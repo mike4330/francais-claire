@@ -10,9 +10,10 @@
         "Le train arrive peut-être dans vingt minutes."
     ],
     "correct": 0,
-    "explanation": "The speaker used 'environ' meaning 'approximately' or 'about'. This indicates the train will arrive in approximately twenty minutes, not exactly, surely, or maybe, but around that time.",
+    "explanation": "The text states '<em>Le train arrive environ dans vingt minutes.</em>' - The train arrives in about twenty minutes. The speaker used 'environ' meaning 'approximately' or 'about'.",
     "difficulty": "A1",
     "source": "Train station announcement",
     "tags": ["transportation", "time", "travel"],
-    "timeCreated": 1720077200
+    "timeCreated": 1720077200,
+    "verified": "claude"
 }

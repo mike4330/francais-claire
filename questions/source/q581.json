@@ -1,0 +1,19 @@
+{
+  "id": 581,
+  "audioText": "Il a couché le bébé dans son lit.",
+  "question": "Il a ______ le bébé dans son lit.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "couché",
+    "réveillé",
+    "nourri",
+    "porté"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a couché le bébé dans son lit.</em>' - 'He put the baby to bed in his crib.' The past participle 'couché' comes from 'coucher' (to put to bed/lay down).",
+  "difficulty": "A2",
+  "source": "Baby care routine",
+  "tags": ["family", "baby-care", "routine"],
+  "timeCreated": 1737291420,
+  "verified": "claude"
+}

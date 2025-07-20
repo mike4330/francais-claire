@@ -1,0 +1,19 @@
+{
+  "id": 571,
+  "audioText": "Il lâche son ballon rouge dans le parc.",
+  "question": "Il ______ son ballon rouge dans le parc.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "lâche",
+    "lâchait",
+    "lâchera",
+    "lâché"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il lâche son ballon rouge dans le parc.</em>' - 'He lets go of his red balloon in the park.' The present tense 'lâche' (lets go/releases) describes the action happening now.",
+  "difficulty": "A2",
+  "source": "Child playing in park",
+  "tags": ["children", "park", "play"],
+  "timeCreated": 1737290040,
+  "verified": "claude"
+}

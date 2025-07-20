@@ -1,0 +1,19 @@
+{
+  "id": 566,
+  "audioText": "Tu as promis de m'aider demain.",
+  "question": "What did you promise to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Help tomorrow",
+    "Call tomorrow",
+    "Visit tomorrow",
+    "Study tomorrow"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu as promis de m'aider demain.</em>' - 'You promised to help me tomorrow.' The verb 'promettre' (to promise) uses the past participle 'promis' in the passé composé.",
+  "difficulty": "A2",
+  "source": "Promise and commitment",
+  "tags": ["promises", "help", "commitment"],
+  "timeCreated": 1737287580,
+  "verified": "claude"
+}

@@ -11,9 +11,10 @@
     "Finalement"
   ],
   "correct": 2,
-  "explanation": "The adverb 'Personnellement' (personally) is used to introduce a personal opinion, which is contrasted with the designer's opinion. The adjective 'blanc' (white) is also featured.",
+  "explanation": "'<em>Personnellement, je trouve que le mur blanc donne une impression d'espace et de lumière</em>' - Personally, I find that the white wall gives an impression of space and light. The adverb 'Personnellement' (personally) introduces a personal opinion.",
   "difficulty": "B2",
   "source": "Gemini CLI",
   "tags": ["design", "opinion", "interior-design"],
-  "timeCreated": 1720181351
+  "timeCreated": 1720181351,
+  "verified": "claude"
 }

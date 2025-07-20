@@ -10,13 +10,13 @@
     "After sixteen months of studies."
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Elle saura parler français couramment après six mois d'études' - She will know how to speak French fluently after six months of studies. 'Saura' is the future tense of 'savoir' (to know/be able to).",
+  "explanation": "'<em>Elle saura parler français couramment après six mois d'études.</em>' - She will know how to speak French fluently after six months of studies. 'Saura' is the future tense of 'savoir' (to know/be able to).",
   "difficulty": "A2",
   "source": "Language Learning Progress",
   "tags": [
     "education",
-    "language-learning",
-    "french-language",
-    "fluency"
-  ]
+    "language-learning"
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

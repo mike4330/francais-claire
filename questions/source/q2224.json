@@ -1,0 +1,19 @@
+{
+  "id": 2224,
+  "audioText": "Cette enfant amenée à califourchon sur les épaules de son père découvre le monde avec émerveillement.",
+  "question": "How is the child being carried by her father?",
+  "questionType": "comprehension",
+  "options": [
+    "Sitting astride on his shoulders",
+    "Held carefully in his arms",
+    "Walking beside him holding hands",
+    "Riding in a small stroller"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette enfant amenée à califourchon sur les épaules de son père découvre le monde avec émerveillement.</em>' - This child brought astride on her father's shoulders discovers the world with wonder. 'Amenée' is the past participle of 'amener' (to bring), and 'à califourchon' means 'astride' or 'straddling'.",
+  "difficulty": "B2",
+  "source": "Family outing",
+  "tags": ["family", "children", "discovery"],
+  "timeCreated": 1737294720,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2207,
+  "audioText": "Ce vendeur est vraiment malin, il arrive toujours à convaincre ses clients d'acheter plus que ce qu'ils avaient prévu initialement.",
+  "question": "What does the text say about the salesperson?",
+  "questionType": "comprehension",
+  "options": [
+    "He's really clever at convincing clients to buy more",
+    "He's honest about what customers actually need",
+    "He's struggling to make any sales this month",
+    "He's new and still learning sales techniques"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce vendeur est vraiment malin, il arrive toujours à convaincre ses clients d'acheter plus que ce qu'ils avaient prévu initialement.</em>' - 'This salesperson is really clever, he always manages to convince his clients to buy more than they had initially planned.' The adjective 'malin' means clever, smart, or cunning.",
+  "difficulty": "B1",
+  "source": "Sales techniques",
+  "tags": ["business", "sales", "persuasion"],
+  "timeCreated": 1737292320,
+  "verified": "claude"
+}

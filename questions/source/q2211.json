@@ -1,0 +1,19 @@
+{
+  "id": 2211,
+  "audioText": "Vous choisissez toujours les meilleurs restaurants pour vos dîners d'affaires importants.",
+  "question": "Vous ______ toujours les meilleurs restaurants pour vos dîners d'affaires importants.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "choisissez",
+    "réservez",
+    "recommandez",
+    "trouvez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous choisissez toujours les meilleurs restaurants pour vos dîners d'affaires importants.</em>' - You always choose the best restaurants for your important business dinners. The verb 'choisissez' is the second person plural present form of 'choisir' (to choose).",
+  "difficulty": "B1",
+  "source": "Business dining",
+  "tags": ["business", "restaurants", "decision-making"],
+  "timeCreated": 1737293100,
+  "verified": "claude"
+}

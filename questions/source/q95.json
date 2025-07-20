@@ -10,7 +10,7 @@
     "Le café est du ce côté."
   ],
   "correct": 0,
-  "explanation": "The exact phrase heard was 'Le café est de ce côté.' - The café is on this side. Note the pronunciation of 'côté' (side) and the preposition 'de ce' (on this).",
+  "explanation": "The exact phrase heard was '<em>Le café est de ce côté.</em>' - The café is on this side. Note the pronunciation of 'côté' (side) and the preposition 'de ce' (on this).",
   "difficulty": "A1",
   "source": "Directions - Daily Life",
   "tags": [
@@ -18,5 +18,6 @@
     "location",
     "daily-life"
   ],
-  "timeCreated": 1751301025
+  "timeCreated": 1751301025,
+  "verified": "claude"
 }

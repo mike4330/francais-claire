@@ -10,9 +10,10 @@
         "Whether they can share their files"
     ],
     "correct": 0,
-    "explanation": "The question asks 'Es-tu sûr de vouloir supprimer tous tes fichiers ?' - Are you sure you want to delete all your files? 'Sûr' means sure/certain, asking for confirmation about a potentially destructive action.",
+    "explanation": "The text states '<em>Es-tu sûr de vouloir supprimer tous tes fichiers ?</em>' - 'Are you sure you want to delete all your files?' The adjective 'sûr' means sure/certain, asking for confirmation about a potentially destructive action.",
     "difficulty": "A1",
     "source": "Technology Safety",
     "tags": ["technology", "data", "safety", "confirmation"],
-    "timeCreated": 1720052580
+    "timeCreated": 1720052580,
+    "verified": "claude"
 }

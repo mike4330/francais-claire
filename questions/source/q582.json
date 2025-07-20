@@ -1,0 +1,19 @@
+{
+  "id": 582,
+  "audioText": "Tu choisis toujours les mêmes plats au restaurant.",
+  "question": "Tu ______ toujours les mêmes plats au restaurant.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "choisis",
+    "commandes",
+    "refuses",
+    "goûtes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu choisis toujours les mêmes plats au restaurant.</em>' - 'You always choose the same dishes at the restaurant.' The verb 'choisis' is the second person singular present form of 'choisir' (to choose).",
+  "difficulty": "A2",
+  "source": "Restaurant habits",
+  "tags": ["restaurant", "food", "habits"],
+  "timeCreated": 1737291540,
+  "verified": "claude"
+}

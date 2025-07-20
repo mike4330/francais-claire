@@ -1,0 +1,19 @@
+{
+  "id": 584,
+  "audioText": "Elle choisit ses vêtements avec soin.",
+  "question": "Elle ______ ses vêtements avec soin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "choisit",
+    "achète",
+    "porte",
+    "range"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle choisit ses vêtements avec soin.</em>' - 'She chooses her clothes carefully.' The verb 'choisit' is the third person singular present form of 'choisir' (to choose).",
+  "difficulty": "A2",
+  "source": "Personal style and clothing",
+  "tags": ["clothing", "style", "care"],
+  "timeCreated": 1737291720,
+  "verified": "claude"
+}

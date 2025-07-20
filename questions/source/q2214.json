@@ -1,0 +1,19 @@
+{
+  "id": 2214,
+  "audioText": "Ce problème commun affecte de nombreuses familles dans notre quartier depuis plusieurs mois.",
+  "question": "What kind of problem affects many families in the neighborhood?",
+  "questionType": "comprehension",
+  "options": [
+    "A common problem that has lasted for several months",
+    "A rare issue that appeared recently",
+    "A temporary difficulty from last week",
+    "An unusual situation affecting few people"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce problème commun affecte de nombreuses familles dans notre quartier depuis plusieurs mois.</em>' - This common problem affects many families in our neighborhood for several months. The adjective 'commun' means common, shared, or widespread.",
+  "difficulty": "B1",
+  "source": "Community issues",
+  "tags": ["community", "neighborhood", "social-issues"],
+  "timeCreated": 1737293640,
+  "verified": "claude"
+}

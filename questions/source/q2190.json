@@ -1,0 +1,19 @@
+{
+  "id": 2190,
+  "audioText": "Ce film d'horreur était vraiment affreux, je n'ai pas pu le regarder jusqu'à la fin.",
+  "question": "Ce film d'horreur était vraiment ______, je n'ai pas pu le regarder jusqu'à la fin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "affreux",
+    "affreuse",
+    "effrayant",
+    "terrible"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce film d'horreur était vraiment affreux, je n'ai pas pu le regarder jusqu'à la fin.</em>' - 'This horror film was really awful, I couldn't watch it to the end.' The adjective 'affreux' (awful/dreadful) agrees with the masculine noun 'film'.",
+  "difficulty": "B1",
+  "source": "Movie review discussion",
+  "tags": ["cinema", "horror", "opinions"],
+  "timeCreated": 1737287880,
+  "verified": "claude"
+}

@@ -11,16 +11,14 @@
     "La vie moderne nous oblige parfois à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.' Les distracteurs testent 'développement' vs 'épanouissement', 'permet' vs 'oblige', et 'parfois' vs 'souvent'.",
+  "explanation": "La phrase exacte était '<em>La vie moderne nous oblige souvent à faire des choix difficiles entre notre carrière professionnelle et notre épanouissement personnel.</em>' - Modern life often forces us to make difficult choices between our professional career and our personal fulfillment.",
   "difficulty": "B1",
   "source": "Modern Life Philosophy",
   "tags": [
     "modern-life",
     "career",
-    "personal-development",
-    "choices",
-    "work-life-balance",
-    "vie"
+    "work-life-balance"
   ],
-  "timeCreated": 1751216829
+  "timeCreated": 1751216829,
+  "verified": "claude"
 }

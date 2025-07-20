@@ -1,0 +1,19 @@
+{
+  "id": 589,
+  "audioText": "Cette actrice a un sourire très charmant.",
+  "question": "Cette actrice a un sourire très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "charmant",
+    "triste",
+    "faux",
+    "timide"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette actrice a un sourire très charmant.</em>' - 'This actress has a very charming smile.' The adjective 'charmant' means charming, delightful, or attractive.",
+  "difficulty": "A2",
+  "source": "Celebrity description",
+  "tags": ["entertainment", "description", "personality"],
+  "timeCreated": 1737292260,
+  "verified": "claude"
+}

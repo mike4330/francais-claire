@@ -10,12 +10,13 @@
     "The big house"
   ],
   "correct": 0,
-  "explanation": "The French text says 'Nous sommes près de la main droite' which means 'We are near the right hand.' The conjugate 'sommes' is the first person plural form of être (to be).",
+  "explanation": "The text states '<em>Nous sommes près de la main droite.</em>' - We are near the right hand. The conjugate 'sommes' is the first person plural form of être (to be).",
   "difficulty": "A1",
   "source": "Conjugation practice with être",
   "tags": [
     "body-parts",
     "position"
   ],
-  "timeCreated": 1735489200
+  "timeCreated": 1735489200,
+  "verified": "claude"
 }

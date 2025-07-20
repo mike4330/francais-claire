@@ -1,0 +1,19 @@
+{
+  "id": 2192,
+  "audioText": "Il a menti à ses parents sur ses notes pour éviter leur déception et les conséquences désagréables.",
+  "question": "Why did he lie to his parents about his grades?",
+  "questionType": "comprehension",
+  "options": [
+    "To avoid their disappointment and unpleasant consequences",
+    "To get more money for school supplies",
+    "To impress his friends at school",
+    "To change schools next semester"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a menti à ses parents sur ses notes pour éviter leur déception et les conséquences désagréables.</em>' - 'He lied to his parents about his grades to avoid their disappointment and unpleasant consequences.' The past participle 'menti' (lied) comes from the verb 'mentir'.",
+  "difficulty": "B1",
+  "source": "Student academic struggles",
+  "tags": ["education", "family", "honesty"],
+  "timeCreated": 1737290160,
+  "verified": "claude"
+}

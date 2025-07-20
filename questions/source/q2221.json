@@ -1,0 +1,19 @@
+{
+  "id": 2221,
+  "audioText": "Elle croit fermement que son destin est lié à cette ancienne prophétie découverte dans les archives familiales.",
+  "question": "What does she firmly believe about her destiny?",
+  "questionType": "comprehension",
+  "options": [
+    "It is connected to an ancient prophecy found in family archives",
+    "It depends entirely on her personal choices and efforts",
+    "It will be revealed through dreams and meditation",
+    "It is written in the stars and cannot be changed"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle croit fermement que son destin est lié à cette ancienne prophétie découverte dans les archives familiales.</em>' - She firmly believes that her destiny is linked to this ancient prophecy discovered in the family archives. The noun 'destin' means destiny, fate, or future.",
+  "difficulty": "B2",
+  "source": "Personal beliefs",
+  "tags": ["destiny", "beliefs", "family-history"],
+  "timeCreated": 1737294300,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 594,
+  "audioText": "Il casse toujours ses jouets.",
+  "question": "Il ______ toujours ses jouets.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "casse",
+    "garde",
+    "range",
+    "trouve"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il casse toujours ses jouets.</em>' - He always breaks his toys. The verb 'casse' is the third person singular present form of 'casser' (to break).",
+  "difficulty": "A2",
+  "source": "Child behavior",
+  "tags": ["children", "toys", "behavior"],
+  "timeCreated": 1737292800,
+  "verified": "claude"
+}

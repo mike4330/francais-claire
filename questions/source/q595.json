@@ -1,0 +1,19 @@
+{
+  "id": 595,
+  "audioText": "Tu préfères le thé ou le café ?",
+  "question": "Tu ______ le thé ou le café ?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "préfères",
+    "achètes",
+    "bois",
+    "veux"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu préfères le thé ou le café ?</em>' - Do you prefer tea or coffee? The verb 'préfères' is the second person singular present form of 'préférer' (to prefer).",
+  "difficulty": "A2",
+  "source": "Beverage preferences",
+  "tags": ["drinks", "preferences", "choice"],
+  "timeCreated": 1737292860,
+  "verified": "claude"
+}

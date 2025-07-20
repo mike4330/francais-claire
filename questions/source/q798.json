@@ -10,7 +10,7 @@
     "calme"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'fort' meaning 'strong'. The wind was so strong last night that trees were uprooted in the municipal park. 'Fort' describes the intensity of the wind that caused significant damage.",
+  "explanation": "The text states '<em>Le vent était si fort cette nuit que les arbres ont été déracinés dans le parc municipal.</em>' - 'The wind was so strong last night that trees were uprooted in the municipal park.' The adjective 'fort' means strong and describes the intensity of the wind.",
   "difficulty": "B2",
   "source": "Weather report",
   "tags": [
@@ -18,5 +18,6 @@
     "storms",
     "damage"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

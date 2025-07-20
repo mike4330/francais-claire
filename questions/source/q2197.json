@@ -1,0 +1,19 @@
+{
+  "id": 2197,
+  "audioText": "Le technicien a enlevé l'ancien équipement défaillant pour installer le nouveau système informatique plus performant.",
+  "question": "What did the technician do with the old equipment?",
+  "questionType": "comprehension",
+  "options": [
+    "He removed the faulty old equipment",
+    "He repaired the existing system components",
+    "He upgraded the current software only",
+    "He relocated it to another department"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le technicien a enlevé l'ancien équipement défaillant pour installer le nouveau système informatique plus performant.</em>' - 'The technician removed the old faulty equipment to install the new, more efficient computer system.' The past participle 'enlevé' comes from 'enlever' (to remove/take away).",
+  "difficulty": "B1",
+  "source": "Technical maintenance",
+  "tags": ["technology", "maintenance", "workplace"],
+  "timeCreated": 1737291060,
+  "verified": "claude"
+}

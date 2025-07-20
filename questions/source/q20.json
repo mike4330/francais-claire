@@ -10,7 +10,7 @@
     "Nous rentrons à la maison demain après le dîner."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Nous rentrons à la maison ce soir après le dîner</em>' - We're coming home tonight after dinner. 'Rentrons' is the first person plural form of 'rentrer' (to return home). The distractors test meal confusion (déjeuner), verb choice (rester), and time confusion (demain).",
+  "explanation": "The text states '<em>Nous rentrons à la maison ce soir après le dîner</em>' - We're coming home tonight after dinner. 'Rentrons' is the first person plural form of 'rentrer' (to return home).",
   "difficulty": "A2",
   "source": "Evening plans",
   "tags": [
@@ -18,5 +18,6 @@
     "home",
     "dinner"
   ],
-  "timeCreated": 1704415800
+  "timeCreated": 1704415800,
+  "verified": "claude"
 }

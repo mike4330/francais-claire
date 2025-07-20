@@ -1,0 +1,19 @@
+{
+  "id": 609,
+  "audioText": "Il coupe carrément trop de légumes.",
+  "question": "Il coupe ______ trop de légumes.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "carrément",
+    "doucement",
+    "rarement",
+    "jamais"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il coupe carrément trop de légumes.</em>' - He's definitely cutting too many vegetables. 'Coupe' is the third person singular of 'couper' (to cut), and 'carrément' means 'definitely' or 'clearly'.",
+  "difficulty": "A2",
+  "source": "Kitchen preparation",
+  "tags": ["cooking", "vegetables", "kitchen"],
+  "timeCreated": 1737294420,
+  "verified": "claude"
+}

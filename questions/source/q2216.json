@@ -1,0 +1,19 @@
+{
+  "id": 2216,
+  "audioText": "Ce comportement méchant envers les animaux du parc révèle un manque total d'éducation.",
+  "question": "What does the mean behavior toward park animals reveal?",
+  "questionType": "comprehension",
+  "options": [
+    "A total lack of education",
+    "A temporary bad mood",
+    "A misunderstanding about animals",
+    "A fear of wild creatures"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce comportement méchant envers les animaux du parc révèle un manque total d'éducation.</em>' - This mean behavior toward park animals reveals a total lack of education. 'Méchant' means mean/nasty and 'total' means total/complete.",
+  "difficulty": "B2",
+  "source": "Animal welfare",
+  "tags": ["animals", "behavior", "education"],
+  "timeCreated": 1737293760,
+  "verified": "claude"
+}

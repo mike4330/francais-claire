@@ -1,0 +1,19 @@
+{
+  "id": 587,
+  "audioText": "Ce petit chat est vraiment mignon.",
+  "question": "Ce petit chat est vraiment ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "mignon",
+    "méchant",
+    "grand",
+    "sale"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce petit chat est vraiment mignon.</em>' - 'This little cat is really cute.' The adjective 'mignon' means cute or adorable, typically used for small animals or children.",
+  "difficulty": "A2",
+  "source": "Pet description",
+  "tags": ["pets", "description", "animals"],
+  "timeCreated": 1737292020,
+  "verified": "claude"
+}

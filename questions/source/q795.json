@@ -10,7 +10,7 @@
     "It reached a historic low of 0.2% thanks to government policies"
   ],
   "correct": 1,
-  "explanation": "The text states 'Le taux de chômage a baissé de 0,2 point... atteignant 7,3% de la population active' - the unemployment rate fell by 0.2 percentage points, reaching 7.3% of the active population. This improvement is explained by job creation in the service sector.",
+  "explanation": "The text states '<em>Le taux de chômage a baissé de 0,2 point au dernier trimestre, atteignant 7,3% de la population active. Cette amélioration s'explique principalement par la création d'emplois dans le secteur des services.</em>' - 'The unemployment rate fell by 0.2 percentage points in the last quarter, reaching 7.3% of the active population. This improvement is mainly explained by job creation in the service sector.'",
   "difficulty": "B2",
   "source": "French Economic News",
   "tags": [
@@ -20,5 +20,7 @@
     "employment",
     "services",
     "economic-indicators"
-  ]
+  ],
+  "timeCreated": 1720051200,
+  "verified": "claude"
 }

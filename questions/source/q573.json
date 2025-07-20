@@ -1,0 +1,19 @@
+{
+  "id": 573,
+  "audioText": "Mon collègue anglais parle trois langues.",
+  "question": "Mon collègue ______ parle trois langues.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "anglais",
+    "anglaise",
+    "anglaises",
+    "american"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon collègue anglais parle trois langues.</em>' - 'My English colleague speaks three languages.' The adjective 'anglais' (English) agrees with the masculine noun 'collègue'.",
+  "difficulty": "A2",
+  "source": "International workplace",
+  "tags": ["workplace", "languages", "nationality"],
+  "timeCreated": 1737290340,
+  "verified": "claude"
+}

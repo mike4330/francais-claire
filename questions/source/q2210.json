@@ -1,0 +1,19 @@
+{
+  "id": 2210,
+  "audioText": "Vous recevez beaucoup de courrier électronique chaque matin pour votre travail administratif.",
+  "question": "What do you receive every morning for your administrative work?",
+  "questionType": "comprehension",
+  "options": [
+    "A lot of electronic mail",
+    "Important phone calls from clients",
+    "Various printed documents",
+    "Weekly progress reports"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous recevez beaucoup de courrier électronique chaque matin pour votre travail administratif.</em>' - You receive a lot of electronic mail every morning for your administrative work. The verb 'recevez' is the second person plural present form of 'recevoir' (to receive).",
+  "difficulty": "B1",
+  "source": "Office communication",
+  "tags": ["communication", "email", "daily-routine"],
+  "timeCreated": 1737293040,
+  "verified": "claude"
+}

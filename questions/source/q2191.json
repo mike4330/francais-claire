@@ -1,0 +1,19 @@
+{
+  "id": 2191,
+  "audioText": "L'existence de cette espèce rare d'oiseau fascine les biologistes du monde entier.",
+  "question": "What fascinates biologists worldwide?",
+  "questionType": "comprehension",
+  "options": [
+    "The existence of this rare bird species",
+    "The migration patterns of common birds",
+    "The feeding habits of forest animals",
+    "The reproduction cycle of marine life"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'existence de cette espèce rare d'oiseau fascine les biologistes du monde entier.</em>' - 'The existence of this rare bird species fascinates biologists worldwide.' The noun 'existence' refers to the fact that this species exists or lives.",
+  "difficulty": "B2",
+  "source": "Scientific research topic",
+  "tags": ["science", "biology", "animals"],
+  "timeCreated": 1737287940,
+  "verified": "claude"
+}

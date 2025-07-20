@@ -1,0 +1,19 @@
+{
+  "id": 588,
+  "audioText": "Mon chien est très fidèle à notre famille.",
+  "question": "Mon chien est très ______ à notre famille.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fidèle",
+    "méchant",
+    "indifférent",
+    "peureux"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon chien est très fidèle à notre famille.</em>' - 'My dog is very faithful to our family.' The adjective 'fidèle' means faithful, loyal, or devoted.",
+  "difficulty": "A2",
+  "source": "Pet loyalty",
+  "tags": ["pets", "family", "loyalty"],
+  "timeCreated": 1737292200,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 576,
+  "audioText": "Calmez-vous, tout va bien se passer.",
+  "question": "______-vous, tout va bien se passer.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Calmez",
+    "Réveillez",
+    "Dépêchez",
+    "Reposez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Calmez-vous, tout va bien se passer.</em>' - 'Calm down, everything will be fine.' The imperative form 'Calmez' is the second person plural command form of 'calmer' (to calm).",
+  "difficulty": "A2",
+  "source": "Reassurance and comfort",
+  "tags": ["emotions", "reassurance", "advice"],
+  "timeCreated": 1737290820,
+  "verified": "claude"
+}

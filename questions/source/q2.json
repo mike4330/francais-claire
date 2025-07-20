@@ -10,7 +10,7 @@
     "attende"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'attendais' (imperfect tense of 'attendre'). The imperfect expresses a continuous action in the past: 'I was waiting for the bus for twenty minutes.'",
+  "explanation": "The text states '<em>J'attendais le bus depuis vingt minutes.</em>' - 'I was waiting for the bus for twenty minutes.' The correct form is 'attendais' (imperfect tense of 'attendre'), expressing a continuous action in the past.",
   "difficulty": "A2",
   "source": "Public Transportation",
   "tags": [
@@ -18,5 +18,6 @@
     "waiting",
     "routine"
   ],
-  "timeCreated": 1720051200
+  "timeCreated": 1720051200,
+  "verified": "claude"
 }

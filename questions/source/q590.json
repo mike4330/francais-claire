@@ -1,0 +1,19 @@
+{
+  "id": 590,
+  "audioText": "Il est jaloux de son frère qui a réussi ses études.",
+  "question": "Il est ______ de son frère qui a réussi ses études.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "jaloux",
+    "fier",
+    "content",
+    "heureux"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il est jaloux de son frère qui a réussi ses études.</em>' - 'He is jealous of his brother who succeeded in his studies.' The adjective 'jaloux' means jealous or envious.",
+  "difficulty": "A2",
+  "source": "Family dynamics",
+  "tags": ["family", "emotions", "education"],
+  "timeCreated": 1737292440,
+  "verified": "claude"
+}

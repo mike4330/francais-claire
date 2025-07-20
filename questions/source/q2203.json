@@ -1,0 +1,19 @@
+{
+  "id": 2203,
+  "audioText": "La vieille affiche publicitaire a été enlevée du mur par les employés municipaux pour faire place aux nouvelles informations administratives.",
+  "question": "What happened to the old advertising poster?",
+  "questionType": "comprehension",
+  "options": [
+    "It was removed from the wall by municipal employees",
+    "It was repaired and updated with new information",
+    "It was moved to a different location downtown",
+    "It was covered with transparent protective material"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La vieille affiche publicitaire a été enlevée du mur par les employés municipaux pour faire place aux nouvelles informations administratives.</em>' - 'The old advertising poster was removed from the wall by municipal employees to make room for new administrative information.' The past participle 'enlevée' agrees with the feminine noun 'affiche' and comes from 'enlever' (to remove).",
+  "difficulty": "B2",
+  "source": "Municipal maintenance",
+  "tags": ["administration", "maintenance", "public-space"],
+  "timeCreated": 1737291840,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2199,
+  "audioText": "Elle reverra sûrement son ancien professeur de musique lors de la cérémonie de remise des diplômes du conservatoire.",
+  "question": "When will she likely see her former music teacher again?",
+  "questionType": "comprehension",
+  "options": [
+    "At the conservatory graduation ceremony",
+    "During her next private music lesson",
+    "At the annual school concert performance",
+    "When visiting the music school library"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle reverra sûrement son ancien professeur de musique lors de la cérémonie de remise des diplômes du conservatoire.</em>' - 'She will surely see her former music teacher again at the conservatory graduation ceremony.' The future form 'reverra' comes from 'revoir' (to see again).",
+  "difficulty": "B2",
+  "source": "Musical education reunion",
+  "tags": ["education", "music", "ceremony"],
+  "timeCreated": 1737291180,
+  "verified": "claude"
+}

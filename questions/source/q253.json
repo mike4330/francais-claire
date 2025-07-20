@@ -14,5 +14,6 @@
     "difficulty": "A2",
     "source": "Winter weather",
     "tags": ["snow", "weather", "winter"],
-    "timeCreated": 1720442700
+    "timeCreated": 1720442700,
+    "verified": "claude"
 }

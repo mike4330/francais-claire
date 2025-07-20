@@ -10,9 +10,10 @@
         "étrange"
     ],
     "correct": 0,
-    "explanation": "The correct word is 'juste' (fair/just). The sentence means 'This decision seems fair and equitable to everyone.' 'Juste' expresses fairness and righteousness in decision-making.",
+    "explanation": "'<em>Cette décision me semble juste et équitable pour tous.</em>' - This decision seems fair and equitable to everyone. The correct word is 'juste' (fair/just).",
     "difficulty": "A1",
     "source": "Business Fairness",
     "tags": ["business", "fairness", "decisions", "equity"],
-    "timeCreated": 1720052640
+    "timeCreated": 1720052640,
+    "verified": "claude"
 }

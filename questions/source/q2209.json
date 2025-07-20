@@ -1,0 +1,19 @@
+{
+  "id": 2209,
+  "audioText": "Ce restaurant est fameux pour ses desserts au chocolat qui attirent des visiteurs de toute la région depuis plus de vingt ans.",
+  "question": "What is this restaurant famous for?",
+  "questionType": "comprehension",
+  "options": [
+    "Its chocolate desserts that attract regional visitors",
+    "Its innovative vegetarian menu options",
+    "Its live music performances every weekend",
+    "Its historic building and traditional architecture"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce restaurant est fameux pour ses desserts au chocolat qui attirent des visiteurs de toute la région depuis plus de vingt ans.</em>' - 'This restaurant is famous for its chocolate desserts that have attracted visitors from the entire region for over twenty years.' The adjective 'fameux' means famous, renowned, or well-known.",
+  "difficulty": "B1",
+  "source": "Local reputation",
+  "tags": ["restaurant", "reputation", "desserts"],
+  "timeCreated": 1737292500,
+  "verified": "claude"
+}

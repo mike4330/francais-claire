@@ -10,15 +10,13 @@
     "Je veux ma parte de gâteau."
   ],
   "correct": 0,
-  "explanation": "The exact phrase was 'Je veux ma part du gâteau.' - I want my share/piece of the cake. The word 'part' means share or portion, and 'du' is the contraction of 'de le'.",
+  "explanation": "The exact phrase was '<em>Je veux ma part du gâteau.</em>' - I want my share/piece of the cake. The word 'part' means share or portion, and 'du' is the contraction of 'de le'.",
   "difficulty": "A2",
   "source": "Food Sharing",
   "tags": [
     "food",
-    "sharing",
-    "cake",
-    "possession",
-    "portions"
+    "sharing"
   ],
-  "timeCreated": 1751326308
+  "timeCreated": 1751326308,
+  "verified": "claude"
 }

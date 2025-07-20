@@ -1,0 +1,19 @@
+{
+  "id": 2198,
+  "audioText": "Elle s'est réveillée très tôt ce matin pour préparer son examen important de fin d'année universitaire.",
+  "question": "When did she wake up this morning?",
+  "questionType": "comprehension",
+  "options": [
+    "Very early to prepare for her important exam",
+    "Late because she forgot about the test",
+    "At her usual time for regular classes",
+    "In the afternoon after studying all night"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle s'est réveillée très tôt ce matin pour préparer son examen important de fin d'année universitaire.</em>' - 'She woke up very early this morning to prepare for her important end-of-year university exam.' The past participle 'réveillée' agrees with the feminine subject and comes from 'réveiller' (to wake up).",
+  "difficulty": "B1",
+  "source": "Student preparation",
+  "tags": ["education", "exams", "preparation"],
+  "timeCreated": 1737291120,
+  "verified": "claude"
+}

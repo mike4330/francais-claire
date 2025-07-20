@@ -1,0 +1,19 @@
+{
+  "id": 2195,
+  "audioText": "Le guide touristique nous a amené dans un magnifique château historique pour découvrir l'architecture médiévale.",
+  "question": "Who brought them to the historic castle?",
+  "questionType": "comprehension",
+  "options": [
+    "The tour guide",
+    "The hotel manager",
+    "The bus driver",
+    "The local historian"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le guide touristique nous a amené dans un magnifique château historique pour découvrir l'architecture médiévale.</em>' - 'The tour guide brought us to a magnificent historic castle to discover medieval architecture.' The past participle 'amené' comes from 'amener' (to bring/take someone somewhere).",
+  "difficulty": "B1",
+  "source": "Tourist excursion",
+  "tags": ["tourism", "history", "architecture"],
+  "timeCreated": 1737290760,
+  "verified": "claude"
+}

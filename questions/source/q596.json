@@ -1,0 +1,19 @@
+{
+  "id": 596,
+  "audioText": "J'ai imaginé cette histoire hier soir.",
+  "question": "J'ai ______ cette histoire hier soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "imaginé",
+    "écrit",
+    "lu",
+    "raconté"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai imaginé cette histoire hier soir.</em>' - I imagined this story last night. The past participle 'imaginé' comes from the verb 'imaginer' (to imagine).",
+  "difficulty": "A2",
+  "source": "Creative thinking",
+  "tags": ["creativity", "storytelling", "imagination"],
+  "timeCreated": 1737292920,
+  "verified": "claude"
+}

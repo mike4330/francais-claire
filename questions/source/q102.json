@@ -10,16 +10,10 @@
     "The moon appears during the day"
   ],
   "correct": 0,
-  "explanation": "The sentence 'La lune brille dans le ciel nocturne' means 'The moon shines in the night sky.' This introduces basic astronomy vocabulary: 'lune' (moon), 'brille' (shines), 'ciel' (sky), and 'nocturne' (night/nighttime).",
+  "explanation": "The text states '<em>La lune brille dans le ciel nocturne.</em>' - 'The moon shines in the night sky.' This introduces basic astronomy vocabulary: 'lune' (moon), 'brille' (shines), 'ciel' (sky), and 'nocturne' (night/nighttime).",
   "difficulty": "A2",
   "source": "Popular Science - Astronomy",
-  "tags": [
-    "astronomy",
-    "space",
-    "moon",
-    "night",
-    "sky",
-    "science"
-  ],
-  "timeCreated": 1751331355
+  "tags": ["astronomy", "nature", "night"],
+  "timeCreated": 1751331355,
+  "verified": "claude"
 }

@@ -1,0 +1,19 @@
+{
+  "id": 569,
+  "audioText": "Les feuilles tombent en automne.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Les feuilles tombent en automne.",
+    "Les feuilles tombent en hiver.",
+    "Les fleurs tombent en automne.",
+    "Les fruits tombent en automne."
+  ],
+  "correct": 0,
+  "explanation": "The exact phrase was '<em>Les feuilles tombent en automne.</em>' - 'The leaves fall in autumn.' This describes the natural seasonal change when trees shed their leaves.",
+  "difficulty": "A2",
+  "source": "Seasonal nature description",
+  "tags": ["nature", "seasons", "autumn"],
+  "timeCreated": 1737287760,
+  "verified": "claude"
+}

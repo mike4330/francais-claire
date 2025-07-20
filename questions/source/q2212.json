@@ -1,0 +1,19 @@
+{
+  "id": 2212,
+  "audioText": "Vous chantez souvent sous la douche le matin avant de partir au bureau.",
+  "question": "What do you often do in the shower before going to the office?",
+  "questionType": "comprehension",
+  "options": [
+    "Sing in the morning",
+    "Listen to music loudly",
+    "Practice speaking exercises",
+    "Think about work problems"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous chantez souvent sous la douche le matin avant de partir au bureau.</em>' - You often sing in the shower in the morning before leaving for the office. The verb 'chantez' is the second person plural present form of 'chanter' (to sing).",
+  "difficulty": "B1",
+  "source": "Morning routine",
+  "tags": ["morning-routine", "singing", "daily-habits"],
+  "timeCreated": 1737293160,
+  "verified": "claude"
+}

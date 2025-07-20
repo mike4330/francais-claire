@@ -10,12 +10,14 @@
     "donnerais"
   ],
   "correct": 0,
-  "explanation": "Le mot manquant est 'donneras'. La phrase complète est 'Tu donneras ton cadeau d'anniversaire à ta sœur demain matin.' - You will give your birthday gift to your sister tomorrow morning. 'Donneras' is the second person singular future tense of 'donner'.",
+  "explanation": "The text states '<em>Tu donneras ton cadeau d'anniversaire à ta sœur demain matin.</em>' - 'You will give your birthday gift to your sister tomorrow morning.' 'Donneras' is the second person singular future tense of 'donner'.",
   "difficulty": "A2",
   "source": "Family Gift Giving",
   "tags": [
     "family",
     "gifts",
     "birthday"
-  ]
+  ],
+  "timeCreated": 1720051200,
+  "verified": "claude"
 }

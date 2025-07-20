@@ -1,0 +1,19 @@
+{
+  "id": 597,
+  "audioText": "Vous cassez trop souvent vos lunettes.",
+  "question": "Vous ______ trop souvent vos lunettes.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "cassez",
+    "portez",
+    "nettoyez",
+    "cherchez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous cassez trop souvent vos lunettes.</em>' - You break your glasses too often. The verb 'cassez' is the second person plural present form of 'casser' (to break).",
+  "difficulty": "A2",
+  "source": "Daily problems",
+  "tags": ["accessories", "problems", "frequency"],
+  "timeCreated": 1737292980,
+  "verified": "claude"
+}

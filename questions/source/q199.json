@@ -10,9 +10,10 @@
         "ancien"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'dernier' meaning 'last' or 'latest'. In this context, 'mon dernier film préféré' means 'my latest favorite film' - the most recent film that became their favorite.",
+    "explanation": "The text states '<em>J'ai vu mon dernier film préféré hier soir.</em>' - I saw my latest favorite film last night. The correct answer is 'dernier' meaning 'last' or 'latest'.",
     "difficulty": "A2",
     "source": "Entertainment discussion",
     "tags": ["entertainment", "movies", "preferences"],
-    "timeCreated": 1720077400
+    "timeCreated": 1720077400,
+    "verified": "claude"
 }

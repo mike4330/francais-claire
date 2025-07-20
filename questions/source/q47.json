@@ -10,13 +10,13 @@
     "Tu verras de beaux paysages pendant ton séjour en Provence."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Tu verras de beaux paysages pendant ton voyage en Provence.' - You will see beautiful landscapes during your trip to Provence. Note the future tense 'verras' and the distinction between 'voyage' (trip) and 'séjour' (stay).",
+  "explanation": "La phrase exacte était '<em>Tu verras de beaux paysages pendant ton voyage en Provence.</em>' - You will see beautiful landscapes during your trip to Provence. Note the future tense 'verras' and the distinction between 'voyage' (trip) and 'séjour' (stay).",
   "difficulty": "A2",
   "source": "Travel Planning",
   "tags": [
     "travel",
-    "provence",
-    "landscape",
     "tourism"
-  ]
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

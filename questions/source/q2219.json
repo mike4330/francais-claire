@@ -1,0 +1,19 @@
+{
+  "id": 2219,
+  "audioText": "Le roman policier raconte l'histoire d'un meurtre mystérieux dans un petit village de montagne isolé.",
+  "question": "What does the detective novel tell the story of?",
+  "questionType": "comprehension",
+  "options": [
+    "A mysterious murder in an isolated mountain village",
+    "A romantic adventure in a coastal town",
+    "A family reunion in a big city",
+    "A treasure hunt in an ancient castle"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le roman policier raconte l'histoire d'un meurtre mystérieux dans un petit village de montagne isolé.</em>' - The detective novel tells the story of a mysterious murder in a small isolated mountain village. The noun 'meurtre' means murder or killing.",
+  "difficulty": "B1",
+  "source": "Literature genre",
+  "tags": ["books", "mystery", "stories"],
+  "timeCreated": 1737294180,
+  "verified": "claude"
+}

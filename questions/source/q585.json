@@ -1,0 +1,19 @@
+{
+  "id": 585,
+  "audioText": "Je revois souvent mes notes avant l'examen.",
+  "question": "Je ______ souvent mes notes avant l'examen.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "revois",
+    "perds",
+    "oublie",
+    "déchire"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je revois souvent mes notes avant l'examen.</em>' - 'I often review my notes before the exam.' The verb 'revois' is the first person singular present form of 'revoir' (to review/see again).",
+  "difficulty": "A2",
+  "source": "Study habits",
+  "tags": ["education", "study", "preparation"],
+  "timeCreated": 1737291780,
+  "verified": "claude"
+}

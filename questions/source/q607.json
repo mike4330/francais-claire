@@ -1,0 +1,19 @@
+{
+  "id": 607,
+  "audioText": "Mon père boit une bière froide.",
+  "question": "Mon père boit une ______ froide.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "bière",
+    "eau",
+    "limonade",
+    "soupe"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon père boit une bière froide.</em>' - My father drinks a cold beer. The noun 'bière' means beer.",
+  "difficulty": "A2",
+  "source": "Family drinks",
+  "tags": ["drinks", "family", "beverages"],
+  "timeCreated": 1737294060,
+  "verified": "claude"
+}

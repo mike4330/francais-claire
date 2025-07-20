@@ -1,0 +1,19 @@
+{
+  "id": 2200,
+  "audioText": "Tu mens constamment à tes parents sur tes résultats scolaires et ils commencent à s'inquiéter de tes comportements étranges.",
+  "question": "What does the person constantly do to their parents?",
+  "questionType": "comprehension",
+  "options": [
+    "Lies about their school results",
+    "Tells them everything honestly",
+    "Asks for help with homework",
+    "Shows them perfect grades"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu mens constamment à tes parents sur tes résultats scolaires et ils commencent à s'inquiéter de tes comportements étranges.</em>' - 'You constantly lie to your parents about your school results and they're starting to worry about your strange behaviors.' The verb 'mens' is the second person singular present form of 'mentir' (to lie).",
+  "difficulty": "B1",
+  "source": "Family relationships and honesty",
+  "tags": ["family", "education", "honesty"],
+  "timeCreated": 1737291360,
+  "verified": "claude"
+}
