@@ -1,0 +1,19 @@
+{
+  "id": 2274,
+  "audioText": "Le quartier juif de cette ancienne cité méditerranéenne conserve une architecture remarquable et des synagogues historiques qui témoignent de siècles de présence culturelle.",
+  "question": "What does the Jewish quarter of this Mediterranean city preserve?",
+  "questionType": "comprehension",
+  "options": [
+    "Remarkable architecture and historic synagogues testifying to centuries of cultural presence",
+    "Modern commercial centers and contemporary residential buildings",
+    "Ancient Roman ruins and classical archaeological remains",
+    "Traditional markets and artisanal workshops from the Ottoman period"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le quartier juif de cette ancienne cité méditerranéenne conserve une architecture remarquable et des synagogues historiques qui témoignent de siècles de présence culturelle.</em>' - The Jewish quarter of this ancient Mediterranean city preserves remarkable architecture and historic synagogues that testify to centuries of cultural presence. 'Juif' means Jewish, relating to Jewish people or culture.",
+  "difficulty": "B2",
+  "source": "Cultural heritage",
+  "tags": ["heritage", "architecture", "culture"],
+  "timeCreated": 1737418800,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2265,
+  "audioText": "Ce criminel de guerre a finalement été pardonné après des décennies de controverses juridiques et de débats éthiques intenses dans la société civile.",
+  "question": "What happened to the war criminal after decades of debate?",
+  "questionType": "comprehension",
+  "options": [
+    "He was finally pardoned after intense legal controversies and ethical debates",
+    "He was sentenced to life imprisonment following new evidence",
+    "He was extradited to face trial in international courts",
+    "He was placed under house arrest pending further investigation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce criminel de guerre a finalement été pardonné après des décennies de controverses juridiques et de débats éthiques intenses dans la société civile.</em>' - This war criminal was finally pardoned after decades of legal controversies and intense ethical debates in civil society. 'Pardonné' is the past participle of 'pardonner' (to pardon, to forgive).",
+  "difficulty": "B2",
+  "source": "War justice",
+  "tags": ["justice", "war", "ethics"],
+  "timeCreated": 1737417780,
+  "verified": "claude"
+}

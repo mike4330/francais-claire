@@ -1,0 +1,19 @@
+{
+  "id": 663,
+  "audioText": "Il est censé arriver demain.",
+  "question": "Il est ______ arriver demain.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "censé",
+    "content",
+    "prêt",
+    "fatigué"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il est censé arriver demain.</em>' - He is supposed to arrive tomorrow. 'Censé' means supposed to, expected to, or meant to.",
+  "difficulty": "A2",
+  "source": "Expected arrival",
+  "tags": ["expectations", "arrival", "schedule"],
+  "timeCreated": 1737418260,
+  "verified": "claude"
+}

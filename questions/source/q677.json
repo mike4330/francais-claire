@@ -1,0 +1,19 @@
+{
+  "id": 677,
+  "audioText": "Cette feuille de papier est blanche.",
+  "question": "Cette ______ de papier est blanche.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "feuille",
+    "boîte",
+    "page",
+    "carte"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette feuille de papier est blanche.</em>' - This sheet of paper is white. 'Feuille' means sheet or leaf, here referring to a piece of paper.",
+  "difficulty": "A2",
+  "source": "Paper description",
+  "tags": ["paper", "color", "materials"],
+  "timeCreated": 1737419520,
+  "verified": "claude"
+}

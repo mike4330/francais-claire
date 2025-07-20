@@ -1,0 +1,19 @@
+{
+  "id": 2250,
+  "audioText": "L'atmosphère devient particulièrement humide pendant les mois d'été dans cette région tropicale où la pluie est fréquente.",
+  "question": "When does the atmosphere become particularly humid in this region?",
+  "questionType": "comprehension",
+  "options": [
+    "During the summer months when rain is frequent",
+    "During the winter season when temperatures drop",
+    "During the spring period when flowers bloom",
+    "During the autumn months when leaves fall"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'atmosphère devient particulièrement humide pendant les mois d'été dans cette région tropicale où la pluie est fréquente.</em>' - The atmosphere becomes particularly humid during the summer months in this tropical region where rain is frequent. 'Humide' means humid, moist, or damp.",
+  "difficulty": "B2",
+  "source": "Weather description",
+  "tags": ["weather", "climate", "tropical"],
+  "timeCreated": 1737415680,
+  "verified": "claude"
+}

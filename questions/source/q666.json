@@ -1,0 +1,19 @@
+{
+  "id": 666,
+  "audioText": "Son histoire était très marrant.",
+  "question": "Son histoire était très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "marrant",
+    "triste",
+    "ennuyeux",
+    "sérieux"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son histoire était très marrant.</em>' - His story was very funny. 'Marrant' means funny, amusing, or entertaining (informal).",
+  "difficulty": "A2",
+  "source": "Story reaction",
+  "tags": ["humor", "stories", "entertainment"],
+  "timeCreated": 1737418440,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 645,
+  "audioText": "Tu tournes trop vite dans cette rue.",
+  "question": "Tu ______ trop vite dans cette rue.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "tournes",
+    "marches",
+    "cours",
+    "roules"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu tournes trop vite dans cette rue.</em>' - You turn too fast on this street. 'Tournes' is the second person singular present form of 'tourner' (to turn).",
+  "difficulty": "A2",
+  "source": "Driving advice",
+  "tags": ["driving", "speed", "safety"],
+  "timeCreated": 1737416040,
+  "verified": "claude"
+}

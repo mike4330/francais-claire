@@ -1,0 +1,19 @@
+{
+  "id": 2236,
+  "audioText": "Mon grand-père adorait raconter des histoires fascinantes de son époque pendant les longues soirées d'hiver près de la cheminée.",
+  "question": "What did the grandfather love to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Tell fascinating stories from his era during long winter evenings by the fireplace",
+    "Read classical literature aloud to the entire family",
+    "Play traditional card games with visiting neighbors",
+    "Teach traditional crafts and skills to younger generations"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon grand-père adorait raconter des histoires fascinantes de son époque pendant les longues soirées d'hiver près de la cheminée.</em>' - My grandfather loved to tell fascinating stories from his era during long winter evenings by the fireplace. 'Adorait' is the third person singular imperfect form of 'adorer' (to love).",
+  "difficulty": "B1",
+  "source": "Family traditions",
+  "tags": ["family", "stories", "traditions"],
+  "timeCreated": 1737296660,
+  "verified": "claude"
+}

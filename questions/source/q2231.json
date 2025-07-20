@@ -1,0 +1,19 @@
+{
+  "id": 2231,
+  "audioText": "Elle revoit ses anciens amis d'université lors de réunions annuelles organisées dans la capitale pour maintenir les liens.",
+  "question": "When does she see her old university friends again?",
+  "questionType": "comprehension",
+  "options": [
+    "At annual reunions organized in the capital to maintain connections",
+    "During regular weekend visits to their home cities",
+    "Only at special occasions like weddings and births",
+    "Through monthly video calls and social media"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle revoit ses anciens amis d'université lors de réunions annuelles organisées dans la capitale pour maintenir les liens.</em>' - She sees her old university friends again at annual reunions organized in the capital to maintain connections. 'Revoit' is the third person singular present form of 'revoir' (to see again).",
+  "difficulty": "B2",
+  "source": "University friendships",
+  "tags": ["friendship", "university", "reunions"],
+  "timeCreated": 1737295920,
+  "verified": "claude"
+}

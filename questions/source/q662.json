@@ -1,0 +1,19 @@
+{
+  "id": 662,
+  "audioText": "C'est un problème très commun.",
+  "question": "C'est un problème très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "commun",
+    "rare",
+    "unique",
+    "spécial"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>C'est un problème très commun.</em>' - It's a very common problem. 'Commun' means common, usual, or widespread.",
+  "difficulty": "A2",
+  "source": "Problem frequency",
+  "tags": ["problems", "frequency", "commonality"],
+  "timeCreated": 1737418200,
+  "verified": "claude"
+}

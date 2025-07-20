@@ -1,0 +1,19 @@
+{
+  "id": 619,
+  "audioText": "Tu ressembles beaucoup à ta sœur.",
+  "question": "Tu ______ beaucoup à ta sœur.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "ressembles",
+    "parles",
+    "penses",
+    "joues"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu ressembles beaucoup à ta sœur.</em>' - You look a lot like your sister. 'Ressembles' is the second person singular present form of 'ressembler' (to resemble/look like).",
+  "difficulty": "A2",
+  "source": "Family resemblance",
+  "tags": ["family", "appearance", "similarity"],
+  "timeCreated": 1737296000,
+  "verified": "claude"
+}

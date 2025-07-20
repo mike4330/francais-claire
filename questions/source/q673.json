@@ -1,0 +1,19 @@
+{
+  "id": 673,
+  "audioText": "Il était enchanté par ce cadeau.",
+  "question": "Il était ______ par ce cadeau.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "enchanté",
+    "déçu",
+    "surpris",
+    "inquiet"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il était enchanté par ce cadeau.</em>' - He was delighted by this gift. 'Enchanté' means delighted, pleased, or enchanted.",
+  "difficulty": "A2",
+  "source": "Gift reaction",
+  "tags": ["gifts", "happiness", "reaction"],
+  "timeCreated": 1737419280,
+  "verified": "claude"
+}

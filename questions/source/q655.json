@@ -1,0 +1,19 @@
+{
+  "id": 655,
+  "audioText": "Il a reconnu son erreur.",
+  "question": "Il a ______ son erreur.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "reconnu",
+    "caché",
+    "répété",
+    "oublié"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a reconnu son erreur.</em>' - He recognized his mistake. 'Reconnu' is the past participle of 'reconnaître' (to recognize, to acknowledge).",
+  "difficulty": "A2",
+  "source": "Mistake acknowledgment",
+  "tags": ["honesty", "self-reflection", "growth"],
+  "timeCreated": 1737417420,
+  "verified": "claude"
+}

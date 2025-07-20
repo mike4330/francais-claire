@@ -10,9 +10,10 @@
         "Cette tristesse profonde affecte sa vie sociale et mérite qu'on lui accorde du temps pour guérir."
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir</em>' - This deep sadness affects her daily life and deserves that we give her time to heal. 'Profonde' means 'deep', targeting missing adjective with sadness/vie themes. The distractors test word confusion (espace), intensity confusion (légère), and context confusion (sociale).",
+    "explanation": "The text states '<em>Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir</em>' - This deep sadness affects her daily life and deserves that we give her time to heal. 'Profonde' means 'deep', describing the intensity of sadness.",
     "difficulty": "B1",
     "source": "Emotional support",
-    "tags": ["sadness", "vie", "healing", "emotions"],
-    "timeCreated": 1736105520
+    "tags": ["emotions", "mental-health", "healing", "support"],
+    "timeCreated": 1736105520,
+    "verified": "claude"
 }

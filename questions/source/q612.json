@@ -1,0 +1,19 @@
+{
+  "id": 612,
+  "audioText": "Tu te tais pendant le film.",
+  "question": "Tu te ______ pendant le film.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "tais",
+    "lèves",
+    "promènes",
+    "reposes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu te tais pendant le film.</em>' - You stay quiet during the movie. 'Tais' is the second person singular present form of 'se taire' (to be quiet).",
+  "difficulty": "A2",
+  "source": "Cinema behavior",
+  "tags": ["cinema", "behavior", "silence"],
+  "timeCreated": 1737295200,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2257,
+  "audioText": "La porte d'entrée principale a été violemment frappée par la tempête qui a causé des dommages considérables à toute la façade du bâtiment.",
+  "question": "What was violently struck by the storm?",
+  "questionType": "comprehension",
+  "options": [
+    "The main entrance door, causing considerable damage to the building facade",
+    "The roof structure, leading to water infiltration problems",
+    "The windows on the upper floors, breaking most of the glass",
+    "The parking area, damaging several vehicles parked outside"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La porte d'entrée principale a été violemment frappée par la tempête qui a causé des dommages considérables à toute la façade du bâtiment.</em>' - The main entrance door was violently struck by the storm which caused considerable damage to the entire building facade. 'Frappée' is the feminine past participle of 'frapper' (to strike, to hit).",
+  "difficulty": "B1",
+  "source": "Storm damage",
+  "tags": ["weather", "damage", "building"],
+  "timeCreated": 1737416940,
+  "verified": "claude"
+}

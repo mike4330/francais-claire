@@ -1,0 +1,19 @@
+{
+  "id": 637,
+  "audioText": "Il regarde d'un air fixe.",
+  "question": "Il regarde d'un air ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fixe",
+    "content",
+    "mobile",
+    "joyeux"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il regarde d'un air fixe.</em>' - He looks with a fixed stare. 'Fixe' means fixed, steady, or unmoving - describing an intense, unwavering gaze.",
+  "difficulty": "A2",
+  "source": "Behavior observation",
+  "tags": ["behavior", "observation", "expression"],
+  "timeCreated": 1737415320,
+  "verified": "claude"
+}

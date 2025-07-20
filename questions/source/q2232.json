@@ -1,0 +1,19 @@
+{
+  "id": 2232,
+  "audioText": "Ces deux architectures contemporaines se ressemblent étrangement malgré leurs origines géographiques complètement différentes.",
+  "question": "What is remarkable about these two contemporary architectures?",
+  "questionType": "comprehension",
+  "options": [
+    "They strangely resemble each other despite completely different geographical origins",
+    "They were designed by the same famous international architect",
+    "They use identical materials imported from the same region",
+    "They were built during the same historical period"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces deux architectures contemporaines se ressemblent étrangement malgré leurs origines géographiques complètement différentes.</em>' - These two contemporary architectures strangely resemble each other despite their completely different geographical origins. 'Ressemblent' is the third person plural present form of 'se ressembler' (to resemble each other).",
+  "difficulty": "B2",
+  "source": "Architectural comparison",
+  "tags": ["architecture", "comparison", "geography"],
+  "timeCreated": 1737296420,
+  "verified": "claude"
+}

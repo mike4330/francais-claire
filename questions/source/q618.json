@@ -1,0 +1,19 @@
+{
+  "id": 618,
+  "audioText": "Les enfants chantent une belle chanson.",
+  "question": "Les enfants ______ une belle chanson.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "chantent",
+    "écoutent",
+    "lisent",
+    "écrivent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les enfants chantent une belle chanson.</em>' - The children sing a beautiful song. 'Chantent' is the third person plural present form of 'chanter' (to sing).",
+  "difficulty": "A2",
+  "source": "Children's activity",
+  "tags": ["children", "music", "singing"],
+  "timeCreated": 1737295560,
+  "verified": "claude"
+}

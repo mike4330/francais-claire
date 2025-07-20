@@ -10,7 +10,7 @@
     "The company made enormous profits thanks to its old marketing strategy"
   ],
   "correct": 0,
-  "explanation": "The text states 'L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing' - The company made enormous profits this year thanks to its new marketing strategy. 'Énormes' means 'enormous' or 'huge'.",
+  "explanation": "The text states '<em>L'entreprise a fait des profits énormes cette année grâce à sa nouvelle stratégie marketing</em>' - The company made enormous profits this year thanks to its new marketing strategy. 'Énormes' means 'enormous' or 'huge'.",
   "difficulty": "B2",
   "source": "Business report",
   "tags": [
@@ -18,5 +18,6 @@
     "profits",
     "marketing"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

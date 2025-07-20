@@ -1,0 +1,19 @@
+{
+  "id": 671,
+  "audioText": "Cette voiture est vraiment moche.",
+  "question": "Cette voiture est vraiment ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "moche",
+    "belle",
+    "rapide",
+    "chère"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette voiture est vraiment moche.</em>' - This car is really ugly. 'Moche' means ugly, unattractive, or unsightly.",
+  "difficulty": "A2",
+  "source": "Vehicle appearance",
+  "tags": ["vehicles", "appearance", "opinion"],
+  "timeCreated": 1737419160,
+  "verified": "claude"
+}

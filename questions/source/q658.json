@@ -1,0 +1,19 @@
+{
+  "id": 658,
+  "audioText": "Vous trompez votre adversaire au jeu.",
+  "question": "Vous ______ votre adversaire au jeu.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "trompez",
+    "aidez",
+    "cherchez",
+    "regardez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous trompez votre adversaire au jeu.</em>' - You deceive your opponent in the game. 'Trompez' is the second person plural present form of 'tromper' (to deceive, to trick).",
+  "difficulty": "A2",
+  "source": "Game strategy",
+  "tags": ["games", "strategy", "competition"],
+  "timeCreated": 1737417600,
+  "verified": "claude"
+}

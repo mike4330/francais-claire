@@ -1,0 +1,19 @@
+{
+  "id": 643,
+  "audioText": "Il a remis le livre.",
+  "question": "Il a ______ le livre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "remis",
+    "pris",
+    "lu",
+    "acheté"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a remis le livre.</em>' - He handed back the book. 'Remis' is the past participle of 'remettre' (to hand back, to give back, to return).",
+  "difficulty": "A2",
+  "source": "Book return",
+  "tags": ["books", "return", "library"],
+  "timeCreated": 1737415920,
+  "verified": "claude"
+}

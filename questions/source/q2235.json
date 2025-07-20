@@ -1,0 +1,19 @@
+{
+  "id": 2235,
+  "audioText": "Tu adorerais certainement cette exposition d'art contemporain qui présente des œuvres innovantes d'artistes émergents du monde entier.",
+  "question": "What would the person certainly love?",
+  "questionType": "comprehension",
+  "options": [
+    "A contemporary art exhibition featuring innovative works by emerging international artists",
+    "A classical music concert performed by renowned symphonic orchestras",
+    "A historical documentary about ancient civilizations and cultures",
+    "A culinary festival showcasing traditional recipes from various regions"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu adorerais certainement cette exposition d'art contemporain qui présente des œuvres innovantes d'artistes émergents du monde entier.</em>' - You would certainly love this contemporary art exhibition that presents innovative works by emerging artists from around the world. 'Adorerais' is the second person singular conditional form of 'adorer' (to love).",
+  "difficulty": "B2",
+  "source": "Art appreciation",
+  "tags": ["art", "exhibitions", "culture"],
+  "timeCreated": 1737296600,
+  "verified": "claude"
+}

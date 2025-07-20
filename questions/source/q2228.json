@@ -1,0 +1,19 @@
+{
+  "id": 2228,
+  "audioText": "Les anciennes traditions culturelles disparaissent progressivement face à la modernisation rapide de la société contemporaine.",
+  "question": "What is happening to ancient cultural traditions?",
+  "questionType": "comprehension",
+  "options": [
+    "They are progressively disappearing due to rapid modernization",
+    "They are being carefully preserved by cultural institutions",
+    "They are adapting and evolving with modern times",
+    "They are becoming more popular among young people"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les anciennes traditions culturelles disparaissent progressivement face à la modernisation rapide de la société contemporaine.</em>' - Ancient cultural traditions are progressively disappearing in the face of rapid modernization of contemporary society. 'Disparaissent' is the third person plural present form of 'disparaître' (to disappear).",
+  "difficulty": "B2",
+  "source": "Cultural change",
+  "tags": ["culture", "tradition", "modernization"],
+  "timeCreated": 1737295740,
+  "verified": "claude"
+}

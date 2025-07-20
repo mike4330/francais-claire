@@ -1,0 +1,19 @@
+{
+  "id": 2273,
+  "audioText": "Ce soldat lâche a abandonné ses camarades au moment crucial de la bataille décisive qui devait déterminer l'issue de cette guerre longue et sanglante.",
+  "question": "What did the cowardly soldier do during the decisive battle?",
+  "questionType": "comprehension",
+  "options": [
+    "Abandoned his comrades at the crucial moment that would determine the war's outcome",
+    "Led a strategic retreat to preserve the lives of his unit",
+    "Coordinated reinforcements from nearby allied positions",
+    "Provided medical assistance to wounded fighters on the battlefield"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce soldat lâche a abandonné ses camarades au moment crucial de la bataille décisive qui devait déterminer l'issue de cette guerre longue et sanglante.</em>' - This cowardly soldier abandoned his comrades at the crucial moment of the decisive battle that was to determine the outcome of this long and bloody war. 'Lâche' means cowardly, coward, or lacking courage.",
+  "difficulty": "B1",
+  "source": "Military cowardice",
+  "tags": ["military", "courage", "betrayal"],
+  "timeCreated": 1737418740,
+  "verified": "claude"
+}

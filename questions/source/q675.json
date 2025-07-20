@@ -1,0 +1,19 @@
+{
+  "id": 675,
+  "audioText": "Cette vendeuse est toujours aimable.",
+  "question": "Cette vendeuse est toujours ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "aimable",
+    "occupée",
+    "fatiguée",
+    "pressée"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette vendeuse est toujours aimable.</em>' - This saleswoman is always kind. 'Aimable' means kind, friendly, or pleasant.",
+  "difficulty": "A2",
+  "source": "Shop service",
+  "tags": ["shopping", "service", "kindness"],
+  "timeCreated": 1737419400,
+  "verified": "claude"
+}

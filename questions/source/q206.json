@@ -11,9 +11,10 @@
         "Toujours"
     ],
     "correct": 0,
-    "explanation": "'D'abord' means 'first' or 'firstly', indicating the initial step in a sequence.",
+    "explanation": "The text states '<em>D'abord, mélangez les ingrédients, puis ajoutez l'eau.</em>' - First, mix the ingredients, then add the water. 'D'abord' means 'first' or 'firstly', indicating the initial step in a sequence.",
     "difficulty": "A2",
     "source": "Gemini-generated",
     "tags": ["cooking", "instructions"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

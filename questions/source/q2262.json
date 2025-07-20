@@ -1,0 +1,19 @@
+{
+  "id": 2262,
+  "audioText": "La mariée a été tendrement embrassée par tous les membres de sa famille lors de cette cérémonie émouvante qui restera gravée dans les mémoires.",
+  "question": "What happened to the bride during the emotional ceremony?",
+  "questionType": "comprehension",
+  "options": [
+    "She was tenderly kissed by all her family members",
+    "She received congratulations from distant relatives",
+    "She was presented with traditional family heirlooms",
+    "She was blessed by religious leaders and elders"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La mariée a été tendrement embrassée par tous les membres de sa famille lors de cette cérémonie émouvante qui restera gravée dans les mémoires.</em>' - The bride was tenderly kissed by all the members of her family during this emotional ceremony that will remain engraved in memories. 'Embrassée' is the feminine past participle of 'embrasser' (to kiss, to embrace).",
+  "difficulty": "B2",
+  "source": "Wedding ceremony",
+  "tags": ["wedding", "family", "emotion"],
+  "timeCreated": 1737417240,
+  "verified": "claude"
+}

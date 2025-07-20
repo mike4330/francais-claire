@@ -1,0 +1,19 @@
+{
+  "id": 651,
+  "audioText": "Il reconnaît ses erreurs rapidement.",
+  "question": "Il ______ ses erreurs rapidement.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "reconnaît",
+    "cache",
+    "répète",
+    "évite"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il reconnaît ses erreurs rapidement.</em>' - He recognizes his mistakes quickly. 'Reconnaît' is the third person singular present form of 'reconnaître' (to recognize, to acknowledge).",
+  "difficulty": "A2",
+  "source": "Self-awareness",
+  "tags": ["honesty", "mistakes", "recognition"],
+  "timeCreated": 1737416760,
+  "verified": "claude"
+}

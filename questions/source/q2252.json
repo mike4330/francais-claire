@@ -1,0 +1,19 @@
+{
+  "id": 2252,
+  "audioText": "Le médecin remettra le patient sur pied grâce à un traitement innovant qui devrait considérablement améliorer sa condition physique.",
+  "question": "What will the doctor do for the patient?",
+  "questionType": "comprehension",
+  "options": [
+    "Get the patient back on their feet with innovative treatment",
+    "Prescribe traditional medication for long-term recovery",
+    "Recommend immediate surgery for permanent solution",
+    "Refer the patient to a specialist for second opinion"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le médecin remettra le patient sur pied grâce à un traitement innovant qui devrait considérablement améliorer sa condition physique.</em>' - The doctor will get the patient back on their feet thanks to innovative treatment that should considerably improve their physical condition. 'Remettra' is the third person singular future form of 'remettre' (to put back).",
+  "difficulty": "B2",
+  "source": "Medical treatment",
+  "tags": ["health", "treatment", "recovery"],
+  "timeCreated": 1737416160,
+  "verified": "claude"
+}

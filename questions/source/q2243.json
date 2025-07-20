@@ -1,0 +1,19 @@
+{
+  "id": 2243,
+  "audioText": "Cet homme ivre titubait dangereusement sur le trottoir en sortant du bar local après avoir célébré trop intensément.",
+  "question": "How was the man walking on the sidewalk?",
+  "questionType": "comprehension",
+  "options": [
+    "He was staggering dangerously after drinking too much",
+    "He was walking carefully despite feeling dizzy",
+    "He was moving quickly to avoid being seen",
+    "He was supported by friends helping him home"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet homme ivre titubait dangereusement sur le trottoir en sortant du bar local après avoir célébré trop intensément.</em>' - This drunk man was staggering dangerously on the sidewalk while leaving the local bar after celebrating too intensely. 'Ivre' means drunk or intoxicated.",
+  "difficulty": "B1",
+  "source": "Public safety",
+  "tags": ["alcohol", "safety", "behavior"],
+  "timeCreated": 1737297600,
+  "verified": "claude"
+}

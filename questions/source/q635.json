@@ -1,0 +1,19 @@
+{
+  "id": 635,
+  "audioText": "Je suis enchanté de vous rencontrer.",
+  "question": "Je suis ______ de vous rencontrer.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "enchanté",
+    "fatigué",
+    "inquiet",
+    "pressé"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je suis enchanté de vous rencontrer.</em>' - I am delighted to meet you. 'Enchanté' means delighted, pleased, or enchanted - a polite expression when meeting someone.",
+  "difficulty": "A2",
+  "source": "Social meeting",
+  "tags": ["social", "politeness", "meeting"],
+  "timeCreated": 1737415200,
+  "verified": "claude"
+}

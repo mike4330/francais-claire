@@ -1,0 +1,19 @@
+{
+  "id": 626,
+  "audioText": "Ce chat sauvage vit dans la forêt.",
+  "question": "Ce chat ______ vit dans la forêt.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "sauvage",
+    "domestique",
+    "mignon",
+    "petit"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce chat sauvage vit dans la forêt.</em>' - This wild cat lives in the forest. 'Sauvage' means wild or untamed, the opposite of domestic.",
+  "difficulty": "A2",
+  "source": "Wild animals",
+  "tags": ["animals", "nature", "wilderness"],
+  "timeCreated": 1737297000,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2264,
+  "audioText": "Le célèbre écrivain a été chaleureusement embrassé par ses admirateurs lors de la signature de son dernier roman dans cette petite librairie indépendante.",
+  "question": "What happened to the famous writer during the book signing?",
+  "questionType": "comprehension",
+  "options": [
+    "He was warmly embraced by his admirers in the small independent bookstore",
+    "He was interviewed by journalists about his literary inspiration",
+    "He was presented with awards for his contribution to literature",
+    "He was photographed with local cultural personalities"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le célèbre écrivain a été chaleureusement embrassé par ses admirateurs lors de la signature de son dernier roman dans cette petite librairie indépendante.</em>' - The famous writer was warmly embraced by his admirers during the signing of his latest novel in this small independent bookstore. 'Embrassé' is the past participle of 'embrasser' (to embrace, to kiss).",
+  "difficulty": "B1",
+  "source": "Book signing",
+  "tags": ["literature", "books", "celebrity"],
+  "timeCreated": 1737417720,
+  "verified": "claude"
+}

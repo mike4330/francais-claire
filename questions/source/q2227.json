@@ -1,0 +1,19 @@
+{
+  "id": 2227,
+  "audioText": "Tu acceptes facilement les critiques constructives de tes collègues même quand elles remettent en question tes méthodes habituelles.",
+  "question": "How does the person react to constructive criticism?",
+  "questionType": "comprehension",
+  "options": [
+    "Accepts it easily even when it questions usual methods",
+    "Gets defensive and argues against suggestions",
+    "Only accepts criticism from certain people",
+    "Pretends to listen but ignores the advice"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu acceptes facilement les critiques constructives de tes collègues même quand elles remettent en question tes méthodes habituelles.</em>' - You easily accept constructive criticism from your colleagues even when it questions your usual methods. 'Acceptes' is the second person singular present form of 'accepter' (to accept).",
+  "difficulty": "B2",
+  "source": "Professional development",
+  "tags": ["professional-collaboration", "feedback", "personal-growth"],
+  "timeCreated": 1737295680,
+  "verified": "claude"
+}

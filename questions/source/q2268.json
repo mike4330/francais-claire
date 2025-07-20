@@ -1,0 +1,19 @@
+{
+  "id": 2268,
+  "audioText": "Vous jurez solennellement de respecter les règles de cette ancienne confrérie secrète qui protège des manuscrits précieux depuis des siècles.",
+  "question": "What do you solemnly swear to respect?",
+  "questionType": "comprehension",
+  "options": [
+    "The rules of an ancient secret brotherhood protecting precious manuscripts for centuries",
+    "The traditional customs of medieval craftsmen and their guilds",
+    "The sacred vows of monastic communities in remote monasteries",
+    "The ethical codes of modern archaeological expeditions"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous jurez solennellement de respecter les règles de cette ancienne confrérie secrète qui protège des manuscrits précieux depuis des siècles.</em>' - You solemnly swear to respect the rules of this ancient secret brotherhood that has been protecting precious manuscripts for centuries. 'Jurez' is the second person plural present form of 'jurer' (to swear).",
+  "difficulty": "B2",
+  "source": "Secret society",
+  "tags": ["mystery", "manuscripts", "oath"],
+  "timeCreated": 1737417960,
+  "verified": "claude"
+}

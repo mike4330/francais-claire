@@ -1,0 +1,19 @@
+{
+  "id": 2255,
+  "audioText": "Il paraît très amusé par cette comédie musicale qui mélange habilement humour moderne et traditions théâtrales classiques.",
+  "question": "How does he appear to be affected by the musical comedy?",
+  "questionType": "comprehension",
+  "options": [
+    "Very amused by the skillful blend of modern humor and classical traditions",
+    "Confused by the complex storyline and character development",
+    "Bored by the repetitive songs and predictable plot",
+    "Impressed by the technical aspects and stage production"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il paraît très amusé par cette comédie musicale qui mélange habilement humour moderne et traditions théâtrales classiques.</em>' - He appears very amused by this musical comedy that skillfully blends modern humor and classical theatrical traditions. 'Amusé' is the past participle of 'amuser' (to amuse, to entertain).",
+  "difficulty": "B2",
+  "source": "Theater review",
+  "tags": ["theater", "entertainment", "humor"],
+  "timeCreated": 1737416340,
+  "verified": "claude"
+}

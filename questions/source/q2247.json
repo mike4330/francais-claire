@@ -1,0 +1,19 @@
+{
+  "id": 2247,
+  "audioText": "Cette communauté juive organise des festivités traditionnelles chaque année pour célébrer ses racines culturelles et maintenir ses traditions ancestrales.",
+  "question": "What does this Jewish community organize annually?",
+  "questionType": "comprehension",
+  "options": [
+    "Traditional festivities to celebrate cultural roots and maintain ancestral traditions",
+    "Educational seminars about contemporary social issues",
+    "Business networking events for professional development",
+    "Charitable fundraising campaigns for international causes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette communauté juive organise des festivités traditionnelles chaque année pour célébrer ses racines culturelles et maintenir ses traditions ancestrales.</em>' - This Jewish community organizes traditional festivities each year to celebrate its cultural roots and maintain its ancestral traditions. 'Juive' means Jewish, referring to people of Jewish faith or culture.",
+  "difficulty": "B1",
+  "source": "Cultural celebration",
+  "tags": ["culture", "tradition", "community"],
+  "timeCreated": 1737415500,
+  "verified": "claude"
+}

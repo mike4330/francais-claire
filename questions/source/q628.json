@@ -1,0 +1,19 @@
+{
+  "id": 628,
+  "audioText": "Ce film était vraiment affreux.",
+  "question": "How was the movie?",
+  "questionType": "comprehension",
+  "options": [
+    "It was really awful",
+    "It was quite good",
+    "It was very exciting",
+    "It was rather boring"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce film était vraiment affreux.</em>' - This movie was really awful. 'Affreux' means awful, terrible, or dreadful.",
+  "difficulty": "A2",
+  "source": "Movie review",
+  "tags": ["cinema", "opinions", "quality"],
+  "timeCreated": 1737297120,
+  "verified": "claude"
+}

@@ -10,12 +10,13 @@
     "A bigger garage"
   ],
   "correct": 0,
-  "explanation": "The French text says 'Il faudrait plus d'argent pour acheter cette belle voiture' which means 'It would be necessary to have more money to buy this beautiful car.' The conjugate 'faudrait' is the conditional form of falloir (to be necessary).",
+  "explanation": "The text states '<em>Il faudrait plus d'argent pour acheter cette belle voiture que nous voulons depuis des années.</em>' - It would be necessary to have more money to buy this beautiful car that we have wanted for years. 'Faudrait' is the conditional form of falloir (to be necessary).",
   "difficulty": "B2",
   "source": "Conditional mood practice with falloir",
   "tags": [
     "necessity",
     "purchases"
   ],
-  "timeCreated": 1735489320
+  "timeCreated": 1735489320,
+  "verified": "claude"
 }

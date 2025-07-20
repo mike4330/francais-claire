@@ -1,0 +1,19 @@
+{
+  "id": 661,
+  "audioText": "Le serveur est très aimable.",
+  "question": "Le serveur est très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "aimable",
+    "rapide",
+    "occupé",
+    "fatigué"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le serveur est très aimable.</em>' - The waiter is very kind. 'Aimable' means kind, friendly, or pleasant.",
+  "difficulty": "A2",
+  "source": "Restaurant service",
+  "tags": ["restaurant", "service", "kindness"],
+  "timeCreated": 1737418140,
+  "verified": "claude"
+}

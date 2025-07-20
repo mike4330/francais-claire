@@ -1,0 +1,19 @@
+{
+  "id": 613,
+  "audioText": "Ce bois coupé servira pour l'hiver.",
+  "question": "What will the cut wood be used for?",
+  "questionType": "comprehension",
+  "options": [
+    "For the winter",
+    "For building a house",
+    "For making furniture",
+    "For selling at market"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce bois coupé servira pour l'hiver.</em>' - This cut wood will be used for winter. 'Coupé' is the past participle of 'couper' (to cut), and 'servira' means 'will serve/be used'.",
+  "difficulty": "A2",
+  "source": "Winter preparation",
+  "tags": ["winter", "wood", "preparation"],
+  "timeCreated": 1737295260,
+  "verified": "claude"
+}

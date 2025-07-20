@@ -10,7 +10,7 @@
     "devraient"
   ],
   "correct": 0,
-  "explanation": "The imperfect tense 'devaient' (were supposed to/had to) is used to describe an ongoing obligation in the past that was not fully completed, as indicated by the request for extensions.",
+  "explanation": "'<em>Les étudiants devaient rendre leurs dissertations avant les vacances mais plusieurs ont demandé une extension de délai.</em>' - The students were supposed to submit their dissertations before vacation but several requested an extension. The imperfect tense 'devaient' (were supposed to/had to) describes an ongoing obligation in the past.",
   "difficulty": "B2",
   "source": "Academic deadline situation with extension requests",
   "tags": [
@@ -20,5 +20,6 @@
     "extensions",
     "obligations"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

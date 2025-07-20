@@ -1,0 +1,19 @@
+{
+  "id": 631,
+  "audioText": "Ce garçon est très malin.",
+  "question": "Ce garçon est très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "malin",
+    "lent",
+    "naïf",
+    "confus"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce garçon est très malin.</em>' - This boy is very clever. 'Malin' means clever, smart, or cunning.",
+  "difficulty": "A2",
+  "source": "Child intelligence",
+  "tags": ["children", "intelligence", "cleverness"],
+  "timeCreated": 1737297300,
+  "verified": "claude"
+}

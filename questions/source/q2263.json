@@ -1,0 +1,19 @@
+{
+  "id": 2263,
+  "audioText": "Vous offrez généreusement votre aide à toutes les familles en difficulté de ce quartier défavorisé où les besoins sociaux sont particulièrement importants.",
+  "question": "What do you generously offer to families in this disadvantaged neighborhood?",
+  "questionType": "comprehension",
+  "options": [
+    "Help to all families in difficulty where social needs are particularly important",
+    "Financial advice for managing household budgets and expenses",
+    "Educational tutoring services for children struggling in school",
+    "Job placement assistance for unemployed community members"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous offrez généreusement votre aide à toutes les familles en difficulté de ce quartier défavorisé où les besoins sociaux sont particulièrement importants.</em>' - You generously offer your help to all families in difficulty in this disadvantaged neighborhood where social needs are particularly important. 'Offrez' is the second person plural present form of 'offrir' (to offer).",
+  "difficulty": "B1",
+  "source": "Community service",
+  "tags": ["community", "help", "social-work"],
+  "timeCreated": 1737417300,
+  "verified": "claude"
+}

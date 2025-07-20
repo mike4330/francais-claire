@@ -1,0 +1,19 @@
+{
+  "id": 670,
+  "audioText": "Mon café est devenu tiède.",
+  "question": "Mon café est devenu ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "tiède",
+    "chaud",
+    "froid",
+    "sucré"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon café est devenu tiède.</em>' - My coffee has become lukewarm. 'Tiède' means lukewarm, tepid, or at room temperature.",
+  "difficulty": "A2",
+  "source": "Drink temperature",
+  "tags": ["drinks", "temperature", "coffee"],
+  "timeCreated": 1737419100,
+  "verified": "claude"
+}

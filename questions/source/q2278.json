@@ -1,0 +1,19 @@
+{
+  "id": 2278,
+  "audioText": "L'avocat examine attentivement chaque dossier juridique complexe pour préparer sa stratégie de défense et identifier les arguments les plus convaincants.",
+  "question": "What does the lawyer carefully examine to prepare their defense strategy?",
+  "questionType": "comprehension",
+  "options": [
+    "Each complex legal file to identify the most convincing arguments",
+    "Previous court decisions and judicial precedents",
+    "Client testimonies and witness statements",
+    "Expert reports and technical documentation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'avocat examine attentivement chaque dossier juridique complexe pour préparer sa stratégie de défense et identifier les arguments les plus convaincants.</em>' - The lawyer carefully examines each complex legal file to prepare their defense strategy and identify the most convincing arguments. 'Dossier' means file, folder, or case documentation.",
+  "difficulty": "B1",
+  "source": "Legal preparation",
+  "tags": ["law", "legal-work", "preparation"],
+  "timeCreated": 1737419760,
+  "verified": "claude"
+}

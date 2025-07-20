@@ -1,0 +1,19 @@
+{
+  "id": 2229,
+  "audioText": "Tu adorais autrefois passer des heures dans cette vieille bibliothèque à parcourir les livres d'histoire ancienne.",
+  "question": "What did the person used to love doing?",
+  "questionType": "comprehension",
+  "options": [
+    "Spending hours in the old library browsing ancient history books",
+    "Writing historical research papers for university",
+    "Teaching history lessons to younger students",
+    "Collecting rare books about ancient civilizations"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu adorais autrefois passer des heures dans cette vieille bibliothèque à parcourir les livres d'histoire ancienne.</em>' - You used to love spending hours in this old library browsing ancient history books. 'Adorais' is the second person singular imperfect form of 'adorer' (to love/adore).",
+  "difficulty": "B1",
+  "source": "Past memories",
+  "tags": ["library", "history", "memories"],
+  "timeCreated": 1737295800,
+  "verified": "claude"
+}

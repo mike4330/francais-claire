@@ -1,0 +1,19 @@
+{
+  "id": 2256,
+  "audioText": "Ces employés refusent catégoriquement de travailler dans des conditions dangereuses sans équipement de protection adéquat pour leur sécurité.",
+  "question": "What do these employees categorically refuse to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Work in dangerous conditions without adequate safety equipment",
+    "Accept overtime hours during weekend periods",
+    "Participate in mandatory training sessions and workshops",
+    "Relocate to different offices in other cities"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces employés refusent catégoriquement de travailler dans des conditions dangereuses sans équipement de protection adéquat pour leur sécurité.</em>' - These employees categorically refuse to work in dangerous conditions without adequate protective equipment for their safety. 'Refusent' is the third person plural present form of 'refuser' (to refuse).",
+  "difficulty": "B1",
+  "source": "Safety protest",
+  "tags": ["safety", "protest", "rights"],
+  "timeCreated": 1737416400,
+  "verified": "claude"
+}

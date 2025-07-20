@@ -1,0 +1,19 @@
+{
+  "id": 633,
+  "audioText": "J'ai perdu mon manteau au cinéma.",
+  "question": "J'ai perdu mon ______ au cinéma.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "manteau",
+    "chapeau",
+    "sac",
+    "téléphone"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai perdu mon manteau au cinéma.</em>' - I lost my coat at the cinema. 'Manteau' means coat, a piece of outerwear worn to keep warm.",
+  "difficulty": "A2",
+  "source": "Lost items",
+  "tags": ["clothing", "cinema", "lost-items"],
+  "timeCreated": 1737298060,
+  "verified": "claude"
+}

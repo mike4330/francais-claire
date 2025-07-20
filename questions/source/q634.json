@@ -1,0 +1,19 @@
+{
+  "id": 634,
+  "audioText": "Il a poussé un cri de joie.",
+  "question": "Il a poussé un ______ de joie.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "cri",
+    "soupir",
+    "rire",
+    "chant"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a poussé un cri de joie.</em>' - He let out a cry of joy. 'Cri' means cry, shout, or scream - a loud vocal expression.",
+  "difficulty": "A2",
+  "source": "Emotional expression",
+  "tags": ["emotions", "joy", "expression"],
+  "timeCreated": 1737298120,
+  "verified": "claude"
+}

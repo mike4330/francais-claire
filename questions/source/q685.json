@@ -1,0 +1,19 @@
+{
+  "id": 685,
+  "audioText": "Le chat lève sa patte droite.",
+  "question": "Le chat lève sa ______ droite.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "patte",
+    "queue",
+    "oreille",
+    "tête"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le chat lève sa patte droite.</em>' - The cat lifts its right paw. 'Patte' means paw, the foot of an animal with claws.",
+  "difficulty": "A2",
+  "source": "Cat behavior",
+  "tags": ["animals", "cats", "behavior"],
+  "timeCreated": 1737420180,
+  "verified": "claude"
+}

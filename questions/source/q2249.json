@@ -1,0 +1,19 @@
+{
+  "id": 2249,
+  "audioText": "Il faut être très prudent en traversant cette route dangereuse car les automobilistes roulent souvent à grande vitesse.",
+  "question": "Why should one be careful when crossing this road?",
+  "questionType": "comprehension",
+  "options": [
+    "Because drivers often travel at high speed",
+    "Because the road surface is slippery and unstable",
+    "Because construction work blocks visibility",
+    "Because pedestrian crossings are poorly marked"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut être très prudent en traversant cette route dangereuse car les automobilistes roulent souvent à grande vitesse.</em>' - One must be very careful when crossing this dangerous road because drivers often travel at high speed. 'Prudent' means careful, cautious, or wise.",
+  "difficulty": "B1",
+  "source": "Road safety",
+  "tags": ["safety", "traffic", "caution"],
+  "timeCreated": 1737415620,
+  "verified": "claude"
+}

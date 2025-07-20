@@ -1,0 +1,19 @@
+{
+  "id": 654,
+  "audioText": "Elle embrasse son chat doucement.",
+  "question": "Elle ______ son chat doucement.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "embrasse",
+    "nourrit",
+    "lave",
+    "brosse"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle embrasse son chat doucement.</em>' - She kisses her cat gently. 'Embrasse' is the third person singular present form of 'embrasser' (to kiss, to embrace).",
+  "difficulty": "A2",
+  "source": "Pet affection",
+  "tags": ["pets", "affection", "animals"],
+  "timeCreated": 1737417360,
+  "verified": "claude"
+}

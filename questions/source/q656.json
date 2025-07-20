@@ -1,0 +1,19 @@
+{
+  "id": 656,
+  "audioText": "L'enfant rit aux éclats devant le spectacle.",
+  "question": "L'enfant ______ aux éclats devant le spectacle.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rit",
+    "pleure",
+    "dort",
+    "mange"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'enfant rit aux éclats devant le spectacle.</em>' - The child laughs heartily at the show. 'Rit' is the third person singular present form of 'rire' (to laugh).",
+  "difficulty": "A2",
+  "source": "Children's entertainment",
+  "tags": ["children", "laughter", "circus"],
+  "timeCreated": 1737417480,
+  "verified": "claude"
+}

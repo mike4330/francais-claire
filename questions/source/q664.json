@@ -1,0 +1,19 @@
+{
+  "id": 664,
+  "audioText": "Cette soupe est tiède.",
+  "question": "Cette soupe est ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "tiède",
+    "chaude",
+    "froide",
+    "salée"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette soupe est tiède.</em>' - This soup is lukewarm. 'Tiède' means lukewarm, tepid, or at room temperature.",
+  "difficulty": "A2",
+  "source": "Food temperature",
+  "tags": ["food", "temperature", "soup"],
+  "timeCreated": 1737418320,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 622,
+  "audioText": "Vous coupez les légumes pour la salade.",
+  "question": "Vous ______ les légumes pour la salade.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "coupez",
+    "lavez",
+    "cuisez",
+    "mangez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous coupez les légumes pour la salade.</em>' - You cut the vegetables for the salad. 'Coupez' is the second person plural present form of 'couper' (to cut).",
+  "difficulty": "A2",
+  "source": "Cooking preparation",
+  "tags": ["cooking", "vegetables", "preparation"],
+  "timeCreated": 1737296180,
+  "verified": "claude"
+}

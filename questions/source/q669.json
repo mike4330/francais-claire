@@ -1,0 +1,19 @@
+{
+  "id": 669,
+  "audioText": "Tu es censé faire tes devoirs.",
+  "question": "Tu es ______ faire tes devoirs.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "censé",
+    "content",
+    "fatigué",
+    "prêt"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu es censé faire tes devoirs.</em>' - You are supposed to do your homework. 'Censé' means supposed to, expected to, or meant to.",
+  "difficulty": "A2",
+  "source": "Homework obligation",
+  "tags": ["education", "homework", "obligation"],
+  "timeCreated": 1737419040,
+  "verified": "claude"
+}

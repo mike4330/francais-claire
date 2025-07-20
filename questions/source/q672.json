@@ -1,0 +1,19 @@
+{
+  "id": 672,
+  "audioText": "Ce spectacle était très marrant.",
+  "question": "Ce spectacle était très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "marrant",
+    "ennuyeux",
+    "long",
+    "cher"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce spectacle était très marrant.</em>' - This show was very funny. 'Marrant' means funny, amusing, or entertaining (informal).",
+  "difficulty": "A2",
+  "source": "Show review",
+  "tags": ["entertainment", "humor", "shows"],
+  "timeCreated": 1737419220,
+  "verified": "claude"
+}

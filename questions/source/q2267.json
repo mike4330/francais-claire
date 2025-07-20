@@ -1,0 +1,19 @@
+{
+  "id": 2267,
+  "audioText": "L'artiste peintre a été officiellement reconnue comme l'une des figures les plus influentes de l'art contemporain par les critiques internationaux.",
+  "question": "How was the painter artist officially recognized?",
+  "questionType": "comprehension",
+  "options": [
+    "As one of the most influential figures in contemporary art by international critics",
+    "As the winner of the prestigious national painting competition",
+    "As the youngest artist ever exhibited in major museums",
+    "As the creator of the most expensive artwork sold this year"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'artiste peintre a été officiellement reconnue comme l'une des figures les plus influentes de l'art contemporain par les critiques internationaux.</em>' - The painter artist was officially recognized as one of the most influential figures in contemporary art by international critics. 'Reconnue' is the feminine past participle of 'reconnaître' (to recognize).",
+  "difficulty": "B1",
+  "source": "Art recognition",
+  "tags": ["art", "recognition", "culture"],
+  "timeCreated": 1737417900,
+  "verified": "claude"
+}

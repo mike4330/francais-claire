@@ -1,0 +1,19 @@
+{
+  "id": 682,
+  "audioText": "Il dessine une croix sur le papier.",
+  "question": "Il dessine une ______ sur le papier.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "croix",
+    "ligne",
+    "étoile",
+    "cercle"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il dessine une croix sur le papier.</em>' - He draws a cross on the paper. 'Croix' means cross, a symbol consisting of two intersecting lines.",
+  "difficulty": "A2",
+  "source": "Drawing activity",
+  "tags": ["drawing", "symbols", "paper"],
+  "timeCreated": 1737420000,
+  "verified": "claude"
+}

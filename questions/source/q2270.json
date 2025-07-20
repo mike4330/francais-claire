@@ -1,0 +1,19 @@
+{
+  "id": 2270,
+  "audioText": "L'homme complètement ivre a été interpellé par la police municipale alors qu'il perturbait l'ordre public sur cette place historique du centre-ville.",
+  "question": "Why was the completely drunk man stopped by police?",
+  "questionType": "comprehension",
+  "options": [
+    "For disturbing public order on a historic city center square",
+    "For driving under the influence in a pedestrian zone",
+    "For vandalizing historic monuments during the night",
+    "For selling illegal substances to tourists"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'homme complètement ivre a été interpellé par la police municipale alors qu'il perturbait l'ordre public sur cette place historique du centre-ville.</em>' - The completely drunk man was stopped by municipal police while he was disturbing public order on this historic square in the city center. 'Ivre' means drunk, intoxicated, or inebriated.",
+  "difficulty": "B1",
+  "source": "Police intervention",
+  "tags": ["police", "public-order", "alcohol"],
+  "timeCreated": 1737418560,
+  "verified": "claude"
+}

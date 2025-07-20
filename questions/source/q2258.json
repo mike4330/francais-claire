@@ -1,0 +1,19 @@
+{
+  "id": 2258,
+  "audioText": "Tu amuses énormément ton public avec tes plaisanteries spontanées et ton talent naturel pour l'improvisation théâtrale qui captive l'audience.",
+  "question": "How does the person entertain their audience?",
+  "questionType": "comprehension",
+  "options": [
+    "With spontaneous jokes and natural talent for theatrical improvisation",
+    "With carefully rehearsed monologues and classical dramatic pieces",
+    "With musical performances and coordinated dance routines",
+    "With magic tricks and elaborate stage illusions"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu amuses énormément ton public avec tes plaisanteries spontanées et ton talent naturel pour l'improvisation théâtrale qui captive l'audience.</em>' - You greatly entertain your audience with your spontaneous jokes and natural talent for theatrical improvisation that captivates the audience. 'Amuses' is the second person singular present form of 'amuser' (to entertain).",
+  "difficulty": "B2",
+  "source": "Performance art",
+  "tags": ["performance", "humor", "theater"],
+  "timeCreated": 1737417000,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 649,
+  "audioText": "Vous amusez les enfants avec vos histoires.",
+  "question": "Vous ______ les enfants avec vos histoires.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "amusez",
+    "enseignez",
+    "réveillez",
+    "cherchez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous amusez les enfants avec vos histoires.</em>' - You entertain the children with your stories. 'Amusez' is the second person plural present form of 'amuser' (to entertain, to amuse).",
+  "difficulty": "A2",
+  "source": "Children entertainment",
+  "tags": ["children", "entertainment", "stories"],
+  "timeCreated": 1737416640,
+  "verified": "claude"
+}

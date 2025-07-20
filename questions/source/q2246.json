@@ -1,0 +1,19 @@
+{
+  "id": 2246,
+  "audioText": "Cette décision administrative représente une véritable connerie qui va compliquer inutilement la vie de tous les citoyens concernés.",
+  "question": "How is the administrative decision characterized?",
+  "questionType": "comprehension",
+  "options": [
+    "As genuine stupidity that will unnecessarily complicate citizens' lives",
+    "As a necessary but unpopular measure for public good",
+    "As a creative solution to a complex bureaucratic problem",
+    "As a temporary measure that will be revised soon"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette décision administrative représente une véritable connerie qui va compliquer inutilement la vie de tous les citoyens concernés.</em>' - This administrative decision represents genuine stupidity that will unnecessarily complicate the lives of all concerned citizens. 'Connerie' is a vulgar term meaning stupidity or nonsense.",
+  "difficulty": "B2",
+  "source": "Political criticism",
+  "tags": ["politics", "criticism", "administration"],
+  "timeCreated": 1737298300,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2279,
+  "audioText": "Sa connaissance approfondie des langues anciennes lui permet de déchiffrer des manuscrits médiévaux que d'autres spécialistes considèrent comme indéchiffrables.",
+  "question": "What does his deep knowledge of ancient languages allow him to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Decipher medieval manuscripts that other specialists consider indecipherable",
+    "Translate contemporary documents into historical dialects",
+    "Teach advanced courses at prestigious universities",
+    "Write authoritative books on linguistic evolution"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa connaissance approfondie des langues anciennes lui permet de déchiffrer des manuscrits médiévaux que d'autres spécialistes considèrent comme indéchiffrables.</em>' - His deep knowledge of ancient languages allows him to decipher medieval manuscripts that other specialists consider indecipherable. 'Connaissance' means knowledge, understanding, or expertise.",
+  "difficulty": "B2",
+  "source": "Academic expertise",
+  "tags": ["academia", "languages", "manuscripts"],
+  "timeCreated": 1737419820,
+  "verified": "claude"
+}

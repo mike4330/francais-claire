@@ -1,0 +1,19 @@
+{
+  "id": 2233,
+  "audioText": "Les athlètes professionnels courent quotidiennement des distances impressionnantes pour maintenir leur condition physique optimale.",
+  "question": "What do professional athletes do daily?",
+  "questionType": "comprehension",
+  "options": [
+    "Run impressive distances to maintain optimal physical condition",
+    "Practice technical skills specific to their sport",
+    "Follow strict dietary regimens supervised by nutritionists",
+    "Attend strategy meetings with their coaching teams"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les athlètes professionnels courent quotidiennement des distances impressionnantes pour maintenir leur condition physique optimale.</em>' - Professional athletes run impressive distances daily to maintain their optimal physical condition. 'Courent' is the third person plural present form of 'courir' (to run).",
+  "difficulty": "B1",
+  "source": "Athletic training",
+  "tags": ["sports", "training", "fitness"],
+  "timeCreated": 1737296480,
+  "verified": "claude"
+}

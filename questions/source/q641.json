@@ -1,0 +1,19 @@
+{
+  "id": 641,
+  "audioText": "Il frappe à la porte.",
+  "question": "Il ______ à la porte.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "frappe",
+    "regarde",
+    "écoute",
+    "touche"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il frappe à la porte.</em>' - He knocks on the door. 'Frappe' is the third person singular present form of 'frapper' (to knock, to hit).",
+  "difficulty": "A2",
+  "source": "Door knocking",
+  "tags": ["home", "arrival", "sound"],
+  "timeCreated": 1737415800,
+  "verified": "claude"
+}

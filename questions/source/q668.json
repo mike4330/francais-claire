@@ -1,0 +1,19 @@
+{
+  "id": 668,
+  "audioText": "Cet homme reste inconnu du public.",
+  "question": "Cet homme reste ______ du public.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "inconnu",
+    "célèbre",
+    "populaire",
+    "aimé"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet homme reste inconnu du public.</em>' - This man remains unknown to the public. 'Inconnu' means unknown, unfamiliar, or unrecognized (masculine form).",
+  "difficulty": "A2",
+  "source": "Public recognition",
+  "tags": ["recognition", "celebrity", "anonymity"],
+  "timeCreated": 1737418980,
+  "verified": "claude"
+}

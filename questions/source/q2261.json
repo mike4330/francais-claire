@@ -1,0 +1,19 @@
+{
+  "id": 2261,
+  "audioText": "La barrière de sécurité a été levée automatiquement grâce au nouveau système électronique installé pour faciliter l'accès des véhicules autorisés.",
+  "question": "How was the security barrier raised?",
+  "questionType": "comprehension",
+  "options": [
+    "Automatically thanks to a new electronic system for authorized vehicles",
+    "Manually by security guards stationed at the entrance",
+    "Remotely by surveillance operators monitoring the area",
+    "Mechanically through a traditional lever and pulley system"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La barrière de sécurité a été levée automatiquement grâce au nouveau système électronique installé pour faciliter l'accès des véhicules autorisés.</em>' - The security barrier was raised automatically thanks to the new electronic system installed to facilitate access for authorized vehicles. 'Levée' is the feminine past participle of 'lever' (to raise, to lift).",
+  "difficulty": "B1",
+  "source": "Security system",
+  "tags": ["security", "technology", "access"],
+  "timeCreated": 1737417180,
+  "verified": "claude"
+}

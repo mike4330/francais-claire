@@ -1,0 +1,19 @@
+{
+  "id": 2245,
+  "audioText": "Les philosophes débattent depuis des siècles de la nature fondamentale de l'existence humaine et de sa signification profonde.",
+  "question": "What have philosophers been debating for centuries?",
+  "questionType": "comprehension",
+  "options": [
+    "The fundamental nature of human existence and its deep meaning",
+    "The best methods for teaching philosophical concepts",
+    "The historical development of different schools of thought",
+    "The practical applications of philosophy in daily life"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les philosophes débattent depuis des siècles de la nature fondamentale de l'existence humaine et de sa signification profonde.</em>' - Philosophers have been debating for centuries the fundamental nature of human existence and its deep meaning. 'Existence' means existence, the state of being alive or real.",
+  "difficulty": "B2",
+  "source": "Philosophical discussion",
+  "tags": ["philosophy", "existence", "meaning"],
+  "timeCreated": 1737298240,
+  "verified": "claude"
+}

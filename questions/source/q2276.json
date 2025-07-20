@@ -1,0 +1,19 @@
+{
+  "id": 2276,
+  "audioText": "Cet ambassadeur étranger maîtrise parfaitement notre langue nationale et comprend avec finesse les subtilités diplomatiques de notre système politique complexe.",
+  "question": "What does this foreign ambassador master perfectly?",
+  "questionType": "comprehension",
+  "options": [
+    "Our national language and understands diplomatic subtleties of our complex political system",
+    "International trade agreements and economic cooperation protocols",
+    "Military strategies and defense coordination between allied nations",
+    "Cultural exchange programs and educational partnership initiatives"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet ambassadeur étranger maîtrise parfaitement notre langue nationale et comprend avec finesse les subtilités diplomatiques de notre système politique complexe.</em>' - This foreign ambassador perfectly masters our national language and understands with finesse the diplomatic subtleties of our complex political system. 'Étranger' means foreign, from another country, or foreigner.",
+  "difficulty": "B1",
+  "source": "Diplomatic skills",
+  "tags": ["diplomacy", "language", "politics"],
+  "timeCreated": 1737418920,
+  "verified": "claude"
+}

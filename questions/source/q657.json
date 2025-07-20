@@ -1,0 +1,19 @@
+{
+  "id": 657,
+  "audioText": "Vous reconnaissez cette mélodie ancienne.",
+  "question": "Vous ______ cette mélodie ancienne.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "reconnaissez",
+    "chantez",
+    "écoutez",
+    "oubliez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous reconnaissez cette mélodie ancienne.</em>' - You recognize this old melody. 'Reconnaissez' is the second person plural present form of 'reconnaître' (to recognize).",
+  "difficulty": "A2",
+  "source": "Music recognition",
+  "tags": ["music", "memory", "nostalgia"],
+  "timeCreated": 1737417540,
+  "verified": "claude"
+}

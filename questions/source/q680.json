@@ -1,0 +1,19 @@
+{
+  "id": 680,
+  "audioText": "J'achète une nouvelle chaussure de sport.",
+  "question": "J'achète une nouvelle ______ de sport.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "chaussure",
+    "chemise",
+    "veste",
+    "robe"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'achète une nouvelle chaussure de sport.</em>' - I'm buying a new sports shoe. 'Chaussure' means shoe, footwear designed for protection and comfort of the feet.",
+  "difficulty": "A2",
+  "source": "Sports shopping",
+  "tags": ["shopping", "sports", "clothing"],
+  "timeCreated": 1737419880,
+  "verified": "claude"
+}

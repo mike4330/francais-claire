@@ -1,0 +1,19 @@
+{
+  "id": 623,
+  "audioText": "Tu trompes ton chien avec ce faux bâton.",
+  "question": "Tu ______ ton chien avec ce faux bâton.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "trompes",
+    "nourris",
+    "promènes",
+    "dresses"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu trompes ton chien avec ce faux bâton.</em>' - You trick your dog with this fake stick. 'Trompes' is the second person singular present form of 'tromper' (to trick/deceive).",
+  "difficulty": "A2",
+  "source": "Pet play",
+  "tags": ["pets", "play", "tricks"],
+  "timeCreated": 1737296240,
+  "verified": "claude"
+}

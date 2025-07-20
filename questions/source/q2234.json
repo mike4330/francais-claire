@@ -1,0 +1,19 @@
+{
+  "id": 2234,
+  "audioText": "Vous frappez délicatement à la porte avant d'entrer dans le bureau du directeur pour éviter de le déranger pendant ses réunions.",
+  "question": "How do you approach the director's office?",
+  "questionType": "comprehension",
+  "options": [
+    "Knock gently at the door to avoid disturbing meetings",
+    "Enter directly without announcement as usual",
+    "Wait outside until someone invites you in",
+    "Send an email first to schedule an appointment"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous frappez délicatement à la porte avant d'entrer dans le bureau du directeur pour éviter de le déranger pendant ses réunions.</em>' - You knock gently at the door before entering the director's office to avoid disturbing him during his meetings. 'Frappez' is the second person plural present form of 'frapper' (to knock).",
+  "difficulty": "B1",
+  "source": "Office etiquette",
+  "tags": ["office", "politeness", "meetings"],
+  "timeCreated": 1737296540,
+  "verified": "claude"
+}

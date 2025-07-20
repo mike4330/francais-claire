@@ -10,12 +10,14 @@
     "seraient"
   ],
   "correct": 0,
-  "explanation": "\"Seront\" is the future tense of \"être\" (to be) for third person plural. The phrase \"demain soir\" (tomorrow evening) indicates future time, requiring the future tense.",
+  "explanation": "The text states '<em>Mes amis seront très contents demain soir.</em>' - My friends will be very happy tomorrow evening. 'Seront' is the future tense of 'être' (to be) for third person plural. The phrase 'demain soir' (tomorrow evening) indicates future time.",
   "difficulty": "A2",
   "source": "Future tense practice with common emotions",
   "tags": [
     "future-plans",
     "emotions",
     "friends"
-  ]
+  ],
+  "timeCreated": 1720200000,
+  "verified": "claude"
 }

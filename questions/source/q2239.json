@@ -1,0 +1,19 @@
+{
+  "id": 2239,
+  "audioText": "Cette proposition commerciale paraît complètement absurde compte tenu des contraintes budgétaires actuelles de notre entreprise.",
+  "question": "How does the commercial proposal appear?",
+  "questionType": "comprehension",
+  "options": [
+    "Completely absurd given current budgetary constraints",
+    "Reasonably feasible with minor adjustments needed",
+    "Highly innovative and worth serious consideration",
+    "Partially acceptable but requiring significant modifications"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette proposition commerciale paraît complètement absurde compte tenu des contraintes budgétaires actuelles de notre entreprise.</em>' - This commercial proposal appears completely absurd given the current budgetary constraints of our company. 'Absurde' means absurd, ridiculous, or nonsensical.",
+  "difficulty": "B2",
+  "source": "Business evaluation",
+  "tags": ["business", "evaluation", "budget"],
+  "timeCreated": 1737297360,
+  "verified": "claude"
+}

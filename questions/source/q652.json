@@ -1,0 +1,19 @@
+{
+  "id": 652,
+  "audioText": "Ces livres intéressent beaucoup les étudiants.",
+  "question": "Ces livres ______ beaucoup les étudiants.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "intéressent",
+    "ennuient",
+    "fatiguent",
+    "inquiètent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces livres intéressent beaucoup les étudiants.</em>' - These books interest the students a lot. 'Intéressent' is the third person plural present form of 'intéresser' (to interest).",
+  "difficulty": "A2",
+  "source": "Student interest",
+  "tags": ["education", "books", "interest"],
+  "timeCreated": 1737416820,
+  "verified": "claude"
+}

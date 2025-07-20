@@ -1,0 +1,19 @@
+{
+  "id": 642,
+  "audioText": "Cette illusion trompe les yeux.",
+  "question": "Cette illusion ______ les yeux.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "trompe",
+    "ferme",
+    "ouvre",
+    "cache"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette illusion trompe les yeux.</em>' - This illusion deceives the eyes. 'Trompe' is the third person singular present form of 'tromper' (to deceive, to trick).",
+  "difficulty": "A2",
+  "source": "Visual illusion",
+  "tags": ["perception", "illusion", "vision"],
+  "timeCreated": 1737415860,
+  "verified": "claude"
+}

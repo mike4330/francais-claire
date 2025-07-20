@@ -1,0 +1,19 @@
+{
+  "id": 650,
+  "audioText": "Elle ressemblait à sa grand-mère.",
+  "question": "Elle ______ à sa grand-mère.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "ressemblait",
+    "téléphonait",
+    "pensait",
+    "parlait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle ressemblait à sa grand-mère.</em>' - She resembled her grandmother. 'Ressemblait' is the third person singular imperfect form of 'ressembler' (to resemble).",
+  "difficulty": "A2",
+  "source": "Family resemblance",
+  "tags": ["family", "appearance", "resemblance"],
+  "timeCreated": 1737416700,
+  "verified": "claude"
+}

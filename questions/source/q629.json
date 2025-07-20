@@ -1,0 +1,19 @@
+{
+  "id": 629,
+  "audioText": "Mon chien est très fidèle.",
+  "question": "Mon chien est très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fidèle",
+    "méchant",
+    "paresseux",
+    "bruyant"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon chien est très fidèle.</em>' - My dog is very faithful. 'Fidèle' means faithful, loyal, or devoted.",
+  "difficulty": "A2",
+  "source": "Pet description",
+  "tags": ["pets", "loyalty", "character-traits"],
+  "timeCreated": 1737297180,
+  "verified": "claude"
+}

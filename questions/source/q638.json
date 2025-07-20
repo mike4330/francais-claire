@@ -1,0 +1,19 @@
+{
+  "id": 638,
+  "audioText": "Ces deux chaises sont semblables.",
+  "question": "Ces deux chaises sont ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "semblables",
+    "différentes",
+    "cassées",
+    "nouvelles"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces deux chaises sont semblables.</em>' - These two chairs are similar. 'Semblables' means similar, alike, or comparable.",
+  "difficulty": "A2",
+  "source": "Object comparison",
+  "tags": ["comparison", "furniture", "similarity"],
+  "timeCreated": 1737415380,
+  "verified": "claude"
+}

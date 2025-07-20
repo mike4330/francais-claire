@@ -1,0 +1,19 @@
+{
+  "id": 2248,
+  "audioText": "L'identité de ce mystérieux visiteur nocturne demeure totalement inconnue malgré toutes les enquêtes menées par les autorités locales.",
+  "question": "What remains unknown despite local investigations?",
+  "questionType": "comprehension",
+  "options": [
+    "The identity of the mysterious nighttime visitor",
+    "The exact time when the incidents occurred",
+    "The motivation behind the strange behavior",
+    "The location where the meetings took place"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'identité de ce mystérieux visiteur nocturne demeure totalement inconnue malgré toutes les enquêtes menées par les autorités locales.</em>' - The identity of this mysterious nighttime visitor remains totally unknown despite all the investigations conducted by local authorities. 'Inconnue' means unknown, unfamiliar, or unidentified.",
+  "difficulty": "B2",
+  "source": "Mystery investigation",
+  "tags": ["mystery", "investigation", "identity"],
+  "timeCreated": 1737415560,
+  "verified": "claude"
+}

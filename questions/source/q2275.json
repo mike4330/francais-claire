@@ -1,0 +1,19 @@
+{
+  "id": 2275,
+  "audioText": "L'origine de cette mystérieuse maladie demeure totalement inconnue malgré des années de recherches approfondies menées par les meilleurs spécialistes internationaux.",
+  "question": "What remains unknown despite years of research?",
+  "questionType": "comprehension",
+  "options": [
+    "The origin of this mysterious disease despite thorough research by international specialists",
+    "The exact treatment protocol for managing patient symptoms",
+    "The geographical distribution patterns across different continents",
+    "The genetic factors that determine individual susceptibility"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'origine de cette mystérieuse maladie demeure totalement inconnue malgré des années de recherches approfondies menées par les meilleurs spécialistes internationaux.</em>' - The origin of this mysterious disease remains totally unknown despite years of thorough research conducted by the best international specialists. 'Inconnue' means unknown, unfamiliar, or unidentified (feminine form).",
+  "difficulty": "B2",
+  "source": "Medical mystery",
+  "tags": ["medicine", "research", "mystery"],
+  "timeCreated": 1737418860,
+  "verified": "claude"
+}

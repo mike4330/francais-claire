@@ -1,0 +1,19 @@
+{
+  "id": 2271,
+  "audioText": "Ce village lointain dans les montagnes reste complètement isolé du monde moderne et ses habitants préservent encore des traditions séculaires authentiques.",
+  "question": "What characterizes this distant mountain village?",
+  "questionType": "comprehension",
+  "options": [
+    "Complete isolation from the modern world while preserving authentic centuries-old traditions",
+    "Advanced technological infrastructure connecting it to major cities",
+    "Tourism development that has transformed local customs",
+    "Economic prosperity based on modern agricultural techniques"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce village lointain dans les montagnes reste complètement isolé du monde moderne et ses habitants préservent encore des traditions séculaires authentiques.</em>' - This distant village in the mountains remains completely isolated from the modern world and its inhabitants still preserve authentic centuries-old traditions. 'Lointain' means distant, remote, or far away.",
+  "difficulty": "B2",
+  "source": "Remote village",
+  "tags": ["geography", "tradition", "isolation"],
+  "timeCreated": 1737418620,
+  "verified": "claude"
+}

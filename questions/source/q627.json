@@ -1,0 +1,19 @@
+{
+  "id": 627,
+  "audioText": "C'est évident qu'il va pleuvoir aujourd'hui.",
+  "question": "C'est ______ qu'il va pleuvoir aujourd'hui.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "évident",
+    "impossible",
+    "surprenant",
+    "rare"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>C'est évident qu'il va pleuvoir aujourd'hui.</em>' - It's obvious that it's going to rain today. 'Évident' means obvious or clear.",
+  "difficulty": "A2",
+  "source": "Weather prediction",
+  "tags": ["weather", "certainty", "prediction"],
+  "timeCreated": 1737297060,
+  "verified": "claude"
+}

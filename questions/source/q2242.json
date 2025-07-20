@@ -1,0 +1,19 @@
+{
+  "id": 2242,
+  "audioText": "Les spectateurs étaient complètement enchantés par cette représentation théâtrale magistrale qui combinait tradition et innovation artistique.",
+  "question": "How did the spectators react to the theatrical performance?",
+  "questionType": "comprehension",
+  "options": [
+    "They were completely enchanted by the masterful combination of tradition and artistic innovation",
+    "They were somewhat disappointed by the lack of modern elements",
+    "They were confused by the complex narrative and staging",
+    "They were impressed mainly by the elaborate costumes and sets"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les spectateurs étaient complètement enchantés par cette représentation théâtrale magistrale qui combinait tradition et innovation artistique.</em>' - The spectators were completely enchanted by this masterful theatrical performance that combined tradition and artistic innovation. 'Enchantés' means enchanted, delighted, or spellbound.",
+  "difficulty": "B2",
+  "source": "Theater performance",
+  "tags": ["theater", "performance", "audience-reaction"],
+  "timeCreated": 1737297540,
+  "verified": "claude"
+}

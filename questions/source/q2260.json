@@ -1,0 +1,19 @@
+{
+  "id": 2260,
+  "audioText": "Tu intéresses particulièrement les chercheurs avec tes théories innovantes sur l'évolution climatique qui pourraient révolutionner notre compréhension scientifique.",
+  "question": "What particularly interests researchers about this person?",
+  "questionType": "comprehension",
+  "options": [
+    "Innovative theories on climate evolution that could revolutionize scientific understanding",
+    "Advanced mathematical models for predicting economic trends",
+    "New archaeological discoveries in ancient civilization sites",
+    "Breakthrough medical research on genetic therapy treatments"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu intéresses particulièrement les chercheurs avec tes théories innovantes sur l'évolution climatique qui pourraient révolutionner notre compréhension scientifique.</em>' - You particularly interest researchers with your innovative theories on climate evolution that could revolutionize our scientific understanding. 'Intéresses' is the second person singular present form of 'intéresser' (to interest).",
+  "difficulty": "B2",
+  "source": "Scientific research",
+  "tags": ["science", "climate", "research"],
+  "timeCreated": 1737417120,
+  "verified": "claude"
+}

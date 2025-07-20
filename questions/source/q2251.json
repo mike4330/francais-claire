@@ -1,0 +1,19 @@
+{
+  "id": 2251,
+  "audioText": "La voiture accidentée a été ramenée au garage par une dépanneuse spécialisée pour subir des réparations importantes.",
+  "question": "How was the damaged car brought to the garage?",
+  "questionType": "comprehension",
+  "options": [
+    "By a specialized tow truck for major repairs",
+    "By the owner driving it carefully to the mechanic",
+    "By a rental car service for temporary replacement",
+    "By public transportation after being abandoned"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La voiture accidentée a été ramenée au garage par une dépanneuse spécialisée pour subir des réparations importantes.</em>' - The damaged car was brought back to the garage by a specialized tow truck to undergo major repairs. 'Ramenée' is the feminine past participle of 'ramener' (to bring back).",
+  "difficulty": "B1",
+  "source": "Car accident",
+  "tags": ["vehicles", "accident", "repair"],
+  "timeCreated": 1737416100,
+  "verified": "claude"
+}

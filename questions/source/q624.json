@@ -1,0 +1,19 @@
+{
+  "id": 624,
+  "audioText": "Elle a été trompée par cette publicité mensongère.",
+  "question": "What happened to her?",
+  "questionType": "comprehension",
+  "options": [
+    "She was deceived by false advertising",
+    "She was impressed by creative marketing",
+    "She was informed by educational content",
+    "She was entertained by funny commercials"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle a été trompée par cette publicité mensongère.</em>' - She was deceived by this false advertising. 'Trompée' is the feminine past participle of 'tromper' (to deceive).",
+  "difficulty": "A2",
+  "source": "Consumer awareness",
+  "tags": ["advertising", "deception", "consumers"],
+  "timeCreated": 1737296300,
+  "verified": "claude"
+}

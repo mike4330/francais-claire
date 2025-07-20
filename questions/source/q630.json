@@ -1,0 +1,19 @@
+{
+  "id": 630,
+  "audioText": "Cette petite fille est très charmante.",
+  "question": "Cette petite fille est très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "charmante",
+    "timide",
+    "triste",
+    "fatiguée"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette petite fille est très charmante.</em>' - This little girl is very charming. 'Charmante' is the feminine form of 'charmant' meaning charming or delightful.",
+  "difficulty": "A2",
+  "source": "Child description",
+  "tags": ["children", "personality", "charm"],
+  "timeCreated": 1737297240,
+  "verified": "claude"
+}

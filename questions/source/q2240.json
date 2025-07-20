@@ -1,0 +1,19 @@
+{
+  "id": 2240,
+  "audioText": "Ce restaurant est devenu fameux dans toute la région grâce à sa cuisine traditionnelle authentique et son service exceptionnel.",
+  "question": "Why has the restaurant become famous?",
+  "questionType": "comprehension",
+  "options": [
+    "For its authentic traditional cuisine and exceptional service",
+    "For its modern innovative dishes and trendy atmosphere",
+    "For its affordable prices and convenient location",
+    "For its celebrity chef and media coverage"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce restaurant est devenu fameux dans toute la région grâce à sa cuisine traditionnelle authentique et son service exceptionnel.</em>' - This restaurant has become famous throughout the region thanks to its authentic traditional cuisine and exceptional service. 'Fameux' means famous, renowned, or well-known.",
+  "difficulty": "B1",
+  "source": "Restaurant reputation",
+  "tags": ["restaurant", "reputation", "cuisine"],
+  "timeCreated": 1737297420,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 632,
+  "audioText": "Il fait beaucoup de poussière dans cette chambre.",
+  "question": "Il fait beaucoup de ______ dans cette chambre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "poussière",
+    "bruit",
+    "froid",
+    "chaleur"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il fait beaucoup de poussière dans cette chambre.</em>' - There is a lot of dust in this room. 'Poussière' means dust, small particles that accumulate on surfaces.",
+  "difficulty": "A2",
+  "source": "Household cleaning",
+  "tags": ["cleaning", "home", "dust"],
+  "timeCreated": 1737298000,
+  "verified": "claude"
+}

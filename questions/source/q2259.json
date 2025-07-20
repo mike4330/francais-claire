@@ -1,0 +1,19 @@
+{
+  "id": 2259,
+  "audioText": "Vous ressemblez étonnamment à votre arrière-grand-père selon les anciennes photographies de famille que nous avons découvertes récemment.",
+  "question": "According to what do you remarkably resemble your great-grandfather?",
+  "questionType": "comprehension",
+  "options": [
+    "Old family photographs that were recently discovered",
+    "Written descriptions found in historical documents",
+    "Stories told by elderly relatives during gatherings",
+    "Paintings commissioned for special family occasions"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous ressemblez étonnamment à votre arrière-grand-père selon les anciennes photographies de famille que nous avons découvertes récemment.</em>' - You remarkably resemble your great-grandfather according to the old family photographs that we recently discovered. 'Ressemblez' is the second person plural present form of 'ressembler' (to resemble).",
+  "difficulty": "B1",
+  "source": "Family history",
+  "tags": ["family", "history", "photographs"],
+  "timeCreated": 1737417060,
+  "verified": "claude"
+}

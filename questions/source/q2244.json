@@ -1,0 +1,19 @@
+{
+  "id": 2244,
+  "audioText": "Ce film d'horreur m'a donné des cauchemars pendant des semaines après l'avoir regardé avec mes amis au festival de cinéma.",
+  "question": "What effect did the horror film have?",
+  "questionType": "comprehension",
+  "options": [
+    "It gave nightmares for weeks after watching it",
+    "It was quickly forgotten after leaving the cinema",
+    "It inspired interest in making similar films",
+    "It was discussed positively with friends for days"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce film d'horreur m'a donné des cauchemars pendant des semaines après l'avoir regardé avec mes amis au festival de cinéma.</em>' - This horror film gave me nightmares for weeks after watching it with my friends at the film festival. 'Horreur' means horror, a feeling of intense fear or dread.",
+  "difficulty": "B1",
+  "source": "Film experience",
+  "tags": ["cinema", "emotions", "fear"],
+  "timeCreated": 1737298180,
+  "verified": "claude"
+}

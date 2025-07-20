@@ -1,0 +1,19 @@
+{
+  "id": 2269,
+  "audioText": "Vous embrassez avec passion cette nouvelle philosophie de vie minimaliste qui privilégie l'essentiel plutôt que l'accumulation matérielle excessive.",
+  "question": "What do you passionately embrace?",
+  "questionType": "comprehension",
+  "options": [
+    "A new minimalist life philosophy favoring the essential over excessive material accumulation",
+    "Advanced meditation techniques for achieving inner peace and tranquility",
+    "Sustainable environmental practices for reducing ecological footprint",
+    "Traditional artisanal crafts that preserve cultural heritage"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous embrassez avec passion cette nouvelle philosophie de vie minimaliste qui privilégie l'essentiel plutôt que l'accumulation matérielle excessive.</em>' - You passionately embrace this new minimalist life philosophy that favors the essential rather than excessive material accumulation. 'Embrassez' is the second person plural present form of 'embrasser' (to embrace, to adopt).",
+  "difficulty": "B2",
+  "source": "Life philosophy",
+  "tags": ["philosophy", "minimalism", "lifestyle"],
+  "timeCreated": 1737418020,
+  "verified": "claude"
+}

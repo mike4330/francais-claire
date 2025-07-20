@@ -1,0 +1,19 @@
+{
+  "id": 617,
+  "audioText": "Il se tait quand sa mère parle.",
+  "question": "Il se ______ quand sa mère parle.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "tait",
+    "lève",
+    "cache",
+    "fâche"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il se tait quand sa mère parle.</em>' - He stays quiet when his mother speaks. 'Tait' is the third person singular present form of 'se taire' (to be quiet).",
+  "difficulty": "A2",
+  "source": "Family respect",
+  "tags": ["family", "respect", "behavior"],
+  "timeCreated": 1737295500,
+  "verified": "claude"
+}

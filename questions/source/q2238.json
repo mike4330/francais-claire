@@ -1,0 +1,19 @@
+{
+  "id": 2238,
+  "audioText": "Tu agis toujours avec prudence et réflexion avant de prendre des décisions importantes qui pourraient affecter ton avenir professionnel.",
+  "question": "How does the person approach important decisions?",
+  "questionType": "comprehension",
+  "options": [
+    "Acts with caution and reflection before making decisions that could affect professional future",
+    "Makes quick intuitive choices based on immediate feelings",
+    "Delays all decisions until external pressure forces action",
+    "Relies entirely on advice from friends and family members"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu agis toujours avec prudence et réflexion avant de prendre des décisions importantes qui pourraient affecter ton avenir professionnel.</em>' - You always act with caution and reflection before making important decisions that could affect your professional future. 'Agis' is the second person singular present form of 'agir' (to act).",
+  "difficulty": "B2",
+  "source": "Decision making",
+  "tags": ["decision-making", "caution", "career"],
+  "timeCreated": 1737296780,
+  "verified": "claude"
+}

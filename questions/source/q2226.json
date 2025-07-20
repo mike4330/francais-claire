@@ -1,0 +1,19 @@
+{
+  "id": 2226,
+  "audioText": "Tu chantes magnifiquement bien cette mélodie complexe qui demande une technique vocale très développée.",
+  "question": "How does the person sing the complex melody?",
+  "questionType": "comprehension",
+  "options": [
+    "Magnificently well with developed vocal technique",
+    "With difficulty and some hesitation",
+    "Only the simple parts clearly",
+    "Better than expected for a beginner"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu chantes magnifiquement bien cette mélodie complexe qui demande une technique vocale très développée.</em>' - You sing magnificently well this complex melody that requires very developed vocal technique. 'Chantes' is the second person singular present form of 'chanter' (to sing).",
+  "difficulty": "B1",
+  "source": "Musical performance",
+  "tags": ["music", "performance", "skill"],
+  "timeCreated": 1737295620,
+  "verified": "claude"
+}

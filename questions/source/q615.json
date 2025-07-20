@@ -1,0 +1,19 @@
+{
+  "id": 615,
+  "audioText": "Vous ignorez cette règle importante.",
+  "question": "Vous ______ cette règle importante.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "ignorez",
+    "comprenez",
+    "respectez",
+    "suivez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous ignorez cette règle importante.</em>' - You ignore this important rule. 'Ignorez' is the second person plural present form of 'ignorer' (to ignore).",
+  "difficulty": "A2",
+  "source": "Rule violation",
+  "tags": ["rules", "behavior", "ignorance"],
+  "timeCreated": 1737295380,
+  "verified": "claude"
+}

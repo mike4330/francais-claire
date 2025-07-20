@@ -1,0 +1,19 @@
+{
+  "id": 674,
+  "audioText": "Ces jumeaux ont un caractère semblable.",
+  "question": "Ces jumeaux ont un caractère ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "semblable",
+    "différent",
+    "difficile",
+    "agréable"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces jumeaux ont un caractère semblable.</em>' - These twins have a similar character. 'Semblable' means similar, alike, or comparable.",
+  "difficulty": "A2",
+  "source": "Twin characteristics",
+  "tags": ["family", "twins", "personality"],
+  "timeCreated": 1737419340,
+  "verified": "claude"
+}

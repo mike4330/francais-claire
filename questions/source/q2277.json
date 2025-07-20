@@ -1,0 +1,19 @@
+{
+  "id": 2277,
+  "audioText": "Cette bataille historique a marqué un tournant décisif dans le conflit européen et ses conséquences ont profondément transformé l'équilibre géopolitique continental.",
+  "question": "What did this historic battle mark in the European conflict?",
+  "questionType": "comprehension",
+  "options": [
+    "A decisive turning point that profoundly transformed the continental geopolitical balance",
+    "The beginning of diplomatic negotiations between opposing forces",
+    "The introduction of new military technologies and strategies",
+    "The establishment of temporary peace treaties among nations"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette bataille historique a marqué un tournant décisif dans le conflit européen et ses conséquences ont profondément transformé l'équilibre géopolitique continental.</em>' - This historic battle marked a decisive turning point in the European conflict and its consequences profoundly transformed the continental geopolitical balance. 'Bataille' means battle, a military engagement or fight.",
+  "difficulty": "B2",
+  "source": "Historical warfare",
+  "tags": ["history", "war", "geopolitics"],
+  "timeCreated": 1737419700,
+  "verified": "claude"
+}

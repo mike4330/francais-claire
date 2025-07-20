@@ -1,0 +1,19 @@
+{
+  "id": 625,
+  "audioText": "J'ai couru très vite ce matin.",
+  "question": "What did I do this morning?",
+  "questionType": "comprehension",
+  "options": [
+    "I ran very fast",
+    "I walked slowly",
+    "I rode my bike",
+    "I drove my car"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai couru très vite ce matin.</em>' - I ran very fast this morning. 'Couru' is the past participle of 'courir' (to run).",
+  "difficulty": "A2",
+  "source": "Morning exercise",
+  "tags": ["exercise", "running", "morning"],
+  "timeCreated": 1737296360,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 683,
+  "audioText": "Ma lunette de soleil est tombée.",
+  "question": "Ma ______ de soleil est tombée.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "lunette",
+    "casquette",
+    "crème",
+    "bouteille"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma lunette de soleil est tombée.</em>' - My sunglasses fell. 'Lunette' means glasses or eyewear (singular form, though often used in plural 'lunettes').",
+  "difficulty": "A2",
+  "source": "Dropped sunglasses",
+  "tags": ["sunglasses", "accident", "summer"],
+  "timeCreated": 1737420060,
+  "verified": "claude"
+}

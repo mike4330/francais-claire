@@ -1,0 +1,19 @@
+{
+  "id": 679,
+  "audioText": "J'ai cassé ma lunette de lecture.",
+  "question": "J'ai cassé ma ______ de lecture.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "lunette",
+    "lampe",
+    "chaise",
+    "table"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai cassé ma lunette de lecture.</em>' - I broke my reading glasses. 'Lunette' means glasses or eyeglasses (singular form, though often used in plural 'lunettes').",
+  "difficulty": "A2",
+  "source": "Broken glasses",
+  "tags": ["glasses", "reading", "accident"],
+  "timeCreated": 1737419640,
+  "verified": "claude"
+}

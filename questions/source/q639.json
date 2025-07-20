@@ -1,0 +1,19 @@
+{
+  "id": 639,
+  "audioText": "Il a choisi un livre quelconque.",
+  "question": "Il a choisi un livre ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "quelconque",
+    "extraordinaire",
+    "excellent",
+    "spécial"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a choisi un livre quelconque.</em>' - He chose any book. 'Quelconque' means any, ordinary, or unremarkable - indicating something chosen without particular preference.",
+  "difficulty": "A2",
+  "source": "Book selection",
+  "tags": ["books", "choice", "ordinary"],
+  "timeCreated": 1737415440,
+  "verified": "claude"
+}

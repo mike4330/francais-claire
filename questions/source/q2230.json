@@ -1,0 +1,19 @@
+{
+  "id": 2230,
+  "audioText": "Les marchands vendent leurs produits artisanaux locaux sur la place du marché traditionnel chaque samedi matin.",
+  "question": "When do the merchants sell their local artisanal products?",
+  "questionType": "comprehension",
+  "options": [
+    "Every Saturday morning at the traditional market square",
+    "Daily except Sunday at the town center",
+    "Only during summer festivals and holidays",
+    "Twice a week at different locations in town"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les marchands vendent leurs produits artisanaux locaux sur la place du marché traditionnel chaque samedi matin.</em>' - The merchants sell their local artisanal products at the traditional market square every Saturday morning. 'Vendent' is the third person plural present form of 'vendre' (to sell).",
+  "difficulty": "B1",
+  "source": "Market activity",
+  "tags": ["market", "artisans", "tradition"],
+  "timeCreated": 1737295860,
+  "verified": "claude"
+}

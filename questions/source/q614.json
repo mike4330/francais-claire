@@ -1,0 +1,19 @@
+{
+  "id": 614,
+  "audioText": "Vous vous taisez maintenant s'il vous plaît.",
+  "question": "Vous vous ______ maintenant s'il vous plaît.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "taisez",
+    "asseyez",
+    "levez",
+    "dépêchez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous vous taisez maintenant s'il vous plaît.</em>' - You be quiet now please. 'Taisez' is the second person plural imperative form of 'se taire' (to be quiet).",
+  "difficulty": "A2",
+  "source": "Classroom instruction",
+  "tags": ["classroom", "instructions", "politeness"],
+  "timeCreated": 1737295320,
+  "verified": "claude"
+}

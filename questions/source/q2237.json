@@ -1,0 +1,19 @@
+{
+  "id": 2237,
+  "audioText": "Vous vous couchez généralement vers dix heures du soir pour respecter un rythme de sommeil régulier essentiel à votre bien-être.",
+  "question": "When do you usually go to bed?",
+  "questionType": "comprehension",
+  "options": [
+    "Around ten o'clock in the evening to maintain a regular sleep rhythm essential for well-being",
+    "Very late after finishing all daily tasks and responsibilities",
+    "Early in the afternoon to compensate for morning work shifts",
+    "At different times depending on social activities and commitments"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous vous couchez généralement vers dix heures du soir pour respecter un rythme de sommeil régulier essentiel à votre bien-être.</em>' - You usually go to bed around ten o'clock in the evening to respect a regular sleep rhythm essential to your well-being. 'Couchez' is the second person plural present form of 'se coucher' (to go to bed).",
+  "difficulty": "B2",
+  "source": "Sleep habits",
+  "tags": ["health", "sleep", "routine"],
+  "timeCreated": 1737296720,
+  "verified": "claude"
+}

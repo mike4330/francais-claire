@@ -1,0 +1,19 @@
+{
+  "id": 667,
+  "audioText": "Je suis enchanté de cette visite.",
+  "question": "Je suis ______ de cette visite.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "enchanté",
+    "fatigué",
+    "déçu",
+    "surpris"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je suis enchanté de cette visite.</em>' - I am delighted with this visit. 'Enchanté' means delighted, pleased, or enchanted.",
+  "difficulty": "A2",
+  "source": "Visit satisfaction",
+  "tags": ["satisfaction", "visits", "pleasure"],
+  "timeCreated": 1737418500,
+  "verified": "claude"
+}

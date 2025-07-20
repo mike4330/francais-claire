@@ -1,0 +1,19 @@
+{
+  "id": 659,
+  "audioText": "Ces traditions existent depuis longtemps.",
+  "question": "Ces traditions ______ depuis longtemps.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "existent",
+    "changent",
+    "disparaissent",
+    "commencent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces traditions existent depuis longtemps.</em>' - These traditions have existed for a long time. 'Existent' is the third person plural present form of 'exister' (to exist).",
+  "difficulty": "A2",
+  "source": "Cultural traditions",
+  "tags": ["culture", "tradition", "heritage"],
+  "timeCreated": 1737417660,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 660,
+  "audioText": "Sa réponse reste très vague.",
+  "question": "Sa réponse reste très ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "vague",
+    "claire",
+    "précise",
+    "détaillée"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa réponse reste très vague.</em>' - His answer remains very vague. 'Vague' means vague, unclear, or imprecise.",
+  "difficulty": "A2",
+  "source": "Communication clarity",
+  "tags": ["communication", "clarity", "answers"],
+  "timeCreated": 1737418080,
+  "verified": "claude"
+}

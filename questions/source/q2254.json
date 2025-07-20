@@ -1,0 +1,19 @@
+{
+  "id": 2254,
+  "audioText": "La candidate choisie pour ce poste prestigieux possède une expérience remarquable dans le domaine international des relations diplomatiques.",
+  "question": "What does the chosen candidate possess?",
+  "questionType": "comprehension",
+  "options": [
+    "Remarkable experience in international diplomatic relations",
+    "Advanced degrees from prestigious academic institutions",
+    "Strong connections with influential business leaders",
+    "Extensive knowledge of multiple foreign languages"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La candidate choisie pour ce poste prestigieux possède une expérience remarquable dans le domaine international des relations diplomatiques.</em>' - The candidate chosen for this prestigious position possesses remarkable experience in the international field of diplomatic relations. 'Choisie' is the feminine past participle of 'choisir' (to choose).",
+  "difficulty": "B2",
+  "source": "Job selection",
+  "tags": ["career", "diplomacy", "selection"],
+  "timeCreated": 1737416280,
+  "verified": "claude"
+}

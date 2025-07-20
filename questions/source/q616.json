@@ -1,0 +1,19 @@
+{
+  "id": 616,
+  "audioText": "Vous conduisez trop vite sur cette route.",
+  "question": "Vous ______ trop vite sur cette route.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "conduisez",
+    "marchez",
+    "courez",
+    "roulez"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous conduisez trop vite sur cette route.</em>' - You drive too fast on this road. 'Conduisez' is the second person plural present form of 'conduire' (to drive).",
+  "difficulty": "A2",
+  "source": "Driving safety",
+  "tags": ["driving", "safety", "speed"],
+  "timeCreated": 1737295440,
+  "verified": "claude"
+}

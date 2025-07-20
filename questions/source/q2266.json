@@ -1,0 +1,19 @@
+{
+  "id": 2266,
+  "audioText": "Cette découverte archéologique intéressait particulièrement les spécialistes de l'Antiquité qui cherchaient depuis longtemps des preuves de cette civilisation perdue.",
+  "question": "What particularly interested the antiquity specialists?",
+  "questionType": "comprehension",
+  "options": [
+    "This archaeological discovery they had long sought as proof of a lost civilization",
+    "New carbon dating techniques for analyzing ancient artifacts",
+    "Recent theories about trade routes in the Mediterranean region",
+    "Advanced preservation methods for protecting historical sites"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette découverte archéologique intéressait particulièrement les spécialistes de l'Antiquité qui cherchaient depuis longtemps des preuves de cette civilisation perdue.</em>' - This archaeological discovery particularly interested the antiquity specialists who had long been seeking proof of this lost civilization. 'Intéressait' is the third person singular imperfect form of 'intéresser' (to interest).",
+  "difficulty": "B2",
+  "source": "Archaeological discovery",
+  "tags": ["archaeology", "history", "discovery"],
+  "timeCreated": 1737417840,
+  "verified": "claude"
+}

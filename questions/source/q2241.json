@@ -1,0 +1,19 @@
+{
+  "id": 2241,
+  "audioText": "Cette forêt vierge abrite une biodiversité extraordinaire qui n'a jamais été perturbée par l'activité humaine moderne.",
+  "question": "What characterizes this virgin forest?",
+  "questionType": "comprehension",
+  "options": [
+    "Extraordinary biodiversity never disturbed by modern human activity",
+    "Recent reforestation efforts by environmental organizations",
+    "Carefully managed ecosystem with sustainable tourism",
+    "Protected area with limited scientific research access"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette forêt vierge abrite une biodiversité extraordinaire qui n'a jamais été perturbée par l'activité humaine moderne.</em>' - This virgin forest shelters extraordinary biodiversity that has never been disturbed by modern human activity. 'Vierge' means virgin, untouched, or pristine.",
+  "difficulty": "B2",
+  "source": "Environmental conservation",
+  "tags": ["environment", "conservation", "biodiversity"],
+  "timeCreated": 1737297480,
+  "verified": "claude"
+}

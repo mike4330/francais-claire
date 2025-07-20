@@ -1,0 +1,19 @@
+{
+  "id": 2272,
+  "audioText": "Il a choisi un restaurant quelconque sans consulter les avis des critiques gastronomiques ni vérifier la réputation de l'établissement auprès des gourmets locaux.",
+  "question": "How did he choose the restaurant?",
+  "questionType": "comprehension",
+  "options": [
+    "Any restaurant without consulting critics' reviews or checking its reputation with local gourmets",
+    "Based on extensive research of culinary reviews and expert recommendations",
+    "Following suggestions from renowned food bloggers and travel guides",
+    "After comparing prices and menus from multiple high-rated establishments"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a choisi un restaurant quelconque sans consulter les avis des critiques gastronomiques ni vérifier la réputation de l'établissement auprès des gourmets locaux.</em>' - He chose any restaurant without consulting gastronomic critics' reviews or checking the establishment's reputation with local gourmets. 'Quelconque' means any, ordinary, or unremarkable.",
+  "difficulty": "B2",
+  "source": "Restaurant selection",
+  "tags": ["dining", "choice", "gastronomy"],
+  "timeCreated": 1737418680,
+  "verified": "claude"
+}

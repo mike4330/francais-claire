@@ -1,0 +1,19 @@
+{
+  "id": 644,
+  "audioText": "Il a juré de dire la vérité.",
+  "question": "Il a ______ de dire la vérité.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "juré",
+    "oublié",
+    "refusé",
+    "essayé"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a juré de dire la vérité.</em>' - He swore to tell the truth. 'Juré' is the past participle of 'jurer' (to swear, to promise solemnly).",
+  "difficulty": "A2",
+  "source": "Truth telling",
+  "tags": ["honesty", "promise", "truth"],
+  "timeCreated": 1737415980,
+  "verified": "claude"
+}

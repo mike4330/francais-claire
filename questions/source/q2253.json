@@ -1,0 +1,19 @@
+{
+  "id": 2253,
+  "audioText": "Tu amènes toujours tes amis aux meilleures soirées de la ville où l'ambiance est garantie exceptionnelle.",
+  "question": "What does the person always bring their friends to?",
+  "questionType": "comprehension",
+  "options": [
+    "The best parties in the city with guaranteed exceptional atmosphere",
+    "Quiet restaurants for intimate conversations and dining",
+    "Cultural events like museums and theater performances",
+    "Outdoor activities such as hiking and sports events"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu amènes toujours tes amis aux meilleures soirées de la ville où l'ambiance est garantie exceptionnelle.</em>' - You always bring your friends to the best parties in the city where the atmosphere is guaranteed to be exceptional. 'Amènes' is the second person singular present form of 'amener' (to bring, to take along).",
+  "difficulty": "B1",
+  "source": "Party invitation",
+  "tags": ["social", "parties", "friendship"],
+  "timeCreated": 1737416220,
+  "verified": "claude"
+}

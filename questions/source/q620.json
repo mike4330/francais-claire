@@ -1,0 +1,19 @@
+{
+  "id": 620,
+  "audioText": "Il a été trompé par son ami.",
+  "question": "What happened to him?",
+  "questionType": "comprehension",
+  "options": [
+    "He was deceived by his friend",
+    "He was helped by his friend",
+    "He was invited by his friend",
+    "He was forgotten by his friend"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a été trompé par son ami.</em>' - He was deceived by his friend. 'Trompé' is the past participle of 'tromper' (to deceive/trick).",
+  "difficulty": "A2",
+  "source": "Friendship betrayal",
+  "tags": ["friendship", "betrayal", "deception"],
+  "timeCreated": 1737296060,
+  "verified": "claude"
+}

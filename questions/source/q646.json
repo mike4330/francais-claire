@@ -1,0 +1,19 @@
+{
+  "id": 646,
+  "audioText": "Elle pardonne facilement les erreurs.",
+  "question": "Elle ______ facilement les erreurs.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pardonne",
+    "oublie",
+    "répète",
+    "évite"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle pardonne facilement les erreurs.</em>' - She easily forgives mistakes. 'Pardonne' is the third person singular present form of 'pardonner' (to forgive).",
+  "difficulty": "A2",
+  "source": "Forgiveness",
+  "tags": ["forgiveness", "character", "mistakes"],
+  "timeCreated": 1737416460,
+  "verified": "claude"
+}

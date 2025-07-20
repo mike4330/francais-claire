@@ -1,0 +1,19 @@
+{
+  "id": 640,
+  "audioText": "Il ressemble à son père.",
+  "question": "Il ______ à son père.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "ressemble",
+    "parle",
+    "téléphone",
+    "écrit"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il ressemble à son père.</em>' - He resembles his father. 'Ressemble' is the third person singular present form of 'ressembler' (to resemble, to look like).",
+  "difficulty": "A2",
+  "source": "Family resemblance",
+  "tags": ["family", "appearance", "similarity"],
+  "timeCreated": 1737415740,
+  "verified": "claude"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 678,
+  "audioText": "Il porte une croix en or.",
+  "question": "Il porte une ______ en or.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "croix",
+    "bague",
+    "montre",
+    "chaîne"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il porte une croix en or.</em>' - He wears a gold cross. 'Croix' means cross, a religious symbol or piece of jewelry.",
+  "difficulty": "A2",
+  "source": "Religious jewelry",
+  "tags": ["jewelry", "religion", "accessories"],
+  "timeCreated": 1737419580,
+  "verified": "claude"
+}
