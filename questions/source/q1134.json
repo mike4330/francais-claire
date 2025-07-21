@@ -1,18 +1,19 @@
 {
     "id": 1134,
-    "audioText": "L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation ridicule.",
-    "question": "How does the dangerous effect act on the doctor's mouth?",
+    "audioText": "L'environnement pollué de cette ville agit rapidement sur la santé des habitants, créant une situation préoccupante.",
+    "question": "How does the polluted environment act on the residents' health?",
     "questionType": "comprehension",
     "options": [
-        "Madly",
+        "Rapidly",
         "Slowly",
         "Gently",
-        "Quietly"
+        "Gradually"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>L'effet dangereux de ce milieu agit follement sur la bouche du docteur immobile, créant une situation ridicule.</em>' - The dangerous effect of this environment acts madly on the motionless doctor's mouth, creating a ridiculous situation. 'Follement' means madly/wildly, describing how the effect acts.",
+    "explanation": "The text states '<em>L'environnement pollué de cette ville agit rapidement sur la santé des habitants, créant une situation préoccupante.</em>' - The polluted environment of this city acts rapidly on the residents' health, creating a concerning situation. 'Rapidement' means rapidly/quickly, describing how the environment acts.",
     "difficulty": "B2",
     "source": "Strategic vocabulary targeting",
-    "tags": ["medical", "danger", "environment", "chaos"],
-    "timeCreated": 1720825000
+    "tags": ["environment", "health", "pollution", "urban-issues"],
+    "timeCreated": 1720825000,
+    "verified": "claude"
 }

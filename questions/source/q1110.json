@@ -10,7 +10,7 @@
     "That this story was short but it was actually very long"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'J'ai longtemps cru que cette histoire était vraie' - I believed for a long time that this story was true. 'Cru' is the past participle of 'croire' (to believe).",
+  "explanation": "The text states '<em>J'ai longtemps cru que cette histoire était vraie, mais j'ai découvert que c'était un mensonge.</em>' - I believed for a long time that this story was true, but I discovered that it was a lie. 'Cru' is the past participle of 'croire' (to believe).",
   "difficulty": "B2",
   "source": "Personal Discovery",
   "tags": [
@@ -19,5 +19,6 @@
     "discovery",
     "deception"
   ],
-  "timeCreated": 1719964300
+  "timeCreated": 1719964300,
+  "verified": "claude"
 }

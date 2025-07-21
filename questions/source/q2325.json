@@ -1,0 +1,18 @@
+{
+  "id": 2325,
+  "audioText": "Nous avons un ami commun qui travaille dans cette banque.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous avons un ami commun qui travaille dans cette banque.",
+    "Nous avons un ami commun qui travaille dans cette boutique.",
+    "Nous avons un cousin commun qui travaille dans cette banque.",
+    "Nous avons un ami commun qui travaille dans cette usine."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'commun' - masculine singular adjective meaning 'common/mutual'. The sentence means 'We have a mutual friend who works in this bank.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["friendship", "banking", "mutual-connections"],
+  "timeCreated": "2025-01-21T16:25:00Z"
+}

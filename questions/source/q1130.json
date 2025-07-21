@@ -10,7 +10,7 @@
     "That the speaker is cooking dinner"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Mes parents savent que je travaille tard ce soir' - My parents know that I am working late tonight. 'Savent' is the 3rd person plural present tense of 'savoir' (to know), used here to indicate what the parents know.",
+  "explanation": "The text states '<em>Mes parents savent que je travaille tard ce soir, alors ils ne m'attendent pas pour le dîner.</em>' - My parents know that I am working late tonight, so they are not waiting for me for dinner. 'Savent' is the 3rd person plural present tense of 'savoir' (to know).",
   "difficulty": "B1",
   "source": "Family Communication",
   "tags": [
@@ -18,5 +18,6 @@
     "work",
     "daily-life"
   ],
-  "timeCreated": 1720021260
+  "timeCreated": 1720021260,
+  "verified": "claude"
 }

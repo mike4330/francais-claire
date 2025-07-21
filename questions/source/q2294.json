@@ -1,0 +1,18 @@
+{
+  "id": 2294,
+  "audioText": "Mon collègue reprend le travail après ses vacances lundi prochain.",
+  "question": "When will the colleague return to work?",
+  "questionType": "comprehension",
+  "options": [
+    "Next Monday after vacation",
+    "Tomorrow morning early",
+    "At the end of this week",
+    "After the weekend break"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mon collègue reprend le travail après ses vacances lundi prochain</em>' - My colleague resumes work after vacation next Monday. 'Reprend' is the third person singular present of 'reprendre' (to resume/take back).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["workplace", "vacation", "schedule"],
+  "timeCreated": "2025-01-21T15:44:00Z"
+}

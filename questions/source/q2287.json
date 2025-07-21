@@ -1,0 +1,18 @@
+{
+  "id": 2287,
+  "audioText": "Les bagages ont été amenés directement à la chambre d'hôtel.",
+  "question": "What happened to the luggage?",
+  "questionType": "comprehension",
+  "options": [
+    "It was brought directly to the hotel room",
+    "It was lost during the flight",
+    "It remained at the airport counter",
+    "It was checked at hotel reception"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les bagages ont été amenés directement à la chambre d'hôtel</em>' - The luggage was brought directly to the hotel room. 'Amenés' is the past participle of 'amener' (to bring), used here in the passive voice with 'ont été'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["travel", "hotel", "luggage"],
+  "timeCreated": "2025-01-21T15:37:00Z"
+}

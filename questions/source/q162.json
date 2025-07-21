@@ -10,7 +10,7 @@
     "dire"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'disant' (present participle of 'dire'). The construction 'en + present participle' expresses simultaneous action: 'En disant cela' means 'while saying/by saying that'. This form is used to show that the error occurred while he was saying something.",
+  "explanation": "The text states '<em>En disant cela, il a fait une erreur.</em>' - While saying that, he made an error. The correct answer is 'disant' (present participle of 'dire'). The construction 'en + present participle' expresses simultaneous action.",
   "difficulty": "A2",
   "source": "Communication - Making Mistakes",
   "tags": [
@@ -18,5 +18,6 @@
     "mistakes",
     "conversation"
   ],
-  "timeCreated": 1720027220
+  "timeCreated": 1720027220,
+  "verified": "claude"
 }

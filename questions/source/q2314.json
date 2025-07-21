@@ -1,0 +1,18 @@
+{
+  "id": 2314,
+  "audioText": "Vous poussez cette porte trop fort, elle va se casser.",
+  "question": "Fill in the blank: Vous ______ cette porte trop fort, elle va se casser.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "poussez",
+    "poussé",
+    "pousser",
+    "poussait"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'poussez' - second person plural present of 'pousser' (to push). The sentence warns that pushing the door too hard will break it.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["physical-actions", "warning", "doors"],
+  "timeCreated": "2025-01-21T16:09:00Z"
+}

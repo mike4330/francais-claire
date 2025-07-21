@@ -1,0 +1,18 @@
+{
+  "id": 2282,
+  "audioText": "Vous dansez très bien le tango.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Vous dansez très bien le tango.",
+    "Vous chantez très bien le tango.",
+    "Vous dansez très mal le tango.",
+    "Vous dansez très bien le disco."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'dansez' - the second person plural (vous) present form of 'danser' (to dance). This is a formal way to compliment someone's dancing skills.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["entertainment", "dancing", "compliments"],
+  "timeCreated": "2025-01-21T15:32:00Z"
+}

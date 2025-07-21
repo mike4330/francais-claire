@@ -10,9 +10,10 @@
         "Tomorrow"
     ],
     "correct": 0,
-    "explanation": "The adverb 'bientôt' means 'soon' or 'shortly'. It indicates that dad will arrive home in the near future, not immediately but within a short time.",
+    "explanation": "The text states '<em>Papa arrive bientôt à la maison</em>' - Dad arrives home soon. The adverb 'bientôt' means 'soon' or 'shortly'. It indicates that dad will arrive home in the near future, not immediately but within a short time.",
     "difficulty": "A1",
     "source": "Family conversation",
     "tags": ["family", "home", "arrival"],
-    "timeCreated": 1720076460
+    "timeCreated": 1720076460,
+    "verified": "claude"
 }

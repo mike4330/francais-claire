@@ -1,0 +1,18 @@
+{
+  "id": 690,
+  "audioText": "Cette femme noble habite dans un château.",
+  "question": "What kind of woman lives in the castle?",
+  "questionType": "comprehension",
+  "options": [
+    "A noble woman",
+    "A young woman",
+    "A rich woman",
+    "An old woman"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette femme noble habite dans un château</em>' - This noble woman lives in a castle. 'Noble' means noble/aristocratic.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["aristocracy", "housing", "social-class"],
+  "timeCreated": "2025-01-21T16:26:00Z"
+}

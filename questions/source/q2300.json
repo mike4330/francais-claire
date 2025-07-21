@@ -1,0 +1,15 @@
+{
+  "id": 2300,
+  "audioText": "Tu danses comme une professionnelle maintenant.",
+  "question": "Write the correct form: Tu ______ comme une professionnelle maintenant.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "danses",
+  "acceptedAnswers": ["danses", "Danses"],
+  "explanation": "The correct form is 'danses' - second person singular present of 'danser' (to dance). The sentence means 'You dance like a professional now.'",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["dancing", "skills", "compliments"],
+  "timeCreated": "2025-01-21T15:50:00Z"
+}

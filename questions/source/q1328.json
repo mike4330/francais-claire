@@ -10,7 +10,7 @@
     "Leave them at home"
   ],
   "correct": 0,
-  "explanation": "Students 'mettent leurs téléphones en mode silencieux pendant les examens' - put their phones in silent mode during exams. 'Mettent' is the 3rd person plural present form of 'mettre'.",
+  "explanation": "The text states '<em>Les étudiants mettent leurs téléphones en mode silencieux pendant les examens.</em>' - Students put their phones in silent mode during exams. 'Mettent' is the 3rd person plural present form of 'mettre' (to put).",
   "difficulty": "B1",
   "source": "University Exams",
   "tags": [
@@ -18,5 +18,6 @@
     "exams",
     "technology"
   ],
-  "timeCreated": 1720022820
+  "timeCreated": 1720022820,
+  "verified": "claude"
 }

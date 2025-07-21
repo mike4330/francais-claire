@@ -10,7 +10,7 @@
     "a voulu"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'voulait' (imperfect tense of vouloir). The context 'Quand elle était petite' (When she was little) indicates a past habitual action, requiring the imperfect tense. 'Voulait' expresses that Marie repeatedly or consistently wanted to become a doctor during her childhood.",
+  "explanation": "The text states '<em>Quand elle était petite, Marie voulait toujours devenir médecin, mais ses parents préféraient qu'elle étudie le droit.</em>' - When she was little, Marie always wanted to become a doctor, but her parents preferred that she study law. The correct answer is 'voulait' (imperfect tense of vouloir). The context 'Quand elle était petite' indicates a past habitual action.",
   "difficulty": "B2",
   "source": "Childhood Dreams",
   "tags": [
@@ -20,5 +20,6 @@
     "education",
     "personal-history"
   ],
-  "timeCreated": 1751492559
+  "timeCreated": 1751492559,
+  "verified": "claude"
 }

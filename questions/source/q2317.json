@@ -1,0 +1,18 @@
+{
+  "id": 2317,
+  "audioText": "Les enfants sont bien protégés dans cette école privée.",
+  "question": "How are the children in this private school?",
+  "questionType": "comprehension",
+  "options": [
+    "They are well protected",
+    "They are carefully supervised",
+    "They are strictly disciplined",
+    "They are individually tutored"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les enfants sont bien protégés dans cette école privée</em>' - The children are well protected in this private school. 'Protégés' is the past participle of 'protéger' (to protect), used in the passive voice.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["education", "safety", "children"],
+  "timeCreated": "2025-01-21T16:12:00Z"
+}

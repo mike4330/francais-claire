@@ -10,9 +10,10 @@
         "Pose ton livre dans la table, s'il te plaît."
     ],
     "correct": 0,
-    "explanation": "The speaker used 'dessus' meaning 'on top of' or 'on'. Here it means to put the book on the table. The other options change the preposition: 'sous' (under), 'à côté de' (next to), or 'dans' (in).",
+    "explanation": "The text states '<em>Pose ton livre dessus la table, s'il te plaît</em>' - Put your book on the table, please. The speaker used 'dessus' meaning 'on top of' or 'on'. Here it means to put the book on the table. The other options change the preposition: 'sous' (under), 'à côté de' (next to), or 'dans' (in).",
     "difficulty": "A1",
     "source": "Simple household instruction",
     "tags": ["home", "instructions", "objects"],
-    "timeCreated": 1720077000
+    "timeCreated": 1720077000,
+    "verified": "claude"
 }

@@ -1,0 +1,18 @@
+{
+  "id": 2754,
+  "audioText": "Cette déclaration politique controversée a littéralement provoqué un tollé général dans tous les médias nationaux et internationaux hier soir.",
+  "question": "How did the media react to the controversial political statement?",
+  "questionType": "comprehension",
+  "options": [
+    "It literally caused a general outcry in all national and international media",
+    "It gradually generated moderate criticism across various news platforms",
+    "It immediately sparked intense debates among political commentators only",
+    "It surprisingly received unanimous support from mainstream journalism"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette déclaration politique controversée a littéralement provoqué un tollé général dans tous les médias nationaux et internationaux hier soir</em>' - This controversial political statement literally caused a general outcry in all national and international media last night. 'Littéralement' means literally/actually.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": ["politics", "media", "controversy"],
+  "timeCreated": "2025-01-21T16:17:00Z"
+}

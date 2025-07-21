@@ -1,0 +1,18 @@
+{
+  "id": 2305,
+  "audioText": "Mon petit frère saute sur le trampoline depuis une heure.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Mon petit frère saute sur le trampoline depuis une heure.",
+    "Mon petit frère danse sur le trampoline depuis une heure.",
+    "Mon petit frère saute sur le trampoline depuis deux heures.",
+    "Mon grand frère saute sur le trampoline depuis une heure."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'saute' - third person singular present of 'sauter' (to jump). The sentence means 'My little brother has been jumping on the trampoline for an hour.'",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["family", "exercise", "children"],
+  "timeCreated": "2025-01-21T15:57:00Z"
+}

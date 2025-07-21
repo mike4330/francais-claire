@@ -1,7 +1,7 @@
 {
     "id": 311,
-    "audioText": "Demain, je jouerai avec mes pieds et ils essayent de me suivre.",
-    "question": "When will I play with my feet?",
+    "audioText": "Demain, je jouerai au football avec mes amis.",
+    "question": "When will I play football?",
     "questionType": "comprehension",
     "options": [
         "Tomorrow",
@@ -10,9 +10,10 @@
         "Never"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Demain, je jouerai avec mes pieds et ils essayent de me suivre.</em>' - Tomorrow, I will play with my feet and they try to follow me. 'Demain' means tomorrow, indicating when the action will take place.",
+    "explanation": "The text states '<em>Demain, je jouerai au football avec mes amis.</em>' - Tomorrow, I will play football with my friends. 'Demain' means tomorrow, indicating when the action will take place.",
     "difficulty": "A2",
     "source": "Strategic vocabulary targeting",
-    "tags": ["future", "play", "movement", "following"],
-    "timeCreated": 1720823200
+    "tags": ["future", "sports", "friends", "plans"],
+    "timeCreated": 1720823200,
+    "verified": "claude"
 }

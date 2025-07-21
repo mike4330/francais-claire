@@ -1,0 +1,18 @@
+{
+  "id": 2283,
+  "audioText": "Les enfants dansent joyeusement dans la cour de récréation.",
+  "question": "What are the children doing?",
+  "questionType": "comprehension",
+  "options": [
+    "They are dancing joyfully in the playground",
+    "They are playing soccer during recess",
+    "They are sitting quietly in the classroom",
+    "They are running around the schoolyard"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les enfants dansent joyeusement dans la cour de récréation</em>' - The children are dancing joyfully in the playground. 'Dansent' is the third person plural present form of 'danser' (to dance).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["education", "children", "playground"],
+  "timeCreated": "2025-01-21T15:33:00Z"
+}

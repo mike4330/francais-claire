@@ -1,0 +1,18 @@
+{
+  "id": 2319,
+  "audioText": "Ce livre est paru il y a six mois chez cet éditeur.",
+  "question": "Fill in the blank: Ce livre est ______ il y a six mois chez cet éditeur.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "paru",
+    "parti",
+    "parlé",
+    "passé"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'paru' - past participle of 'paraître' (to appear/be published). The sentence means 'This book was published six months ago by this publisher.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["publishing", "books", "timeline"],
+  "timeCreated": "2025-01-21T16:14:00Z"
+}

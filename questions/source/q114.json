@@ -10,9 +10,10 @@
     "Cette femme travaille dans une école près de chez moi."
   ],
   "correct": 0,
-  "explanation": "The correct sentence is 'Cette femme travaille dans un hôpital près de chez moi' - This woman works in a hospital near my house. The other options change the workplace: hôtel (hotel), bureau (office), or école (school).",
+  "explanation": "The text states '<em>Cette femme travaille dans un hôpital près de chez moi.</em>' - This woman works in a hospital near my house. The other options change the workplace: hôtel (hotel), bureau (office), or école (school).",
   "difficulty": "A2",
   "source": "Workplace Context",
-  "tags": ["workplace", "healthcare", "family", "neighborhood"],
-  "timeCreated": 1751469347
+  "tags": ["healthcare", "neighborhood", "location", "description"],
+  "timeCreated": 1751469347,
+  "verified": "claude"
 }

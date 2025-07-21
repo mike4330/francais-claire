@@ -1,0 +1,18 @@
+{
+  "id": 2306,
+  "audioText": "Elle a sauté de joie en apprenant la nouvelle.",
+  "question": "How did she react to the news?",
+  "questionType": "comprehension",
+  "options": [
+    "She jumped for joy",
+    "She cried with emotion",
+    "She ran to tell others",
+    "She sat down quietly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle a sauté de joie en apprenant la nouvelle</em>' - She jumped for joy upon learning the news. 'Sauté' is the past participle of 'sauter' (to jump), used in the passé composé.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["emotions", "good-news", "reactions"],
+  "timeCreated": "2025-01-21T15:58:00Z"
+}

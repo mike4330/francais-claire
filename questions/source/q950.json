@@ -10,7 +10,7 @@
     "Whether they support this important proposal"
   ],
   "correct": 0,
-  "explanation": "The question asks 'Pour quelle raison avez-vous changé d'avis sur cette proposition importante ?' - For what reason did you change your mind about this important proposal? The word 'raison' means reason or cause.",
+  "explanation": "The text states '<em>Pour quelle raison avez-vous changé d'avis sur cette proposition importante ?</em>' - For what reason did you change your mind about this important proposal? The word 'raison' means reason or cause.",
   "difficulty": "B2",
   "source": "Decision Making",
   "tags": [
@@ -20,5 +20,6 @@
     "proposals",
     "change-of-mind"
   ],
-  "timeCreated": 1751326354
+  "timeCreated": 1751326354,
+  "verified": "claude"
 }

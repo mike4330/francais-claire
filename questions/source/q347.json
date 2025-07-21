@@ -10,7 +10,7 @@
     "Bought the entire cake because it was delicious"
   ],
   "correct": 0,
-  "explanation": "The speaker said 'J'ai mangé le gâteau entier parce qu'il était délicieux' - I ate the entire cake because it was delicious. 'Entier' means 'entire' or 'whole'.",
+  "explanation": "The text states '<em>J'ai mangé le gâteau entier parce qu'il était délicieux</em>' - I ate the entire cake because it was delicious. 'Entier' means 'entire' or 'whole'.",
   "difficulty": "A1",
   "source": "Food enjoyment",
   "tags": [
@@ -18,5 +18,6 @@
     "eating",
     "completeness"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

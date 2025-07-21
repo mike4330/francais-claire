@@ -13,6 +13,7 @@
     "explanation": "The text states '<em>Tu deviens vraiment mince quand tu travailles dans cette atmosphère stressante</em>' - You become really thin when you work in this stressful atmosphere. 'Deviens' is the second person singular present form of 'devenir' (to become).",
     "difficulty": "B1",
     "source": "Strategic targeting: deviens + mince + atmosphère",
-    "tags": ["health", "workplace", "stress"],
-    "timeCreated": 1736624340
+    "tags": ["health", "stress", "physical-change"],
+    "timeCreated": 1736624340,
+    "verified": "claude"
 }

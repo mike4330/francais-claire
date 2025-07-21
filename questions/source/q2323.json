@@ -1,0 +1,18 @@
+{
+  "id": 2323,
+  "audioText": "Mon professeur allemand enseigne la philosophie à l'université.",
+  "question": "Fill in the blank: Mon professeur ______ enseigne la philosophie à l'université.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "allemand",
+    "allemande",
+    "allemands",
+    "allemandes"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'allemand' - masculine singular form agreeing with 'professeur' (masculine). The sentence means 'My German professor teaches philosophy at the university.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["education", "university", "nationality"],
+  "timeCreated": "2025-01-21T16:23:00Z"
+}

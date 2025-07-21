@@ -1,0 +1,18 @@
+{
+  "id": 2328,
+  "audioText": "La chasse aux papillons est une activité populaire dans cette région.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "La chasse aux papillons est une activité populaire dans cette région.",
+    "La chasse aux oiseaux est une activité populaire dans cette région.",
+    "La classe aux papillons est une activité populaire dans cette région.",
+    "La chasse aux papillons est une activité populaire dans cette religion."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'chasse' (hunt/hunting). Butterfly hunting is a popular activity in this region. In this context, it refers to butterfly collecting or observation.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["nature", "hobbies", "regional-activities"],
+  "timeCreated": "2025-01-21T16:30:00Z"
+}

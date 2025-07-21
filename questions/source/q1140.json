@@ -1,7 +1,7 @@
 {
     "id": 1140,
-    "audioText": "Dans cette minute dangereuse, l'effet militaire fraîchement présent devient jaune, bête mais sympa, exprès froidement incroyable.",
-    "question": "Dans cette minute dangereuse, l'effet militaire ______ présent devient jaune, bête mais sympa, exprès froidement incroyable.",
+    "audioText": "Dans cette situation, l'effet fraîchement peint devient visible.",
+    "question": "Dans cette situation, l'effet ______ peint devient visible.",
     "questionType": "fill-in-the-blank",
     "options": [
         "fraîchement",
@@ -10,9 +10,10 @@
         "fraîcheur"
     ],
     "correct": 0,
-    "explanation": "The correct form is 'fraîchement' (freshly/recently), an adverb modifying 'présent' to indicate that the military effect is freshly/recently present. The complete sentence is '<em>Dans cette minute dangereuse, l'effet militaire fraîchement présent devient jaune, bête mais sympa, exprès froidement incroyable.</em>' - In this dangerous minute, the freshly present military effect becomes yellow, stupid but nice, deliberately coldly incredible.",
+    "explanation": "The text states '<em>Dans cette situation, l'effet fraîchement peint devient visible.</em>' - In this situation, the freshly painted effect becomes visible. The correct form is 'fraîchement' (freshly/recently), an adverb modifying 'peint'.",
     "difficulty": "B2",
     "source": "Strategic vocabulary targeting",
-    "tags": ["military", "time", "transformation", "description"],
-    "timeCreated": 1720825620
+    "tags": ["description", "visibility", "painting"],
+    "timeCreated": 1720825620,
+    "verified": "claude"
 }

@@ -1,0 +1,18 @@
+{
+  "id": 2312,
+  "audioText": "Avant, je détestais les mathématiques mais maintenant j'adore cette matière.",
+  "question": "Fill in the blank: Avant, je ______ les mathématiques mais maintenant j'adore cette matière.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "détestais",
+    "déteste",
+    "détestait",
+    "détesterai"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'détestais' - first person singular imperfect of 'détester' (to hate). The sentence shows a contrast between past and present feelings about mathematics.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["education", "mathematics", "attitude-change"],
+  "timeCreated": "2025-01-21T16:04:00Z"
+}

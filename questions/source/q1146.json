@@ -7,13 +7,14 @@
         "Je voudrais apprendre le piano, mais je n'ai pas assez de temps libre.",
         "Je voudrais apprendre le piano, mais je n'ai pas assez de temps libres.",
         "Je voudrais apprendre le piano, mais je n'ait pas assez de temps libre.",
-        "Je voudrais apprendre le piano, mais je n'ai pas assez de temps libre."
+        "Je voudrais apprendre le piano, mais je n'aie pas assez de temps libre."
     ],
     "correct": 0,
-    "explanation": "The correct option is 'Je voudrais apprendre le piano, mais je n'ai pas assez de temps libre.' - I would like to learn piano, but I don't have enough free time. This listening exercise tests singular vs plural ('temps libre' vs 'temps libres') and auxiliary verb conjugation ('n'ai' vs 'n'ait').",
+    "explanation": "The text states '<em>Je voudrais apprendre le piano, mais je n'ai pas assez de temps libre.</em>' - I would like to learn piano, but I don't have enough free time. This listening exercise tests singular vs plural ('temps libre' vs 'temps libres') and auxiliary verb conjugation ('n'ai' vs 'n'ait' vs 'n'aie').",
     "difficulty": "B1",
     "source": "Personal Goals",
     "tags": ["hobbies", "music", "time-management", "personal-goals"],
     "parentQuestion": 970,
-    "timeCreated": 1720826460
+    "timeCreated": 1720826460,
+    "verified": "claude"
 }

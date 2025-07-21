@@ -10,7 +10,7 @@
     "She believes everything and knows nothing for certain"
   ],
   "correct": 0,
-  "explanation": "Marie uses 'Je sais parler trois langues' (I know how to speak three languages) to state a definite fact. She uses 'je ne crois pas que ce soit suffisant' (I don't believe it's sufficient) and 'Je crois qu'il vaut mieux continuer' (I believe it's better to continue) for her opinions and judgments. The correct answer captures this distinction: she KNOWS her language ability and BELIEVES her assessment of its adequacy.",
+  "explanation": "The text states '<em>Marie dit : 'Je sais parler trois langues, mais je ne crois pas que ce soit suffisant. Je crois qu'il vaut mieux continuer à étudier.'</em>' - Marie says: 'I know how to speak three languages, but I don't believe it's sufficient. I believe it's better to continue studying.' Marie KNOWS her language ability and BELIEVES her assessment of its adequacy.",
   "difficulty": "B1",
   "source": "Savoir vs Croire Grammar",
   "tags": [
@@ -18,5 +18,7 @@
     "language-learning",
     "self-assessment",
     "personal-development"
-  ]
+  ],
+  "timeCreated": 1720200000,
+  "verified": "claude"
 }

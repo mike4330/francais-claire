@@ -11,9 +11,10 @@
     "jamais"
   ],
   "correct": 1,
-  "explanation": "The sentence discusses the necessity of frequent self-analysis for personal growth. The adverb 'régulièrement' (regularly) fits this context perfectly. The adjective 'humain' (human) is also used.",
+  "explanation": "The text states '<em>Il est tout à fait humain de faire des erreurs, mais pour progresser, il faut s'analyser régulièrement et apprendre de ses échecs</em>' - It is quite human to make mistakes, but to progress, one must analyze oneself regularly and learn from failures. The adverb 'régulièrement' (regularly) fits this context perfectly. The adjective 'humain' (human) is also used.",
   "difficulty": "B2",
   "source": "Gemini CLI",
   "tags": ["psychology", "self-improvement", "learning"],
-  "timeCreated": 1720181347
+  "timeCreated": 1720181347,
+  "verified": "claude"
 }

@@ -1,0 +1,18 @@
+{
+  "id": 2302,
+  "audioText": "Nous reprenons les cours de français la semaine prochaine.",
+  "question": "Fill in the blank: Nous ______ les cours de français la semaine prochaine.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "reprenons",
+    "reprennent",
+    "reprenez",
+    "reprendra"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'reprenons' - first person plural present of 'reprendre' (to resume/take back). The sentence means 'We are resuming French classes next week.'",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["education", "french-classes", "schedule"],
+  "timeCreated": "2025-01-21T15:52:00Z"
+}

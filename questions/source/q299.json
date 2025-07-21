@@ -1,7 +1,7 @@
 {
     "id": 299,
-    "audioText": "Cette sorte de général désolé cherche des opportunités de soutien.",
-    "question": "What kind of sorry general is looking for support opportunities?",
+    "audioText": "Cette sorte de livre désolé cherche des lecteurs intéressés.",
+    "question": "What kind of sad book is looking for interested readers?",
     "questionType": "comprehension",
     "options": [
         "This sort",
@@ -10,9 +10,10 @@
         "The best"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette sorte de général désolé cherche des opportunités de soutien.</em>' - 'This sort of sorry general is looking for support opportunities.' The nouns 'sorte' means sort/kind and 'général' means general, and the adjective 'désolé' means sorry.",
+    "explanation": "The text states '<em>Cette sorte de livre désolé cherche des lecteurs intéressés.</em>' - 'This sort of sad book is looking for interested readers.' The noun 'sorte' means sort/kind, 'livre' means book, and the adjective 'désolé' means sad/sorry.",
     "difficulty": "A2",
     "source": "Strategic noun targeting",
-    "tags": ["military", "support", "opportunities"],
-    "timeCreated": 1720715700
+    "tags": ["books", "reading", "interest", "literature"],
+    "timeCreated": 1720715700,
+    "verified": "claude"
 }

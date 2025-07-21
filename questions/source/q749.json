@@ -14,5 +14,6 @@
     "difficulty": "B1",
     "source": "Unusual weather event",
     "tags": ["rare-events", "weather", "storm"],
-    "timeCreated": 1704415680
+    "timeCreated": 1704415680,
+    "verified": "claude"
 }

@@ -10,9 +10,10 @@
         "It is very small."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'léger' meaning 'light' (not heavy). 'Ce sac est très léger' means 'this bag is very light'. The adjective describes the weight of the bag.",
+    "explanation": "The text states '<em>Ce sac est très léger</em>' - This bag is very light. The French sentence uses 'léger' meaning 'light' (not heavy). The adjective describes the weight of the bag.",
     "difficulty": "A1",
     "source": "Description of object weight",
     "tags": ["shopping", "objects", "description"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

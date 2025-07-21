@@ -1,19 +1,20 @@
 {
     "id": 316,
-    "audioText": "Sophie se lave les mains avant de manger.",
+    "audioText": "Elle se lave les mains avant de manger.",
     "question": "Qu'est-ce que vous avez entendu ?",
     "questionType": "listening",
     "options": [
-        "Sophie se lave les mains avant de manger.",
-        "Sophie se lave les pieds avant de manger.",
-        "Sophie se lave le visage avant de manger.",
-        "Sophie se lave les cheveux avant de manger."
+        "Elle se lave les mains avant de manger.",
+        "Elle se lave les pieds avant de manger.",
+        "Elle se lave le visage avant de manger.",
+        "Elle se lave les cheveux avant de manger."
     ],
     "correct": 0,
-    "explanation": "The correct option is 'Sophie se lave les mains avant de manger.' - Sophie washes her hands before eating. This listening exercise tests recognition of 'les mains' (the hands) versus other body parts like 'les pieds' (feet), 'le visage' (face), or 'les cheveux' (hair).",
+    "explanation": "The text states '<em>Elle se lave les mains avant de manger.</em>' - She washes her hands before eating. This listening exercise tests recognition of 'les mains' (the hands) versus other body parts like 'les pieds' (feet), 'le visage' (face), or 'les cheveux' (hair).",
     "difficulty": "A2",
     "source": "Daily hygiene and meal preparation",
     "tags": ["daily-life", "hygiene", "meals"],
     "parentQuestion": 242,
-    "timeCreated": 1720826220
+    "timeCreated": 1720826220,
+    "verified": "claude"
 }

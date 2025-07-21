@@ -1,18 +1,19 @@
 {
     "id": 1142,
-    "audioText": "Le mec rose observe d'emblée que le bord troisième devient maladroitement incroyable, au-dehors définitivement vert.",
-    "question": "What does the pink guy observe immediately?",
+    "audioText": "Il observe d'emblée que le jardin devient magnifique.",
+    "question": "What does he observe immediately?",
     "questionType": "comprehension",
     "options": [
-        "That the third edge becomes awkwardly incredible, outside definitively green",
-        "That the first side becomes smoothly ordinary, inside temporarily blue",
-        "That the second corner becomes gracefully normal, nearby permanently red",
-        "That the fourth boundary becomes easily predictable, indoors occasionally yellow"
+        "That the garden becomes beautiful",
+        "That the house needs repairs",
+        "That the weather is changing",
+        "That the neighbors are arriving"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le mec rose observe d'emblée que le bord troisième devient maladroitement incroyable, au-dehors définitivement vert.</em>' - The pink guy observes immediately that the third edge becomes awkwardly incredible, outside definitively green. 'D'emblée' means immediately or right away, and 'au-dehors' means outside.",
+    "explanation": "The text states '<em>Il observe d'emblée que le jardin devient magnifique.</em>' - He observes immediately that the garden becomes beautiful. 'D'emblée' means immediately or right away, and 'magnifique' means beautiful.",
     "difficulty": "B2",
     "source": "Strategic vocabulary targeting",
-    "tags": ["observation", "transformation", "spatial", "description"],
-    "timeCreated": 1720825800
+    "tags": ["observation", "garden", "beauty"],
+    "timeCreated": 1720825800,
+    "verified": "claude"
 }

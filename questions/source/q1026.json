@@ -1,18 +1,19 @@
 {
     "id": 1026,
-    "audioText": "Cette émission de téléréalité montre comment chaque général désolé gère les affaires militaires tout en maintenant une tour de contrôle efficace malgré les défis logistiques.",
-    "question": "What does this reality TV show demonstrate about each sorry general?",
+    "audioText": "Cette émission de télévision montre comment chaque chef d'équipe gère les affaires commerciales tout en maintenant une organisation efficace malgré les défis logistiques.",
+    "question": "What does this television show demonstrate about each team leader?",
     "questionType": "comprehension",
     "options": [
-        "How they manage military affairs while maintaining an efficient control tower despite logistical challenges",
-        "Their personal relationships with family members during deployment",
-        "Their training methods for new military recruits",
-        "Their strategies for international diplomatic negotiations"
+        "How they manage business affairs while maintaining efficient organization despite logistical challenges",
+        "Their personal relationships with family members during travel",
+        "Their training methods for new team members",
+        "Their strategies for international business negotiations"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette émission de téléréalité montre comment chaque général désolé gère les affaires militaires tout en maintenant une tour de contrôle efficace malgré les défis logistiques.</em>' - 'This reality TV show shows how each sorry general manages military affairs while maintaining an efficient control tower despite logistical challenges.' The nouns 'général' means general, 'affaire' means affairs, and 'tour' means tower.",
+    "explanation": "The text states '<em>Cette émission de télévision montre comment chaque chef d'équipe gère les affaires commerciales tout en maintenant une organisation efficace malgré les défis logistiques.</em>' - 'This television show shows how each team leader manages business affairs while maintaining efficient organization despite logistical challenges.' The noun 'chef' means leader/head, 'affaire' means affairs, and 'organisation' means organization.",
     "difficulty": "B2",
     "source": "Strategic noun targeting",
-    "tags": ["reality-tv", "military", "management"],
-    "timeCreated": 1720715700
+    "tags": ["television", "leadership", "management", "business"],
+    "timeCreated": 1720715700,
+    "verified": "claude"
 }

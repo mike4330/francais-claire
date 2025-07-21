@@ -1,0 +1,15 @@
+{
+  "id": 691,
+  "audioText": "Ma sœur a les cheveux blonds et les yeux bleus.",
+  "question": "Write the correct form: Ma sœur a les cheveux ______ et les yeux bleus.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "blonds",
+  "acceptedAnswers": ["blonds", "Blonds"],
+  "explanation": "The correct form is 'blonds' - masculine plural form agreeing with 'cheveux' (hair, masculine plural). The sentence means 'My sister has blond hair and blue eyes.'",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["family", "physical-appearance", "hair-color"],
+  "timeCreated": "2025-01-21T16:27:00Z"
+}

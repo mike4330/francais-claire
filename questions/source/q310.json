@@ -1,6 +1,6 @@
 {
     "id": 310,
-    "audioText": "Le sang sur la bouche, il dit habituellement salut à dieu avant le jeu.",
+    "audioText": "Il dit habituellement salut à dieu avant le jeu.",
     "question": "When does he usually say hello to God?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Never"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le sang sur la bouche, il dit habituellement salut à dieu avant le jeu.</em>' - With blood on his mouth, he usually says hello to God before the game. 'Avant le jeu' means before the game, indicating the timing of his greeting.",
+    "explanation": "The text states '<em>Il dit habituellement salut à dieu avant le jeu.</em>' - He usually says hello to God before the game. 'Avant le jeu' means before the game, indicating the timing of his greeting.",
     "difficulty": "A2",
     "source": "Strategic vocabulary targeting",
     "tags": ["ritual", "spirituality", "game", "greeting"],
-    "timeCreated": 1720822400
+    "timeCreated": 1720822400,
+    "verified": "claude"
 }

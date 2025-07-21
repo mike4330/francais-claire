@@ -1,0 +1,18 @@
+{
+  "id": 2289,
+  "audioText": "Tu réussis toujours tes projets grâce à ta détermination.",
+  "question": "What enables this person to succeed?",
+  "questionType": "comprehension",
+  "options": [
+    "Their determination",
+    "Their natural talent",
+    "Their expensive equipment",
+    "Their team members"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu réussis toujours tes projets grâce à ta détermination</em>' - You always succeed at your projects thanks to your determination. 'Réussis' is the second person singular present form of 'réussir' (to succeed).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["success", "motivation", "personal-qualities"],
+  "timeCreated": "2025-01-21T15:39:00Z"
+}

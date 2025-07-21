@@ -1,0 +1,18 @@
+{
+  "id": 2303,
+  "audioText": "Cette réduction de prix m'a été offerte par le directeur.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette réduction de prix m'a été offerte par le directeur.",
+    "Cette réduction de prix m'a été offerte par le vendeur.",
+    "Cette augmentation de prix m'a été offerte par le directeur.",
+    "Cette réduction de prix m'a été proposée par le directeur."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'offerte' - feminine past participle of 'offrir' (to offer), agreeing with 'réduction'. The sentence means 'This price reduction was offered to me by the director.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["business", "discounts", "management"],
+  "timeCreated": "2025-01-21T15:53:00Z"
+}

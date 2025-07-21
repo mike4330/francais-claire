@@ -10,7 +10,7 @@
     "confiant"
   ],
   "correct": 0,
-  "explanation": "The correct word is 'sûr' (sure/certain). 'Es-tu sûr que...' is a common expression meaning 'Are you sure that...'. Here it asks about certainty regarding a company's investment in renewable energy.",
+  "explanation": "The text states '<em>Es-tu sûr que cette entreprise investit vraiment dans les énergies renouvelables ?</em>' - Are you sure that this company really invests in renewable energy? The correct word is 'sûr' (sure/certain), used in the common expression 'Es-tu sûr que...' meaning 'Are you sure that...'.",
   "difficulty": "B1",
   "source": "Business Environment",
   "tags": [
@@ -19,5 +19,6 @@
     "renewable-energy",
     "certainty"
   ],
-  "timeCreated": 1720052100
+  "timeCreated": 1720052100,
+  "verified": "claude"
 }

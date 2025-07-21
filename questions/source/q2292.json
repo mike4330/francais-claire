@@ -1,0 +1,18 @@
+{
+  "id": 2292,
+  "audioText": "Est-ce que je vous dérange avec ma musique ?",
+  "question": "Fill in the blank: Est-ce que je vous ______ avec ma musique ?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "dérange",
+    "dérangez",
+    "dérangent",
+    "dérangeait"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'dérange' - first person singular present of 'déranger' (to disturb/bother). The question asks 'Am I bothering you with my music?'",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["politeness", "music", "consideration"],
+  "timeCreated": "2025-01-21T15:42:00Z"
+}

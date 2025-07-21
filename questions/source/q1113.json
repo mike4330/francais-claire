@@ -10,7 +10,7 @@
     "When other people are not around to listen"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Je te dirai la vérité quand tu seras prêt à l'entendre' - I will tell you the truth when you are ready to hear it. 'Dirai' is the future tense of 'dire'.",
+  "explanation": "The text states '<em>Je te dirai la vérité quand tu seras prêt à l'entendre.</em>' - I will tell you the truth when you are ready to hear it. 'Dirai' is the future tense of 'dire' (to say), and 'prêt' means ready.",
   "difficulty": "B1",
   "source": "Personal Revelation",
   "tags": [
@@ -19,5 +19,6 @@
     "readiness",
     "personal-relationships"
   ],
-  "timeCreated": 1719964900
+  "timeCreated": 1719964900,
+  "verified": "claude"
 }

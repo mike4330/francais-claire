@@ -10,15 +10,15 @@
     "regardez"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'regardes' - the second person singular form of 'regarder' (to look). With 'tu' (you), we use 'regardes'. The sentence means 'You look at your girlfriend with a lot of love in your eyes.' This introduces 'amour' (love) vocabulary.",
+  "explanation": "The text states '<em>Tu regardes ta petite amie avec beaucoup d'amour dans tes yeux.</em>' - You look at your girlfriend with a lot of love in your eyes. The correct answer is 'regardes' - the second person singular form of 'regarder' (to look). With 'tu' (you), we use 'regardes'.",
   "difficulty": "A1",
   "source": "Dating and Romantic Relationships",
   "tags": [
-    "dating",
-    "romance",
-    "relationships",
     "emotions",
-    "love"
+    "affection",
+    "family",
+    "looking"
   ],
-  "timeCreated": 1751217041
+  "timeCreated": 1751217041,
+  "verified": "claude"
 }

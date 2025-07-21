@@ -10,12 +10,13 @@
     "saura"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'sache' (3rd person singular subjunctive of 'savoir'). After 'il faut que' (it's necessary that), French requires the subjunctive mood. The sentence means 'She must know the truth about what happened that evening.'",
+  "explanation": "The text states '<em>Il faut qu'elle sache la vérité sur ce qui s'est passé ce soir-là.</em>' - She must know the truth about what happened that evening. The correct answer is 'sache' (3rd person singular subjunctive of 'savoir'). After 'il faut que' (it's necessary that), French requires the subjunctive mood.",
   "difficulty": "B2",
   "source": "Mystery Investigation",
   "tags": [
     "investigation",
     "truth"
   ],
-  "timeCreated": 1720023060
+  "timeCreated": 1720023060,
+  "verified": "claude"
 }

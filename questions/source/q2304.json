@@ -1,0 +1,18 @@
+{
+  "id": 2304,
+  "audioText": "Tu m'offres toujours ton aide quand j'en ai besoin.",
+  "question": "What does this person always do?",
+  "questionType": "comprehension",
+  "options": [
+    "Offers help when needed",
+    "Asks for assistance",
+    "Provides financial support",
+    "Gives professional advice"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu m'offres toujours ton aide quand j'en ai besoin</em>' - You always offer me your help when I need it. 'Offres' is the second person singular present of 'offrir' (to offer).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["friendship", "help", "support"],
+  "timeCreated": "2025-01-21T15:54:00Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2281,
+  "audioText": "Les touristes sont souvent trompés par ce guide malhonnête.",
+  "question": "What happens to the tourists?",
+  "questionType": "comprehension",
+  "options": [
+    "They are often deceived by this dishonest guide",
+    "They always trust their travel guide completely",
+    "They prefer to explore the city independently",
+    "They complain about the high prices"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les touristes sont souvent trompés par ce guide malhonnête</em>' - The tourists are often deceived by this dishonest guide. 'Trompés' is the past participle of 'tromper' (to deceive/trick), used here in the passive voice with 'sont'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["travel", "tourism", "fraud"],
+  "timeCreated": "2025-01-21T15:31:00Z"
+}

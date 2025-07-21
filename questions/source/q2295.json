@@ -1,0 +1,15 @@
+{
+  "id": 2295,
+  "audioText": "Prévenez-moi immédiatement si quelque chose ne va pas.",
+  "question": "Write the correct form: ______ -moi immédiatement si quelque chose ne va pas.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "Prévenez",
+  "acceptedAnswers": ["Prévenez", "prévenez"],
+  "explanation": "The correct form is 'Prévenez' - second person plural imperative of 'prévenir' (to warn/inform). The sentence means 'Warn me immediately if something is wrong.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["emergency", "communication", "instructions"],
+  "timeCreated": "2025-01-21T15:45:00Z"
+}

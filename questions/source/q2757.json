@@ -1,0 +1,18 @@
+{
+  "id": 2757,
+  "audioText": "Cet athlète professionnel s'entraîne mentalement chaque matin pour préparer ses performances lors des compétitions internationales importantes.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cet athlète professionnel s'entraîne mentalement chaque matin pour préparer ses performances lors des compétitions internationales importantes.",
+    "Cet athlète professionnel s'entraîne physiquement chaque matin pour préparer ses performances lors des compétitions internationales importantes.",
+    "Cet athlète professionnel s'entraîne mentalement chaque soir pour préparer ses performances lors des compétitions internationales importantes.",
+    "Cet athlète professionnel s'entraîne mentalement chaque matin pour préparer ses performances lors des compétitions nationales importantes."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'mentalement' (mentally). This professional athlete trains mentally every morning to prepare his performances for important international competitions.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": ["sports", "mental-training", "competition"],
+  "timeCreated": "2025-01-21T16:20:00Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2310,
+  "audioText": "Mes voisins détestent le bruit des voitures la nuit.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Mes voisins détestent le bruit des voitures la nuit.",
+    "Mes voisins détestent le bruit des avions la nuit.",
+    "Mes amis détestent le bruit des voitures la nuit.",
+    "Mes voisins détestent le bruit des voitures le jour."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'détestent' - third person plural present of 'détester' (to hate). The sentence means 'My neighbors hate the noise of cars at night.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["neighborhood", "noise", "sleep"],
+  "timeCreated": "2025-01-21T16:02:00Z"
+}

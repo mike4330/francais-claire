@@ -1,0 +1,18 @@
+{
+  "id": 2301,
+  "audioText": "Nous avons dansé jusqu'à minuit lors de la fête.",
+  "question": "How long did they dance at the party?",
+  "questionType": "comprehension",
+  "options": [
+    "Until midnight",
+    "For two hours",
+    "Until dawn",
+    "All afternoon"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous avons dansé jusqu'à minuit lors de la fête</em>' - We danced until midnight at the party. 'Dansé' is the past participle of 'danser' (to dance), used with 'avons' in the passé composé.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["party", "dancing", "time"],
+  "timeCreated": "2025-01-21T15:51:00Z"
+}

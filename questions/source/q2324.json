@@ -1,0 +1,18 @@
+{
+  "id": 2324,
+  "audioText": "J'ai une vague impression que nous nous sommes déjà rencontrés.",
+  "question": "What kind of impression does the speaker have?",
+  "questionType": "comprehension",
+  "options": [
+    "A vague impression",
+    "A strong feeling",
+    "A clear memory",
+    "A definite certainty"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai une vague impression que nous nous sommes déjà rencontrés</em>' - I have a vague impression that we have already met. 'Vague' means vague/unclear/dim.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["memory", "recognition", "uncertainty"],
+  "timeCreated": "2025-01-21T16:24:00Z"
+}

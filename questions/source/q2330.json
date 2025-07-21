@@ -1,0 +1,15 @@
+{
+  "id": 2330,
+  "audioText": "Ce morceau de musique classique est vraiment magnifique.",
+  "question": "Write the correct form: Ce ______ de musique classique est vraiment magnifique.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "morceau",
+  "acceptedAnswers": ["morceau", "Morceau"],
+  "explanation": "The correct form is 'morceau' (piece). This piece of classical music is really magnificent. 'Morceau' is used for musical pieces, artwork, or portions of something.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["music", "classical", "appreciation"],
+  "timeCreated": "2025-01-21T16:32:00Z"
+}

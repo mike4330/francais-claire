@@ -1,0 +1,18 @@
+{
+  "id": 2293,
+  "audioText": "Nous avons été prévenus du changement d'horaire hier soir.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous avons été prévenus du changement d'horaire hier soir.",
+    "Nous avons été préparés du changement d'horaire hier soir.",
+    "Nous avons été prévenus du changement d'adresse hier soir.",
+    "Nous avons été prévenus du changement d'horaire hier matin."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'prévenus' - past participle of 'prévenir' (to warn/inform), used in the passive voice. The sentence means 'We were informed of the schedule change last night.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["communication", "schedule", "information"],
+  "timeCreated": "2025-01-21T15:43:00Z"
+}

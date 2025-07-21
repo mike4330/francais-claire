@@ -10,7 +10,7 @@
     "parlez"
   ],
   "correct": 0,
-  "explanation": "With 'mon chien' (my dog), we use 'parle' - the third person singular form of 'parler' (to talk/speak). The phrase means 'My dog talks to the other animals in the park.' This tests the conjugation of 'parler' with animal vocabulary.",
+  "explanation": "The text states '<em>Mon chien parle aux autres animaux du parc</em>' - My dog talks to the other animals in the park. With 'mon chien' (my dog), we use 'parle' - the third person singular form of 'parler' (to talk/speak).",
   "difficulty": "A2",
   "source": "Basic animal behavior description with anthropomorphism",
   "tags": [
@@ -19,5 +19,7 @@
     "pets",
     "park",
     "basic-vocabulary"
-  ]
+  ],
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

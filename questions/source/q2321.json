@@ -1,0 +1,15 @@
+{
+  "id": 2321,
+  "audioText": "Sautez dans la piscine, l'eau est parfaite aujourd'hui.",
+  "question": "Write the correct form: ______ dans la piscine, l'eau est parfaite aujourd'hui.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "Sautez",
+  "acceptedAnswers": ["Sautez", "sautez"],
+  "explanation": "The correct form is 'Sautez' - second person plural imperative of 'sauter' (to jump). The instruction encourages jumping into the pool because the water is perfect today.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["swimming", "recreation", "invitation"],
+  "timeCreated": "2025-01-21T16:16:00Z"
+}

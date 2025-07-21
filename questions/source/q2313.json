@@ -1,0 +1,18 @@
+{
+  "id": 2313,
+  "audioText": "J'ai rêvé de toi toute la nuit dernière.",
+  "question": "What happened last night?",
+  "questionType": "comprehension",
+  "options": [
+    "I dreamed of you all night",
+    "I thought about you constantly",
+    "I called you several times",
+    "I wrote you a long letter"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai rêvé de toi toute la nuit dernière</em>' - I dreamed of you all night last. 'Rêvé' is the past participle of 'rêver' (to dream), used in the passé composé.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["dreams", "romance", "sleep"],
+  "timeCreated": "2025-01-21T16:08:00Z"
+}

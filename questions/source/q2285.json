@@ -1,0 +1,18 @@
+{
+  "id": 2285,
+  "audioText": "Tu te couches tard tous les vendredis soir.",
+  "question": "What is this person's Friday night habit?",
+  "questionType": "comprehension",
+  "options": [
+    "Going to bed late every Friday night",
+    "Watching movies until midnight",
+    "Meeting friends at the bar",
+    "Working late at the office"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu te couches tard tous les vendredis soir</em>' - You go to bed late every Friday night. 'Couches' is the second person singular present form of the reflexive verb 'se coucher' (to go to bed).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["daily-life", "sleep-habits", "weekend"],
+  "timeCreated": "2025-01-21T15:35:00Z"
+}

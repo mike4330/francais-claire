@@ -1,0 +1,18 @@
+{
+  "id": 689,
+  "audioText": "Je te préviens, il fait très froid dehors.",
+  "question": "Fill in the blank: Je te ______, il fait très froid dehors.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "préviens",
+    "prévient",
+    "prévenez",
+    "préviennent"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'préviens' - first person singular present of 'prévenir' (to warn). The sentence means 'I'm warning you, it's very cold outside.'",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["weather", "warning", "cold"],
+  "timeCreated": "2025-01-21T15:56:00Z"
+}

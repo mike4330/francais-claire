@@ -1,0 +1,18 @@
+{
+  "id": 2291,
+  "audioText": "Ne lâches pas tes études maintenant, c'est presque fini.",
+  "question": "What advice is being given?",
+  "questionType": "comprehension",
+  "options": [
+    "Don't give up on your studies now, it's almost over",
+    "Take a break from studying for a while",
+    "Change your major to something easier",
+    "Focus only on the most important subjects"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ne lâches pas tes études maintenant, c'est presque fini</em>' - Don't give up on your studies now, it's almost over. 'Lâches' is the second person singular present form of 'lâcher' (to let go/give up), used here in the imperative with negation.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["education", "perseverance", "encouragement"],
+  "timeCreated": "2025-01-21T15:41:00Z"
+}

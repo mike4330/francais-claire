@@ -14,5 +14,6 @@
   "difficulty": "B1",
   "source": "Gemini CLI",
   "tags": ["health", "medical", "illness"],
-  "timeCreated": 1752003765
+  "timeCreated": 1752003765,
+  "verified": "claude"
 }

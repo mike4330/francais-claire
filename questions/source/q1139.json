@@ -1,18 +1,19 @@
 {
     "id": 1139,
-    "audioText": "Le retour du docteur sec se fait insensiblement vers ce bord troisième, publiquement incroyablement léger, confusément cruellement humain.",
-    "question": "How does the doctor's return happen?",
+    "audioText": "Le retour de l'étudiant se fait graduellement vers son domicile, silencieusement mais déterminé.",
+    "question": "How does the student's return happen?",
     "questionType": "comprehension",
     "options": [
-        "Imperceptibly toward the third edge, publicly incredibly light, confusedly cruelly human",
-        "Quickly toward the first side, privately surprisingly heavy, clearly kindly mechanical",
-        "Slowly toward the second corner, secretly obviously solid, openly gently artificial",
-        "Rapidly toward the fourth boundary, loudly moderately dense, simply softly robotic"
+        "Gradually toward his home, silently but determinedly",
+        "Quickly toward his apartment, loudly but hesitantly",
+        "Slowly toward his school, openly but carelessly",
+        "Rapidly toward his work, secretly but confidently"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le retour du docteur sec se fait insensiblement vers ce bord troisième, publiquement incroyablement léger, confusément cruellement humain.</em>' - The return of the dry doctor happens imperceptibly toward this third edge, publicly incredibly light, confusedly cruelly human. 'Insensiblement' means imperceptibly or gradually without being noticed.",
+    "explanation": "The text states '<em>Le retour de l'étudiant se fait graduellement vers son domicile, silencieusement mais déterminé.</em>' - The student's return happens gradually toward his home, silently but determinedly. 'Graduellement' means gradually, and 'silencieusement' means silently.",
     "difficulty": "B1",
     "source": "Strategic vocabulary targeting",
-    "tags": ["medical", "movement", "perception", "description"],
-    "timeCreated": 1720825560
+    "tags": ["student-life", "movement", "home", "determination"],
+    "timeCreated": 1720825560,
+    "verified": "claude"
 }

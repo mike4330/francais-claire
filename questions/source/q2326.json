@@ -1,0 +1,18 @@
+{
+  "id": 2326,
+  "audioText": "La veille de son départ, elle a préparé tous ses bagages.",
+  "question": "When did she prepare her luggage?",
+  "questionType": "comprehension",
+  "options": [
+    "The day before her departure",
+    "The morning of her trip",
+    "Several weeks in advance",
+    "At the last possible moment"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La veille de son départ, elle a préparé tous ses bagages</em>' - The day before her departure, she prepared all her luggage. 'La veille' means the day before/the eve of.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["travel", "preparation", "timing"],
+  "timeCreated": "2025-01-21T16:28:00Z"
+}

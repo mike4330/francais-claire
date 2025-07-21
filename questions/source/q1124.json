@@ -10,7 +10,7 @@
     "devrez"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'devriez' (you should) - the conditional form of 'devoir'. The conditional expresses polite advice or recommendation. The sentence means 'You should consult a doctor if these symptoms persist for more than a week.' Other options: 'deviez' (imperfect), 'devez' (present), 'devrez' (future) don't convey the same polite advisory tone.",
+  "explanation": "The text states '<em>Vous devriez consulter un médecin si ces symptômes persistent plus d'une semaine.</em>' - You should consult a doctor if these symptoms persist for more than a week. The correct answer is 'devriez' (conditional form of 'devoir'), which expresses polite advice or recommendation.",
   "difficulty": "B1",
   "source": "Medical Advice",
   "tags": [
@@ -18,5 +18,6 @@
     "advice",
     "medical"
   ],
-  "timeCreated": 1751550200
+  "timeCreated": 1751550200,
+  "verified": "claude"
 }

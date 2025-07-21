@@ -10,7 +10,7 @@
     "Their lunch"
   ],
   "correct": 0,
-  "explanation": "The speaker said 'J'ai mis mes clés sur la table' - I put my keys on the table. 'Mis' is the past participle of 'mettre' (to put/place), used here with the auxiliary verb 'avoir' to form the passé composé.",
+  "explanation": "The text states '<em>J'ai mis mes clés sur la table de la cuisine avant de partir au bureau.</em>' - I put my keys on the kitchen table before leaving for the office. 'Mis' is the past participle of 'mettre' (to put/place), used here with the auxiliary verb 'avoir' to form the passé composé.",
   "difficulty": "B1",
   "source": "Daily Activities",
   "tags": [
@@ -18,5 +18,6 @@
     "home",
     "routine"
   ],
-  "timeCreated": 1720021200
+  "timeCreated": 1720021200,
+  "verified": "claude"
 }

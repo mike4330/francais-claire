@@ -1,6 +1,6 @@
 {
     "id": 987,
-    "audioText": "Nous avons nullement entendus ses mots pareils.",
+    "audioText": "Nous avons nullement entendu ses mots pareils.",
     "question": "What did they hear?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Most of his sentences"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Nous avons nullement entendus ses mots pareils</em>' - We have not heard his similar words at all. 'Entendus' is the past participle of 'entendre' (to hear), and 'nullement' means 'not at all'.",
+    "explanation": "The text states '<em>Nous avons nullement entendu ses mots pareils</em>' - We have not heard his similar words at all. 'Entendu' is the past participle of 'entendre' (to hear), and 'nullement' means 'not at all'.",
     "difficulty": "B2",
     "source": "Strategic conjugate + high-frequency adverb/adjective combination",
     "tags": ["communication", "comprehension", "conversation"],
-    "timeCreated": 1735992000
+    "timeCreated": 1735992000,
+    "verified": "claude"
 }

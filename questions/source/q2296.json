@@ -1,0 +1,18 @@
+{
+  "id": 2296,
+  "audioText": "Il habitait dans cette maison avant de déménager en ville.",
+  "question": "What did he do before moving to the city?",
+  "questionType": "comprehension",
+  "options": [
+    "He lived in this house",
+    "He worked in the countryside",
+    "He visited friends regularly",
+    "He studied at the university"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il habitait dans cette maison avant de déménager en ville</em>' - He lived in this house before moving to the city. 'Habitait' is the third person singular imperfect of 'habiter' (to live/reside).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["housing", "moving", "past-experiences"],
+  "timeCreated": "2025-01-21T15:46:00Z"
+}

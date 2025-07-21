@@ -1,0 +1,15 @@
+{
+  "id": 2308,
+  "audioText": "Tu détestes vraiment faire la vaisselle le dimanche.",
+  "question": "Write the correct form: Tu ______ vraiment faire la vaisselle le dimanche.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "détestes",
+  "acceptedAnswers": ["détestes", "Détestes"],
+  "explanation": "The correct form is 'détestes' - second person singular present of 'détester' (to hate). The sentence means 'You really hate doing the dishes on Sunday.'",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["household-chores", "weekend", "preferences"],
+  "timeCreated": "2025-01-21T16:00:00Z"
+}

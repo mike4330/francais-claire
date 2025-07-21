@@ -1,0 +1,18 @@
+{
+  "id": 2298,
+  "audioText": "La vieille église a été complètement détruite par l'incendie.",
+  "question": "What happened to the old church?",
+  "questionType": "comprehension",
+  "options": [
+    "It was completely destroyed by fire",
+    "It was renovated after the storm",
+    "It was closed for safety reasons",
+    "It was moved to another location"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La vieille église a été complètement détruite par l'incendie</em>' - The old church was completely destroyed by the fire. 'Détruite' is the feminine past participle of 'détruire' (to destroy), agreeing with 'église'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["disaster", "fire", "buildings"],
+  "timeCreated": "2025-01-21T15:48:00Z"
+}

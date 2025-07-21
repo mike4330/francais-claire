@@ -10,7 +10,7 @@
     "Start his own business"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'S'il avait plus d'argent, il irait en vacances en Italie' - If he had more money, he would go on vacation to Italy. 'Irait' is the conditional form of 'aller' (to go), expressing a hypothetical action.",
+  "explanation": "The text states '<em>S'il avait plus d'argent, il irait en vacances en Italie.</em>' - If he had more money, he would go on vacation to Italy. 'Irait' is the conditional form of 'aller' (to go), expressing a hypothetical action.",
   "difficulty": "B1",
   "source": "Hypothetical Vacation",
   "tags": [
@@ -19,5 +19,6 @@
     "italy",
     "hypothetical"
   ],
-  "timeCreated": 1720051620
+  "timeCreated": 1720051620,
+  "verified": "claude"
 }

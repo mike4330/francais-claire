@@ -10,12 +10,13 @@
     "Mon frère est soul à la maison ce soir."
   ],
   "correct": 0,
-  "explanation": "The correct sentence is 'Mon frère est seul à la maison ce soir.' - My brother is alone at home tonight. The adjective 'seul' means alone or by himself, and it takes the masculine form to agree with 'mon frère' (my brother).",
+  "explanation": "The text states '<em>Mon frère est seul à la maison ce soir.</em>' - My brother is alone at home tonight. The adjective 'seul' means alone or by himself, and it takes the masculine form to agree with 'mon frère' (my brother).",
   "difficulty": "A2",
   "source": "Family and home situation",
   "tags": [
     "family",
     "home"
   ],
-  "timeCreated": 1704067200
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

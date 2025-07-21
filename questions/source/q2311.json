@@ -1,0 +1,18 @@
+{
+  "id": 2311,
+  "audioText": "Tu pousses toujours tes collègues à donner le meilleur d'eux-mêmes.",
+  "question": "What does this person do with colleagues?",
+  "questionType": "comprehension",
+  "options": [
+    "Pushes them to give their best",
+    "Criticizes their work methods",
+    "Avoids working with them",
+    "Competes against them constantly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu pousses toujours tes collègues à donner le meilleur d'eux-mêmes</em>' - You always push your colleagues to give their best. 'Pousses' is the second person singular present of 'pousser' (to push/encourage).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["workplace", "motivation", "leadership"],
+  "timeCreated": "2025-01-21T16:03:00Z"
+}

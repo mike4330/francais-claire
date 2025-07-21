@@ -1,0 +1,18 @@
+{
+  "id": 2284,
+  "audioText": "Mes amis rient toujours de mes blagues stupides.",
+  "question": "How do the friends react to the jokes?",
+  "questionType": "comprehension",
+  "options": [
+    "They always laugh at the stupid jokes",
+    "They ignore the jokes completely",
+    "They criticize the poor humor",
+    "They tell better jokes instead"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mes amis rient toujours de mes blagues stupides</em>' - My friends always laugh at my stupid jokes. 'Rient' is the third person plural present form of 'rire' (to laugh).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["friendship", "humor", "social-interaction"],
+  "timeCreated": "2025-01-21T15:34:00Z"
+}

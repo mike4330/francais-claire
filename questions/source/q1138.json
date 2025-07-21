@@ -1,7 +1,7 @@
 {
     "id": 1138,
-    "audioText": "Le mari vivant pense que tu entendras pleinement le salut inutile des parents militaires quand tu traverseras mentalement leur ordre joli.",
-    "question": "Tu ______ pleinement le salut inutile des parents militaires quand tu traverseras mentalement leur ordre joli.",
+    "audioText": "Tu entendras clairement la musique quand tu entreras dans la salle.",
+    "question": "Tu ______ clairement la musique quand tu entreras dans la salle.",
     "questionType": "fill-in-the-blank",
     "options": [
         "entendras",
@@ -10,9 +10,10 @@
         "entendrais"
     ],
     "correct": 0,
-    "explanation": "The correct form is 'entendras' (2nd person singular future of 'entendre'). The future tense expresses what will happen: 'You will fully hear the useless greeting from the military parents when you mentally cross their pretty order.' The complete sentence is '<em>Le mari vivant pense que tu entendras pleinement le salut inutile des parents militaires quand tu traverseras mentalement leur ordre joli.</em>' - The living husband thinks that you will fully hear the useless greeting from the military parents when you mentally cross their pretty order.",
+    "explanation": "The text states '<em>Tu entendras clairement la musique quand tu entreras dans la salle.</em>' - You will hear the music clearly when you enter the room. The correct form is 'entendras' (2nd person singular future of 'entendre').",
     "difficulty": "B2",
     "source": "Strategic vocabulary targeting",
-    "tags": ["family", "military", "perception", "mental-process"],
-    "timeCreated": 1720825380
+    "tags": ["music", "future", "location"],
+    "timeCreated": 1720825380,
+    "verified": "claude"
 }

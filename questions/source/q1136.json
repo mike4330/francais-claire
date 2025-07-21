@@ -1,18 +1,19 @@
 {
     "id": 1136,
-    "audioText": "Le papa immobile, connaissant le travers de l'endroit où les minutes deviennent différentes, observe le genre d'ordre qui devient pire mais génial.",
-    "question": "What does the father know about?",
+    "audioText": "Le père observe attentivement les changements dans l'environnement.",
+    "question": "What does the father do?",
     "questionType": "comprehension",
     "options": [
-        "The quirk of the place where time becomes different",
-        "The exact location of the hidden treasure",
-        "The schedule of the daily meetings",
-        "The proper way to repair broken machinery"
+        "Observes the changes carefully",
+        "Searches for hidden objects",
+        "Reads the daily newspaper",
+        "Repairs broken equipment"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le papa immobile, connaissant le travers de l'endroit où les minutes deviennent différentes</em>' - The motionless father, knowing the quirk of the place where minutes become different. 'Connaissant' is the present participle of 'connaître' (to know), and 'travers' means quirk or peculiarity.",
+    "explanation": "The text states '<em>Le père observe attentivement les changements dans l'environnement.</em>' - The father observes the changes in the environment carefully. 'Observe' means observes/watches and 'attentivement' means carefully.",
     "difficulty": "B1",
     "source": "Strategic vocabulary targeting",
-    "tags": ["family", "knowledge", "time", "observation", "mysterious"],
-    "timeCreated": 1720825260
+    "tags": ["family", "observation", "environment"],
+    "timeCreated": 1720825260,
+    "verified": "claude"
 }

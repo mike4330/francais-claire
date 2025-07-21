@@ -11,9 +11,10 @@
         "rapidement"
     ],
     "correct": 0,
-    "explanation": "'Facilement' means 'easily'. The sentence indicates the problem was solved without difficulty.",
+    "explanation": "The text states '<em>Il a résolu le problème facilement.</em>' - He solved the problem easily. 'Facilement' means 'easily', indicating the problem was solved without difficulty.",
     "difficulty": "A2",
     "source": "Gemini-generated",
     "tags": ["problem-solving", "achievement"],
-    "timeCreated": 1720134000
+    "timeCreated": 1720134000,
+    "verified": "claude"
 }

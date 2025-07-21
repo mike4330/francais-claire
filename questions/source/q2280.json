@@ -1,0 +1,18 @@
+{
+  "id": 2280,
+  "audioText": "Marie réussit toujours ses examens avec cette méthode.",
+  "question": "What does this statement tell us about Marie?",
+  "questionType": "comprehension",
+  "options": [
+    "She always succeeds at her exams with this method",
+    "She needs help to pass her exams",
+    "She sometimes fails her important tests",
+    "She prefers to study alone for exams"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Marie réussit toujours ses examens avec cette méthode</em>' - Marie always succeeds at her exams with this method. 'Réussit' is the third person singular present form of 'réussir' (to succeed), and 'toujours' means always.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["education", "academic-success", "study-methods"],
+  "timeCreated": "2025-01-21T15:30:00Z"
+}

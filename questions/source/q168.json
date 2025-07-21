@@ -10,9 +10,10 @@
         "A small field."
     ],
     "correct": 0,
-    "explanation": "The French sentence uses 'entier' meaning 'entire/whole'. 'Le champ entier' means 'the entire field'. The farmer harvests the whole field, not just a part of it.",
+    "explanation": "The text states '<em>Le fermier récolte le champ entier</em>' - The farmer harvests the entire field. The French sentence uses 'entier' meaning 'entire/whole'. 'Le champ entier' means 'the entire field'. The farmer harvests the whole field, not just a part of it.",
     "difficulty": "A2",
     "source": "Agricultural harvesting activity",
     "tags": ["agriculture", "farming", "harvesting"],
-    "timeCreated": 1720108800
+    "timeCreated": 1720108800,
+    "verified": "claude"
 }

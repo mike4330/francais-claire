@@ -1,18 +1,19 @@
 {
     "id": 1133,
-    "audioText": "Le patron demanda à ses pieds immobiles d'avancer pendant qu'ils tenaient leur esprit vivant.",
-    "question": "What did the boss ask his motionless feet to do?",
+    "audioText": "Le directeur demanda à ses employés de continuer à travailler pendant qu'ils gardaient leur motivation.",
+    "question": "What did the director ask his employees to do?",
     "questionType": "comprehension",
     "options": [
-        "To move forward",
-        "To step backward",
-        "To stay still",
-        "To jump up"
+        "To continue working",
+        "To take a break",
+        "To leave early",
+        "To work faster"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le patron demanda à ses pieds immobiles d'avancer pendant qu'ils tenaient leur esprit vivant.</em>' - The boss asked his motionless feet to move forward while they kept their spirit alive. 'Avancer' means to move forward or advance.",
+    "explanation": "The text states '<em>Le directeur demanda à ses employés de continuer à travailler pendant qu'ils gardaient leur motivation.</em>' - The director asked his employees to continue working while they kept their motivation. 'Continuer' means to continue, and 'travailler' means to work.",
     "difficulty": "B1",
     "source": "Strategic vocabulary targeting",
-    "tags": ["workplace", "movement", "leadership", "motivation"],
-    "timeCreated": 1720824000
+    "tags": ["leadership", "motivation", "management"],
+    "timeCreated": 1720824000,
+    "verified": "claude"
 }

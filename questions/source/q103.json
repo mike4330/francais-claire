@@ -10,7 +10,7 @@
     "recette"
   ],
   "correct": 0,
-  "explanation": "The sentence means 'My grandmother tells a very funny story.' The word 'histoire' (story) fits perfectly in this context. Other options: 'chanson' (song), 'photo' (photo), 'recette' (recipe) don't make sense with the verb 'raconte' (tells/narrates).",
+  "explanation": "The text states '<em>Ma grand-mère raconte une histoire très amusante</em>' - My grandmother tells a very funny story. The word 'histoire' (story) fits perfectly in this context. Other options: 'chanson' (song), 'photo' (photo), 'recette' (recipe) don't make sense with the verb 'raconte' (tells/narrates).",
   "difficulty": "A2",
   "source": "Family storytelling context",
   "tags": [
@@ -20,5 +20,6 @@
     "entertainment",
     "oral-tradition"
   ],
-  "timeCreated": 1751331900
+  "timeCreated": 1751331900,
+  "verified": "claude"
 }

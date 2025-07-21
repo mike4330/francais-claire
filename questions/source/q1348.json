@@ -10,7 +10,7 @@
     "Forgetting to check the weather forecast"
   ],
   "correct": 0,
-  "explanation": "The text states 'C'est une mauvaise idée de sortir sans parapluie quand il pleut' - It's a bad idea to go out without an umbrella when it rains. 'Mauvaise' means bad/poor.",
+  "explanation": "The text states '<em>C'est une mauvaise idée de sortir sans parapluie quand il pleut.</em>' - It's a bad idea to go out without an umbrella when it rains. 'Mauvaise' means bad/poor.",
   "difficulty": "B1",
   "source": "Weather Advice",
   "tags": [
@@ -19,5 +19,6 @@
     "practical-tips",
     "rain"
   ],
-  "timeCreated": 1720025580
+  "timeCreated": 1720025580,
+  "verified": "claude"
 }

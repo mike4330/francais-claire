@@ -1,18 +1,19 @@
 {
     "id": 1132,
-    "audioText": "Si vous plaisez à ce parent immobile, vous perdras votre esprit et vous sentirais ridicule à travers cette épreuve sombre.",
-    "question": "What will happen to your mind if you please the motionless parent?",
+    "audioText": "Si vous acceptez cette demande difficile, vous perdrez votre calme et vous sentirez stressé pendant cette période.",
+    "question": "What will happen to your calm if you accept the difficult request?",
     "questionType": "comprehension",
     "options": [
         "You will lose it",
         "You will strengthen it",
-        "You will calm it",
-        "You will focus it"
+        "You will maintain it",
+        "You will improve it"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Si vous plaisez à ce parent immobile, vous perdras votre esprit et vous sentirais ridicule à travers cette épreuve sombre.</em>' - If you please this motionless parent, you will lose your mind and you will feel ridiculous through this dark ordeal. 'Perdras votre esprit' means you will lose your mind.",
+    "explanation": "The text states '<em>Si vous acceptez cette demande difficile, vous perdrez votre calme et vous sentirez stressé pendant cette période.</em>' - If you accept this difficult request, you will lose your calm and you will feel stressed during this period. 'Perdrez votre calme' means you will lose your calm.",
     "difficulty": "B2",
     "source": "Strategic vocabulary targeting",
-    "tags": ["psychology", "family", "challenge", "emotions"],
-    "timeCreated": 1720824000
+    "tags": ["psychology", "challenge", "emotions", "stress"],
+    "timeCreated": 1720824000,
+    "verified": "claude"
 }

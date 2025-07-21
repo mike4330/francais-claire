@@ -1,0 +1,18 @@
+{
+  "id": 2327,
+  "audioText": "Cette voie de communication permet de relier les deux villes rapidement.",
+  "question": "Fill in the blank: Cette ______ de communication permet de relier les deux villes rapidement.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "voie",
+    "voix",
+    "vue",
+    "vie"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'voie' (path/route/way). This communication route allows the two cities to be connected quickly. Note the distinction from 'voix' (voice).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["transportation", "communication", "infrastructure"],
+  "timeCreated": "2025-01-21T16:29:00Z"
+}

@@ -10,7 +10,7 @@
     "logique"
   ],
   "correct": 0,
-  "explanation": "The correct word is 'étrange' (strange). The sentence means 'He finds it strange that his favorite team is losing so many games this season.' This expresses surprise or confusion about the team's poor performance.",
+  "explanation": "The text states '<em>Il trouve étrange que son équipe favorite perde autant de matchs cette saison.</em>' - He finds it strange that his favorite team is losing so many games this season. The correct word is 'étrange' (strange), expressing surprise or confusion about the team's poor performance.",
   "difficulty": "B1",
   "source": "Sports Commentary",
   "tags": [
@@ -19,5 +19,6 @@
     "performance",
     "surprise"
   ],
-  "timeCreated": 1720052220
+  "timeCreated": 1720052220,
+  "verified": "claude"
 }

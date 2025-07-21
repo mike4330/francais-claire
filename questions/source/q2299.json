@@ -1,0 +1,18 @@
+{
+  "id": 2299,
+  "audioText": "Elle a été prévenue du retard du vol par un message électronique.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Elle a été prévenue du retard du vol par un message électronique.",
+    "Elle a été prévenue du retard du train par un message électronique.", 
+    "Elle a été préparée du retard du vol par un message électronique.",
+    "Elle a été prévenue du retard du vol par un message téléphonique."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'prévenue' - feminine past participle of 'prévenir' (to warn/inform), agreeing with 'elle'. The sentence means 'She was informed of the flight delay by an electronic message.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["travel", "flight", "communication"],
+  "timeCreated": "2025-01-21T15:49:00Z"
+}

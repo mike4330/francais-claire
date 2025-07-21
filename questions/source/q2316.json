@@ -1,0 +1,15 @@
+{
+  "id": 2316,
+  "audioText": "Où habitez-vous maintenant que vous avez déménagé ?",
+  "question": "Write the correct form: Où ______ -vous maintenant que vous avez déménagé ?",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "habitez",
+  "acceptedAnswers": ["habitez", "Habitez"],
+  "explanation": "The correct form is 'habitez' - second person plural present of 'habiter' (to live). The question asks where you live now that you have moved.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["housing", "moving", "location"],
+  "timeCreated": "2025-01-21T16:11:00Z"
+}

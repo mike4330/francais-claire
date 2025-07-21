@@ -10,7 +10,7 @@
     "irions"
   ],
   "correct": 0,
-  "explanation": "The future tense 'irons' (we will go) is used because the action will happen tomorrow ('demain'), indicating a future time.",
+  "explanation": "The text states '<em>Demain nous irons au marché pour acheter des fruits frais</em>' - Tomorrow we will go to the market to buy fresh fruit. The future tense 'irons' (we will go) is used because the action will happen tomorrow ('demain'), indicating a future time.",
   "difficulty": "A2",
   "source": "Shopping plan for tomorrow",
   "tags": [
@@ -20,5 +20,6 @@
     "food",
     "plans"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

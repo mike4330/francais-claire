@@ -1,0 +1,15 @@
+{
+  "id": 2758,
+  "audioText": "Les transformations économiques du pays se sont opérées insensiblement au cours des vingt dernières années sans que la population s'en aperçoive vraiment.",
+  "question": "Write the correct form: Les transformations économiques du pays se sont opérées ______ au cours des vingt dernières années.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "insensiblement",
+  "acceptedAnswers": ["insensiblement", "Insensiblement"],
+  "explanation": "The correct form is 'insensiblement' (imperceptibly/gradually). The country's economic transformations occurred imperceptibly over the last twenty years without the population really noticing.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": ["economics", "social-change", "gradual-transformation"],
+  "timeCreated": "2025-01-21T16:21:00Z"
+}

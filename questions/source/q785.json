@@ -10,14 +10,15 @@
     "She missed a call from work yesterday"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Elle a été appelée pour un entretien demain matin' - She was called for an interview tomorrow morning. 'Appelée' is the feminine past participle of 'appeler' (to call), used here in the passive voice.",
+  "explanation": "The text states '<em>Elle a été appelée pour un entretien demain matin.</em>' - She was called for an interview tomorrow morning. 'Appelée' is the feminine past participle of 'appeler' (to call), used here in the passive voice.",
   "difficulty": "B1",
   "source": "Job Interview",
   "tags": [
     "job-interview",
-    "work",
     "appointments",
-    "phone-calls"
+    "phone-calls",
+    "employment"
   ],
-  "timeCreated": 1720051380
+  "timeCreated": 1720051380,
+  "verified": "claude"
 }

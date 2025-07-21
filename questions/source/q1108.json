@@ -10,7 +10,7 @@
     "They need more time to make the solution work"
   ],
   "correct": 0,
-  "explanation": "The speaker says the current solution doesn't work and suggests 'essayer une autre approche' - trying another/different approach to solve the problem.",
+  "explanation": "The text states '<em>Cette solution ne marche pas, il faut essayer une autre approche pour résoudre ce problème.</em>' - This solution doesn't work, we need to try another approach to solve this problem. The speaker suggests 'essayer une autre approche' - trying another/different approach.",
   "difficulty": "B1",
   "source": "Problem Solving Strategy",
   "tags": [
@@ -19,5 +19,6 @@
     "strategy",
     "alternatives"
   ],
-  "timeCreated": 1719964000
+  "timeCreated": 1719964000,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "dois"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'devrais' (conditional of 'devoir'). It expresses a suggestion or advice: 'I should maybe take cooking classes to improve my skills.'",
+  "explanation": "The text states '<em>Je devrais peut-être prendre des cours de cuisine pour améliorer mes compétences.</em>' - I should maybe take cooking classes to improve my skills. The correct form is 'devrais' (conditional of 'devoir'), which expresses a suggestion or advice.",
   "difficulty": "B2",
   "source": "Self-Improvement",
   "tags": [
@@ -19,5 +19,6 @@
     "skills",
     "advice"
   ],
-  "timeCreated": 1719965600
+  "timeCreated": 1719965600,
+  "verified": "claude"
 }

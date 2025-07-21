@@ -1,0 +1,18 @@
+{
+  "id": 2315,
+  "audioText": "Tu habites dans cette belle maison depuis combien de temps ?",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Tu habites dans cette belle maison depuis combien de temps ?",
+    "Tu habites dans cette grande maison depuis combien de temps ?",
+    "Tu travailles dans cette belle maison depuis combien de temps ?",
+    "Tu habites dans cette belle ville depuis combien de temps ?"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'habites' - second person singular present of 'habiter' (to live). The question asks how long you have been living in this beautiful house.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["housing", "duration", "questions"],
+  "timeCreated": "2025-01-21T16:10:00Z"
+}

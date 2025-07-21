@@ -1,0 +1,18 @@
+{
+  "id": 2320,
+  "audioText": "Présentez votre projet aux investisseurs demain matin.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Présentez votre projet aux investisseurs demain matin.",
+    "Présentez votre projet aux investisseurs demain soir.",
+    "Préparez votre projet aux investisseurs demain matin.",
+    "Présentez votre produit aux investisseurs demain matin."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'présentez' - second person plural imperative of 'présenter' (to present). The instruction is to present your project to investors tomorrow morning.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["business", "presentations", "investors"],
+  "timeCreated": "2025-01-21T16:15:00Z"
+}

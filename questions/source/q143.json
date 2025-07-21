@@ -10,9 +10,10 @@
         "The shopping center"
     ],
     "correct": 1,
-    "explanation": "The French sentence 'Ce point sur la carte montre notre hôtel' means 'This point on the map shows our hotel.' The key phrase is 'montre notre hôtel' (shows our hotel).",
+    "explanation": "The text states '<em>Ce point sur la carte montre notre hôtel.</em>' - This point on the map shows our hotel. The key phrase is 'montre notre hôtel' (shows our hotel).",
     "difficulty": "A2",
     "source": "Travel context - map navigation",
     "tags": ["travel", "navigation", "accommodation", "maps"],
-    "timeCreated": 1735902100
+    "timeCreated": 1735902100,
+    "verified": "claude"
 }

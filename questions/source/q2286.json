@@ -1,0 +1,18 @@
+{
+  "id": 2286,
+  "audioText": "Ne jettes jamais tes papiers par terre, c'est important.",
+  "question": "What is the advice being given?",
+  "questionType": "comprehension",
+  "options": [
+    "Never throw your papers on the ground, it's important",
+    "Always keep your documents organized",
+    "Don't forget to recycle your newspapers",
+    "Clean up your desk regularly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ne jettes jamais tes papiers par terre, c'est important</em>' - Never throw your papers on the ground, it's important. 'Jettes' is the second person singular present form of 'jeter' (to throw), used here in the imperative with negation.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["environment", "civic-responsibility", "advice"],
+  "timeCreated": "2025-01-21T15:36:00Z"
+}

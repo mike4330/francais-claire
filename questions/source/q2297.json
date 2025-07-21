@@ -1,0 +1,18 @@
+{
+  "id": 2297,
+  "audioText": "J'ai été dérangé toute la nuit par les travaux de construction.",
+  "question": "Fill in the blank: J'ai été ______ toute la nuit par les travaux de construction.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "dérangé",
+    "dérangeant",
+    "dérange",
+    "dérangera"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'dérangé' - past participle of 'déranger' (to disturb), used in the passive voice. The sentence means 'I was disturbed all night by the construction work.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["noise", "construction", "sleep"],
+  "timeCreated": "2025-01-21T15:47:00Z"
+}

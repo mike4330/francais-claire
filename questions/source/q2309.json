@@ -1,0 +1,18 @@
+{
+  "id": 2309,
+  "audioText": "Ce problème a toujours existé dans notre quartier depuis longtemps.",
+  "question": "Fill in the blank: Ce problème a toujours ______ dans notre quartier depuis longtemps.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "existé",
+    "existe",
+    "existent",
+    "existait"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'existé' - past participle of 'exister' (to exist), used in the passé composé with 'avoir'. The sentence means 'This problem has always existed in our neighborhood for a long time.'",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["neighborhood", "problems", "duration"],
+  "timeCreated": "2025-01-21T16:01:00Z"
+}

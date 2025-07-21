@@ -10,7 +10,7 @@
     "It was boring and people left early"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'La fin du film était très émouvante' - The end of the movie was very moving. Many spectators were crying in the theater.",
+  "explanation": "The text states '<em>La fin du film était très émouvante, beaucoup de spectateurs pleuraient dans la salle.</em>' - The end of the movie was very moving, many spectators were crying in the theater. 'Émouvante' means moving/touching.",
   "difficulty": "B1",
   "source": "Cinema Experience",
   "tags": [
@@ -19,5 +19,6 @@
     "cinema",
     "reactions"
   ],
-  "timeCreated": 1719962700
+  "timeCreated": 1719962700,
+  "verified": "claude"
 }

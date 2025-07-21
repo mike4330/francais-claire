@@ -1,7 +1,7 @@
 {
   "id": 1084,
-  "audioText": "Sophie aimerait visiter Paris cet été mais elle n'a pas assez d'argent.",
-  "question": "Sophie ______ visiter Paris cet été mais elle n'a pas assez d'argent.",
+  "audioText": "Elle aimerait visiter Paris cet été mais elle n'a pas assez d'argent.",
+  "question": "Elle ______ visiter Paris cet été mais elle n'a pas assez d'argent.",
   "questionType": "fill-in-the-blank",
   "options": [
     "aimerait",
@@ -10,7 +10,7 @@
     "aime"
   ],
   "correct": 0,
-  "explanation": "The conditional 'aimerait' (would like) expresses a polite wish or hypothetical desire. Sophie would like to visit Paris but doesn't have enough money.",
+  "explanation": "The text states '<em>Elle aimerait visiter Paris cet été mais elle n'a pas assez d'argent.</em>' - She would like to visit Paris this summer but she doesn't have enough money. The conditional 'aimerait' (would like) expresses a polite wish or hypothetical desire.",
   "difficulty": "B2",
   "source": "Travel Dreams",
   "tags": [
@@ -18,5 +18,6 @@
     "finance",
     "wishes"
   ],
-  "timeCreated": 1719962200
+  "timeCreated": 1719962200,
+  "verified": "claude"
 }

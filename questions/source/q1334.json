@@ -10,7 +10,7 @@
     "Tomorrow morning to the management team"
   ],
   "correct": 0,
-  "explanation": "They 'devrons présenter nos résultats au conseil d'administration demain matin' - will have to present our results to the board of directors tomorrow morning. 'Devrons' is the 1st person plural future form of 'devoir' (must/have to).",
+  "explanation": "The text states '<em>Nous devrons présenter nos résultats au conseil d'administration demain matin.</em>' - We will have to present our results to the board of directors tomorrow morning. 'Devrons' is the 1st person plural future form of 'devoir' (must/have to).",
   "difficulty": "B2",
   "source": "Corporate Presentation",
   "tags": [
@@ -18,5 +18,6 @@
     "presentation",
     "board"
   ],
-  "timeCreated": 1720023180
+  "timeCreated": 1720023180,
+  "verified": "claude"
 }

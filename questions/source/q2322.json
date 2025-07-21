@@ -1,0 +1,18 @@
+{
+  "id": 2322,
+  "audioText": "Cette entreprise américaine domine le marché depuis dix ans.",
+  "question": "What type of company dominates the market?",
+  "questionType": "comprehension",
+  "options": [
+    "An American company",
+    "A European corporation",
+    "A local business",
+    "An Asian manufacturer"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette entreprise américaine domine le marché depuis dix ans</em>' - This American company has been dominating the market for ten years. 'Américaine' is the feminine form of the adjective 'américain' (American).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["business", "market-dominance", "nationality"],
+  "timeCreated": "2025-01-21T16:22:00Z"
+}

@@ -10,7 +10,7 @@
     "He went to work with the speaker"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Mon frère est venu me voir hier après le travail' - My brother came to see me yesterday after work. 'Venu' is the past participle of 'venir' (to come), used here in the passé composé.",
+  "explanation": "The text states '<em>Mon frère est venu me voir hier après le travail</em>' - My brother came to see me yesterday after work. 'Venu' is the past participle of 'venir' (to come), used here in the passé composé.",
   "difficulty": "A2",
   "source": "Family Visit",
   "tags": [
@@ -19,5 +19,6 @@
     "work",
     "daily-routine"
   ],
-  "timeCreated": 1720051260
+  "timeCreated": 1720051260,
+  "verified": "claude"
 }

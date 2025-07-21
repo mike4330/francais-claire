@@ -10,7 +10,7 @@
     "In the attic"
   ],
   "correct": 0,
-  "explanation": "The text states 'Ma chambre est au deuxième étage' - My room is on the second floor. 'Chambre' means bedroom/room and 'deuxième étage' means second floor.",
+  "explanation": "The text states '<em>Ma chambre est au deuxième étage.</em>' - My room is on the second floor. 'Chambre' means bedroom/room and 'deuxième étage' means second floor.",
   "difficulty": "A2",
   "source": "Home Description",
   "tags": [
@@ -19,5 +19,6 @@
     "location",
     "house-layout"
   ],
-  "timeCreated": 1720025100
+  "timeCreated": 1720025100,
+  "verified": "claude"
 }

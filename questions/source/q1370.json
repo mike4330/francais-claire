@@ -13,6 +13,7 @@
     "explanation": "The text states '<em>Il travaillait pour obtenir l'avis précédemment exprimé par le spécialiste</em>' - He was working to obtain the opinion previously expressed by the specialist. 'Travaillait' (imperfect, third person singular) is correct for ongoing past action. 'Avis' means opinion or advice.",
     "difficulty": "B2",
     "source": "Strategic targeting: avis + travaillait + précédemment",
-    "tags": ["workplace", "consultation", "expertise"],
-    "timeCreated": 1736627700
+    "tags": ["consultation", "expertise", "professional-advice"],
+    "timeCreated": 1736627700,
+    "verified": "claude"
 }

@@ -61,7 +61,7 @@
     "They doubled their sugar content."
   ],
   "correct": 0,
-  "explanation": "The sentence describes how cereals 'ont perdu la moitié de leur sucre' – lost half their sugar over a twenty-year period. All template variations maintain this core meaning with different wordings.",
+  "explanation": "The text states '<em>En vingt ans, ces céréales ont perdu la moitié de leur sucre.</em>' - In twenty years, these cereals have lost half their sugar. 'Céréales' means cereals and 'moitié' means half.",
   "difficulty": "A2",
   "source": "Nutrition News",
   "tags": [
@@ -69,5 +69,6 @@
     "nutrition",
     "change",
     "cereals"
-  ]
+  ],
+  "verified": "claude"
 }

@@ -1,0 +1,18 @@
+{
+  "id": 2290,
+  "audioText": "Tu pardonnes facilement les erreurs de tes collègues.",
+  "question": "What is this person's attitude toward colleagues' mistakes?",
+  "questionType": "comprehension",
+  "options": [
+    "They easily forgive their colleagues' errors",
+    "They report mistakes to management",
+    "They become angry about small errors",
+    "They ignore their colleagues completely"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu pardonnes facilement les erreurs de tes collègues</em>' - You easily forgive your colleagues' errors. 'Pardonnes' is the second person singular present form of 'pardonner' (to forgive).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["workplace", "forgiveness", "teamwork"],
+  "timeCreated": "2025-01-21T15:40:00Z"
+}

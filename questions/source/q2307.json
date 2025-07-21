@@ -1,0 +1,18 @@
+{
+  "id": 2307,
+  "audioText": "Quand j'étais enfant, je rêvais de devenir astronaute chaque nuit.",
+  "question": "What did this person dream about as a child?",
+  "questionType": "comprehension",
+  "options": [
+    "Becoming an astronaut every night",
+    "Flying airplanes around the world",
+    "Traveling to distant countries",
+    "Working as a scientist"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Quand j'étais enfant, je rêvais de devenir astronaute chaque nuit</em>' - When I was a child, I dreamed of becoming an astronaut every night. 'Rêvais' is the first person singular imperfect of 'rêver' (to dream).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["childhood", "dreams", "career-aspirations"],
+  "timeCreated": "2025-01-21T15:59:00Z"
+}

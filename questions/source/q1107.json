@@ -10,7 +10,7 @@
     "dirais"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'disais' (imperfect tense of dire - to say). The sentence refers to something the person used to say regularly in the past.",
+  "explanation": "The text states '<em>Tu disais toujours que tu voulais devenir médecin quand tu étais au lycée.</em>' - You always said that you wanted to become a doctor when you were in high school. The correct form is 'disais' (imperfect tense of dire - to say).",
   "difficulty": "B2",
   "source": "Career Dreams",
   "tags": [
@@ -19,5 +19,6 @@
     "dreams",
     "past-habits"
   ],
-  "timeCreated": 1719963600
+  "timeCreated": 1719963600,
+  "verified": "claude"
 }

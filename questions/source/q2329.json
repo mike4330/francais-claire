@@ -1,0 +1,18 @@
+{
+  "id": 2329,
+  "audioText": "J'ai reçu un petit paquet de mes parents hier matin.",
+  "question": "What did the speaker receive?",
+  "questionType": "comprehension",
+  "options": [
+    "A small package from parents",
+    "A large box from friends",
+    "A letter from family",
+    "A gift from colleagues"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'ai reçu un petit paquet de mes parents hier matin</em>' - I received a small package from my parents yesterday morning. 'Paquet' means package/parcel.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["family", "mail", "packages"],
+  "timeCreated": "2025-01-21T16:31:00Z"
+}

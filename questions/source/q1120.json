@@ -10,7 +10,7 @@
     "ont eu"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'auraient' (would have) - the conditional form of 'avoir'. This sentence uses the classic hypothetical structure: 'Si + imperfect, conditional' expressing what would happen if companies invested more in training. The conditional 'auraient' matches with 'seraient' (would be) later in the sentence, both expressing hypothetical consequences.",
+  "explanation": "The text states '<em>Si les entreprises investissaient plus dans la formation, leurs employés auraient de meilleures compétences et seraient plus motivés.</em>' - If companies invested more in training, their employees would have better skills and would be more motivated. The correct answer is 'auraient' (would have) - the conditional form of 'avoir'.",
   "difficulty": "B2",
   "source": "Business Training Discussion",
   "tags": [
@@ -18,5 +18,6 @@
     "workplace",
     "training"
   ],
-  "timeCreated": 1751549100
+  "timeCreated": 1751549100,
+  "verified": "claude"
 }

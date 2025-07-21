@@ -1,0 +1,18 @@
+{
+  "id": 2318,
+  "audioText": "Mes grands-parents habitent dans le même village depuis cinquante ans.",
+  "question": "Where do the grandparents live?",
+  "questionType": "comprehension",
+  "options": [
+    "In the same village for fifty years",
+    "In different cities across the country",
+    "In a retirement home nearby",
+    "In the capital with their family"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Mes grands-parents habitent dans le même village depuis cinquante ans</em>' - My grandparents live in the same village for fifty years. 'Habitent' is the third person plural present of 'habiter' (to live).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["family", "village", "duration"],
+  "timeCreated": "2025-01-21T16:13:00Z"
+}

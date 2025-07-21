@@ -10,9 +10,10 @@
         "A fresh salad"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Ma maman prépare un gâteau délicieux</em>' - My mom is preparing a delicious cake. 'Maman' is an affectionate term for mother/mom.",
+    "explanation": "The text states '<em>Ma maman prépare un gâteau délicieux pour mon anniversaire</em>' - My mom is preparing a delicious cake for my birthday. 'Maman' is an affectionate term for mother/mom.",
     "difficulty": "A1",
     "source": "Family celebrations and birthday preparations",
     "tags": ["family", "celebrations", "food"],
-    "timeCreated": 1751786460
+    "timeCreated": 1751786460,
+    "verified": "claude"
 }

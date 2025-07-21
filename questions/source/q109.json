@@ -10,7 +10,7 @@
     "Mon fils joue au tennis tous les mercredis."
   ],
   "correct": 0,
-  "explanation": "The sentence states 'mon fils joue au football tous les mercredis' - my son plays football every Wednesday.",
+  "explanation": "The text states '<em>Mon fils joue au football tous les mercredis.</em>' - My son plays football every Wednesday. 'Fils' means son and 'mercredis' means Wednesdays.",
   "difficulty": "A2",
   "source": "Weekly sports activity schedule for family member",
   "tags": [
@@ -20,5 +20,6 @@
     "activities",
     "weekly-routine"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

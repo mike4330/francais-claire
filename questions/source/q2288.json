@@ -1,0 +1,18 @@
+{
+  "id": 2288,
+  "audioText": "Je te pardonnerai si tu m'expliques sincèrement la situation.",
+  "question": "What condition is given for forgiveness?",
+  "questionType": "comprehension",
+  "options": [
+    "If you sincerely explain the situation",
+    "If you promise never to do it again",
+    "If you apologize publicly",
+    "If you make financial compensation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je te pardonnerai si tu m'expliques sincèrement la situation</em>' - I will forgive you if you sincerely explain the situation to me. 'Pardonnerai' is the first person singular future form of 'pardonner' (to forgive).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["relationships", "forgiveness", "communication"],
+  "timeCreated": "2025-01-21T15:38:00Z"
+}
