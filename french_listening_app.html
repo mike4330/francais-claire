@@ -63,20 +63,20 @@
         <div class="question-container">
             <div class="question-number" id="questionNumber">
                 <span>Question 1 of 5</span>
-                <span class="question-id" id="questionId">ID: #1</span>
+                <div class="question-meta">
+                    <span class="question-type-pill" id="questionTypePill">📖 comprehension</span>
+                </div>
             </div>
             <div class="question-text" id="questionText">
                 What did you hear?
             </div>
-            <div style="display: flex; align-items: flex-start; gap: 28px; margin-bottom: 10px;">
-                <div id="questionTypeIcon" style="width: 150px;"></div>
-                <div style="flex:1;">
-                    <div class="audio-controls">
-                        <button class="play-btn" id="playBtn">
-                            <span>▶️</span> Play Audio
+            <div class="audio-controls-container">
+                <div class="audio-controls">
+                        <button class="play-btn" id="playBtn" title="Play Audio">
+                            <span>▶️</span>
                         </button>
-                        <div class="speed-control">
-                            <label>Speed:</label>
+                        <div class="speed-control" title="Playback Speed">
+                            <span>🎚️</span>
                             <select id="speedSelect">
                                 <option value="0.75">0.75x</option>
                                 <option value="0.9" selected>0.9x</option>
@@ -85,7 +85,6 @@
                                 <option value="1.25">1.25x</option>
                             </select>
                         </div>
-                    </div>
                 </div>
             </div>
             <div class="options" id="optionsContainer">
@@ -95,10 +94,9 @@
         </div>
 
         <div class="controls">
-            <button class="btn btn-secondary" id="prevBtn" disabled>Previous</button>
-            <button class="btn btn-secondary" id="skipBtn">Skip Question</button>
-            <button class="btn btn-primary" id="submitBtn" disabled>Submit Answer</button>
-            <button class="btn btn-secondary" id="nextBtn" disabled>Next</button>
+            <button class="btn btn-secondary" id="prevBtn" disabled title="Go to previous question">⬅️</button>
+            <button class="btn btn-secondary" id="skipBtn" title="Skip this question">⏭️</button>
+            <button class="btn btn-primary" id="submitBtn" disabled title="Submit your answer">✅</button>
         </div>
 
         <div class="score" id="scoreDisplay">Score: 0/0</div>
@@ -214,6 +212,9 @@
         let answered = false;
         let userAnswers = [];
         let questionStartTime = null;
+        
+        // Session history for Previous button functionality
+        let questionHistory = [];
 
         // TTS configuration
         let currentAudio = null;
@@ -230,7 +231,6 @@
         const speedSelect = document.getElementById('speedSelect');
         const submitBtn = document.getElementById('submitBtn');
         const skipBtn = document.getElementById('skipBtn');
-        const nextBtn = document.getElementById('nextBtn');
         const prevBtn = document.getElementById('prevBtn');
         const progressBar = document.getElementById('progressBar');
         const scoreDisplay = document.getElementById('scoreDisplay');
@@ -273,6 +273,22 @@
             if (!hamburgerMenu.contains(e.target)) {
                 hamburgerMenu.classList.remove('open');
             }
+        });
+
+        // Helper function to set play button text based on screen size
+        function setPlayButtonState(isPlaying = false) {
+            const isMobile = window.innerWidth <= 768;
+            if (isMobile) {
+                playBtn.innerHTML = isPlaying ? '<span>🔊</span>' : '<span>▶️</span>';
+            } else {
+                playBtn.innerHTML = isPlaying ? '<span>🔊</span> Playing...' : '<span>▶️</span> Play Audio';
+            }
+        }
+
+        // Update button text on window resize
+        window.addEventListener('resize', () => {
+            const isCurrentlyPlaying = playBtn.innerHTML.includes('🔊');
+            setPlayButtonState(isCurrentlyPlaying);
         });
 
         // TTS Setup
@@ -808,7 +824,7 @@
             
             // Update button state
             playBtn.disabled = true;
-            playBtn.innerHTML = '<span>🔊</span> Playing...';
+            setPlayButtonState(true);
             
             try {
                 if (usePollyCheckbox.checked) {
@@ -817,13 +833,13 @@
                     
                     currentAudio.onended = () => {
                         playBtn.disabled = false;
-                        playBtn.innerHTML = '<span>▶️</span> Play Audio';
+                        setPlayButtonState(false);
                         currentAudio = null;
                     };
                     
                     currentAudio.onerror = () => {
                         playBtn.disabled = false;
-                        playBtn.innerHTML = '<span>▶️</span> Play Audio';
+                        setPlayButtonState(false);
                         alert('Audio playback error occurred.');
                     };
                     
@@ -832,12 +848,12 @@
                     // Fallback to browser TTS (uses generated text)
                     await synthesizeWithBrowser(audioText, speed);
                     playBtn.disabled = false;
-                    playBtn.innerHTML = '<span>▶️</span> Play Audio';
+                    setPlayButtonState(false);
                 }
             } catch (error) {
                 console.error('Audio playback error:', error);
                 playBtn.disabled = false;
-                playBtn.innerHTML = '<span>▶️</span> Play Audio';
+                setPlayButtonState(false);
                 alert(`Audio playback failed: ${error.message}`);
             }
         }
@@ -1121,6 +1137,7 @@
             score = 0;
             answered = false;
             userAnswers = [];
+            questionHistory = []; // Clear session history
             
             // Load performance data first, then use intelligent question selection
             loadUserPerformanceDataThenStart(level);
@@ -1450,6 +1467,7 @@
             score = 0;
             answered = false;
             userAnswers = [];
+            questionHistory = []; // Clear session history
             
             // Load the specific question directly by ID
             loadQuestion(questionId);
@@ -1798,6 +1816,11 @@
                 return;
             }
             
+            // Add current question to history before loading new one (if not already at end of history)
+            if (currentQuestionData && (questionHistory.length === 0 || questionHistory[questionHistory.length - 1] !== currentQuestionData.id)) {
+                questionHistory.push(currentQuestionData.id);
+            }
+            
             currentQuestionData = question;
             answered = false;
             selectedAnswer = null;
@@ -1810,7 +1833,6 @@
             updateListeningOptionsForVariation(question, audioText);
             
             questionNumberEl.querySelector('span:first-child').textContent = `Question #${question.id}`;
-            document.getElementById('questionId').textContent = `ID: #${question.id}`;
             // Set question type icon in the left box
             const typeIcon = question.questionType === 'listening' ? '👂' : question.questionType === 'fill-in-the-blank' ? '✏️' : question.questionType === 'writing' ? '✍️' : '📖';
             // Find the first tag with an icon in the map
@@ -1823,8 +1845,9 @@
                     }
                 }
             }
-            // Render the icons (type icon + tag icon if present)
-            document.getElementById('questionTypeIcon').innerHTML = typeIcon + (tagIcon ? `<span style='font-size:0.7em; margin-left:10px;'>${tagIcon}</span>` : '');
+            // Render the type pill
+            const pillText = typeIcon + ' ' + question.questionType + (tagIcon ? ' ' + tagIcon : '');
+            document.getElementById('questionTypePill').textContent = pillText;
             // Set question text without icon
             questionTextEl.textContent = question.question;
             
@@ -1873,14 +1896,18 @@
             
             // Reset buttons
             submitBtn.disabled = true;
-            nextBtn.disabled = true;
-            prevBtn.disabled = true; // Previous button disabled with intelligent selection
+            prevBtn.disabled = questionHistory.length === 0; // Enable if we have history
+            
+            // Show/hide submit button based on question type
+            if (question.questionType === 'writing') {
+                submitBtn.style.display = 'inline-block';
+                submitBtn.textContent = 'Submit Answer';
+            } else {
+                submitBtn.style.display = 'none';
+            }
             
             // Hide feedback
             feedback.style.display = 'none';
-            
-            // Update submit button text - with intelligent selection, always show "Submit Answer"
-            submitBtn.textContent = 'Submit Answer';
             
             // Auto-play audio after a short delay (for smooth UX)
             setTimeout(() => {
@@ -1997,7 +2024,6 @@
             
             // Update buttons
             submitBtn.disabled = true;
-            nextBtn.disabled = false;
             
             updateScore();
             
@@ -2158,8 +2184,17 @@
         // Removed nextQuestionSequential() - now using pure intelligent selection
 
         function prevQuestion() {
-            // Previous question functionality removed - now using intelligent selection only
-            console.log('⚠️ Previous question not available with intelligent selection mode');
+            if (questionHistory.length === 0) {
+                console.log('⚠️ No previous questions in session history');
+                return;
+            }
+            
+            // Get the last question from history
+            const previousQuestionId = questionHistory.pop();
+            
+            // Load the previous question (this will NOT add it back to history due to our logic)
+            console.log(`⬅️ Going back to question ${previousQuestionId}`);
+            loadQuestion(previousQuestionId);
         }
 
         function skipQuestion() {
@@ -2175,7 +2210,7 @@
             
             // Reset play button state
             playBtn.disabled = false;
-            playBtn.innerHTML = '<span>▶️</span> Play Audio';
+            setPlayButtonState(false);
             
             if (answered) {
                 // If already answered, just go to next question
@@ -2203,7 +2238,6 @@
             
             // Update buttons
             submitBtn.disabled = true;
-            nextBtn.disabled = false;
             
             updateScore();
             
@@ -2256,7 +2290,6 @@
             optionsContainer.innerHTML = resultsHTML;
             
             submitBtn.style.display = 'none';
-            nextBtn.style.display = 'none';
             skipBtn.style.display = 'none';
             
             // Refresh scoreboard to show updated stats after quiz completion
@@ -2271,10 +2304,10 @@
             score = 0;
             answered = false;
             userAnswers = [];
+            questionHistory = []; // Clear session history
             
-            submitBtn.style.display = 'inline-block';
+            // Button visibility will be handled by loadQuestion() based on question type
             skipBtn.style.display = 'inline-block';
-            nextBtn.style.display = 'inline-block';
             
             init();
             
@@ -2309,7 +2342,6 @@
         playBtn.addEventListener('click', playAudio);
         submitBtn.addEventListener('click', submitAnswer);
         skipBtn.addEventListener('click', skipQuestion);
-        nextBtn.addEventListener('click', nextQuestion);
         prevBtn.addEventListener('click', prevQuestion);
 
         // Modal event listeners
