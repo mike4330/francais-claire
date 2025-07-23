@@ -10,7 +10,6 @@ test*html
 questions/source/comp
 questions/source/parented
 questions/source/bak/*
-tts-proxy.php
 parented
 res/bak/*.csv
 res/adverbs.csv
@@ -20,3 +19,6 @@ GEMINI.md
 questions/comp
 questions/source/bak/*
 comp
+jq-linux-amd64
+tts-proxy.php
+util/questions/q-compiled-b.json

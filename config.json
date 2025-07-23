@@ -16,10 +16,10 @@
     },
     "redis": {
         "dataRetentionDays": {
-            "individualResponses": 9,
+            "individualResponses": 10,
             "audioCache": 30,
             "questionStats": 30,
-            "userQuestionStats": 9
+            "userQuestionStats": 10
         }
     },
     "imageRotator": {
@@ -32,18 +32,18 @@
         "a": {
             "levels": ["A1", "A2"],
             "minId": 1,
-            "maxId": 534,
+            "maxId": 714,
             "description": "Beginner/Elementary"
         },
         "b": {
             "levels": ["B1", "B2"],
-            "minId": 535,
-            "maxId": 2153,
+            "minId": 715,
+            "maxId": 2413,
             "description": "Intermediate/Upper-Intermediate"
         },
         "c": {
             "levels": ["C1", "C2"],
-            "minId": 2154,
+            "minId": 2414,
             "maxId": 4000,
             "description": "Advanced/Proficiency"
         }
