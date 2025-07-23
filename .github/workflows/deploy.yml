@@ -1,0 +1,38 @@
+name: Deploy to Hetzner VPS
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Deploy to Hetzner VPS
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: ${{ secrets.VPS_HOST }}
+        username: ${{ secrets.VPS_USERNAME }}
+        key: ${{ secrets.VPS_SSH_KEY }}
+        port: ${{ secrets.VPS_PORT || 22 }}
+        script: |
+          # Navigate to your app directory
+          cd /var/www/html/language
+          
+          # Pull latest changes
+          git fetch origin
+          git reset --hard origin/$(git rev-parse --abbrev-ref HEAD)
+          
+          # Set proper permissions
+          sudo chown -R www-data:www-data /var/www/html/language
+          sudo chmod -R 755 /var/www/html/language
+          
+          # Restart web server if needed
+          sudo systemctl reload nginx || sudo systemctl reload apache2 || true
+          
+          echo "✅ Deployment completed successfully"
