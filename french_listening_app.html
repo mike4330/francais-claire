@@ -541,7 +541,12 @@
         // Initialize WebSocket connection to Redis cache server
         function initializeCacheSocket() {
             try {
-                cacheSocket = new WebSocket('ws://localhost:8080');
+                // Auto-detect WebSocket URL based on environment
+                const wsProtocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+                const wsHost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
+                    ? 'localhost:8080' 
+                    : `${window.location.host}/ws`;
+                cacheSocket = new WebSocket(`${wsProtocol}//${wsHost}`);
                 
                 cacheSocket.onopen = () => {
                     console.log('✅ Connected to Redis cache server');

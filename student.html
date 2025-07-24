@@ -548,7 +548,12 @@
         document.getElementById('userIdDisplay').innerHTML = userUUID ? `<strong>User ID:</strong> <span style='font-family:monospace;'>${userUUID}</span>` : '<span style="color:#888">User ID not found</span>';
         let cacheSocket = null;
         function connectSocket() {
-            cacheSocket = new WebSocket('ws://localhost:8080');
+            // Auto-detect WebSocket URL based on environment
+            const wsProtocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsHost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
+                ? 'localhost:8080' 
+                : `${window.location.host}/ws`;
+            cacheSocket = new WebSocket(`${wsProtocol}//${wsHost}`);
             cacheSocket.onopen = () => {
                 fetchQuestionPerformance();
                 fetchLevelProgress();
