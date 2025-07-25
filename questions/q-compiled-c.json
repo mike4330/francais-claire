@@ -595,28 +595,6 @@
       "timeCreated": 1720713600
     },
     {
-      "id": 2439,
-      "audioText": "Rageusement, les investisseurs écrirai des lettres amères concernant cette mémoire collective tendre qui souvenu mal leurs échecs corporatifs.",
-      "question": "Rageusement, les investisseurs ______ des lettres amères concernant cette mémoire collective tendre qui souvenu mal leurs échecs corporatifs.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "écriront",
-        "écrirai",
-        "écrivaient",
-        "écriraient"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Rageusement, les investisseurs écriront des lettres amères concernant cette mémoire collective tendre qui a mal retenu leurs échecs corporatifs</em>' - Furiously, investors will write bitter letters concerning this tender collective memory that poorly remembered their corporate failures. This combines 'rageusement', 'écrirai', 'mémoire', 'tendre', and 'souvenu'.",
-      "difficulty": "C1",
-      "source": "Strategic targeting - rageusement + écrirai + mémoire + tendre + souvenu + corporate synergy + investment failures",
-      "tags": [
-        "corporate",
-        "investment-failures",
-        "collective-memory"
-      ],
-      "timeCreated": 1736804920
-    },
-    {
       "id": 2440,
       "audioText": "Grossièrement, cette organisation baby-care espérait que les parents retrouveras furtivement leurs larmes perdues après avoir vu la size de leur ventre.",
       "question": "What did the baby-care organization roughly hope?",
@@ -659,28 +637,6 @@
         "protocol-development"
       ],
       "timeCreated": 1736804960
-    },
-    {
-      "id": 2442,
-      "audioText": "À l'improviste, les professeurs emmènera cette merde interculturelle dans l'avion pour créer un trou dans la collaboration académique du sommeil.",
-      "question": "À l'improviste, les professeurs ______ cette merde interculturelle dans l'avion pour créer un trou dans la collaboration académique du sommeil.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "emmèneront",
-        "emmènera",
-        "emmenaient",
-        "emmèneraient"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>À l'improviste, les professeurs emmèneront cette merde interculturelle dans l'avion pour créer un trou dans la collaboration académique du sommeil</em>' - Unexpectedly, the professors will take this intercultural mess in the airplane to create a hole in the academic collaboration of sleep. This combines multiple target nouns and missing verbs.",
-      "difficulty": "C1",
-      "source": "Strategic targeting - à l'improviste + emmènera + merde + avion + trou + intercultural-exchange + academic-collaboration + sommeil synergy",
-      "tags": [
-        "intercultural-exchange",
-        "academic-collaboration",
-        "educational-disruption"
-      ],
-      "timeCreated": 1736805120
     },
     {
       "id": 2443,
@@ -1270,29 +1226,6 @@
       "timeCreated": 1720715800
     },
     {
-      "id": 2472,
-      "audioText": "Elle a parlé sagement durant cette réunion délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Elle a parlé sagement durant cette réunion délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.",
-        "Elle a parlé savamment durant cette réunion délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.",
-        "Elle a parlé sagement durant cette relation délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.",
-        "Elle a parlé sagement durant cette réunion délicate, évitant soigneusement tout contact avec ses collègues expérimentés."
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Elle a parlé sagement durant cette réunion délicate, évitant soigneusement tout conflit avec ses collègues expérimentés.</em>' - 'She spoke wisely during this delicate meeting, carefully avoiding any conflict with her experienced colleagues.' This tests the adverb 'sagement' (wisely) in a workplace context.",
-      "difficulty": "C1",
-      "source": "Professional meeting dynamics and wise communication",
-      "tags": [
-        "workplace",
-        "communication",
-        "diplomacy",
-        "wisdom"
-      ],
-      "timeCreated": 1736347200
-    },
-    {
       "id": 2473,
       "audioText": "Il a manipulé délicatement ces précieux objets d'art, comprenant leur valeur historique exceptionnelle.",
       "question": "Qu'est-ce que vous avez entendu?",
@@ -1403,7 +1336,7 @@
         "journalism",
         "critical-thinking"
       ],
-      "parentQuestion": 429,
+      "parentQuestion": 2369,
       "timeCreated": 1736626380
     },
     {
@@ -1700,28 +1633,6 @@
         "endurance"
       ],
       "timeCreated": 1720823200
-    },
-    {
-      "id": 2495,
-      "audioText": "Il faut que tu ailles chercher les documents au bureau avant cinq heures.",
-      "question": "What does the person need to do before five o'clock?",
-      "questionType": "comprehension",
-      "options": [
-        "Go get the documents at the office.",
-        "Send the documents to the office.",
-        "Read the documents at the office.",
-        "Sign the documents at the office."
-      ],
-      "correct": 0,
-      "explanation": "The French sentence uses 'ailles' - the subjunctive form of 'aller' (to go) for tu. 'Il faut que tu ailles' means 'you must go/it's necessary that you go'. The subjunctive is required after 'il faut que'.",
-      "difficulty": "C1",
-      "source": "Professional task instruction",
-      "tags": [
-        "workplace",
-        "urgency",
-        "administrative"
-      ],
-      "timeCreated": 1720108800
     },
     {
       "id": 2496,
@@ -2485,28 +2396,6 @@
         "psychological-investigation"
       ],
       "timeCreated": 1736805700
-    },
-    {
-      "id": 2530,
-      "audioText": "Nous serions reconnaissants si vous pouviez nous accorder quelques minutes pour discuter de cette proposition importante.",
-      "question": "What are the speakers requesting?",
-      "questionType": "comprehension",
-      "options": [
-        "A few minutes to discuss an important proposal",
-        "A formal written response to their request",
-        "A complete rejection of their proposal",
-        "An immediate decision on the matter"
-      ],
-      "correct": 0,
-      "explanation": "The sentence uses 'serions' (conditional 1st person plural of être) to politely request a few minutes to discuss an important proposal.",
-      "difficulty": "C1",
-      "source": "Formal business request with conditional politeness",
-      "tags": [
-        "business",
-        "formal-request",
-        "proposals"
-      ],
-      "timeCreated": 1719936360
     },
     {
       "id": 2531,
@@ -7887,33 +7776,11 @@
         "urban-issues"
       ],
       "timeCreated": "2025-01-23T17:12:00Z"
-    },
-    {
-      "id": 2770,
-      "audioText": "Tu détruis alternativement les objets précieux de la collection familiale, créant une ombre de tristesse sur les souvenirs de nos ancêtres.",
-      "question": "What effect does the destruction have on family memories?",
-      "questionType": "comprehension",
-      "options": [
-        "You alternately destroy precious objects from the family collection, casting a shadow of sadness over our ancestors' memories",
-        "The destruction actually preserves the family memories better",
-        "You are carefully preserving all the family objects",
-        "The family collection is growing larger with new additions"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Tu détruis alternativement les objets précieux de la collection familiale, créant une ombre de tristesse sur les souvenirs de nos ancêtres</em>' - You alternately destroy precious objects from the family collection, creating a shadow of sadness over the memories of our ancestors. 'Détruis' is second person singular present of 'détruire' (to destroy), with missing adverb 'alternativement' (alternately) and noun 'ombre' (shadow).",
-      "difficulty": "C1",
-      "source": "claude",
-      "tags": [
-        "family-heritage",
-        "shadow",
-        "past-experiences"
-      ],
-      "timeCreated": "2025-01-23T17:13:00Z"
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-25T02:28:48.803Z",
-    "totalQuestions": 343,
+    "compiledAt": "2025-07-25T11:35:05.006Z",
+    "totalQuestions": 337,
     "level": "C",
     "idRange": "2414-4000",
     "difficulties": [

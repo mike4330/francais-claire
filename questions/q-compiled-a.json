@@ -854,30 +854,6 @@
       "verified": "claude"
     },
     {
-      "id": 42,
-      "audioText": "Il fait très chaud dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange.",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Il fait très chaud dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange.",
-        "Il fait très froid dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange.",
-        "Il fait très chaud dans le nord et l'ouest de la France ce weekend. Treize départements sont en alerte orange.",
-        "Il fait très chaud dans le sud et l'est de la France ce weekend. Trois départements sont en alerte orange."
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is the first option. The text states '<em>Il fait très chaud dans le sud et l'est de la France ce weekend. Treize départements sont en alerte orange</em>' - It's very hot in southern and eastern France this weekend. Thirteen departments are under orange alert. Key distinctions: 'chaud' vs 'froid', 'sud et l'est' vs 'nord et l'ouest', 'treize' vs 'trois'.",
-      "difficulty": "A2",
-      "source": "French Weather - Simple Listening",
-      "tags": [
-        "weather",
-        "france",
-        "heat",
-        "alert"
-      ],
-      "timeCreated": 1720051200,
-      "verified": "claude"
-    },
-    {
       "id": 43,
       "audioText": "Je donnerais un pourboire au serveur s'il était gentil.",
       "question": "Qu'est-ce que vous avez entendu?",
@@ -2579,30 +2555,6 @@
       "verified": "claude"
     },
     {
-      "id": 116,
-      "audioText": "Ma chambre est très propre maintenant, j'ai tout rangé hier soir.",
-      "question": "Ma chambre est très ______ maintenant, j'ai tout rangé hier soir.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "propre",
-        "sale",
-        "grande",
-        "petite"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Ma chambre est très propre maintenant, j'ai tout rangé hier soir</em>' - My room is very clean now, I tidied everything up last night. The correct answer is 'propre' (clean). The context 'j'ai tout rangé hier soir' indicates that the room is now clean after organizing.",
-      "difficulty": "A2",
-      "source": "Household Tasks",
-      "tags": [
-        "home",
-        "cleaning",
-        "daily-life",
-        "bedroom"
-      ],
-      "timeCreated": 1751494921,
-      "verified": "claude"
-    },
-    {
       "id": 117,
       "audioText": "Es-tu prêt pour l'examen de demain? J'ai étudié toute la semaine.",
       "question": "Qu'est-ce que vous avez entendu?",
@@ -3296,6 +3248,28 @@
       "verified": "claude"
     },
     {
+      "id": 146,
+      "audioText": "Je déteste les légumes verts.",
+      "question": "What does this person dislike?",
+      "questionType": "comprehension",
+      "options": [
+        "Green vegetables",
+        "Red fruits",
+        "White bread",
+        "Brown meat"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je déteste les légumes verts</em>' - I hate green vegetables. 'Déteste' is the first person singular present of 'détester' (to hate/detest).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "food",
+        "preferences",
+        "vegetables"
+      ],
+      "timeCreated": "2025-01-21T15:55:00Z"
+    },
+    {
       "id": 147,
       "audioText": "Mon frère est venu me rendre visite hier soir avec sa nouvelle voiture.",
       "question": "Mon frère est ______ me rendre visite hier soir avec sa nouvelle voiture.",
@@ -3664,6 +3638,29 @@
         "conversation"
       ],
       "timeCreated": 1720027220,
+      "verified": "claude"
+    },
+    {
+      "id": 163,
+      "audioText": "Il mange un morceau de pain.",
+      "question": "Il mange un ______ de pain.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "morceau",
+        "verre",
+        "paquet",
+        "kilo"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il mange un morceau de pain.</em>' - He eats a piece of bread. 'Morceau' means piece, bit, or chunk of something.",
+      "difficulty": "A2",
+      "source": "Eating bread",
+      "tags": [
+        "food",
+        "bread",
+        "eating"
+      ],
+      "timeCreated": 1737420300,
       "verified": "claude"
     },
     {
@@ -5253,29 +5250,6 @@
       "verified": "claude"
     },
     {
-      "id": 234,
-      "audioText": "Les voyageurs demandent des informations sur les trains pour Lyon à la gare.",
-      "question": "What are the travelers asking for information about?",
-      "questionType": "comprehension",
-      "options": [
-        "Trains to Lyon at the train station",
-        "Bus schedules to Paris at the depot",
-        "Flight times to Nice at the airport",
-        "Hotel reservations in Lyon downtown"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Les voyageurs demandent des informations sur les trains pour Lyon à la gare</em>' - The travelers are asking for information about trains to Lyon at the train station. 'Demandent' is the third person plural form of 'demander' (to ask for).",
-      "verified": "claude",
-      "difficulty": "A2",
-      "source": "Train station",
-      "tags": [
-        "trains",
-        "travel",
-        "information"
-      ],
-      "timeCreated": 1704415080
-    },
-    {
       "id": 235,
       "audioText": "Tu aides ta mère avec les courses chaque samedi ?",
       "question": "Tu ______ ta mère avec les courses chaque samedi ?",
@@ -5822,7 +5796,8 @@
         "health",
         "time"
       ],
-      "timeCreated": 1736806560
+      "timeCreated": 1736806560,
+      "verified": "claude"
     },
     {
       "id": 259,
@@ -7184,7 +7159,7 @@
         "information"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 234,
+      "parentQuestion": 2372,
       "verified": "claude"
     },
     {
@@ -8761,29 +8736,6 @@
       "parentQuestion": 295
     },
     {
-      "id": 388,
-      "audioText": "Mon téléphone ne marche pas bien ce matin.",
-      "question": "What does the speaker say is not working well this morning?",
-      "questionType": "listening",
-      "options": [
-        "My telephone",
-        "My computer",
-        "My television",
-        "My radio"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Mon téléphone ne marche pas bien ce matin</em>' - My telephone is not working well this morning. 'Téléphone' means telephone, and 'ne marche pas bien' means is not working well. The distractors test misinterpretation of the device mentioned (computer, television, radio).",
-      "difficulty": "A2",
-      "source": "Gemini CLI - Listening practice",
-      "tags": [
-        "technology",
-        "communication",
-        "daily-life"
-      ],
-      "timeCreated": 1720800000,
-      "parentQuestion": 330
-    },
-    {
       "id": 389,
       "audioText": "Le jeune homme nettoie relativement sa chambre sale.",
       "question": "What does the speaker say about how the young man cleans his dirty room?",
@@ -9033,28 +8985,6 @@
       ],
       "timeCreated": 1720800000,
       "parentQuestion": 108
-    },
-    {
-      "id": 400,
-      "audioText": "Cette belle parole réconforte mon cœur triste.",
-      "question": "What comforts the sad heart?",
-      "questionType": "comprehension",
-      "options": [
-        "This beautiful word",
-        "The happy memory",
-        "The warm embrace",
-        "The gentle music"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'This beautiful word'. The text states '<em>Cette belle parole réconforte mon cœur triste</em>' - This beautiful word comforts my sad heart. 'Parole' means word or speech, and it's what provides comfort here.",
-      "difficulty": "A2",
-      "source": "Strategic noun targeting - parole",
-      "tags": [
-        "emotions",
-        "comfort",
-        "communication"
-      ],
-      "timeCreated": 1736801200
     },
     {
       "id": 401,
@@ -10025,28 +9955,6 @@
       "timeCreated": 1736783220
     },
     {
-      "id": 446,
-      "audioText": "La petite fille a été sauvée par les pompiers.",
-      "question": "La petite fille a été ______ par les pompiers.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "sauvée",
-        "soignée",
-        "trouvée",
-        "aidée"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>La petite fille a été sauvée par les pompiers</em>' - The little girl was saved by the firefighters. 'Sauvée' is the feminine past participle of 'sauver' (to save), agreeing with 'fille'.",
-      "difficulty": "A2",
-      "source": "Emergency rescue conversation",
-      "tags": [
-        "emergency",
-        "rescue",
-        "children"
-      ],
-      "timeCreated": 1736783400
-    },
-    {
       "id": 447,
       "audioText": "Ma sœur que j'ai rencontrée hier travaille maintenant à Paris.",
       "question": "Who works in Paris now?",
@@ -10351,29 +10259,6 @@
       "verified": "claude"
     },
     {
-      "id": 460,
-      "audioText": "Il éteignit sa cigarette dans ce bel endroit.",
-      "question": "Il éteignit sa cigarette dans ce ______ endroit.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "bel",
-        "belle",
-        "beau",
-        "beaux"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Il éteignit sa cigarette dans ce bel endroit</em>' - He put out his cigarette in this beautiful place. The correct form is 'bel' (masculine form of 'beau' used before vowels), agreeing with 'endroit' (masculine).",
-      "difficulty": "A2",
-      "source": "Claude-generated",
-      "tags": [
-        "smoking",
-        "places",
-        "adjectives"
-      ],
-      "timeCreated": 1735953420,
-      "verified": "claude"
-    },
-    {
       "id": 461,
       "audioText": "J'ai subitement envie de faire le tour du quartier.",
       "question": "J'ai subitement envie de faire le tour du quartier.",
@@ -10389,12 +10274,13 @@
       "difficulty": "A2",
       "source": "Spontaneous activity",
       "tags": [
-        "retirement",
         "leisure",
-        "walking"
+        "walking",
+        "spontaneous-activity"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 918
+      "parentQuestion": 918,
+      "verified": "claude"
     },
     {
       "id": 462,
@@ -11158,6 +11044,75 @@
       "timeCreated": 1720134000
     },
     {
+      "id": 496,
+      "audioText": "Ce gosse joue dans le jardin.",
+      "question": "Ce ______ joue dans le jardin.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "gosse",
+        "chien",
+        "chat",
+        "oiseau"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce gosse joue dans le jardin.</em>' - This kid plays in the garden. 'Gosse' means kid or child (informal term).",
+      "difficulty": "A2",
+      "source": "Child playing",
+      "tags": [
+        "children",
+        "play",
+        "garden"
+      ],
+      "timeCreated": 1737420240,
+      "verified": "claude"
+    },
+    {
+      "id": 497,
+      "audioText": "Le chat lève sa patte droite.",
+      "question": "Le chat lève sa ______ droite.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "patte",
+        "queue",
+        "oreille",
+        "tête"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le chat lève sa patte droite.</em>' - The cat lifts its right paw. 'Patte' means paw, the foot of an animal with claws.",
+      "difficulty": "A2",
+      "source": "Cat behavior",
+      "tags": [
+        "animals",
+        "cats",
+        "behavior"
+      ],
+      "timeCreated": 1737420180,
+      "verified": "claude"
+    },
+    {
+      "id": 498,
+      "audioText": "Cette lampe éclaire bien la pièce.",
+      "question": "Cette ______ éclaire bien la pièce.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "lampe",
+        "fenêtre",
+        "bougie",
+        "télévision"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette lampe éclaire bien la pièce.</em>' - This lamp lights the room well. 'Lampe' means lamp, a device that produces light.",
+      "difficulty": "A2",
+      "source": "Room lighting",
+      "tags": [
+        "lighting",
+        "home",
+        "furniture"
+      ],
+      "timeCreated": 1737420120,
+      "verified": "claude"
+    },
+    {
       "id": 499,
       "audioText": "L'équipe de commerce bat positivement les records lors de ce rendez-vous important.",
       "question": "What does the commerce team do during this important meeting?",
@@ -11191,7 +11146,7 @@
         "The people responsible for them"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Je vous expliquerai logiquement ces procédures anglaises concernant la preuve</em>' - I will logically explain to you these English procedures concerning the proof. 'Expliquerai' (future tense), 'logiquement' (adverb), 'anglaises' (adjective), 'preuve' (noun), 'procédures' (topic) are all priority targets.",
+      "explanation": "The text states '<em>Je vous expliquerai logiquement ces procédures anglaises concernant la preuve</em>' - I will logically explain to you these English procedures concerning the proof. The verb 'expliquerai' is the future tense of 'expliquer' (to explain).",
       "difficulty": "A2",
       "source": "Claude",
       "tags": [
@@ -11199,7 +11154,8 @@
         "explanation",
         "legal"
       ],
-      "timeCreated": 1721049600
+      "timeCreated": 1721049600,
+      "verified": "claude"
     },
     {
       "id": 501,
@@ -15402,120 +15358,6 @@
       "verified": "claude"
     },
     {
-      "id": 684,
-      "audioText": "Cette lampe éclaire bien la pièce.",
-      "question": "Cette ______ éclaire bien la pièce.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "lampe",
-        "fenêtre",
-        "bougie",
-        "télévision"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Cette lampe éclaire bien la pièce.</em>' - This lamp lights the room well. 'Lampe' means lamp, a device that produces light.",
-      "difficulty": "A2",
-      "source": "Room lighting",
-      "tags": [
-        "lighting",
-        "home",
-        "furniture"
-      ],
-      "timeCreated": 1737420120,
-      "verified": "claude"
-    },
-    {
-      "id": 685,
-      "audioText": "Le chat lève sa patte droite.",
-      "question": "Le chat lève sa ______ droite.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "patte",
-        "queue",
-        "oreille",
-        "tête"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Le chat lève sa patte droite.</em>' - The cat lifts its right paw. 'Patte' means paw, the foot of an animal with claws.",
-      "difficulty": "A2",
-      "source": "Cat behavior",
-      "tags": [
-        "animals",
-        "cats",
-        "behavior"
-      ],
-      "timeCreated": 1737420180,
-      "verified": "claude"
-    },
-    {
-      "id": 686,
-      "audioText": "Ce gosse joue dans le jardin.",
-      "question": "Ce ______ joue dans le jardin.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "gosse",
-        "chien",
-        "chat",
-        "oiseau"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Ce gosse joue dans le jardin.</em>' - This kid plays in the garden. 'Gosse' means kid or child (informal term).",
-      "difficulty": "A2",
-      "source": "Child playing",
-      "tags": [
-        "children",
-        "play",
-        "garden"
-      ],
-      "timeCreated": 1737420240,
-      "verified": "claude"
-    },
-    {
-      "id": 687,
-      "audioText": "Il mange un morceau de pain.",
-      "question": "Il mange un ______ de pain.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "morceau",
-        "verre",
-        "paquet",
-        "kilo"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Il mange un morceau de pain.</em>' - He eats a piece of bread. 'Morceau' means piece, bit, or chunk of something.",
-      "difficulty": "A2",
-      "source": "Eating bread",
-      "tags": [
-        "food",
-        "bread",
-        "eating"
-      ],
-      "timeCreated": 1737420300,
-      "verified": "claude"
-    },
-    {
-      "id": 688,
-      "audioText": "Je déteste les légumes verts.",
-      "question": "What does this person dislike?",
-      "questionType": "comprehension",
-      "options": [
-        "Green vegetables",
-        "Red fruits",
-        "White bread",
-        "Brown meat"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Je déteste les légumes verts</em>' - I hate green vegetables. 'Déteste' is the first person singular present of 'détester' (to hate/detest).",
-      "difficulty": "A2",
-      "source": "claude",
-      "tags": [
-        "food",
-        "preferences",
-        "vegetables"
-      ],
-      "timeCreated": "2025-01-21T15:55:00Z"
-    },
-    {
       "id": 689,
       "audioText": "Je te préviens, il fait très froid dehors.",
       "question": "Fill in the blank: Je te ______, il fait très froid dehors.",
@@ -15646,11 +15488,431 @@
         "patience"
       ],
       "timeCreated": "2025-01-21T17:05:00Z"
+    },
+    {
+      "id": 695,
+      "audioText": "Il marchait dans la rue semblant très pressé.",
+      "question": "How did he appear while walking?",
+      "questionType": "comprehension",
+      "options": [
+        "He seemed very rushed",
+        "He looked completely relaxed",
+        "He appeared confused and lost",
+        "He seemed tired and slow"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il marchait dans la rue semblant très pressé</em>' - He was walking down the street seeming very rushed. The present participle 'semblant' means 'seeming' and describes his apparent state while walking.",
+      "difficulty": "A2",
+      "source": "Claude-generated",
+      "tags": [
+        "movement",
+        "appearance",
+        "street",
+        "urgency"
+      ],
+      "timeCreated": 1735951680,
+      "verified": "claude"
+    },
+    {
+      "id": 696,
+      "audioText": "Un salaire égal pour tous suffisait à maintenir la paix sociale.",
+      "question": "What was sufficient to maintain social peace?",
+      "questionType": "comprehension",
+      "options": [
+        "Equal salary for everyone",
+        "Better working conditions",
+        "More vacation time",
+        "Flexible work schedules"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Un salaire égal pour tous suffisait à maintenir la paix sociale</em>' - An equal salary for everyone was sufficient to maintain social peace. The verb 'suffisait' is the imperfect of 'suffire', and 'égal' means equal.",
+      "difficulty": "A2",
+      "source": "Claude-generated",
+      "tags": [
+        "equality",
+        "politics",
+        "social-issues"
+      ],
+      "timeCreated": 1735952040,
+      "verified": "claude"
+    },
+    {
+      "id": 697,
+      "audioText": "Mon chat se cache toujours là-haut sur l'armoire quand il a peur.",
+      "question": "Where does the cat hide when it's scared?",
+      "questionType": "comprehension",
+      "options": [
+        "Up there on the wardrobe",
+        "Under the bed",
+        "Behind the door",
+        "In the basement"
+      ],
+      "correct": 0,
+      "explanation": "The speaker said 'Mon chat se cache toujours là-haut sur l'armoire' - My cat always hides up there on the wardrobe. 'Là-haut' means 'up there' or 'upstairs', indicating a high location.",
+      "difficulty": "A2",
+      "source": "Pet behavior",
+      "tags": [
+        "pets",
+        "behavior",
+        "hiding"
+      ],
+      "timeCreated": 1720077400,
+      "verified": "claude"
+    },
+    {
+      "id": 698,
+      "audioText": "Nous nous promenons le long de la côte méditerranéenne.",
+      "question": "Where are they walking?",
+      "questionType": "comprehension",
+      "options": [
+        "Along the Mediterranean coast",
+        "In the city center",
+        "Through the forest",
+        "Around the lake"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous nous promenons le long de la côte méditerranéenne</em>' - We are walking along the Mediterranean coast. '<em>Côte</em>' means coast or shore.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "travel",
+        "geography",
+        "recreation"
+      ],
+      "timeCreated": "2025-07-16T00:00:00Z",
+      "verified": "claude"
+    },
+    {
+      "id": 699,
+      "audioText": "Ce dingue descend affreusement dans la douleur maintenant.",
+      "question": "Ce dingue ______ affreusement dans la douleur maintenant.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "descends",
+        "descend",
+        "descendez",
+        "descendant"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce dingue descend affreusement dans la douleur maintenant</em>' - This crazy person descends terribly into pain now. 'Descend' is the third person singular present form of 'descendre' (to descend).",
+      "difficulty": "A2",
+      "source": "Psychological drama discussion",
+      "tags": [
+        "psychology",
+        "emotions",
+        "health",
+        "mental-state"
+      ],
+      "timeCreated": 1736784480,
+      "verified": "claude"
+    },
+    {
+      "id": 700,
+      "audioText": "Elle cherchait fébrilement son chapeau avant de sortir en retard.",
+      "question": "How was she searching for her hat?",
+      "questionType": "comprehension",
+      "options": [
+        "Feverishly",
+        "Calmly",
+        "Casually",
+        "Methodically"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle cherchait fébrilement son chapeau avant de sortir en retard</em>' - She was feverishly searching for her hat before going out late. The adverb 'fébrilement' means feverishly/frantically, and 'chapeau' means hat.",
+      "difficulty": "A2",
+      "source": "Claude-generated",
+      "tags": [
+        "clothing",
+        "urgency",
+        "search",
+        "daily-life"
+      ],
+      "timeCreated": 1735953240,
+      "verified": "claude"
+    },
+    {
+      "id": 701,
+      "audioText": "Le sable fin de cette plage est parfait pour les enfants.",
+      "question": "What is perfect for children?",
+      "questionType": "comprehension",
+      "options": [
+        "The fine sand of this beach",
+        "The cold water",
+        "The high waves",
+        "The rocky shore"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le sable fin de cette plage est parfait pour les enfants</em>' - The fine sand of this beach is perfect for children. '<em>Sable</em>' means sand.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "beach",
+        "family",
+        "recreation"
+      ],
+      "timeCreated": "2025-07-16T00:00:00Z",
+      "verified": "claude"
+    },
+    {
+      "id": 702,
+      "audioText": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
+      "question": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
+      "questionType": "listening",
+      "options": [
+        "Pull out the documents temporarily on purpose to analyze the situation",
+        "Push the documents away temporarily by accident to analyze the situation",
+        "Keep the documents hidden temporarily on purpose to analyze the situation",
+        "Destroy the documents temporarily by mistake to analyze the situation"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Allez, tirons provisoirement ces documents exprès pour analyser la situation</em>' - Come on, let's temporarily pull out these documents on purpose to analyze the situation. 'Tirons' is the imperative 'let's pull', 'provisoirement' means temporarily, and 'exprès' means on purpose/deliberately. The distractors test confusion about the action and intent.",
+      "difficulty": "A2",
+      "source": "Strategic targeting: tirons + provisoirement + exprès",
+      "tags": [
+        "documents",
+        "analysis",
+        "investigation"
+      ],
+      "timeCreated": 1720881353,
+      "parentQuestion": 1385,
+      "verified": "claude"
+    },
+    {
+      "id": 703,
+      "audioText": "Est-ce que vous comprenez la situation actuelle?",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Est-ce que vous comprenez la situation actuelle?",
+        "Est-ce que vous comprendrez la situation future?",
+        "Est-ce que vous compreniez la situation passée?",
+        "Est-ce que vous apprenez la situation actuelle?"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Est-ce que vous comprenez la situation actuelle?</em>' - Do you understand the current situation? 'Comprenez' is the second person plural of 'comprendre' (to understand), and 'actuelle' means current.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "formal-discourse",
+        "understanding"
+      ],
+      "timeCreated": 1720134000,
+      "verified": "claude"
+    },
+    {
+      "id": 704,
+      "audioText": "Ses propos à propos de l'honneur familial ont été mal reçus par l'assemblée.",
+      "question": "How were his remarks about family honor received?",
+      "questionType": "comprehension",
+      "options": [
+        "They were poorly received by the assembly",
+        "They were enthusiastically applauded",
+        "They were completely ignored",
+        "They were carefully recorded"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ses propos à propos de l'honneur familial ont été mal reçus par l'assemblée</em>' - His remarks about family honor were poorly received by the assembly. This targets the nouns 'propos' and 'honneur' in a family reputation context.",
+      "difficulty": "A2",
+      "source": "Strategic noun targeting: propos, honneur",
+      "tags": [
+        "family",
+        "reputation",
+        "social-response"
+      ],
+      "timeCreated": 1720618760,
+      "verified": "claude"
+    },
+    {
+      "id": 705,
+      "audioText": "Cette belle parole réconforte mon cœur triste.",
+      "question": "What comforts the sad heart?",
+      "questionType": "comprehension",
+      "options": [
+        "This beautiful word",
+        "The happy memory",
+        "The warm embrace",
+        "The gentle music"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'This beautiful word'. The text states '<em>Cette belle parole réconforte mon cœur triste</em>' - This beautiful word comforts my sad heart. 'Parole' means word or speech, and it's what provides comfort here.",
+      "difficulty": "A1",
+      "source": "Strategic noun targeting - parole",
+      "tags": [
+        "emotions",
+        "comfort",
+        "communication"
+      ],
+      "timeCreated": 1736801200,
+      "verified": "claude"
+    },
+    {
+      "id": 706,
+      "audioText": "Mon chien sort toujours dans le jardin après ses repas pour se détendre.",
+      "question": "When does the dog go outside?",
+      "questionType": "comprehension",
+      "options": [
+        "After his meals to relax",
+        "Before his meals to exercise",
+        "During his meals to play",
+        "Instead of his meals to hunt"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mon chien sort toujours dans le jardin après ses repas pour se détendre</em>' - My dog always goes out into the garden after his meals to relax. 'Sort' is the 3rd person singular present of 'sortir' (to go out), and 'après ses repas' means after his meals.",
+      "difficulty": "A2",
+      "source": "Pet routine",
+      "tags": [
+        "animals",
+        "pets",
+        "routine",
+        "garden",
+        "daily-life"
+      ],
+      "timeCreated": 1736065300,
+      "verified": "claude"
+    },
+    {
+      "id": 707,
+      "audioText": "Nous avons exactement la même voiture que nos voisins.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Nous avons exactement la même voiture que nos voisins.",
+        "Nous avons exactement la mème voiture que nos voisins.",
+        "Nous avons exactement la mem voiture que nos voisins.",
+        "Nous avons exactement la mime voiture que nos voisins."
+      ],
+      "correct": 0,
+      "explanation": "The correct form is 'même' (same). This adjective requires a circumflex accent on the 'e' to distinguish it from other similar words. 'La même voiture' means 'the same car' - we have exactly the same car as our neighbors.",
+      "difficulty": "A2",
+      "source": "Comparison with neighbors and possessions",
+      "tags": [
+        "comparison",
+        "neighbors",
+        "possessions"
+      ],
+      "timeCreated": 1704067200,
+      "verified": "claude"
+    },
+    {
+      "id": 708,
+      "audioText": "Mon téléphone ne marche pas bien ce matin.",
+      "question": "What does the speaker say is not working well this morning?",
+      "questionType": "comprehension",
+      "options": [
+        "My telephone",
+        "My computer",
+        "My television",
+        "My radio"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mon téléphone ne marche pas bien ce matin</em>' - My telephone is not working well this morning. 'Téléphone' means telephone, and 'ne marche pas bien' means is not working well. The distractors test misinterpretation of the device mentioned (computer, television, radio).",
+      "difficulty": "A1",
+      "source": "Gemini CLI - Listening practice",
+      "tags": [
+        "technology",
+        "communication",
+        "daily-life"
+      ],
+      "timeCreated": 1720800000,
+      "parentQuestion": 330,
+      "verified": "claude"
+    },
+    {
+      "id": 709,
+      "audioText": "Le gouvernement a décidé de créer un service militaire obligatoire.",
+      "question": "What did the government decide to create?",
+      "questionType": "comprehension",
+      "options": [
+        "A mandatory military service.",
+        "A voluntary military service.",
+        "A civilian service program.",
+        "A medical service program."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le gouvernement a décidé de créer un service militaire obligatoire</em>' - The government decided to create a mandatory military service. The French sentence uses 'militaire' meaning 'military'. 'Un service militaire obligatoire' means 'a mandatory military service'. 'Militaire' is an adjective describing the type of service.",
+      "difficulty": "A2",
+      "source": "Government policy discussion",
+      "tags": [
+        "politics",
+        "government",
+        "military"
+      ],
+      "timeCreated": 1720108800,
+      "verified": "claude"
+    },
+    {
+      "id": 710,
+      "audioText": "Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+        "Elle retrouve toujours ses clés perdues dans des endroits attendus de la maison.",
+        "Elle trouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+        "Elle retrouve souvent ses clés perdues dans des endroits inattendus de la maison."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison</em>' - She always finds her lost keys in unexpected places in the house. This tests precise listening of 'retrouve' vs 'trouve', 'toujours' vs 'souvent', and 'inattendus' vs 'attendus'.",
+      "difficulty": "A2",
+      "source": "Strategic targeting - retrouve + daily life + home",
+      "tags": [
+        "daily-life",
+        "home",
+        "searching"
+      ],
+      "timeCreated": 1736801980,
+      "verified": "claude"
+    },
+    {
+      "id": 711,
+      "audioText": "La petite fille a été sauvée par les pompiers.",
+      "question": "La petite fille a été ______ par les pompiers.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sauvée",
+        "soignée",
+        "trouvée",
+        "aidée"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La petite fille a été sauvée par les pompiers</em>' - The little girl was saved by the firefighters. 'Sauvée' is the feminine past participle of 'sauver' (to save), agreeing with 'fille'.",
+      "difficulty": "A1",
+      "source": "Emergency rescue conversation",
+      "tags": [
+        "emergency",
+        "rescue",
+        "children"
+      ],
+      "timeCreated": 1736783400,
+      "verified": "claude"
+    },
+    {
+      "id": 712,
+      "audioText": "Il éteignit sa cigarette dans ce bel endroit.",
+      "question": "Il éteignit sa cigarette dans ce ______ endroit.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "bel",
+        "belle",
+        "beau",
+        "beaux"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il éteignit sa cigarette dans ce bel endroit</em>' - He put out his cigarette in this beautiful place. The correct form is 'bel' (masculine form of 'beau' used before vowels), agreeing with 'endroit' (masculine).",
+      "difficulty": "A1",
+      "source": "Claude-generated",
+      "tags": [
+        "smoking",
+        "places",
+        "adjectives"
+      ],
+      "timeCreated": 1735953420,
+      "verified": "claude"
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-25T02:28:48.774Z",
-    "totalQuestions": 677,
+    "compiledAt": "2025-07-25T11:35:04.981Z",
+    "totalQuestions": 688,
     "level": "A",
     "idRange": "1-714",
     "difficulties": [
