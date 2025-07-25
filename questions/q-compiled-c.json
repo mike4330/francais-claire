@@ -187,7 +187,7 @@
         "An internet meme about online payment systems and digital transactions"
       ],
       "correct": 0,
-      "explanation": "The text explains that internet users use the expression «C'est Nicolas qui paie» 'pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics' - to designate taxpayers who pay, through their taxes, all public expenses. The expression is used ironically to criticize the burden on taxpayers for funding government spending.",
+      "explanation": "The text states '<em>Ce don agace certains internautes qui reprennent l'expression «C'est Nicolas qui paie», en vogue sur internet pour désigner les contribuables qui paient, par leurs impôts, toutes les dépenses des pouvoirs publics.</em>' - This donation annoys certain internet users who pick up the expression «It's Nicolas who pays», popular on the internet to designate taxpayers who pay, through their taxes, all public expenses. The expression is used ironically to criticize the burden on taxpayers for funding government spending.",
       "difficulty": "C1",
       "source": "French Political Media Commentary",
       "tags": [
@@ -198,7 +198,8 @@
         "social-commentary",
         "media"
       ],
-      "timeCreated": 1735496889
+      "timeCreated": 1735496889,
+      "verified": "claude"
     },
     {
       "id": 2422,
@@ -1037,14 +1038,15 @@
       ],
       "correct": 0,
       "explanation": "The text states '<em>Cette peine d'amour s'estompait progressivement grâce aux efforts thérapeutiques entrepris avec l'aide d'un professionnel de santé mentale spécialisé.</em>' - 'This heartbreak was fading progressively thanks to therapeutic efforts undertaken with the help of a specialized mental health professional.' The noun 'peine' means pain or sorrow, often used in 'peine d'amour' for heartbreak.",
-      "difficulty": "C2",
+      "difficulty": "C1",
       "source": "Strategic noun targeting",
       "tags": [
         "mental-health",
         "therapy",
         "recovery"
       ],
-      "timeCreated": 1720713600
+      "timeCreated": 1720713600,
+      "verified": "claude"
     },
     {
       "id": 2462,
@@ -1198,7 +1200,8 @@
         "architecture",
         "technology"
       ],
-      "timeCreated": 1720715400
+      "timeCreated": 1720715400,
+      "verified": "claude"
     },
     {
       "id": 2469,
@@ -7796,11 +7799,121 @@
         "consequences"
       ],
       "timeCreated": "2025-01-21T17:15:00Z"
+    },
+    {
+      "id": 2766,
+      "audioText": "La crainte d'un effondrement économique majeur pousse les investisseurs vers des valeurs refuges traditionnelles comme l'or et l'immobilier, malgré leurs rendements historiquement modestes dans ce contexte inflationniste.",
+      "question": "What is driving investors toward traditional safe-haven assets?",
+      "questionType": "comprehension",
+      "options": [
+        "The fear of a major economic collapse, despite modest historical returns",
+        "The promise of high returns in an inflationary context",
+        "Government regulations requiring investment in gold and real estate",
+        "The certainty of economic stability in the coming months"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La crainte d'un effondrement économique majeur pousse les investisseurs vers des valeurs refuges traditionnelles comme l'or et l'immobilier, malgré leurs rendements historiquement modestes dans ce contexte inflationniste</em>' - The fear of a major economic collapse is pushing investors toward traditional safe-haven assets like gold and real estate, despite their historically modest returns in this inflationary context. 'Crainte' (fear/apprehension) is a feminine noun expressing concern about future events.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "economics",
+        "finance",
+        "investment"
+      ],
+      "timeCreated": "2025-01-23T16:50:00Z"
+    },
+    {
+      "id": 2767,
+      "audioText": "Les ruelles étroites du quartier historique empêchez irrésistiblement les véhicules modernes de circuler efficacement, créant perpétuellement des embouteillages aux heures de pointe.",
+      "question": "What problem do the narrow streets create?",
+      "questionType": "comprehension",
+      "options": [
+        "The narrow historic streets irresistibly prevent modern vehicles from circulating efficiently, perpetually creating traffic jams",
+        "The narrow streets make it easier for vehicles to move quickly",
+        "The historic district has no traffic problems at all",
+        "Modern vehicles are banned from the area by law"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les ruelles étroites du quartier historique empêchez irrésistiblement les véhicules modernes de circuler efficacement, créant perpétuellement des embouteillages aux heures de pointe</em>' - The narrow alleys of the historic district irresistibly prevent modern vehicles from circulating efficiently, perpetually creating traffic jams during rush hours. 'Étroites' (narrow) is the target adjective, with missing adverbs 'irrésistiblement' (irresistibly) and 'perpétuellement' (perpetually).",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "urban-planning",
+        "transportation",
+        "historical-preservation"
+      ],
+      "timeCreated": "2025-01-23T16:59:00Z"
+    },
+    {
+      "id": 2768,
+      "audioText": "Cette procédure administrative extrêmement pénible oblige les citoyens à attendre interminablement dans des files d'attente, rendant l'expérience particulièrement frustrante pour tous ceux qui ont des obligations professionnelles urgentes.",
+      "question": "What makes this administrative procedure particularly difficult?",
+      "questionType": "comprehension",
+      "options": [
+        "The extremely painful procedure forces citizens to wait endlessly in queues, making it frustrating for those with urgent professional obligations",
+        "The procedure is quick and efficient for all citizens",
+        "Only certain people are allowed to use this procedure",
+        "The procedure can be completed entirely online without waiting"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette procédure administrative extrêmement pénible oblige les citoyens à attendre interminablement dans des files d'attente, rendant l'expérience particulièrement frustrante pour tous ceux qui ont des obligations professionnelles urgentes</em>' - This extremely painful administrative procedure forces citizens to wait endlessly in queues, making the experience particularly frustrating for all those who have urgent professional obligations. 'Pénible' (painful/difficult) is the target adjective, with the missing adverb 'interminablement' (endlessly).",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "administration",
+        "bureaucracy",
+        "obligation"
+      ],
+      "timeCreated": "2025-01-23T17:00:00Z"
+    },
+    {
+      "id": 2769,
+      "audioText": "Vous souffrez inévitablement des conséquences de cette intention malveillante qui détruit progressivement la cohésion sociale de notre communauté urbaine.",
+      "question": "What is the inevitable result of the malicious intention?",
+      "questionType": "comprehension",
+      "options": [
+        "You inevitably suffer from the consequences of this malicious intention that progressively destroys our community's social cohesion",
+        "The malicious intention actually strengthens community bonds",
+        "The intention has no effect on social relationships",
+        "The community becomes more united because of this intention"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous souffrez inévitablement des conséquences de cette intention malveillante qui détruit progressivement la cohésion sociale de notre communauté urbaine</em>' - You inevitably suffer from the consequences of this malicious intention that progressively destroys the social cohesion of our urban community. 'Souffrez' is second person plural present of 'souffrir' (to suffer), with missing adverb 'inévitablement' (inevitably) and noun 'intention' (intention).",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "social-cohesion",
+        "community",
+        "urban-issues"
+      ],
+      "timeCreated": "2025-01-23T17:12:00Z"
+    },
+    {
+      "id": 2770,
+      "audioText": "Tu détruis alternativement les objets précieux de la collection familiale, créant une ombre de tristesse sur les souvenirs de nos ancêtres.",
+      "question": "What effect does the destruction have on family memories?",
+      "questionType": "comprehension",
+      "options": [
+        "You alternately destroy precious objects from the family collection, casting a shadow of sadness over our ancestors' memories",
+        "The destruction actually preserves the family memories better",
+        "You are carefully preserving all the family objects",
+        "The family collection is growing larger with new additions"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu détruis alternativement les objets précieux de la collection familiale, créant une ombre de tristesse sur les souvenirs de nos ancêtres</em>' - You alternately destroy precious objects from the family collection, creating a shadow of sadness over the memories of our ancestors. 'Détruis' is second person singular present of 'détruire' (to destroy), with missing adverb 'alternativement' (alternately) and noun 'ombre' (shadow).",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "family-heritage",
+        "shadow",
+        "past-experiences"
+      ],
+      "timeCreated": "2025-01-23T17:13:00Z"
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-23T03:18:10.897Z",
-    "totalQuestions": 338,
+    "compiledAt": "2025-07-25T02:28:48.803Z",
+    "totalQuestions": 343,
     "level": "C",
     "idRange": "2414-4000",
     "difficulties": [

@@ -2734,7 +2734,7 @@
       ],
       "correct": 0,
       "explanation": "The text states '<em>Ma chambre est au deuxième étage de la maison</em>' - My bedroom is on the second floor of the house. The correct answer is 'chambre' (bedroom). 'Étage' means floor or story in a building.",
-      "difficulty": "A1",
+      "difficulty": "A2",
       "source": "Home Description",
       "tags": [
         "home",
@@ -7813,11 +7813,12 @@
       "difficulty": "A2",
       "source": "Listening version of Q265",
       "tags": [
-        "child-development",
         "behavior",
-        "urban"
+        "urban",
+        "daily-life"
       ],
-      "timeCreated": 1720963680
+      "timeCreated": 1720963680,
+      "verified": "claude"
     },
     {
       "id": 346,
@@ -8240,7 +8241,8 @@
         "theater",
         "history"
       ],
-      "timeCreated": 1720823940
+      "timeCreated": 1720823940,
+      "verified": "claude"
     },
     {
       "id": 365,
@@ -9372,29 +9374,6 @@
       "parentQuestion": 236
     },
     {
-      "id": 415,
-      "audioText": "Il perdrait sûrement ce procès à cause de la double accusation portée par le juge.",
-      "question": "What does the speaker say about why he would surely lose this trial?",
-      "questionType": "listening",
-      "options": [
-        "Because of the double accusation brought by the judge",
-        "Because his lawyer lacks sufficient legal experience",
-        "Because the evidence against him is overwhelming",
-        "Because the jury is biased against his case"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Il perdrait sûrement ce procès à cause de la double accusation portée par le juge</em>' - He would surely lose this trial because of the double accusation brought by the judge. 'Perdrait' is the third-person singular conditional of 'perdre' (to lose), and 'double' means 'double'. The distractors test misinterpretation of the reason (lawyer lacks experience, evidence overwhelming, jury biased).",
-      "difficulty": "A2",
-      "source": "Gemini CLI - Listening practice",
-      "tags": [
-        "judgment",
-        "legal",
-        "justice"
-      ],
-      "timeCreated": 1720800000,
-      "parentQuestion": 367
-    },
-    {
       "id": 416,
       "audioText": "J'ai acheté un énorme gâteau pour la fête.",
       "question": "What does the speaker say they bought for the party?",
@@ -9956,28 +9935,6 @@
         "service"
       ],
       "timeCreated": 1736806220
-    },
-    {
-      "id": 441,
-      "audioText": "Cette maison tomberait mortellement si nous avons lus ces livres montés sur le mètre de fer.",
-      "question": "Cette maison ______ mortellement si nous avons lus ces livres montés sur le mètre de fer.",
-      "questionType": "writing",
-      "options": [],
-      "correct": 0,
-      "correctAnswer": "tomberait",
-      "acceptedAnswers": [
-        "tomberait",
-        "Tomberait"
-      ],
-      "explanation": "The text states '<em>Cette maison tomberait mortellement si nous avons lus ces livres montés sur le mètre de fer</em>' - This house would fall mortally if we have read these books mounted on the iron meter. 'Tomberait' is the conditional form of 'tomber' (to fall), used in hypothetical situations.",
-      "difficulty": "A2",
-      "source": "Strategic targeting - tomberait + mortellement + lus + montés + mètre + fer synergy + books",
-      "tags": [
-        "books",
-        "materials",
-        "housing"
-      ],
-      "timeCreated": 1736806240
     },
     {
       "id": 442,
@@ -15692,8 +15649,8 @@
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-23T03:18:10.874Z",
-    "totalQuestions": 679,
+    "compiledAt": "2025-07-25T02:28:48.774Z",
+    "totalQuestions": 677,
     "level": "A",
     "idRange": "1-714",
     "difficulties": [

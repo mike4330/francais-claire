@@ -6678,7 +6678,7 @@
         "C'est une actrice très connue dans le monde moderne."
       ],
       "correct": 0,
-      "explanation": "The correct option maintains proper agreement: 'connue' (feminine with 'actrice'), not 'connu' (masculine). This listening exercise tests adjective agreement, precise vocabulary ('actrice' vs 'artiste'), and adverbial phrases ('entier' vs 'moderne').",
+      "explanation": "The correct answer is 'C'est une actrice très connue dans le monde entier'. The text states '<em>C'est une actrice très connue dans le monde entier</em>' - She is a very well-known actress worldwide. The correct option maintains proper agreement: 'connue' (feminine with 'actrice'), not 'connu' (masculine).",
       "difficulty": "B1",
       "source": "Listening version of q526",
       "tags": [
@@ -6686,7 +6686,8 @@
         "entertainment"
       ],
       "parentQuestion": 1928,
-      "timeCreated": 1720713600
+      "timeCreated": 1720713600,
+      "verified": "claude"
     },
     {
       "id": 1003,
@@ -8332,7 +8333,7 @@
       ],
       "correct": 0,
       "explanation": "The text states '<em>Face au danger, vous réagissez instinctivement pour trouver une solution</em>' - When facing danger, you react instinctively to find a solution. 'Instinctivement' means instinctively, describing an automatic, natural response to dangerous situations.",
-      "difficulty": "B2",
+      "difficulty": "B1",
       "source": "Strategic vocabulary targeting",
       "tags": [
         "psychology",
@@ -12000,7 +12001,8 @@
         "airport",
         "efficiency"
       ],
-      "timeCreated": 1720963440
+      "timeCreated": 1720963440,
+      "verified": "claude"
     },
     {
       "id": 1236,
@@ -12293,11 +12295,12 @@
       "difficulty": "B2",
       "source": "Strategic question targeting missing conjugate 'connues' with synergistic vocabulary",
       "tags": [
-        "workplace",
+        "social-relationships",
         "women",
-        "professional-environment"
+        "community"
       ],
-      "timeCreated": 1720656300
+      "timeCreated": 1720656300,
+      "verified": "claude"
     },
     {
       "id": 1249,
@@ -12742,7 +12745,8 @@
         "discovery",
         "emotions"
       ],
-      "timeCreated": 1736622960
+      "timeCreated": 1736622960,
+      "verified": "claude"
     },
     {
       "id": 1269,
@@ -12787,7 +12791,8 @@
         "curiosity",
         "mystery"
       ],
-      "timeCreated": 1736623140
+      "timeCreated": 1736623140,
+      "verified": "claude"
     },
     {
       "id": 1271,
@@ -13412,7 +13417,8 @@
         "technology",
         "sharing"
       ],
-      "timeCreated": 1736625000
+      "timeCreated": 1736625000,
+      "verified": "claude"
     },
     {
       "id": 1299,
@@ -13558,7 +13564,7 @@
         "Study inside all day"
       ],
       "correct": 0,
-      "explanation": "The speaker says 'nous pouvions jouer dehors jusqu'à très tard en été' - we could play outside until very late in summer. 'Pouvions' is the 1st person plural imperfect tense of 'pouvoir' (to be able to/can), describing a past habitual ability.",
+      "explanation": "The text states '<em>Quand nous étions enfants, nous pouvions jouer dehors jusqu'à très tard en été</em>' - When we were children, we could play outside until very late in summer. 'Pouvions' is the 1st person plural imperfect tense of 'pouvoir' (to be able to/can), describing a past habitual ability.",
       "difficulty": "B1",
       "source": "Childhood Memories",
       "tags": [
@@ -13566,7 +13572,8 @@
         "memories",
         "summer"
       ],
-      "timeCreated": 1720021440
+      "timeCreated": 1720021440,
+      "verified": "claude"
     },
     {
       "id": 1306,
@@ -15771,10 +15778,11 @@
       "source": "Strategic vocabulary development - education context",
       "tags": [
         "education",
-        "workplace",
+        "learning",
         "memory"
       ],
-      "timeCreated": 1720817580
+      "timeCreated": 1720817580,
+      "verified": "claude"
     },
     {
       "id": 1403,
@@ -17259,7 +17267,7 @@
         "The driver was warned by police about speeding."
       ],
       "correct": 0,
-      "explanation": "The French sentence uses 'a été arrêté' (was stopped/arrested) - the past participle 'arrêté' combined with auxiliary verb 'être' in the passé composé. Here 'arrêté' means 'stopped' in the context of police stopping someone.",
+      "explanation": "The text states '<em>Le conducteur a été arrêté par la police pour excès de vitesse</em>' - The driver was stopped by the police for speeding. The French sentence uses 'a été arrêté' (was stopped/arrested) - the past participle 'arrêté' combined with auxiliary verb 'être' in the passé composé.",
       "difficulty": "B1",
       "source": "Police and law enforcement scenario",
       "tags": [
@@ -17267,7 +17275,8 @@
         "driving",
         "legal-consequences"
       ],
-      "timeCreated": 1720108800
+      "timeCreated": 1720108800,
+      "verified": "claude"
     },
     {
       "id": 1470,
@@ -18042,7 +18051,8 @@
         "research",
         "international"
       ],
-      "timeCreated": 1720822560
+      "timeCreated": 1720822560,
+      "verified": "claude"
     },
     {
       "id": 1505,
@@ -18242,7 +18252,8 @@
         "art",
         "culture"
       ],
-      "timeCreated": 1720824360
+      "timeCreated": 1720824360,
+      "verified": "claude"
     },
     {
       "id": 1514,
@@ -18290,7 +18301,7 @@
     },
     {
       "id": 1516,
-      "audioText": "Ce seigneur médiéval était complètement foutue intérieurement à cause des flux migratoires complexes affectant ses terres ancestrales.",
+      "audioText": "Ce seigneur médiéval était complètement foutu intérieurement à cause des flux migratoires complexes affectant ses terres ancestrales.",
       "question": "Why was this medieval lord completely messed up internally?",
       "questionType": "comprehension",
       "options": [
@@ -18300,7 +18311,7 @@
         "Because of political pressure from the royal court"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'Because of complex migratory flows affecting his ancestral lands'. The text states '<em>Ce seigneur médiéval était complètement foutue intérieurement à cause des flux migratoires complexes affectant ses terres ancestrales</em>' - This medieval lord was completely messed up internally because of complex migratory flows affecting his ancestral lands. 'Foutue' is the feminine past participle of 'foutre' (to mess up), 'seigneur' means 'lord', and 'intérieurement' means 'internally'.",
+      "explanation": "The correct answer is 'Because of complex migratory flows affecting his ancestral lands'. The text states '<em>Ce seigneur médiéval était complètement foutu intérieurement à cause des flux migratoires complexes affectant ses terres ancestrales</em>' - This medieval lord was completely messed up internally because of complex migratory flows affecting his ancestral lands. 'Foutu' is the past participle of 'foutre' (to mess up), 'seigneur' means 'lord', and 'intérieurement' means 'internally'.",
       "difficulty": "B1",
       "source": "Strategic vocabulary development - medieval migration",
       "tags": [
@@ -18308,7 +18319,8 @@
         "history",
         "medieval"
       ],
-      "timeCreated": 1720824840
+      "timeCreated": 1720824840,
+      "verified": "claude"
     },
     {
       "id": 1517,
@@ -18854,7 +18866,8 @@
         "posture"
       ],
       "parentQuestion": 1205,
-      "timeCreated": 1720826880
+      "timeCreated": 1720826880,
+      "verified": "claude"
     },
     {
       "id": 1541,
@@ -19984,15 +19997,16 @@
         "Normalement"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Elle était éperdument amoureuse de lui</em>' - She was madly in love with him. 'Éperdument' means madly or desperately, showing a very strong emotion. The word '<em>larme</em>' (tear) reinforces the theme of powerful emotions.",
-      "difficulty": "B2",
+      "explanation": "The text states '<em>Elle était éperdument amoureuse de lui, et une seule larme a trahi son chagrin</em>' - She was madly in love with him, and a single tear betrayed her sorrow. 'Éperdument' means madly or desperately, showing a very strong emotion.",
+      "difficulty": "B1",
       "source": "Gemini CLI",
       "tags": [
         "emotions",
         "love",
         "relationships"
       ],
-      "timeCreated": 1720813500
+      "timeCreated": 1720813500,
+      "verified": "claude"
     },
     {
       "id": 1603,
@@ -20102,7 +20116,8 @@
         "hiding",
         "crime"
       ],
-      "timeCreated": 1720815300
+      "timeCreated": 1720815300,
+      "verified": "claude"
     },
     {
       "id": 1609,
@@ -20116,7 +20131,7 @@
         "Temporairement"
       ],
       "correct": 0,
-      "explanation": "The text states the formula was '<em>gardée précieusement</em>' - kept preciously. 'Gardée' is the feminine past participle of 'garder' (to keep/guard), agreeing with 'la formule'. This question touches upon the under-represented topic of 'scientific-discovery'.",
+      "explanation": "The text states '<em>La formule secrète, gardée précieusement par le scientifique, promettait une avancée majeure dans le domaine de la médecine.</em>' - The secret formula, kept preciously by the scientist, promised a major breakthrough in medicine. The formula was 'gardée précieusement' - kept preciously. 'Gardée' is the feminine past participle of 'garder' (to keep/guard), agreeing with 'la formule'.",
       "difficulty": "B2",
       "source": "Gemini CLI",
       "tags": [
@@ -20124,7 +20139,8 @@
         "research",
         "scientific-discovery"
       ],
-      "timeCreated": 1720815900
+      "timeCreated": 1720815900,
+      "verified": "claude"
     },
     {
       "id": 1611,
@@ -20264,17 +20280,17 @@
     {
       "id": 1617,
       "audioText": "Il a échoué à l'examen, pourtant il avait beaucoup étudié pour se préparer.",
-      "question": "What does the speaker say about his exam performance?",
+      "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
-        "He had studied a lot to prepare for it",
-        "He didn't study at all for the exam",
-        "He was expecting to fail the exam",
-        "He took the wrong exam by mistake"
+        "Il a échoué à l'examen, pourtant il avait beaucoup étudié pour se préparer",
+        "Il a échoué à l'examen, pourtant il n'avait pas étudié pour se préparer",
+        "Il a réussi à l'examen, pourtant il avait beaucoup étudié pour se préparer",
+        "Il a échoué à l'examen, car il avait beaucoup étudié pour se préparer"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Il a échoué à l'examen, pourtant il avait beaucoup étudié pour se préparer.</em>' - He failed the exam, yet he had studied a lot to prepare for it. 'Pourtant' means 'however' or 'yet' and introduces a contrast. The distractors test misinterpretation of study habits (didn't study at all), misinterpretation of expectations (expecting to fail), and misinterpretation of the exam itself (took the wrong exam).",
-      "difficulty": "B2",
+      "explanation": "The correct answer is 'Il a échoué à l'examen, pourtant il avait beaucoup étudié pour se préparer'. The text states '<em>Il a échoué à l'examen, pourtant il avait beaucoup étudié pour se préparer.</em>' - He failed the exam, yet he had studied a lot to prepare for it. 'Pourtant' means 'however' or 'yet' and introduces a contrast between failing and studying hard.",
+      "difficulty": "B1",
       "source": "Gemini CLI - Listening practice",
       "tags": [
         "education",
@@ -20282,7 +20298,8 @@
         "study-habits"
       ],
       "timeCreated": 1720800000,
-      "parentQuestion": 1771
+      "parentQuestion": 1771,
+      "verified": "claude"
     },
     {
       "id": 1618,
@@ -20452,15 +20469,16 @@
         "Ce flux magnétique génère des obstacles pour la réception océanique prochaine"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'Ce courant électrique pose des défis pour l'hospitalité maritime de demain'. The text states '<em>Ce courant électrique pose des défis pour l'hospitalité maritime de demain</em>' - This electric current poses challenges for tomorrow's maritime hospitality. This targets 'courant' and 'lendemain' with under-represented topics of hospitality and maritime-science.",
-      "difficulty": "B2",
+      "explanation": "The correct answer is 'Ce courant électrique pose des défis pour l'hospitalité maritime de demain'. The text states '<em>Ce courant électrique pose des défis pour l'hospitalité maritime de demain</em>' - This electric current poses challenges for tomorrow's maritime hospitality. Key vocabulary includes 'courant' (current), 'défis' (challenges), and 'hospitalité maritime' (maritime hospitality).",
+      "difficulty": "B1",
       "source": "Strategic vocabulary: courant + lendemain + hospitality + maritime-science",
       "tags": [
         "hospitality",
         "maritime-science",
         "technology"
       ],
-      "timeCreated": 1720814700
+      "timeCreated": 1720814700,
+      "verified": "claude"
     },
     {
       "id": 1626,
@@ -20657,11 +20675,12 @@
       "difficulty": "B1",
       "source": "Strategic conjugate targeting: servent + agréable + compagnie",
       "tags": [
-        "workplace",
         "food",
-        "service"
+        "service",
+        "restaurant"
       ],
-      "timeCreated": 1720817800
+      "timeCreated": 1720817800,
+      "verified": "claude"
     },
     {
       "id": 1636,
@@ -21114,7 +21133,8 @@
         "exercise",
         "planning"
       ],
-      "timeCreated": 1736801800
+      "timeCreated": 1736801800,
+      "verified": "claude"
     },
     {
       "id": 1656,
@@ -21811,7 +21831,8 @@
         "electrical-effects",
         "cognitive-impact"
       ],
-      "timeCreated": 1736805100
+      "timeCreated": 1736805100,
+      "verified": "claude"
     },
     {
       "id": 1688,
@@ -22204,17 +22225,17 @@
     },
     {
       "id": 1705,
-      "audioText": "Docilement, elle touchez cette carte doublement importante tandis que les occasions manquent invariablement dans ce hasard curieux de la beauté.",
+      "audioText": "Docilement, elle touche cette carte doublement importante tandis que les occasions manquent invariablement dans ce hasard curieux de la beauté.",
       "question": "Docilement, elle ______ cette carte doublement importante tandis que les occasions manquent invariablement dans ce hasard curieux de la beauté.",
       "questionType": "fill-in-the-blank",
       "options": [
-        "touchez",
         "touche",
+        "touchez",
         "touchent",
         "touchait"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Docilement, elle touchez cette carte doublement importante tandis que les occasions manquent invariablement dans ce hasard curieux de la beauté</em>' - Docilely, she touches this doubly important card while opportunities invariably lack in this curious chance of beauty. This combines 'docilement', 'touchez', 'carte', 'doublement', 'manquent', 'invariablement', 'hasard', 'curieux', and 'beauté'.",
+      "explanation": "The text states '<em>Docilement, elle touche cette carte doublement importante tandis que les occasions manquent invariablement dans ce hasard curieux de la beauté</em>' - Docilely, she touches this doubly important card while opportunities invariably lack in this curious chance of beauty. The correct form is 'touche' (third person singular present) to agree with 'elle'.",
       "difficulty": "B2",
       "source": "Strategic targeting - docilement + touchez + carte + doublement + manquent + invariablement + hasard + curieux + beauté synergy + chance",
       "tags": [
@@ -22222,7 +22243,8 @@
         "maps",
         "beauty"
       ],
-      "timeCreated": 1736805900
+      "timeCreated": 1736805900,
+      "verified": "claude"
     },
     {
       "id": 1706,
@@ -22370,14 +22392,15 @@
       ],
       "correct": 0,
       "explanation": "The text states '<em>Pareillement, cette entreprise tomberait sournoisement dans l'intérêt de ses concurrents par hasard si nous avions lu ces documents lors du rendez-vous</em>' - Likewise, this company would fall sneakily into its competitors' interest by chance if we had read these documents during the meeting. 'Sournoisement' means sneakily/slyly.",
-      "difficulty": "B1",
+      "difficulty": "B2",
       "source": "Claude",
       "tags": [
         "business",
         "competition",
         "meetings"
       ],
-      "timeCreated": 1736806400
+      "timeCreated": 1736806400,
+      "verified": "claude"
     },
     {
       "id": 1713,
@@ -23191,7 +23214,7 @@
     },
     {
       "id": 1749,
-      "audioText": "Les soldats outre-mer valait beaucoup pour cette parole anglaise.",
+      "audioText": "Les soldats outre-mer valaient beaucoup pour cette parole anglaise.",
       "question": "What did the overseas soldiers value highly?",
       "questionType": "comprehension",
       "options": [
@@ -23201,8 +23224,8 @@
         "Foreign currency"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Les soldats outre-mer valait beaucoup pour cette parole anglaise</em>' - The overseas soldiers valued this English word highly. This combines 'outre-mer' (overseas), 'valait' (was worth), 'parole' (word), and 'anglaise' (English).",
-      "difficulty": "B2",
+      "explanation": "The text states '<em>Les soldats outre-mer valaient beaucoup pour cette parole anglaise</em>' - The overseas soldiers valued this English word highly. 'Valaient' is the imperfect form of 'valoir' (to be worth) agreeing with plural 'soldats', and 'parole' means 'word'.",
+      "difficulty": "B1",
       "source": "Military overseas service discussion",
       "tags": [
         "military",
@@ -23210,7 +23233,8 @@
         "language",
         "overseas"
       ],
-      "timeCreated": 1736784540
+      "timeCreated": 1736784540,
+      "verified": "claude"
     },
     {
       "id": 1750,
@@ -23340,15 +23364,16 @@
         "rarement"
       ],
       "correct": 0,
-      "explanation": "The adverb 'simplement' means 'simply' or 'just'. It indicates that his desire is straightforward and uncomplicated - he just wants to spend time with his friends during the weekend, nothing more complex than that.",
-      "difficulty": "B2",
+      "explanation": "The text states '<em>Il veut simplement passer du temps avec ses amis ce week-end</em>' - He simply wants to spend time with his friends this weekend. The adverb 'simplement' means 'simply' or 'just', indicating his desire is straightforward and uncomplicated.",
+      "difficulty": "B1",
       "source": "Weekend plans conversation",
       "tags": [
         "friendship",
         "weekend",
         "social-activities"
       ],
-      "timeCreated": 1720076520
+      "timeCreated": 1720076520,
+      "verified": "claude"
     },
     {
       "id": 1756,
@@ -23406,7 +23431,7 @@
         "The person arrived at an inconvenient time"
       ],
       "correct": 0,
-      "explanation": "The adverb 'justement' means 'precisely', 'exactly', or 'just right'. The speaker is expressing that the person's arrival timing is perfect - they came at exactly the right moment when help was needed.",
+      "explanation": "The text states '<em>Tu arrives justement au bon moment pour nous aider</em>' - You arrive at exactly the right time to help us. The adverb 'justement' means 'precisely', 'exactly', or 'just right'. The speaker is expressing that the person's arrival timing is perfect.",
       "difficulty": "B1",
       "source": "Helpful arrival scenario",
       "tags": [
@@ -23414,7 +23439,8 @@
         "help",
         "conversation"
       ],
-      "timeCreated": 1720076580
+      "timeCreated": 1720076580,
+      "verified": "claude"
     },
     {
       "id": 1759,
@@ -23496,15 +23522,16 @@
         "They need more time to think about it"
       ],
       "correct": 0,
-      "explanation": "The speaker uses 'autrement' meaning 'differently' or 'otherwise'. The phrase 'procéder autrement' means 'to proceed differently' - if you don't like this method, we can approach the problem in a different way.",
-      "difficulty": "B2",
+      "explanation": "The text states '<em>Si tu n'aimes pas cette méthode, nous pouvons procéder autrement pour résoudre le problème.</em>' - If you don't like this method, we can proceed differently to solve the problem. The speaker uses 'autrement' meaning 'differently' or 'otherwise'.",
+      "difficulty": "B1",
       "source": "Problem-solving discussion",
       "tags": [
         "problem-solving",
         "alternatives",
-        "workplace"
+        "conversation"
       ],
-      "timeCreated": 1720076940
+      "timeCreated": 1720076940,
+      "verified": "claude"
     },
     {
       "id": 1763,
@@ -24431,7 +24458,7 @@
       ],
       "correct": 0,
       "explanation": "The text states '<em>Cette odeur de parfum suffirait à masquer l'odeur de cuisine</em>' - This perfume smell would be sufficient to mask the cooking smell. The verb 'suffirait' is the conditional of 'suffire' (to be sufficient), and 'odeur' means smell.",
-      "difficulty": "B2",
+      "difficulty": "B1",
       "source": "Claude-generated",
       "tags": [
         "household",
@@ -25317,8 +25344,8 @@
     },
     {
       "id": 1838,
-      "audioText": "L'infirmière gardez attentivement les patients malades dans l'hôpital moderne pour assurer leur guérison rapide.",
-      "question": "L'infirmière gardez attentivement les patients malades dans l'hôpital moderne pour assurer leur guérison rapide.",
+      "audioText": "L'infirmière garde attentivement les patients malades dans l'hôpital moderne pour assurer leur guérison rapide.",
+      "question": "Où l'infirmière garde-t-elle attentivement les patients malades ?",
       "questionType": "listening",
       "options": [
         "In the modern hospital",
@@ -25327,7 +25354,7 @@
         "During home visits for elderly patients' comfort"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>L'infirmière gardez attentivement les patients malades dans l'hôpital moderne pour assurer leur guérison rapide.</em>' - The nurse carefully watches over the sick patients in the modern hospital to ensure their quick recovery. 'Hôpital' means hospital, 'gardez' is a form of 'garder' (to watch/keep), and 'attentivement' means carefully. The distractors test confusion about the location of the care.",
+      "explanation": "The text states '<em>L'infirmière garde attentivement les patients malades dans l'hôpital moderne pour assurer leur guérison rapide.</em>' - The nurse carefully watches over the sick patients in the modern hospital to ensure their quick recovery. 'Hôpital' means hospital, 'garde' is the third person singular of 'garder' (to watch/keep), and 'attentivement' means carefully.",
       "difficulty": "B1",
       "source": "Strategic noun coverage development - hospital care and nursing",
       "tags": [
@@ -25336,7 +25363,8 @@
         "nursing"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 1559
+      "parentQuestion": 1559,
+      "verified": "claude"
     },
     {
       "id": 1839,
@@ -25986,15 +26014,16 @@
         "She is confused about her new job"
       ],
       "correct": 0,
-      "explanation": "The text states 'Elle est très contente de son nouveau travail' - She is very happy/pleased with her new job. 'Contente' means 'happy', 'pleased', or 'satisfied' (feminine form).",
+      "explanation": "The text states '<em>Elle est très contente de son nouveau travail</em>' - She is very happy/pleased with her new job. 'Contente' means 'happy', 'pleased', or 'satisfied' (feminine form).",
       "difficulty": "B1",
       "source": "Workplace satisfaction",
       "tags": [
-        "workplace",
         "emotions",
-        "satisfaction"
+        "satisfaction",
+        "personal-life"
       ],
-      "timeCreated": 1720077400
+      "timeCreated": 1720077400,
+      "verified": "claude"
     },
     {
       "id": 1868,
@@ -36668,11 +36697,408 @@
         "anxiety"
       ],
       "timeCreated": "2025-01-21T17:14:00Z"
+    },
+    {
+      "id": 2355,
+      "audioText": "Il nous a invité à dîner chez lui dimanche prochain pour célébrer son anniversaire.",
+      "question": "What does the speaker tell us about the invitation?",
+      "questionType": "comprehension",
+      "options": [
+        "We were invited to lunch on Sunday",
+        "We were invited to dinner on Sunday to celebrate his birthday",
+        "We were invited to celebrate our anniversary",
+        "We were invited to his house for breakfast"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Il nous a invité à dîner chez lui dimanche prochain pour célébrer son anniversaire</em>' - He invited us to dinner at his place next Sunday to celebrate his birthday. The past participle 'invité' (invited) is used here with the auxiliary verb 'avoir'.",
+      "difficulty": "B1",
+      "source": "claude",
+      "tags": [
+        "social-events",
+        "family",
+        "celebration"
+      ],
+      "timeCreated": "2025-01-23T16:45:00Z"
+    },
+    {
+      "id": 2356,
+      "audioText": "Elle a tout arrangé pour notre voyage en Provence : les hôtels, les visites et même les restaurants.",
+      "question": "What has she organized for the trip?",
+      "questionType": "comprehension",
+      "options": [
+        "She arranged only the hotels for our trip",
+        "She arranged everything: hotels, visits and restaurants",
+        "She arranged the restaurants but not the hotels",
+        "She arranged the visits but nothing else"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Elle a tout arrangé pour notre voyage en Provence : les hôtels, les visites et même les restaurants</em>' - She arranged everything for our trip to Provence: the hotels, the visits and even the restaurants. The past participle 'arrangé' (arranged) is used with 'avoir' to indicate completed action.",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "travel",
+        "organization",
+        "vacation"
+      ],
+      "timeCreated": "2025-01-23T16:46:00Z"
+    },
+    {
+      "id": 2357,
+      "audioText": "Le chien a crié de douleur quand le vétérinaire a examiné sa patte blessée.",
+      "question": "Why did the dog cry out?",
+      "questionType": "comprehension",
+      "options": [
+        "The dog cried because it was happy to see the vet",
+        "The dog cried out in pain when the vet examined its injured paw",
+        "The dog cried because it was afraid of the clinic",
+        "The dog cried because it wanted to go home"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Le chien a crié de douleur quand le vétérinaire a examiné sa patte blessée</em>' - The dog cried out in pain when the veterinarian examined its injured paw. The past participle 'crié' (cried/cried out) shows the completed action in the past.",
+      "difficulty": "B1",
+      "source": "claude",
+      "tags": [
+        "animals",
+        "health",
+        "veterinary"
+      ],
+      "timeCreated": "2025-01-23T16:47:00Z"
+    },
+    {
+      "id": 2358,
+      "audioText": "Vous réfléchissez trop aux conséquences négatives au lieu de profiter du moment présent et d'être optimiste.",
+      "question": "What advice is being given about thinking?",
+      "questionType": "comprehension",
+      "options": [
+        "You should think more about negative consequences",
+        "You think too much about negative consequences instead of enjoying the present",
+        "You don't think enough about the consequences",
+        "You should be more pessimistic about the future"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Vous réfléchissez trop aux conséquences négatives au lieu de profiter du moment présent et d'être optimiste</em>' - You think too much about negative consequences instead of enjoying the present moment and being optimistic. 'Réfléchissez' is the second person plural present tense of 'réfléchir' (to think/reflect).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "psychology",
+        "emotions",
+        "advice"
+      ],
+      "timeCreated": "2025-01-23T16:48:00Z"
+    },
+    {
+      "id": 2359,
+      "audioText": "Marie arrangera tout le programme de la conférence avant la fin de la semaine prochaine.",
+      "question": "When will Marie organize the conference program?",
+      "questionType": "comprehension",
+      "options": [
+        "Marie will arrange the program by the end of next week",
+        "Marie has already arranged the conference program",
+        "Marie will arrange the program after next week",
+        "Marie is arranging the program right now"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Marie arrangera tout le programme de la conférence avant la fin de la semaine prochaine</em>' - Marie will arrange the entire conference program before the end of next week. 'Arrangera' is the future tense of 'arranger' (to arrange), indicating a future action with a specific deadline.",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "business",
+        "organization",
+        "conferences"
+      ],
+      "timeCreated": "2025-01-23T16:49:00Z"
+    },
+    {
+      "id": 2360,
+      "audioText": "Les voisins crient toujours très fort le soir quand ils regardent le match de football à la télévision.",
+      "question": "When do the neighbors shout loudly?",
+      "questionType": "comprehension",
+      "options": [
+        "The neighbors shout loudly in the evening when watching football on TV",
+        "The neighbors shout loudly in the morning during breakfast",
+        "The neighbors shout loudly when they argue with each other",
+        "The neighbors shout loudly when they listen to music"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les voisins crient toujours très fort le soir quand ils regardent le match de football à la télévision</em>' - The neighbors always shout very loudly in the evening when they watch the football match on television. 'Crient' is the third person plural present tense of 'crier' (to shout/cry out), showing habitual action.",
+      "difficulty": "B1",
+      "source": "claude",
+      "tags": [
+        "neighbors",
+        "entertainment",
+        "sports"
+      ],
+      "timeCreated": "2025-01-23T16:51:00Z"
+    },
+    {
+      "id": 2361,
+      "audioText": "Le client était complètement ivre et supposons qu'il avait trop bu pendant la dégustation de vins.",
+      "question": "What can we assume about the customer?",
+      "questionType": "comprehension",
+      "options": [
+        "The customer was completely drunk and we assume he drank too much during wine tasting",
+        "The customer was tired from working all day",
+        "The customer was angry about the service",
+        "The customer was confused about the menu"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le client était complètement ivre et supposons qu'il avait trop bu pendant la dégustation de vins</em>' - The customer was completely drunk and let's assume he had drunk too much during the wine tasting. 'Ivre' means drunk/intoxicated, and 'supposons' (let's suppose) adds a missing verb conjugation.",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "culinary-vocabulary",
+        "french-cuisine",
+        "restaurant"
+      ],
+      "timeCreated": "2025-01-23T16:55:00Z"
+    },
+    {
+      "id": 2362,
+      "audioText": "Il faut être prudent avec ce type lâche qui pourrait nous embrasser puis nous trahir logiquement.",
+      "question": "What warning is given about this person?",
+      "questionType": "comprehension",
+      "options": [
+        "We must be careful with this cowardly type who could embrace us then betray us",
+        "We should trust this person completely with our secrets",
+        "This person is very brave and will always help us",
+        "This person is too shy to make any decisions"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il faut être prudent avec ce type lâche qui pourrait nous embrasser puis nous trahir logiquement</em>' - We must be careful with this cowardly type who could embrace us then logically betray us. 'Lâche' means cowardly/coward, and includes missing lemmas 'embrasser' (embrace) and 'logiquement' (logically).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "psychology",
+        "social-relationships",
+        "character"
+      ],
+      "timeCreated": "2025-01-23T16:56:00Z"
+    },
+    {
+      "id": 2363,
+      "audioText": "Cette table ronde fatalement positivement designed pour les activités créatives convient parfaitement à notre atelier.",
+      "question": "What type of table is described?",
+      "questionType": "comprehension",
+      "options": [
+        "A round table designed for creative activities that suits our workshop perfectly",
+        "A square table made for dining purposes only",
+        "A broken table that needs to be repaired",
+        "A small table used for storage purposes"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette table ronde fatalement positivement designed pour les activités créatives convient parfaitement à notre atelier</em>' - This round table inevitably positively designed for creative activities suits our workshop perfectly. 'Rond' (round) is the target adjective, with missing adverbs 'fatalement' (inevitably) and 'positivement' (positively).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "activities",
+        "design",
+        "workshop"
+      ],
+      "timeCreated": "2025-01-23T16:57:00Z"
+    },
+    {
+      "id": 2364,
+      "audioText": "C'est vraiment chouette que vous jures de rester modestement optimiste malgré tous les obstacles rencontrés.",
+      "question": "What is described as really nice?",
+      "questionType": "comprehension",
+      "options": [
+        "It's really great that you swear to remain modestly optimistic despite all obstacles",
+        "It's nice that you are giving up on your dreams",
+        "It's great that you are becoming more pessimistic",
+        "It's nice that you are avoiding all challenges"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>C'est vraiment chouette que vous jures de rester modestement optimiste malgré tous les obstacles rencontrés</em>' - It's really great that you swear to remain modestly optimistic despite all the obstacles encountered. 'Chouette' means nice/great (informal), with missing lemmas 'jures' (swear) and 'modestement' (modestly).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "emotions",
+        "encouragement",
+        "persistence"
+      ],
+      "timeCreated": "2025-01-23T16:58:00Z"
+    },
+    {
+      "id": 2365,
+      "audioText": "Il est né en Provence et a grandi avidement dans ce magnifique univers méditerranéen.",
+      "question": "Where was he born and raised?",
+      "questionType": "comprehension",
+      "options": [
+        "He was born in Provence and eagerly grew up in this magnificent Mediterranean universe",
+        "He was born in Paris and moved to Provence later",
+        "He was born in Italy and visited Provence often",
+        "He was born in Provence but never lived there"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il est né en Provence et a grandi avidement dans ce magnifique univers méditerranéen</em>' - He was born in Provence and eagerly grew up in this magnificent Mediterranean universe. 'Né' is the past participle of 'naître' (to be born), with the missing adverb 'avidement' (eagerly) and noun 'univers' (universe).",
+      "difficulty": "B1",
+      "source": "claude",
+      "tags": [
+        "geography",
+        "mediterranean",
+        "childhood"
+      ],
+      "timeCreated": "2025-01-23T17:05:00Z"
+    },
+    {
+      "id": 2366,
+      "audioText": "Elle souffre énormément depuis son meurtre et ne peut plus manger à jeun le matin.",
+      "question": "What is affecting her eating habits?",
+      "questionType": "comprehension",
+      "options": [
+        "She suffers enormously since the murder and can no longer eat on an empty stomach in the morning",
+        "She enjoys eating breakfast more than before",
+        "She has developed a new healthy eating routine",
+        "She only eats large meals in the evening now"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle souffre énormément depuis son meurtre et ne peut plus manger à jeun le matin</em>' - She suffers enormously since the murder and can no longer eat on an empty stomach in the morning. 'Souffre' is third person singular present of 'souffrir' (to suffer), with missing noun 'meurtre' (murder) and adverb 'à jeun' (on an empty stomach).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "trauma",
+        "health",
+        "psychological-effects"
+      ],
+      "timeCreated": "2025-01-23T17:06:00Z"
+    },
+    {
+      "id": 2367,
+      "audioText": "La nouvelle invitée a été respectueusement accueillie par notre troupe de théâtre amateur.",
+      "question": "How was the new guest received?",
+      "questionType": "comprehension",
+      "options": [
+        "The new female guest was respectfully welcomed by our amateur theater troupe",
+        "The new guest was ignored by everyone in the group",
+        "The new guest was asked to leave immediately",
+        "The new guest was treated rudely by the actors"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La nouvelle invitée a été respectueusement accueillie par notre troupe de théâtre amateur</em>' - The new female guest was respectfully welcomed by our amateur theater troupe. 'Invitée' is the feminine past participle of 'inviter' (to invite), with missing adverb 'respectueusement' (respectfully) and noun 'troupe' (troupe).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "theater",
+        "performing-arts",
+        "social-events"
+      ],
+      "timeCreated": "2025-01-23T17:07:00Z"
+    },
+    {
+      "id": 2368,
+      "audioText": "Ces enfants sont nés ostensiblement dans un environnement privilégié avec toutes les patte dorées imaginables.",
+      "question": "What kind of environment were these children born into?",
+      "questionType": "comprehension",
+      "options": [
+        "These children were obviously born into a privileged environment with all imaginable golden opportunities",
+        "These children were born into poverty and hardship",
+        "These children were born in a rural farming community",
+        "These children were born in a simple middle-class family"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ces enfants sont nés ostensiblement dans un environnement privilégié avec toutes les patte dorées imaginables</em>' - These children were obviously born into a privileged environment with all imaginable golden opportunities. 'Nés' is the masculine plural past participle of 'naître' (to be born), with missing adverb 'ostensiblement' (obviously) and noun 'patte' (paw/opportunity, informal).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "social-class",
+        "privilege",
+        "childhood"
+      ],
+      "timeCreated": "2025-01-23T17:08:00Z"
+    },
+    {
+      "id": 2369,
+      "audioText": "Vous remerciez intimement votre copain pour son aide précieuse dans cette situation difficile.",
+      "question": "How do you thank your friend?",
+      "questionType": "comprehension",
+      "options": [
+        "You intimately thank your friend for his precious help in this difficult situation",
+        "You publicly thank your friend in front of everyone",
+        "You forget to thank your friend for anything",
+        "You criticize your friend for not helping enough"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous remerciez intimement votre copain pour son aide précieuse dans cette situation difficile</em>' - You intimately thank your friend for his precious help in this difficult situation. 'Remerciez' is second person plural present of 'remercier' (to thank), with missing adverb 'intimement' (intimately) and noun 'copain' (friend/buddy).",
+      "difficulty": "B1",
+      "source": "claude",
+      "tags": [
+        "friendship",
+        "gratitude",
+        "support"
+      ],
+      "timeCreated": "2025-01-23T17:09:00Z"
+    },
+    {
+      "id": 2370,
+      "audioText": "Tu souffres pensivement de cette blessure depuis ton arrêt forcé et c'est vraiment difficile.",
+      "question": "What is causing your suffering?",
+      "questionType": "comprehension",
+      "options": [
+        "You suffer pensively from this injury since your forced stop and it's really difficult",
+        "You are happy about recovering from your injury quickly",
+        "You have completely forgotten about your past injury",
+        "You are suffering from a completely different problem"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu souffres pensivement de cette blessure depuis ton arrêt forcé et c'est vraiment difficile</em>' - You suffer pensively from this injury since your forced stop and it's really difficult. 'Souffres' is second person singular present of 'souffrir' (to suffer), with missing adverb 'pensivement' (pensively) and noun 'arrêt' (stop).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "health",
+        "injury",
+        "recovery"
+      ],
+      "timeCreated": "2025-01-23T17:10:00Z"
+    },
+    {
+      "id": 2371,
+      "audioText": "Tu embrasses aveuglément cette nouvelle toile artistique sans comprendre sa véritable signification culturelle.",
+      "question": "How does the person approach this new artwork?",
+      "questionType": "comprehension",
+      "options": [
+        "You blindly embrace this new artistic canvas without understanding its true cultural significance",
+        "You carefully study the artwork before making any judgment",
+        "You immediately reject the artwork without looking at it",
+        "You understand the cultural meaning perfectly from the start"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu embrasses aveuglément cette nouvelle toile artistique sans comprendre sa véritable signification culturelle</em>' - You blindly embrace this new artistic canvas without understanding its true cultural significance. 'Embrasses' is second person singular present of 'embrasser' (to embrace), with missing adverb 'aveuglément' (blindly) and noun 'toile' (canvas).",
+      "difficulty": "B2",
+      "source": "claude",
+      "tags": [
+        "art",
+        "culture",
+        "interpretation"
+      ],
+      "timeCreated": "2025-01-23T17:11:00Z"
+    },
+    {
+      "id": 2372,
+      "audioText": "Les fidèles entraient silencieusement dans l'église ancienne pour la cérémonie de mariage traditionnelle du dimanche.",
+      "question": "Where did the faithful enter silently for the traditional Sunday wedding ceremony?",
+      "questionType": "comprehension",
+      "options": [
+        "Into the ancient church",
+        "The beautifully decorated reception hall nearby",
+        "The historic town square for outdoor celebrations",
+        "The family garden with flowers and natural beauty"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les fidèles entraient silencieusement dans l'église ancienne pour la cérémonie de mariage traditionnelle du dimanche.</em>' - The faithful entered the ancient church silently for the traditional Sunday wedding ceremony. 'Église' means church, 'entraient' means were entering, and 'silencieusement' means silently.",
+      "difficulty": "B1",
+      "source": "Strategic noun coverage development - religious wedding ceremonies",
+      "tags": [
+        "wedding",
+        "religion",
+        "ceremony"
+      ],
+      "timeCreated": 1720831480,
+      "verified": "claude"
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-23T03:18:10.882Z",
-    "totalQuestions": 1591,
+    "compiledAt": "2025-07-25T02:28:48.785Z",
+    "totalQuestions": 1609,
     "level": "B",
     "idRange": "715-2413",
     "difficulties": [
