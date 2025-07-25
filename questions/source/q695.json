@@ -1,0 +1,24 @@
+{
+  "id": 695,
+  "audioText": "Il marchait dans la rue semblant très pressé.",
+  "question": "How did he appear while walking?",
+  "questionType": "comprehension",
+  "options": [
+    "He seemed very rushed",
+    "He looked completely relaxed",
+    "He appeared confused and lost",
+    "He seemed tired and slow"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il marchait dans la rue semblant très pressé</em>' - He was walking down the street seeming very rushed. The present participle 'semblant' means 'seeming' and describes his apparent state while walking.",
+  "difficulty": "A2",
+  "source": "Claude-generated",
+  "tags": [
+    "movement",
+    "appearance",
+    "street",
+    "urgency"
+  ],
+  "timeCreated": 1735951680,
+  "verified": "claude"
+}

@@ -1,19 +1,20 @@
 {
     "id": 415,
     "audioText": "Il perdrait sûrement ce procès à cause de la double accusation portée par le juge.",
-    "question": "What does the speaker say about why he would surely lose this trial?",
+    "question": "Qu'est-ce que vous avez entendu?",
     "questionType": "listening",
     "options": [
-        "Because of the double accusation brought by the judge",
-        "Because his lawyer lacks sufficient legal experience",
-        "Because the evidence against him is overwhelming",
-        "Because the jury is biased against his case"
+        "Il perdrait sûrement ce procès à cause de la double accusation portée par le juge",
+        "Il perdrait sûrement ce procès à cause du manque d'expérience de son avocat",
+        "Il perdrait sûrement ce procès à cause des preuves accablantes contre lui",
+        "Il perdrait sûrement ce procès à cause du jury partial contre son cas"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Il perdrait sûrement ce procès à cause de la double accusation portée par le juge</em>' - He would surely lose this trial because of the double accusation brought by the judge. 'Perdrait' is the third-person singular conditional of 'perdre' (to lose), and 'double' means 'double'. The distractors test misinterpretation of the reason (lawyer lacks experience, evidence overwhelming, jury biased).",
-    "difficulty": "A2",
+    "explanation": "The correct answer is 'Il perdrait sûrement ce procès à cause de la double accusation portée par le juge'. The text states '<em>Il perdrait sûrement ce procès à cause de la double accusation portée par le juge</em>' - He would surely lose this trial because of the double accusation brought by the judge. 'Perdrait' is the conditional of 'perdre' (to lose), and 'double' means 'double'.",
+    "difficulty": "B1",
     "source": "Gemini CLI - Listening practice",
     "tags": ["judgment", "legal", "justice"],
     "timeCreated": 1720800000,
-    "parentQuestion": 367
+    "parentQuestion": 367,
+    "verified": "claude"
 }

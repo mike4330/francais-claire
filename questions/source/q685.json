@@ -1,19 +1,23 @@
 {
   "id": 685,
-  "audioText": "Le chat lève sa patte droite.",
-  "question": "Le chat lève sa ______ droite.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Le gouvernement a décidé de créer un service militaire obligatoire.",
+  "question": "What did the government decide to create?",
+  "questionType": "comprehension",
   "options": [
-    "patte",
-    "queue",
-    "oreille",
-    "tête"
+    "A mandatory military service.",
+    "A voluntary military service.",
+    "A civilian service program.",
+    "A medical service program."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Le chat lève sa patte droite.</em>' - The cat lifts its right paw. 'Patte' means paw, the foot of an animal with claws.",
+  "explanation": "The text states '<em>Le gouvernement a décidé de créer un service militaire obligatoire</em>' - The government decided to create a mandatory military service. The French sentence uses 'militaire' meaning 'military'. 'Un service militaire obligatoire' means 'a mandatory military service'. 'Militaire' is an adjective describing the type of service.",
   "difficulty": "A2",
-  "source": "Cat behavior",
-  "tags": ["animals", "cats", "behavior"],
-  "timeCreated": 1737420180,
+  "source": "Government policy discussion",
+  "tags": [
+    "politics",
+    "government",
+    "military"
+  ],
+  "timeCreated": 1720108800,
   "verified": "claude"
 }

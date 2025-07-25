@@ -1,23 +1,23 @@
 {
   "id": 934,
-  "audioText": "Nous avons exactement la même voiture que nos voisins.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "Les habitants de cette banlieue vivent dans des conditions de plus en plus difficiles.",
+  "question": "What is happening to the suburban residents?",
+  "questionType": "comprehension",
   "options": [
-    "Nous avons exactement la même voiture que nos voisins.",
-    "Nous avons exactement la mème voiture que nos voisins.",
-    "Nous avons exactement la mem voiture que nos voisins.",
-    "Nous avons exactement la mime voiture que nos voisins."
+    "They are living in increasingly difficult conditions",
+    "They are moving to more expensive neighborhoods",
+    "They are benefiting from new urban development",
+    "They are organizing community improvement projects"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'même' (same). This adjective requires a circumflex accent on the 'e' to distinguish it from other similar words. 'La même voiture' means 'the same car' - we have exactly the same car as our neighbors.",
-  "difficulty": "B1",
-  "source": "Comparison with neighbors and possessions",
+  "explanation": "The text states '<em>Les habitants de cette banlieue vivent dans des conditions de plus en plus difficiles</em>' - The residents of this suburb live in increasingly difficult conditions. 'Vivent' (from 'vivre') means they live, and describes their ongoing living situation.",
+  "difficulty": "B2",
+  "source": "Urban issues report",
   "tags": [
-    "comparison",
-    "neighbors",
-    "possessions"
+    "society",
+    "housing",
+    "social-issues"
   ],
-  "timeCreated": 1704067200,
+  "timeCreated": 1704413700,
   "verified": "claude"
 }

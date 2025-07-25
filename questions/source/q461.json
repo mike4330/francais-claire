@@ -14,10 +14,11 @@
     "difficulty": "A2",
     "source": "Spontaneous activity",
     "tags": [
-        "retirement",
         "leisure",
-        "walking"
+        "walking",
+        "spontaneous-activity"
     ],
     "timeCreated": 1720881353,
-    "parentQuestion": 918
+    "parentQuestion": 918,
+    "verified": "claude"
 }

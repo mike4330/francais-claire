@@ -1,0 +1,23 @@
+{
+  "id": 698,
+  "audioText": "Où irez-vous en vacances cet été ?",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Où irez-vous en vacances cet été ?",
+    "Où allez-vous en vacances cet été ?",
+    "Où êtes-vous allés en vacances cet été ?",
+    "Où iriez-vous en vacances cet été ?"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is '<em>Où irez-vous en vacances cet été ?</em>' - Where will you go on vacation this summer? The sentence uses 'irez' - the future form of 'aller' (to go) for vous.",
+  "difficulty": "A1",
+  "source": "Vacation planning conversation",
+  "tags": [
+    "vacation",
+    "travel",
+    "future-plans"
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
+}

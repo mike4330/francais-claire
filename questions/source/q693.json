@@ -1,0 +1,19 @@
+{
+  "id": 693,
+  "audioText": "Je crains que tu arrives en retard au dîner.",
+  "question": "Fill in the blank: Je ______ que tu arrives en retard au dîner.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "crains",
+    "crois",
+    "croix",
+    "crie"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je crains que tu arrives en retard au dîner</em>' - I'm afraid that you'll arrive late for dinner. The correct form is 'crains' (first person singular of 'craindre' - to fear/be afraid). 'Craindre' expresses worry or fear about something.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["emotions", "dinner", "punctuality"],
+  "timeCreated": 1737476200,
+  "verified": "claude"
+}

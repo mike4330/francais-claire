@@ -1,19 +1,24 @@
 {
   "id": 686,
-  "audioText": "Ce gosse joue dans le jardin.",
-  "question": "Ce ______ joue dans le jardin.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Elle cherchait fébrilement son chapeau avant de sortir en retard.",
+  "question": "How was she searching for her hat?",
+  "questionType": "comprehension",
   "options": [
-    "gosse",
-    "chien",
-    "chat",
-    "oiseau"
+    "Feverishly",
+    "Calmly",
+    "Casually",
+    "Methodically"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Ce gosse joue dans le jardin.</em>' - This kid plays in the garden. 'Gosse' means kid or child (informal term).",
+  "explanation": "The text states '<em>Elle cherchait fébrilement son chapeau avant de sortir en retard</em>' - She was feverishly searching for her hat before going out late. The adverb 'fébrilement' means feverishly/frantically, and 'chapeau' means hat.",
   "difficulty": "A2",
-  "source": "Child playing",
-  "tags": ["children", "play", "garden"],
-  "timeCreated": 1737420240,
+  "source": "Claude-generated",
+  "tags": [
+    "clothing",
+    "urgency",
+    "search",
+    "daily-life"
+  ],
+  "timeCreated": 1735953240,
   "verified": "claude"
 }

@@ -1,19 +1,23 @@
 {
-    "id": 454,
-    "audioText": "Hier, je comptais mes pièces.",
-    "question": "Hier, je ______ mes pièces.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "comptais",
-        "comptait",
-        "compte",
-        "comptes"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Hier, je comptais mes pièces</em>' - Yesterday, I was counting my coins. The correct form is 'comptais' (1st person singular imperfect of 'compter'). The imperfect describes an ongoing action in the past.",
-    "difficulty": "A2",
-    "source": "Claude-generated",
-    "tags": ["money", "coins", "past-actions", "counting"],
-    "timeCreated": 1735951740,
-    "verified": "claude"
+  "id": 454,
+  "audioText": "Nous avons exactement la même voiture que nos voisins.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Nous avons exactement la même voiture que nos voisins.",
+    "Nous avons exactement la mème voiture que nos voisins.",
+    "Nous avons exactement la mem voiture que nos voisins.",
+    "Nous avons exactement la mime voiture que nos voisins."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'même' (same). This adjective requires a circumflex accent on the 'e' to distinguish it from other similar words. 'La même voiture' means 'the same car' - we have exactly the same car as our neighbors.",
+  "difficulty": "A2",
+  "source": "Comparison with neighbors and possessions",
+  "tags": [
+    "comparison",
+    "neighbors",
+    "possessions"
+  ],
+  "timeCreated": 1704067200,
+  "verified": "claude"
 }

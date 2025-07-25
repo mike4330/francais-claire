@@ -1,6 +1,6 @@
 {
   "id": 410,
-  "audioText": "Cette boîte curieux contient des cartes spécial pour le jeu.",
+  "audioText": "Cette boîte curieuse contient des cartes spéciales pour le jeu.",
   "question": "What does this curious box contain?",
   "questionType": "comprehension",
   "options": [
@@ -10,9 +10,10 @@
     "Kitchen utensils and tools"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette boîte curieuse contient des cartes spéciales pour le jeu</em>' - This curious box contains special cards for the game. This combines 'boîte', 'curieux', 'cartes', and 'spécial' in a gaming context.",
+  "explanation": "The text states '<em>Cette boîte curieuse contient des cartes spéciales pour le jeu</em>' - This curious box contains special cards for the game. 'Curieuse' is feminine singular agreeing with 'boîte', and 'spéciales' is feminine plural agreeing with 'cartes'.",
   "difficulty": "A2",
   "source": "Strategic targeting - boîte + curieux + cartes + spécial synergy + gaming",
   "tags": ["gaming", "cards", "curiosity"],
-  "timeCreated": 1736804620
+  "timeCreated": 1736804620,
+  "verified": "claude"
 }

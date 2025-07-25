@@ -1,0 +1,18 @@
+{
+  "id": 694,
+  "audioText": "Il faut y aller mollo avec les enfants.",
+  "question": "Fill in the blank: Il faut y aller ______ avec les enfants.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "mollo",
+    "molo",
+    "molto",
+    "mieux"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'mollo' (easy/gently). You have to go easy with the children. 'Mollo' is an informal adverb meaning to take it easy or be gentle.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["family", "children", "patience"],
+  "timeCreated": "2025-01-21T17:05:00Z"
+}

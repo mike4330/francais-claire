@@ -1,0 +1,23 @@
+{
+  "id": 696,
+  "audioText": "Un salaire égal pour tous suffisait à maintenir la paix sociale.",
+  "question": "What was sufficient to maintain social peace?",
+  "questionType": "comprehension",
+  "options": [
+    "Equal salary for everyone",
+    "Better working conditions",
+    "More vacation time",
+    "Flexible work schedules"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Un salaire égal pour tous suffisait à maintenir la paix sociale</em>' - An equal salary for everyone was sufficient to maintain social peace. The verb 'suffisait' is the imperfect of 'suffire', and 'égal' means equal.",
+  "difficulty": "A2",
+  "source": "Claude-generated",
+  "tags": [
+    "equality",
+    "politics",
+    "social-issues"
+  ],
+  "timeCreated": 1735952040,
+  "verified": "claude"
+}

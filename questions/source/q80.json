@@ -1,0 +1,23 @@
+{
+  "id": 80,
+  "audioText": "Il éteignit sa cigarette dans ce bel endroit.",
+  "question": "Il éteignit sa cigarette dans ce ______ endroit.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "bel",
+    "belle",
+    "beau",
+    "beaux"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il éteignit sa cigarette dans ce bel endroit</em>' - He put out his cigarette in this beautiful place. The correct form is 'bel' (masculine form of 'beau' used before vowels), agreeing with 'endroit' (masculine).",
+  "difficulty": "A1",
+  "source": "Claude-generated",
+  "tags": [
+    "smoking",
+    "places",
+    "adjectives"
+  ],
+  "timeCreated": 1735953420,
+  "verified": "claude"
+}

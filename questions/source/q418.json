@@ -1,18 +1,19 @@
 {
   "id": 418,
-  "audioText": "Hier soir, nous retrouvons nos amis au café du centre-ville.",
+  "audioText": "Hier soir, nous avons retrouvé nos amis au café du centre-ville.",
   "question": "Hier soir, nous ______ nos amis au café du centre-ville.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "retrouvons",
-    "retrouves", 
+    "avons retrouvé",
+    "retrouvons", 
     "retrouvez",
     "retrouve"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Hier soir, nous retrouvons nos amis au café du centre-ville</em>' - Last night, we meet our friends at the downtown café. 'Retrouvons' is the first person plural form of 'retrouver' (to meet/find), agreeing with 'nous'.",
+  "explanation": "The text states '<em>Hier soir, nous avons retrouvé nos amis au café du centre-ville</em>' - Last night, we met our friends at the downtown café. 'Avons retrouvé' is the past compound (passé composé) form needed with 'hier soir' (last night), using auxiliary 'avoir' + past participle 'retrouvé'.",
   "difficulty": "A2",
   "source": "Social meeting conversation",
   "tags": ["friends", "meeting", "cafe"],
-  "timeCreated": 1736804800
+  "timeCreated": 1736804800,
+  "verified": "claude"
 }

@@ -1,22 +1,23 @@
 {
   "id": 446,
-  "audioText": "La petite fille a été sauvée par les pompiers.",
-  "question": "La petite fille a été ______ par les pompiers.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Le sable fin de cette plage est parfait pour les enfants.",
+  "question": "What is perfect for children?",
+  "questionType": "comprehension",
   "options": [
-    "sauvée",
-    "soignée",
-    "trouvée",
-    "aidée"
+    "The fine sand of this beach",
+    "The cold water",
+    "The high waves",
+    "The rocky shore"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>La petite fille a été sauvée par les pompiers</em>' - The little girl was saved by the firefighters. 'Sauvée' is the feminine past participle of 'sauver' (to save), agreeing with 'fille'.",
+  "explanation": "The text states '<em>Le sable fin de cette plage est parfait pour les enfants</em>' - The fine sand of this beach is perfect for children. '<em>Sable</em>' means sand.",
   "difficulty": "A2",
-  "source": "Emergency rescue conversation",
+  "source": "claude",
   "tags": [
-    "emergency",
-    "rescue",
-    "children"
+    "beach",
+    "family",
+    "recreation"
   ],
-  "timeCreated": 1736783400
+  "timeCreated": "2025-07-16T00:00:00Z",
+  "verified": "claude"
 }

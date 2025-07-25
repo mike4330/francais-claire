@@ -1,0 +1,23 @@
+{
+  "id": 496,
+  "audioText": "Ce gosse joue dans le jardin.",
+  "question": "Ce ______ joue dans le jardin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "gosse",
+    "chien",
+    "chat",
+    "oiseau"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce gosse joue dans le jardin.</em>' - This kid plays in the garden. 'Gosse' means kid or child (informal term).",
+  "difficulty": "A2",
+  "source": "Child playing",
+  "tags": [
+    "children",
+    "play",
+    "garden"
+  ],
+  "timeCreated": 1737420240,
+  "verified": "claude"
+}

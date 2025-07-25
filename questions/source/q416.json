@@ -15,5 +15,6 @@
     "source": "Gemini CLI - Listening practice",
     "tags": ["party", "food", "size"],
     "timeCreated": 1720800000,
-    "parentQuestion": 200
+    "parentQuestion": 200,
+    "verified": "claude"
 }

@@ -1,18 +1,19 @@
 {
     "id": 501,
-    "audioText": "Vous cachez à califourchon votre cou humide pendant les vacances.",
-    "question": "How do you hide your wet neck during vacation?",
+    "audioText": "Vous protégez votre cou du soleil pendant les vacances.",
+    "question": "What do you protect from the sun during vacation?",
     "questionType": "comprehension",
     "options": [
-        "Astride/straddling",
-        "Carefully and quietly",
-        "Quickly and efficiently",
-        "Slowly and deliberately"
+        "Your neck",
+        "Your hands",
+        "Your feet", 
+        "Your eyes"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Vous cachez à califourchon votre cou humide pendant les vacances</em>' - You hide your wet neck astride/straddling during vacation. 'Cachez' (verb), 'à califourchon' (adverb), 'humide' (adjective), 'cou' and 'vacances' (nouns) are all priority targets.",
+    "explanation": "The text states '<em>Vous protégez votre cou du soleil pendant les vacances</em>' - You protect your neck from the sun during vacation. 'Protégez' means protect, 'cou' means neck, and 'soleil' means sun.",
     "difficulty": "A2",
     "source": "Claude",
-    "tags": ["vacation", "body", "hiding"],
-    "timeCreated": 1721049600
+    "tags": ["vacation", "health", "sun-protection"],
+    "timeCreated": 1721049600,
+    "verified": "claude"
 }

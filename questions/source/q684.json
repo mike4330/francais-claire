@@ -1,19 +1,23 @@
 {
   "id": 684,
-  "audioText": "Cette lampe éclaire bien la pièce.",
-  "question": "Cette ______ éclaire bien la pièce.",
+  "audioText": "La petite fille a été sauvée par les pompiers.",
+  "question": "La petite fille a été ______ par les pompiers.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "lampe",
-    "fenêtre",
-    "bougie",
-    "télévision"
+    "sauvée",
+    "soignée",
+    "trouvée",
+    "aidée"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette lampe éclaire bien la pièce.</em>' - This lamp lights the room well. 'Lampe' means lamp, a device that produces light.",
-  "difficulty": "A2",
-  "source": "Room lighting",
-  "tags": ["lighting", "home", "furniture"],
-  "timeCreated": 1737420120,
+  "explanation": "The text states '<em>La petite fille a été sauvée par les pompiers</em>' - The little girl was saved by the firefighters. 'Sauvée' is the feminine past participle of 'sauver' (to save), agreeing with 'fille'.",
+  "difficulty": "A1",
+  "source": "Emergency rescue conversation",
+  "tags": [
+    "emergency",
+    "rescue",
+    "children"
+  ],
+  "timeCreated": 1736783400,
   "verified": "claude"
 }

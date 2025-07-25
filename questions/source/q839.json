@@ -11,9 +11,9 @@
     ],
     "correct": 0,
     "explanation": "The text states '<em>Il ne comprend pas cette décision, pourtant elle semble logique aux autres collègues</em>' - He doesn't understand this decision, yet it seems logical to other colleagues. 'Pourtant' means 'yet/however' and introduces a contrast.",
-    "difficulty": "B2",
+    "difficulty": "B1",
     "source": "Workplace disagreement",
-    "tags": ["workplace", "disagreement", "logic", "contrast"],
+    "tags": ["disagreement", "logic", "contrast"],
     "timeCreated": 1736105760,
     "verified": "claude"
 }

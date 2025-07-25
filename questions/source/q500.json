@@ -10,9 +10,10 @@
         "The people responsible for them"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Je vous expliquerai logiquement ces procédures anglaises concernant la preuve</em>' - I will logically explain to you these English procedures concerning the proof. 'Expliquerai' (future tense), 'logiquement' (adverb), 'anglaises' (adjective), 'preuve' (noun), 'procédures' (topic) are all priority targets.",
+    "explanation": "The text states '<em>Je vous expliquerai logiquement ces procédures anglaises concernant la preuve</em>' - I will logically explain to you these English procedures concerning the proof. The verb 'expliquerai' is the future tense of 'expliquer' (to explain).",
     "difficulty": "A2",
     "source": "Claude",
     "tags": ["procedures", "explanation", "legal"],
-    "timeCreated": 1721049600
+    "timeCreated": 1721049600,
+    "verified": "claude"
 }

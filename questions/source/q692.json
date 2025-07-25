@@ -1,0 +1,18 @@
+{
+  "id": 692,
+  "audioText": "Il prend son bain chaque soir avant de dormir.",
+  "question": "When does he take his bath?",
+  "questionType": "comprehension",
+  "options": [
+    "Every evening before sleep",
+    "Every morning after wake up",
+    "Only on weekends",
+    "After physical exercise"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il prend son bain chaque soir avant de dormir</em>' - He takes his bath every evening before sleeping. 'Bain' means bath.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["daily-habits", "hygiene", "evening-routine"],
+  "timeCreated": "2025-01-21T16:40:00Z"
+}

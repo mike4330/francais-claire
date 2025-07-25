@@ -1,0 +1,23 @@
+{
+  "id": 3076,
+  "audioText": "Cette croix gothique témoigne de la piété religieuse qui animait les constructeurs de cathédrales médiévales, lesquels travaillaient sans cesse malgré les difficultés",
+  "question": "What does the Gothic cross testify to?",
+  "questionType": "comprehension",
+  "options": [
+    "The religious piety of medieval cathedral builders",
+    "The artistic skills of Gothic sculptors",
+    "The political power of the medieval church",
+    "The economic prosperity of medieval cities"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette croix gothique témoigne de la piété religieuse qui animait les constructeurs de cathédrales médiévales, lesquels travaillaient sans cesse malgré les difficultés</em>' - This Gothic cross testifies to the religious piety that animated medieval cathedral builders, who worked tirelessly despite difficulties. This combines 'croix', 'piété', and 'sans cesse' in a sophisticated context.",
+  "difficulty": "C1",
+  "source": "Art history",
+  "tags": [
+    "history",
+    "religion",
+    "architecture",
+    "medieval"
+  ],
+  "timeCreated": 1721069160
+}

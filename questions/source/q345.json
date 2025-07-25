@@ -14,6 +14,7 @@
     "explanation": "The correct text is '<em>Cet homme fou court quasi partout en ville</em>' - This crazy man runs almost everywhere in town. Key distinctions: 'fou' (crazy, not 'sage' - wise), 'quasi' (almost, not 'assez' - quite/enough), and 'court' (runs, third person singular) not 'cours' (you run, second person singular or noun form).",
     "difficulty": "A2",
     "source": "Listening version of Q265",
-    "tags": ["child-development", "behavior", "urban"],
-    "timeCreated": 1720963680
+    "tags": ["behavior", "urban", "daily-life"],
+    "timeCreated": 1720963680,
+    "verified": "claude"
 }

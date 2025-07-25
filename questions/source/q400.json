@@ -1,18 +1,24 @@
 {
   "id": 400,
-  "audioText": "Cette belle parole réconforte mon cœur triste.",
-  "question": "What comforts the sad heart?",
-  "questionType": "comprehension",
+  "audioText": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
+  "question": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
+  "questionType": "listening",
   "options": [
-    "This beautiful word",
-    "The happy memory",
-    "The warm embrace", 
-    "The gentle music"
+    "Pull out the documents temporarily on purpose to analyze the situation",
+    "Push the documents away temporarily by accident to analyze the situation",
+    "Keep the documents hidden temporarily on purpose to analyze the situation",
+    "Destroy the documents temporarily by mistake to analyze the situation"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'This beautiful word'. The text states '<em>Cette belle parole réconforte mon cœur triste</em>' - This beautiful word comforts my sad heart. 'Parole' means word or speech, and it's what provides comfort here.",
+  "explanation": "The text states '<em>Allez, tirons provisoirement ces documents exprès pour analyser la situation</em>' - Come on, let's temporarily pull out these documents on purpose to analyze the situation. 'Tirons' is the imperative 'let's pull', 'provisoirement' means temporarily, and 'exprès' means on purpose/deliberately. The distractors test confusion about the action and intent.",
   "difficulty": "A2",
-  "source": "Strategic noun targeting - parole",
-  "tags": ["emotions", "comfort", "communication"],
-  "timeCreated": 1736801200
+  "source": "Strategic targeting: tirons + provisoirement + exprès",
+  "tags": [
+    "documents",
+    "analysis",
+    "investigation"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 1385,
+  "verified": "claude"
 }

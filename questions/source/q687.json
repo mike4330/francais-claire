@@ -1,19 +1,24 @@
 {
   "id": 687,
-  "audioText": "Il mange un morceau de pain.",
-  "question": "Il mange un ______ de pain.",
+  "audioText": "Ce dingue descend affreusement dans la douleur maintenant.",
+  "question": "Ce dingue ______ affreusement dans la douleur maintenant.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "morceau",
-    "verre",
-    "paquet",
-    "kilo"
+    "descends",
+    "descend",
+    "descendez",
+    "descendant"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Il mange un morceau de pain.</em>' - He eats a piece of bread. 'Morceau' means piece, bit, or chunk of something.",
+  "explanation": "The text states '<em>Ce dingue descend affreusement dans la douleur maintenant</em>' - This crazy person descends terribly into pain now. 'Descend' is the third person singular present form of 'descendre' (to descend).",
   "difficulty": "A2",
-  "source": "Eating bread",
-  "tags": ["food", "bread", "eating"],
-  "timeCreated": 1737420300,
+  "source": "Psychological drama discussion",
+  "tags": [
+    "psychology",
+    "emotions",
+    "health",
+    "mental-state"
+  ],
+  "timeCreated": 1736784480,
   "verified": "claude"
 }

@@ -1,0 +1,23 @@
+{
+  "id": 498,
+  "audioText": "Cette lampe éclaire bien la pièce.",
+  "question": "Cette ______ éclaire bien la pièce.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "lampe",
+    "fenêtre",
+    "bougie",
+    "télévision"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette lampe éclaire bien la pièce.</em>' - This lamp lights the room well. 'Lampe' means lamp, a device that produces light.",
+  "difficulty": "A2",
+  "source": "Room lighting",
+  "tags": [
+    "lighting",
+    "home",
+    "furniture"
+  ],
+  "timeCreated": 1737420120,
+  "verified": "claude"
+}

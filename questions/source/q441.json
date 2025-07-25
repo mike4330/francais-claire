@@ -1,15 +1,16 @@
 {
   "id": 441,
-  "audioText": "Cette maison tomberait mortellement si nous avons lus ces livres montés sur le mètre de fer.",
-  "question": "Cette maison ______ mortellement si nous avons lus ces livres montés sur le mètre de fer.",
+  "audioText": "Cette maison tomberait mortellement si nous avons lu ces livres montés sur le mètre de fer.",
+  "question": "Cette maison ______ mortellement si nous avons lu ces livres montés sur le mètre de fer.",
   "questionType": "writing",
   "options": [],
   "correct": 0,
   "correctAnswer": "tomberait",
   "acceptedAnswers": ["tomberait", "Tomberait"],
-  "explanation": "The text states '<em>Cette maison tomberait mortellement si nous avons lus ces livres montés sur le mètre de fer</em>' - This house would fall mortally if we have read these books mounted on the iron meter. 'Tomberait' is the conditional form of 'tomber' (to fall), used in hypothetical situations.",
-  "difficulty": "A2",
+  "explanation": "The text states '<em>Cette maison tomberait mortellement si nous avons lu ces livres montés sur le mètre de fer</em>' - This house would fall mortally if we have read these books mounted on the iron meter. 'Tomberait' is the conditional form of 'tomber' (to fall), used in hypothetical situations.",
+  "difficulty": "B1",
   "source": "Strategic targeting - tomberait + mortellement + lus + montés + mètre + fer synergy + books",
   "tags": ["books", "materials", "housing"],
-  "timeCreated": 1736806240
+  "timeCreated": 1736806240,
+  "verified": "claude"
 }

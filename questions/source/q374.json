@@ -1,7 +1,7 @@
 {
     "id": 374,
-    "audioText": "Il a montré cette dame conne pour attirer l'attention des spectateurs pendant le spectacle.",
-    "question": "Why did he show this stupid woman during the show?",
+    "audioText": "Il a montré cette dame drôle pour attirer l'attention des spectateurs pendant le spectacle.",
+    "question": "Why did he show this funny woman during the show?",
     "questionType": "comprehension",
     "options": [
         "To attract the spectators' attention",
@@ -10,9 +10,10 @@
         "To introduce special guest performers from other countries"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'To attract the spectators' attention'. The text states '<em>Il a montré cette dame conne pour attirer l'attention des spectateurs pendant le spectacle</em>' - He showed this stupid woman to attract the spectators' attention during the show. 'Montré' is the past participle of 'montrer' (to show), 'dame' means 'woman', and 'conne' means 'stupid'.",
+    "explanation": "The correct answer is 'To attract the spectators' attention'. The text states '<em>Il a montré cette dame drôle pour attirer l'attention des spectateurs pendant le spectacle</em>' - He showed this funny woman to attract the spectators' attention during the show. 'Montré' is the past participle of 'montrer' (to show), 'dame' means 'woman', and 'drôle' means 'funny'.",
     "difficulty": "A2",
     "source": "Strategic vocabulary development - theater attention",
     "tags": ["attention", "theater", "performance"],
-    "timeCreated": 1720825080
+    "timeCreated": 1720825080,
+    "verified": "claude"
 }

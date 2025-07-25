@@ -1,18 +1,23 @@
 {
   "id": 502,
-  "audioText": "Je cherche des chaussures noires.",
-  "question": "What is the person looking for?",
-  "questionType": "comprehension",
+  "audioText": "Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
   "options": [
-    "Black shoes",
-    "Black socks",
-    "Black pants",
-    "Black jacket"
+    "Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+    "Elle retrouve toujours ses clés perdues dans des endroits attendus de la maison.",
+    "Elle trouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+    "Elle retrouve souvent ses clés perdues dans des endroits inattendus de la maison."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Je cherche des chaussures noires</em>' - I am looking for black shoes. '<em>Chaussures</em>' means shoes.",
+  "explanation": "The text states '<em>Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison</em>' - She always finds her lost keys in unexpected places in the house. This tests precise listening of 'retrouve' vs 'trouve', 'toujours' vs 'souvent', and 'inattendus' vs 'attendus'.",
   "difficulty": "A2",
-  "source": "claude",
-  "tags": ["shopping", "clothing", "everyday-situation"],
-  "timeCreated": "2025-07-15T00:00:00Z"
+  "source": "Strategic targeting - retrouve + daily life + home",
+  "tags": [
+    "daily-life",
+    "home",
+    "searching"
+  ],
+  "timeCreated": 1736801980,
+  "verified": "claude"
 }

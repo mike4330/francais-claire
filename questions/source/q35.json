@@ -1,0 +1,24 @@
+{
+  "id": 35,
+  "audioText": "Hier, je comptais mes pièces.",
+  "question": "Hier, je ______ mes pièces.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "comptais",
+    "comptait",
+    "compte",
+    "comptes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Hier, je comptais mes pièces</em>' - Yesterday, I was counting my coins. The correct form is 'comptais' (1st person singular imperfect of 'compter'). The imperfect describes an ongoing action in the past.",
+  "difficulty": "A1",
+  "source": "Claude-generated",
+  "tags": [
+    "money",
+    "coins",
+    "past-actions",
+    "counting"
+  ],
+  "timeCreated": 1735951740,
+  "verified": "claude"
+}

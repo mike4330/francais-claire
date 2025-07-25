@@ -1,0 +1,22 @@
+{
+  "id": 3067,
+  "audioText": "Ici-bas, je souviendrai généreusement de cette vaste liberté espérée par nos ancêtres qui lisais les cartes géographiques dans les cafés parisiens.",
+  "question": "Je ______ généreusement de cette vaste liberté espérée par nos ancêtres qui lisais les cartes géographiques dans les cafés parisiens.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "me souviendrai",
+  "acceptedAnswers": [
+    "me souviendrai",
+    "Me souviendrai"
+  ],
+  "explanation": "The text states '<em>Ici-bas, je me souviendrai généreusement de cette vaste liberté espérée par nos ancêtres qui lisaient les cartes géographiques dans les cafés parisiens</em>' - Down here, I will generously remember this vast freedom hoped for by our ancestors who read geographical maps in Parisian cafes. This combines 'ici-bas', 'souviendrai', 'généreusement', 'vaste', 'liberté', 'espéré', 'lisais', and 'cartes' in a historical context.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - ici-bas + souviendrai + généreusement + vaste + liberté + espéré + lisais + cartes + café synergy + historical memory",
+  "tags": [
+    "historical-memory",
+    "cafe",
+    "geography"
+  ],
+  "timeCreated": 1736804560
+}

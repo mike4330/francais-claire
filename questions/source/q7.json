@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "audioText": "Je cherche des chaussures noires.",
+  "question": "What is the person looking for?",
+  "questionType": "comprehension",
+  "options": [
+    "Black shoes",
+    "Black socks",
+    "Black pants",
+    "Black jacket"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je cherche des chaussures noires</em>' - I am looking for black shoes. 'Chaussures' means shoes.",
+  "difficulty": "A1",
+  "source": "claude",
+  "tags": [
+    "shopping",
+    "clothing",
+    "everyday-situation"
+  ],
+  "timeCreated": 1720881353,
+  "verified": "claude"
+}

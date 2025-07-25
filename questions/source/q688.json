@@ -1,18 +1,23 @@
 {
   "id": 688,
-  "audioText": "Je déteste les légumes verts.",
-  "question": "What does this person dislike?",
+  "audioText": "Nous nous promenons le long de la côte méditerranéenne.",
+  "question": "Where are they walking?",
   "questionType": "comprehension",
   "options": [
-    "Green vegetables",
-    "Red fruits",
-    "White bread",
-    "Brown meat"
+    "Along the Mediterranean coast",
+    "In the city center",
+    "Through the forest",
+    "Around the lake"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Je déteste les légumes verts</em>' - I hate green vegetables. 'Déteste' is the first person singular present of 'détester' (to hate/detest).",
+  "explanation": "The text states '<em>Nous nous promenons le long de la côte méditerranéenne</em>' - We are walking along the Mediterranean coast. '<em>Côte</em>' means coast or shore.",
   "difficulty": "A2",
   "source": "claude",
-  "tags": ["food", "preferences", "vegetables"],
-  "timeCreated": "2025-01-21T15:55:00Z"
+  "tags": [
+    "travel",
+    "geography",
+    "recreation"
+  ],
+  "timeCreated": "2025-07-16T00:00:00Z",
+  "verified": "claude"
 }
