@@ -142,6 +142,29 @@
       "verified": "claude"
     },
     {
+      "id": 7,
+      "audioText": "Je cherche des chaussures noires.",
+      "question": "What is the person looking for?",
+      "questionType": "comprehension",
+      "options": [
+        "Black shoes",
+        "Black socks",
+        "Black pants",
+        "Black jacket"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je cherche des chaussures noires</em>' - I am looking for black shoes. 'Chaussures' means shoes.",
+      "difficulty": "A1",
+      "source": "claude",
+      "tags": [
+        "shopping",
+        "clothing",
+        "everyday-situation"
+      ],
+      "timeCreated": 1720881353,
+      "verified": "claude"
+    },
+    {
       "id": 9,
       "audioText": "Quand tu vois un match de football, tu ressens toujours beaucoup d'émotions.",
       "question": "What happens when you watch a football match?",
@@ -716,6 +739,30 @@
       "verified": "claude"
     },
     {
+      "id": 35,
+      "audioText": "Hier, je comptais mes pièces.",
+      "question": "Hier, je ______ mes pièces.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "comptais",
+        "comptait",
+        "compte",
+        "comptes"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Hier, je comptais mes pièces</em>' - Yesterday, I was counting my coins. The correct form is 'comptais' (1st person singular imperfect of 'compter'). The imperfect describes an ongoing action in the past.",
+      "difficulty": "A1",
+      "source": "Claude-generated",
+      "tags": [
+        "money",
+        "coins",
+        "past-actions",
+        "counting"
+      ],
+      "timeCreated": 1735951740,
+      "verified": "claude"
+    },
+    {
       "id": 36,
       "audioText": "Mon chéri, tu es sage aujourd'hui.",
       "question": "What does the speaker call the person they're addressing?",
@@ -851,6 +898,29 @@
         "geography"
       ],
       "timeCreated": 1736184000,
+      "verified": "claude"
+    },
+    {
+      "id": 42,
+      "audioText": "Je mange actuellement une pomme rouge.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
+      "options": [
+        "Je mange actuellement une pomme rouge.",
+        "Je mange maintenant une pomme rouge.",
+        "Je mange actuellement une pomme verte.",
+        "Je bois actuellement une pomme rouge."
+      ],
+      "correct": 0,
+      "explanation": "The audio states '<em>Je mange actuellement une pomme rouge</em>' - I am currently eating a red apple. Note the key distinctions: 'actuellement' vs 'maintenant' (now), 'rouge' vs 'verte' (green), and 'mange' vs 'bois' (drink).",
+      "difficulty": "A1",
+      "source": "Current actions and food consumption",
+      "tags": [
+        "food",
+        "present-actions",
+        "daily-life"
+      ],
+      "timeCreated": 1751812620,
       "verified": "claude"
     },
     {
@@ -1434,6 +1504,7 @@
         "singing",
         "daily-life"
       ],
+      "timeCreated": 1720881353,
       "verified": "claude"
     },
     {
@@ -1716,6 +1787,29 @@
         "daily-life"
       ],
       "timeCreated": 1735500702,
+      "verified": "claude"
+    },
+    {
+      "id": 80,
+      "audioText": "Il éteignit sa cigarette dans ce bel endroit.",
+      "question": "Il éteignit sa cigarette dans ce ______ endroit.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "bel",
+        "belle",
+        "beau",
+        "beaux"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il éteignit sa cigarette dans ce bel endroit</em>' - He put out his cigarette in this beautiful place. The correct form is 'bel' (masculine form of 'beau' used before vowels), agreeing with 'endroit' (masculine).",
+      "difficulty": "A1",
+      "source": "Claude-generated",
+      "tags": [
+        "smoking",
+        "places",
+        "adjectives"
+      ],
+      "timeCreated": 1735953420,
       "verified": "claude"
     },
     {
@@ -2552,6 +2646,31 @@
         "telephone"
       ],
       "timeCreated": 1751492641,
+      "verified": "claude"
+    },
+    {
+      "id": 116,
+      "audioText": "Mon chien sort toujours dans le jardin après ses repas pour se détendre.",
+      "question": "When does the dog go outside?",
+      "questionType": "comprehension",
+      "options": [
+        "After his meals to relax",
+        "Before his meals to exercise",
+        "During his meals to play",
+        "Instead of his meals to hunt"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mon chien sort toujours dans le jardin après ses repas pour se détendre</em>' - My dog always goes out into the garden after his meals to relax. 'Sort' is the 3rd person singular present of 'sortir' (to go out), and 'après ses repas' means after his meals.",
+      "difficulty": "A2",
+      "source": "Pet routine",
+      "tags": [
+        "animals",
+        "pets",
+        "routine",
+        "garden",
+        "daily-life"
+      ],
+      "timeCreated": 1736065300,
       "verified": "claude"
     },
     {
@@ -4032,29 +4151,6 @@
       "verified": "claude"
     },
     {
-      "id": 180,
-      "audioText": "Où irez-vous en vacances cet été ?",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
-      "options": [
-        "Où irez-vous en vacances cet été ?",
-        "Où allez-vous en vacances cet été ?",
-        "Où êtes-vous allés en vacances cet été ?",
-        "Où iriez-vous en vacances cet été ?"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is '<em>Où irez-vous en vacances cet été ?</em>' - Where will you go on vacation this summer? The sentence uses 'irez' - the future form of 'aller' (to go) for vous.",
-      "difficulty": "A2",
-      "source": "Vacation planning conversation",
-      "tags": [
-        "vacation",
-        "travel",
-        "future-plans"
-      ],
-      "timeCreated": 1720108800,
-      "verified": "claude"
-    },
-    {
       "id": 181,
       "audioText": "Les trains partent toutes les heures.",
       "question": "Complete: Les trains ______ toutes les heures.",
@@ -5250,6 +5346,29 @@
       "verified": "claude"
     },
     {
+      "id": 234,
+      "audioText": "Cette belle parole réconforte mon cœur triste.",
+      "question": "What comforts the sad heart?",
+      "questionType": "comprehension",
+      "options": [
+        "This beautiful word",
+        "The happy memory",
+        "The warm embrace",
+        "The gentle music"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'This beautiful word'. The text states '<em>Cette belle parole réconforte mon cœur triste</em>' - This beautiful word comforts my sad heart. 'Parole' means word or speech, and it's what provides comfort here.",
+      "difficulty": "A1",
+      "source": "Strategic noun targeting - parole",
+      "tags": [
+        "emotions",
+        "comfort",
+        "communication"
+      ],
+      "timeCreated": 1736801200,
+      "verified": "claude"
+    },
+    {
       "id": 235,
       "audioText": "Tu aides ta mère avec les courses chaque samedi ?",
       "question": "Tu ______ ta mère avec les courses chaque samedi ?",
@@ -5573,25 +5692,25 @@
     },
     {
       "id": 249,
-      "audioText": "Je mange actuellement une pomme rouge.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
+      "audioText": "Ses propos à propos de l'honneur familial ont été mal reçus par l'assemblée.",
+      "question": "How were his remarks about family honor received?",
+      "questionType": "comprehension",
       "options": [
-        "Je mange actuellement une pomme rouge.",
-        "Je mange maintenant une pomme rouge.",
-        "Je mange actuellement une pomme verte.",
-        "Je bois actuellement une pomme rouge."
+        "They were poorly received by the assembly",
+        "They were enthusiastically applauded",
+        "They were completely ignored",
+        "They were carefully recorded"
       ],
       "correct": 0,
-      "explanation": "The audio states '<em>Je mange actuellement une pomme rouge</em>' - I am currently eating a red apple. Note the key distinctions: 'actuellement' vs 'maintenant' (now), 'rouge' vs 'verte' (green), and 'mange' vs 'bois' (drink).",
+      "explanation": "The text states '<em>Ses propos à propos de l'honneur familial ont été mal reçus par l'assemblée</em>' - His remarks about family honor were poorly received by the assembly. This targets the nouns 'propos' and 'honneur' in a family reputation context.",
       "difficulty": "A2",
-      "source": "Current actions and food consumption",
+      "source": "Strategic noun targeting: propos, honneur",
       "tags": [
-        "food",
-        "present-actions",
-        "daily-life"
+        "family",
+        "reputation",
+        "social-response"
       ],
-      "timeCreated": 1751812620,
+      "timeCreated": 1720618760,
       "verified": "claude"
     },
     {
@@ -6603,7 +6722,8 @@
         "children",
         "searching"
       ],
-      "timeCreated": 1720714800
+      "timeCreated": 1720714800,
+      "verified": "claude"
     },
     {
       "id": 294,
@@ -7275,7 +7395,8 @@
         "colors",
         "home"
       ],
-      "timeCreated": 1752094101
+      "timeCreated": 1752094101,
+      "verified": "claude"
     },
     {
       "id": 323,
@@ -7702,7 +7823,8 @@
         "gestures",
         "pointing"
       ],
-      "timeCreated": 1720618700
+      "timeCreated": 1720618700,
+      "verified": "claude"
     },
     {
       "id": 342,
@@ -7904,7 +8026,8 @@
         "daily-routine",
         "health"
       ],
-      "timeCreated": 1736622060
+      "timeCreated": 1736622060,
+      "verified": "claude"
     },
     {
       "id": 351,
@@ -8106,7 +8229,8 @@
         "food",
         "community"
       ],
-      "timeCreated": 1720823520
+      "timeCreated": 1720823520,
+      "verified": "claude"
     },
     {
       "id": 360,
@@ -8129,28 +8253,6 @@
         "examinations"
       ],
       "timeCreated": 1720823580
-    },
-    {
-      "id": 361,
-      "audioText": "Toutes les feuilles tombées dans mon rêve représentaient mes idées créatives perdues.",
-      "question": "What did all the fallen leaves in the dream represent?",
-      "questionType": "comprehension",
-      "options": [
-        "Lost creative ideas",
-        "Forgotten childhood memories from autumn days",
-        "Missed opportunities in professional life",
-        "Unfinished artistic projects from the past"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'Lost creative ideas'. The text states '<em>Toutes les feuilles tombées dans mon rêve représentaient mes idées créatives perdues</em>' - All the fallen leaves in my dream represented my lost creative ideas. 'Tombées' is the feminine plural past participle of 'tomber' (to fall), and 'rêve' means 'dream'.",
-      "difficulty": "A2",
-      "source": "Strategic vocabulary development - creative imagination",
-      "tags": [
-        "imagination",
-        "creativity",
-        "emotions"
-      ],
-      "timeCreated": 1720823640
     },
     {
       "id": 362,
@@ -8243,25 +8345,26 @@
     },
     {
       "id": 366,
-      "audioText": "La soupe mangée était trop pâle à cause du manque de médicaments colorants.",
-      "question": "Why was the consumed soup too pale?",
+      "audioText": "La soupe préparée était trop pâle à cause du manque d'épices colorantes.",
+      "question": "Why was the prepared soup too pale?",
       "questionType": "comprehension",
       "options": [
-        "Because of the lack of coloring medications",
+        "Because of the lack of coloring spices",
         "Because it was prepared without proper seasoning",
         "Because the vegetables were not fresh enough",
         "Because the cooking time was insufficient"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'Because of the lack of coloring medications'. The text states '<em>La soupe mangée était trop pâle à cause du manque de médicaments colorants</em>' - The consumed soup was too pale because of the lack of coloring medications. 'Mangée' is the feminine past participle of 'manger' (to eat), and 'pâle' means 'pale'.",
+      "explanation": "The text states '<em>La soupe préparée était trop pâle à cause du manque d'épices colorantes</em>' - The prepared soup was too pale because of the lack of coloring spices. 'Préparée' is the feminine past participle of 'préparer' (to prepare), and 'pâle' means 'pale'.",
       "difficulty": "A2",
-      "source": "Strategic vocabulary development - food medication",
+      "source": "Strategic vocabulary development - food preparation",
       "tags": [
-        "medication",
+        "cooking",
         "food",
-        "health"
+        "spices"
       ],
-      "timeCreated": 1720824060
+      "timeCreated": 1720824060,
+      "verified": "claude"
     },
     {
       "id": 367,
@@ -8443,28 +8546,6 @@
       "verified": "claude"
     },
     {
-      "id": 375,
-      "audioText": "J'entrerai gratis dans ce magasin quand je verrai le signe de la réalité virtuelle.",
-      "question": "When will I enter this store for free?",
-      "questionType": "comprehension",
-      "options": [
-        "When I see the virtual reality sign",
-        "When the promotional period begins next month",
-        "When I present my membership card at the entrance",
-        "When the store manager approves my special request"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'When I see the virtual reality sign'. The text states '<em>J'entrerai gratis dans ce magasin quand je verrai le signe de la réalité virtuelle</em>' - I will enter this store for free when I see the virtual reality sign. 'Entrerai' is the first-person singular future of 'entrer' (to enter), 'gratis' means 'for free', and 'signe' means 'sign'.",
-      "difficulty": "A2",
-      "source": "Strategic vocabulary development - virtual reality shopping",
-      "tags": [
-        "reality",
-        "technology",
-        "shopping"
-      ],
-      "timeCreated": 1720825140
-    },
-    {
       "id": 376,
       "audioText": "Tu as envoyé ce con faire ses courses quotidiennes au supermarché.",
       "question": "Who did you send to do their daily errands at the supermarket?",
@@ -8602,7 +8683,7 @@
     },
     {
       "id": 382,
-      "audioText": "Mes cousins montrez le beurre frais dans le frigo.",
+      "audioText": "Mes cousins montrent le beurre frais dans le frigo.",
       "question": "What do my cousins show in the fridge?",
       "questionType": "comprehension",
       "options": [
@@ -8612,7 +8693,7 @@
         "Cold water bottles"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Mes cousins montrez le beurre frais dans le frigo.</em>' - My cousins show the fresh butter in the fridge. 'Beurre' means butter, 'frais' means fresh, and 'montrez' is a form of 'montrer' (to show).",
+      "explanation": "The text states '<em>Mes cousins montrent le beurre frais dans le frigo.</em>' - My cousins show the fresh butter in the fridge. 'Beurre' means butter, 'frais' means fresh, and 'montrent' is the third person plural form of 'montrer' (to show).",
       "difficulty": "A2",
       "source": "Strategic food vocabulary development - basic dairy products",
       "tags": [
@@ -8620,7 +8701,8 @@
         "family",
         "kitchen"
       ],
-      "timeCreated": 1720827060
+      "timeCreated": 1720827060,
+      "verified": "claude"
     },
     {
       "id": 383,
@@ -8736,6 +8818,28 @@
       "parentQuestion": 295
     },
     {
+      "id": 388,
+      "audioText": "Est-ce que vous comprenez la situation actuelle?",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Est-ce que vous comprenez la situation actuelle?",
+        "Est-ce que vous comprendrez la situation future?",
+        "Est-ce que vous compreniez la situation passée?",
+        "Est-ce que vous apprenez la situation actuelle?"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Est-ce que vous comprenez la situation actuelle?</em>' - Do you understand the current situation? 'Comprenez' is the second person plural of 'comprendre' (to understand), and 'actuelle' means current.",
+      "difficulty": "A2",
+      "source": "Gemini-generated",
+      "tags": [
+        "formal-discourse",
+        "understanding"
+      ],
+      "timeCreated": 1720134000,
+      "verified": "claude"
+    },
+    {
       "id": 389,
       "audioText": "Le jeune homme nettoie relativement sa chambre sale.",
       "question": "What does the speaker say about how the young man cleans his dirty room?",
@@ -8779,7 +8883,8 @@
         "daily-life",
         "greetings"
       ],
-      "timeCreated": 1720814000
+      "timeCreated": 1720814000,
+      "verified": "claude"
     },
     {
       "id": 391,
@@ -8845,7 +8950,8 @@
         "emotions",
         "mystery"
       ],
-      "timeCreated": 1720814300
+      "timeCreated": 1720814300,
+      "verified": "claude"
     },
     {
       "id": 394,
@@ -8985,6 +9091,30 @@
       ],
       "timeCreated": 1720800000,
       "parentQuestion": 108
+    },
+    {
+      "id": 400,
+      "audioText": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
+      "question": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
+      "questionType": "listening",
+      "options": [
+        "Pull out the documents temporarily on purpose to analyze the situation",
+        "Push the documents away temporarily by accident to analyze the situation",
+        "Keep the documents hidden temporarily on purpose to analyze the situation",
+        "Destroy the documents temporarily by mistake to analyze the situation"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Allez, tirons provisoirement ces documents exprès pour analyser la situation</em>' - Come on, let's temporarily pull out these documents on purpose to analyze the situation. 'Tirons' is the imperative 'let's pull', 'provisoirement' means temporarily, and 'exprès' means on purpose/deliberately. The distractors test confusion about the action and intent.",
+      "difficulty": "A2",
+      "source": "Strategic targeting: tirons + provisoirement + exprès",
+      "tags": [
+        "documents",
+        "analysis",
+        "investigation"
+      ],
+      "timeCreated": 1720881353,
+      "parentQuestion": 1385,
+      "verified": "claude"
     },
     {
       "id": 401,
@@ -9163,7 +9293,8 @@
         "daily-life"
       ],
       "timeCreated": 1720800000,
-      "parentQuestion": 226
+      "parentQuestion": 226,
+      "verified": "claude"
     },
     {
       "id": 409,
@@ -9301,7 +9432,8 @@
         "returning"
       ],
       "timeCreated": 1720800000,
-      "parentQuestion": 236
+      "parentQuestion": 236,
+      "verified": "claude"
     },
     {
       "id": 416,
@@ -9324,7 +9456,8 @@
         "size"
       ],
       "timeCreated": 1720800000,
-      "parentQuestion": 200
+      "parentQuestion": 200,
+      "verified": "claude"
     },
     {
       "id": 417,
@@ -9351,17 +9484,17 @@
     },
     {
       "id": 418,
-      "audioText": "Hier soir, nous retrouvons nos amis au café du centre-ville.",
+      "audioText": "Hier soir, nous avons retrouvé nos amis au café du centre-ville.",
       "question": "Hier soir, nous ______ nos amis au café du centre-ville.",
       "questionType": "fill-in-the-blank",
       "options": [
+        "avons retrouvé",
         "retrouvons",
-        "retrouves",
         "retrouvez",
         "retrouve"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Hier soir, nous retrouvons nos amis au café du centre-ville</em>' - Last night, we meet our friends at the downtown café. 'Retrouvons' is the first person plural form of 'retrouver' (to meet/find), agreeing with 'nous'.",
+      "explanation": "The text states '<em>Hier soir, nous avons retrouvé nos amis au café du centre-ville</em>' - Last night, we met our friends at the downtown café. 'Avons retrouvé' is the past compound (passé composé) form needed with 'hier soir' (last night), using auxiliary 'avoir' + past participle 'retrouvé'.",
       "difficulty": "A2",
       "source": "Social meeting conversation",
       "tags": [
@@ -9369,7 +9502,8 @@
         "meeting",
         "cafe"
       ],
-      "timeCreated": 1736804800
+      "timeCreated": 1736804800,
+      "verified": "claude"
     },
     {
       "id": 419,
@@ -9692,8 +9826,8 @@
     },
     {
       "id": 433,
-      "audioText": "Il importe que vous racontes cette histoire au colonel russe.",
-      "question": "Il ______ que vous racontes cette histoire au colonel russe.",
+      "audioText": "Il importe que vous racontiez cette histoire au colonel russe.",
+      "question": "Il ______ que vous racontiez cette histoire au colonel russe.",
       "questionType": "fill-in-the-blank",
       "options": [
         "importe",
@@ -9702,7 +9836,7 @@
         "importait"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Il importe que vous racontes cette histoire au colonel russe</em>' - It matters that you tell this story to the Russian colonel. 'Importe' is the present tense third person singular of 'importer' (to matter), used in the impersonal construction 'il importe que'.",
+      "explanation": "The text states '<em>Il importe que vous racontiez cette histoire au colonel russe</em>' - It matters that you tell this story to the Russian colonel. 'Importe' is the present tense third person singular of 'importer' (to matter), used in the impersonal construction 'il importe que', which requires the subjunctive mood.",
       "difficulty": "A2",
       "source": "Strategic targeting - importe + racontes + colonel + russe synergy + military communication",
       "tags": [
@@ -9710,7 +9844,8 @@
         "storytelling",
         "importance"
       ],
-      "timeCreated": 1736805800
+      "timeCreated": 1736805800,
+      "verified": "claude"
     },
     {
       "id": 434,
@@ -9868,24 +10003,26 @@
     },
     {
       "id": 442,
-      "audioText": "Présentement, nous plairez étonnamment au diable arrière.",
-      "question": "What will we amazingly please presently?",
+      "audioText": "Présentement, nous préparons notre présentation pour le client important.",
+      "question": "What are we currently preparing?",
       "questionType": "comprehension",
       "options": [
-        "The devil behind",
-        "The government officials",
-        "The university professors",
-        "The business executives"
+        "Our presentation for the important client",
+        "The weekly team meeting",
+        "The quarterly budget report",
+        "The new marketing strategy"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Présentement, nous plairez étonnamment au diable arrière</em>' - Presently, we will amazingly please the devil behind. 'Présentement' means currently/presently and 'étonnamment' means amazingly/surprisingly.",
+      "explanation": "The text states '<em>Présentement, nous préparons notre présentation pour le client important</em>' - Currently, we are preparing our presentation for the important client. 'Présentement' means currently/presently, 'préparons' means we prepare/are preparing, and 'présentation' means presentation.",
       "difficulty": "A2",
-      "source": "Strategic targeting - présentement + plairez + étonnamment + diable + arrière synergy + supernatural",
+      "source": "Business context",
       "tags": [
-        "supernatural",
-        "time"
+        "business",
+        "presentation",
+        "client"
       ],
-      "timeCreated": 1736806360
+      "timeCreated": 1736806360,
+      "verified": "claude"
     },
     {
       "id": 443,
@@ -9955,6 +10092,29 @@
       "timeCreated": 1736783220
     },
     {
+      "id": 446,
+      "audioText": "Le sable fin de cette plage est parfait pour les enfants.",
+      "question": "What is perfect for children?",
+      "questionType": "comprehension",
+      "options": [
+        "The fine sand of this beach",
+        "The cold water",
+        "The high waves",
+        "The rocky shore"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le sable fin de cette plage est parfait pour les enfants</em>' - The fine sand of this beach is perfect for children. '<em>Sable</em>' means sand.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "beach",
+        "family",
+        "recreation"
+      ],
+      "timeCreated": "2025-07-16T00:00:00Z",
+      "verified": "claude"
+    },
+    {
       "id": 447,
       "audioText": "Ma sœur que j'ai rencontrée hier travaille maintenant à Paris.",
       "question": "Who works in Paris now?",
@@ -9997,7 +10157,8 @@
         "faith",
         "books"
       ],
-      "timeCreated": 1736784240
+      "timeCreated": 1736784240,
+      "verified": "claude"
     },
     {
       "id": 449,
@@ -10116,26 +10277,25 @@
     },
     {
       "id": 454,
-      "audioText": "Hier, je comptais mes pièces.",
-      "question": "Hier, je ______ mes pièces.",
-      "questionType": "fill-in-the-blank",
+      "audioText": "Nous avons exactement la même voiture que nos voisins.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
       "options": [
-        "comptais",
-        "comptait",
-        "compte",
-        "comptes"
+        "Nous avons exactement la même voiture que nos voisins.",
+        "Nous avons exactement la mème voiture que nos voisins.",
+        "Nous avons exactement la mem voiture que nos voisins.",
+        "Nous avons exactement la mime voiture que nos voisins."
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Hier, je comptais mes pièces</em>' - Yesterday, I was counting my coins. The correct form is 'comptais' (1st person singular imperfect of 'compter'). The imperfect describes an ongoing action in the past.",
+      "explanation": "The correct form is 'même' (same). This adjective requires a circumflex accent on the 'e' to distinguish it from other similar words. 'La même voiture' means 'the same car' - we have exactly the same car as our neighbors.",
       "difficulty": "A2",
-      "source": "Claude-generated",
+      "source": "Comparison with neighbors and possessions",
       "tags": [
-        "money",
-        "coins",
-        "past-actions",
-        "counting"
+        "comparison",
+        "neighbors",
+        "possessions"
       ],
-      "timeCreated": 1735951740,
+      "timeCreated": 1704067200,
       "verified": "claude"
     },
     {
@@ -10256,6 +10416,30 @@
         "play"
       ],
       "timeCreated": 1735953180,
+      "verified": "claude"
+    },
+    {
+      "id": 460,
+      "audioText": "Mon téléphone ne marche pas bien ce matin.",
+      "question": "What does the speaker say is not working well this morning?",
+      "questionType": "comprehension",
+      "options": [
+        "My telephone",
+        "My computer",
+        "My television",
+        "My radio"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mon téléphone ne marche pas bien ce matin</em>' - My telephone is not working well this morning. 'Téléphone' means telephone, and 'ne marche pas bien' means is not working well. The distractors test misinterpretation of the device mentioned (computer, television, radio).",
+      "difficulty": "A1",
+      "source": "Gemini CLI - Listening practice",
+      "tags": [
+        "technology",
+        "communication",
+        "daily-life"
+      ],
+      "timeCreated": 1720800000,
+      "parentQuestion": 330,
       "verified": "claude"
     },
     {
@@ -10420,7 +10604,8 @@
         "clothing",
         "shopping"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": 1720958400,
+      "verified": "claude"
     },
     {
       "id": 468,
@@ -10644,7 +10829,8 @@
         "construction",
         "architecture"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": "2025-07-14T12:00:00Z",
+      "verified": "claude"
     },
     {
       "id": 478,
@@ -10711,7 +10897,8 @@
         "appointments",
         "time-management"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": 1720973200,
+      "verified": "claude"
     },
     {
       "id": 481,
@@ -10777,7 +10964,8 @@
         "organization",
         "workplace"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": "2025-07-14T12:00:00Z",
+      "verified": "claude"
     },
     {
       "id": 484,
@@ -10998,7 +11186,8 @@
         "daily-life",
         "entertainment"
       ],
-      "timeCreated": 1721049600
+      "timeCreated": 1721049600,
+      "verified": "claude"
     },
     {
       "id": 494,
@@ -11159,47 +11348,49 @@
     },
     {
       "id": 501,
-      "audioText": "Vous cachez à califourchon votre cou humide pendant les vacances.",
-      "question": "How do you hide your wet neck during vacation?",
+      "audioText": "Vous protégez votre cou du soleil pendant les vacances.",
+      "question": "What do you protect from the sun during vacation?",
       "questionType": "comprehension",
       "options": [
-        "Astride/straddling",
-        "Carefully and quietly",
-        "Quickly and efficiently",
-        "Slowly and deliberately"
+        "Your neck",
+        "Your hands",
+        "Your feet",
+        "Your eyes"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Vous cachez à califourchon votre cou humide pendant les vacances</em>' - You hide your wet neck astride/straddling during vacation. 'Cachez' (verb), 'à califourchon' (adverb), 'humide' (adjective), 'cou' and 'vacances' (nouns) are all priority targets.",
+      "explanation": "The text states '<em>Vous protégez votre cou du soleil pendant les vacances</em>' - You protect your neck from the sun during vacation. 'Protégez' means protect, 'cou' means neck, and 'soleil' means sun.",
       "difficulty": "A2",
       "source": "Claude",
       "tags": [
         "vacation",
-        "body",
-        "hiding"
+        "health",
+        "sun-protection"
       ],
-      "timeCreated": 1721049600
+      "timeCreated": 1721049600,
+      "verified": "claude"
     },
     {
       "id": 502,
-      "audioText": "Je cherche des chaussures noires.",
-      "question": "What is the person looking for?",
-      "questionType": "comprehension",
+      "audioText": "Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+      "question": "Qu'est-ce que vous avez entendu ?",
+      "questionType": "listening",
       "options": [
-        "Black shoes",
-        "Black socks",
-        "Black pants",
-        "Black jacket"
+        "Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+        "Elle retrouve toujours ses clés perdues dans des endroits attendus de la maison.",
+        "Elle trouve toujours ses clés perdues dans des endroits inattendus de la maison.",
+        "Elle retrouve souvent ses clés perdues dans des endroits inattendus de la maison."
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Je cherche des chaussures noires</em>' - I am looking for black shoes. '<em>Chaussures</em>' means shoes.",
+      "explanation": "The text states '<em>Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison</em>' - She always finds her lost keys in unexpected places in the house. This tests precise listening of 'retrouve' vs 'trouve', 'toujours' vs 'souvent', and 'inattendus' vs 'attendus'.",
       "difficulty": "A2",
-      "source": "claude",
+      "source": "Strategic targeting - retrouve + daily life + home",
       "tags": [
-        "shopping",
-        "clothing",
-        "everyday-situation"
+        "daily-life",
+        "home",
+        "searching"
       ],
-      "timeCreated": "2025-07-15T00:00:00Z"
+      "timeCreated": 1736801980,
+      "verified": "claude"
     },
     {
       "id": 503,
@@ -11243,7 +11434,8 @@
         "education",
         "building"
       ],
-      "timeCreated": "2025-07-15T00:00:00Z"
+      "timeCreated": 1721001600,
+      "verified": "claude"
     },
     {
       "id": 505,
@@ -12618,7 +12810,8 @@
         "hygiene",
         "comfort"
       ],
-      "timeCreated": "2025-01-18T10:26:00Z"
+      "timeCreated": 1737195960,
+      "verified": "claude"
     },
     {
       "id": 565,
@@ -15358,6 +15551,123 @@
       "verified": "claude"
     },
     {
+      "id": 684,
+      "audioText": "La petite fille a été sauvée par les pompiers.",
+      "question": "La petite fille a été ______ par les pompiers.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "sauvée",
+        "soignée",
+        "trouvée",
+        "aidée"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La petite fille a été sauvée par les pompiers</em>' - The little girl was saved by the firefighters. 'Sauvée' is the feminine past participle of 'sauver' (to save), agreeing with 'fille'.",
+      "difficulty": "A1",
+      "source": "Emergency rescue conversation",
+      "tags": [
+        "emergency",
+        "rescue",
+        "children"
+      ],
+      "timeCreated": 1736783400,
+      "verified": "claude"
+    },
+    {
+      "id": 685,
+      "audioText": "Le gouvernement a décidé de créer un service militaire obligatoire.",
+      "question": "What did the government decide to create?",
+      "questionType": "comprehension",
+      "options": [
+        "A mandatory military service.",
+        "A voluntary military service.",
+        "A civilian service program.",
+        "A medical service program."
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le gouvernement a décidé de créer un service militaire obligatoire</em>' - The government decided to create a mandatory military service. The French sentence uses 'militaire' meaning 'military'. 'Un service militaire obligatoire' means 'a mandatory military service'. 'Militaire' is an adjective describing the type of service.",
+      "difficulty": "A2",
+      "source": "Government policy discussion",
+      "tags": [
+        "politics",
+        "government",
+        "military"
+      ],
+      "timeCreated": 1720108800,
+      "verified": "claude"
+    },
+    {
+      "id": 686,
+      "audioText": "Elle cherchait fébrilement son chapeau avant de sortir en retard.",
+      "question": "How was she searching for her hat?",
+      "questionType": "comprehension",
+      "options": [
+        "Feverishly",
+        "Calmly",
+        "Casually",
+        "Methodically"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle cherchait fébrilement son chapeau avant de sortir en retard</em>' - She was feverishly searching for her hat before going out late. The adverb 'fébrilement' means feverishly/frantically, and 'chapeau' means hat.",
+      "difficulty": "A2",
+      "source": "Claude-generated",
+      "tags": [
+        "clothing",
+        "urgency",
+        "search",
+        "daily-life"
+      ],
+      "timeCreated": 1735953240,
+      "verified": "claude"
+    },
+    {
+      "id": 687,
+      "audioText": "Ce dingue descend affreusement dans la douleur maintenant.",
+      "question": "Ce dingue ______ affreusement dans la douleur maintenant.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "descends",
+        "descend",
+        "descendez",
+        "descendant"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce dingue descend affreusement dans la douleur maintenant</em>' - This crazy person descends terribly into pain now. 'Descend' is the third person singular present form of 'descendre' (to descend).",
+      "difficulty": "A2",
+      "source": "Psychological drama discussion",
+      "tags": [
+        "psychology",
+        "emotions",
+        "health",
+        "mental-state"
+      ],
+      "timeCreated": 1736784480,
+      "verified": "claude"
+    },
+    {
+      "id": 688,
+      "audioText": "Nous nous promenons le long de la côte méditerranéenne.",
+      "question": "Where are they walking?",
+      "questionType": "comprehension",
+      "options": [
+        "Along the Mediterranean coast",
+        "In the city center",
+        "Through the forest",
+        "Around the lake"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Nous nous promenons le long de la côte méditerranéenne</em>' - We are walking along the Mediterranean coast. '<em>Côte</em>' means coast or shore.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "travel",
+        "geography",
+        "recreation"
+      ],
+      "timeCreated": "2025-07-16T00:00:00Z",
+      "verified": "claude"
+    },
+    {
       "id": 689,
       "audioText": "Je te préviens, il fait très froid dehors.",
       "question": "Fill in the blank: Je te ______, il fait très froid dehors.",
@@ -15457,7 +15767,7 @@
         "crie"
       ],
       "correct": 0,
-      "explanation": "The correct form is 'crains' (fear/am afraid). I'm afraid that you'll arrive late for dinner. 'Craindre' expresses worry or fear about something.",
+      "explanation": "The text states '<em>Je crains que tu arrives en retard au dîner</em>' - I'm afraid that you'll arrive late for dinner. The correct form is 'crains' (first person singular of 'craindre' - to fear/be afraid). 'Craindre' expresses worry or fear about something.",
       "difficulty": "A2",
       "source": "claude",
       "tags": [
@@ -15465,7 +15775,8 @@
         "dinner",
         "punctuality"
       ],
-      "timeCreated": "2025-01-21T16:50:00Z"
+      "timeCreated": 1737476200,
+      "verified": "claude"
     },
     {
       "id": 694,
@@ -15561,360 +15872,56 @@
     },
     {
       "id": 698,
-      "audioText": "Nous nous promenons le long de la côte méditerranéenne.",
-      "question": "Where are they walking?",
-      "questionType": "comprehension",
-      "options": [
-        "Along the Mediterranean coast",
-        "In the city center",
-        "Through the forest",
-        "Around the lake"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Nous nous promenons le long de la côte méditerranéenne</em>' - We are walking along the Mediterranean coast. '<em>Côte</em>' means coast or shore.",
-      "difficulty": "A2",
-      "source": "claude",
-      "tags": [
-        "travel",
-        "geography",
-        "recreation"
-      ],
-      "timeCreated": "2025-07-16T00:00:00Z",
-      "verified": "claude"
-    },
-    {
-      "id": 699,
-      "audioText": "Ce dingue descend affreusement dans la douleur maintenant.",
-      "question": "Ce dingue ______ affreusement dans la douleur maintenant.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "descends",
-        "descend",
-        "descendez",
-        "descendant"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Ce dingue descend affreusement dans la douleur maintenant</em>' - This crazy person descends terribly into pain now. 'Descend' is the third person singular present form of 'descendre' (to descend).",
-      "difficulty": "A2",
-      "source": "Psychological drama discussion",
-      "tags": [
-        "psychology",
-        "emotions",
-        "health",
-        "mental-state"
-      ],
-      "timeCreated": 1736784480,
-      "verified": "claude"
-    },
-    {
-      "id": 700,
-      "audioText": "Elle cherchait fébrilement son chapeau avant de sortir en retard.",
-      "question": "How was she searching for her hat?",
-      "questionType": "comprehension",
-      "options": [
-        "Feverishly",
-        "Calmly",
-        "Casually",
-        "Methodically"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Elle cherchait fébrilement son chapeau avant de sortir en retard</em>' - She was feverishly searching for her hat before going out late. The adverb 'fébrilement' means feverishly/frantically, and 'chapeau' means hat.",
-      "difficulty": "A2",
-      "source": "Claude-generated",
-      "tags": [
-        "clothing",
-        "urgency",
-        "search",
-        "daily-life"
-      ],
-      "timeCreated": 1735953240,
-      "verified": "claude"
-    },
-    {
-      "id": 701,
-      "audioText": "Le sable fin de cette plage est parfait pour les enfants.",
-      "question": "What is perfect for children?",
-      "questionType": "comprehension",
-      "options": [
-        "The fine sand of this beach",
-        "The cold water",
-        "The high waves",
-        "The rocky shore"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Le sable fin de cette plage est parfait pour les enfants</em>' - The fine sand of this beach is perfect for children. '<em>Sable</em>' means sand.",
-      "difficulty": "A2",
-      "source": "claude",
-      "tags": [
-        "beach",
-        "family",
-        "recreation"
-      ],
-      "timeCreated": "2025-07-16T00:00:00Z",
-      "verified": "claude"
-    },
-    {
-      "id": 702,
-      "audioText": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
-      "question": "Allez, tirons provisoirement ces documents exprès pour analyser la situation.",
-      "questionType": "listening",
-      "options": [
-        "Pull out the documents temporarily on purpose to analyze the situation",
-        "Push the documents away temporarily by accident to analyze the situation",
-        "Keep the documents hidden temporarily on purpose to analyze the situation",
-        "Destroy the documents temporarily by mistake to analyze the situation"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Allez, tirons provisoirement ces documents exprès pour analyser la situation</em>' - Come on, let's temporarily pull out these documents on purpose to analyze the situation. 'Tirons' is the imperative 'let's pull', 'provisoirement' means temporarily, and 'exprès' means on purpose/deliberately. The distractors test confusion about the action and intent.",
-      "difficulty": "A2",
-      "source": "Strategic targeting: tirons + provisoirement + exprès",
-      "tags": [
-        "documents",
-        "analysis",
-        "investigation"
-      ],
-      "timeCreated": 1720881353,
-      "parentQuestion": 1385,
-      "verified": "claude"
-    },
-    {
-      "id": 703,
-      "audioText": "Est-ce que vous comprenez la situation actuelle?",
-      "question": "Qu'est-ce que vous avez entendu?",
-      "questionType": "listening",
-      "options": [
-        "Est-ce que vous comprenez la situation actuelle?",
-        "Est-ce que vous comprendrez la situation future?",
-        "Est-ce que vous compreniez la situation passée?",
-        "Est-ce que vous apprenez la situation actuelle?"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Est-ce que vous comprenez la situation actuelle?</em>' - Do you understand the current situation? 'Comprenez' is the second person plural of 'comprendre' (to understand), and 'actuelle' means current.",
-      "difficulty": "A2",
-      "source": "Gemini-generated",
-      "tags": [
-        "formal-discourse",
-        "understanding"
-      ],
-      "timeCreated": 1720134000,
-      "verified": "claude"
-    },
-    {
-      "id": 704,
-      "audioText": "Ses propos à propos de l'honneur familial ont été mal reçus par l'assemblée.",
-      "question": "How were his remarks about family honor received?",
-      "questionType": "comprehension",
-      "options": [
-        "They were poorly received by the assembly",
-        "They were enthusiastically applauded",
-        "They were completely ignored",
-        "They were carefully recorded"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Ses propos à propos de l'honneur familial ont été mal reçus par l'assemblée</em>' - His remarks about family honor were poorly received by the assembly. This targets the nouns 'propos' and 'honneur' in a family reputation context.",
-      "difficulty": "A2",
-      "source": "Strategic noun targeting: propos, honneur",
-      "tags": [
-        "family",
-        "reputation",
-        "social-response"
-      ],
-      "timeCreated": 1720618760,
-      "verified": "claude"
-    },
-    {
-      "id": 705,
-      "audioText": "Cette belle parole réconforte mon cœur triste.",
-      "question": "What comforts the sad heart?",
-      "questionType": "comprehension",
-      "options": [
-        "This beautiful word",
-        "The happy memory",
-        "The warm embrace",
-        "The gentle music"
-      ],
-      "correct": 0,
-      "explanation": "The correct answer is 'This beautiful word'. The text states '<em>Cette belle parole réconforte mon cœur triste</em>' - This beautiful word comforts my sad heart. 'Parole' means word or speech, and it's what provides comfort here.",
-      "difficulty": "A1",
-      "source": "Strategic noun targeting - parole",
-      "tags": [
-        "emotions",
-        "comfort",
-        "communication"
-      ],
-      "timeCreated": 1736801200,
-      "verified": "claude"
-    },
-    {
-      "id": 706,
-      "audioText": "Mon chien sort toujours dans le jardin après ses repas pour se détendre.",
-      "question": "When does the dog go outside?",
-      "questionType": "comprehension",
-      "options": [
-        "After his meals to relax",
-        "Before his meals to exercise",
-        "During his meals to play",
-        "Instead of his meals to hunt"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Mon chien sort toujours dans le jardin après ses repas pour se détendre</em>' - My dog always goes out into the garden after his meals to relax. 'Sort' is the 3rd person singular present of 'sortir' (to go out), and 'après ses repas' means after his meals.",
-      "difficulty": "A2",
-      "source": "Pet routine",
-      "tags": [
-        "animals",
-        "pets",
-        "routine",
-        "garden",
-        "daily-life"
-      ],
-      "timeCreated": 1736065300,
-      "verified": "claude"
-    },
-    {
-      "id": 707,
-      "audioText": "Nous avons exactement la même voiture que nos voisins.",
+      "audioText": "Où irez-vous en vacances cet été ?",
       "question": "Qu'est-ce que vous avez entendu ?",
       "questionType": "listening",
       "options": [
-        "Nous avons exactement la même voiture que nos voisins.",
-        "Nous avons exactement la mème voiture que nos voisins.",
-        "Nous avons exactement la mem voiture que nos voisins.",
-        "Nous avons exactement la mime voiture que nos voisins."
+        "Où irez-vous en vacances cet été ?",
+        "Où allez-vous en vacances cet été ?",
+        "Où êtes-vous allés en vacances cet été ?",
+        "Où iriez-vous en vacances cet été ?"
       ],
       "correct": 0,
-      "explanation": "The correct form is 'même' (same). This adjective requires a circumflex accent on the 'e' to distinguish it from other similar words. 'La même voiture' means 'the same car' - we have exactly the same car as our neighbors.",
-      "difficulty": "A2",
-      "source": "Comparison with neighbors and possessions",
-      "tags": [
-        "comparison",
-        "neighbors",
-        "possessions"
-      ],
-      "timeCreated": 1704067200,
-      "verified": "claude"
-    },
-    {
-      "id": 708,
-      "audioText": "Mon téléphone ne marche pas bien ce matin.",
-      "question": "What does the speaker say is not working well this morning?",
-      "questionType": "comprehension",
-      "options": [
-        "My telephone",
-        "My computer",
-        "My television",
-        "My radio"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Mon téléphone ne marche pas bien ce matin</em>' - My telephone is not working well this morning. 'Téléphone' means telephone, and 'ne marche pas bien' means is not working well. The distractors test misinterpretation of the device mentioned (computer, television, radio).",
+      "explanation": "The correct answer is '<em>Où irez-vous en vacances cet été ?</em>' - Where will you go on vacation this summer? The sentence uses 'irez' - the future form of 'aller' (to go) for vous.",
       "difficulty": "A1",
-      "source": "Gemini CLI - Listening practice",
+      "source": "Vacation planning conversation",
       "tags": [
-        "technology",
-        "communication",
-        "daily-life"
-      ],
-      "timeCreated": 1720800000,
-      "parentQuestion": 330,
-      "verified": "claude"
-    },
-    {
-      "id": 709,
-      "audioText": "Le gouvernement a décidé de créer un service militaire obligatoire.",
-      "question": "What did the government decide to create?",
-      "questionType": "comprehension",
-      "options": [
-        "A mandatory military service.",
-        "A voluntary military service.",
-        "A civilian service program.",
-        "A medical service program."
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Le gouvernement a décidé de créer un service militaire obligatoire</em>' - The government decided to create a mandatory military service. The French sentence uses 'militaire' meaning 'military'. 'Un service militaire obligatoire' means 'a mandatory military service'. 'Militaire' is an adjective describing the type of service.",
-      "difficulty": "A2",
-      "source": "Government policy discussion",
-      "tags": [
-        "politics",
-        "government",
-        "military"
+        "vacation",
+        "travel",
+        "future-plans"
       ],
       "timeCreated": 1720108800,
       "verified": "claude"
     },
     {
-      "id": 710,
-      "audioText": "Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison.",
-      "question": "Qu'est-ce que vous avez entendu ?",
-      "questionType": "listening",
+      "id": 699,
+      "audioText": "Vous irez au marché acheter des légumes frais pour le dîner.",
+      "question": "Why will you go to the market?",
+      "questionType": "comprehension",
       "options": [
-        "Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison.",
-        "Elle retrouve toujours ses clés perdues dans des endroits attendus de la maison.",
-        "Elle trouve toujours ses clés perdues dans des endroits inattendus de la maison.",
-        "Elle retrouve souvent ses clés perdues dans des endroits inattendus de la maison."
+        "To buy fresh vegetables for dinner.",
+        "To buy fresh fruits for breakfast.",
+        "To buy fresh meat for lunch.",
+        "To buy fresh bread for dinner."
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Elle retrouve toujours ses clés perdues dans des endroits inattendus de la maison</em>' - She always finds her lost keys in unexpected places in the house. This tests precise listening of 'retrouve' vs 'trouve', 'toujours' vs 'souvent', and 'inattendus' vs 'attendus'.",
+      "explanation": "The text states '<em>Vous irez au marché acheter des légumes frais pour le dîner</em>' - You will go to the market to buy fresh vegetables for dinner. The French sentence uses 'irez' - the future form of 'aller' (to go) for vous. 'Vous irez au marché' means 'you will go to the market'. The purpose is to buy fresh vegetables ('légumes frais') for dinner.",
       "difficulty": "A2",
-      "source": "Strategic targeting - retrouve + daily life + home",
+      "source": "Shopping and meal preparation",
       "tags": [
-        "daily-life",
-        "home",
-        "searching"
+        "shopping",
+        "food",
+        "market"
       ],
-      "timeCreated": 1736801980,
-      "verified": "claude"
-    },
-    {
-      "id": 711,
-      "audioText": "La petite fille a été sauvée par les pompiers.",
-      "question": "La petite fille a été ______ par les pompiers.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "sauvée",
-        "soignée",
-        "trouvée",
-        "aidée"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>La petite fille a été sauvée par les pompiers</em>' - The little girl was saved by the firefighters. 'Sauvée' is the feminine past participle of 'sauver' (to save), agreeing with 'fille'.",
-      "difficulty": "A1",
-      "source": "Emergency rescue conversation",
-      "tags": [
-        "emergency",
-        "rescue",
-        "children"
-      ],
-      "timeCreated": 1736783400,
-      "verified": "claude"
-    },
-    {
-      "id": 712,
-      "audioText": "Il éteignit sa cigarette dans ce bel endroit.",
-      "question": "Il éteignit sa cigarette dans ce ______ endroit.",
-      "questionType": "fill-in-the-blank",
-      "options": [
-        "bel",
-        "belle",
-        "beau",
-        "beaux"
-      ],
-      "correct": 0,
-      "explanation": "The text states '<em>Il éteignit sa cigarette dans ce bel endroit</em>' - He put out his cigarette in this beautiful place. The correct form is 'bel' (masculine form of 'beau' used before vowels), agreeing with 'endroit' (masculine).",
-      "difficulty": "A1",
-      "source": "Claude-generated",
-      "tags": [
-        "smoking",
-        "places",
-        "adjectives"
-      ],
-      "timeCreated": 1735953420,
+      "timeCreated": 1720108800,
       "verified": "claude"
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-25T11:35:04.981Z",
-    "totalQuestions": 688,
+    "compiledAt": "2025-07-25T23:53:34.549Z",
+    "totalQuestions": 687,
     "level": "A",
-    "idRange": "1-714",
+    "idRange": "1-754",
     "difficulties": [
       "A1",
       "A2"
