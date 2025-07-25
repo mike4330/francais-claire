@@ -1,0 +1,18 @@
+{
+    "id": 2358,
+    "audioText": "Vous réfléchissez trop aux conséquences négatives au lieu de profiter du moment présent et d'être optimiste.",
+    "question": "What advice is being given about thinking?",
+    "questionType": "comprehension",
+    "options": [
+        "You should think more about negative consequences",
+        "You think too much about negative consequences instead of enjoying the present",
+        "You don't think enough about the consequences",
+        "You should be more pessimistic about the future"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Vous réfléchissez trop aux conséquences négatives au lieu de profiter du moment présent et d'être optimiste</em>' - You think too much about negative consequences instead of enjoying the present moment and being optimistic. 'Réfléchissez' is the second person plural present tense of 'réfléchir' (to think/reflect).",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["psychology", "emotions", "advice"],
+    "timeCreated": "2025-01-23T16:48:00Z"
+}

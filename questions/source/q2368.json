@@ -1,0 +1,18 @@
+{
+    "id": 2368,
+    "audioText": "Ces enfants sont nés ostensiblement dans un environnement privilégié avec toutes les patte dorées imaginables.",
+    "question": "What kind of environment were these children born into?",
+    "questionType": "comprehension",
+    "options": [
+        "These children were obviously born into a privileged environment with all imaginable golden opportunities",
+        "These children were born into poverty and hardship",
+        "These children were born in a rural farming community",
+        "These children were born in a simple middle-class family"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Ces enfants sont nés ostensiblement dans un environnement privilégié avec toutes les patte dorées imaginables</em>' - These children were obviously born into a privileged environment with all imaginable golden opportunities. 'Nés' is the masculine plural past participle of 'naître' (to be born), with missing adverb 'ostensiblement' (obviously) and noun 'patte' (paw/opportunity, informal).",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["social-class", "privilege", "childhood"],
+    "timeCreated": "2025-01-23T17:08:00Z"
+}

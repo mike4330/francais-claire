@@ -1,0 +1,18 @@
+{
+  "id": 2354,
+  "audioText": "Elle cherche fébrilement ses clés dans tous les tiroirs.",
+  "question": "Fill in the blank: Elle cherche ______ ses clés dans tous les tiroirs.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fébrilement",
+    "facilement",
+    "fidèlement",
+    "finalement"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'fébrilement' (feverishly/frantically). She searches frantically for her keys in all the drawers. This describes urgent, agitated searching behavior.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["urgency", "searching", "anxiety"],
+  "timeCreated": "2025-01-21T17:14:00Z"
+}

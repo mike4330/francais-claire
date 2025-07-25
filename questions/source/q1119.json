@@ -10,7 +10,7 @@
     "That the school library stays open longer during exam period"
   ],
   "correct": 0,
-  "explanation": "The speaker states 'Il est important que les étudiants aient accès à toutes les ressources nécessaires pour réussir leurs examens' - It is important that students have access to all necessary resources to succeed in their exams. Note the use of the subjunctive 'aient' (have) after the expression 'il est important que' which requires the subjunctive mood.",
+  "explanation": "The text states '<em>Il est important que les étudiants aient accès à toutes les ressources nécessaires pour réussir leurs examens</em>' - It is important that students have access to all necessary resources to succeed in their exams. Note the subjunctive 'aient' after 'il est important que'.",
   "difficulty": "B1",
   "source": "Education Policy Discussion",
   "tags": [
@@ -18,5 +18,6 @@
     "student-resources",
     "academic-success"
   ],
-  "timeCreated": 1751548800
+  "timeCreated": 1751548800,
+  "verified": "claude"
 }

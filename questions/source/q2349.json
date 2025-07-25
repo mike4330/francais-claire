@@ -1,0 +1,18 @@
+{
+  "id": 2349,
+  "audioText": "Il gronde sourdement contre les injustices sociales.",
+  "question": "Fill in the blank: Il gronde ______ contre les injustices sociales.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "sourdement",
+    "sourdemment",
+    "soudainement",
+    "solidement"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'sourdement' (in a muffled way/sullenly). He grumbles sullenly against social injustices. 'Sourdement' describes a low, muffled manner of expression.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["social-issues", "protest", "emotions"],
+  "timeCreated": "2025-01-21T17:07:00Z"
+}

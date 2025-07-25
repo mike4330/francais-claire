@@ -10,7 +10,7 @@
     "éviteras"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'éviter' (infinitive). After 'veux' (want), French uses the infinitive form. The sentence means 'Leave now if you want to avoid rush hour traffic.' 'Pars' is the 2nd person singular imperative of 'partir'.",
+  "explanation": "The text states '<em>Pars maintenant si tu veux éviter les embouteillages de l'heure de pointe</em>' - Leave now if you want to avoid rush hour traffic. After 'veux' (want), French uses the infinitive form 'éviter'.",
   "difficulty": "B1",
   "source": "Traffic Advice",
   "tags": [
@@ -18,5 +18,6 @@
     "traffic",
     "advice"
   ],
-  "timeCreated": 1720022880
+  "timeCreated": 1720022880,
+  "verified": "claude"
 }

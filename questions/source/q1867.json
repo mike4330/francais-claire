@@ -10,13 +10,14 @@
     "She is confused about her new job"
   ],
   "correct": 0,
-  "explanation": "The text states 'Elle est très contente de son nouveau travail' - She is very happy/pleased with her new job. 'Contente' means 'happy', 'pleased', or 'satisfied' (feminine form).",
+  "explanation": "The text states '<em>Elle est très contente de son nouveau travail</em>' - She is very happy/pleased with her new job. 'Contente' means 'happy', 'pleased', or 'satisfied' (feminine form).",
   "difficulty": "B1",
   "source": "Workplace satisfaction",
   "tags": [
-    "workplace",
     "emotions",
-    "satisfaction"
+    "satisfaction",
+    "personal-life"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

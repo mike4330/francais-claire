@@ -10,7 +10,7 @@
     "To have time for breakfast"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute' - We should leave earlier to avoid traffic jams on the highway. 'Devrions' is the 1st person plural conditional of 'devoir', expressing what they should do.",
+  "explanation": "The text states '<em>Nous devrions partir plus tôt pour éviter les embouteillages sur l'autoroute</em>' - We should leave earlier to avoid traffic jams on the highway. 'Devrions' is the 1st person plural conditional of 'devoir'.",
   "difficulty": "B2",
   "source": "Travel Planning",
   "tags": [
@@ -18,5 +18,6 @@
     "planning",
     "traffic"
   ],
-  "timeCreated": 1720021680
+  "timeCreated": 1720021680,
+  "verified": "claude"
 }

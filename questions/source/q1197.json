@@ -13,6 +13,7 @@
     "explanation": "The text states '<em>Elle a pris de l'air frais en sortant de ce bureau et a respiré un grand coup</em>' - She got some fresh air when leaving the office and took a deep breath. This targets the nouns 'air' and 'coup' in the expression 'respirer un grand coup'.",
     "difficulty": "B1",
     "source": "Strategic noun targeting: air, coup",
-    "tags": ["workplace", "health", "breathing"],
-    "timeCreated": 1720616640
+    "tags": ["office", "health", "breathing"],
+    "timeCreated": 1720616640,
+    "verified": "claude"
 }

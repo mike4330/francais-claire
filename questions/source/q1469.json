@@ -10,7 +10,7 @@
     "The driver was warned by police about speeding."
   ],
   "correct": 0,
-  "explanation": "The French sentence uses 'a été arrêté' (was stopped/arrested) - the past participle 'arrêté' combined with auxiliary verb 'être' in the passé composé. Here 'arrêté' means 'stopped' in the context of police stopping someone.",
+  "explanation": "The text states '<em>Le conducteur a été arrêté par la police pour excès de vitesse</em>' - The driver was stopped by the police for speeding. The French sentence uses 'a été arrêté' (was stopped/arrested) - the past participle 'arrêté' combined with auxiliary verb 'être' in the passé composé.",
   "difficulty": "B1",
   "source": "Police and law enforcement scenario",
   "tags": [
@@ -18,5 +18,6 @@
     "driving",
     "legal-consequences"
   ],
-  "timeCreated": 1720108800
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

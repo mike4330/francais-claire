@@ -10,7 +10,7 @@
     "Temporairement"
   ],
   "correct": 0,
-  "explanation": "The text states the formula was '<em>gardée précieusement</em>' - kept preciously. 'Gardée' is the feminine past participle of 'garder' (to keep/guard), agreeing with 'la formule'. This question touches upon the under-represented topic of 'scientific-discovery'.",
+  "explanation": "The text states '<em>La formule secrète, gardée précieusement par le scientifique, promettait une avancée majeure dans le domaine de la médecine.</em>' - The secret formula, kept preciously by the scientist, promised a major breakthrough in medicine. The formula was 'gardée précieusement' - kept preciously. 'Gardée' is the feminine past participle of 'garder' (to keep/guard), agreeing with 'la formule'.",
   "difficulty": "B2",
   "source": "Gemini CLI",
   "tags": [
@@ -18,5 +18,6 @@
     "research",
     "scientific-discovery"
   ],
-  "timeCreated": 1720815900
+  "timeCreated": 1720815900,
+  "verified": "claude"
 }

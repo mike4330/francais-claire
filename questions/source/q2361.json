@@ -1,0 +1,18 @@
+{
+    "id": 2361,
+    "audioText": "Le client était complètement ivre et supposons qu'il avait trop bu pendant la dégustation de vins.",
+    "question": "What can we assume about the customer?",
+    "questionType": "comprehension",
+    "options": [
+        "The customer was completely drunk and we assume he drank too much during wine tasting",
+        "The customer was tired from working all day",
+        "The customer was angry about the service",
+        "The customer was confused about the menu"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Le client était complètement ivre et supposons qu'il avait trop bu pendant la dégustation de vins</em>' - The customer was completely drunk and let's assume he had drunk too much during the wine tasting. 'Ivre' means drunk/intoxicated, and 'supposons' (let's suppose) adds a missing verb conjugation.",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["culinary-vocabulary", "french-cuisine", "restaurant"],
+    "timeCreated": "2025-01-23T16:55:00Z"
+}

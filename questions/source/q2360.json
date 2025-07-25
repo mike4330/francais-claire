@@ -1,0 +1,18 @@
+{
+    "id": 2360,
+    "audioText": "Les voisins crient toujours très fort le soir quand ils regardent le match de football à la télévision.",
+    "question": "When do the neighbors shout loudly?",
+    "questionType": "comprehension",
+    "options": [
+        "The neighbors shout loudly in the evening when watching football on TV",
+        "The neighbors shout loudly in the morning during breakfast",
+        "The neighbors shout loudly when they argue with each other",
+        "The neighbors shout loudly when they listen to music"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Les voisins crient toujours très fort le soir quand ils regardent le match de football à la télévision</em>' - The neighbors always shout very loudly in the evening when they watch the football match on television. 'Crient' is the third person plural present tense of 'crier' (to shout/cry out), showing habitual action.",
+    "difficulty": "B1",
+    "source": "claude",
+    "tags": ["neighbors", "entertainment", "sports"],
+    "timeCreated": "2025-01-23T16:51:00Z"
+}

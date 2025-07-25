@@ -1,0 +1,18 @@
+{
+    "id": 2370,
+    "audioText": "Tu souffres pensivement de cette blessure depuis ton arrêt forcé et c'est vraiment difficile.",
+    "question": "What is causing your suffering?",
+    "questionType": "comprehension",
+    "options": [
+        "You suffer pensively from this injury since your forced stop and it's really difficult",
+        "You are happy about recovering from your injury quickly",
+        "You have completely forgotten about your past injury",
+        "You are suffering from a completely different problem"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Tu souffres pensivement de cette blessure depuis ton arrêt forcé et c'est vraiment difficile</em>' - You suffer pensively from this injury since your forced stop and it's really difficult. 'Souffres' is second person singular present of 'souffrir' (to suffer), with missing adverb 'pensivement' (pensively) and noun 'arrêt' (stop).",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["health", "injury", "recovery"],
+    "timeCreated": "2025-01-23T17:10:00Z"
+}

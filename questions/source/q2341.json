@@ -1,0 +1,18 @@
+{
+  "id": 2341,
+  "audioText": "Il a épousé sa femme dans une petite église de campagne.",
+  "question": "What happened in the small country church?",
+  "questionType": "comprehension",
+  "options": [
+    "He married his wife",
+    "He baptized his child",
+    "He attended a funeral",
+    "He gave a sermon"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a épousé sa femme dans une petite église de campagne</em>' - He married his wife in a small country church. 'Épouser' means to marry someone.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["marriage", "ceremony", "church"],
+  "timeCreated": "2025-01-21T16:52:00Z"
+}

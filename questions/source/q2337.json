@@ -1,0 +1,18 @@
+{
+  "id": 2337,
+  "audioText": "Le chien blessé traîne sa patte arrière en marchant lentement.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Le chien blessé traîne sa patte arrière en marchant lentement.",
+    "Le chien blessé traîne sa patte avant en marchant lentement.",
+    "Le chat blessé traîne sa patte arrière en marchant lentement.",
+    "Le chien blessé traîne sa partie arrière en marchant lentement."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'patte' (paw/leg). The injured dog drags its back paw while walking slowly. 'Patte' refers to animal limbs.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["animals", "injury", "movement"],
+  "timeCreated": "2025-01-21T16:43:00Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2334,
+  "audioText": "La troupe théâtrale sera protégée par de nouveaux sponsors.",
+  "question": "Who will protect the theater troupe?",
+  "questionType": "comprehension",
+  "options": [
+    "New sponsors",
+    "Government officials",
+    "Theater critics",
+    "Audience members"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La troupe théâtrale sera protégée par de nouveaux sponsors</em>' - The theater troupe will be protected by new sponsors. This combines 'troupe' with the missing verb form 'protégée'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["theater", "arts", "sponsorship"],
+  "timeCreated": "2025-01-21T16:38:00Z"
+}

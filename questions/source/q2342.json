@@ -1,0 +1,18 @@
+{
+  "id": 2342,
+  "audioText": "Elle épouse complètement cette nouvelle philosophie de vie.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Elle épouse complètement cette nouvelle philosophie de vie.",
+    "Elle écoute complètement cette nouvelle philosophie de vie.",
+    "Elle épouse complètement cette nouvelle psychologie de vie.",
+    "Elle expose complètement cette nouvelle philosophie de vie."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'épouse' (embraces/adopts). She completely embraces this new philosophy of life. Here 'épouser' means to adopt or embrace (an idea or cause).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["philosophy", "ideas", "personal-growth"],
+  "timeCreated": "2025-01-21T16:53:00Z"
+}

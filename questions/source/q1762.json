@@ -10,13 +10,14 @@
     "They need more time to think about it"
   ],
   "correct": 0,
-  "explanation": "The speaker uses 'autrement' meaning 'differently' or 'otherwise'. The phrase 'procéder autrement' means 'to proceed differently' - if you don't like this method, we can approach the problem in a different way.",
-  "difficulty": "B2",
+  "explanation": "The text states '<em>Si tu n'aimes pas cette méthode, nous pouvons procéder autrement pour résoudre le problème.</em>' - If you don't like this method, we can proceed differently to solve the problem. The speaker uses 'autrement' meaning 'differently' or 'otherwise'.",
+  "difficulty": "B1",
   "source": "Problem-solving discussion",
   "tags": [
     "problem-solving",
     "alternatives",
-    "workplace"
+    "conversation"
   ],
-  "timeCreated": 1720076940
+  "timeCreated": 1720076940,
+  "verified": "claude"
 }

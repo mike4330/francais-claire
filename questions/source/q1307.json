@@ -1,6 +1,6 @@
 {
   "id": 1307,
-  "audioText": "Il faut que je doive partir plus tôt demain pour éviter les embouteillages du matin.",
+  "audioText": "Il faut que je parte plus tôt demain pour éviter les embouteillages du matin.",
   "question": "What does the speaker need to do tomorrow?",
   "questionType": "comprehension",
   "options": [
@@ -10,7 +10,7 @@
     "Work from home"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Il faut que je doive partir plus tôt demain pour éviter les embouteillages' - I need to leave earlier tomorrow to avoid traffic jams. 'Doive' is the 1st person singular subjunctive of 'devoir' (must/have to), used after 'il faut que'.",
+  "explanation": "The text states '<em>Il faut que je parte plus tôt demain pour éviter les embouteillages du matin</em>' - I need to leave earlier tomorrow to avoid morning traffic jams. 'Parte' is the 1st person singular subjunctive of 'partir' (to leave), used after 'il faut que'.",
   "difficulty": "B2",
   "source": "Commute Planning",
   "tags": [
@@ -18,5 +18,6 @@
     "work",
     "time-management"
   ],
-  "timeCreated": 1720021560
+  "timeCreated": 1720021560,
+  "verified": "claude"
 }

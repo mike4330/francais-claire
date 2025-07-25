@@ -1,0 +1,18 @@
+{
+  "id": 2339,
+  "audioText": "Il paraissait nerveux quand il a acheté ce pantalon noir élégant.",
+  "question": "Fill in the blank: Il ______ nerveux quand il a acheté ce pantalon noir élégant.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "paraissait",
+    "paraîtrait",
+    "paraissent",
+    "paraisse"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'paraissait' (appeared/seemed). He appeared nervous when he bought these elegant black pants. This combines 'pantalon' with the missing verb form 'paraissait'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["clothing", "emotions", "shopping"],
+  "timeCreated": "2025-01-21T16:45:00Z"
+}

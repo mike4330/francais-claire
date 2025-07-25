@@ -1,0 +1,15 @@
+{
+  "id": 2348,
+  "audioText": "Vous maintenez toujours une attitude positive malgré les difficultés.",
+  "question": "Write the correct form: Vous ______ toujours une attitude positive malgré les difficultés.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "maintenez",
+  "acceptedAnswers": ["maintenez", "Maintenez"],
+  "explanation": "The correct form is 'maintenez' (maintain). You always maintain a positive attitude despite difficulties. This incorporates the under-represented 'positive-thinking' topic.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["emotions", "resilience", "positive-thinking"],
+  "timeCreated": "2025-01-21T17:00:00Z"
+}

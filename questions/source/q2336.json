@@ -1,0 +1,18 @@
+{
+  "id": 2336,
+  "audioText": "L'artiste peint sur une toile blanche avec des couleurs vives.",
+  "question": "Fill in the blank: L'artiste peint sur une ______ blanche avec des couleurs vives.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "toile",
+    "table",
+    "terre",
+    "tour"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'toile' (canvas). The artist paints on a white canvas with bright colors. 'Toile' refers to the fabric canvas used for painting.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["arts", "painting", "creativity"],
+  "timeCreated": "2025-01-21T16:41:00Z"
+}

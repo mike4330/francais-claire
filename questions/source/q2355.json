@@ -1,0 +1,18 @@
+{
+    "id": 2355,
+    "audioText": "Il nous a invité à dîner chez lui dimanche prochain pour célébrer son anniversaire.",
+    "question": "What does the speaker tell us about the invitation?",
+    "questionType": "comprehension",
+    "options": [
+        "We were invited to lunch on Sunday",
+        "We were invited to dinner on Sunday to celebrate his birthday", 
+        "We were invited to celebrate our anniversary",
+        "We were invited to his house for breakfast"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Il nous a invité à dîner chez lui dimanche prochain pour célébrer son anniversaire</em>' - He invited us to dinner at his place next Sunday to celebrate his birthday. The past participle 'invité' (invited) is used here with the auxiliary verb 'avoir'.",
+    "difficulty": "B1",
+    "source": "claude",
+    "tags": ["social-events", "family", "celebration"],
+    "timeCreated": "2025-01-23T16:45:00Z"
+}

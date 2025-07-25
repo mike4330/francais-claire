@@ -1,0 +1,15 @@
+{
+  "id": 2345,
+  "audioText": "Cette nouvelle technologie conduira à des changements majeurs dans l'industrie.",
+  "question": "Write the correct form: Cette nouvelle technologie ______ à des changements majeurs dans l'industrie.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "conduira",
+  "acceptedAnswers": ["conduira", "Conduira"],
+  "explanation": "The correct form is 'conduira' (will lead). This new technology will lead to major changes in the industry. This targets technology and business topics.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["technology", "business", "innovation"],
+  "timeCreated": "2025-01-21T16:56:00Z"
+}

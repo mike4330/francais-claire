@@ -1,0 +1,18 @@
+{
+    "id": 2357,
+    "audioText": "Le chien a crié de douleur quand le vétérinaire a examiné sa patte blessée.",
+    "question": "Why did the dog cry out?",
+    "questionType": "comprehension", 
+    "options": [
+        "The dog cried because it was happy to see the vet",
+        "The dog cried out in pain when the vet examined its injured paw",
+        "The dog cried because it was afraid of the clinic",
+        "The dog cried because it wanted to go home"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Le chien a crié de douleur quand le vétérinaire a examiné sa patte blessée</em>' - The dog cried out in pain when the veterinarian examined its injured paw. The past participle 'crié' (cried/cried out) shows the completed action in the past.",
+    "difficulty": "B1",
+    "source": "claude",
+    "tags": ["animals", "health", "veterinary"],
+    "timeCreated": "2025-01-23T16:47:00Z"
+}

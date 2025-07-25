@@ -1,0 +1,18 @@
+{
+  "id": 2346,
+  "audioText": "La nouvelle émission a été présentée hier soir à la télévision nationale.",
+  "question": "Fill in the blank: La nouvelle émission a été ______ hier soir à la télévision nationale.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "présentée",
+    "présente",
+    "présentent",
+    "présenter"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'présentée' (presented). The new show was presented last night on national television. This uses the past participle in passive voice.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["media", "television", "entertainment"],
+  "timeCreated": "2025-01-21T16:57:00Z"
+}

@@ -10,7 +10,7 @@
     "Le public croira que les légumes bio sont plus nutritifs avec preuves scientifiques."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte était 'Le public croira que les légumes bio sont plus nutritifs sans preuves scientifiques.' - The public will believe that organic vegetables are more nutritious without scientific evidence. 'Croira' is the 3rd person singular future form of 'croire'.",
+  "explanation": "The text states '<em>Le public croira que les légumes bio sont plus nutritifs sans preuves scientifiques</em>' - The public will believe that organic vegetables are more nutritious without scientific evidence. 'Croira' is the 3rd person singular future form of 'croire'.",
   "difficulty": "B2",
   "source": "Organic Food Study",
   "tags": [
@@ -18,5 +18,6 @@
     "organic",
     "nutrition"
   ],
-  "timeCreated": 1720022400
+  "timeCreated": 1720022400,
+  "verified": "claude"
 }

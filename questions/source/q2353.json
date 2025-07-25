@@ -1,0 +1,15 @@
+{
+  "id": 2353,
+  "audioText": "Ma famille vit outre-mer depuis dix ans maintenant.",
+  "question": "Write the correct form: Ma famille vit ______ depuis dix ans maintenant.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "outre-mer",
+  "acceptedAnswers": ["outre-mer", "Outre-mer"],
+  "explanation": "The correct form is 'outre-mer' (overseas). My family has been living overseas for ten years now. 'Outre-mer' refers to territories or regions beyond the sea.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["geography", "family", "expatriate"],
+  "timeCreated": "2025-01-21T17:13:00Z"
+}

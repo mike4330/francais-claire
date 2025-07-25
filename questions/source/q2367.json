@@ -1,0 +1,18 @@
+{
+    "id": 2367,
+    "audioText": "La nouvelle invitée a été respectueusement accueillie par notre troupe de théâtre amateur.",
+    "question": "How was the new guest received?",
+    "questionType": "comprehension",
+    "options": [
+        "The new female guest was respectfully welcomed by our amateur theater troupe",
+        "The new guest was ignored by everyone in the group",
+        "The new guest was asked to leave immediately",
+        "The new guest was treated rudely by the actors"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>La nouvelle invitée a été respectueusement accueillie par notre troupe de théâtre amateur</em>' - The new female guest was respectfully welcomed by our amateur theater troupe. 'Invitée' is the feminine past participle of 'inviter' (to invite), with missing adverb 'respectueusement' (respectfully) and noun 'troupe' (troupe).",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["theater", "performing-arts", "social-events"],
+    "timeCreated": "2025-01-23T17:07:00Z"
+}

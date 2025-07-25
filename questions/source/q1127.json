@@ -10,7 +10,7 @@
     "faible"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'moindre' (slightest/least) - used in the expression 'le moindre' meaning 'the slightest'. The complete sentence means: 'He accepts the slightest compliment with a radiant smile, because he really lacks self-confidence.' 'Moindre' is a comparative adjective meaning 'lesser' or 'slightest', often used in expressions like 'le moindre doute' (the slightest doubt) or 'sans la moindre hésitation' (without the slightest hesitation).",
+  "explanation": "The text states '<em>Il accepte le moindre compliment avec un sourire radieux, car il manque vraiment de confiance en lui</em>' - He accepts the slightest compliment with a radiant smile, because he really lacks self-confidence. 'Moindre' is used in the expression 'le moindre' meaning 'the slightest'.",
   "difficulty": "B2",
   "source": "Personality Description",
   "tags": [
@@ -19,5 +19,6 @@
     "self-confidence",
     "psychology"
   ],
-  "timeCreated": 1751550500
+  "timeCreated": 1751550500,
+  "verified": "claude"
 }

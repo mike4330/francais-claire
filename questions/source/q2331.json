@@ -1,0 +1,18 @@
+{
+  "id": 2331,
+  "audioText": "La justice doit être épousée par tous les citoyens responsables.",
+  "question": "What should be embraced by all responsible citizens?",
+  "questionType": "comprehension",
+  "options": [
+    "Justice",
+    "Freedom",
+    "Democracy",
+    "Equality"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La justice doit être épousée par tous les citoyens responsables</em>' - Justice must be embraced by all responsible citizens. 'Épouser' here means to embrace or adopt (a cause).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["politics", "civic-duty", "law"],
+  "timeCreated": "2025-01-21T16:35:00Z"
+}

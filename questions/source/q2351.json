@@ -1,0 +1,18 @@
+{
+  "id": 2351,
+  "audioText": "Premièrement, nous analysons le problème, deuxièmement, nous proposons des solutions.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Premièrement, nous analysons le problème, deuxièmement, nous proposons des solutions.",
+    "Premièrement, nous analysons le problème, troisièmement, nous proposons des solutions.",
+    "Premièrement, nous analysons le problème, deuxièmement, nous trouvons des solutions.",
+    "Premièrement, nous analysons le problème, deuxièmement, nous présentons des solutions."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'deuxièmement' (secondly). First, we analyze the problem, second, we propose solutions. This adverb introduces the second point in a sequence.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["organization", "methodology", "planning"],
+  "timeCreated": "2025-01-21T17:10:00Z"
+}

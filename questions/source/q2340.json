@@ -1,0 +1,15 @@
+{
+  "id": 2340,
+  "audioText": "Vous vous approchez doucement de l'animal sauvage blessé.",
+  "question": "Write the correct form: Vous vous ______ doucement de l'animal sauvage blessé.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "approchez",
+  "acceptedAnswers": ["approchez", "Approchez"],
+  "explanation": "The correct form is 'approchez' (approach). You approach the injured wild animal slowly. This incorporates the under-represented topic of animals and nature.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["animals", "nature", "caution"],
+  "timeCreated": "2025-01-21T16:51:00Z"
+}

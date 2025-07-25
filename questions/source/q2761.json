@@ -1,0 +1,18 @@
+{
+  "id": 2761,
+  "audioText": "Les anciens monuments historiques ont été complètement détruits par les bombardements intensifs de la guerre.",
+  "question": "What happened to the ancient historical monuments?",
+  "questionType": "comprehension",
+  "options": [
+    "They were completely destroyed by intensive war bombing",
+    "They were partially damaged by natural disasters",
+    "They were restored after the conflict ended",
+    "They were moved to safer locations"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les anciens monuments historiques ont été complètement détruits par les bombardements intensifs de la guerre</em>' - The ancient historical monuments were completely destroyed by intensive war bombing. 'Détruits' is the past participle of 'détruire'.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": ["history", "war", "destruction"],
+  "timeCreated": "2025-01-21T16:59:00Z"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 2362,
+    "audioText": "Il faut être prudent avec ce type lâche qui pourrait nous embrasser puis nous trahir logiquement.",
+    "question": "What warning is given about this person?",
+    "questionType": "comprehension",
+    "options": [
+        "We must be careful with this cowardly type who could embrace us then betray us",
+        "We should trust this person completely with our secrets",
+        "This person is very brave and will always help us",
+        "This person is too shy to make any decisions"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il faut être prudent avec ce type lâche qui pourrait nous embrasser puis nous trahir logiquement</em>' - We must be careful with this cowardly type who could embrace us then logically betray us. 'Lâche' means cowardly/coward, and includes missing lemmas 'embrasser' (embrace) and 'logiquement' (logically).",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["psychology", "social-relationships", "character"],
+    "timeCreated": "2025-01-23T16:56:00Z"
+}

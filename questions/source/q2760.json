@@ -1,0 +1,18 @@
+{
+  "id": 2760,
+  "audioText": "Les manifestants se jettent avec détermination dans ce mouvement de protestation pacifique.",
+  "question": "Fill in the blank: Les manifestants se ______ avec détermination dans ce mouvement de protestation pacifique.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "jettent",
+    "jètent",
+    "jettons",
+    "jetteront"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'jettent' (throw themselves). The protesters throw themselves with determination into this peaceful protest movement. This uses the missing verb form 'jettent'.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": ["politics", "protests", "determination"],
+  "timeCreated": "2025-01-21T16:47:00Z"
+}

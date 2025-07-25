@@ -1,0 +1,18 @@
+{
+    "id": 2365,
+    "audioText": "Il est né en Provence et a grandi avidement dans ce magnifique univers méditerranéen.",
+    "question": "Where was he born and raised?",
+    "questionType": "comprehension",
+    "options": [
+        "He was born in Provence and eagerly grew up in this magnificent Mediterranean universe",
+        "He was born in Paris and moved to Provence later",
+        "He was born in Italy and visited Provence often",
+        "He was born in Provence but never lived there"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Il est né en Provence et a grandi avidement dans ce magnifique univers méditerranéen</em>' - He was born in Provence and eagerly grew up in this magnificent Mediterranean universe. 'Né' is the past participle of 'naître' (to be born), with the missing adverb 'avidement' (eagerly) and noun 'univers' (universe).",
+    "difficulty": "B1",
+    "source": "claude",
+    "tags": ["geography", "mediterranean", "childhood"],
+    "timeCreated": "2025-01-23T17:05:00Z"
+}

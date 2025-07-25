@@ -1,0 +1,18 @@
+{
+    "id": 2359,
+    "audioText": "Marie arrangera tout le programme de la conférence avant la fin de la semaine prochaine.",
+    "question": "When will Marie organize the conference program?",
+    "questionType": "comprehension",
+    "options": [
+        "Marie will arrange the program by the end of next week",
+        "Marie has already arranged the conference program",
+        "Marie will arrange the program after next week",
+        "Marie is arranging the program right now"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Marie arrangera tout le programme de la conférence avant la fin de la semaine prochaine</em>' - Marie will arrange the entire conference program before the end of next week. 'Arrangera' is the future tense of 'arranger' (to arrange), indicating a future action with a specific deadline.",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["business", "organization", "conferences"],
+    "timeCreated": "2025-01-23T16:49:00Z"
+}

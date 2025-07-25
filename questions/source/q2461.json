@@ -11,12 +11,13 @@
   ],
   "correct": 0,
   "explanation": "The text states '<em>Cette peine d'amour s'estompait progressivement grâce aux efforts thérapeutiques entrepris avec l'aide d'un professionnel de santé mentale spécialisé.</em>' - 'This heartbreak was fading progressively thanks to therapeutic efforts undertaken with the help of a specialized mental health professional.' The noun 'peine' means pain or sorrow, often used in 'peine d'amour' for heartbreak.",
-  "difficulty": "C2",
+  "difficulty": "C1",
   "source": "Strategic noun targeting",
   "tags": [
     "mental-health",
     "therapy",
     "recovery"
   ],
-  "timeCreated": 1720713600
+  "timeCreated": 1720713600,
+  "verified": "claude"
 }

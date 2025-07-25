@@ -1,0 +1,18 @@
+{
+  "id": 2352,
+  "audioText": "Les fruits poussent abondamment dans cette région fertile.",
+  "question": "Fill in the blank: Les fruits poussent ______ dans cette région fertile.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "abondamment",
+    "absolument",
+    "apparemment",
+    "activement"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'abondamment' (abundantly). The fruits grow abundantly in this fertile region. This incorporates agriculture and under-represented regional topics.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["agriculture", "nature", "fertility"],
+  "timeCreated": "2025-01-21T17:11:00Z"
+}

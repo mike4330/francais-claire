@@ -1,0 +1,18 @@
+{
+  "id": 2350,
+  "audioText": "Elle réagit rageusement aux commentaires négatifs sur son travail.",
+  "question": "How does she react to negative comments about her work?",
+  "questionType": "comprehension",
+  "options": [
+    "Angrily",
+    "Calmly",
+    "Sadly",
+    "Indifferently"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle réagit rageusement aux commentaires négatifs sur son travail</em>' - She reacts angrily to negative comments about her work. 'Rageusement' means in an angry/furious manner.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["emotions", "criticism", "anger"],
+  "timeCreated": "2025-01-21T17:08:00Z"
+}

@@ -10,7 +10,7 @@
     "The person arrived at an inconvenient time"
   ],
   "correct": 0,
-  "explanation": "The adverb 'justement' means 'precisely', 'exactly', or 'just right'. The speaker is expressing that the person's arrival timing is perfect - they came at exactly the right moment when help was needed.",
+  "explanation": "The text states '<em>Tu arrives justement au bon moment pour nous aider</em>' - You arrive at exactly the right time to help us. The adverb 'justement' means 'precisely', 'exactly', or 'just right'. The speaker is expressing that the person's arrival timing is perfect.",
   "difficulty": "B1",
   "source": "Helpful arrival scenario",
   "tags": [
@@ -18,5 +18,6 @@
     "help",
     "conversation"
   ],
-  "timeCreated": 1720076580
+  "timeCreated": 1720076580,
+  "verified": "claude"
 }

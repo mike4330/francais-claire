@@ -10,7 +10,7 @@
     "devraient"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les étudiants devront s'inscrire en ligne avant le 15 septembre</em>' - Students will have to register online before September 15th. The correct answer is 'devront' (future 3rd person plural of 'devoir'). The future tense is used to express a future obligation.",
+  "explanation": "The text states '<em>Les étudiants devront s'inscrire en ligne avant le 15 septembre</em>' - Students will have to register online before September 15th. 'Devront' is the future 3rd person plural of 'devoir', expressing future obligation.",
   "difficulty": "B1",
   "source": "University Registration",
   "tags": [
@@ -18,5 +18,6 @@
     "registration",
     "deadline"
   ],
-  "timeCreated": 1720021920
+  "timeCreated": 1720021920,
+  "verified": "claude"
 }

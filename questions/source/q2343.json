@@ -1,0 +1,18 @@
+{
+  "id": 2343,
+  "audioText": "Le suspect supposé était innocent selon les preuves découvertes.",
+  "question": "Fill in the blank: Le suspect ______ était innocent selon les preuves découvertes.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "supposé",
+    "supporté",
+    "surpris",
+    "soupçonné"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'supposé' (supposed/alleged). The alleged suspect was innocent according to the evidence discovered. This targets legal vocabulary and under-represented justice topics.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["law", "investigation", "innocence"],
+  "timeCreated": "2025-01-21T16:54:00Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2333,
+  "audioText": "Je suppose qu'elle a pris le couteau pour couper le pain.",
+  "question": "Fill in the blank: Je ______ qu'elle a pris le couteau pour couper le pain.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "suppose",
+    "supprime",
+    "supporte",
+    "surmonte"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'suppose' (suppose/assume). I suppose she took the knife to cut the bread. This combines the target noun 'couteau' with the missing verb form 'suppose'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["kitchen", "daily-habits", "assumptions"],
+  "timeCreated": "2025-01-21T16:37:00Z"
+}

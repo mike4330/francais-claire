@@ -10,9 +10,10 @@
         "Ce flux magnétique génère des obstacles pour la réception océanique prochaine"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'Ce courant électrique pose des défis pour l'hospitalité maritime de demain'. The text states '<em>Ce courant électrique pose des défis pour l'hospitalité maritime de demain</em>' - This electric current poses challenges for tomorrow's maritime hospitality. This targets 'courant' and 'lendemain' with under-represented topics of hospitality and maritime-science.",
-    "difficulty": "B2",
+    "explanation": "The correct answer is 'Ce courant électrique pose des défis pour l'hospitalité maritime de demain'. The text states '<em>Ce courant électrique pose des défis pour l'hospitalité maritime de demain</em>' - This electric current poses challenges for tomorrow's maritime hospitality. Key vocabulary includes 'courant' (current), 'défis' (challenges), and 'hospitalité maritime' (maritime hospitality).",
+    "difficulty": "B1",
     "source": "Strategic vocabulary: courant + lendemain + hospitality + maritime-science",
     "tags": ["hospitality", "maritime-science", "technology"],
-    "timeCreated": 1720814700
+    "timeCreated": 1720814700,
+    "verified": "claude"
 }

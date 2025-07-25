@@ -1,0 +1,18 @@
+{
+  "id": 2332,
+  "audioText": "Les discussions sur le sexe restent encore tabou dans certaines familles.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les discussions sur le sexe restent encore tabou dans certaines familles.",
+    "Les discussions sur le stress restent encore tabou dans certaines familles.",
+    "Les discussions sur le sexe restent encore tabou dans certaines communautés.",
+    "Les discussions sur le succès restent encore tabou dans certaines familles."
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'sexe' (sex/sexuality). Discussions about sex still remain taboo in certain families. This addresses important social topics that adults encounter.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["family", "social-issues", "taboo-topics"],
+  "timeCreated": "2025-01-21T16:36:00Z"
+}

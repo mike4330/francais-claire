@@ -1,0 +1,18 @@
+{
+    "id": 2364,
+    "audioText": "C'est vraiment chouette que vous jures de rester modestement optimiste malgré tous les obstacles rencontrés.",
+    "question": "What is described as really nice?",
+    "questionType": "comprehension",
+    "options": [
+        "It's really great that you swear to remain modestly optimistic despite all obstacles",
+        "It's nice that you are giving up on your dreams",
+        "It's great that you are becoming more pessimistic",
+        "It's nice that you are avoiding all challenges"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>C'est vraiment chouette que vous jures de rester modestement optimiste malgré tous les obstacles rencontrés</em>' - It's really great that you swear to remain modestly optimistic despite all the obstacles encountered. 'Chouette' means nice/great (informal), with missing lemmas 'jures' (swear) and 'modestement' (modestly).",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["emotions", "encouragement", "persistence"],
+    "timeCreated": "2025-01-23T16:58:00Z"
+}

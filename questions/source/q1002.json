@@ -10,7 +10,7 @@
     "C'est une actrice très connue dans le monde moderne."
   ],
   "correct": 0,
-  "explanation": "The correct option maintains proper agreement: 'connue' (feminine with 'actrice'), not 'connu' (masculine). This listening exercise tests adjective agreement, precise vocabulary ('actrice' vs 'artiste'), and adverbial phrases ('entier' vs 'moderne').",
+  "explanation": "The correct answer is 'C'est une actrice très connue dans le monde entier'. The text states '<em>C'est une actrice très connue dans le monde entier</em>' - She is a very well-known actress worldwide. The correct option maintains proper agreement: 'connue' (feminine with 'actrice'), not 'connu' (masculine).",
   "difficulty": "B1",
   "source": "Listening version of q526",
   "tags": [
@@ -18,5 +18,6 @@
     "entertainment"
   ],
   "parentQuestion": 1928,
-  "timeCreated": 1720713600
+  "timeCreated": 1720713600,
+  "verified": "claude"
 }

@@ -1,0 +1,18 @@
+{
+  "id": 2344,
+  "audioText": "Il rêvait de devenir astronaute quand il était petit.",
+  "question": "What did he dream of becoming when he was little?",
+  "questionType": "comprehension",
+  "options": [
+    "An astronaut",
+    "A pilot",
+    "A scientist",
+    "A teacher"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il rêvait de devenir astronaute quand il était petit</em>' - He dreamed of becoming an astronaut when he was little. 'Rêvait' is the imperfect form of 'rêver'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["dreams", "childhood", "aspirations"],
+  "timeCreated": "2025-01-21T16:55:00Z"
+}

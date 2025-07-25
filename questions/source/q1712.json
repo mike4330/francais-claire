@@ -11,8 +11,9 @@
   ],
   "correct": 0,
   "explanation": "The text states '<em>Pareillement, cette entreprise tomberait sournoisement dans l'intérêt de ses concurrents par hasard si nous avions lu ces documents lors du rendez-vous</em>' - Likewise, this company would fall sneakily into its competitors' interest by chance if we had read these documents during the meeting. 'Sournoisement' means sneakily/slyly.",
-  "difficulty": "B1",
+  "difficulty": "B2",
   "source": "Claude",
   "tags": ["business", "competition", "meetings"],
-  "timeCreated": 1736806400
+  "timeCreated": 1736806400,
+  "verified": "claude"
 }

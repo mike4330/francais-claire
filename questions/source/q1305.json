@@ -10,7 +10,7 @@
     "Study inside all day"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'nous pouvions jouer dehors jusqu'à très tard en été' - we could play outside until very late in summer. 'Pouvions' is the 1st person plural imperfect tense of 'pouvoir' (to be able to/can), describing a past habitual ability.",
+  "explanation": "The text states '<em>Quand nous étions enfants, nous pouvions jouer dehors jusqu'à très tard en été</em>' - When we were children, we could play outside until very late in summer. 'Pouvions' is the 1st person plural imperfect tense of 'pouvoir' (to be able to/can), describing a past habitual ability.",
   "difficulty": "B1",
   "source": "Childhood Memories",
   "tags": [
@@ -18,5 +18,6 @@
     "memories",
     "summer"
   ],
-  "timeCreated": 1720021440
+  "timeCreated": 1720021440,
+  "verified": "claude"
 }

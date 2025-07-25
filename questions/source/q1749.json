@@ -1,6 +1,6 @@
 {
   "id": 1749,
-  "audioText": "Les soldats outre-mer valait beaucoup pour cette parole anglaise.",
+  "audioText": "Les soldats outre-mer valaient beaucoup pour cette parole anglaise.",
   "question": "What did the overseas soldiers value highly?",
   "questionType": "comprehension",
   "options": [
@@ -10,8 +10,8 @@
     "Foreign currency"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les soldats outre-mer valait beaucoup pour cette parole anglaise</em>' - The overseas soldiers valued this English word highly. This combines 'outre-mer' (overseas), 'valait' (was worth), 'parole' (word), and 'anglaise' (English).",
-  "difficulty": "B2",
+  "explanation": "The text states '<em>Les soldats outre-mer valaient beaucoup pour cette parole anglaise</em>' - The overseas soldiers valued this English word highly. 'Valaient' is the imperfect form of 'valoir' (to be worth) agreeing with plural 'soldats', and 'parole' means 'word'.",
+  "difficulty": "B1",
   "source": "Military overseas service discussion",
   "tags": [
     "military",
@@ -19,5 +19,6 @@
     "language",
     "overseas"
   ],
-  "timeCreated": 1736784540
+  "timeCreated": 1736784540,
+  "verified": "claude"
 }

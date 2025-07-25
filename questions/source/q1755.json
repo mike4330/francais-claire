@@ -10,13 +10,14 @@
     "rarement"
   ],
   "correct": 0,
-  "explanation": "The adverb 'simplement' means 'simply' or 'just'. It indicates that his desire is straightforward and uncomplicated - he just wants to spend time with his friends during the weekend, nothing more complex than that.",
-  "difficulty": "B2",
+  "explanation": "The text states '<em>Il veut simplement passer du temps avec ses amis ce week-end</em>' - He simply wants to spend time with his friends this weekend. The adverb 'simplement' means 'simply' or 'just', indicating his desire is straightforward and uncomplicated.",
+  "difficulty": "B1",
   "source": "Weekend plans conversation",
   "tags": [
     "friendship",
     "weekend",
     "social-activities"
   ],
-  "timeCreated": 1720076520
+  "timeCreated": 1720076520,
+  "verified": "claude"
 }

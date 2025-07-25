@@ -1,0 +1,15 @@
+{
+  "id": 2338,
+  "audioText": "Ce sac en cuir coûte exactement cent francs dans cette boutique.",
+  "question": "Write the correct form: Ce sac en ______ coûte exactement cent francs dans cette boutique.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "cuir",
+  "acceptedAnswers": ["cuir", "Cuir"],
+  "explanation": "The correct form is 'cuir' (leather). This leather bag costs exactly one hundred francs in this shop. This combines 'cuir' with the completely missing noun 'franc' from the analysis.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["shopping", "materials", "prices"],
+  "timeCreated": "2025-01-21T16:44:00Z"
+}

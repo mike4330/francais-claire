@@ -1,0 +1,18 @@
+{
+    "id": 2366,
+    "audioText": "Elle souffre énormément depuis son meurtre et ne peut plus manger à jeun le matin.",
+    "question": "What is affecting her eating habits?",
+    "questionType": "comprehension",
+    "options": [
+        "She suffers enormously since the murder and can no longer eat on an empty stomach in the morning",
+        "She enjoys eating breakfast more than before",
+        "She has developed a new healthy eating routine",
+        "She only eats large meals in the evening now"
+    ],
+    "correct": 0,
+    "explanation": "The text states '<em>Elle souffre énormément depuis son meurtre et ne peut plus manger à jeun le matin</em>' - She suffers enormously since the murder and can no longer eat on an empty stomach in the morning. 'Souffre' is third person singular present of 'souffrir' (to suffer), with missing noun 'meurtre' (murder) and adverb 'à jeun' (on an empty stomach).",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["trauma", "health", "psychological-effects"],
+    "timeCreated": "2025-01-23T17:06:00Z"
+}

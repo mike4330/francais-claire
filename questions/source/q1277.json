@@ -1,7 +1,7 @@
 {
     "id": 1277,
-    "audioText": "Cette femme fier vivement défend son boulot avec une passion toutefois contrôlée.",
-    "question": "Cette femme ______ vivement défend son boulot avec une passion toutefois contrôlée.",
+    "audioText": "Cette femme fière défend vivement son boulot avec une passion toutefois contrôlée.",
+    "question": "Cette femme ______ défend vivement son boulot avec une passion toutefois contrôlée.",
     "questionType": "fill-in-the-blank",
     "options": [
         "fière",
@@ -10,9 +10,10 @@
         "fières"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette femme fière vivement défend son boulot avec une passion toutefois contrôlée</em>' - This proud woman vigorously defends her job with a passion that is nonetheless controlled. 'Fière' is the feminine singular form of 'fier' (proud), agreeing with 'femme' (woman).",
+    "explanation": "The text states '<em>Cette femme fière défend vivement son boulot avec une passion toutefois contrôlée</em>' - This proud woman vigorously defends her job with a passion that is nonetheless controlled. 'Fière' is the feminine singular form of 'fier' (proud), agreeing with 'femme' (woman).",
     "difficulty": "B1",
     "source": "Strategic targeting: fier + vivement + boulot + toutefois",
     "tags": ["workplace", "pride", "defense"],
-    "timeCreated": 1736623680
+    "timeCreated": 1736623680,
+    "verified": "claude"
 }

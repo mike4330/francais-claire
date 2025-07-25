@@ -1,7 +1,7 @@
 {
     "id": 1267,
-    "audioText": "Je chercherai largement ce revoir nécessaire avant le début de l'hiver.",
-    "question": "Je ______ largement ce revoir nécessaire avant le début de l'hiver.",
+    "audioText": "Je chercherai largement cette révision nécessaire avant le début de l'hiver.",
+    "question": "Je ______ largement cette révision nécessaire avant le début de l'hiver.",
     "questionType": "fill-in-the-blank",
     "options": [
         "chercherai",
@@ -10,9 +10,10 @@
         "chercherais"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Je chercherai largement ce revoir nécessaire avant le début de l'hiver</em>' - I will search broadly for this necessary review before the beginning of winter. 'Chercherai' is the first person singular future form of 'chercher' (to search/look for), expressing a future intention to search.",
+    "explanation": "The text states '<em>Je chercherai largement cette révision nécessaire avant le début de l'hiver</em>' - I will search broadly for this necessary revision before the beginning of winter. 'Chercherai' is the first person singular future form of 'chercher' (to search/look for).",
     "difficulty": "B1",
     "source": "Strategic targeting: chercherai + largement + revoir + début",
     "tags": ["planning", "search", "preparation"],
-    "timeCreated": 1736622900
+    "timeCreated": 1736622900,
+    "verified": "claude"
 }

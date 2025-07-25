@@ -1,0 +1,18 @@
+{
+    "id": 2356,
+    "audioText": "Elle a tout arrangé pour notre voyage en Provence : les hôtels, les visites et même les restaurants.",
+    "question": "What has she organized for the trip?",
+    "questionType": "comprehension",
+    "options": [
+        "She arranged only the hotels for our trip",
+        "She arranged everything: hotels, visits and restaurants",
+        "She arranged the restaurants but not the hotels",
+        "She arranged the visits but nothing else"
+    ],
+    "correct": 1,
+    "explanation": "The text states '<em>Elle a tout arrangé pour notre voyage en Provence : les hôtels, les visites et même les restaurants</em>' - She arranged everything for our trip to Provence: the hotels, the visits and even the restaurants. The past participle 'arrangé' (arranged) is used with 'avoir' to indicate completed action.",
+    "difficulty": "B2",
+    "source": "claude",
+    "tags": ["travel", "organization", "vacation"],
+    "timeCreated": "2025-01-23T16:46:00Z"
+}
