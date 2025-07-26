@@ -12,7 +12,7 @@
   "correct": 0,
   "parentQuestion": 1990,
   "explanation": "The correct text is '<em>Cette façon de résoudre les problèmes environnementaux semble plus efficace que les méthodes traditionnelles</em>' - This way of solving environmental problems seems more effective than traditional methods. Key words: 'façon' (way, not 'manière' - manner), 'semble' (seems, not 'paraît' - appears), and 'efficace' (effective, not 'effective' - Anglicism).",
-  "difficulty": "B2",
+  "difficulty": "B1",
   "source": "Listening version of Q573",
   "tags": [
     "environment",
@@ -20,5 +20,6 @@
     "methods",
     "effectiveness"
   ],
-  "timeCreated": 1720963800
+  "timeCreated": 1720963800,
+  "verified": "claude"
 }

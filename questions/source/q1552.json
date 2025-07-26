@@ -11,8 +11,9 @@
     ],
     "correct": 0,
     "explanation": "The text states '<em>Le médecin assied calmement le patient pour examiner minutieusement son cul et détecter d'éventuelles anomalies.</em>' - The doctor seats the patient calmly to examine his bottom carefully and detect possible abnormalities. 'Cul' means bottom/buttocks, 'assied' is a form of 'asseoir' (to seat), and 'minutieusement' means carefully/meticulously.",
-    "difficulty": "B2",
+    "difficulty": "B1",
     "source": "Strategic noun coverage development - medical examination context",
     "tags": ["health", "medical", "examination"],
-    "timeCreated": 1720828260
+    "timeCreated": 1720828260,
+    "verified": "claude"
 }

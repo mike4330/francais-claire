@@ -1,19 +1,25 @@
 {
   "id": 116,
-  "audioText": "Ma chambre est très propre maintenant, j'ai tout rangé hier soir.",
-  "question": "Ma chambre est très ______ maintenant, j'ai tout rangé hier soir.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Mon chien sort toujours dans le jardin après ses repas pour se détendre.",
+  "question": "When does the dog go outside?",
+  "questionType": "comprehension",
   "options": [
-    "propre",
-    "sale",
-    "grande",
-    "petite"
+    "After his meals to relax",
+    "Before his meals to exercise",
+    "During his meals to play",
+    "Instead of his meals to hunt"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Ma chambre est très propre maintenant, j'ai tout rangé hier soir</em>' - My room is very clean now, I tidied everything up last night. The correct answer is 'propre' (clean). The context 'j'ai tout rangé hier soir' indicates that the room is now clean after organizing.",
+  "explanation": "The text states '<em>Mon chien sort toujours dans le jardin après ses repas pour se détendre</em>' - My dog always goes out into the garden after his meals to relax. 'Sort' is the 3rd person singular present of 'sortir' (to go out), and 'après ses repas' means after his meals.",
   "difficulty": "A2",
-  "source": "Household Tasks",
-  "tags": ["home", "cleaning", "daily-life", "bedroom"],
-  "timeCreated": 1751494921,
+  "source": "Pet routine",
+  "tags": [
+    "animals",
+    "pets",
+    "routine",
+    "garden",
+    "daily-life"
+  ],
+  "timeCreated": 1736065300,
   "verified": "claude"
 }

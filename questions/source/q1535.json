@@ -15,5 +15,6 @@
     "source": "Listening variant of comprehension question",
     "tags": ["shock", "inappropriate-behavior", "vulgar-expressions"],
     "parentQuestion": 1217,
-    "timeCreated": 1720826520
+    "timeCreated": 1720826520,
+    "verified": "claude"
 }

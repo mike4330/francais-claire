@@ -1,0 +1,23 @@
+{
+  "id": 1588,
+  "audioText": "Rageusement, les investisseurs écriront des lettres amères concernant cette mémoire collective fragile qui a mal retenu leurs échecs financiers.",
+  "question": "Rageusement, les investisseurs ______ des lettres amères concernant cette mémoire collective fragile qui a mal retenu leurs échecs financiers.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "écriront",
+    "écrirai",
+    "écrivaient",
+    "écriraient"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Rageusement, les investisseurs écriront des lettres amères concernant cette mémoire collective fragile qui a mal retenu leurs échecs financiers</em>' - Furiously, investors will write bitter letters concerning this fragile collective memory that poorly retained their financial failures. The correct form is 'écriront' (3rd person plural future of 'écrire').",
+  "difficulty": "B1",
+  "source": "Strategic targeting - rageusement + écrirai + mémoire + tendre + souvenu + corporate synergy + investment failures",
+  "tags": [
+    "investment",
+    "financial-failures",
+    "collective-memory"
+  ],
+  "timeCreated": 1736804920,
+  "verified": "claude"
+}

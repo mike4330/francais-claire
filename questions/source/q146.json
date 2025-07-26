@@ -1,0 +1,22 @@
+{
+  "id": 146,
+  "audioText": "Je déteste les légumes verts.",
+  "question": "What does this person dislike?",
+  "questionType": "comprehension",
+  "options": [
+    "Green vegetables",
+    "Red fruits",
+    "White bread",
+    "Brown meat"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je déteste les légumes verts</em>' - I hate green vegetables. 'Déteste' is the first person singular present of 'détester' (to hate/detest).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": [
+    "food",
+    "preferences",
+    "vegetables"
+  ],
+  "timeCreated": "2025-01-21T15:55:00Z"
+}

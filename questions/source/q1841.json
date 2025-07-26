@@ -1,19 +1,24 @@
 {
-    "id": 1841,
-    "audioText": "Seigneur, qu'est-ce que je foutais dans cette situation bizarre ?",
-    "question": "Seigneur, qu'est-ce que je foutais dans cette situation bizarre ?",
-    "questionType": "listening",
-    "options": [
-        "Confusion about being in a strange situation",
-        "Anger about a religious ceremony",
-        "Excitement about a new opportunity",
-        "Satisfaction with current circumstances"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Seigneur, qu'est-ce que je foutais dans cette situation bizarre ?</em>' - Lord, what was I doing in this weird situation? The exclamation 'Seigneur' means 'Lord' (expressing surprise), and 'foutais' (imperfect of 'foutre') is informal for 'was doing'. The distractors test confusion about the speaker's emotion.",
-    "difficulty": "B2",
-    "source": "Claude-generated",
-    "tags": ["confusion", "surprise", "informal-language", "situations"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 1802
+  "id": 1841,
+  "audioText": "Seigneur, qu'est-ce que je foutais dans cette situation bizarre ?",
+  "question": "Seigneur, qu'est-ce que je foutais dans cette situation bizarre ?",
+  "questionType": "listening",
+  "options": [
+    "Confusion about being in a strange situation",
+    "Anger about a religious ceremony",
+    "Excitement about a new opportunity",
+    "Satisfaction with current circumstances"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Seigneur, qu'est-ce que je foutais dans cette situation bizarre ?</em>' - Lord, what was I doing in this weird situation? The exclamation 'Seigneur' means 'Lord' (expressing surprise), and 'foutais' (imperfect of 'foutre') is informal for 'was doing'. The distractors test confusion about the speaker's emotion.",
+  "difficulty": "B2",
+  "source": "Claude-generated",
+  "tags": [
+    "confusion",
+    "surprise",
+    "informal-language",
+    "situations"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 698
 }

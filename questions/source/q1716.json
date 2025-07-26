@@ -1,19 +1,23 @@
 {
-    "id": 1716,
-    "audioText": "Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes.",
-    "question": "Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes.",
-    "questionType": "listening",
-    "options": [
-        "He had maliciously wounded it with his unjust decisions",
-        "He had accidentally damaged it through poor judgment",
-        "He had slowly weakened it with excessive taxation",
-        "He had completely ignored it during his reign"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes</em>' - The king had maliciously wounded his people's soul through his unjust decisions. 'Méchamment' means maliciously or wickedly, and 'âme' refers to the soul or spirit. The distractors test confusion about the intent (accidentally), the method (taxation), and the action (ignored).",
-    "difficulty": "B1",
-    "source": "Strategic lemma synergy: adverb + high-frequency noun combination",
-    "tags": ["politics", "history", "emotions"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 1163
+  "id": 1716,
+  "audioText": "Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes.",
+  "question": "Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes.",
+  "questionType": "listening",
+  "options": [
+    "He had maliciously wounded it with his unjust decisions",
+    "He had accidentally damaged it through poor judgment",
+    "He had slowly weakened it with excessive taxation",
+    "He had completely ignored it during his reign"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes</em>' - The king had maliciously wounded his people's soul through his unjust decisions. 'Méchamment' means maliciously or wickedly, and 'âme' refers to the soul or spirit. The distractors test confusion about the intent (accidentally), the method (taxation), and the action (ignored).",
+  "difficulty": "B1",
+  "source": "Strategic lemma synergy: adverb + high-frequency noun combination",
+  "tags": [
+    "politics",
+    "history",
+    "emotions"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2374
 }

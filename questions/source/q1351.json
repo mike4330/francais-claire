@@ -10,7 +10,7 @@
     "It was okay but nothing special or memorable"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Ce film était vraiment génial ! J'ai adoré l'histoire et les acteurs' - This movie was really great! I loved the story and the actors. 'Génial' means great/awesome/brilliant (informal).",
+  "explanation": "The text states '<em>Ce film était vraiment génial ! J'ai adoré l'histoire et les acteurs</em>' - This movie was really great! I loved the story and the actors. 'Génial' means great/awesome/brilliant (informal), and 'adoré' means loved.",
   "difficulty": "B1",
   "source": "Entertainment - Movies",
   "tags": [
@@ -19,5 +19,6 @@
     "opinions",
     "reviews"
   ],
-  "timeCreated": 1720026080
+  "timeCreated": 1720026080,
+  "verified": "claude"
 }

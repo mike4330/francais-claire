@@ -1,6 +1,6 @@
 {
     "id": 1562,
-    "audioText": "Les étudiants apprendras probablement à créer des projets merveilleux pour le concours scientifique international de cette année.",
+    "audioText": "Les étudiants apprendront probablement à créer des projets merveilleux pour le concours scientifique international de cette année.",
     "question": "What will students probably learn to create for this year's international science competition?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Collaborative teams with diverse academic backgrounds"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Les étudiants apprendras probablement à créer des projets merveilleux pour le concours scientifique international de cette année.</em>' - The students will probably learn to create wonderful projects for this year's international science competition. 'Merveilleux' means wonderful/marvelous, 'apprendras' is a form of 'apprendre' (to learn), and 'probablement' means probably.",
+    "explanation": "The text states '<em>Les étudiants apprendront probablement à créer des projets merveilleux pour le concours scientifique international de cette année.</em>' - The students will probably learn to create wonderful projects for this year's international science competition. 'Merveilleux' means wonderful/marvelous, 'apprendront' is the third person plural future form of 'apprendre' (to learn), and 'probablement' means probably.",
     "difficulty": "B1",
     "source": "Strategic adjective coverage development - scientific excellence",
     "tags": ["education", "science", "competition"],
-    "timeCreated": 1720829220
+    "timeCreated": 1720829220,
+    "verified": "claude"
 }

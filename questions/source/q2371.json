@@ -1,18 +1,23 @@
 {
-    "id": 2371,
-    "audioText": "Tu embrasses aveuglément cette nouvelle toile artistique sans comprendre sa véritable signification culturelle.",
-    "question": "How does the person approach this new artwork?",
-    "questionType": "comprehension",
-    "options": [
-        "You blindly embrace this new artistic canvas without understanding its true cultural significance",
-        "You carefully study the artwork before making any judgment",
-        "You immediately reject the artwork without looking at it",
-        "You understand the cultural meaning perfectly from the start"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Tu embrasses aveuglément cette nouvelle toile artistique sans comprendre sa véritable signification culturelle</em>' - You blindly embrace this new artistic canvas without understanding its true cultural significance. 'Embrasses' is second person singular present of 'embrasser' (to embrace), with missing adverb 'aveuglément' (blindly) and noun 'toile' (canvas).",
-    "difficulty": "B2",
-    "source": "claude",
-    "tags": ["art", "culture", "interpretation"],
-    "timeCreated": "2025-01-23T17:11:00Z"
+  "id": 2371,
+  "audioText": "Il faut que tu ailles chercher les documents au bureau avant cinq heures.",
+  "question": "What does the person need to do before five o'clock?",
+  "questionType": "comprehension",
+  "options": [
+    "Go get the documents at the office.",
+    "Send the documents to the office.",
+    "Read the documents at the office.",
+    "Sign the documents at the office."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut que tu ailles chercher les documents au bureau avant cinq heures</em>' - You must go get the documents at the office before five o'clock. 'Ailles' is the subjunctive form of 'aller' required after 'il faut que'.",
+  "difficulty": "B1",
+  "source": "Professional task instruction",
+  "tags": [
+    "workplace",
+    "urgency",
+    "administrative"
+  ],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

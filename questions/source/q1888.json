@@ -10,7 +10,7 @@
     "Meet friends at work to celebrate Marie's birthday"
   ],
   "correct": 0,
-  "explanation": "The speaker said 'Je verrai mes amis demain soir au restaurant pour célébrer l'anniversaire de Marie' - I will see my friends tomorrow evening at the restaurant to celebrate Marie's birthday. 'Verrai' is the future tense of 'voir' (to see).",
+  "explanation": "The text states '<em>Je verrai mes amis demain soir au restaurant pour célébrer l'anniversaire de Marie</em>' - I will see my friends tomorrow evening at the restaurant to celebrate Marie's birthday. 'Verrai' is the future tense of 'voir' (to see).",
   "difficulty": "B1",
   "source": "Social plans",
   "tags": [
@@ -18,5 +18,6 @@
     "celebration",
     "birthday"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

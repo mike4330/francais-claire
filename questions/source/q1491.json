@@ -1,6 +1,6 @@
 {
   "id": 1491,
-  "audioText": "Nous avons vus tous les chats du refuge hier avant l'adoption.",
+  "audioText": "Nous avons vu tous les chats du refuge hier avant l'adoption.",
   "question": "What did they see at the shelter yesterday?",
   "questionType": "comprehension",
   "options": [
@@ -10,7 +10,7 @@
     "All the rabbits before the adoption event"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Nous avons vus tous les chats du refuge hier avant l'adoption</em>' - We saw all the cats at the shelter yesterday before the adoption. The past participle 'vus' agrees with the direct object 'chats' (masculine plural).",
+  "explanation": "The text states '<em>Nous avons vu tous les chats du refuge hier avant l'adoption</em>' - We saw all the cats at the shelter yesterday before the adoption. With the auxiliary 'avoir', the past participle 'vu' does not agree when the direct object follows the verb.",
   "difficulty": "B1",
   "source": "Animal shelter visit",
   "tags": [
@@ -18,5 +18,6 @@
     "shelter",
     "adoption"
   ],
-  "timeCreated": 1720108800
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

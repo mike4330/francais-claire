@@ -11,8 +11,9 @@
     ],
     "correct": 0,
     "explanation": "The correct answer is 'She swears terribly'. The text states '<em>Cette tante agréable jure sacrément quand elle voit cette image de l'arbre cassé</em>' - This pleasant aunt swears terribly when she sees this image of the broken tree. The adverb 'sacrément' intensifies the action, meaning terribly/awfully.",
-    "difficulty": "B2",
+    "difficulty": "B1",
     "source": "Strategic adverb targeting: sacrément + tante + agréable + image + arbre",
     "tags": ["family", "emotions", "nature"],
-    "timeCreated": 1720818400
+    "timeCreated": 1720818400,
+    "verified": "claude"
 }

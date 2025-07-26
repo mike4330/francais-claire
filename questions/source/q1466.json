@@ -11,7 +11,7 @@
   ],
   "correct": 0,
   "explanation": "The text states '<em>Mes parents pouvaient toujours m'emmener au parc le dimanche à l'époque où j'étais petit</em>' - My parents could always take me to the park on Sundays back when I was little. 'Pouvaient' is the imperfect of 'pouvoir' (could/were able to), with the temporal clause repositioned at the end.",
-  "difficulty": "B2",
+  "difficulty": "B1",
   "source": "Childhood Memories",
   "tags": [
     "childhood",
@@ -19,5 +19,6 @@
     "memories",
     "weekend-activities"
   ],
-  "timeCreated": 1720027400
+  "timeCreated": 1720027400,
+  "verified": "claude"
 }

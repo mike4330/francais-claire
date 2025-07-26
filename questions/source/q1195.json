@@ -11,9 +11,10 @@
     ],
     "correct": 0,
     "explanation": "The correct text uses 'machinalement' (mechanically), 'dorénavant' (from now on), and 'sitôt que' (as soon as). The distractors test adverb variations (mécaniquement vs machinalement, désormais vs dorénavant) and conjunction alternatives (aussitôt que vs sitôt que).",
-    "difficulty": "B2",
+    "difficulty": "B1",
     "source": "Strategic adverb targeting",
     "tags": ["technology", "habits", "change", "time-perspective"],
     "parentQuestion": 992,
-    "timeCreated": 1752115980
+    "timeCreated": 1752115980,
+    "verified": "claude"
 }

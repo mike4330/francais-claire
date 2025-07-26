@@ -10,7 +10,7 @@
     "Because the bus is coming"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Sachant que le magasin ferme à dix-huit heures' - Knowing that the store closes at 6 PM. 'Sachant' is the present participle of 'savoir' (to know), used here to introduce the reason for their urgency.",
+  "explanation": "The text states '<em>Sachant que le magasin ferme à dix-huit heures, nous devons nous dépêcher pour y arriver à temps</em>' - Knowing that the store closes at 6 PM, we need to hurry to get there on time. 'Sachant' is the present participle of 'savoir' (to know), used here to introduce the reason for their urgency.",
   "difficulty": "B2",
   "source": "Shopping Planning",
   "tags": [
@@ -18,5 +18,6 @@
     "time-management",
     "urgency"
   ],
-  "timeCreated": 1720021500
+  "timeCreated": 1720021500,
+  "verified": "claude"
 }

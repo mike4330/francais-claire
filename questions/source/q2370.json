@@ -1,18 +1,23 @@
 {
-    "id": 2370,
-    "audioText": "Tu souffres pensivement de cette blessure depuis ton arrêt forcé et c'est vraiment difficile.",
-    "question": "What is causing your suffering?",
-    "questionType": "comprehension",
-    "options": [
-        "You suffer pensively from this injury since your forced stop and it's really difficult",
-        "You are happy about recovering from your injury quickly",
-        "You have completely forgotten about your past injury",
-        "You are suffering from a completely different problem"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Tu souffres pensivement de cette blessure depuis ton arrêt forcé et c'est vraiment difficile</em>' - You suffer pensively from this injury since your forced stop and it's really difficult. 'Souffres' is second person singular present of 'souffrir' (to suffer), with missing adverb 'pensivement' (pensively) and noun 'arrêt' (stop).",
-    "difficulty": "B2",
-    "source": "claude",
-    "tags": ["health", "injury", "recovery"],
-    "timeCreated": "2025-01-23T17:10:00Z"
+  "id": 2370,
+  "audioText": "Nous serions reconnaissants si vous pouviez nous accorder quelques minutes pour discuter de cette proposition importante.",
+  "question": "What are the speakers requesting?",
+  "questionType": "comprehension",
+  "options": [
+    "A few minutes to discuss an important proposal",
+    "A formal written response to their request",
+    "A complete rejection of their proposal",
+    "An immediate decision on the matter"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous serions reconnaissants si vous pouviez nous accorder quelques minutes pour discuter de cette proposition importante</em>' - We would be grateful if you could grant us a few minutes to discuss this important proposal. 'Serions' is the conditional form expressing polite request.",
+  "difficulty": "B1",
+  "source": "Formal business request with conditional politeness",
+  "tags": [
+    "business",
+    "formal-request",
+    "proposals"
+  ],
+  "timeCreated": 1719936360,
+  "verified": "claude"
 }

@@ -11,8 +11,9 @@
     ],
     "correct": 0,
     "explanation": "The text states '<em>Vous entrerez tranquillement dans l'hôpital moderne pour visiter votre grand-père malade cet après-midi.</em>' - You will enter the modern hospital quietly to visit your sick grandfather this afternoon. 'Entrerez' is the future form of 'entrer' (to enter), 'tranquillement' means quietly, and 'hôpital' means hospital.",
-    "difficulty": "A2",
+    "difficulty": "B1",
     "source": "Strategic conjugate coverage development - family hospital visits",
     "tags": ["family", "health", "hospital"],
-    "timeCreated": 1720830580
+    "timeCreated": 1720830580,
+    "verified": "claude"
 }

@@ -1,6 +1,6 @@
 {
     "id": 1569,
-    "audioText": "Le grand-père dormiras paisiblement dans son fauteuil après avoir raconté des histoires fascinantes à ses petits-enfants.",
+    "audioText": "Le grand-père dormira paisiblement dans son fauteuil après avoir raconté des histoires fascinantes à ses petits-enfants.",
     "question": "Who will sleep peacefully in his armchair after telling fascinating stories to grandchildren?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "The elderly neighbor who visits every weekend"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le grand-père dormiras paisiblement dans son fauteuil après avoir raconté des histoires fascinantes à ses petits-enfants.</em>' - The grandfather will sleep peacefully in his armchair after having told fascinating stories to his grandchildren. 'Grand-père' means grandfather, 'dormiras' is a form of 'dormir' (to sleep), and 'paisiblement' means peacefully.",
-    "difficulty": "A2",
+    "explanation": "The text states '<em>Le grand-père dormira paisiblement dans son fauteuil après avoir raconté des histoires fascinantes à ses petits-enfants.</em>' - The grandfather will sleep peacefully in his armchair after having told fascinating stories to his grandchildren. 'Dormira' is the future tense 3rd person singular of 'dormir' (to sleep).",
+    "difficulty": "B1",
     "source": "Strategic noun coverage development - family storytelling traditions",
     "tags": ["family", "storytelling", "elderly"],
-    "timeCreated": 1720829820
+    "timeCreated": 1720829820,
+    "verified": "claude"
 }

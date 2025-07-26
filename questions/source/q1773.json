@@ -10,13 +10,14 @@
     "That's unfortunately what they wanted to discuss at the next meeting"
   ],
   "correct": 0,
-  "explanation": "'Justement' means 'exactly', 'precisely', or 'as it happens'. It emphasizes that this topic is precisely what they had planned to bring up in the upcoming meeting - perfect timing or coincidence.",
-  "difficulty": "B2",
+  "explanation": "The text states '<em>C'est justement ce que je voulais vous dire lors de notre prochaine réunion</em>' - That's exactly what I wanted to tell you during our next meeting. 'Justement' means 'exactly', 'precisely', or 'as it happens'. It emphasizes that this topic is precisely what they had planned to bring up in the upcoming meeting - perfect timing or coincidence.",
+  "difficulty": "B1",
   "source": "Meeting preparation",
   "tags": [
     "workplace",
     "meetings",
     "precision"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

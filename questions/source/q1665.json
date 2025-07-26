@@ -1,6 +1,6 @@
 {
   "id": 1665,
-  "audioText": "Nous garderons ces documents importants jusqu'à ce que vous apprenez la procédure complète.",
+  "audioText": "Nous garderons ces documents importants jusqu'à ce que vous appreniez la procédure complète.",
   "question": "When will we keep these important documents?",
   "questionType": "comprehension",
   "options": [
@@ -10,9 +10,10 @@
     "Before starting the official registration process"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'Until you learn the complete procedure'. The text states '<em>Nous garderons ces documents importants jusqu\\'à ce que vous apprenez la procédure complète</em>' - We will keep these important documents until you learn the complete procedure. 'Garderons' is the future tense of 'garder' (to keep).",
+  "explanation": "The correct answer is 'Until you learn the complete procedure'. The text states '<em>Nous garderons ces documents importants jusqu'à ce que vous appreniez la procédure complète</em>' - We will keep these important documents until you learn the complete procedure. 'Appreniez' is the subjunctive form required after 'jusqu'à ce que'.",
   "difficulty": "B1",
   "source": "Strategic targeting - garderons + apprendre synergy + procedures",
   "tags": ["procedures", "documentation", "training"],
-  "timeCreated": 1736802700
+  "timeCreated": 1736802700,
+  "verified": "claude"
 }

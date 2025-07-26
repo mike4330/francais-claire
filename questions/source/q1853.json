@@ -10,9 +10,10 @@
         "He is seeking help from more experienced colleagues"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le technicien aveugle se foute complètement de réparer cette machine sauvage</em>' - The blind technician doesn't care at all about repairing this wild machine. 'Se foute de' is a colloquial expression meaning 'doesn't give a damn about'.",
+    "explanation": "The text states '<em>Le technicien aveugle se foute complètement de réparer cette machine sauvage qui pose tant de problèmes techniques</em>' - The blind technician doesn't care at all about repairing this wild machine that causes so many technical problems. 'Se foute de' is a colloquial expression meaning 'doesn't give a damn about'.",
     "difficulty": "B2",
     "source": "Claude",
     "tags": ["repair", "workplace", "attitude"],
-    "timeCreated": "2025-07-14T12:00:00Z"
+    "timeCreated": 1720881353,
+    "verified": "claude"
 }

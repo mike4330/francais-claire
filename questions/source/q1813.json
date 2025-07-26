@@ -1,7 +1,7 @@
 {
     "id": 1813,
     "audioText": "Selon l'annonce officielle, chercher un nouveau boulot deviendrait plus facile avec la nouvelle plateforme numérique.",
-    "question": "Selon l'annonce officielle, chercher un nouveau boulot deviendrait plus facile avec la nouvelle plateforme numérique.",
+    "question": "What would become easier according to the official announcement?",
     "questionType": "listening",
     "options": [
         "Looking for a new job with the new digital platform",
@@ -15,5 +15,6 @@
     "source": "Strategic vocabulary development - job platform announcement context",
     "tags": ["announcements", "technology", "workplace"],
     "timeCreated": 1720881353,
-    "parentQuestion": 1421
+    "parentQuestion": 1421,
+    "verified": "claude"
 }

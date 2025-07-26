@@ -1,19 +1,23 @@
 {
-    "id": 1786,
-    "audioText": "Il marchait dans la rue semblant très pressé.",
-    "question": "How did he appear while walking?",
-    "questionType": "comprehension",
-    "options": [
-        "He seemed very rushed",
-        "He looked completely relaxed",
-        "He appeared confused and lost",
-        "He seemed tired and slow"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Il marchait dans la rue semblant très pressé</em>' - He was walking down the street seeming very rushed. The present participle 'semblant' means 'seeming' and describes his apparent state while walking.",
-    "difficulty": "B1",
-    "source": "Claude-generated",
-    "tags": ["movement", "appearance", "street", "urgency"],
-    "timeCreated": 1735951680,
-    "verified": "claude"
+  "id": 1786,
+  "audioText": "Les fidèles entraient silencieusement dans l'église ancienne pour la cérémonie de mariage traditionnelle du dimanche.",
+  "question": "Where did the faithful enter silently for the traditional Sunday wedding ceremony?",
+  "questionType": "comprehension",
+  "options": [
+    "Into the ancient church",
+    "The beautifully decorated reception hall nearby",
+    "The historic town square for outdoor celebrations",
+    "The family garden with flowers and natural beauty"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les fidèles entraient silencieusement dans l'église ancienne pour la cérémonie de mariage traditionnelle du dimanche.</em>' - The faithful entered the ancient church silently for the traditional Sunday wedding ceremony. 'Église' means church, 'entraient' means were entering, and 'silencieusement' means silently.",
+  "difficulty": "B1",
+  "source": "Strategic noun coverage development - religious wedding ceremonies",
+  "tags": [
+    "wedding",
+    "religion",
+    "ceremony"
+  ],
+  "timeCreated": 1720831480,
+  "verified": "claude"
 }

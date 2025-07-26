@@ -10,7 +10,7 @@
     "venus"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'venue' (feminine singular past participle of 'venir'). It agrees with 'ma grand-mère' (feminine singular). The sentence means 'My grandmother came to visit me yesterday for my birthday.' Past participles with être must agree in gender and number.",
+  "explanation": "The text states '<em>Ma grand-mère est venue me rendre visite hier pour mon anniversaire</em>' - My grandmother came to visit me yesterday for my birthday. The correct answer is 'venue' (feminine singular past participle of 'venir'). It agrees with 'ma grand-mère' (feminine singular). Past participles with être must agree in gender and number.",
   "difficulty": "B1",
   "source": "Family Visit",
   "tags": [
@@ -18,5 +18,6 @@
     "visit",
     "birthday"
   ],
-  "timeCreated": 1720023240
+  "timeCreated": 1720023240,
+  "verified": "claude"
 }

@@ -10,9 +10,10 @@
         "Return the defective products to the original purchase location"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'Enter the store courtyard to complain directly to customer service'. The text states '<em>Le client mécontent entrera dans la cour du magasin pour se plaindre directement au service clientèle</em>' - The dissatisfied customer will enter the store courtyard to complain directly to customer service. 'Entrera' is the future tense of 'entrer' (to enter), and 'cour' means 'courtyard'.",
-    "difficulty": "B1",
+    "explanation": "The text states '<em>Le client mécontent entrera dans la cour du magasin pour se plaindre directement au service clientèle</em>' - The dissatisfied customer will enter the store courtyard to complain directly to customer service. 'Entrera' is the future tense of 'entrer' (to enter), and 'cour' means 'courtyard'.",
+    "difficulty": "B2",
     "source": "Strategic vocabulary development - customer service context",
     "tags": ["customer-service", "business", "complaints"],
-    "timeCreated": 1720820040
+    "timeCreated": 1720820040,
+    "verified": "claude"
 }

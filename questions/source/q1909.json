@@ -1,0 +1,22 @@
+{
+  "id": 1909,
+  "audioText": "Vous remerciez intimement votre copain pour son aide précieuse dans cette situation difficile.",
+  "question": "How do you thank your friend?",
+  "questionType": "comprehension",
+  "options": [
+    "You intimately thank your friend for his precious help in this difficult situation",
+    "You publicly thank your friend in front of everyone",
+    "You forget to thank your friend for anything",
+    "You criticize your friend for not helping enough"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous remerciez intimement votre copain pour son aide précieuse dans cette situation difficile</em>' - You intimately thank your friend for his precious help in this difficult situation. 'Remerciez' is second person plural present of 'remercier' (to thank), with missing adverb 'intimement' (intimately) and noun 'copain' (friend/buddy).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": [
+    "friendship",
+    "gratitude",
+    "support"
+  ],
+  "timeCreated": "2025-01-23T17:09:00Z"
+}

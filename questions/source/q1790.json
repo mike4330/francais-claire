@@ -1,19 +1,22 @@
 {
-    "id": 1790,
-    "audioText": "Un salaire égal pour tous suffisait à maintenir la paix sociale.",
-    "question": "What was sufficient to maintain social peace?",
-    "questionType": "comprehension",
-    "options": [
-        "Equal salary for everyone",
-        "Better working conditions",
-        "More vacation time",
-        "Flexible work schedules"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Un salaire égal pour tous suffisait à maintenir la paix sociale</em>' - An equal salary for everyone was sufficient to maintain social peace. The verb 'suffisait' is the imperfect of 'suffire', and 'égal' means equal.",
-    "difficulty": "B2",
-    "source": "Claude-generated",
-    "tags": ["workplace", "equality", "politics", "social-issues"],
-    "timeCreated": 1735952040,
-    "verified": "claude"
+  "id": 1790,
+  "audioText": "Tu embrasses aveuglément cette nouvelle toile artistique sans comprendre sa véritable signification culturelle.",
+  "question": "How does the person approach this new artwork?",
+  "questionType": "comprehension",
+  "options": [
+    "You blindly embrace this new artistic canvas without understanding its true cultural significance",
+    "You carefully study the artwork before making any judgment",
+    "You immediately reject the artwork without looking at it",
+    "You understand the cultural meaning perfectly from the start"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu embrasses aveuglément cette nouvelle toile artistique sans comprendre sa véritable signification culturelle</em>' - You blindly embrace this new artistic canvas without understanding its true cultural significance. 'Embrasses' is second person singular present of 'embrasser' (to embrace), with missing adverb 'aveuglément' (blindly) and noun 'toile' (canvas).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "art",
+    "culture",
+    "interpretation"
+  ],
+  "timeCreated": "2025-01-23T17:11:00Z"
 }

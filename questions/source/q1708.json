@@ -1,7 +1,7 @@
 {
   "id": 1708,
-  "audioText": "Inutilement, les pierres arrière dans ce mètre de fer manqueront politiquement d'intérêt pour le diable qui répondait bonnement aux questions sur votre oreille lors de cette chance curieuse.",
-  "question": "Inutilement, les pierres arrière dans ce mètre de fer ______ politiquement d'intérêt pour le diable qui répondait bonnement aux questions sur votre oreille lors de cette chance curieuse.",
+  "audioText": "Ces vieilles pierres manqueront d'intérêt pour les visiteurs du musée.",
+  "question": "Ces vieilles pierres ______ d'intérêt pour les visiteurs du musée.",
   "questionType": "fill-in-the-blank",
   "options": [
     "manqueront",
@@ -10,9 +10,10 @@
     "manquent"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Inutilement, les pierres arrière dans ce mètre de fer manqueront politiquement d'intérêt pour le diable qui répondait bonnement aux questions sur votre oreille lors de cette chance curieuse</em>' - Uselessly, the stones behind in this iron meter will politically lack interest for the devil who was kindly answering questions about your ear during this curious chance. This combines 'inutilement', 'pierres', 'arrière', 'mètre', 'fer', 'manqueront', 'politiquement', 'intérêt', 'diable', 'répondait', 'bonnement', 'oreille', 'chance', and 'curieuse'.",
-  "difficulty": "B2",
-  "source": "Strategic targeting - inutilement + pierres + arrière + mètre + fer + manqueront + politiquement + intérêt + diable + répondait + bonnement + oreille + chance + curieuse synergy + supernatural",
-  "tags": ["supernatural", "materials", "chance"],
-  "timeCreated": 1736806100
+  "explanation": "The text states '<em>Ces vieilles pierres manqueront d'intérêt pour les visiteurs du musée</em>' - These old stones will lack interest for the museum visitors. 'Manqueront' is the future tense third person plural of 'manquer' (to lack/miss). The sentence uses 'manquer de' meaning 'to lack'.",
+  "difficulty": "B1",
+  "source": "Museum visit context",
+  "tags": ["museum", "history", "stones"],
+  "timeCreated": 1736806100,
+  "verified": "claude"
 }

@@ -1,18 +1,19 @@
 {
   "id": 1686,
-  "audioText": "Dans cet avion amateur, bonnement nous servirai la moitié de notre sommeil aux passagers pratiques.",
-  "question": "What will we serve to practical passengers on this amateur airplane?",
+  "audioText": "Dans cet avion, nous servirons simplement la moitié de nos repas aux passagers pratiques.",
+  "question": "What will we serve to practical passengers on this airplane?",
   "questionType": "comprehension",
   "options": [
-    "Half of our sleep, quite simply",
+    "Half of our meals, quite simply",
     "Complete meal service with beverage options",
     "Entertainment programs and reading materials",
     "Safety instructions and emergency procedures"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Dans cet avion amateur, bonnement nous servirons la moitié de notre sommeil aux passagers pratiques</em>' - In this amateur airplane, quite simply we will serve half of our sleep to practical passengers. This combines 'avion', 'amateur', 'bonnement', 'servirai', 'moitié', 'sommeil', and 'pratiques'.",
+  "explanation": "The text states '<em>Dans cet avion, nous servirons simplement la moitié de nos repas aux passagers pratiques</em>' - On this airplane, we will simply serve half of our meals to practical passengers. 'Servirons' is the future tense of 'servir' (to serve).",
   "difficulty": "B1",
   "source": "Strategic targeting - avion + amateur + bonnement + servirai + moitié + sommeil + practicality synergy",
-  "tags": ["amateur", "practicality", "aviation-service"],
-  "timeCreated": 1736805080
+  "tags": ["aviation", "service", "meals"],
+  "timeCreated": 1736805080,
+  "verified": "claude"
 }

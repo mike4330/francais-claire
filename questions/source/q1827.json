@@ -1,17 +1,17 @@
 {
     "id": 1827,
     "audioText": "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
-    "question": "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
+    "question": "Qu'est-ce que vous avez entendu ?",
     "questionType": "listening",
     "options": [
-        "A pizza with chorizo and peppers",
-        "A Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce",
-        "A sandwich with smoked salmon and cucumber",
-        "A dessert with honey and nuts"
+        "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
+        "Au restaurant, j'ai commandé une salade César avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar.",
+        "Au restaurant, j'ai commandé une salade Cardini avec du poulet grillé, du parmesan, des croutôns et de la sauce caesar.",
+        "Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du fromage, des croutôns et de la sauce caesar."
     ],
-    "correct": 1,
-    "explanation": "The speaker ordered 'une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar' - a Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce. The distractors test confusion about the dish ordered.",
-    "difficulty": "B1",
+    "correct": 0,
+    "explanation": "The text states '<em>Au restaurant, j'ai commandé une salade Cardini avec du poulet croustillant, du parmesan, des croutôns et de la sauce caesar</em>' - At the restaurant, I ordered a Cardini salad with crispy chicken, parmesan, croutons, and caesar sauce. The distractors test precise listening for 'Cardini' vs 'César', 'croustillant' vs 'grillé', and 'parmesan' vs 'fromage'.",
+    "difficulty": "B2",
     "source": "Restaurant Menu",
     "tags": [
         "food",
@@ -20,5 +20,6 @@
         "menu"
     ],
     "timeCreated": 1720881353,
-    "parentQuestion": 1774
+    "parentQuestion": 1774,
+    "verified": "claude"
 }

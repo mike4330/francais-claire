@@ -11,8 +11,9 @@
     ],
     "correct": 0,
     "explanation": "The text states '<em>Le capitaine marcherait prudemment vers son bateau pour naviguer vers l'île tropicale lointaine avant la tempête.</em>' - The captain would walk prudently toward his boat to sail to the distant tropical island before the storm. 'Bateau' means boat, 'marcherait' is a form of 'marcher' (to walk), and 'prudemment' means prudently.",
-    "difficulty": "B1",
+    "difficulty": "B2",
     "source": "Strategic noun coverage development - maritime navigation",
     "tags": ["travel", "maritime", "navigation"],
-    "timeCreated": 1720829760
+    "timeCreated": 1720829760,
+    "verified": "claude"
 }

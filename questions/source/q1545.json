@@ -1,6 +1,6 @@
 {
     "id": 1545,
-    "audioText": "La grand-mère gardent soigneusement le thym et le romarin dans sa cuisine pour préparer ses plats traditionnels.",
+    "audioText": "La grand-mère garde soigneusement le thym et le romarin dans sa cuisine pour préparer ses plats traditionnels.",
     "question": "What does grandmother carefully keep in her kitchen to prepare traditional dishes?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Old family recipes written in French"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>La grand-mère gardent soigneusement le thym et le romarin dans sa cuisine pour préparer ses plats traditionnels.</em>' - Grandmother carefully keeps thyme and rosemary in her kitchen to prepare her traditional dishes. 'Thym' means thyme, 'romarin' means rosemary, and 'gardent' is a form of 'garder' (to keep).",
+    "explanation": "The text states '<em>La grand-mère garde soigneusement le thym et le romarin dans sa cuisine pour préparer ses plats traditionnels.</em>' - Grandmother carefully keeps thyme and rosemary in her kitchen to prepare her traditional dishes. 'Thym' means thyme, 'romarin' means rosemary, and 'garde' is the third-person singular form of 'garder' (to keep).",
     "difficulty": "B1",
     "source": "Strategic spice vocabulary development - traditional cooking",
     "tags": ["cooking", "family", "spices"],
-    "timeCreated": 1720827480
+    "timeCreated": 1720827480,
+    "verified": "claude"
 }

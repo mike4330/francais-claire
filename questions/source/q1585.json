@@ -1,6 +1,6 @@
 {
     "id": 1585,
-    "audioText": "La dame élégante porterai gracieusement sa robe verte pour le dîner de gala au château historique.",
+    "audioText": "La dame élégante portera gracieusement sa robe verte pour le dîner de gala au château historique.",
     "question": "What will the elegant lady gracefully wear for the gala dinner at the historic castle?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Modern designer shoes for sophisticated evening events"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>La dame élégante porterai gracieusement sa robe verte pour le dîner de gala au château historique.</em>' - The elegant lady will gracefully wear her green dress for the gala dinner at the historic castle. 'Dame' means lady, 'porterai' is a form of 'porter' (to wear), and 'gracieusement' means gracefully.",
+    "explanation": "The text states '<em>La dame élégante portera gracieusement sa robe verte pour le dîner de gala au château historique</em>' - The elegant lady will gracefully wear her green dress for the gala dinner at the historic castle. 'Dame' means lady, 'portera' is the future tense third person singular of 'porter' (to wear), and 'gracieusement' means gracefully.",
     "difficulty": "A2",
     "source": "Strategic noun coverage development - formal evening attire",
     "tags": ["formal-events", "fashion", "elegance"],
-    "timeCreated": 1720831300
+    "timeCreated": 1720831300,
+  "verified": "claude"
 }

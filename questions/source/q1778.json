@@ -10,7 +10,7 @@
     "A chicken dish with a fragrant mustard sauce"
   ],
   "correct": 0,
-  "explanation": "The speaker ate 'une poêlée de seiche avec du gingembre, du piment doux et de la persillade' - a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, described as very tasty.",
+  "explanation": "The text states '<em>Hier soir, j'ai dégusté une poêlée de seiche avec du gingembre, du piment doux et de la persillade, un plat vraiment savoureux</em>' - Last night, I tasted a pan-fried cuttlefish dish with ginger, mild chili, and garlic parsley sauce, a really tasty dish. 'Dégusté' means tasted/enjoyed, 'seiche' is cuttlefish, and 'savoureux' means tasty/flavorful.",
   "difficulty": "B2",
   "source": "Dinner Menu",
   "tags": [
@@ -18,5 +18,7 @@
     "dinner",
     "seafood",
     "menu"
-  ]
+  ],
+  "timeCreated": 1720831200,
+  "verified": "claude"
 }

@@ -10,9 +10,10 @@
         "She returned exhausted but satisfied with her accomplishments"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>elle rentra très tard du travail avec une impression horrible que quelque chose de stupide s'était passé</em>' - she returned very late from work with a horrible impression that something stupid had happened. The verb 'rentra' (past historic of 'rentrer') indicates she returned home.",
-    "difficulty": "B2",
+    "explanation": "The text states '<em>Hier soir, elle rentra très tard du travail avec une impression horrible que quelque chose de stupide s'était passé au bureau</em>' - Last night, she returned very late from work with a horrible impression that something stupid had happened at the office. The verb 'rentra' (past historic of 'rentrer') indicates she returned home.",
+    "difficulty": "B1",
     "source": "Strategic question targeting missing conjugate 'rentra' with synergistic vocabulary",
     "tags": ["workplace", "evening", "worry"],
-    "timeCreated": 1720656480
+    "timeCreated": 1720656480,
+    "verified": "claude"
 }

@@ -1,16 +1,16 @@
 {
   "id": 1424,
-  "audioText": "Le tournevis clair reste pareil à la scie drôle.",
+  "audioText": "Le tournevis neuf fonctionne bien pour ce travail.",
   "question": "Qu'est-ce que vous avez entendu ?",
   "questionType": "listening",
   "options": [
-    "Le tournevis clair reste pareil à la scie drôle.",
-    "Le tournevis clair reste pareil à la soie drôle.",
-    "Le tournevis claire reste pareil à la scie drôle.",
-    "Le tournevis clair reste pareille à la scie drôle."
+    "Le tournevis neuf fonctionne bien pour ce travail.",
+    "Le tournevis neuve fonctionne bien pour ce travail.",
+    "Le tournevis neuf fonctionne bien pour se travail.",
+    "Le tournevis neuf fonctionne bien pour ce travaille."
   ],
   "correct": 0,
-  "explanation": "The correct option is 'Le tournevis clair reste pareil à la scie drôle.' - The clear screwdriver remains the same as the funny saw. This listening exercise tests recognition of homophones ('scie' vs 'soie') and adjective agreement ('clair' masculine vs 'claire' feminine, 'pareil' vs 'pareille').",
+  "explanation": "The correct option is 'Le tournevis neuf fonctionne bien pour ce travail.' - The new screwdriver works well for this job. This listening exercise tests adjective agreement ('neuf' masculine vs 'neuve' feminine) and proper spelling of 'ce' vs 'se' and 'travail' vs 'travaille'.",
   "difficulty": "B1",
   "source": "Strategic tool targeting",
   "tags": [
@@ -19,5 +19,6 @@
     "construction"
   ],
   "parentQuestion": 296,
-  "timeCreated": 1720826280
+  "timeCreated": 1720826280,
+  "verified": "claude"
 }
