@@ -1,0 +1,23 @@
+{
+  "id": 2772,
+  "audioText": "Quand tu partes là, dans l'immense toile du web, n'oublie pas que chaque action est sous l'œil vigilant des algorithmes. Ce n'est pas toujours un chemin blanc et sans embûches, car la culture internet, avec ses pièges et ses merveilles, exige une prudence constante. Ce qui est mis en ligne reste là pour toujours, façonnant ta réputation numérique.",
+  "question": "What is the main message about online presence and internet culture?",
+  "questionType": "listening",
+  "options": [
+    "Online actions are permanent and require constant vigilance.",
+    "The internet is a safe and easy place for everyone.",
+    "Algorithms are not concerned with individual online behavior.",
+    "Online reputation is easily changed and forgotten."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Quand tu partes là, dans l'immense toile du web, n'oublie pas que chaque action est sous l'œil vigilant des algorithmes. Ce n'est pas toujours un chemin blanc et sans embûches, car la culture internet, avec ses pièges et ses merveilles, exige une prudence constante. Ce qui est mis en ligne reste là pour toujours, façonnant ta réputation numérique.</em>' - When you go there, into the immense web, don't forget that every action is under the vigilant eye of algorithms. It's not always a smooth and obstacle-free path, because internet culture, with its traps and wonders, requires constant prudence. What is put online remains there forever, shaping your digital reputation. Key concepts include 'reste là pour toujours' (remains there forever) and 'exige une prudence constante' (requires constant vigilance).",
+  "difficulty": "C1",
+  "source": "Gemini CLI",
+  "tags": [
+    "internet-culture",
+    "technology",
+    "digital-literacy"
+  ],
+  "timeCreated": 1720176000,
+  "verified": "claude"
+}

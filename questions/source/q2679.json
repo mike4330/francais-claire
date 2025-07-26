@@ -1,23 +1,23 @@
 {
   "id": 2679,
-  "audioText": "Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle.",
-  "question": "Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle.",
-  "questionType": "listening",
+  "audioText": "C'est-à-dire que nous devons complètement repenser notre stratégie commerciale.",
+  "question": "What does this mean according to the speaker?",
+  "questionType": "comprehension",
   "options": [
-    "A precise movement to recognize real problems affecting the professional team indefinitely",
-    "A quick solution to solve temporary difficulties",
-    "A simple discussion about workplace policies",
-    "A complete reorganization of the department"
+    "They need to completely rethink their business strategy",
+    "They should hire more sales representatives",
+    "They must increase their marketing budget",
+    "They need to change their office location"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle.</em>' - 'This serious situation requires a precise movement to recognize real problems that indefinitely affect the professional team.' The adjective 'grave' means serious/grave, and 'indéfiniment' means indefinitely. The distractors test confusion about the solution (quick solution, simple discussion, reorganization).",
-  "difficulty": "C1",
-  "source": "Strategic adjective targeting",
+  "explanation": "The text states '<em>C'est-à-dire que nous devons complètement repenser notre stratégie commerciale</em>' - That is to say that we must completely rethink our business strategy. 'C'est-à-dire' means 'that is to say' or 'in other words'.",
+  "difficulty": "B2",
+  "source": "Strategic vocabulary targeting",
   "tags": [
-    "workplace",
-    "movement",
-    "recognition"
+    "business",
+    "strategy",
+    "explanation"
   ],
-  "timeCreated": 1720881353,
-  "parentQuestion": 1016
+  "timeCreated": 1704413520,
+  "verified": "claude"
 }

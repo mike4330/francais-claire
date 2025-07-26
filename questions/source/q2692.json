@@ -1,23 +1,23 @@
 {
   "id": 2692,
-  "audioText": "Le ciel nocturne révélait visiblement des constellations extraordinaires qui semblaient actuellement défier toute compréhension astronomique conventionnelle et établie.",
-  "question": "What did the night sky reveal that challenged understanding?",
-  "questionType": "comprehension",
+  "audioText": "Il a tenu sa promesse de réformer le système éducatif malgré les oppositions.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
   "options": [
-    "Extraordinary constellations defying conventional astronomy",
-    "Completely normal and predictable star patterns",
-    "Simple cloud formations blocking the view",
-    "Ordinary planets in their expected positions"
+    "Il a tenu sa promesse de réformer le système éducatif malgré les oppositions.",
+    "Il a tendu sa promesse de réformer le système éducatif malgré les oppositions.",
+    "Il a tenu sa promesse de réformer le système éducatif grâce aux oppositions.",
+    "Il a tenu ses promesses de réformer le système éducatif malgré les oppositions."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Le ciel nocturne révélait visiblement des constellations extraordinaires qui semblaient actuellement défier toute compréhension astronomique conventionnelle</em>' - The night sky visibly revealed extraordinary constellations that currently seemed to defy all conventional astronomical understanding. 'Ciel' means sky, 'visiblement' means visibly/obviously, and 'actuellement' means currently/presently.",
-  "difficulty": "C1",
-  "source": "Astronomical observation and scientific discovery",
+  "explanation": "The text states '<em>Il a tenu sa promesse de réformer le système éducatif malgré les oppositions</em>' - He kept his promise to reform the education system despite opposition. 'Tenu' is the past participle of 'tenir' (to hold/keep), and the distractors test similar sounds ('tendu'), preposition confusion ('grâce aux'), and number agreement ('ses promesses').",
+  "difficulty": "B2",
+  "source": "Political analysis",
   "tags": [
-    "astronomy",
-    "science",
-    "discovery",
-    "observation"
+    "politics",
+    "education",
+    "promises"
   ],
-  "timeCreated": 1751812440
+  "timeCreated": 1704414780,
+  "verified": "claude"
 }

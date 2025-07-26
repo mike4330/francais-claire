@@ -1,0 +1,23 @@
+{
+  "id": 2791,
+  "audioText": "Sans doute aucun, les réseaux sociaux transforment violemment notre façon de communiquer. Dans ce cas précis, l'ami virtuel remplace littéralement le visage humain. Cette raison profonde explique pourquoi notre terre numérique devient si impersonnelle.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Les réseaux sociaux transforment violemment notre façon de communiquer.",
+    "Les réseaux sociaux transforment violemment notre façon de travailler.",
+    "Les réseaux sociaux transforment rapidement notre façon de communiquer.",
+    "Les réseaux sociaux transforment violemment notre façon de voyager."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sans doute aucun, les réseaux sociaux transforment violemment notre façon de communiquer. Dans ce cas précis, l'ami virtuel remplace littéralement le visage humain. Cette raison profonde explique pourquoi notre terre numérique devient si impersonnelle.</em>' - 'Without any doubt, social networks violently transform our way of communicating. In this specific case, the virtual friend literally replaces the human face. This profound reason explains why our digital world becomes so impersonal.' The correct answer captures the exact phrase about social networks transforming our way of communicating 'violemment' (violently).",
+  "difficulty": "C2",
+  "source": "Strategic noun targeting",
+  "tags": [
+    "social-media",
+    "technology",
+    "communication",
+    "social-commentary"
+  ],
+  "timeCreated": 1720713600
+}

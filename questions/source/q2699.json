@@ -1,23 +1,23 @@
 {
   "id": 2699,
-  "audioText": "Cette terre ancestrale avait terriblement souffert des politiques agricoles inadéquates qui avaient machinalement détruit l'équilibre écologique millénaire de cette région.",
-  "question": "What had terribly damaged the ancestral land?",
+  "audioText": "Elle sortira de la maison très tôt demain matin pour commencer sa routine d'exercice.",
+  "question": "When will she leave the house tomorrow?",
   "questionType": "comprehension",
   "options": [
-    "Inadequate agricultural policies that mechanically destroyed ecological balance",
-    "Natural disasters and climate change effects",
-    "Urban development and construction projects",
-    "Tourist activities and recreational use"
+    "Very early in the morning to start her exercise routine",
+    "Late in the evening after finishing work",
+    "In the afternoon for a shopping trip",
+    "Around noon for a lunch meeting"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette terre ancestrale avait terriblement souffert des politiques agricoles inadéquates qui avaient machinalement détruit l'équilibre écologique</em>' - This ancestral land had terribly suffered from inadequate agricultural policies that had mechanically destroyed the ecological balance. 'Terre' means land/earth, 'terriblement' means terribly, and 'machinalement' means mechanically/automatically.",
-  "difficulty": "C1",
-  "source": "Environmental damage from poor agricultural policy",
+  "explanation": "The text states '<em>Elle sortira de la maison très tôt demain matin pour commencer sa routine d'exercice</em>' - She will leave the house very early tomorrow morning to start her exercise routine. 'Sortira' is the third person singular future form of 'sortir' (to go out/leave).",
+  "difficulty": "B1",
+  "source": "Daily routine",
   "tags": [
-    "environment",
-    "agriculture",
-    "policy",
-    "ecology"
+    "morning-routine",
+    "exercise",
+    "early"
   ],
-  "timeCreated": 1751813400
+  "timeCreated": 1720132800,
+  "verified": "claude"
 }

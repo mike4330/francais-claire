@@ -1,0 +1,23 @@
+{
+  "id": 2802,
+  "audioText": "Dans la gastronomie moderne, quoi de plus vrai que cette réalité : le premier chef utilise de beaux ingrédients. Les vieux restaurants aux gros budgets rendent les pauvres clients heureux grâce à des plats justes et authentiques.",
+  "question": "What makes poor clients happy in modern gastronomy?",
+  "questionType": "comprehension",
+  "options": [
+    "Expensive and complex molecular techniques",
+    "Just and authentic dishes using beautiful ingredients",
+    "Large portions served in luxury settings",
+    "Celebrity chef endorsements and media attention"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Dans la gastronomie moderne, quoi de plus vrai que cette réalité : le premier chef utilise de beaux ingrédients. Les vieux restaurants aux gros budgets rendent les pauvres clients heureux grâce à des plats justes et authentiques.</em>' - 'In modern gastronomy, what is truer than this reality: the first chef uses beautiful ingredients. Old restaurants with big budgets make poor clients happy thanks to just and authentic dishes.' The text clearly states that just and authentic dishes using beautiful ingredients make clients happy.",
+  "difficulty": "C1",
+  "source": "Strategic adjective-tag intersection",
+  "tags": [
+    "gastronomy",
+    "gratitude",
+    "authenticity",
+    "satisfaction"
+  ],
+  "timeCreated": 1720713600
+}

@@ -1,23 +1,23 @@
 {
   "id": 2675,
-  "audioText": "Cette nouvelle technologie permettra aux entreprises de réduire leurs coûts énergétiques tout en améliorant leur efficacité opérationnelle.",
-  "question": "What will this new technology allow companies to do?",
+  "audioText": "Tiens! Je ne savais pas que tu étais déjà arrivé.",
+  "question": "What does the speaker express?",
   "questionType": "comprehension",
   "options": [
-    "Reduce energy costs while improving operational efficiency",
-    "Increase their market share through aggressive marketing",
-    "Replace all human workers with automated systems",
-    "Eliminate all environmental regulations completely"
+    "Surprise at seeing the person already arrived",
+    "Disappointment that they are late",
+    "Anger about the timing",
+    "Confusion about the location"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette nouvelle technologie permettra aux entreprises de réduire leurs coûts énergétiques tout en améliorant leur efficacité opérationnelle</em>' - This new technology will allow companies to reduce their energy costs while improving their operational efficiency. 'Permettra' is the future form of 'permettre' (to allow).",
-  "difficulty": "C1",
-  "source": "Business technology",
+  "explanation": "The text states '<em>Tiens! Je ne savais pas que tu étais déjà arrivé</em>' - Well! I didn't know you had already arrived. 'Tiens!' is an exclamation expressing surprise or mild astonishment.",
+  "difficulty": "B2",
+  "source": "Casual conversation",
   "tags": [
-    "business",
-    "technology",
-    "efficiency"
+    "daily-life",
+    "surprise",
+    "conversation"
   ],
-  "timeCreated": 1736806340,
+  "timeCreated": 1704413280,
   "verified": "claude"
 }

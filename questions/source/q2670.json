@@ -1,22 +1,23 @@
 {
   "id": 2670,
-  "audioText": "Pêle-mêle, ces occasions manquent invariablement car ce colonel russe importe résolument que nous emmènerai ces enfants honnête dans l'appartement vaste pour qu'ils raconterai leurs expériences intéressant de la beauté spécial.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "D'abord, nous devons analyser le problème, puis proposer des solutions concrètes.",
+  "question": "What should they do first according to the speaker?",
+  "questionType": "comprehension",
   "options": [
-    "Pêle-mêle, ces occasions manquent invariablement car ce colonel russe importe résolument que nous emmènerai ces enfants honnête dans l'appartement vaste pour qu'ils raconterai leurs expériences intéressant de la beauté spécial.",
-    "Pêle-mêle, ces occasions manquent invariablement car ce colonel russe importe résolument que nous emmenions ces enfants honnêtes dans l'appartement vaste pour qu'ils racontent leurs expériences intéressantes de la beauté spéciale.",
-    "Pêle-mêle, ces occasions manquent invariablement car ce colonel russe importe résolument que nous emmènerai ces enfants honnête dans l'appartement vaste pour qu'ils racontaient leurs expériences intéressant de la beauté spécial.",
-    "Pêle-mêle, ces occasions manquent invariablement car ce colonel russe importe résolument que nous emmènerions ces enfants honnête dans l'appartement vaste pour qu'ils raconterai leurs expériences intéressant de la beauté spécial."
+    "Analyze the problem",
+    "Propose concrete solutions",
+    "Discuss with colleagues",
+    "Implement immediate changes"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Pêle-mêle, ces occasions manquent invariablement car ce colonel russe importe résolument que nous emmenions ces enfants honnêtes dans l'appartement vaste pour qu'ils racontent leurs expériences intéressantes de la beauté spéciale</em>' - Helter-skelter, these opportunities invariably lack because this Russian colonel resolutely matters that we take these honest children to the vast apartment so they tell their interesting experiences of special beauty. This tests complex subjunctive and agreement patterns.",
-  "difficulty": "C1",
-  "source": "Strategic targeting - pêle-mêle + manquent + invariablement + colonel + russe + importe + résolument + emmènerai + honnête + appartement + vaste + raconterai + intéressant + beauté + spécial synergy + storytelling",
+  "explanation": "The text states '<em>D'abord, nous devons analyser le problème, puis proposer des solutions concrètes</em>' - First, we must analyze the problem, then propose concrete solutions. 'D'abord' means 'first' or 'firstly' and indicates the initial step in a sequence.",
+  "difficulty": "B2",
+  "source": "Business meeting",
   "tags": [
-    "storytelling",
-    "military",
-    "apartments"
+    "workplace",
+    "business",
+    "problem-solving"
   ],
-  "timeCreated": 1736805920
+  "timeCreated": 1704412980,
+  "verified": "claude"
 }

@@ -1,26 +1,23 @@
 {
   "id": 2702,
-  "audioText": "Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme. Cette œuvre révèle comment les représentations littéraires occidentales ont façonné notre compréhension de l'Autre et perpétué des hiérarchies culturelles héritées de l'empire colonial.",
-  "question": "What literary approach is the speaker taking and what do they expect to find?",
+  "audioText": "Si tu continues à cuisiner de la sorte, je te jure que je ne répondrai plus de mes actes et je t'aiderai sans hésitation. C'est une promesse sérieuse.",
+  "question": "What is the speaker promising to do?",
   "questionType": "comprehension",
   "options": [
-    "A postcolonial analysis that will reveal echoes of Said's orientalism theories and show how Western representations shaped understanding of the Other",
-    "A feminist literary critique examining how women authors challenged colonial narratives",
-    "A structuralist approach that will uncover hidden meanings in colonial-era texts",
-    "A biographical study of Edward Said's influence on contemporary Middle Eastern writers"
+    "Leave the kitchen",
+    "Call a restaurant",
+    "Help the other person",
+    "Start cooking alone"
   ],
-  "correct": 0,
-  "explanation": "The speaker says 'Dans cette analyse postcoloniale, je trouverai certainement des échos aux théories de Said sur l'orientalisme' - in this postcolonial analysis, I will certainly find echoes of Said's theories on orientalism. They expect to reveal how Western literary representations shaped understanding of the Other and perpetuated cultural hierarchies inherited from the colonial empire.",
-  "difficulty": "C1",
-  "source": "Literary Criticism",
+  "correct": 2,
+  "explanation": "The text states '<em>Si tu continues à cuisiner de la sorte, je te jure que je ne répondrai plus de mes actes et je t'aiderai sans hésitation</em>' - If you continue cooking like that, I swear I won't be responsible for my actions and I'll help you without hesitation. The phrase 'je t'aiderai' means 'I will help you'.",
+  "difficulty": "B2",
+  "source": "Positive content revision",
   "tags": [
-    "literature",
-    "postcolonialism",
-    "orientalism",
-    "literary-theory",
-    "cultural-analysis",
-    "edward-said"
+    "cooking",
+    "friendship",
+    "collaboration"
   ],
-  "timeCreated": 1720024920,
+  "timeCreated": 1720181341,
   "verified": "claude"
 }

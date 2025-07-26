@@ -1,0 +1,26 @@
+{
+  "id": 2773,
+  "audioText": "Les déléguées diplomatiques, arrivées hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
+  "question": "Les déléguées diplomatiques, ______ hier soir de Genève, entameront aujourd'hui des négociations cruciales sur la désescalade géopolitique dans la région balkanique, marquant un tournant potentiel dans les relations internationales contemporaines.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "arrivées",
+    "arrivée",
+    "arrivés",
+    "arrivé"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'arrivées' - the feminine plural past participle agreeing with 'les déléguées diplomatiques' (the female diplomatic delegates). The past participle must agree in gender and number with the subject when used with être or in absolute constructions.",
+  "difficulty": "C2",
+  "source": "High-level diplomatic summit coverage",
+  "tags": [
+    "diplomacy",
+    "negotiations",
+    "geopolitics",
+    "international-relations",
+    "balkans",
+    "geneva",
+    "summit",
+    "politics"
+  ]
+}

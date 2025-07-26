@@ -1,23 +1,23 @@
 {
   "id": 2694,
-  "audioText": "Cette analyse révèle des contradictions internes majeures, voire des incohérences fondamentales qui remettent en question l'intégrité méthodologique de l'ensemble de la recherche scientifique.",
-  "question": "What does the analysis reveal about the research?",
-  "questionType": "comprehension",
+  "audioText": "Ma grand-mère vivait seule dans sa maison de campagne avant de déménager en ville.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
   "options": [
-    "Major internal contradictions and even fundamental inconsistencies",
-    "Perfect methodological coherence throughout",
-    "Minor technical errors easily correctable",
-    "Excellent scientific rigor and reliability"
+    "Ma grand-mère vivait seule dans sa maison de campagne avant de déménager en ville.",
+    "Ma grand-mère vivait seule dans sa maison de campagne avant de déménager en banlieue.",
+    "Ma grand-mère vivait seule dans son appartement de campagne avant de déménager en ville.",
+    "Ma grand-mère vit seule dans sa maison de campagne avant de déménager en ville."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette analyse révèle des contradictions internes majeures, voire des incohérences fondamentales qui remettent en question l'intégrité méthodologique</em>' - This analysis reveals major internal contradictions, even fundamental inconsistencies that call into question the methodological integrity. 'Voire' means even/indeed, emphasizing that the problems are severe.",
-  "difficulty": "C1",
-  "source": "Scientific research methodology and integrity assessment",
+  "explanation": "The text states '<em>Ma grand-mère vivait seule dans sa maison de campagne avant de déménager en ville</em>' - My grandmother lived alone in her country house before moving to the city. 'Vivait' is the imperfect tense of 'vivre' (to live), indicating a past habitual state. The distractors test location ('banlieue'), dwelling type ('appartement'), and tense confusion (present 'vit').",
+  "difficulty": "B1",
+  "source": "Family history",
   "tags": [
-    "science",
-    "research",
-    "methodology",
-    "analysis"
+    "family",
+    "housing",
+    "countryside"
   ],
-  "timeCreated": 1751812920
+  "timeCreated": 1704415140,
+  "verified": "claude"
 }

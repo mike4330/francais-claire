@@ -1,22 +1,25 @@
 {
   "id": 2665,
-  "audioText": "En cherchant directement dans la base de données, les ingénieurs ont identifié la cause des pannes régulières du tunnel ferroviaire.",
-  "question": "How did the engineers identify the cause of the railway tunnel problems?",
+  "audioText": "Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit.",
+  "question": "What did the grandmother do every Sunday afternoon?",
   "questionType": "comprehension",
   "options": [
-    "By searching indirectly through reports",
-    "By searching directly in the database",
-    "By asking other engineers",
-    "By conducting field inspections"
+    "She played the piano",
+    "She cooked traditional meals",
+    "She read stories aloud",
+    "She worked in her garden"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>En cherchant directement dans la base de données</em>' - By searching directly in the database. The present participle 'cherchant' means searching, and the adverb 'directement' emphasizes the direct approach to problem-solving.",
-  "difficulty": "C1",
-  "source": "Railway engineering and technical troubleshooting",
+  "correct": 0,
+  "explanation": "The text states '<em>Ma grand-mère jouait du piano tous les dimanches après-midi quand j'étais petit</em>' - My grandmother played the piano every Sunday afternoon when I was little. 'Jouait' is the imperfect form of 'jouer' (to play), describing a past habit with the temporal clause repositioned.",
+  "difficulty": "B2",
+  "source": "Childhood music memories",
   "tags": [
-    "technology",
-    "tunnel",
-    "engineering"
+    "childhood",
+    "family",
+    "music",
+    "piano",
+    "memories"
   ],
-  "timeCreated": 1751776003
+  "timeCreated": 1736068600,
+  "verified": "claude"
 }

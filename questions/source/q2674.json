@@ -1,23 +1,23 @@
 {
   "id": 2674,
-  "audioText": "Selon les experts, cette stratégie marketing augmentera considérablement les ventes dans les prochains mois.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "Il rentre toujours tard du bureau, vers vingt heures.",
+  "question": "When does he come home from the office?",
+  "questionType": "comprehension",
   "options": [
-    "Selon les experts, cette stratégie marketing augmentera considérablement les ventes dans les prochains mois.",
-    "Selon les experts, cette stratégie marketing augmentait considérablement les ventes dans les prochains mois.",
-    "Selon les experts, cette stratégie marketing augmenterait considérablement les ventes dans les prochains mois.",
-    "Selon les experts, cette stratégie marketing augmente considérablement les ventes dans les prochains mois."
+    "Always late, around 8 PM",
+    "Early in the evening",
+    "At lunchtime",
+    "Very early in the morning"
   ],
   "correct": 0,
-  "explanation": "The correct answer is '<em>Selon les experts, cette stratégie marketing augmentera considérablement les ventes dans les prochains mois</em>' - According to experts, this marketing strategy will considerably increase sales in the coming months. 'Augmentera' is the future form of 'augmenter' (to increase).",
-  "difficulty": "C1",
-  "source": "Marketing strategy",
+  "explanation": "The text states '<em>Il rentre toujours tard du bureau, vers vingt heures</em>' - He always comes home late from the office, around 8 PM. 'Rentre' (from 'rentrer') means to return home.",
+  "difficulty": "B1",
+  "source": "Daily routine",
   "tags": [
-    "business",
-    "marketing",
-    "sales"
+    "daily-life",
+    "workplace",
+    "time"
   ],
-  "timeCreated": 1736806320,
+  "timeCreated": 1704413220,
   "verified": "claude"
 }

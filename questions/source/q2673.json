@@ -1,23 +1,23 @@
 {
   "id": 2673,
-  "audioText": "La préservation de la biodiversité nécessite une collaboration internationale étroite entre les scientifiques, les gouvernements et les organisations environnementales.",
-  "question": "What does biodiversity preservation require between scientists, governments, and environmental organizations?",
+  "audioText": "Cette chemise bleu marine va parfaitement avec ton pantalon gris.",
+  "question": "What color is the shirt?",
   "questionType": "comprehension",
   "options": [
-    "Close international collaboration",
-    "Complete independence from each other",
-    "Minimal communication and coordination",
-    "Exclusive focus on national interests only"
+    "Navy blue",
+    "Light blue",
+    "Dark gray",
+    "Pure white"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>La préservation de la biodiversité nécessite une collaboration internationale étroite entre les scientifiques, les gouvernements et les organisations environnementales</em>' - Biodiversity preservation requires close international collaboration between scientists, governments, and environmental organizations. 'Nécessite' means requires or necessitates.",
-  "difficulty": "C1",
-  "source": "Environmental conservation",
+  "explanation": "The text states '<em>Cette chemise bleu marine va parfaitement avec ton pantalon gris</em>' - This navy blue shirt goes perfectly with your gray pants. 'Bleu marine' specifically means 'navy blue', a dark shade of blue commonly used in clothing.",
+  "difficulty": "B1",
+  "source": "Fashion advice",
   "tags": [
-    "environment",
-    "conservation",
-    "international"
+    "clothing",
+    "colors",
+    "daily-life"
   ],
-  "timeCreated": 1736806140,
+  "timeCreated": 1704413160,
   "verified": "claude"
 }

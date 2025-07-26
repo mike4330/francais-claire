@@ -1,23 +1,23 @@
 {
   "id": 2684,
-  "audioText": "Les chercheurs ont développé une approche innovante pour résoudre les problèmes complexes liés au changement climatique.",
-  "question": "What have researchers developed to address complex climate change issues?",
+  "audioText": "Ce rapport riche en données révèle précisément les causes de la crise financière.",
+  "question": "What does the data-rich report reveal?",
   "questionType": "comprehension",
   "options": [
-    "An innovative approach to solve complex problems related to climate change",
-    "A traditional method to ignore environmental concerns completely",
-    "A simple solution that requires no international cooperation",
-    "A temporary fix that only addresses surface-level issues"
+    "Precisely the causes of the financial crisis",
+    "General trends in the global economy",
+    "Potential solutions for future problems",
+    "Historical patterns of market behavior"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les chercheurs ont développé une approche innovante pour résoudre les problèmes complexes liés au changement climatique</em>' - Researchers have developed an innovative approach to solve complex problems related to climate change. 'Ont développé' is the past tense of 'développer' (to develop).",
-  "difficulty": "C1",
-  "source": "Environmental research",
+  "explanation": "The text states '<em>Ce rapport riche en données révèle précisément les causes de la crise financière</em>' - This data-rich report precisely reveals the causes of the financial crisis. 'Riche' means rich/abundant, and 'précisément' means precisely or exactly.",
+  "difficulty": "B2",
+  "source": "Financial analysis",
   "tags": [
-    "environment",
-    "research",
-    "climate"
+    "business",
+    "economics",
+    "analysis"
   ],
-  "timeCreated": 1736806800,
+  "timeCreated": 1704413820,
   "verified": "claude"
 }

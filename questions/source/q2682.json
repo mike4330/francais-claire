@@ -1,23 +1,23 @@
 {
   "id": 2682,
-  "audioText": "Les négociations diplomatiques exigent une compréhension nuancée des enjeux culturels et géopolitiques pour parvenir à des accords durables.",
-  "question": "What do diplomatic negotiations require to achieve lasting agreements?",
+  "audioText": "Le gouvernement tient absolument à maintenir sa position sur cette réforme controversée.",
+  "question": "What is the government's stance on the controversial reform?",
   "questionType": "comprehension",
   "options": [
-    "A nuanced understanding of cultural and geopolitical issues",
-    "A simple approach that ignores cultural differences completely",
-    "A focus solely on economic benefits for all parties",
-    "A rapid decision-making process without careful consideration"
+    "It is absolutely determined to maintain its position",
+    "It is considering changing its approach",
+    "It wants to abandon the reform completely",
+    "It is seeking public opinion before deciding"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les négociations diplomatiques exigent une compréhension nuancée des enjeux culturels et géopolitiques pour parvenir à des accords durables</em>' - Diplomatic negotiations require a nuanced understanding of cultural and geopolitical issues to achieve lasting agreements. 'Exigent' means require or demand.",
-  "difficulty": "C1",
-  "source": "International relations",
+  "explanation": "The text states '<em>Le gouvernement tient absolument à maintenir sa position sur cette réforme controversée</em>' - The government is absolutely determined to maintain its position on this controversial reform. 'Tient à' means to be determined to or insist on something.",
+  "difficulty": "B2",
+  "source": "Political news",
   "tags": [
-    "diplomacy",
     "politics",
-    "international"
+    "government",
+    "reform"
   ],
-  "timeCreated": 1736806640,
+  "timeCreated": 1704413640,
   "verified": "claude"
 }

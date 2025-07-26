@@ -1,22 +1,23 @@
 {
   "id": 2668,
-  "audioText": "Les techniciens médicaux d'urgence attendaient auparavant une véritable formation spécialisée pour traiter les traumatismes oculaires, car chaque oeil nécessite une approche particulièrement délicate et précise.",
-  "question": "What were the emergency medical technicians waiting for previously?",
+  "audioText": "Aujourd'hui, je dois prendre une décision importante concernant mon avenir professionnel.",
+  "question": "When does the speaker need to make an important decision?",
   "questionType": "comprehension",
   "options": [
-    "Specialized training for eye trauma treatment",
-    "New medical equipment delivery",
-    "Government funding approval",
-    "Hospital administration clearance"
+    "Today",
+    "Tomorrow",
+    "Next week",
+    "Eventually"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les techniciens médicaux d'urgence attendaient auparavant une véritable formation spécialisée pour traiter les traumatismes oculaires</em>' - The emergency medical technicians were previously waiting for genuine specialized training to treat eye trauma. 'Attendaient' is imperfect of attendre (to wait), 'auparavant' means previously/beforehand, 'véritable' means genuine/true, and 'oeil' means eye.",
-  "difficulty": "C1",
-  "source": "Advanced emergency medical training and ocular trauma protocols",
+  "explanation": "The text states '<em>Aujourd'hui, je dois prendre une décision importante concernant mon avenir professionnel</em>' - Today, I must make an important decision concerning my professional future. 'Aujourd'hui' means 'today'.",
+  "difficulty": "B1",
+  "source": "Career discussion",
   "tags": [
-    "first-aid",
-    "medical-training",
-    "eye-trauma"
+    "workplace",
+    "decision-making",
+    "future"
   ],
-  "timeCreated": 1751788520
+  "timeCreated": 1704412860,
+  "verified": "claude"
 }

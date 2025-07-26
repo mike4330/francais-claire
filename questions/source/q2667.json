@@ -1,22 +1,23 @@
 {
   "id": 2667,
-  "audioText": "Nous tenons à cet instant de réflexion profonde, personnellement essentiel pour notre développement intellectuel.",
-  "question": "How do the speakers view this moment of deep reflection?",
+  "audioText": "Les experts pensent que cette nouvelle technologie révolutionnera peut-être complètement notre façon de travailler.",
+  "question": "What do the experts think about the new technology?",
   "questionType": "comprehension",
   "options": [
-    "As professionally required",
-    "As personally essential",
-    "As socially expected",
-    "As academically mandated"
+    "It might completely revolutionize how we work",
+    "It will definitely improve workplace efficiency",
+    "It could replace all current technology",
+    "It may cause problems in the workplace"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>Nous tenons à cet instant de réflexion profonde, personnellement essentiel</em>' - We value this moment of deep reflection, personally essential. 'Tenons' means we hold/value, 'instant' means moment, 'profonde' means deep, and 'personnellement' means personally.",
-  "difficulty": "C1",
-  "source": "Philosophical reflection and personal development",
+  "correct": 0,
+  "explanation": "The text states '<em>Les experts pensent que cette nouvelle technologie révolutionnera peut-être complètement notre façon de travailler</em>' - The experts think that this new technology might completely revolutionize our way of working. The adverb 'peut-être' indicates uncertainty or possibility.",
+  "difficulty": "B2",
+  "source": "Technology discussion",
   "tags": [
-    "philosophy",
-    "personal-development",
-    "reflection"
+    "technology",
+    "workplace",
+    "future"
   ],
-  "timeCreated": 1751777362
+  "timeCreated": 1704412800,
+  "verified": "claude"
 }

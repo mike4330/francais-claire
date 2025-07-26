@@ -1,24 +1,23 @@
 {
   "id": 2695,
-  "audioText": "Les réformes économiques ont profondément transformé le visage du pays, notamment dans les secteurs de l'éducation, de la santé et des infrastructures publiques essentielles.",
-  "question": "In which areas have the economic reforms particularly transformed the country?",
+  "audioText": "Elle trouvait que le nouveau système de transport public était beaucoup plus efficace.",
+  "question": "What did she think about the new public transport system?",
   "questionType": "comprehension",
   "options": [
-    "Education, health, and essential public infrastructure",
-    "Only private business and commercial sectors",
-    "Exclusively military and defense industries",
-    "Just agricultural and rural development"
+    "She found it much more efficient",
+    "She thought it was too expensive",
+    "She believed it was poorly designed",
+    "She felt it was unnecessarily complex"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les réformes économiques ont profondément transformé le visage du pays, notamment dans les secteurs de l'éducation, de la santé et des infrastructures publiques</em>' - The economic reforms have profoundly transformed the face of the country, notably in the sectors of education, health, and public infrastructure. 'Notamment' means notably/in particular, and 'visage' means face/appearance.",
-  "difficulty": "C1",
-  "source": "Economic reform impact on public sectors",
+  "explanation": "The text states '<em>Elle trouvait que le nouveau système de transport public était beaucoup plus efficace</em>' - She found that the new public transport system was much more efficient. 'Trouvait' is the imperfect tense of 'trouver' (to find/think), expressing a past opinion or judgment.",
+  "difficulty": "B2",
+  "source": "Transportation review",
   "tags": [
-    "economics",
-    "reform",
-    "education",
-    "health",
-    "infrastructure"
+    "transportation",
+    "public-transport",
+    "efficiency"
   ],
-  "timeCreated": 1751812980
+  "timeCreated": 1704415200,
+  "verified": "claude"
 }

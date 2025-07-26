@@ -1,0 +1,23 @@
+{
+  "id": 2776,
+  "audioText": "L'écrivain célèbre eut soudain une peur terrible lorsqu'il réalisa que son histoire la plus importante venait d'être perdue à jamais dans l'incendie de sa maison, et que toutes ces années de travail acharné s'envolaient en fumée.",
+  "question": "What did the famous writer suddenly experience?",
+  "questionType": "comprehension",
+  "options": [
+    "Terrible fear upon realizing his most important story was lost forever",
+    "Great joy when he discovered a new manuscript in his attic",
+    "Deep sadness after reading negative reviews of his latest book",
+    "Overwhelming relief when his publisher agreed to extend the deadline"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'écrivain célèbre eut soudain une peur terrible lorsqu'il réalisa que son histoire la plus importante venait d'être perdue à jamais dans l'incendie de sa maison, et que toutes ces années de travail acharné s'envolaient en fumée</em>' - The famous writer suddenly experienced terrible fear when he realized that his most important story had just been lost forever in the fire at his house, and that all those years of hard work were going up in smoke. The passé simple 'eut' (he had) is used in literary French to narrate past events.",
+  "difficulty": "C2",
+  "source": "Literary French with passé simple",
+  "tags": [
+    "literature",
+    "tragedy",
+    "writers",
+    "loss"
+  ],
+  "timeCreated": 1735489380
+}

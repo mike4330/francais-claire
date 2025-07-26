@@ -1,24 +1,23 @@
 {
   "id": 2680,
-  "audioText": "Le gouvernement mit en place une nouvelle politique de dépenses publiques, mais de nombreux citoyens la trouvèrent complètement idiote, car elle semblait gaspiller l'argent des contribuables sans apporter de bénéfices tangibles à la communauté.",
-  "question": "Le gouvernement mit en place une nouvelle politique de dépenses publiques, mais de nombreux citoyens la trouvèrent complètement idiote, car elle semblait gaspiller l'argent des contribuables sans apporter de bénéfices tangibles à la communauté.",
-  "questionType": "listening",
+  "audioText": "Peut-être qu'il pleuvra demain, je ne suis pas sûr.",
+  "question": "What is the speaker unsure about?",
+  "questionType": "comprehension",
   "options": [
-    "They fully supported it.",
-    "They found it wasteful and ineffective.",
-    "They were indifferent to it.",
-    "They believed it would greatly benefit the community."
+    "If it will be sunny",
+    "If it will rain tomorrow",
+    "If he will be late",
+    "If the store is open"
   ],
   "correct": 1,
-  "explanation": "The text states '<em>Le gouvernement mit en place une nouvelle politique de dépenses publiques, mais de nombreux citoyens la trouvèrent complètement idiote, car elle semblait gaspiller l'argent des contribuables sans apporter de bénéfices tangibles à la communauté.</em>' - The government implemented a new public spending policy, but many citizens found it completely idiotic, as it seemed to waste taxpayers' money without bringing tangible benefits to the community. 'Mit' is the past simple of 'mettre' (to implement), 'gaspiller' means to waste, and 'contribuables' means taxpayers.",
-  "difficulty": "C1",
+  "explanation": "The text states '<em>Peut-être qu'il pleuvra demain, je ne suis pas sûr</em>' - Maybe it will rain tomorrow, I'm not sure. The adverb 'peut-être' means perhaps/maybe, expressing uncertainty about tomorrow's weather.",
+  "difficulty": "B1",
   "source": "Gemini CLI",
   "tags": [
-    "public-spending",
-    "politics",
-    "economy"
+    "weather",
+    "daily-life",
+    "planning"
   ],
-  "timeCreated": 1720881353,
-  "parentQuestion": 832,
+  "timeCreated": 1720181340,
   "verified": "claude"
 }

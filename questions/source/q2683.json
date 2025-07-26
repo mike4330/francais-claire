@@ -1,23 +1,23 @@
 {
   "id": 2683,
-  "audioText": "L'architecture contemporaine intègre harmonieusement les technologies modernes avec les matériaux traditionnels pour créer des espaces durables.",
-  "question": "L'architecture contemporaine intègre harmonieusement les technologies modernes avec les matériaux traditionnels pour créer des espaces ______.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Là-haut, dans les bureaux de direction, les dirigeants préparent une annonce importante.",
+  "question": "Where are the executives preparing the important announcement?",
+  "questionType": "comprehension",
   "options": [
-    "durables",
-    "temporaires",
-    "coûteux",
-    "simples"
+    "Up there, in the executive offices",
+    "Down in the main conference room",
+    "Outside in the courtyard",
+    "In the building's basement"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>L'architecture contemporaine intègre harmonieusement les technologies modernes avec les matériaux traditionnels pour créer des espaces durables</em>' - Contemporary architecture harmoniously integrates modern technologies with traditional materials to create sustainable spaces. 'Durables' means sustainable or durable.",
-  "difficulty": "C2",
-  "source": "Architecture and design",
+  "explanation": "The text states '<em>Là-haut, dans les bureaux de direction, les dirigeants préparent une annonce importante</em>' - Up there, in the executive offices, the leaders are preparing an important announcement. 'Là-haut' means 'up there' or 'upstairs', indicating a higher location.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
   "tags": [
-    "architecture",
-    "technology",
-    "sustainability"
+    "workplace",
+    "business",
+    "management"
   ],
-  "timeCreated": 1736806660,
+  "timeCreated": 1704413760,
   "verified": "claude"
 }

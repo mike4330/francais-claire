@@ -1,23 +1,23 @@
 {
   "id": 2676,
-  "audioText": "L'intelligence artificielle révolutionne progressivement les secteurs de la santé, de l'éducation et de la finance grâce à ses capacités d'analyse avancées.",
-  "question": "What is artificial intelligence gradually revolutionizing thanks to its advanced analytical capabilities?",
+  "audioText": "Au-dessus de la cheminée, il y a un magnifique tableau ancien.",
+  "question": "Where is the magnificent old painting located?",
   "questionType": "comprehension",
   "options": [
-    "The healthcare, education, and finance sectors",
-    "Only the entertainment and gaming industries",
-    "Exclusively traditional manufacturing processes",
-    "Primarily agricultural and farming techniques"
+    "Above the fireplace",
+    "Next to the window",
+    "Behind the sofa",
+    "On the dining table"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>L'intelligence artificielle révolutionne progressivement les secteurs de la santé, de l'éducation et de la finance grâce à ses capacités d'analyse avancées</em>' - Artificial intelligence is gradually revolutionizing the healthcare, education, and finance sectors thanks to its advanced analytical capabilities. 'Révolutionne' means revolutionizes.",
-  "difficulty": "C1",
-  "source": "Artificial intelligence",
+  "explanation": "The text states '<em>Au-dessus de la cheminée, il y a un magnifique tableau ancien</em>' - Above the fireplace, there is a magnificent old painting. 'Au-dessus de' means 'above' or 'over'.",
+  "difficulty": "B1",
+  "source": "Home description",
   "tags": [
-    "technology",
-    "artificial-intelligence",
-    "innovation"
+    "home",
+    "location",
+    "art"
   ],
-  "timeCreated": 1736806460,
+  "timeCreated": 1704413340,
   "verified": "claude"
 }

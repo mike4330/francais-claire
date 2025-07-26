@@ -1,22 +1,23 @@
 {
   "id": 2672,
-  "audioText": "Contrebas, ces pierres de fer dans l'oreille répondent inutilement au diable qui manquerait politiquement d'intérêt pour ce mètre arrière tandis que vous touchez momentanément cette beauté par hasard lors de cette occasion spécial dans l'appartement vaste et tendre.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "Attention! Il faut protéger tes yeux quand tu regardes le soleil.",
+  "question": "What part of the body should be protected?",
+  "questionType": "comprehension",
   "options": [
-    "Contrebas, ces pierres de fer dans l'oreille répondent inutilement au diable qui manquerait politiquement d'intérêt pour ce mètre arrière tandis que vous touchez momentanément cette beauté par hasard lors de cette occasion spécial dans l'appartement vaste et tendre.",
-    "Contrebas, ces pierres de fer dans l'oreille répondent inutilement au diable qui manquerait politiquement d'intérêt pour ce mètre arrière tandis que vous touchez momentanément cette beauté par hasard lors de cette occasion spéciale dans l'appartement vaste et tendre.",
-    "Contrebas, ces pierres de fer dans l'oreille répondent inutilement au diable qui manquerait politiquement d'intérêt pour ce mètre arrière tandis que vous toucherez momentanément cette beauté par hasard lors de cette occasion spécial dans l'appartement vaste et tendre.",
-    "Contrebas, ces pierres de fer dans l'oreille répondent inutilement au diable qui manqueraient politiquement d'intérêt pour ce mètre arrière tandis que vous touchez momentanément cette beauté par hasard lors de cette occasion spécial dans l'appartement vaste et tendre."
+    "Eyes",
+    "Hands",
+    "Face",
+    "Head"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Contrebas, ces pierres de fer dans l'oreille répondent inutilement au diable qui manquerait politiquement d'intérêt pour ce mètre arrière tandis que vous touchez momentanément cette beauté par hasard lors de cette occasion spéciale dans l'appartement vaste et tendre</em>' - Down below, these iron stones in the ear respond uselessly to the devil who would politically lack interest for this meter behind while you momentarily touch this beauty by chance during this special occasion in the vast and tender apartment. This tests complex agreement patterns and conditional forms.",
-  "difficulty": "C1",
-  "source": "Strategic targeting - contrebas + pierres + fer + oreille + répondent + inutilement + diable + manquerait + politiquement + intérêt + mètre + arrière + touchez + momentanément + beauté + hasard + occasion + spécial + appartement + vaste + tendre synergy + supernatural",
+  "explanation": "The text states '<em>Il faut protéger tes yeux quand tu regardes le soleil</em>' - You must protect your eyes when you look at the sun. 'Yeux' is the plural form of 'œil' (eye), and the warning is about eye protection from solar damage.",
+  "difficulty": "B1",
+  "source": "Health advice",
   "tags": [
-    "supernatural",
-    "materials",
-    "apartments"
+    "health",
+    "safety",
+    "daily-life"
   ],
-  "timeCreated": 1736806120
+  "timeCreated": 1704413100,
+  "verified": "claude"
 }

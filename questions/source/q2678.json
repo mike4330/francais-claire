@@ -1,23 +1,23 @@
 {
   "id": 2678,
-  "audioText": "Les entreprises innovantes adoptent rapidement les nouvelles technologies pour améliorer leur productivité et leur compétitivité sur le marché mondial.",
-  "question": "Les entreprises innovantes adoptent ______ les nouvelles technologies pour améliorer leur productivité et leur compétitivité sur le marché mondial.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Avez-vous peur de prendre l'avion lors de vos voyages d'affaires?",
+  "question": "What is the person being asked about?",
+  "questionType": "comprehension",
   "options": [
-    "rapidement",
-    "lentement",
-    "rarement",
-    "difficilement"
+    "Whether they are afraid of flying during business trips",
+    "If they prefer trains for vacation travel",
+    "How often they travel for personal reasons",
+    "What their favorite airline company is"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les entreprises innovantes adoptent rapidement les nouvelles technologies pour améliorer leur productivité et leur compétitivité sur le marché mondial</em>' - Innovative companies rapidly adopt new technologies to improve their productivity and competitiveness in the global market. 'Rapidement' means rapidly or quickly.",
-  "difficulty": "C2",
-  "source": "Business innovation",
+  "explanation": "The text states '<em>Avez-vous peur de prendre l'avion lors de vos voyages d'affaires?</em>' - Are you afraid of taking planes during your business trips? 'Peur' means fear, and the question asks about fear of flying for work travel.",
+  "difficulty": "B1",
+  "source": "Business travel survey",
   "tags": [
+    "travel",
     "business",
-    "innovation",
-    "technology"
+    "fear"
   ],
-  "timeCreated": 1736806500,
+  "timeCreated": 1704413460,
   "verified": "claude"
 }

@@ -1,25 +1,23 @@
 {
   "id": 2681,
-  "audioText": "La suite de cet événement diplomatique sans précédent demeure incertaine, les négociateurs étant confrontés à des divergences fondamentales qui remettent en question l'architecture même des accords internationaux établis depuis plusieurs décennies.",
-  "question": "La suite de cet événement diplomatique sans précédent demeure incertaine, les négociateurs étant confrontés à des divergences fondamentales qui remettent en question l'architecture même des accords internationaux établis depuis plusieurs décennies.",
-  "questionType": "listening",
+  "audioText": "Cette nouvelle politique économique rend les investissements étrangers plus attractifs.",
+  "question": "What effect does the new economic policy have?",
+  "questionType": "comprehension",
   "options": [
-    "Fundamental disagreements that question the very architecture of established international agreements",
-    "Technical difficulties in organizing the meeting venues and logistics",
-    "Language barriers preventing effective communication between delegates",
-    "Budget constraints limiting the scope of potential agreements"
+    "It makes foreign investments more attractive",
+    "It reduces international trade agreements",
+    "It limits domestic business growth",
+    "It increases taxation on local companies"
   ],
   "correct": 0,
-  "explanation": "The text indicates that 'la suite' (the continuation/what follows) remains uncertain because negotiators face 'des divergences fondamentales qui remettent en question l'architecture même des accords internationaux' - fundamental disagreements that question the very architecture of international agreements. 'Suite' here means continuation or what follows next. The distractors test confusion about the reason for the uncertainty.",
-  "difficulty": "C2",
-  "source": "International Diplomacy",
+  "explanation": "The text states '<em>Cette nouvelle politique économique rend les investissements étrangers plus attractifs</em>' - This new economic policy makes foreign investments more attractive. The verb 'rend' (from 'rendre') means to make or render something in a particular state.",
+  "difficulty": "B2",
+  "source": "Strategic vocabulary targeting",
   "tags": [
-    "diplomacy",
-    "international-relations",
-    "negotiations",
-    "political-uncertainty",
-    "global-agreements"
+    "politics",
+    "business",
+    "economics"
   ],
-  "timeCreated": 1720881353,
-  "parentQuestion": 2589
+  "timeCreated": 1704413580,
+  "verified": "claude"
 }

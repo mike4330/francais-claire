@@ -1,22 +1,23 @@
 {
   "id": 2671,
-  "audioText": "Cash, les paroles manquent fidèlement sur cette occasion vaste où vous touchez miraculeusement cette beauté tendre et vous emmènerai doublement ces enfants curieux dans l'appartement spécial pour qu'ils raconterai invariablement leurs histoires intéressant.",
-  "question": "What do words faithfully lack on this vast occasion where you miraculously touch this tender beauty?",
+  "audioText": "Je sens que cette décision va changer beaucoup de choses dans notre entreprise.",
+  "question": "How does the speaker feel about the decision?",
   "questionType": "comprehension",
   "options": [
-    "Words faithfully lack on the vast occasion where you touch beauty and take children to tell stories",
-    "Phrases consistently missing during important meetings where officials discuss policy matters",
-    "Vocabulary systematically absent from formal documents where lawyers draft agreements",
-    "Expressions regularly omitted from academic presentations where professors explain theories"
+    "They sense it will change many things in their company",
+    "They think it will improve company profits",
+    "They believe it will cause major problems",
+    "They feel it won't have much impact"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cash, les paroles manquent fidèlement sur cette occasion vaste où vous touchez miraculeusement cette beauté tendre et vous emmènerai doublement ces enfants curieux dans l'appartement spécial pour qu'ils raconterai invariablement leurs histoires intéressant</em>' - Cash, words faithfully lack on this vast occasion where you miraculously touch this tender beauty and you will doubly take these curious children to the special apartment so they will invariably tell their interesting stories. This combines advanced adverbs with complex sentence structure.",
-  "difficulty": "C1",
-  "source": "Strategic targeting - cash + paroles + manquent + fidèlement + occasion + vaste + touchez + miraculeusement + beauté + tendre + emmènerai + doublement + curieux + appartement + spécial + raconterai + invariablement + intéressant synergy + storytelling",
+  "explanation": "The text states '<em>Je sens que cette décision va changer beaucoup de choses dans notre entreprise</em>' - I sense/feel that this decision will change many things in our company. The verb 'sens' (from 'sentir') means to sense, feel, or have an intuition about something.",
+  "difficulty": "B2",
+  "source": "Business discussion",
   "tags": [
-    "storytelling",
-    "beauty",
-    "apartments"
+    "workplace",
+    "business",
+    "intuition"
   ],
-  "timeCreated": 1736805940
+  "timeCreated": 1704413040,
+  "verified": "claude"
 }

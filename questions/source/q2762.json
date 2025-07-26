@@ -1,0 +1,18 @@
+{
+  "id": 2762,
+  "audioText": "Les philosophes méditent sur les souffrances d'ici-bas et cherchent la transcendance spirituelle.",
+  "question": "What do the philosophers meditate on?",
+  "questionType": "comprehension",
+  "options": [
+    "The sufferings of this earthly world",
+    "The mysteries of the universe",
+    "The nature of human consciousness",
+    "The principles of moral behavior"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les philosophes méditent sur les souffrances d'ici-bas et cherchent la transcendance spirituelle</em>' - The philosophers meditate on the sufferings of this earthly world and seek spiritual transcendence. 'Ici-bas' means here below/this earthly world.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": ["philosophy", "spirituality", "meditation"],
+  "timeCreated": "2025-01-21T17:06:00Z"
+}

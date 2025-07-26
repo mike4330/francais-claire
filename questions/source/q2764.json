@@ -1,0 +1,18 @@
+{
+  "id": 2764,
+  "audioText": "Il arrive à grand-peine à terminer ses études malgré les difficultés financières considérables.",
+  "question": "How does he manage to finish his studies?",
+  "questionType": "comprehension",
+  "options": [
+    "With great difficulty",
+    "Quite easily",
+    "With family support",
+    "Through scholarships"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il arrive à grand-peine à terminer ses études malgré les difficultés financières considérables</em>' - He manages with great difficulty to finish his studies despite considerable financial difficulties. 'À grand-peine' means with great difficulty.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": ["education", "financial-difficulties", "perseverance"],
+  "timeCreated": "2025-01-21T17:12:00Z"
+}

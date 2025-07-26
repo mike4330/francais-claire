@@ -1,23 +1,23 @@
 {
   "id": 2688,
-  "audioText": "Je croirai, pis encore, que ce nom prestigieux dissimule délibérément les véritables intentions politiques et économiques de cette organisation internationale apparemment philanthropique.",
-  "question": "What will the speaker believe even worse about the prestigious name?",
+  "audioText": "Les résultats du bac annoncent une réussite massive, mais ces notes ne reflètent pas le niveau réel des élèves.",
+  "question": "What concern is raised about the baccalauréat results?",
   "questionType": "comprehension",
   "options": [
-    "That it deliberately conceals true political and economic intentions",
-    "That it accurately represents the organization's goals",
-    "That it was chosen randomly without meaning",
-    "That it reflects genuine philanthropic purposes"
+    "The high grades don't reflect students' actual academic level",
+    "The exam has become too difficult for most students",
+    "Too few students are passing the examination",
+    "The grading system needs to be completely reformed"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Je croirai, pis encore, que ce nom prestigieux dissimule délibérément les véritables intentions politiques et économiques</em>' - I will believe, worse still, that this prestigious name deliberately conceals the true political and economic intentions. 'Croirai' is the future tense of croire (to believe), 'pis' means worse, and 'nom' means name.",
-  "difficulty": "C1",
-  "source": "Political analysis and organizational transparency critique",
+  "explanation": "The text states '<em>Les résultats du bac annoncent une réussite massive, mais ces notes ne reflètent pas le niveau réel des élèves</em>' - The bac results announce massive success, but these grades don't reflect the students' real level. This highlights concerns about grade inflation in the French education system.",
+  "difficulty": "B2",
+  "source": "Education analysis",
   "tags": [
-    "politics",
-    "organizations",
-    "transparency",
-    "analysis"
+    "education",
+    "examinations",
+    "academic-standards"
   ],
-  "timeCreated": 1751811960
+  "timeCreated": 1704414420,
+  "verified": "claude"
 }
