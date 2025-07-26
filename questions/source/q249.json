@@ -1,19 +1,23 @@
 {
-    "id": 249,
-    "audioText": "Je mange actuellement une pomme rouge.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Je mange actuellement une pomme rouge.",
-        "Je mange maintenant une pomme rouge.",
-        "Je mange actuellement une pomme verte.",
-        "Je bois actuellement une pomme rouge."
-    ],
-    "correct": 0,
-    "explanation": "The audio states '<em>Je mange actuellement une pomme rouge</em>' - I am currently eating a red apple. Note the key distinctions: 'actuellement' vs 'maintenant' (now), 'rouge' vs 'verte' (green), and 'mange' vs 'bois' (drink).",
-    "difficulty": "A2",
-    "source": "Current actions and food consumption",
-    "tags": ["food", "present-actions", "daily-life"],
-    "timeCreated": 1751812620,
-    "verified": "claude"
+  "id": 249,
+  "audioText": "Ses propos à propos de l'honneur familial ont été mal reçus par l'assemblée.",
+  "question": "How were his remarks about family honor received?",
+  "questionType": "comprehension",
+  "options": [
+    "They were poorly received by the assembly",
+    "They were enthusiastically applauded",
+    "They were completely ignored",
+    "They were carefully recorded"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ses propos à propos de l'honneur familial ont été mal reçus par l'assemblée</em>' - His remarks about family honor were poorly received by the assembly. This targets the nouns 'propos' and 'honneur' in a family reputation context.",
+  "difficulty": "A2",
+  "source": "Strategic noun targeting: propos, honneur",
+  "tags": [
+    "family",
+    "reputation",
+    "social-response"
+  ],
+  "timeCreated": 1720618760,
+  "verified": "claude"
 }

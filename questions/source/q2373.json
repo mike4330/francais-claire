@@ -1,0 +1,23 @@
+{
+  "id": 2373,
+  "audioText": "À l'improviste, les professeurs emmèneront ce groupe interculturel dans l'avion pour créer des liens de collaboration académique.",
+  "question": "À l'improviste, les professeurs ______ ce groupe interculturel dans l'avion pour créer des liens de collaboration académique.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "emmèneront",
+    "emmènera",
+    "emmenaient",
+    "emmèneraient"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>À l'improviste, les professeurs emmèneront ce groupe interculturel dans l'avion pour créer des liens de collaboration académique</em>' - Unexpectedly, the professors will take this intercultural group in the airplane to create academic collaboration links. 'Emmèneront' is the future tense of 'emmener' (to take/bring).",
+  "difficulty": "B1",
+  "source": "Strategic targeting - à l'improviste + emmènera + merde + avion + trou + intercultural-exchange + academic-collaboration + sommeil synergy",
+  "tags": [
+    "intercultural-exchange",
+    "academic-collaboration",
+    "education"
+  ],
+  "timeCreated": 1736805120,
+  "verified": "claude"
+}

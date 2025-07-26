@@ -1,0 +1,24 @@
+{
+  "id": 2374,
+  "audioText": "Ma chambre est très propre maintenant, j'ai tout rangé hier soir.",
+  "question": "Ma chambre est très ______ maintenant, j'ai tout rangé hier soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "propre",
+    "sale",
+    "grande",
+    "petite"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma chambre est très propre maintenant, j'ai tout rangé hier soir</em>' - My room is very clean now, I tidied everything up last night. The correct answer is 'propre' (clean). The context 'j'ai tout rangé hier soir' indicates that the room is now clean after organizing.",
+  "difficulty": "B1",
+  "source": "Household Tasks",
+  "tags": [
+    "home",
+    "cleaning",
+    "daily-life",
+    "bedroom"
+  ],
+  "timeCreated": 1751494921,
+  "verified": "claude"
+}
