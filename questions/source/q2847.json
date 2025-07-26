@@ -1,0 +1,22 @@
+{
+  "id": 2847,
+  "audioText": "Un tel événement n'a pas eu de pareil dans l'histoire récente.",
+  "question": "What is said about the event?",
+  "questionType": "comprehension",
+  "options": [
+    "Il n'a pas eu de pareil.",
+    "Il était ordinaire.",
+    "Il a été oublié.",
+    "Il était prévu."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Un tel événement n'a pas eu de pareil dans l'histoire récente.</em>' - Such an event has had no equal in recent history. 'Pareil' means equal or similar, and 'n'a pas eu de pareil' means has had no equal/equivalent.",
+  "difficulty": "C1",
+  "source": "Gemini CLI",
+  "tags": [
+    "history",
+    "events"
+  ],
+  "timeCreated": 1752006732,
+  "verified": "claude"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3010,
+  "audioText": "Selon les experts, cette stratégie marketing augmentera considérablement les ventes dans les prochains mois.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Selon les experts, cette stratégie marketing augmentera considérablement les ventes dans les prochains mois.",
+    "Selon les experts, cette stratégie marketing augmentait considérablement les ventes dans les prochains mois.",
+    "Selon les experts, cette stratégie marketing augmenterait considérablement les ventes dans les prochains mois.",
+    "Selon les experts, cette stratégie marketing augmente considérablement les ventes dans les prochains mois."
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is '<em>Selon les experts, cette stratégie marketing augmentera considérablement les ventes dans les prochains mois</em>' - According to experts, this marketing strategy will considerably increase sales in the coming months. 'Augmentera' is the future form of 'augmenter' (to increase).",
+  "difficulty": "C1",
+  "source": "Marketing strategy",
+  "tags": [
+    "business",
+    "marketing",
+    "sales"
+  ],
+  "timeCreated": 1736806320,
+  "verified": "claude"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2980,
+  "audioText": "L'hermeneutique postmoderne postule que les catégories conceptuelles inutiles, bien que doux en apparence, occultent fréquemment des dynamiques vivantes et légères qui transcendent la deuxième génération d'analyses phénoménologiques traditionnelles.",
+  "question": "According to postmodern hermeneutics, what do useless conceptual categories often conceal?",
+  "questionType": "comprehension",
+  "options": [
+    "Living and light dynamics that transcend the second generation of traditional phenomenological analyses",
+    "Empirical foundations that support contemporary theoretical frameworks",
+    "Systematic methodologies that prioritize quantitative over qualitative research",
+    "Historical precedents that validate current interpretative strategies"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'hermeneutique postmoderne postule que les catégories conceptuelles inutiles, bien que doux en apparence, occultent fréquemment des dynamiques vivantes et légères qui transcendent la deuxième génération d'analyses phénoménologiques traditionnelles</em>' - Postmodern hermeneutics postulates that useless conceptual categories, although gentle in appearance, frequently conceal living and light dynamics that transcend the second generation of traditional phenomenological analyses.",
+  "difficulty": "C2",
+  "source": "Philosophical discussion",
+  "tags": [
+    "hermeneutics",
+    "postmodernism",
+    "phenomenology"
+  ],
+  "timeCreated": 1720962420,
+  "verified": "claude"
+}

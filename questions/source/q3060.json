@@ -1,0 +1,22 @@
+{
+  "id": 3060,
+  "audioText": "L'investisseur a prié instamment ses conseillers de récupérer les documents achetés lors de cette transaction financière délicate.",
+  "question": "What did the investor do regarding his advisors?",
+  "questionType": "comprehension",
+  "options": [
+    "Urgently asked them to recover the purchased documents",
+    "Dismissed them for poor performance in previous deals",
+    "Requested additional time to review their recommendations",
+    "Negotiated new commission rates for future transactions"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'investisseur a prié instamment ses conseillers de récupérer les documents achetés lors de cette transaction financière délicate</em>' - The investor urgently asked his advisors to recover the documents purchased during this delicate financial transaction. This combines 'prié' and 'achetés' in a professional context.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - prié + achetée synergy + financial transactions",
+  "tags": [
+    "finances",
+    "investment",
+    "professional-communication"
+  ],
+  "timeCreated": 1736804420
+}

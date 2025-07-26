@@ -1,0 +1,22 @@
+{
+  "id": 2884,
+  "audioText": "Vous seriez probablement surpris de découvrir combien de personnes partagent cette opinion controversée sur la question.",
+  "question": "What would happen if people discovered the information?",
+  "questionType": "comprehension",
+  "options": [
+    "They would probably be surprised",
+    "They would completely reject it",
+    "They would be completely unsurprised",
+    "They would become angry about it"
+  ],
+  "correct": 0,
+  "explanation": "The sentence uses 'seriez' (conditional 2nd person plural of être) to express that people would probably be surprised to learn how many share this controversial opinion.",
+  "difficulty": "C1",
+  "source": "Discussion of controversial opinions and public perception",
+  "tags": [
+    "public-opinion",
+    "controversy",
+    "social-attitudes"
+  ],
+  "timeCreated": 1719936300
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2887,
+  "audioText": "Les dirigeants furent unanimement critiqués par la presse internationale pour leur gestion de cette crise sanitaire majeure.",
+  "question": "How did the international press react to the leaders?",
+  "questionType": "comprehension",
+  "options": [
+    "They unanimously criticized them",
+    "They strongly supported their decisions",
+    "They remained neutral about the situation",
+    "They were divided in their opinions"
+  ],
+  "correct": 0,
+  "explanation": "The sentence uses 'furent' (past historic 3rd person plural of être) to indicate the leaders were unanimously criticized by international press for their crisis management.",
+  "difficulty": "C2",
+  "source": "International news coverage of health crisis management",
+  "tags": [
+    "media-coverage",
+    "health",
+    "leadership"
+  ],
+  "timeCreated": 1719936420
+}

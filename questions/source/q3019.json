@@ -1,0 +1,23 @@
+{
+  "id": 3019,
+  "audioText": "L'architecture contemporaine intègre harmonieusement les technologies modernes avec les matériaux traditionnels pour créer des espaces durables.",
+  "question": "L'architecture contemporaine intègre harmonieusement les technologies modernes avec les matériaux traditionnels pour créer des espaces ______.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "durables",
+    "temporaires",
+    "coûteux",
+    "simples"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'architecture contemporaine intègre harmonieusement les technologies modernes avec les matériaux traditionnels pour créer des espaces durables</em>' - Contemporary architecture harmoniously integrates modern technologies with traditional materials to create sustainable spaces. 'Durables' means sustainable or durable.",
+  "difficulty": "C2",
+  "source": "Architecture and design",
+  "tags": [
+    "architecture",
+    "technology",
+    "sustainability"
+  ],
+  "timeCreated": 1736806660,
+  "verified": "claude"
+}

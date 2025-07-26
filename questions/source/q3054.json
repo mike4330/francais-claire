@@ -1,0 +1,22 @@
+{
+  "id": 3054,
+  "audioText": "Ces amis fidèles depuis l'enfance se rappellent encore avec émotion leurs premières aventures communes et leurs serments d'amitié éternelle échangés sous le grand chêne de leur village natal.",
+  "question": "What do these faithful childhood friends still remember with emotion?",
+  "questionType": "comprehension",
+  "options": [
+    "Their first shared adventures and eternal friendship vows exchanged under the great oak tree",
+    "The exact date when they first met at the village school",
+    "The names of all their teachers from elementary school",
+    "The specific games they used to play in the village square"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces amis fidèles depuis l'enfance se rappellent encore avec émotion leurs premières aventures communes et leurs serments d'amitié éternelle échangés sous le grand chêne</em>' - These faithful friends since childhood still remember with emotion their first shared adventures and their eternal friendship vows exchanged under the great oak tree. 'Fidèles' means faithful/loyal, and 'rappellent' is third person plural of 'rappeler'.",
+  "difficulty": "C1",
+  "source": "Claude",
+  "tags": [
+    "relationships",
+    "childhood",
+    "friendship"
+  ],
+  "timeCreated": "2025-07-14T12:00:00Z"
+}

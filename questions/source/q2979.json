@@ -1,0 +1,23 @@
+{
+  "id": 2979,
+  "audioText": "L'approche unique de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes dans notre épistémologie contemporaine.",
+  "question": "What does the unique approach of this methodology reveal?",
+  "questionType": "comprehension",
+  "options": [
+    "That useless paradigms often mask gentle but living truths in our contemporary epistemology",
+    "That traditional methodologies are always superior to modern approaches",
+    "That empirical validation should be prioritized over theoretical frameworks",
+    "That interdisciplinary perspectives complicate rather than clarify understanding"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'approche unique de cette méthodologie révèle que les paradigmes inutiles masquent souvent des vérités doux mais vivantes dans notre épistémologie contemporaine</em>' - The unique approach of this methodology reveals that useless paradigms often mask gentle but living truths in our contemporary epistemology.",
+  "difficulty": "C1",
+  "source": "Academic methodology",
+  "tags": [
+    "methodology",
+    "epistemology",
+    "academic-research"
+  ],
+  "timeCreated": 1720962360,
+  "verified": "claude"
+}

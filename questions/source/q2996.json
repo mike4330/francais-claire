@@ -1,0 +1,22 @@
+{
+  "id": 2996,
+  "audioText": "Ils marchaient silencieusement dans l'espace cosmique artificiel pendant que les astronautes écoutaient les signaux radio provenant de la Terre.",
+  "question": "Ils ______ silencieusement dans l'espace cosmique artificiel pendant que les astronautes écoutaient les signaux radio provenant de la Terre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "marchaient",
+    "marchent",
+    "marcheront",
+    "marcheraient"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'marchaient'. The text states '<em>Ils marchaient silencieusement dans l'espace cosmique artificiel pendant que les astronautes écoutaient les signaux radio provenant de la Terre</em>' - They were walking silently in the artificial cosmic space while the astronauts listened to radio signals from Earth. 'Marchaient' is the imperfect tense matching 'écoutaient'.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - marchaient + écouter + space topic",
+  "tags": [
+    "space",
+    "technology",
+    "exploration"
+  ],
+  "timeCreated": 1736801740
+}

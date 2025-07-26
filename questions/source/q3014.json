@@ -1,0 +1,23 @@
+{
+  "id": 3014,
+  "audioText": "Les entreprises innovantes adoptent rapidement les nouvelles technologies pour améliorer leur productivité et leur compétitivité sur le marché mondial.",
+  "question": "Les entreprises innovantes adoptent ______ les nouvelles technologies pour améliorer leur productivité et leur compétitivité sur le marché mondial.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rapidement",
+    "lentement",
+    "rarement",
+    "difficilement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les entreprises innovantes adoptent rapidement les nouvelles technologies pour améliorer leur productivité et leur compétitivité sur le marché mondial</em>' - Innovative companies rapidly adopt new technologies to improve their productivity and competitiveness in the global market. 'Rapidement' means rapidly or quickly.",
+  "difficulty": "C2",
+  "source": "Business innovation",
+  "tags": [
+    "business",
+    "innovation",
+    "technology"
+  ],
+  "timeCreated": 1736806500,
+  "verified": "claude"
+}

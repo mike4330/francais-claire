@@ -1,0 +1,22 @@
+{
+  "id": 3005,
+  "audioText": "Le chirurgien penserait qu'au-delà d'une simple immobilisation, ce bras fracturé dans un si mauvais état nécessiterait une intervention chirurgicale complexe avec reconstruction osseuse.",
+  "question": "What would the surgeon think is needed beyond simple immobilization?",
+  "questionType": "comprehension",
+  "options": [
+    "Complex surgery with bone reconstruction",
+    "Physical therapy sessions",
+    "Pain medication administration",
+    "X-ray examination repetition"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le chirurgien penserait qu'au-delà d'une simple immobilisation, ce bras fracturé dans un si mauvais état nécessiterait une intervention chirurgicale complexe</em>' - The surgeon would think that beyond simple immobilization, this fractured arm in such bad condition would require complex surgical intervention. 'Penserait' is conditional of penser (to think), 'au-delà' means beyond, 'bras' means arm, and 'mauvais' means bad.",
+  "difficulty": "C1",
+  "source": "Advanced orthopedic trauma surgery and bone reconstruction",
+  "tags": [
+    "first-aid",
+    "surgery",
+    "orthopedics"
+  ],
+  "timeCreated": 1751788580
+}

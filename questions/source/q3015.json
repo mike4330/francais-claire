@@ -1,0 +1,23 @@
+{
+  "id": 3015,
+  "audioText": "Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle.",
+  "question": "Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle.",
+  "questionType": "listening",
+  "options": [
+    "A precise movement to recognize real problems affecting the professional team indefinitely",
+    "A quick solution to solve temporary difficulties",
+    "A simple discussion about workplace policies",
+    "A complete reorganization of the department"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette situation grave nécessite un mouvement précis pour reconnaître les problèmes réels qui affectent indéfiniment l'équipe professionnelle.</em>' - 'This serious situation requires a precise movement to recognize real problems that indefinitely affect the professional team.' The adjective 'grave' means serious/grave, and 'indéfiniment' means indefinitely. The distractors test confusion about the solution (quick solution, simple discussion, reorganization).",
+  "difficulty": "C1",
+  "source": "Strategic adjective targeting",
+  "tags": [
+    "workplace",
+    "movement",
+    "recognition"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 1016
+}

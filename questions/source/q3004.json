@@ -1,0 +1,22 @@
+{
+  "id": 3004,
+  "audioText": "Les techniciens médicaux d'urgence attendaient auparavant une véritable formation spécialisée pour traiter les traumatismes oculaires, car chaque oeil nécessite une approche particulièrement délicate et précise.",
+  "question": "What were the emergency medical technicians waiting for previously?",
+  "questionType": "comprehension",
+  "options": [
+    "Specialized training for eye trauma treatment",
+    "New medical equipment delivery",
+    "Government funding approval",
+    "Hospital administration clearance"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les techniciens médicaux d'urgence attendaient auparavant une véritable formation spécialisée pour traiter les traumatismes oculaires</em>' - The emergency medical technicians were previously waiting for genuine specialized training to treat eye trauma. 'Attendaient' is imperfect of attendre (to wait), 'auparavant' means previously/beforehand, 'véritable' means genuine/true, and 'oeil' means eye.",
+  "difficulty": "C1",
+  "source": "Advanced emergency medical training and ocular trauma protocols",
+  "tags": [
+    "first-aid",
+    "medical-training",
+    "eye-trauma"
+  ],
+  "timeCreated": 1751788520
+}

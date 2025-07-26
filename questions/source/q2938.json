@@ -1,0 +1,24 @@
+{
+  "id": 2938,
+  "audioText": "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+  "parentQuestion": 2649,
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise.",
+    "Le gouvernement français a annoncé de nouvelles mesures économiques pour soutenir les entreprises affectées par la crise.",
+    "Le gouvernement français a annoncé de nouvelles mesures financières pour soutenir les entreprises touchées par la crise.",
+    "Le gouvernement français a présenté de nouvelles mesures économiques pour soutenir les entreprises touchées par la crise."
+  ],
+  "correct": 0,
+  "explanation": "La phrase exacte utilisait 'annoncé' (pas 'présenté'), 'mesures économiques' (pas 'financières'), et 'touchées' (pas 'affectées'). Ces nuances lexicales sont importantes dans le discours politique et économique.",
+  "difficulty": "C1",
+  "source": "France24 Economics - Listening",
+  "tags": [
+    "politics",
+    "economy",
+    "government",
+    "crisis"
+  ],
+  "timeCreated": 1720023960
+}

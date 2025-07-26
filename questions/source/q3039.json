@@ -1,0 +1,27 @@
+{
+  "id": 3039,
+  "audioText": "Quand je regardais ces archives napoléoniennes au musée, je réalisais combien les propagandes d'époque avaient façonné la perception publique. Ces documents révèlent l'écart entre la réalité historique et les mythes patriotiques construits par le régime impérial pour légitimer ses ambitions expansionnistes en Europe.",
+  "question": "What realization did the speaker have while examining the Napoleonic archives?",
+  "questionType": "comprehension",
+  "options": [
+    "They realized how period propaganda had shaped public perception and the gap between historical reality and patriotic myths",
+    "They discovered that Napoleon's military strategies were more sophisticated than previously thought",
+    "They found evidence that contradicted established historical timelines of the imperial period",
+    "They understood that French museums had been deliberately hiding controversial documents"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says 'je réalisais combien les propagandes d'époque avaient façonné la perception publique' - they realized how much period propaganda had shaped public perception. The archives revealed 'l'écart entre la réalité historique et les mythes patriotiques' - the gap between historical reality and patriotic myths constructed by the imperial regime to legitimize its expansionist ambitions.",
+  "difficulty": "C1",
+  "source": "Museum Historical Research",
+  "tags": [
+    "history",
+    "napoleon",
+    "propaganda",
+    "archives",
+    "museum",
+    "imperial-period",
+    "historical-analysis"
+  ],
+  "timeCreated": 1720024980,
+  "verified": "claude"
+}

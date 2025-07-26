@@ -1,0 +1,23 @@
+{
+  "id": 2925,
+  "audioText": "La réaction qu'elle a eue face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion.",
+  "question": "La réaction qu'elle a ______ face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion.",
+  "questionType": "FIB-reading",
+  "options": [
+    "eue",
+    "eu",
+    "avoir",
+    "ayant"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'eue' (feminine past participle of 'avoir'). It agrees with 'la réaction' (feminine). The construction is 'la réaction qu'elle a eue' - the reaction that she had.",
+  "difficulty": "C1",
+  "source": "Professional Meeting",
+  "tags": [
+    "workplace",
+    "reactions",
+    "meetings",
+    "unexpected-news"
+  ],
+  "timeCreated": 1719964500
+}

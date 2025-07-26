@@ -1,0 +1,23 @@
+{
+  "id": 3024,
+  "audioText": "Je croirai, pis encore, que ce nom prestigieux dissimule délibérément les véritables intentions politiques et économiques de cette organisation internationale apparemment philanthropique.",
+  "question": "What will the speaker believe even worse about the prestigious name?",
+  "questionType": "comprehension",
+  "options": [
+    "That it deliberately conceals true political and economic intentions",
+    "That it accurately represents the organization's goals",
+    "That it was chosen randomly without meaning",
+    "That it reflects genuine philanthropic purposes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je croirai, pis encore, que ce nom prestigieux dissimule délibérément les véritables intentions politiques et économiques</em>' - I will believe, worse still, that this prestigious name deliberately conceals the true political and economic intentions. 'Croirai' is the future tense of croire (to believe), 'pis' means worse, and 'nom' means name.",
+  "difficulty": "C1",
+  "source": "Political analysis and organizational transparency critique",
+  "tags": [
+    "politics",
+    "organizations",
+    "transparency",
+    "analysis"
+  ],
+  "timeCreated": 1751811960
+}
