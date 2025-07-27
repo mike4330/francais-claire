@@ -185,7 +185,8 @@
         "inheritance",
         "historical-buildings"
       ],
-      "timeCreated": "2025-01-21T16:05:00Z"
+      "timeCreated": 1737471900,
+      "verified": "claude"
     },
     {
       "id": 2752,
@@ -493,7 +494,8 @@
         "protests",
         "consequences"
       ],
-      "timeCreated": "2025-01-21T17:15:00Z"
+      "timeCreated": 1737478500,
+      "verified": "claude"
     },
     {
       "id": 2766,
@@ -693,7 +695,7 @@
         "saurez"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question. This form expresses a courteous inquiry about capability or knowledge. The question asks master bakers if they could analyze the organoleptic subtleties of naturally fermented sourdough.",
+      "explanation": "The text states '<em>Maîtres boulangers, sauriez-vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux</em>' - Master bakers, could you analyze the organoleptic subtleties of this naturally fermented sourdough, considering the microbiological variations influencing the final alveolar texture and the aromatic expression characteristic of ancestral French cereal terroirs. The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question.",
       "difficulty": "C2",
       "source": "Advanced artisanal bakery master class discourse",
       "tags": [
@@ -705,7 +707,9 @@
         "professional",
         "traditional-crafts",
         "cultural-heritage"
-      ]
+      ],
+      "timeCreated": 1720714800,
+      "verified": "claude"
     },
     {
       "id": 2775,
@@ -797,7 +801,7 @@
         "route"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'porte' (door). The sentence means 'One must open each metaphorical door that leads toward a deep understanding of contemporary sociopolitical mechanisms.' This introduces the high-frequency noun 'porte' in an intellectual/academic context with metaphorical usage.",
+      "explanation": "The text states '<em>Il faut ouvrir chaque porte métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.</em>' - One must open each metaphorical door that leads toward a deep understanding of contemporary sociopolitical mechanisms. The correct answer is 'porte' (door).",
       "difficulty": "C1",
       "source": "Academic Discourse and Intellectual Access",
       "tags": [
@@ -808,7 +812,8 @@
         "sociopolitics",
         "access-to-knowledge"
       ],
-      "timeCreated": 1751219400
+      "timeCreated": 1737978000,
+      "verified": "claude"
     },
     {
       "id": 2779,
@@ -849,7 +854,7 @@
         "It focuses primarily on commercial applications rather than theoretical advances"
       ],
       "correct": 0,
-      "explanation": "The text describes an 'idée révolutionnaire' (revolutionary idea) that could 'transformer radicalement notre approche de l'intelligence artificielle' (radically transform our approach to artificial intelligence) by 'remettant en question les paradigmes établis' (challenging established paradigms) and 'ouvrant de nouveaux horizons épistémologiques' (opening new epistemological horizons).",
+      "explanation": "The text states '<em>Cette idée révolutionnaire, bien qu'elle suscite des controverses, pourrait transformer radicalement notre approche de l'intelligence artificielle en remettant en question les paradigmes établis et en ouvrant de nouveaux horizons épistémologiques.</em>' - This revolutionary idea, although it provokes controversies, could radically transform our approach to artificial intelligence by challenging established paradigms and opening new epistemological horizons.",
       "difficulty": "C2",
       "source": "Academic Research",
       "tags": [
@@ -860,7 +865,8 @@
         "innovation",
         "epistemology"
       ],
-      "timeCreated": 1751300995
+      "timeCreated": 1737978000,
+      "verified": "claude"
     },
     {
       "id": 2781,
@@ -990,13 +996,14 @@
       "correct": 0,
       "explanation": "The text states '<em>Cette nouvelle technologie permet aux utilisateurs de comprendre aisément les concepts complexes grâce à une interface claire et intuitive</em>' - This new technology allows users to easily understand complex concepts thanks to a clear and intuitive interface. 'Aisément' means easily or with ease, and 'claire' means clear.",
       "difficulty": "C1",
-      "source": "Strategic vocabulary targeting for 'aisément'",
+      "source": "Technology education scenario",
       "tags": [
         "technology",
         "education",
         "interface"
       ],
-      "timeCreated": 1751853190
+      "timeCreated": 1751853190,
+      "verified": "claude"
     },
     {
       "id": 2787,
@@ -1018,7 +1025,8 @@
         "conflict",
         "moral-choices"
       ],
-      "timeCreated": 1735992000
+      "timeCreated": 1735992000,
+      "verified": "claude"
     },
     {
       "id": 2788,
@@ -1402,7 +1410,8 @@
         "underwater-exploration",
         "european-history"
       ],
-      "timeCreated": 1720713600
+      "timeCreated": 1720713600,
+      "verified": "claude"
     },
     {
       "id": 2807,
@@ -1491,13 +1500,14 @@
       "correct": 0,
       "explanation": "The text states '<em>Les fenêtres laissées ouvertes précédemment ont causé un dégât d'eau curieusement localisé près de la bouche d'aération.</em>' - 'The windows left open previously caused water damage curiously localized near the ventilation opening.' The past participle 'laissées' (feminine plural) agrees with 'fenêtres', and the adverbs 'précédemment' and 'curieusement' modify the timing and nature of the incident.",
       "difficulty": "C1",
-      "source": "Strategic verb conjugate targeting",
+      "source": "Building maintenance scenario",
       "tags": [
         "damage",
         "building-maintenance",
         "weather"
       ],
-      "timeCreated": 1720713600
+      "timeCreated": 1720713600,
+      "verified": "claude"
     },
     {
       "id": 2814,
@@ -1541,7 +1551,8 @@
         "search",
         "documentation"
       ],
-      "timeCreated": 1720713600
+      "timeCreated": 1720713600,
+      "verified": "claude"
     },
     {
       "id": 2816,
@@ -1630,7 +1641,8 @@
         "simplicity",
         "workplace"
       ],
-      "timeCreated": 1720714200
+      "timeCreated": 1720714200,
+      "verified": "claude"
     },
     {
       "id": 2820,
@@ -1690,13 +1702,14 @@
       "correct": 0,
       "explanation": "The text states '<em>L'élevage contemporain de chèvres savoyardes au bout des Alpes transforme fondamentalement les tours anciennes en bergeries modernes où chaque sang-mêlé trouve efficacement sa place.</em>' - 'Contemporary Savoyard goat farming at the edge of the Alps fundamentally transforms ancient towers into modern sheepfolds where each mixed-breed efficiently finds its place.' The nouns 'chèvres' means goats, 'bout' means end/edge, 'tours' means towers, and 'sang' means blood.",
       "difficulty": "C1",
-      "source": "Strategic animal targeting",
+      "source": "Alpine farming scenario",
       "tags": [
         "animals",
         "tradition",
         "mountains"
       ],
-      "timeCreated": 1720714800
+      "timeCreated": 1720714800,
+      "verified": "claude"
     },
     {
       "id": 2823,
@@ -1718,7 +1731,8 @@
         "spirituality",
         "philosophy"
       ],
-      "timeCreated": 1720715100
+      "timeCreated": 1720715100,
+      "verified": "claude"
     },
     {
       "id": 2824,
@@ -1876,7 +1890,8 @@
         "microscopy"
       ],
       "parentQuestion": 2970,
-      "timeCreated": 1736626020
+      "timeCreated": 1736626020,
+      "verified": "claude"
     },
     {
       "id": 2832,
@@ -2278,7 +2293,7 @@
         "A conclusion drawn from the observation."
       ],
       "correct": 2,
-      "explanation": "'C'est-à-dire' means 'that is to say' or 'in other words'. It introduces a clarification or explanation of the concept of relativity.",
+      "explanation": "The text states '<em>Le concept de la relativité, c'est-à-dire que le temps et l'espace sont relatifs à l'observateur, a révolutionné la physique.</em>' - The concept of relativity, that is to say that time and space are relative to the observer, has revolutionized physics. 'C'est-à-dire' means 'that is to say' or 'in other words' and introduces a clarification or explanation of the concept of relativity.",
       "difficulty": "C1",
       "source": "Gemini-generated",
       "tags": [
@@ -2286,7 +2301,8 @@
         "physics",
         "explanation"
       ],
-      "timeCreated": 1720134000
+      "timeCreated": 1720134000,
+      "verified": "claude"
     },
     {
       "id": 2855,
@@ -2739,7 +2755,7 @@
         "The political relationships between countries"
       ],
       "correct": 0,
-      "explanation": "The text states that scientists affirm that 'le réchauffement climatique menace l'équilibre écologique de notre terre' - climate warming/change threatens the ecological balance of our earth, requiring urgent measures to preserve biodiversity.",
+      "explanation": "The text states '<em>Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre, nécessitant des mesures urgentes pour préserver la biodiversité et les écosystèmes fragiles pour les générations futures qui hériteront de cette planète transformée.</em>' - Scientists affirm that climate warming threatens the ecological balance of our earth, requiring urgent measures to preserve biodiversity and fragile ecosystems for future generations who will inherit this transformed planet.",
       "difficulty": "C1",
       "source": "Scientific statement on climate change impact",
       "tags": [
@@ -2749,7 +2765,8 @@
         "ecology",
         "future-generations"
       ],
-      "timeCreated": 1735689600
+      "timeCreated": 1735689600,
+      "verified": "claude"
     },
     {
       "id": 2875,
@@ -2811,7 +2828,7 @@
         "Les experts en géopolitique ont dit que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables."
       ],
       "correct": 0,
-      "explanation": "The listening exercise tests the exact comprehension of 'disaient' (were saying) in the imperfect tense, used to describe what geopolitical experts were saying about a strategic alliance's impact.",
+      "explanation": "The text states '<em>Les experts en géopolitique disaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables qui ont finalement transformé les rapports de force bien au-delà des prévisions initiales.</em>' - Geopolitical experts were saying that this strategic alliance would disrupt the balance of forces in the region, but they had not anticipated the considerable economic repercussions that ultimately transformed the power relations far beyond initial forecasts. The listening exercise tests exact comprehension of 'disaient' (were saying) in the imperfect tense.",
       "difficulty": "C1",
       "source": "Geopolitical analysis of strategic alliance consequences",
       "tags": [
@@ -2821,7 +2838,8 @@
         "economic-impact",
         "international-relations"
       ],
-      "timeCreated": 1735689600
+      "timeCreated": 1735689600,
+      "verified": "claude"
     },
     {
       "id": 2878,
@@ -2926,7 +2944,7 @@
         "They should postpone making any decisions"
       ],
       "correct": 0,
-      "explanation": "The sentence uses 'soyons' (imperative 1st person plural of être) to suggest being honest about a complex situation requiring a nuanced approach.",
+      "explanation": "The text states '<em>Soyons honnêtes sur cette situation complexe qui nécessite une approche nuancée et réfléchie</em>' - Let's be honest about this complex situation that requires a nuanced and thoughtful approach. The sentence uses 'soyons' (imperative 1st person plural of être) to suggest collective honesty.",
       "difficulty": "C2",
       "source": "Formal discussion requiring diplomatic approach",
       "tags": [
@@ -2934,7 +2952,8 @@
         "honesty",
         "complex-situations"
       ],
-      "timeCreated": 1719936240
+      "timeCreated": 1719936240,
+      "verified": "claude"
     },
     {
       "id": 2884,
@@ -2972,14 +2991,15 @@
       "correct": 0,
       "explanation": "The text states '<em>Au-dedans de cette investigation rare, vous retrouverez délicieusement les événements traumatiques gardés dans votre tunnel de mémoire</em>' - Inside this rare investigation, you will deliciously rediscover the traumatic events kept in your memory tunnel. 'Retrouverez' is the future tense second person plural of 'retrouver'.",
       "difficulty": "C1",
-      "source": "Strategic targeting - au-dedans + retrouverez + délicieusement + rare-events + trauma + gardés + tunnel synergy + psychological investigation",
+      "source": "Psychological investigation scenario",
       "tags": [
         "rare-events",
         "trauma",
         "tunnel",
         "psychological-investigation"
       ],
-      "timeCreated": 1736805700
+      "timeCreated": 1736805700,
+      "verified": "claude"
     },
     {
       "id": 2887,
@@ -3092,7 +3112,7 @@
         "That everyone had a clear plan for their future."
       ],
       "correct": 0,
-      "explanation": "The narrator uses 'croyais' (imperfect of croire - I used to believe) to describe a past belief from childhood: that all adults knew exactly what to do in life.",
+      "explanation": "The text states '<em>Quand j'étais jeune, je croyais que tous les adultes savaient exactement quoi faire dans la vie</em>' - When I was young, I believed that all adults knew exactly what to do in life. The narrator uses 'croyais' (imperfect of croire - I used to believe) to describe a past belief from childhood.",
       "difficulty": "C1",
       "source": "Childhood Reflections",
       "tags": [
@@ -3101,7 +3121,8 @@
         "perspective",
         "philosophy"
       ],
-      "timeCreated": 1719962300
+      "timeCreated": 1719962300,
+      "verified": "claude"
     },
     {
       "id": 2892,
@@ -3294,7 +3315,7 @@
         "Focusing only on the current issues without considering the past"
       ],
       "correct": 0,
-      "explanation": "The adverb 'd'abord' means 'first' or 'first of all', indicating priority or sequence. The speaker emphasizes that the primary step is to understand the historical and cultural perspectives of each party involved in the conflict.",
+      "explanation": "The text states '<em>Pour résoudre ce conflit complexe, nous devons d'abord comprendre les perspectives historiques et culturelles de chaque partie impliquée</em>' - To resolve this complex conflict, we must first understand the historical and cultural perspectives of each involved party. The adverb 'd'abord' means 'first' or 'first of all', indicating priority.",
       "difficulty": "C2",
       "source": "Conflict resolution seminar",
       "tags": [
@@ -3302,7 +3323,8 @@
         "conflict-resolution",
         "diplomacy"
       ],
-      "timeCreated": 1720076460
+      "timeCreated": 1720076460,
+      "verified": "claude"
     },
     {
       "id": 2901,
@@ -3622,7 +3644,8 @@
         "strategy",
         "formal-discourse"
       ],
-      "timeCreated": 1736065700
+      "timeCreated": 1736065700,
+      "verified": "claude"
     },
     {
       "id": 2915,
@@ -3728,12 +3751,12 @@
       "questionType": "listening",
       "options": [
         "Cette approche pédagogique unique révolutionne complètement l'enseignement des mathématiques dans les écoles primaires.",
-        "Cette approche pédagogique unique révolutionne complètement l'enseignement des mathématiques dans les écoles primaires.",
+        "Cette approche pédagogique unique révolutionne complètement l'enseignement des mathématiques dans les écoles secondaires.",
         "Cette approche pédagogique spéciale révolutionne complètement l'enseignement des mathématiques dans les écoles primaires.",
         "Cette approche pédagogique nouvelle révolutionne complètement l'enseignement des mathématiques dans les écoles primaires."
       ],
       "correct": 0,
-      "explanation": "The speaker said 'Cette approche pédagogique unique révolutionne complètement l'enseignement des mathématiques dans les écoles primaires.' - This unique pedagogical approach completely revolutionizes mathematics teaching in elementary schools. 'Unique' is a high-frequency adjective meaning one-of-a-kind or exceptional.",
+      "explanation": "The speaker said '<em>Cette approche pédagogique unique révolutionne complètement l'enseignement des mathématiques dans les écoles primaires</em>' - This unique pedagogical approach completely revolutionizes mathematics teaching in elementary schools. The distractors test confusion about the word 'unique' vs 'spéciale' or 'nouvelle'.",
       "difficulty": "C1",
       "source": "Educational innovation",
       "tags": [
@@ -3743,7 +3766,8 @@
         "pedagogy",
         "elementary-school"
       ],
-      "timeCreated": 1736067800
+      "timeCreated": 1736067800,
+      "verified": "claude"
     },
     {
       "id": 2920,
@@ -3872,7 +3896,7 @@
         "ayant"
       ],
       "correct": 0,
-      "explanation": "The correct form is 'eue' (feminine past participle of 'avoir'). It agrees with 'la réaction' (feminine). The construction is 'la réaction qu'elle a eue' - the reaction that she had.",
+      "explanation": "The text states '<em>La réaction qu'elle a eue face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion</em>' - The reaction she had to this unexpected news surprised everyone in the meeting room. The correct form is 'eue' (feminine past participle of 'avoir') agreeing with 'la réaction' (feminine).",
       "difficulty": "C1",
       "source": "Professional Meeting",
       "tags": [
@@ -3881,7 +3905,8 @@
         "meetings",
         "unexpected-news"
       ],
-      "timeCreated": 1719964500
+      "timeCreated": 1719964500,
+      "verified": "claude"
     },
     {
       "id": 2926,
@@ -3920,7 +3945,7 @@
         "She criticized the election process in her region"
       ],
       "correct": 1,
-      "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
+      "explanation": "The text states '<em>Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.</em>' - In a recent interview, the deputy from Pas-de-Calais declared having considered the possibility that she might not be able to run in the upcoming elections. This shows she has thought about the scenario where she cannot participate in the elections.",
       "difficulty": "C1",
       "source": "French Political Interview",
       "tags": [
@@ -3929,7 +3954,9 @@
         "deputy",
         "candidacy",
         "interview"
-      ]
+      ],
+      "timeCreated": 1737648720,
+      "verified": "claude"
     },
     {
       "id": 2928,
@@ -3991,7 +4018,7 @@
         "To reveal that the investigation found evidence of international terrorist involvement"
       ],
       "correct": 0,
-      "explanation": "The mayor's clarification that the property owners 'n'ont rien à voir avec le conflit israélo-palestinien' - have nothing to do with the Israeli-Palestinian conflict - implies that the arson incident may have been perceived as or actually motivated by tensions related to that conflict. By emphasizing the victims are just 'des gens du quartier' (local people), the mayor is distancing them from any political motivations behind the attack.",
+      "explanation": "The text states '<em>Le maire du 12e arrondissement de Marseille, Sylvain Souvestre a condamné cet incendie, précisant: «les propriétaires sont des gens du quartier, un couple qui n'a rien à voir avec le conflit israélo-palestinien».</em>' - The mayor of the 12th district of Marseille, Sylvain Souvestre condemned this fire, specifying: 'the owners are people from the neighborhood, a couple who have nothing to do with the Israeli-Palestinian conflict.' The mayor's clarification implies the arson may have been perceived as motivated by Middle East tensions, but the victims were uninvolved local residents.",
       "difficulty": "C1",
       "source": "French Political News - Marseille Incident",
       "tags": [
@@ -4004,7 +4031,8 @@
         "islamophobia",
         "political-statement"
       ],
-      "timeCreated": 1735500536
+      "timeCreated": 1735500536,
+      "verified": "claude"
     },
     {
       "id": 2931,
@@ -4117,7 +4145,7 @@
         "It should be the primary focus of all future development projects."
       ],
       "correct": 0,
-      "explanation": "The speaker describes 'Cette idée complètement folle de transformer radicalement l'architecture urbaine contemporaine pourrait néanmoins revêtir une pertinence inattendue dans le contexte de la transition écologique' - This completely crazy idea of radically transforming contemporary urban architecture could nevertheless have unexpected relevance in the context of ecological transition. 'Fou/folle' means crazy or mad.",
+      "explanation": "The text states '<em>Cette idée completement folle de transformer radicalement l'architecture urbaine contemporaine pourrait néanmoins revêtir une pertinence inattendue dans le contexte de la transition écologique et de la durabilité environnementale</em>' - This completely crazy idea of radically transforming contemporary urban architecture could nevertheless have unexpected relevance in the context of ecological transition and environmental sustainability. 'Fou/folle' means crazy or mad.",
       "difficulty": "C1",
       "source": "Urban planning and ecological architecture",
       "tags": [
@@ -4126,7 +4154,8 @@
         "architecture",
         "innovation"
       ],
-      "timeCreated": 1735948860
+      "timeCreated": 1735948860,
+      "verified": "claude"
     },
     {
       "id": 2936,
@@ -4254,7 +4283,7 @@
         "They're promising to help with any consequences"
       ],
       "correct": 0,
-      "explanation": "'Tant pis' is an expression meaning 'too bad' or 'so much the worse'. The speaker is expressing a resigned or indifferent attitude - if you continue this way, too bad for whatever consequences might result. They're washing their hands of responsibility.",
+      "explanation": "The text states '<em>Si vous continuez ainsi, tant pis pour les conséquences que cela pourrait engendrer</em>' - If you continue like this, too bad for the consequences this could generate. 'Tant pis' is an expression meaning 'too bad' or 'so much the worse'. The speaker is expressing a resigned or indifferent attitude - they're washing their hands of responsibility.",
       "difficulty": "C1",
       "source": "Warning with resignation",
       "tags": [
@@ -4262,7 +4291,8 @@
         "resignation",
         "warning"
       ],
-      "timeCreated": 1720077200
+      "timeCreated": 1720077200,
+      "verified": "claude"
     },
     {
       "id": 2942,
@@ -4421,7 +4451,7 @@
         "dira"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'dirait' - the conditional form of 'dire' (to say). In this cybersecurity context, the conditional expresses what the expert would say about this potential cyber-attack threat. 'Coup' here refers to a cyber-attack strike.",
+      "explanation": "The text states '<em>L'expert en sécurité dirait que ce coup de cyber-attaque pourrait paralyser complètement l'infrastructure numérique nationale.</em>' - The security expert would say that this cyber-attack strike could completely paralyze the national digital infrastructure. The correct answer is 'dirait' - the conditional form of 'dire' (to say). In this cybersecurity context, the conditional expresses what the expert would say about this potential cyber-attack threat.",
       "difficulty": "C1",
       "source": "Cybersecurity Expert Analysis",
       "tags": [
@@ -4431,7 +4461,8 @@
         "digital-infrastructure",
         "national-security"
       ],
-      "timeCreated": 1735500702
+      "timeCreated": 1735500702,
+      "verified": "claude"
     },
     {
       "id": 2949,
@@ -4511,7 +4542,7 @@
     },
     {
       "id": 2952,
-      "audioText": "Précédemment, ils jouaient prudemment en tenant leur dos contre le mur énorme, mais vous sentirez que leur esprit tenaient une force dangereuse.",
+      "audioText": "Précédemment, ils jouaient prudemment en tenant leur dos contre le mur énorme, mais vous sentirez que leur esprit tenait une force dangereuse.",
       "question": "How did they previously play while holding their backs against the wall?",
       "questionType": "comprehension",
       "options": [
@@ -4521,7 +4552,7 @@
         "Loudly"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Précédemment, ils jouaient prudemment en tenant leur dos contre le mur énorme, mais vous sentirez que leur esprit tenaient une force dangereuse.</em>' - Previously, they played carefully while holding their backs against the enormous wall, but you will feel that their spirit held a dangerous force. 'Prudemment' means carefully/cautiously, describing their manner of playing.",
+      "explanation": "The text states '<em>Précédemment, ils jouaient prudemment en tenant leur dos contre le mur énorme, mais vous sentirez que leur esprit tenait une force dangereuse.</em>' - Previously, they played carefully while holding their backs against the enormous wall, but you will feel that their spirit held a dangerous force. 'Prudemment' means carefully/cautiously, describing their manner of playing.",
       "difficulty": "C1",
       "source": "Strategic vocabulary targeting",
       "tags": [
@@ -4530,7 +4561,8 @@
         "tension",
         "danger"
       ],
-      "timeCreated": 1720824000
+      "timeCreated": 1720824000,
+      "verified": "claude"
     },
     {
       "id": 2953,
@@ -4576,7 +4608,8 @@
         "behavior-analysis",
         "romance"
       ],
-      "timeCreated": 1720825440
+      "timeCreated": 1720825440,
+      "verified": "claude"
     },
     {
       "id": 2955,
@@ -4599,7 +4632,8 @@
         "physical-description",
         "analysis"
       ],
-      "timeCreated": 1720825680
+      "timeCreated": 1720825680,
+      "verified": "claude"
     },
     {
       "id": 2956,
@@ -4691,7 +4725,8 @@
         "sociology",
         "analysis"
       ],
-      "timeCreated": 1720826160
+      "timeCreated": 1720826160,
+      "verified": "claude"
     },
     {
       "id": 2960,
@@ -4705,7 +4740,7 @@
         "L'infirmière a parlé doucement au patient pour l'apaiser avant l'intervention chirurgicale délicate qui l'attendais."
       ],
       "correct": 0,
-      "explanation": "The correct option is 'L'infirmière a parlé doucement au patient pour l'apaiser avant l'intervention chirurgicale délicate qui l'attendait.' - The nurse spoke gently to the patient to calm him before the delicate surgery that awaited him. This listening exercise tests imperfect tense endings ('attendait' vs 'attendaient' vs 'attendais') in complex medical contexts.",
+      "explanation": "The text states '<em>L'infirmière a parlé doucement au patient pour l'apaiser avant l'intervention chirurgicale délicate qui l'attendait.</em>' - The nurse spoke gently to the patient to calm him before the delicate surgery that awaited him. This listening exercise tests imperfect tense endings ('attendait' vs 'attendaient' vs 'attendais').",
       "difficulty": "C1",
       "source": "Medical care scenario",
       "tags": [
@@ -4714,7 +4749,8 @@
         "surgery"
       ],
       "parentQuestion": 2903,
-      "timeCreated": 1720826520
+      "timeCreated": 1720826520,
+      "verified": "claude"
     },
     {
       "id": 2961,
@@ -4849,13 +4885,14 @@
       "correct": 0,
       "explanation": "The text states '<em>L'ampleur de ce tour de force intellectuel dépasse tout ce que le bout de ses doigts agiles avait pu concevoir jusqu'alors, ouvrant des perspectives inédites</em>' - The scope of this intellectual feat exceeds everything that the tip of his agile fingers had been able to conceive until then, opening unprecedented perspectives. This targets 'tour' and 'bout' in an intellectual achievement context.",
       "difficulty": "C1",
-      "source": "Strategic noun targeting: tour, bout",
+      "source": "Intellectual achievement scenario",
       "tags": [
         "intellectual",
         "achievement",
         "innovation"
       ],
-      "timeCreated": 1720617120
+      "timeCreated": 1720617120,
+      "verified": "claude"
     },
     {
       "id": 2967,
@@ -4877,7 +4914,8 @@
         "research",
         "ecology"
       ],
-      "timeCreated": 1720617180
+      "timeCreated": 1720617180,
+      "verified": "claude"
     },
     {
       "id": 2968,
@@ -4987,7 +5025,8 @@
         "human-spirit",
         "determination"
       ],
-      "timeCreated": 1720617920
+      "timeCreated": 1720617920,
+      "verified": "claude"
     },
     {
       "id": 2973,
@@ -5054,7 +5093,8 @@
         "international-relations",
         "peace"
       ],
-      "timeCreated": 1720618520
+      "timeCreated": 1720618520,
+      "verified": "claude"
     },
     {
       "id": 2976,
@@ -5076,7 +5116,8 @@
         "innovation",
         "hospitality"
       ],
-      "timeCreated": 1720618580
+      "timeCreated": 1720618580,
+      "verified": "claude"
     },
     {
       "id": 2977,
@@ -5263,7 +5304,8 @@
         "poststructuralism",
         "epistemology"
       ],
-      "timeCreated": 1720963620
+      "timeCreated": 1720963620,
+      "verified": "claude"
     },
     {
       "id": 2986,
@@ -5348,13 +5390,14 @@
       "correct": 0,
       "explanation": "The text states '<em>L'analyse immense de cette phénoménologie contemporaine révèle que les paradigmes riches en nuances conceptuelles nécessitent une approche épistémologique très sophistiquée</em>' - The immense analysis of this contemporary phenomenology reveals that paradigms rich in conceptual nuances require a very sophisticated epistemological approach. The adjectives 'immense' (immense/extensive) and 'riches' (rich) emphasize scale and complexity.",
       "difficulty": "C1",
-      "source": "Strategic adjective targeting: immense, riche",
+      "source": "Philosophical phenomenology analysis",
       "tags": [
         "philosophy",
         "academic-research",
         "epistemology"
       ],
-      "timeCreated": 1720964400
+      "timeCreated": 1720964400,
+      "verified": "claude"
     },
     {
       "id": 2990,
@@ -5533,7 +5576,8 @@
         "science",
         "biodiversity"
       ],
-      "timeCreated": 1736802220
+      "timeCreated": 1736802220,
+      "verified": "claude"
     },
     {
       "id": 2998,
@@ -5549,13 +5593,14 @@
       "correct": 0,
       "explanation": "The correct answer is 'Confidential documents about sensitive diplomatic agreements'. The text states '<em>La clé USB retrouvée dans les archives contenait des documents confidentiels concernant des accords diplomatiques sensibles</em>' - The USB key found in the archives contained confidential documents about sensitive diplomatic agreements. 'Retrouvée' is the feminine past participle agreeing with 'clé'.",
       "difficulty": "C1",
-      "source": "Strategic targeting - retrouvée + agreements + archives",
+      "source": "Diplomatic archives discovery",
       "tags": [
         "politics",
         "agreements",
         "archives"
       ],
-      "timeCreated": 1736802280
+      "timeCreated": 1736802280,
+      "verified": "claude"
     },
     {
       "id": 2999,
@@ -5636,7 +5681,7 @@
         "As academically mandated"
       ],
       "correct": 1,
-      "explanation": "The text states '<em>Nous tenons à cet instant de réflexion profonde, personnellement essentiel</em>' - We value this moment of deep reflection, personally essential. 'Tenons' means we hold/value, 'instant' means moment, 'profonde' means deep, and 'personnellement' means personally.",
+      "explanation": "The text states '<em>Nous tenons à cet instant de réflexion profonde, personnellement essentiel pour notre développement intellectuel</em>' - We value this moment of deep reflection, personally essential for our intellectual development. 'Tenons' means we hold/value, 'instant' means moment, 'profonde' means deep, and 'personnellement' means personally.",
       "difficulty": "C1",
       "source": "Philosophical reflection and personal development",
       "tags": [
@@ -5644,7 +5689,8 @@
         "personal-development",
         "reflection"
       ],
-      "timeCreated": 1751777362
+      "timeCreated": 1751777362,
+      "verified": "claude"
     },
     {
       "id": 3004,
@@ -5704,13 +5750,14 @@
       "correct": 0,
       "explanation": "The text states '<em>Pêle-mêle, ces occasions manquent invariablement car ce colonel russe importe résolument que nous emmenions ces enfants honnêtes dans l'appartement vaste pour qu'ils racontent leurs expériences intéressantes de la beauté spéciale</em>' - Helter-skelter, these opportunities invariably lack because this Russian colonel resolutely matters that we take these honest children to the vast apartment so they tell their interesting experiences of special beauty. This tests complex subjunctive and agreement patterns.",
       "difficulty": "C1",
-      "source": "Strategic targeting - pêle-mêle + manquent + invariablement + colonel + russe + importe + résolument + emmènerai + honnête + appartement + vaste + raconterai + intéressant + beauté + spécial synergy + storytelling",
+      "source": "Military storytelling scenario",
       "tags": [
         "storytelling",
         "military",
         "apartments"
       ],
-      "timeCreated": 1736805920
+      "timeCreated": 1736805920,
+      "verified": "claude"
     },
     {
       "id": 3007,
@@ -5868,7 +5915,8 @@
         "mission",
         "food"
       ],
-      "timeCreated": 1736806480
+      "timeCreated": 1736806480,
+      "verified": "claude"
     },
     {
       "id": 3014,
@@ -5914,7 +5962,8 @@
         "recognition"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 1016
+      "parentQuestion": 1016,
+      "verified": "claude"
     },
     {
       "id": 3016,
@@ -6124,7 +6173,8 @@
         "transparency",
         "analysis"
       ],
-      "timeCreated": 1751811960
+      "timeCreated": 1751811960,
+      "verified": "claude"
     },
     {
       "id": 3025,
@@ -6147,7 +6197,8 @@
         "development",
         "sustainability"
       ],
-      "timeCreated": 1751812140
+      "timeCreated": 1737978000,
+      "verified": "claude"
     },
     {
       "id": 3026,
@@ -6217,7 +6268,8 @@
         "discovery",
         "observation"
       ],
-      "timeCreated": 1751812440
+      "timeCreated": 1737978000,
+      "verified": "claude"
     },
     {
       "id": 3029,
@@ -6379,7 +6431,8 @@
         "policy",
         "ecology"
       ],
-      "timeCreated": 1751813400
+      "timeCreated": 1751813400,
+      "verified": "claude"
     },
     {
       "id": 3036,
@@ -6516,7 +6569,7 @@
         "It includes financial projections that are required for the annual audit"
       ],
       "correct": 0,
-      "explanation": "The speaker states that this comparative analysis of emerging markets 'déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives' - will determine our competitive positioning for the next three years and directly influence our investment decisions in disruptive technologies. Note the subjunctive 'aie' in 'il est essentiel que j'aie terminé' expressing necessity.",
+      "explanation": "The text states '<em>Il est essentiel que j'aie terminé cette présentation stratégique avant la réunion avec le conseil d'administration. Cette analyse comparative des marchés émergents déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives</em>' - It is essential that I have finished this strategic presentation before the meeting with the board of directors. This comparative analysis of emerging markets will determine our competitive positioning for the next three years and directly influence our investment decisions in disruptive technologies.",
       "difficulty": "C1",
       "source": "Corporate Strategy Meeting",
       "tags": [
@@ -6525,7 +6578,9 @@
         "board-meeting",
         "competitive-analysis",
         "corporate-presentation"
-      ]
+      ],
+      "timeCreated": 1720026560,
+      "verified": "claude"
     },
     {
       "id": 3042,
@@ -6608,7 +6663,7 @@
         "They fought with other students"
       ],
       "correct": 0,
-      "explanation": "The sentence uses 'étions' (imperfect 1st person plural of être) to describe how they were often punished for being too noisy as children.",
+      "explanation": "The text states '<em>Quand nous étions enfants, nous étions souvent punis parce que nous étions trop bruyants en classe</em>' - When we were children, we were often punished because we were too noisy in class. The sentence uses 'étions' (imperfect 1st person plural of être) to describe how they were often punished for being too noisy as children.",
       "difficulty": "C1",
       "source": "Childhood memories with imperfect tense",
       "tags": [
@@ -6616,7 +6671,8 @@
         "childhood",
         "behavior"
       ],
-      "timeCreated": 1719936120
+      "timeCreated": 1719936120,
+      "verified": "claude"
     },
     {
       "id": 3046,
@@ -6705,7 +6761,8 @@
         "emotions",
         "relationships"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": 1721218800,
+      "verified": "claude"
     },
     {
       "id": 3050,
@@ -6775,7 +6832,8 @@
         "workplace",
         "conflict-resolution"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": 1721218800,
+      "verified": "claude"
     },
     {
       "id": 3053,
@@ -6974,7 +7032,8 @@
         "motivation",
         "networking"
       ],
-      "timeCreated": 1736804440
+      "timeCreated": 1736804440,
+      "verified": "claude"
     },
     {
       "id": 3062,
@@ -7034,13 +7093,14 @@
       "correct": 0,
       "explanation": "The text states '<em>Cette propriété achetée alias vendue momentanément révèle un marché immobilier coupable de manipulation flagrante des prix selon la mémoire collective</em>' - This property purchased or rather sold temporarily reveals a real estate market guilty of flagrant price manipulation according to collective memory. This combines 'achetée', 'alias', 'momentanément', 'coupable', and 'mémoire' in a market analysis context.",
       "difficulty": "C1",
-      "source": "Strategic targeting - achetée + alias + momentanément + coupable + mémoire synergy + market analysis",
+      "source": "Real estate market analysis",
       "tags": [
         "market-analysis",
         "real-estate",
         "manipulation"
       ],
-      "timeCreated": 1736804500
+      "timeCreated": 1736804500,
+      "verified": "claude"
     },
     {
       "id": 3065,
@@ -7110,7 +7170,7 @@
     },
     {
       "id": 3068,
-      "audioText": "Les avocats nu de tout espoir quittent cash cette condition malheureux où ils prions pour obtenir un bateau spécial transportant leur dossier vers la cour suprême.",
+      "audioText": "Les avocats nus de tout espoir quittent cash cette condition malheureuse où ils prient pour obtenir un bateau spécial transportant leur dossier vers la cour suprême.",
       "question": "What do the lawyers do regarding their hopeless situation?",
       "questionType": "comprehension",
       "options": [
@@ -7120,7 +7180,7 @@
         "They organize protest demonstrations outside government judicial buildings"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Les avocats nu de tout espoir quittent cash cette condition malheureux où ils prions pour obtenir un bateau spécial transportant leur dossier vers la cour suprême</em>' - The lawyers stripped of all hope immediately abandon this unhappy condition where they pray to obtain a special boat transporting their file to the supreme court. This combines 'nu', 'quittent', 'cash', 'condition', 'malheureux', 'prions', 'bateau', 'spécial' in a legal context.",
+      "explanation": "The text states '<em>Les avocats nus de tout espoir quittent cash cette condition malheureuse où ils prient pour obtenir un bateau spécial transportant leur dossier vers la cour suprême</em>' - The lawyers stripped of all hope immediately abandon this unhappy condition where they pray to obtain a special boat transporting their file to the supreme court. 'Nus' means stripped/bare, 'quittent' means leave, and 'prient' means pray.",
       "difficulty": "C1",
       "source": "Strategic targeting - nu + quittent + cash + condition + malheureux + prions + bateau + spécial + supreme-court synergy + legal desperation",
       "tags": [
@@ -7128,12 +7188,13 @@
         "legal-desperation",
         "condition"
       ],
-      "timeCreated": 1736804580
+      "timeCreated": 1736804580,
+      "verified": "claude"
     },
     {
       "id": 3069,
-      "audioText": "Conformément aux recommandations, les entreprises quitterai cette pierre tombale économique où elles souvienne horriblement de leurs échecs passés.",
-      "question": "Conformément aux recommandations, les entreprises ______ cette pierre tombale économique où elles souvienne horriblement de leurs échecs passés.",
+      "audioText": "Conformément aux recommandations, les entreprises quitteront cette pierre tombale économique où elles se souviennent horriblement de leurs échecs passés.",
+      "question": "Conformément aux recommandations, les entreprises ______ cette pierre tombale économique où elles se souviennent horriblement de leurs échecs passés.",
       "questionType": "fill-in-the-blank",
       "options": [
         "quitteront",
@@ -7142,7 +7203,7 @@
         "quitteraient"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Conformément aux recommandations, les entreprises quitteront cette pierre tombale économique où elles se souviennent horriblement de leurs échecs passés</em>' - In accordance with recommendations, companies will leave this economic tombstone where they horribly remember their past failures. This combines 'conformément', 'quitterai', 'pierre', 'souvienne', and 'horriblement'.",
+      "explanation": "The text states '<em>Conformément aux recommandations, les entreprises quitteront cette pierre tombale économique où elles se souviennent horriblement de leurs échecs passés</em>' - In accordance with recommendations, companies will leave this economic tombstone where they horribly remember their past failures. 'Quitteront' is the future form of 'quitter' (to leave), third person plural.",
       "difficulty": "C1",
       "source": "Strategic targeting - conformément + quitterai + pierre + souvienne + horriblement synergy + economic recovery",
       "tags": [
@@ -7150,11 +7211,12 @@
         "business-failure",
         "recommendations"
       ],
-      "timeCreated": 1736804720
+      "timeCreated": 1736804720,
+      "verified": "claude"
     },
     {
       "id": 3070,
-      "audioText": "Ardemment, cette organisation retrouvent les documents quittés dans la forêt où les penalties ont été appliquées sauvagement contre les manifestants.",
+      "audioText": "Ardemment, cette organisation retrouve les documents quittés dans la forêt où les penalties ont été appliquées sauvagement contre les manifestants.",
       "question": "What does the organization ardently do?",
       "questionType": "comprehension",
       "options": [
@@ -7164,7 +7226,7 @@
         "They establish new conservation programs for protecting wildlife habitats"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Ardemment, cette organisation retrouvent les documents quittés dans la forêt où les penalties ont été appliquées sauvagement contre les manifestants</em>' - Ardently, this organization recovers the documents left in the forest where penalties were savagely applied against protesters. This combines 'ardemment', 'retrouvent', 'quittés', 'forêt', 'penalties', and 'sauvagement'.",
+      "explanation": "The text states '<em>Ardemment, cette organisation retrouve les documents quittés dans la forêt où les penalties ont été appliquées sauvagement contre les manifestants</em>' - Ardently, this organization recovers the documents left in the forest where penalties were savagely applied against protesters. 'Retrouve' means recovers/finds again, and 'quittés' means abandoned/left.",
       "difficulty": "C1",
       "source": "Strategic targeting - ardemment + retrouvent + quittés + forêt + penalties + sauvagement synergy + protest documentation",
       "tags": [
@@ -7172,7 +7234,8 @@
         "penalties",
         "protest-documentation"
       ],
-      "timeCreated": 1736804740
+      "timeCreated": 1736804740,
+      "verified": "claude"
     },
     {
       "id": 3071,
@@ -7217,7 +7280,8 @@
         "military-strategy",
         "academic-discourse"
       ],
-      "timeCreated": 1720027160
+      "timeCreated": 1720027160,
+      "verified": "claude"
     },
     {
       "id": 3073,
@@ -7255,7 +7319,7 @@
         "Arrêtant"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'Arrête' (2nd person singular imperative of 'arrêter'). The imperative mood is used for commands and instructions. 'Arrête!' means 'Stop!' and is the informal command form used to tell someone to stop doing something immediately.",
+      "explanation": "The text states '<em>Arrête ! Tu ne peux pas traverser maintenant, le feu est rouge</em>' - Stop! You can't cross now, the light is red. The correct answer is 'Arrête' (2nd person singular imperative of 'arrêter'), the informal command form used to tell someone to stop immediately.",
       "difficulty": "C1",
       "source": "Traffic Safety - Emergency Commands",
       "tags": [
@@ -7264,7 +7328,8 @@
         "pedestrian-safety",
         "urban-navigation"
       ],
-      "timeCreated": 1720027640
+      "timeCreated": 1720027640,
+      "verified": "claude"
     },
     {
       "id": 3076,
@@ -7384,11 +7449,33 @@
       ],
       "timeCreated": 1720823100,
       "verified": "claude"
+    },
+    {
+      "id": 3081,
+      "audioText": "Le gouvernement protégera les libertés fondamentales des citoyens contre toute tentative d'ingérence autoritaire, même en période de crise politique majeure.",
+      "question": "What commitment is the government making?",
+      "questionType": "comprehension",
+      "options": [
+        "To expand governmental powers during crises",
+        "To safeguard citizens' fundamental freedoms",
+        "To restrict civil liberties temporarily",
+        "To negotiate with authoritarian regimes"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Le gouvernement protégera les libertés fondamentales des citoyens contre toute tentative d'ingérence autoritaire, même en période de crise politique majeure</em>' - The government will protect citizens' fundamental freedoms against any attempt at authoritarian interference, even during major political crises. The future tense 'protégera' (will protect) expresses this firm commitment.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "politics",
+        "civil-rights",
+        "government-policy"
+      ],
+      "timeCreated": 1721988480
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-25T23:53:34.572Z",
-    "totalQuestions": 320,
+    "compiledAt": "2025-07-27T06:46:34.472Z",
+    "totalQuestions": 321,
     "level": "C",
     "idRange": "2744-4000",
     "difficulties": [

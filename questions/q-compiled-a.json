@@ -601,7 +601,8 @@
         "accidents",
         "transportation"
       ],
-      "timeCreated": 1720134000
+      "timeCreated": 1720134000,
+      "verified": "claude"
     },
     {
       "id": 27,
@@ -3386,7 +3387,8 @@
         "preferences",
         "vegetables"
       ],
-      "timeCreated": "2025-01-21T15:55:00Z"
+      "timeCreated": 1737468900,
+      "verified": "claude"
     },
     {
       "id": 147,
@@ -6505,7 +6507,7 @@
         "Demain, je resterai à la maison pour finir mon projet de art numérique."
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Demain, je resterai à la maison pour finir mon projet d'art numérique.</em>' - 'Tomorrow, I will stay home to finish my digital art project.' This listening version tests auditory discrimination between 'resterai' vs 'rentrerai', 'numérique' vs 'moderne', and correct use of 'd'art' vs 'de art'.",
+      "explanation": "The exact phrase was '<em>Demain, je resterai à la maison pour finir mon projet d'art numérique</em>' - Tomorrow, I will stay home to finish my digital art project. This listening version tests auditory discrimination between 'resterai' vs 'rentrerai', 'numérique' vs 'moderne', and correct use of 'd'art' vs 'de art'.",
       "difficulty": "A2",
       "source": "Listening version of q638",
       "tags": [
@@ -6515,7 +6517,8 @@
         "hobbies"
       ],
       "parentQuestion": 2055,
-      "timeCreated": 1720713600
+      "timeCreated": 1720713600,
+      "verified": "claude"
     },
     {
       "id": 285,
@@ -6768,7 +6771,8 @@
         "food",
         "meals"
       ],
-      "timeCreated": 1720715100
+      "timeCreated": 1720715100,
+      "verified": "claude"
     },
     {
       "id": 296,
@@ -7480,13 +7484,14 @@
       "correct": 0,
       "explanation": "The text states '<em>Elle a un cheveu blanc sur la tête maintenant</em>' - She has a white hair on her head now. 'Cheveu' means hair (singular), and 'blanc' means white.",
       "difficulty": "A2",
-      "source": "Strategic noun threshold reinforcement",
+      "source": "Physical appearance description",
       "tags": [
         "appearance",
         "body",
         "aging"
       ],
-      "timeCreated": 1752094700
+      "timeCreated": 1752094700,
+      "verified": "claude"
     },
     {
       "id": 327,
@@ -7751,12 +7756,13 @@
       "correct": 0,
       "explanation": "The text states '<em>Il a le cœur brisé</em>' - He has a broken heart. The expression 'avoir le cœur brisé' means to be heartbroken or emotionally devastated.",
       "difficulty": "A2",
-      "source": "Strategic noun targeting: cœur",
+      "source": "Emotional expression",
       "tags": [
         "emotions",
         "relationships"
       ],
-      "timeCreated": 1720616580
+      "timeCreated": 1720616580,
+      "verified": "claude"
     },
     {
       "id": 339,
@@ -7974,7 +7980,7 @@
         "optionnel"
       ],
       "correct": 0,
-      "explanation": "The correct answer is 'compris' meaning 'included'. The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
+      "explanation": "The text states '<em>Le prix est de cinquante euros, service compris, pour ce menu gastronomique exceptionnel</em>' - The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
       "difficulty": "A2",
       "source": "Fine dining",
       "tags": [
@@ -7982,7 +7988,8 @@
         "pricing",
         "gastronomy"
       ],
-      "timeCreated": 1720077400
+      "timeCreated": 1720077400,
+      "verified": "claude"
     },
     {
       "id": 349,
@@ -8095,7 +8102,8 @@
         "confusion",
         "education"
       ],
-      "timeCreated": 1736623440
+      "timeCreated": 1736623440,
+      "verified": "claude"
     },
     {
       "id": 354,
@@ -8139,7 +8147,8 @@
         "basic-needs",
         "expressions"
       ],
-      "timeCreated": 1736625120
+      "timeCreated": 1736625120,
+      "verified": "claude"
     },
     {
       "id": 356,
@@ -8246,13 +8255,14 @@
       "correct": 0,
       "explanation": "The correct answer is 'More attentive'. The text states '<em>Les étudiants deviendront plus attentifs après ce passage difficile de l'examen final en classe</em>' - The students will become more attentive after this difficult passage of the final exam in class. 'Deviendront' is the third-person plural future tense of 'devenir' (to become), and 'passage' means 'passage'.",
       "difficulty": "A2",
-      "source": "Strategic vocabulary development - classroom challenges",
+      "source": "Classroom challenges scenario",
       "tags": [
         "classroom",
         "education",
         "examinations"
       ],
-      "timeCreated": 1720823580
+      "timeCreated": 1720823580,
+      "verified": "claude"
     },
     {
       "id": 362,
@@ -8274,7 +8284,8 @@
         "celebration",
         "emotions"
       ],
-      "timeCreated": 1720823760
+      "timeCreated": 1720823760,
+      "verified": "claude"
     },
     {
       "id": 363,
@@ -8386,7 +8397,8 @@
         "legal",
         "justice"
       ],
-      "timeCreated": 1720824120
+      "timeCreated": 1720824120,
+      "verified": "claude"
     },
     {
       "id": 368,
@@ -8430,7 +8442,8 @@
         "analysis",
         "communication"
       ],
-      "timeCreated": 1720824480
+      "timeCreated": 1720824480,
+      "verified": "claude"
     },
     {
       "id": 370,
@@ -8497,7 +8510,8 @@
         "pets",
         "care"
       ],
-      "timeCreated": 1720824660
+      "timeCreated": 1720824660,
+      "verified": "claude"
     },
     {
       "id": 373,
@@ -8973,7 +8987,8 @@
         "safety",
         "security"
       ],
-      "timeCreated": 1720814400
+      "timeCreated": 1720814400,
+      "verified": "claude"
     },
     {
       "id": 395,
@@ -9043,7 +9058,8 @@
         "school"
       ],
       "timeCreated": 1720800000,
-      "parentQuestion": 124
+      "parentQuestion": 124,
+      "verified": "claude"
     },
     {
       "id": 398,
@@ -9270,6 +9286,7 @@
         "coordination"
       ],
       "timeCreated": 1720800000,
+      "verified": "claude",
       "parentQuestion": 376
     },
     {
@@ -9361,7 +9378,8 @@
         "boats",
         "chance"
       ],
-      "timeCreated": 1736804640
+      "timeCreated": 1736804640,
+      "verified": "claude"
     },
     {
       "id": 412,
@@ -9573,7 +9591,7 @@
     },
     {
       "id": 422,
-      "audioText": "Le lendemain, primo nous boirai du courant électrique dans cet avion.",
+      "audioText": "Le lendemain, primo nous boirons du courant électrique dans cet avion.",
       "question": "When will we drink electric current in this airplane?",
       "questionType": "comprehension",
       "options": [
@@ -9583,15 +9601,16 @@
         "After landing at the destination airport"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Le lendemain, primo nous boirons du courant électrique dans cet avion</em>' - The next day, first we will drink electric current in this airplane. This combines 'lendemain', 'primo', 'boirai', 'courant', and 'avion'.",
+      "explanation": "The text states '<em>Le lendemain, primo nous boirons du courant électrique dans cet avion</em>' - The next day, first we will drink electric current in this airplane. 'Boirons' is the correct first person plural future tense of 'boire' (to drink).",
       "difficulty": "A2",
-      "source": "Strategic targeting - lendemain + primo + boirai + courant + avion synergy + travel",
+      "source": "Futuristic travel scenario",
       "tags": [
         "travel",
         "aviation",
         "futuristic-scenario"
       ],
-      "timeCreated": 1736805020
+      "timeCreated": 1736805020,
+      "verified": "claude"
     },
     {
       "id": 423,
@@ -9607,13 +9626,14 @@
       "correct": 0,
       "explanation": "The text states '<em>Merde! La moitié de mon sommeil stupidement perdu à cause de ce mouvement</em>' - Damn! Half of my sleep stupidly lost because of this movement. This tests precise listening of 'merde', 'moitié', 'sommeil', 'stupidement', and 'mouvement'.",
       "difficulty": "A2",
-      "source": "Strategic targeting - merde + moitié + sommeil + stupidement + mouvement synergy + sleep disruption",
+      "source": "Sleep disruption scenario",
       "tags": [
         "sleep-disruption",
         "frustration",
         "disturbance"
       ],
-      "timeCreated": 1736805040
+      "timeCreated": 1736805040,
+      "verified": "claude"
     },
     {
       "id": 424,
@@ -9728,7 +9748,8 @@
         "harvesting"
       ],
       "timeCreated": 1720800000,
-      "parentQuestion": 168
+      "parentQuestion": 168,
+      "verified": "claude"
     },
     {
       "id": 429,
@@ -9749,7 +9770,8 @@
         "journalism",
         "critical-thinking"
       ],
-      "timeCreated": 1720134000
+      "timeCreated": 1720134000,
+      "verified": "claude"
     },
     {
       "id": 430,
@@ -9871,8 +9893,8 @@
     },
     {
       "id": 435,
-      "audioText": "J'ai continué résolument à parler avec l'homme aveugle jusqu'à ce que nous manquez le bateau.",
-      "question": "J'ai ______ résolument à parler avec l'homme aveugle jusqu'à ce que nous manquez le bateau.",
+      "audioText": "J'ai continué résolument à parler avec l'homme aveugle jusqu'à ce que nous manquions le bateau.",
+      "question": "J'ai ______ résolument à parler avec l'homme aveugle jusqu'à ce que nous manquions le bateau.",
       "questionType": "writing",
       "options": [],
       "correct": 0,
@@ -9881,7 +9903,7 @@
         "continué",
         "Continué"
       ],
-      "explanation": "The text states '<em>J'ai continué résolument à parler avec l'homme aveugle jusqu'à ce que nous manquez le bateau</em>' - I continued resolutely to speak with the blind man until we missed the boat. 'Continué' is the past participle of 'continuer' (to continue), used with avoir in the passé composé.",
+      "explanation": "The text states '<em>J'ai continué résolument à parler avec l'homme aveugle jusqu'à ce que nous manquions le bateau</em>' - I continued resolutely to speak with the blind man until we missed the boat. 'Continué' is the past participle of 'continuer' (to continue), used with avoir in the passé composé.",
       "difficulty": "A2",
       "source": "Strategic targeting - continué + résolument + parole + aveugle + manquez + bateau synergy + communication",
       "tags": [
@@ -9889,21 +9911,22 @@
         "disability",
         "transportation"
       ],
-      "timeCreated": 1736805840
+      "timeCreated": 1736805840,
+      "verified": "claude"
     },
     {
       "id": 436,
-      "audioText": "Par hasard, vous réponds à cette question sur le fer dans mon oreille.",
+      "audioText": "Par hasard, vous répondez à cette question sur le fer dans mon oreille.",
       "question": "Par hasard, vous ______ à cette question sur le fer dans mon oreille.",
       "questionType": "fill-in-the-blank",
       "options": [
-        "réponds",
+        "répondez",
         "répondez",
         "répond",
         "répondent"
       ],
-      "correct": 0,
-      "explanation": "The text states '<em>Par hasard, vous réponds à cette question sur le fer dans mon oreille</em>' - By chance, you answer this question about iron in my ear. 'Réponds' is the second person singular form, though with 'vous' it should normally be 'répondez' - this tests recognition of the incorrect form.",
+      "correct": 1,
+      "explanation": "The text states '<em>Par hasard, vous répondez à cette question sur le fer dans mon oreille</em>' - By chance, you answer this question about iron in my ear. 'Répondez' is the correct second person plural form of 'répondre' used with 'vous'.",
       "difficulty": "A2",
       "source": "Strategic targeting - hasard + réponds + fer + oreille synergy + chance",
       "tags": [
@@ -9911,11 +9934,12 @@
         "health",
         "materials"
       ],
-      "timeCreated": 1736806000
+      "timeCreated": 1736806000,
+      "verified": "claude"
     },
     {
       "id": 437,
-      "audioText": "Cette pierre dans votre oreille manqué politiquement d'intérêt pour le diable arrière.",
+      "audioText": "Cette pierre dans votre oreille a manqué politiquement d'intérêt pour le diable arrière.",
       "question": "What politically lacked interest for the devil behind?",
       "questionType": "comprehension",
       "options": [
@@ -9925,7 +9949,7 @@
         "The proposals in the government building today"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Cette pierre dans votre oreille manqué politiquement d'intérêt pour le diable arrière</em>' - This stone in your ear politically lacked interest for the devil behind. This combines 'pierre', 'oreille', 'manqué', 'politiquement', 'intérêt', 'diable', and 'arrière'.",
+      "explanation": "The text states '<em>Cette pierre dans votre oreille a manqué politiquement d'intérêt pour le diable arrière</em>' - This stone in your ear has politically lacked interest for the devil behind. 'Pierre' means stone, 'oreille' means ear, and 'manqué' means lacked/missed.",
       "difficulty": "A2",
       "source": "Strategic targeting - pierre + oreille + manqué + politiquement + intérêt + diable + arrière synergy + supernatural",
       "tags": [
@@ -9933,7 +9957,8 @@
         "health",
         "politics"
       ],
-      "timeCreated": 1736806020
+      "timeCreated": 1736806020,
+      "verified": "claude"
     },
     {
       "id": 438,
@@ -10067,7 +10092,8 @@
         "hobbies"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 2055
+      "parentQuestion": 2055,
+      "verified": "claude"
     },
     {
       "id": 445,
@@ -10089,7 +10115,8 @@
         "crime",
         "daily-life"
       ],
-      "timeCreated": 1736783220
+      "timeCreated": 1736783220,
+      "verified": "claude"
     },
     {
       "id": 446,
@@ -10478,7 +10505,7 @@
         "A wider selection of accessories."
       ],
       "correct": 0,
-      "explanation": "The text states 'Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine' - In this clothing store, I would really like to see a new urban fashion collection. 'Verrais' is the conditional form of 'voir' (to see), here expressing a desire or wish. The expression 'je verrais bien' means 'I would really like to see' or 'I could see'. The distractors test confusion about what the speaker wants to see.",
+      "explanation": "The text states '<em>Dans ce magasin de vêtements, je verrais bien une nouvelle collection de mode urbaine</em>' - In this clothing store, I would really like to see a new urban fashion collection. 'Verrais' is the conditional form of 'voir' (to see), here expressing a desire or wish. The expression 'je verrais bien' means 'I would really like to see' or 'I could see'. The distractors test confusion about what the speaker wants to see.",
       "difficulty": "A2",
       "source": "Fashion and clothing shopping",
       "tags": [
@@ -10488,7 +10515,8 @@
         "urban-style"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 2046
+      "parentQuestion": 2046,
+      "verified": "claude"
     },
     {
       "id": 463,
@@ -10619,7 +10647,7 @@
         "Some time"
       ],
       "correct": 0,
-      "explanation": "The speaker says 'J'ai peu de temps' which means 'I have little time'. The word 'peu' means 'little' or 'not much'. The distractors test confusion about the quantity of time.",
+      "explanation": "The text states '<em>J'ai peu de temps aujourd'hui.</em>' - I have little time today. The word 'peu' means 'little' or 'not much'. The distractors test confusion about the quantity of time.",
       "difficulty": "A1",
       "source": "Daily Schedule",
       "tags": [
@@ -10629,12 +10657,13 @@
         "busy"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 113
+      "parentQuestion": 113,
+      "verified": "claude"
     },
     {
       "id": 469,
       "audioText": "Chaque parent doit faire attention au prix des jouets pour ses enfants.",
-      "question": "Chaque parent doit faire attention au prix des jouets pour ses enfants.",
+      "question": "What must each parent pay attention to?",
       "questionType": "listening",
       "options": [
         "The price of toys for their children",
@@ -10645,7 +10674,7 @@
       "correct": 0,
       "explanation": "The text states '<em>Chaque parent doit faire attention au prix des jouets pour ses enfants</em>' - Each parent must pay attention to the price of toys for their children. 'Parent' means parent, 'prix' means price, and 'jouets' means toys. The distractors test confusion about what parents should pay attention to.",
       "difficulty": "A2",
-      "source": "Strategic noun targeting: parent, prix",
+      "source": "Family shopping guidance",
       "tags": [
         "family",
         "children",
@@ -10653,6 +10682,7 @@
         "toys"
       ],
       "timeCreated": 1720881353,
+      "verified": "claude",
       "parentQuestion": 336
     },
     {
@@ -10902,7 +10932,7 @@
     },
     {
       "id": 481,
-      "audioText": "Tu apportes toujours une évident bonne humeur à nos soirées entre amis.",
+      "audioText": "Tu apportes toujours une évidente bonne humeur à nos soirées entre amis.",
       "question": "What do you always bring to our friendly gatherings?",
       "questionType": "comprehension",
       "options": [
@@ -10912,7 +10942,7 @@
         "Background music"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Tu apportes toujours une évident bonne humeur à nos soirées entre amis</em>' - You always bring an obvious good mood to our friendly gatherings. 'Apportes' is the second person singular of 'apporter', and 'évident' means obvious.",
+      "explanation": "The text states '<em>Tu apportes toujours une évidente bonne humeur à nos soirées entre amis</em>' - You always bring an obvious good mood to our friendly gatherings. 'Apportes' is the second person singular of 'apporter', and 'évidente' means obvious (agreeing with 'humeur' which is feminine).",
       "difficulty": "A2",
       "source": "Claude",
       "tags": [
@@ -10920,7 +10950,8 @@
         "friendship",
         "emotions"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": 1752562800,
+      "verified": "claude"
     },
     {
       "id": 482,
@@ -10942,7 +10973,8 @@
         "sadness",
         "empathy"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": 1720958400,
+      "verified": "claude"
     },
     {
       "id": 483,
@@ -11009,7 +11041,8 @@
         "communication",
         "urgency"
       ],
-      "timeCreated": "2025-07-14T12:00:00Z"
+      "timeCreated": 1752552000,
+      "verified": "claude"
     },
     {
       "id": 486,
@@ -11075,7 +11108,8 @@
         "education",
         "books"
       ],
-      "timeCreated": 1721049600
+      "timeCreated": 1721049600,
+      "verified": "claude"
     },
     {
       "id": 489,
@@ -11097,7 +11131,8 @@
         "commerce",
         "nationality"
       ],
-      "timeCreated": 1721049600
+      "timeCreated": 1721049600,
+      "verified": "claude"
     },
     {
       "id": 490,
@@ -11209,7 +11244,8 @@
         "nature",
         "geography"
       ],
-      "timeCreated": 1721049600
+      "timeCreated": 1721049600,
+      "verified": "claude"
     },
     {
       "id": 495,
@@ -11412,7 +11448,8 @@
         "seasons",
         "weather"
       ],
-      "timeCreated": "2025-07-15T00:00:00Z"
+      "timeCreated": 1721001600,
+      "verified": "claude"
     },
     {
       "id": 504,
@@ -11523,7 +11560,8 @@
         "colors",
         "materials"
       ],
-      "timeCreated": "2025-07-16T00:00:00Z"
+      "timeCreated": "2025-07-16T00:00:00Z",
+      "verified": "claude"
     },
     {
       "id": 509,
@@ -11589,7 +11627,8 @@
         "technology",
         "warning"
       ],
-      "timeCreated": "2025-07-16T00:00:00Z"
+      "timeCreated": 1721088000,
+      "verified": "claude"
     },
     {
       "id": 512,
@@ -11751,12 +11790,13 @@
         "alternatives"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 291
+      "parentQuestion": 291,
+      "verified": "claude"
     },
     {
       "id": 519,
       "audioText": "Elle a un cheveu blanc sur la tête maintenant.",
-      "question": "Elle a un cheveu blanc sur la tête maintenant.",
+      "question": "What does she have on her head now?",
       "questionType": "listening",
       "options": [
         "A white hair",
@@ -11767,13 +11807,14 @@
       "correct": 0,
       "explanation": "The text states '<em>Elle a un cheveu blanc sur la tête maintenant</em>' - She has a white hair on her head now. 'Cheveu' means hair (singular), and 'blanc' means white. The distractors test confusion about what is on her head.",
       "difficulty": "A2",
-      "source": "Strategic noun threshold reinforcement",
+      "source": "Physical appearance description",
       "tags": [
         "appearance",
         "body",
         "aging"
       ],
       "timeCreated": 1720881353,
+      "verified": "claude",
       "parentQuestion": 326
     },
     {
@@ -11843,7 +11884,8 @@
         "time",
         "schedule"
       ],
-      "timeCreated": 1721068860
+      "timeCreated": 1721068860,
+      "verified": "claude"
     },
     {
       "id": 523,
@@ -11938,8 +11980,8 @@
     },
     {
       "id": 527,
-      "audioText": "Présentement, nous plairez étonnamment au diable arrière.",
-      "question": "Présentement, nous plairez étonnamment au diable arrière.",
+      "audioText": "Présentement, nous plairons étonnamment au diable arrière.",
+      "question": "To whom will we amazingly please?",
       "questionType": "listening",
       "options": [
         "The devil behind",
@@ -11948,14 +11990,15 @@
         "The business executives"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Présentement, nous plairez étonnamment au diable arrière</em>' - Presently, we will amazingly please the devil behind. 'Présentement' means currently/presently and 'étonnamment' means amazingly/surprisingly. The distractors test confusion about who will be pleased.",
+      "explanation": "The text states '<em>Présentement, nous plairons étonnamment au diable arrière</em>' - Presently, we will amazingly please the devil behind. 'Présentement' means currently/presently and 'étonnamment' means amazingly/surprisingly.",
       "difficulty": "A2",
-      "source": "Strategic targeting - présentement + plairez + étonnamment + diable + arrière synergy + supernatural",
+      "source": "Supernatural scenario",
       "tags": [
         "supernatural",
         "time"
       ],
       "timeCreated": 1720881353,
+      "verified": "claude",
       "parentQuestion": 442
     },
     {
@@ -12000,7 +12043,8 @@
         "sudden-change",
         "anxiety"
       ],
-      "timeCreated": 1721069460
+      "timeCreated": 1721069460,
+      "verified": "claude"
     },
     {
       "id": 530,
@@ -12022,7 +12066,8 @@
         "books",
         "size"
       ],
-      "timeCreated": 1721069520
+      "timeCreated": 1721069520,
+      "verified": "claude"
     },
     {
       "id": 531,
@@ -12653,7 +12698,7 @@
     },
     {
       "id": 558,
-      "audioText": "Mes parents partent en vacance la semaine prochaine.",
+      "audioText": "Mes parents partent en vacances la semaine prochaine.",
       "question": "What are the parents planning to do next week?",
       "questionType": "comprehension",
       "options": [
@@ -12663,7 +12708,7 @@
         "They are visiting the doctor"
       ],
       "correct": 0,
-      "explanation": "The text states '<em>Mes parents partent en vacance la semaine prochaine</em>' - My parents are going on vacation next week. The singular form 'vacance' is used here in the context of taking time off.",
+      "explanation": "The text states '<em>Mes parents partent en vacances la semaine prochaine</em>' - My parents are going on vacation next week. The plural form 'vacances' is correct when referring to a vacation period.",
       "difficulty": "A2",
       "source": "claude",
       "tags": [
@@ -12672,7 +12717,8 @@
         "vacation",
         "leisure"
       ],
-      "timeCreated": "2025-01-18T10:15:00Z"
+      "timeCreated": 1737284100,
+      "verified": "claude"
     },
     {
       "id": 559,
@@ -12764,7 +12810,8 @@
         "time",
         "morning"
       ],
-      "timeCreated": "2025-01-18T10:23:00Z"
+      "timeCreated": 1737284580,
+      "verified": "claude"
     },
     {
       "id": 563,
@@ -15915,11 +15962,187 @@
       ],
       "timeCreated": 1720108800,
       "verified": "claude"
+    },
+    {
+      "id": 700,
+      "audioText": "Tu sautes très haut dans le jardin !",
+      "question": "What is the person doing?",
+      "questionType": "comprehension",
+      "options": [
+        "Running around the garden",
+        "Jumping very high in the garden",
+        "Climbing trees in the yard",
+        "Walking slowly outside"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Tu sautes très haut dans le jardin !</em>' - You jump very high in the garden! The verb 'sautes' (jump) in second person singular describes the action of jumping.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "physical-activity",
+        "garden",
+        "movement"
+      ],
+      "timeCreated": 1721988480
+    },
+    {
+      "id": 701,
+      "audioText": "Elle joue du piano dans le salon.",
+      "question": "Elle joue du ______ dans le salon.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "piano",
+      "acceptedAnswers": [
+        "piano",
+        "Piano"
+      ],
+      "explanation": "The correct word is 'piano' - a musical instrument. The phrase 'jouer du piano' means 'to play the piano'. This targets the under-represented 'musical-instruments' topic.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "musical-instruments",
+        "home",
+        "entertainment"
+      ],
+      "timeCreated": 1721988480
+    },
+    {
+      "id": 702,
+      "audioText": "Ce gosse joue dans le parc avec son ballon rouge.",
+      "question": "Who is playing in the park?",
+      "questionType": "comprehension",
+      "options": [
+        "An adult with a red ball",
+        "A kid with a red ball",
+        "A dog with a toy",
+        "A teenager with friends"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Ce gosse joue dans le parc avec son ballon rouge</em>' - This kid is playing in the park with his red ball. The noun 'gosse' is an informal word meaning 'kid' or 'child'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "children",
+        "outdoor-activities",
+        "toys"
+      ],
+      "timeCreated": 1721988480
+    },
+    {
+      "id": 703,
+      "audioText": "Le couteau est sur la table de la cuisine.",
+      "question": "Where is the knife?",
+      "questionType": "comprehension",
+      "options": [
+        "In the kitchen drawer",
+        "On the kitchen table",
+        "Next to the stove",
+        "In the dishwasher"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Le couteau est sur la table de la cuisine</em>' - The knife is on the kitchen table. The noun 'couteau' means 'knife'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "kitchen",
+        "home",
+        "utensils"
+      ],
+      "timeCreated": 1721988480
+    },
+    {
+      "id": 704,
+      "audioText": "Mon copain arrive demain pour passer le weekend avec nous.",
+      "question": "When is the friend coming?",
+      "questionType": "comprehension",
+      "options": [
+        "Today for dinner",
+        "Tomorrow for the weekend",
+        "Next week for vacation",
+        "This evening for a party"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Mon copain arrive demain pour passer le weekend avec nous</em>' - My friend is arriving tomorrow to spend the weekend with us. The noun 'copain' means 'friend' or 'buddy' (informal).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "friendship",
+        "family",
+        "weekend"
+      ],
+      "timeCreated": 1721988480
+    },
+    {
+      "id": 705,
+      "audioText": "Il prend un bain chaud tous les soirs avant de dormir.",
+      "question": "What does he do every evening?",
+      "questionType": "comprehension",
+      "options": [
+        "Takes a hot shower",
+        "Takes a hot bath before sleeping",
+        "Reads a book in bed",
+        "Watches television"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Il prend un bain chaud tous les soirs avant de dormir</em>' - He takes a hot bath every evening before sleeping. The noun 'bain' means 'bath'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "daily-life",
+        "health",
+        "routine"
+      ],
+      "timeCreated": 1721988480
+    },
+    {
+      "id": 706,
+      "audioText": "Ce fromage est trop gras pour mon régime.",
+      "question": "What is wrong with the cheese?",
+      "questionType": "comprehension",
+      "options": [
+        "It's too expensive",
+        "It's too fatty for the diet",
+        "It's too old to eat",
+        "It's too salty"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Ce fromage est trop gras pour mon régime</em>' - This cheese is too fatty for my diet. The adjective 'gras' (fatty/greasy) describes the cheese's high fat content.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "food",
+        "health",
+        "diet"
+      ],
+      "timeCreated": 1721988480
+    },
+    {
+      "id": 707,
+      "audioText": "Cette petite fille est vraiment chouette, elle aide toujours sa maman.",
+      "question": "How is the little girl described?",
+      "questionType": "comprehension",
+      "options": [
+        "She's really nice and helpful",
+        "She's very quiet and shy",
+        "She's quite naughty and loud",
+        "She's extremely intelligent"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette petite fille est vraiment chouette, elle aide toujours sa maman</em>' - This little girl is really nice, she always helps her mom. The adjective 'chouette' (nice/cool) is informal and positive.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "children",
+        "family",
+        "personality"
+      ],
+      "timeCreated": 1721988480
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-25T23:53:34.549Z",
-    "totalQuestions": 687,
+    "compiledAt": "2025-07-27T06:46:34.450Z",
+    "totalQuestions": 695,
     "level": "A",
     "idRange": "1-754",
     "difficulties": [
