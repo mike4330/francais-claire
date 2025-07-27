@@ -1,18 +1,19 @@
 {
   "id": 436,
-  "audioText": "Par hasard, vous réponds à cette question sur le fer dans mon oreille.",
+  "audioText": "Par hasard, vous répondez à cette question sur le fer dans mon oreille.",
   "question": "Par hasard, vous ______ à cette question sur le fer dans mon oreille.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "réponds",
+    "répondez",
     "répondez",
     "répond",
     "répondent"
   ],
-  "correct": 0,
-  "explanation": "The text states '<em>Par hasard, vous réponds à cette question sur le fer dans mon oreille</em>' - By chance, you answer this question about iron in my ear. 'Réponds' is the second person singular form, though with 'vous' it should normally be 'répondez' - this tests recognition of the incorrect form.",
+  "correct": 1,
+  "explanation": "The text states '<em>Par hasard, vous répondez à cette question sur le fer dans mon oreille</em>' - By chance, you answer this question about iron in my ear. 'Répondez' is the correct second person plural form of 'répondre' used with 'vous'.",
   "difficulty": "A2",
   "source": "Strategic targeting - hasard + réponds + fer + oreille synergy + chance",
   "tags": ["chance", "health", "materials"],
-  "timeCreated": 1736806000
+  "timeCreated": 1736806000,
+  "verified": "claude"
 }

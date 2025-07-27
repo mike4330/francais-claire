@@ -10,7 +10,7 @@
     "route"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'porte' (door). The sentence means 'One must open each metaphorical door that leads toward a deep understanding of contemporary sociopolitical mechanisms.' This introduces the high-frequency noun 'porte' in an intellectual/academic context with metaphorical usage.",
+  "explanation": "The text states '<em>Il faut ouvrir chaque porte métaphorique qui mène vers une compréhension approfondie des mécanismes sociopolitiques contemporains.</em>' - One must open each metaphorical door that leads toward a deep understanding of contemporary sociopolitical mechanisms. The correct answer is 'porte' (door).",
   "difficulty": "C1",
   "source": "Academic Discourse and Intellectual Access",
   "tags": [
@@ -21,5 +21,6 @@
     "sociopolitics",
     "access-to-knowledge"
   ],
-  "timeCreated": 1751219400
+  "timeCreated": 1737978000,
+  "verified": "claude"
 }

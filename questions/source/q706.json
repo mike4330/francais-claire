@@ -1,0 +1,18 @@
+{
+  "id": 706,
+  "audioText": "Ce fromage est trop gras pour mon régime.",
+  "question": "What is wrong with the cheese?",
+  "questionType": "comprehension",
+  "options": [
+    "It's too expensive",
+    "It's too fatty for the diet",
+    "It's too old to eat",
+    "It's too salty"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Ce fromage est trop gras pour mon régime</em>' - This cheese is too fatty for my diet. The adjective 'gras' (fatty/greasy) describes the cheese's high fat content.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["food", "health", "diet"],
+  "timeCreated": 1721988480
+}

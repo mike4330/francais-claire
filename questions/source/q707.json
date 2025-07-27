@@ -1,0 +1,18 @@
+{
+  "id": 707,
+  "audioText": "Cette petite fille est vraiment chouette, elle aide toujours sa maman.",
+  "question": "How is the little girl described?",
+  "questionType": "comprehension",
+  "options": [
+    "She's really nice and helpful",
+    "She's very quiet and shy",
+    "She's quite naughty and loud",
+    "She's extremely intelligent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette petite fille est vraiment chouette, elle aide toujours sa maman</em>' - This little girl is really nice, she always helps her mom. The adjective 'chouette' (nice/cool) is informal and positive.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["children", "family", "personality"],
+  "timeCreated": 1721988480
+}

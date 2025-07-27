@@ -12,11 +12,12 @@
   "correct": 0,
   "explanation": "The text states '<em>L'analyse immense de cette phénoménologie contemporaine révèle que les paradigmes riches en nuances conceptuelles nécessitent une approche épistémologique très sophistiquée</em>' - The immense analysis of this contemporary phenomenology reveals that paradigms rich in conceptual nuances require a very sophisticated epistemological approach. The adjectives 'immense' (immense/extensive) and 'riches' (rich) emphasize scale and complexity.",
   "difficulty": "C1",
-  "source": "Strategic adjective targeting: immense, riche",
+  "source": "Philosophical phenomenology analysis",
   "tags": [
     "philosophy",
     "academic-research",
     "epistemology"
   ],
-  "timeCreated": 1720964400
+  "timeCreated": 1720964400,
+  "verified": "claude"
 }

@@ -1,6 +1,6 @@
 {
   "id": 3068,
-  "audioText": "Les avocats nu de tout espoir quittent cash cette condition malheureux où ils prions pour obtenir un bateau spécial transportant leur dossier vers la cour suprême.",
+  "audioText": "Les avocats nus de tout espoir quittent cash cette condition malheureuse où ils prient pour obtenir un bateau spécial transportant leur dossier vers la cour suprême.",
   "question": "What do the lawyers do regarding their hopeless situation?",
   "questionType": "comprehension",
   "options": [
@@ -10,7 +10,7 @@
     "They organize protest demonstrations outside government judicial buildings"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les avocats nu de tout espoir quittent cash cette condition malheureux où ils prions pour obtenir un bateau spécial transportant leur dossier vers la cour suprême</em>' - The lawyers stripped of all hope immediately abandon this unhappy condition where they pray to obtain a special boat transporting their file to the supreme court. This combines 'nu', 'quittent', 'cash', 'condition', 'malheureux', 'prions', 'bateau', 'spécial' in a legal context.",
+  "explanation": "The text states '<em>Les avocats nus de tout espoir quittent cash cette condition malheureuse où ils prient pour obtenir un bateau spécial transportant leur dossier vers la cour suprême</em>' - The lawyers stripped of all hope immediately abandon this unhappy condition where they pray to obtain a special boat transporting their file to the supreme court. 'Nus' means stripped/bare, 'quittent' means leave, and 'prient' means pray.",
   "difficulty": "C1",
   "source": "Strategic targeting - nu + quittent + cash + condition + malheureux + prions + bateau + spécial + supreme-court synergy + legal desperation",
   "tags": [
@@ -18,5 +18,6 @@
     "legal-desperation",
     "condition"
   ],
-  "timeCreated": 1736804580
+  "timeCreated": 1736804580,
+  "verified": "claude"
 }

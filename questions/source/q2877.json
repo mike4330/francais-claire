@@ -10,7 +10,7 @@
     "Les experts en géopolitique ont dit que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables."
   ],
   "correct": 0,
-  "explanation": "The listening exercise tests the exact comprehension of 'disaient' (were saying) in the imperfect tense, used to describe what geopolitical experts were saying about a strategic alliance's impact.",
+  "explanation": "The text states '<em>Les experts en géopolitique disaient que cette alliance stratégique bouleverserait l'équilibre des forces dans la région, mais ils n'avaient pas anticipé les répercussions économiques considérables qui ont finalement transformé les rapports de force bien au-delà des prévisions initiales.</em>' - Geopolitical experts were saying that this strategic alliance would disrupt the balance of forces in the region, but they had not anticipated the considerable economic repercussions that ultimately transformed the power relations far beyond initial forecasts. The listening exercise tests exact comprehension of 'disaient' (were saying) in the imperfect tense.",
   "difficulty": "C1",
   "source": "Geopolitical analysis of strategic alliance consequences",
   "tags": [
@@ -20,5 +20,6 @@
     "economic-impact",
     "international-relations"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

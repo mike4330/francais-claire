@@ -1,0 +1,18 @@
+{
+  "id": 2714,
+  "audioText": "Il a agi sagement en refusant cette proposition douteuse qui aurait pu compromettre sa réputation professionnelle.",
+  "question": "How did he respond to the proposal?",
+  "questionType": "comprehension",
+  "options": [
+    "He accepted it immediately without thinking",
+    "He wisely refused the questionable offer",
+    "He negotiated better terms before agreeing",
+    "He asked for more time to consider it"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il a agi sagement en refusant cette proposition douteuse qui aurait pu compromettre sa réputation professionnelle</em>' - He acted wisely by refusing this questionable proposal that could have compromised his professional reputation. The adverb 'sagement' (wisely) modifies how he acted.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["business", "decision-making", "professional-conduct"],
+  "timeCreated": 1721988480
+}

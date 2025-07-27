@@ -12,11 +12,12 @@
   "correct": 0,
   "explanation": "The correct answer is 'Confidential documents about sensitive diplomatic agreements'. The text states '<em>La clé USB retrouvée dans les archives contenait des documents confidentiels concernant des accords diplomatiques sensibles</em>' - The USB key found in the archives contained confidential documents about sensitive diplomatic agreements. 'Retrouvée' is the feminine past participle agreeing with 'clé'.",
   "difficulty": "C1",
-  "source": "Strategic targeting - retrouvée + agreements + archives",
+  "source": "Diplomatic archives discovery",
   "tags": [
     "politics",
     "agreements",
     "archives"
   ],
-  "timeCreated": 1736802280
+  "timeCreated": 1736802280,
+  "verified": "claude"
 }

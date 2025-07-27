@@ -1,0 +1,18 @@
+{
+  "id": 2712,
+  "audioText": "Le directeur nous a remercié pour notre travail exceptionnel lors de la présentation importante d'hier.",
+  "question": "What did the director do?",
+  "questionType": "comprehension",
+  "options": [
+    "Criticized their presentation skills",
+    "Thanked them for exceptional work",
+    "Assigned them more difficult tasks",
+    "Promoted them to higher positions"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Le directeur nous a remercié pour notre travail exceptionnel lors de la présentation importante d'hier</em>' - The director thanked us for our exceptional work during yesterday's important presentation. The past participle 'remercié' (thanked) in the passé composé shows the director's appreciation.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["business", "recognition", "formal-communication"],
+  "timeCreated": 1721988480
+}

@@ -1,0 +1,18 @@
+{
+  "id": 705,
+  "audioText": "Il prend un bain chaud tous les soirs avant de dormir.",
+  "question": "What does he do every evening?",
+  "questionType": "comprehension",
+  "options": [
+    "Takes a hot shower",
+    "Takes a hot bath before sleeping",
+    "Reads a book in bed",
+    "Watches television"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il prend un bain chaud tous les soirs avant de dormir</em>' - He takes a hot bath every evening before sleeping. The noun 'bain' means 'bath'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["daily-life", "health", "routine"],
+  "timeCreated": 1721988480
+}

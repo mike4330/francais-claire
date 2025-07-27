@@ -12,12 +12,13 @@
   "correct": 0,
   "explanation": "The text states '<em>Au-dedans de cette investigation rare, vous retrouverez délicieusement les événements traumatiques gardés dans votre tunnel de mémoire</em>' - Inside this rare investigation, you will deliciously rediscover the traumatic events kept in your memory tunnel. 'Retrouverez' is the future tense second person plural of 'retrouver'.",
   "difficulty": "C1",
-  "source": "Strategic targeting - au-dedans + retrouverez + délicieusement + rare-events + trauma + gardés + tunnel synergy + psychological investigation",
+  "source": "Psychological investigation scenario",
   "tags": [
     "rare-events",
     "trauma",
     "tunnel",
     "psychological-investigation"
   ],
-  "timeCreated": 1736805700
+  "timeCreated": 1736805700,
+  "verified": "claude"
 }

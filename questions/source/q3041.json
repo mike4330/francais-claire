@@ -10,7 +10,7 @@
     "It includes financial projections that are required for the annual audit"
   ],
   "correct": 0,
-  "explanation": "The speaker states that this comparative analysis of emerging markets 'déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives' - will determine our competitive positioning for the next three years and directly influence our investment decisions in disruptive technologies. Note the subjunctive 'aie' in 'il est essentiel que j'aie terminé' expressing necessity.",
+  "explanation": "The text states '<em>Il est essentiel que j'aie terminé cette présentation stratégique avant la réunion avec le conseil d'administration. Cette analyse comparative des marchés émergents déterminera notre positionnement concurrentiel pour les trois prochaines années et influencera directement nos décisions d'investissement dans les nouvelles technologies disruptives</em>' - It is essential that I have finished this strategic presentation before the meeting with the board of directors. This comparative analysis of emerging markets will determine our competitive positioning for the next three years and directly influence our investment decisions in disruptive technologies.",
   "difficulty": "C1",
   "source": "Corporate Strategy Meeting",
   "tags": [
@@ -19,5 +19,7 @@
     "board-meeting",
     "competitive-analysis",
     "corporate-presentation"
-  ]
+  ],
+  "timeCreated": 1720026560,
+  "verified": "claude"
 }

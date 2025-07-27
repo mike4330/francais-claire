@@ -10,7 +10,7 @@
     "Pendant l'été, les enfants jouent souvent au-derrière jusqu'à tard le soir, profitant des longues journées ensoleillées."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Pendant l'été, les enfants jouent souvent au-dehors jusqu'à tard le soir, profitant des longues journées ensoleillées.</em>' - 'During summer, children often play outside until late in the evening, taking advantage of the long sunny days.' This tests the high-priority adverb 'au-dehors' (outside/outdoors) in a summer childhood context.",
+  "explanation": "The exact phrase was '<em>Pendant l'été, les enfants jouent souvent au-dehors jusqu'à tard le soir, profitant des longues journées ensoleillées</em>' - During summer, children often play outside until late in the evening, taking advantage of the long sunny days. This tests listening precision for 'au-dehors' (outside/outdoors) and agreement patterns.",
   "difficulty": "B2",
   "source": "Summer activities and outdoor childhood play",
   "tags": [
@@ -19,5 +19,6 @@
     "outdoor-activities",
     "play"
   ],
-  "timeCreated": 1736347620
+  "timeCreated": 1736347620,
+  "verified": "claude"
 }

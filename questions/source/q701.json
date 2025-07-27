@@ -1,0 +1,15 @@
+{
+  "id": 701,
+  "audioText": "Elle joue du piano dans le salon.",
+  "question": "Elle joue du ______ dans le salon.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "piano",
+  "acceptedAnswers": ["piano", "Piano"],
+  "explanation": "The correct word is 'piano' - a musical instrument. The phrase 'jouer du piano' means 'to play the piano'. This targets the under-represented 'musical-instruments' topic.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["musical-instruments", "home", "entertainment"],
+  "timeCreated": 1721988480
+}

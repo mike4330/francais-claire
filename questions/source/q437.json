@@ -1,6 +1,6 @@
 {
   "id": 437,
-  "audioText": "Cette pierre dans votre oreille manqué politiquement d'intérêt pour le diable arrière.",
+  "audioText": "Cette pierre dans votre oreille a manqué politiquement d'intérêt pour le diable arrière.",
   "question": "What politically lacked interest for the devil behind?",
   "questionType": "comprehension",
   "options": [
@@ -10,9 +10,10 @@
     "The proposals in the government building today"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette pierre dans votre oreille manqué politiquement d'intérêt pour le diable arrière</em>' - This stone in your ear politically lacked interest for the devil behind. This combines 'pierre', 'oreille', 'manqué', 'politiquement', 'intérêt', 'diable', and 'arrière'.",
+  "explanation": "The text states '<em>Cette pierre dans votre oreille a manqué politiquement d'intérêt pour le diable arrière</em>' - This stone in your ear has politically lacked interest for the devil behind. 'Pierre' means stone, 'oreille' means ear, and 'manqué' means lacked/missed.",
   "difficulty": "A2",
   "source": "Strategic targeting - pierre + oreille + manqué + politiquement + intérêt + diable + arrière synergy + supernatural",
   "tags": ["supernatural", "health", "politics"],
-  "timeCreated": 1736806020
+  "timeCreated": 1736806020,
+  "verified": "claude"
 }

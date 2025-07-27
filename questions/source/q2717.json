@@ -1,0 +1,18 @@
+{
+  "id": 2717,
+  "audioText": "L'astronaute observe les étoiles depuis la station spatiale internationale pendant sa mission scientifique.",
+  "question": "Where is the astronaut observing from?",
+  "questionType": "comprehension",
+  "options": [
+    "From a ground-based observatory",
+    "From the international space station",
+    "From a high-altitude aircraft",
+    "From a mountain telescope facility"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>L'astronaute observe les étoiles depuis la station spatiale internationale pendant sa mission scientifique</em>' - The astronaut observes the stars from the international space station during their scientific mission. This targets the under-represented 'space' topic.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["space", "science", "observation"],
+  "timeCreated": 1721988480
+}

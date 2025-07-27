@@ -10,7 +10,7 @@
     "The political relationships between countries"
   ],
   "correct": 0,
-  "explanation": "The text states that scientists affirm that 'le réchauffement climatique menace l'équilibre écologique de notre terre' - climate warming/change threatens the ecological balance of our earth, requiring urgent measures to preserve biodiversity.",
+  "explanation": "The text states '<em>Les scientifiques affirment que le réchauffement climatique menace l'équilibre écologique de notre terre, nécessitant des mesures urgentes pour préserver la biodiversité et les écosystèmes fragiles pour les générations futures qui hériteront de cette planète transformée.</em>' - Scientists affirm that climate warming threatens the ecological balance of our earth, requiring urgent measures to preserve biodiversity and fragile ecosystems for future generations who will inherit this transformed planet.",
   "difficulty": "C1",
   "source": "Scientific statement on climate change impact",
   "tags": [
@@ -20,5 +20,6 @@
     "ecology",
     "future-generations"
   ],
-  "timeCreated": 1735689600
+  "timeCreated": 1735689600,
+  "verified": "claude"
 }

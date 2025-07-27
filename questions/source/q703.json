@@ -1,0 +1,18 @@
+{
+  "id": 703,
+  "audioText": "Le couteau est sur la table de la cuisine.",
+  "question": "Where is the knife?",
+  "questionType": "comprehension",
+  "options": [
+    "In the kitchen drawer",
+    "On the kitchen table",
+    "Next to the stove",
+    "In the dishwasher"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Le couteau est sur la table de la cuisine</em>' - The knife is on the kitchen table. The noun 'couteau' means 'knife'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["kitchen", "home", "utensils"],
+  "timeCreated": 1721988480
+}

@@ -1,6 +1,6 @@
 {
   "id": 422,
-  "audioText": "Le lendemain, primo nous boirai du courant électrique dans cet avion.",
+  "audioText": "Le lendemain, primo nous boirons du courant électrique dans cet avion.",
   "question": "When will we drink electric current in this airplane?",
   "questionType": "comprehension",
   "options": [
@@ -10,9 +10,10 @@
     "After landing at the destination airport"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Le lendemain, primo nous boirons du courant électrique dans cet avion</em>' - The next day, first we will drink electric current in this airplane. This combines 'lendemain', 'primo', 'boirai', 'courant', and 'avion'.",
+  "explanation": "The text states '<em>Le lendemain, primo nous boirons du courant électrique dans cet avion</em>' - The next day, first we will drink electric current in this airplane. 'Boirons' is the correct first person plural future tense of 'boire' (to drink).",
   "difficulty": "A2",
-  "source": "Strategic targeting - lendemain + primo + boirai + courant + avion synergy + travel",
+  "source": "Futuristic travel scenario",
   "tags": ["travel", "aviation", "futuristic-scenario"],
-  "timeCreated": 1736805020
+  "timeCreated": 1736805020,
+  "verified": "claude"
 }

@@ -12,11 +12,12 @@
   "correct": 0,
   "explanation": "The text states '<em>L'élevage contemporain de chèvres savoyardes au bout des Alpes transforme fondamentalement les tours anciennes en bergeries modernes où chaque sang-mêlé trouve efficacement sa place.</em>' - 'Contemporary Savoyard goat farming at the edge of the Alps fundamentally transforms ancient towers into modern sheepfolds where each mixed-breed efficiently finds its place.' The nouns 'chèvres' means goats, 'bout' means end/edge, 'tours' means towers, and 'sang' means blood.",
   "difficulty": "C1",
-  "source": "Strategic animal targeting",
+  "source": "Alpine farming scenario",
   "tags": [
     "animals",
     "tradition",
     "mountains"
   ],
-  "timeCreated": 1720714800
+  "timeCreated": 1720714800,
+  "verified": "claude"
 }

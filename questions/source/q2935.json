@@ -10,7 +10,7 @@
     "It should be the primary focus of all future development projects."
   ],
   "correct": 0,
-  "explanation": "The speaker describes 'Cette idée complètement folle de transformer radicalement l'architecture urbaine contemporaine pourrait néanmoins revêtir une pertinence inattendue dans le contexte de la transition écologique' - This completely crazy idea of radically transforming contemporary urban architecture could nevertheless have unexpected relevance in the context of ecological transition. 'Fou/folle' means crazy or mad.",
+  "explanation": "The text states '<em>Cette idée completement folle de transformer radicalement l'architecture urbaine contemporaine pourrait néanmoins revêtir une pertinence inattendue dans le contexte de la transition écologique et de la durabilité environnementale</em>' - This completely crazy idea of radically transforming contemporary urban architecture could nevertheless have unexpected relevance in the context of ecological transition and environmental sustainability. 'Fou/folle' means crazy or mad.",
   "difficulty": "C1",
   "source": "Urban planning and ecological architecture",
   "tags": [
@@ -19,5 +19,6 @@
     "architecture",
     "innovation"
   ],
-  "timeCreated": 1735948860
+  "timeCreated": 1735948860,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "As academically mandated"
   ],
   "correct": 1,
-  "explanation": "The text states '<em>Nous tenons à cet instant de réflexion profonde, personnellement essentiel</em>' - We value this moment of deep reflection, personally essential. 'Tenons' means we hold/value, 'instant' means moment, 'profonde' means deep, and 'personnellement' means personally.",
+  "explanation": "The text states '<em>Nous tenons à cet instant de réflexion profonde, personnellement essentiel pour notre développement intellectuel</em>' - We value this moment of deep reflection, personally essential for our intellectual development. 'Tenons' means we hold/value, 'instant' means moment, 'profonde' means deep, and 'personnellement' means personally.",
   "difficulty": "C1",
   "source": "Philosophical reflection and personal development",
   "tags": [
@@ -18,5 +18,6 @@
     "personal-development",
     "reflection"
   ],
-  "timeCreated": 1751777362
+  "timeCreated": 1751777362,
+  "verified": "claude"
 }

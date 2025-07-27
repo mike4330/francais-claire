@@ -1,0 +1,18 @@
+{
+  "id": 2731,
+  "audioText": "Cet homme étranger ne parle pas français et cherche des directions pour aller à l'hôtel.",
+  "question": "What can we understand about this man?",
+  "questionType": "comprehension",
+  "options": [
+    "He speaks French fluently",
+    "He's a foreign man looking for hotel directions",
+    "He works at the local tourist office",
+    "He's visiting friends in the neighborhood"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Cet homme étranger ne parle pas français et cherche des directions pour aller à l'hôtel</em>' - This foreign man doesn't speak French and is looking for directions to get to the hotel. The adjective 'étranger' (foreign/stranger) indicates he's from another country.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["travel", "communication", "directions"],
+  "timeCreated": 1721988480
+}

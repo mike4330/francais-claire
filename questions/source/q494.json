@@ -14,5 +14,6 @@
     "difficulty": "A2",
     "source": "Claude",
     "tags": ["travel", "nature", "geography"],
-    "timeCreated": 1721049600
+    "timeCreated": 1721049600,
+    "verified": "claude"
 }

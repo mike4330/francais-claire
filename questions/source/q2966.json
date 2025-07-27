@@ -12,11 +12,12 @@
   "correct": 0,
   "explanation": "The text states '<em>L'ampleur de ce tour de force intellectuel dépasse tout ce que le bout de ses doigts agiles avait pu concevoir jusqu'alors, ouvrant des perspectives inédites</em>' - The scope of this intellectual feat exceeds everything that the tip of his agile fingers had been able to conceive until then, opening unprecedented perspectives. This targets 'tour' and 'bout' in an intellectual achievement context.",
   "difficulty": "C1",
-  "source": "Strategic noun targeting: tour, bout",
+  "source": "Intellectual achievement scenario",
   "tags": [
     "intellectual",
     "achievement",
     "innovation"
   ],
-  "timeCreated": 1720617120
+  "timeCreated": 1720617120,
+  "verified": "claude"
 }

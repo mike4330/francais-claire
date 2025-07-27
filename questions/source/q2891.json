@@ -10,7 +10,7 @@
     "That everyone had a clear plan for their future."
   ],
   "correct": 0,
-  "explanation": "The narrator uses 'croyais' (imperfect of croire - I used to believe) to describe a past belief from childhood: that all adults knew exactly what to do in life.",
+  "explanation": "The text states '<em>Quand j'étais jeune, je croyais que tous les adultes savaient exactement quoi faire dans la vie</em>' - When I was young, I believed that all adults knew exactly what to do in life. The narrator uses 'croyais' (imperfect of croire - I used to believe) to describe a past belief from childhood.",
   "difficulty": "C1",
   "source": "Childhood Reflections",
   "tags": [
@@ -19,5 +19,6 @@
     "perspective",
     "philosophy"
   ],
-  "timeCreated": 1719962300
+  "timeCreated": 1719962300,
+  "verified": "claude"
 }

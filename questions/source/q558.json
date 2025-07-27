@@ -1,6 +1,6 @@
 {
   "id": 558,
-  "audioText": "Mes parents partent en vacance la semaine prochaine.",
+  "audioText": "Mes parents partent en vacances la semaine prochaine.",
   "question": "What are the parents planning to do next week?",
   "questionType": "comprehension",
   "options": [
@@ -10,9 +10,10 @@
     "They are visiting the doctor"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Mes parents partent en vacance la semaine prochaine</em>' - My parents are going on vacation next week. The singular form 'vacance' is used here in the context of taking time off.",
+  "explanation": "The text states '<em>Mes parents partent en vacances la semaine prochaine</em>' - My parents are going on vacation next week. The plural form 'vacances' is correct when referring to a vacation period.",
   "difficulty": "A2",
   "source": "claude",
   "tags": ["family", "travel", "vacation", "leisure"],
-  "timeCreated": "2025-01-18T10:15:00Z"
+  "timeCreated": 1737284100,
+  "verified": "claude"
 }

@@ -12,11 +12,12 @@
   "correct": 0,
   "explanation": "The text states '<em>Pêle-mêle, ces occasions manquent invariablement car ce colonel russe importe résolument que nous emmenions ces enfants honnêtes dans l'appartement vaste pour qu'ils racontent leurs expériences intéressantes de la beauté spéciale</em>' - Helter-skelter, these opportunities invariably lack because this Russian colonel resolutely matters that we take these honest children to the vast apartment so they tell their interesting experiences of special beauty. This tests complex subjunctive and agreement patterns.",
   "difficulty": "C1",
-  "source": "Strategic targeting - pêle-mêle + manquent + invariablement + colonel + russe + importe + résolument + emmènerai + honnête + appartement + vaste + raconterai + intéressant + beauté + spécial synergy + storytelling",
+  "source": "Military storytelling scenario",
   "tags": [
     "storytelling",
     "military",
     "apartments"
   ],
-  "timeCreated": 1736805920
+  "timeCreated": 1736805920,
+  "verified": "claude"
 }

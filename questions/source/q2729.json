@@ -1,0 +1,18 @@
+{
+  "id": 2729,
+  "audioText": "Soyez prudent en traversant cette route dangereuse, beaucoup d'accidents y arrivent chaque année.",
+  "question": "What advice is being given?",
+  "questionType": "comprehension",
+  "options": [
+    "Drive faster to avoid traffic",
+    "Be careful crossing this dangerous road",
+    "Take a different route home",
+    "Call for emergency assistance"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Soyez prudent en traversant cette route dangereuse, beaucoup d'accidents y arrivent chaque année</em>' - Be careful crossing this dangerous road, many accidents happen there each year. The adjective 'prudent' (careful/cautious) gives safety advice.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["safety", "transportation", "advice"],
+  "timeCreated": 1721988480
+}

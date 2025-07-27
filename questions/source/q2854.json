@@ -10,7 +10,7 @@
     "A conclusion drawn from the observation."
   ],
   "correct": 2,
-  "explanation": "'C'est-à-dire' means 'that is to say' or 'in other words'. It introduces a clarification or explanation of the concept of relativity.",
+  "explanation": "The text states '<em>Le concept de la relativité, c'est-à-dire que le temps et l'espace sont relatifs à l'observateur, a révolutionné la physique.</em>' - The concept of relativity, that is to say that time and space are relative to the observer, has revolutionized physics. 'C'est-à-dire' means 'that is to say' or 'in other words' and introduces a clarification or explanation of the concept of relativity.",
   "difficulty": "C1",
   "source": "Gemini-generated",
   "tags": [
@@ -18,5 +18,6 @@
     "physics",
     "explanation"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

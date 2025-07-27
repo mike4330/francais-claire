@@ -10,7 +10,7 @@
     "optionnel"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'compris' meaning 'included'. The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
+  "explanation": "The text states '<em>Le prix est de cinquante euros, service compris, pour ce menu gastronomique exceptionnel</em>' - The price is fifty euros, service included, for this exceptional gastronomic menu. 'Compris' indicates that the service charge is included in the price.",
   "difficulty": "A2",
   "source": "Fine dining",
   "tags": [
@@ -18,5 +18,6 @@
     "pricing",
     "gastronomy"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

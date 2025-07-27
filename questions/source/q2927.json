@@ -10,7 +10,7 @@
     "She criticized the election process in her region"
   ],
   "correct": 1,
-  "explanation": "The deputy 'a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter' - declared having considered the possibility that she might not be able to run. This shows she has thought about the scenario where she cannot participate in the elections.",
+  "explanation": "The text states '<em>Dans un récent entretien, la députée du Pas-de-Calais a déclaré avoir envisagé la possibilité qu'elle ne puisse pas se présenter aux prochaines élections.</em>' - In a recent interview, the deputy from Pas-de-Calais declared having considered the possibility that she might not be able to run in the upcoming elections. This shows she has thought about the scenario where she cannot participate in the elections.",
   "difficulty": "C1",
   "source": "French Political Interview",
   "tags": [
@@ -19,5 +19,7 @@
     "deputy",
     "candidacy",
     "interview"
-  ]
+  ],
+  "timeCreated": 1737648720,
+  "verified": "claude"
 }

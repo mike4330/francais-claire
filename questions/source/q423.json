@@ -12,7 +12,8 @@
   "correct": 0,
   "explanation": "The text states '<em>Merde! La moitié de mon sommeil stupidement perdu à cause de ce mouvement</em>' - Damn! Half of my sleep stupidly lost because of this movement. This tests precise listening of 'merde', 'moitié', 'sommeil', 'stupidement', and 'mouvement'.",
   "difficulty": "A2",
-  "source": "Strategic targeting - merde + moitié + sommeil + stupidement + mouvement synergy + sleep disruption",
+  "source": "Sleep disruption scenario",
   "tags": ["sleep-disruption", "frustration", "disturbance"],
-  "timeCreated": 1736805040
+  "timeCreated": 1736805040,
+  "verified": "claude"
 }

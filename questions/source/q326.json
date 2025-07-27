@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Elle a un cheveu blanc sur la tête maintenant</em>' - She has a white hair on her head now. 'Cheveu' means hair (singular), and 'blanc' means white.",
     "difficulty": "A2",
-    "source": "Strategic noun threshold reinforcement",
+    "source": "Physical appearance description",
     "tags": ["appearance", "body", "aging"],
-    "timeCreated": 1752094700
+    "timeCreated": 1752094700,
+    "verified": "claude"
 }

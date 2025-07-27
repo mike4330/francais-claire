@@ -10,7 +10,7 @@
         "Some time"
     ],
     "correct": 0,
-    "explanation": "The speaker says 'J'ai peu de temps' which means 'I have little time'. The word 'peu' means 'little' or 'not much'. The distractors test confusion about the quantity of time.",
+    "explanation": "The text states '<em>J'ai peu de temps aujourd'hui.</em>' - I have little time today. The word 'peu' means 'little' or 'not much'. The distractors test confusion about the quantity of time.",
     "difficulty": "A1",
     "source": "Daily Schedule",
     "tags": [
@@ -20,5 +20,6 @@
         "busy"
     ],
     "timeCreated": 1720881353,
-    "parentQuestion": 113
+    "parentQuestion": 113,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "Focusing only on the current issues without considering the past"
   ],
   "correct": 0,
-  "explanation": "The adverb 'd'abord' means 'first' or 'first of all', indicating priority or sequence. The speaker emphasizes that the primary step is to understand the historical and cultural perspectives of each party involved in the conflict.",
+  "explanation": "The text states '<em>Pour résoudre ce conflit complexe, nous devons d'abord comprendre les perspectives historiques et culturelles de chaque partie impliquée</em>' - To resolve this complex conflict, we must first understand the historical and cultural perspectives of each involved party. The adverb 'd'abord' means 'first' or 'first of all', indicating priority.",
   "difficulty": "C2",
   "source": "Conflict resolution seminar",
   "tags": [
@@ -18,5 +18,6 @@
     "conflict-resolution",
     "diplomacy"
   ],
-  "timeCreated": 1720076460
+  "timeCreated": 1720076460,
+  "verified": "claude"
 }

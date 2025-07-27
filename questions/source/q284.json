@@ -10,7 +10,7 @@
     "Demain, je resterai à la maison pour finir mon projet de art numérique."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Demain, je resterai à la maison pour finir mon projet d'art numérique.</em>' - 'Tomorrow, I will stay home to finish my digital art project.' This listening version tests auditory discrimination between 'resterai' vs 'rentrerai', 'numérique' vs 'moderne', and correct use of 'd'art' vs 'de art'.",
+  "explanation": "The exact phrase was '<em>Demain, je resterai à la maison pour finir mon projet d'art numérique</em>' - Tomorrow, I will stay home to finish my digital art project. This listening version tests auditory discrimination between 'resterai' vs 'rentrerai', 'numérique' vs 'moderne', and correct use of 'd'art' vs 'de art'.",
   "difficulty": "A2",
   "source": "Listening version of q638",
   "tags": [
@@ -20,5 +20,6 @@
     "hobbies"
   ],
   "parentQuestion": 2055,
-  "timeCreated": 1720713600
+  "timeCreated": 1720713600,
+  "verified": "claude"
 }

@@ -1,0 +1,18 @@
+{
+  "id": 2715,
+  "audioText": "Cette opération chirurgicale complexe nécessite une équipe médicale expérimentée et des équipements de pointe modernes.",
+  "question": "What does this surgical procedure require?",
+  "questionType": "comprehension",
+  "options": [
+    "Simple equipment and basic training",
+    "Experienced medical team and modern equipment",
+    "Emergency protocols and backup systems",
+    "Patient consent and insurance approval"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Cette opération chirurgicale complexe nécessite une équipe médicale expérimentée et des équipements de pointe modernes</em>' - This complex surgical operation requires an experienced medical team and modern cutting-edge equipment. The noun 'opération' (operation) refers to the surgical procedure.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["health", "medical-procedures", "technology"],
+  "timeCreated": 1721988480
+}

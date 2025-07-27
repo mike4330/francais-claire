@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The correct answer is 'More attentive'. The text states '<em>Les étudiants deviendront plus attentifs après ce passage difficile de l'examen final en classe</em>' - The students will become more attentive after this difficult passage of the final exam in class. 'Deviendront' is the third-person plural future tense of 'devenir' (to become), and 'passage' means 'passage'.",
     "difficulty": "A2",
-    "source": "Strategic vocabulary development - classroom challenges",
+    "source": "Classroom challenges scenario",
     "tags": ["classroom", "education", "examinations"],
-    "timeCreated": 1720823580
+    "timeCreated": 1720823580,
+    "verified": "claude"
 }

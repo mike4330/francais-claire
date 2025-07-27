@@ -12,11 +12,12 @@
   "correct": 0,
   "explanation": "The text states '<em>Cette propriété achetée alias vendue momentanément révèle un marché immobilier coupable de manipulation flagrante des prix selon la mémoire collective</em>' - This property purchased or rather sold temporarily reveals a real estate market guilty of flagrant price manipulation according to collective memory. This combines 'achetée', 'alias', 'momentanément', 'coupable', and 'mémoire' in a market analysis context.",
   "difficulty": "C1",
-  "source": "Strategic targeting - achetée + alias + momentanément + coupable + mémoire synergy + market analysis",
+  "source": "Real estate market analysis",
   "tags": [
     "market-analysis",
     "real-estate",
     "manipulation"
   ],
-  "timeCreated": 1736804500
+  "timeCreated": 1736804500,
+  "verified": "claude"
 }

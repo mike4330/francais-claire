@@ -10,7 +10,7 @@
     "Arrêtant"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'Arrête' (2nd person singular imperative of 'arrêter'). The imperative mood is used for commands and instructions. 'Arrête!' means 'Stop!' and is the informal command form used to tell someone to stop doing something immediately.",
+  "explanation": "The text states '<em>Arrête ! Tu ne peux pas traverser maintenant, le feu est rouge</em>' - Stop! You can't cross now, the light is red. The correct answer is 'Arrête' (2nd person singular imperative of 'arrêter'), the informal command form used to tell someone to stop immediately.",
   "difficulty": "C1",
   "source": "Traffic Safety - Emergency Commands",
   "tags": [
@@ -19,5 +19,6 @@
     "pedestrian-safety",
     "urban-navigation"
   ],
-  "timeCreated": 1720027640
+  "timeCreated": 1720027640,
+  "verified": "claude"
 }

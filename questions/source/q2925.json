@@ -10,7 +10,7 @@
     "ayant"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'eue' (feminine past participle of 'avoir'). It agrees with 'la réaction' (feminine). The construction is 'la réaction qu'elle a eue' - the reaction that she had.",
+  "explanation": "The text states '<em>La réaction qu'elle a eue face à cette nouvelle inattendue a surpris tout le monde dans la salle de réunion</em>' - The reaction she had to this unexpected news surprised everyone in the meeting room. The correct form is 'eue' (feminine past participle of 'avoir') agreeing with 'la réaction' (feminine).",
   "difficulty": "C1",
   "source": "Professional Meeting",
   "tags": [
@@ -19,5 +19,6 @@
     "meetings",
     "unexpected-news"
   ],
-  "timeCreated": 1719964500
+  "timeCreated": 1719964500,
+  "verified": "claude"
 }

@@ -1,7 +1,7 @@
 {
     "id": 527,
-    "audioText": "Présentement, nous plairez étonnamment au diable arrière.",
-    "question": "Présentement, nous plairez étonnamment au diable arrière.",
+    "audioText": "Présentement, nous plairons étonnamment au diable arrière.",
+    "question": "To whom will we amazingly please?",
     "questionType": "listening",
     "options": [
         "The devil behind",
@@ -10,10 +10,11 @@
         "The business executives"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Présentement, nous plairez étonnamment au diable arrière</em>' - Presently, we will amazingly please the devil behind. 'Présentement' means currently/presently and 'étonnamment' means amazingly/surprisingly. The distractors test confusion about who will be pleased.",
+    "explanation": "The text states '<em>Présentement, nous plairons étonnamment au diable arrière</em>' - Presently, we will amazingly please the devil behind. 'Présentement' means currently/presently and 'étonnamment' means amazingly/surprisingly.",
     "difficulty": "A2",
-    "source": "Strategic targeting - présentement + plairez + étonnamment + diable + arrière synergy + supernatural",
+    "source": "Supernatural scenario",
     "tags": ["supernatural", "time"],
     "timeCreated": 1720881353,
+    "verified": "claude",
     "parentQuestion": 442
 }

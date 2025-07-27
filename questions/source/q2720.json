@@ -1,0 +1,18 @@
+{
+  "id": 2720,
+  "audioText": "La veille du concert, tous les musiciens ont répété une dernière fois dans la salle.",
+  "question": "When did the musicians rehearse?",
+  "questionType": "comprehension",
+  "options": [
+    "During the concert performance",
+    "The day before the concert",
+    "A week before the show",
+    "On the morning of the concert"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>La veille du concert, tous les musiciens ont répété une dernière fois dans la salle</em>' - The day before the concert, all the musicians rehearsed one last time in the hall. The noun 'veille' means 'the day before' or 'eve'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["musical-instruments", "entertainment", "scheduling"],
+  "timeCreated": 1721988480
+}

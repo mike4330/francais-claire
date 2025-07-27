@@ -1,0 +1,18 @@
+{
+  "id": 2713,
+  "audioText": "Je ramènerai mes documents importants demain matin pour finaliser le contrat avec nos partenaires commerciaux.",
+  "question": "When will the speaker bring the documents?",
+  "questionType": "comprehension",
+  "options": [
+    "This afternoon for the meeting",
+    "Tomorrow morning to finalize the contract", 
+    "Next week for the presentation",
+    "Later today for the signature"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Je ramènerai mes documents importants demain matin pour finaliser le contrat avec nos partenaires commerciaux</em>' - I will bring back my important documents tomorrow morning to finalize the contract with our business partners. The future tense 'ramènerai' (will bring back) indicates the timing and purpose.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["business", "contracts", "scheduling"],
+  "timeCreated": 1721988480
+}

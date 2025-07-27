@@ -10,7 +10,7 @@
     "They should postpone making any decisions"
   ],
   "correct": 0,
-  "explanation": "The sentence uses 'soyons' (imperative 1st person plural of être) to suggest being honest about a complex situation requiring a nuanced approach.",
+  "explanation": "The text states '<em>Soyons honnêtes sur cette situation complexe qui nécessite une approche nuancée et réfléchie</em>' - Let's be honest about this complex situation that requires a nuanced and thoughtful approach. The sentence uses 'soyons' (imperative 1st person plural of être) to suggest collective honesty.",
   "difficulty": "C2",
   "source": "Formal discussion requiring diplomatic approach",
   "tags": [
@@ -18,5 +18,6 @@
     "honesty",
     "complex-situations"
   ],
-  "timeCreated": 1719936240
+  "timeCreated": 1719936240,
+  "verified": "claude"
 }

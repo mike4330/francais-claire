@@ -1,0 +1,18 @@
+{
+  "id": 700,
+  "audioText": "Tu sautes très haut dans le jardin !",
+  "question": "What is the person doing?",
+  "questionType": "comprehension",
+  "options": [
+    "Running around the garden",
+    "Jumping very high in the garden",
+    "Climbing trees in the yard",
+    "Walking slowly outside"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Tu sautes très haut dans le jardin !</em>' - You jump very high in the garden! The verb 'sautes' (jump) in second person singular describes the action of jumping.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["physical-activity", "garden", "movement"],
+  "timeCreated": 1721988480
+}

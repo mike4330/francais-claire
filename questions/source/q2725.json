@@ -1,0 +1,15 @@
+{
+  "id": 2725,
+  "audioText": "Il travaille méthodiquement sur chaque détail du projet pour garantir sa réussite.",
+  "question": "Il travaille ______ sur chaque détail du projet.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "méthodiquement",
+  "acceptedAnswers": ["méthodiquement", "Méthodiquement"],
+  "explanation": "The correct word is 'méthodiquement' (methodically) - an adverb describing how he works systematically on each detail. The complete text is '<em>Il travaille méthodiquement sur chaque détail du projet pour garantir sa réussite</em>' - He works methodically on each detail of the project to guarantee its success.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["business", "methodology", "precision"],
+  "timeCreated": 1721988480
+}

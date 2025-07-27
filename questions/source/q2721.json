@@ -1,0 +1,18 @@
+{
+  "id": 2721,
+  "audioText": "Cette voie ferrée permet aux trains de relier rapidement les deux grandes villes industrielles.",
+  "question": "What does this railway line do?",
+  "questionType": "comprehension",
+  "options": [
+    "Carries freight between factories",
+    "Connects two major industrial cities quickly",
+    "Transports tourists to scenic areas",
+    "Links rural communities to markets"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Cette voie ferrée permet aux trains de relier rapidement les deux grandes villes industrielles</em>' - This railway line allows trains to quickly connect the two large industrial cities. The noun 'voie' means 'track' or 'way'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["transportation", "technology", "urban-planning"],
+  "timeCreated": 1721988480
+}

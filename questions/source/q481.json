@@ -1,6 +1,6 @@
 {
     "id": 481,
-    "audioText": "Tu apportes toujours une évident bonne humeur à nos soirées entre amis.",
+    "audioText": "Tu apportes toujours une évidente bonne humeur à nos soirées entre amis.",
     "question": "What do you always bring to our friendly gatherings?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Background music"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Tu apportes toujours une évident bonne humeur à nos soirées entre amis</em>' - You always bring an obvious good mood to our friendly gatherings. 'Apportes' is the second person singular of 'apporter', and 'évident' means obvious.",
+    "explanation": "The text states '<em>Tu apportes toujours une évidente bonne humeur à nos soirées entre amis</em>' - You always bring an obvious good mood to our friendly gatherings. 'Apportes' is the second person singular of 'apporter', and 'évidente' means obvious (agreeing with 'humeur' which is feminine).",
     "difficulty": "A2",
     "source": "Claude",
     "tags": ["social-gathering", "friendship", "emotions"],
-    "timeCreated": "2025-07-14T12:00:00Z"
+    "timeCreated": 1752562800,
+    "verified": "claude"
 }

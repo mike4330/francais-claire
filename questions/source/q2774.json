@@ -10,7 +10,7 @@
     "saurez"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question. This form expresses a courteous inquiry about capability or knowledge. The question asks master bakers if they could analyze the organoleptic subtleties of naturally fermented sourdough.",
+  "explanation": "The text states '<em>Maîtres boulangers, sauriez-vous analyser les subtilités organoleptiques de cette pâte fermentée au levain naturel, considérant les variations microbiologiques influençant la texture alvéolaire finale et l'expression aromatique caractéristique des terroirs céréaliers français ancestraux</em>' - Master bakers, could you analyze the organoleptic subtleties of this naturally fermented sourdough, considering the microbiological variations influencing the final alveolar texture and the aromatic expression characteristic of ancestral French cereal terroirs. The correct answer is 'sauriez' - the conditional form of 'savoir' used with 'vous' in a polite, hypothetical question.",
   "difficulty": "C2",
   "source": "Advanced artisanal bakery master class discourse",
   "tags": [
@@ -22,5 +22,7 @@
     "professional",
     "traditional-crafts",
     "cultural-heritage"
-  ]
+  ],
+  "timeCreated": 1720714800,
+  "verified": "claude"
 }

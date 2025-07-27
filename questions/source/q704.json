@@ -1,0 +1,18 @@
+{
+  "id": 704,
+  "audioText": "Mon copain arrive demain pour passer le weekend avec nous.",
+  "question": "When is the friend coming?",
+  "questionType": "comprehension",
+  "options": [
+    "Today for dinner",
+    "Tomorrow for the weekend",
+    "Next week for vacation",
+    "This evening for a party"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Mon copain arrive demain pour passer le weekend avec nous</em>' - My friend is arriving tomorrow to spend the weekend with us. The noun 'copain' means 'friend' or 'buddy' (informal).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["friendship", "family", "weekend"],
+  "timeCreated": 1721988480
+}
