@@ -22,23 +22,28 @@ if ! command -v jq &> /dev/null; then
     exit 1
 fi
 
-# Determine paths based on current directory  
-if [ -d "questions/source" ]; then
-    SOURCE_DIR="questions/source/"
-    CONFIG_FILE="config.json"
-elif [ -d "../questions/source" ]; then
-    SOURCE_DIR="../questions/source/"
+# Load baseDir from config.json
+CONFIG_FILE="config.json"
+if [ ! -f "$CONFIG_FILE" ]; then
     CONFIG_FILE="../config.json"
-else
-    SOURCE_DIR="questions/source/"
-    CONFIG_FILE="/var/www/html/language/config.json"
+    if [ ! -f "$CONFIG_FILE" ]; then
+        CONFIG_FILE="/var/www/html/language/config.json"
+    fi
 fi
 
 # Check if config.json exists
 if [ ! -f "$CONFIG_FILE" ]; then
-    echo "❌ Error: Config file $CONFIG_FILE not found"
+    echo "❌ Error: Config file not found. Expected at config.json, ../config.json, or /var/www/html/language/config.json"
     exit 1
 fi
+
+BASE_DIR=$(jq -r '.baseDir' "$CONFIG_FILE" 2>/dev/null)
+if [ "$BASE_DIR" = "null" ] || [ -z "$BASE_DIR" ]; then
+    echo "❌ Error: baseDir not found in config.json"
+    exit 1
+fi
+
+SOURCE_DIR="$BASE_DIR/questions/source/"
 
 # Check if source directory exists
 if [ ! -d "$SOURCE_DIR" ]; then

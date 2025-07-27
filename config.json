@@ -1,4 +1,5 @@
 {
+    "baseDir": "/var/www/html/language",
     "debugLevel": 2,
     "interQuestionDelays": {
         "correct": 6000,
@@ -16,7 +17,7 @@
     },
     "redis": {
         "dataRetentionDays": {
-            "individualResponses": 10,
+            "individualResponses": 14,
             "audioCache": 30,
             "questionStats": 30,
             "userQuestionStats": 10
@@ -32,18 +33,18 @@
         "a": {
             "levels": ["A1", "A2"],
             "minId": 1,
-            "maxId": 714,
+            "maxId": 754,
             "description": "Beginner/Elementary"
         },
         "b": {
             "levels": ["B1", "B2"],
-            "minId": 715,
-            "maxId": 2413,
+            "minId": 755,
+            "maxId": 2743,
             "description": "Intermediate/Upper-Intermediate"
         },
         "c": {
             "levels": ["C1", "C2"],
-            "minId": 2414,
+            "minId": 2744,
             "maxId": 4000,
             "description": "Advanced/Proficiency"
         }

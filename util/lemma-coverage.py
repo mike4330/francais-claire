@@ -20,7 +20,7 @@ from collections import defaultdict, Counter
 # ============================================================================
 ATTENTION_THRESHOLD_ADVERBS = 0.0018
 ATTENTION_THRESHOLD_ADJECTIVES = 0.001
-ATTENTION_THRESHOLD_NOUNS = 0.0009
+ATTENTION_THRESHOLD_NOUNS = 0.0008
 CONJUGATION_COVERAGE_FILTER = 20  # Skip verbs with coverage above this percentage
 # ============================================================================
 
