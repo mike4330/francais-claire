@@ -10,7 +10,7 @@
     "Regarde ici, il y a un nouveau café."
   ],
   "correct": 0,
-  "explanation": "The speaker used 'là' (there) to direct attention to a specific location where there's a new café. The other options use different demonstrative words: 'ça' (that), 'donc' (so/then), or 'ici' (here).",
+  "explanation": "The text states '<em>Regarde là, il y a un nouveau café.</em>' - Look there, there's a new café. The speaker used 'là' (there) to direct attention to a specific location where there's a new café. The other options use different demonstrative words: 'ça' (that), 'donc' (so/then), or 'ici' (here).",
   "difficulty": "B1",
   "source": "Street conversation",
   "tags": [
@@ -18,5 +18,6 @@
     "location",
     "restaurant"
   ],
-  "timeCreated": 1720076580
+  "timeCreated": 1720076580,
+  "verified": "claude"
 }

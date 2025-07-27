@@ -10,9 +10,10 @@
     "soupçonné"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'supposé' (supposed/alleged). The alleged suspect was innocent according to the evidence discovered. This targets legal vocabulary and under-represented justice topics.",
+  "explanation": "The text states '<em>Le suspect supposé était innocent selon les preuves découvertes.</em>' - The alleged suspect was innocent according to the evidence discovered. The correct form is 'supposé' (supposed/alleged).",
   "difficulty": "B2",
   "source": "claude",
   "tags": ["law", "investigation", "innocence"],
-  "timeCreated": "2025-01-21T16:54:00Z"
+  "timeCreated": 1737478440,
+  "verified": "claude"
 }

@@ -1,18 +1,19 @@
 {
   "id": 1713,
-  "audioText": "Dûment, nous emmènerai cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué.",
+  "audioText": "Dûment, nous emmènerons cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué.",
   "question": "Qu'est-ce que vous avez entendu?",
   "questionType": "listening",
   "options": [
-    "Dûment, nous emmènerai cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué.",
-    "Dûment, je emmènerai cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué.",
     "Dûment, nous emmènerons cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué.",
+    "Dûment, je emmènerai cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué.",
+    "Dûment, nous emmènerai cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué.",
     "Dûment, nous emmènerai cette nourriture servi impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué."
   ],
-  "correct": 0,
-  "explanation": "The text states '<em>Dûment, nous emmènerai cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué</em>' - Duly, we will take this food served with impunity to the Russian colonel during this mission in the ear where the stone continued. 'Dûment' means duly/properly and 'impunément' means with impunity/without punishment.",
+  "correct": 2,
+  "explanation": "The text states '<em>Dûment, nous emmènerons cette nourriture servie impunément au colonel russe lors de cette mission dans l'oreille où la pierre a continué</em>' - Duly, we will take this food served with impunity to the Russian colonel during this mission in the ear where the stone continued. 'Dûment' means duly/properly and 'impunément' means with impunity/without punishment.",
   "difficulty": "B2",
   "source": "Strategic targeting - dûment + emmènerai + servie + impunément + colonel + russe + mission + oreille + pierre + continué synergy + military",
   "tags": ["military", "mission", "food"],
-  "timeCreated": 1736806420
+  "timeCreated": 1736806420,
+  "verified": "claude"
 }

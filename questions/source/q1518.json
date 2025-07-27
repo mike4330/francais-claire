@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The correct answer is 'Complex social dynamics in contemporary multicultural urban communities'. The text states '<em>Les sociologues occupent cette métaphore de la fleur pour analyser les dynamiques sociales complexes dans les communautés urbaines contemporaines multiculturelles</em>' - Sociologists use this flower metaphor to analyze complex social dynamics in contemporary multicultural urban communities. 'Occupent' is the third-person plural present of 'occuper' (to use/employ), and 'fleur' means 'flower'.",
     "difficulty": "B2",
-    "source": "Strategic vocabulary development - sociological analysis",
+    "source": "Sociological analysis scenario",
     "tags": ["social-dynamics", "sociology", "multiculturalism"],
-    "timeCreated": 1720824960
+    "timeCreated": 1720824960,
+    "verified": "claude"
 }

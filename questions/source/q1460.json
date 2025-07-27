@@ -10,7 +10,7 @@
     "pareille"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'pareilles' (feminine plural) to agree with 'situations' (feminine plural). The adjective 'pareil' means similar/alike, and the context explains they both work in IT, making their professional situations similar.",
+  "explanation": "The text states '<em>Nos situations professionnelles sont très pareilles : nous travaillons tous les deux dans l'informatique</em>' - Our professional situations are very similar: we both work in IT. The correct answer is 'pareilles' (feminine plural) to agree with 'situations' (feminine plural).",
   "difficulty": "B1",
   "source": "Professional Similarity",
   "tags": [
@@ -19,5 +19,6 @@
     "professional-comparison",
     "career"
   ],
-  "timeCreated": 1720026620
+  "timeCreated": 1720026620,
+  "verified": "claude"
 }

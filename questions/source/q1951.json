@@ -1,7 +1,7 @@
 {
     "id": 1951,
     "audioText": "Après quinze ans de mariage, ils ont redécouvert l'amour en voyageant ensemble à travers l'Europe.",
-    "question": "Après quinze ans de mariage, ils ont redécouvert l'amour en voyageant ensemble à travers l'Europe.",
+    "question": "How did they rediscover love after fifteen years of marriage?",
     "questionType": "listening",
     "options": [
         "Traveling together through Europe",
@@ -20,5 +20,6 @@
         "romance"
     ],
     "timeCreated": 1720881353,
+    "verified": "claude",
     "parentQuestion": 969
 }

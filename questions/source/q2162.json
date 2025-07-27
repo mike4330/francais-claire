@@ -1,8 +1,8 @@
 {
   "id": 2162,
   "audioText": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
-  "question": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
-  "questionType": "listening",
+  "question": "Why did the father and his friends go out last night?",
+  "questionType": "comprehension",
   "options": [
     "To celebrate a birthday",
     "To watch a movie",

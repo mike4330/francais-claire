@@ -10,7 +10,7 @@
     "sur"
   ],
   "correct": 0,
-  "explanation": "The adverb 'derrière' means 'behind'. It indicates that the children are hiding behind the trees during their game, using the trees as cover or concealment.",
+  "explanation": "The text states '<em>Les enfants se cachent derrière les arbres pendant le jeu</em>' - The children hide behind the trees during the game. The preposition 'derrière' means 'behind', indicating location.",
   "difficulty": "B2",
   "source": "Children's playground activity",
   "tags": [
@@ -18,5 +18,6 @@
     "games",
     "playground"
   ],
-  "timeCreated": 1720076580
+  "timeCreated": 1720076580,
+  "verified": "claude"
 }

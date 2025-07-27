@@ -10,7 +10,7 @@
     "That his health condition was minor and would heal naturally"
   ],
   "correct": 0,
-  "explanation": "The doctors said 'son état de santé était sérieux et qu'il fallait une intervention chirurgicale immédiate' - his health condition was serious and required immediate surgery. The adjective 'sérieux' (serious) describes the gravity of the medical situation requiring urgent surgical intervention.",
+  "explanation": "The text states '<em>Les médecins ont dit que son état de santé était sérieux et qu'il fallait une intervention chirurgicale immédiate</em>' - The doctors said that his health condition was serious and required immediate surgery. 'Sérieux' means serious, and 'intervention chirurgicale' means surgery.",
   "difficulty": "B1",
   "source": "Medical Emergency",
   "tags": [
@@ -19,5 +19,6 @@
     "emergency",
     "surgery"
   ],
-  "timeCreated": 1751550400
+  "timeCreated": 1751550400,
+  "verified": "claude"
 }

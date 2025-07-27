@@ -10,7 +10,7 @@
     "Bien sûr, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis."
   ],
   "correct": 0,
-  "explanation": "The speaker used 'certes' meaning 'certainly' or 'admittedly' to acknowledge the economic situation. The other options change 'difficile' to 'facile' (easy), 'maintenir' to 'abandonner' (abandon), or 'certes' to 'bien sûr' (of course).",
+  "explanation": "The text states '<em>Certes, la situation économique est difficile, mais nous devons maintenir notre optimisme et notre détermination face aux défis.</em>' - Certainly, the economic situation is difficult, but we must maintain our optimism and determination in the face of challenges. The speaker used 'certes' meaning 'certainly' or 'admittedly'.",
   "difficulty": "C1",
   "source": "Economic discourse",
   "tags": [
@@ -18,5 +18,6 @@
     "challenges",
     "optimism"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

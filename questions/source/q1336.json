@@ -10,7 +10,7 @@
     "The green arrows"
   ],
   "correct": 0,
-  "explanation": "You should 'suivez les panneaux bleus pour arriver au parking des employés' - follow the blue signs to reach the employee parking. 'Suivez' is the 2nd person plural imperative form of 'suivre' (to follow).",
+  "explanation": "The text states '<em>Suivez les panneaux bleus pour arriver au parking des employés</em>' - Follow the blue signs to reach the employee parking. 'Suivez' is the 2nd person plural imperative form of 'suivre' (to follow), and 'panneaux' means signs.",
   "difficulty": "B1",
   "source": "Workplace Directions",
   "tags": [
@@ -18,5 +18,6 @@
     "directions",
     "parking"
   ],
-  "timeCreated": 1720023300
+  "timeCreated": 1720023300,
+  "verified": "claude"
 }

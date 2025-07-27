@@ -10,7 +10,7 @@
     "A heavy lunch because they have a doctor appointment"
   ],
   "correct": 0,
-  "explanation": "The speaker said 'J'ai pris un déjeuner léger aujourd'hui car j'ai rendez-vous chez le dentiste' - I had a light lunch today because I have an appointment at the dentist. 'Léger' means 'light' (not heavy).",
+  "explanation": "The text states '<em>J'ai pris un déjeuner léger aujourd'hui car j'ai rendez-vous chez le dentiste.</em>' - I had a light lunch today because I have an appointment at the dentist. 'Léger' means 'light' (not heavy).",
   "difficulty": "B1",
   "source": "Medical appointment",
   "tags": [
@@ -18,5 +18,6 @@
     "food",
     "appointments"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

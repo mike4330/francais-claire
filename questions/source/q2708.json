@@ -1,0 +1,18 @@
+{
+  "id": 2708,
+  "audioText": "Les patients souffrent beaucoup pendant cette maladie chronique qui affecte leur qualité de vie quotidienne.",
+  "question": "What is happening to the patients?",
+  "questionType": "comprehension",
+  "options": [
+    "They are recovering quickly from illness",
+    "They are suffering from a chronic disease",
+    "They are receiving excellent medical care",
+    "They are participating in medical research"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Les patients souffrent beaucoup pendant cette maladie chronique qui affecte leur qualité de vie quotidienne</em>' - The patients suffer a lot during this chronic illness that affects their daily quality of life. The verb 'souffrent' (suffer) in third person plural shows their ongoing pain.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["health", "medical-conditions", "pain"],
+  "timeCreated": 1721988480
+}

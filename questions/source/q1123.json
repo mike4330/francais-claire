@@ -10,7 +10,7 @@
     "Whether it has good customer support"
   ],
   "correct": 0,
-  "explanation": "The question asks 'Cette application mobile offre-t-elle de vrais avantages pour la productivité ?' - Does this mobile app offer real benefits for productivity? 'Vrais' means 'real/true', questioning the genuine value of the app.",
+  "explanation": "The text states '<em>Cette application mobile offre-t-elle de vrais avantages pour la productivité ?</em>' - Does this mobile app offer real benefits for productivity? 'Offre' means offers, and 'vrais avantages' means real benefits.",
   "difficulty": "B1",
   "source": "Technology Productivity",
   "tags": [
@@ -19,5 +19,6 @@
     "mobile-apps",
     "benefits"
   ],
-  "timeCreated": 1720052160
+  "timeCreated": 1720052160,
+  "verified": "claude"
 }

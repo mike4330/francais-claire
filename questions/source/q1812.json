@@ -15,5 +15,6 @@
     "source": "Weather advice",
     "tags": ["weather", "indoor-outdoor", "daily-life"],
     "timeCreated": 1720881353,
-    "parentQuestion": 1066
+    "parentQuestion": 1066,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "regarde"
   ],
   "correct": 0,
-  "explanation": "The missing word is 'suive'. The complete sentence is 'Il faut que je suive les instructions de lavage sur cette étiquette pour éviter d'abîmer ce pull en laine' - I need to follow the washing instructions on this label to avoid damaging this wool sweater. 'Suive' is the present subjunctive form of 'suivre' (to follow), first person singular, used after 'il faut que'.",
+  "explanation": "The text states '<em>Il faut que je suive les instructions de lavage sur cette étiquette pour éviter d'abîmer ce pull en laine</em>' - I need to follow the washing instructions on this label to avoid damaging this wool sweater. 'Suive' is the present subjunctive form of 'suivre' (to follow), first person singular, used after 'il faut que'.",
   "difficulty": "B2",
   "source": "Laundry care and clothing maintenance",
   "tags": [
@@ -19,5 +19,6 @@
     "washing-instructions",
     "household"
   ],
-  "timeCreated": 1735952760
+  "timeCreated": 1735952760,
+  "verified": "claude"
 }

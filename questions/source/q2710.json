@@ -1,0 +1,18 @@
+{
+  "id": 2710,
+  "audioText": "Autrefois, il souffrait de migraines terribles qui l'empêchaient de travailler normalement.",
+  "question": "What was his past condition?",
+  "questionType": "comprehension",
+  "options": [
+    "He had severe headaches that affected his work",
+    "He was afraid of working in difficult conditions",
+    "He complained about his workplace environment",
+    "He suffered from chronic back pain"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Autrefois, il souffrait de migraines terribles qui l'empêchaient de travailler normalement</em>' - In the past, he suffered from terrible migraines that prevented him from working normally. The imperfect tense 'souffrait' (suffered) indicates this was an ongoing condition in the past.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["health", "past-experiences", "medical-conditions"],
+  "timeCreated": 1721988480
+}

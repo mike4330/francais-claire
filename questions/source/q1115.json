@@ -10,7 +10,7 @@
     "Pouviez"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'Pourriez' (conditional of 'pouvoir'). This is the most polite way to ask for help: 'Could you tell me where the nearest metro station is?'",
+  "explanation": "The text states '<em>Pourriez-vous me dire où se trouve la station de métro la plus proche ?</em>' - Could you tell me where the nearest metro station is? 'Pourriez' is the conditional form of 'pouvoir', used for polite requests.",
   "difficulty": "B1",
   "source": "Polite Directions",
   "tags": [
@@ -19,5 +19,6 @@
     "transportation",
     "courtesy"
   ],
-  "timeCreated": 1719965300
+  "timeCreated": 1719965300,
+  "verified": "claude"
 }

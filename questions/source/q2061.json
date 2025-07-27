@@ -10,7 +10,7 @@
     "Join a photography club online."
   ],
   "correct": 0,
-  "explanation": "The text states 'L'année prochaine, nous suivrons un cours de photographie professionnelle pour améliorer notre technique' - Next year, we will take a professional photography course to improve our technique. 'Suivrons' is the future form of 'suivre' (to follow/take), first person plural.",
+  "explanation": "The text states '<em>L'année prochaine, nous suivrons un cours de photographie professionnelle pour améliorer notre technique.</em>' - Next year, we will take a professional photography course to improve our technique. 'Suivrons' is the future form of 'suivre' (to follow/take), first person plural.",
   "difficulty": "B2",
   "source": "Photography education and hobbies",
   "tags": [
@@ -19,5 +19,6 @@
     "hobbies",
     "skill-development"
   ],
-  "timeCreated": 1735952460
+  "timeCreated": 1735952460,
+  "verified": "claude"
 }

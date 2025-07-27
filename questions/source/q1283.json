@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>De nombreux aspects de ce début justement posent des questions graves sur notre méthode</em>' - Many aspects of this beginning precisely raise serious questions about our method. 'Nombreux' is the masculine plural form of the adjective meaning 'numerous/many', agreeing with 'aspects'.",
     "difficulty": "B2",
-    "source": "Strategic targeting: nombreux + début + justement + méthode",
+    "source": "Methodology analysis scenario",
     "tags": ["methodology", "analysis", "questioning"],
-    "timeCreated": 1736624040
+    "timeCreated": 1736624040,
+    "verified": "claude"
 }

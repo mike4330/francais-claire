@@ -1,6 +1,6 @@
 {
     "id": 2363,
-    "audioText": "Cette table ronde fatalement positivement designed pour les activités créatives convient parfaitement à notre atelier.",
+    "audioText": "Cette table ronde fatalement positivement conçue pour les activités créatives convient parfaitement à notre atelier.",
     "question": "What type of table is described?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "A small table used for storage purposes"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette table ronde fatalement positivement designed pour les activités créatives convient parfaitement à notre atelier</em>' - This round table inevitably positively designed for creative activities suits our workshop perfectly. 'Rond' (round) is the target adjective, with missing adverbs 'fatalement' (inevitably) and 'positivement' (positively).",
+    "explanation": "The text states '<em>Cette table ronde fatalement positivement conçue pour les activités créatives convient parfaitement à notre atelier</em>' - This round table inevitably positively designed for creative activities suits our workshop perfectly. 'Rond' (round) is the target adjective, with adverbs 'fatalement' (inevitably) and 'positivement' (positively).",
     "difficulty": "B2",
     "source": "claude",
     "tags": ["activities", "design", "workshop"],
-    "timeCreated": "2025-01-23T16:57:00Z"
+    "timeCreated": 1737648000,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "jamais"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'forcément' meaning 'necessarily' or 'inevitably'. If you arrive late to work, you will necessarily be reprimanded by your supervisor. 'Forcément' expresses certainty about the consequence.",
+  "explanation": "The text states '<em>Si tu arrives en retard au travail, tu seras forcément réprimandé par ton chef de service</em>' - If you arrive late to work, you will necessarily be reprimanded by your supervisor. The correct answer is 'forcément' meaning 'necessarily' or 'inevitably'. 'Forcément' expresses certainty about the consequence.",
   "difficulty": "C1",
   "source": "Workplace consequences",
   "tags": [
@@ -18,5 +18,6 @@
     "punctuality",
     "consequences"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The correct answer is 'Important conclusions'. The text states '<em>Je tirerai des conclusions importantes de cette vue d'ensemble sur les expositions d'art contemporain</em>' - I will draw important conclusions from this overview of contemporary art exhibitions. 'Tirerai' is the future form of 'tirer' (to draw/pull), and 'vue' means 'view/sight'.",
     "difficulty": "B2",
-    "source": "Strategic vocabulary development - art exhibitions context",
+    "source": "Art exhibitions analysis",
     "tags": ["exhibitions", "art", "analysis"],
-    "timeCreated": 1720821960
+    "timeCreated": 1720821960,
+    "verified": "claude"
 }

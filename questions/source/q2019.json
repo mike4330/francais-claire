@@ -10,7 +10,7 @@
     "rendre / prêter"
   ],
   "correct": 1,
-  "explanation": "'Rendrai' is the first-person singular of the futur simple of 'rendre' (to give back). 'Prêt' is an adjective meaning 'ready'.",
+  "explanation": "The text states '<em>Je te rendrai ta perceuse demain sans faute. Je ne suis pas encore prêt à commencer les travaux, j'attends une livraison de matériel</em>' - I will return your drill tomorrow without fail. I'm not ready yet to start the work, I'm waiting for a delivery of materials. 'Rendrai' is the future tense of 'rendre' (to give back) and 'prêt' is an adjective meaning 'ready'.",
   "difficulty": "B2",
   "source": "Gemini CLI",
   "tags": [
@@ -18,5 +18,6 @@
     "borrowing",
     "planning"
   ],
-  "timeCreated": 1720181359
+  "timeCreated": 1720181359,
+  "verified": "claude"
 }

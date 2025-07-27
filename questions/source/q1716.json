@@ -1,7 +1,7 @@
 {
   "id": 1716,
   "audioText": "Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes.",
-  "question": "Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes.",
+  "question": "How had the king wounded his people's soul?",
   "questionType": "listening",
   "options": [
     "He had maliciously wounded it with his unjust decisions",
@@ -12,12 +12,13 @@
   "correct": 0,
   "explanation": "The text states '<em>Le roi avait méchamment blessé l'âme de son peuple par ses décisions injustes</em>' - The king had maliciously wounded his people's soul through his unjust decisions. 'Méchamment' means maliciously or wickedly, and 'âme' refers to the soul or spirit. The distractors test confusion about the intent (accidentally), the method (taxation), and the action (ignored).",
   "difficulty": "B1",
-  "source": "Strategic lemma synergy: adverb + high-frequency noun combination",
+  "source": "Historical political scenario",
   "tags": [
     "politics",
     "history",
     "emotions"
   ],
   "timeCreated": 1720881353,
+  "verified": "claude",
   "parentQuestion": 2374
 }

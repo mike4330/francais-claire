@@ -10,7 +10,7 @@
     "falloir"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'fallait' (it was necessary) - the imperfect form of the impersonal verb 'falloir'. The sentence means 'It was absolutely necessary to reserve in advance to get a table in this popular restaurant.' The imperfect tense 'fallait' indicates a past necessity or habitual requirement. Other options: 'faut' (present), 'faudra' (future), 'falloir' (infinitive) don't fit the past context.",
+  "explanation": "The text states '<em>Il fallait absolument réserver à l'avance pour obtenir une table dans ce restaurant populaire</em>' - It was absolutely necessary to reserve in advance to get a table in this popular restaurant. 'Fallait' is the imperfect form of 'falloir' (to be necessary).",
   "difficulty": "B1",
   "source": "Restaurant Reservation Experience",
   "tags": [
@@ -19,5 +19,6 @@
     "planning",
     "necessity"
   ],
-  "timeCreated": 1751550000
+  "timeCreated": 1751550000,
+  "verified": "claude"
 }

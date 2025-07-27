@@ -10,7 +10,7 @@
     "donnerait"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'donnera' (future of 'donner'). The future tense is used because of 'demain matin' (tomorrow morning), indicating a future action. 'Le directeur donnera sa réponse' means 'The director will give his answer.'",
+  "explanation": "The text states '<em>Le directeur donnera sa réponse demain matin lors de la réunion</em>' - The director will give his answer tomorrow morning during the meeting. The correct answer is 'donnera' (future tense of 'donner'). The future tense is used because of 'demain matin' (tomorrow morning), indicating a future action.",
   "difficulty": "B1",
   "source": "Business Meeting",
   "tags": [
@@ -19,5 +19,6 @@
     "workplace",
     "decision-making"
   ],
-  "timeCreated": 1720027460
+  "timeCreated": 1720027460,
+  "verified": "claude"
 }

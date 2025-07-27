@@ -10,7 +10,7 @@
     "He will visit friends in Spain for a weekend"
   ],
   "correct": 0,
-  "explanation": "The sentence uses 'ira' (future tense of aller - to go). Marc will go on vacation to Spain this summer with his family.",
+  "explanation": "The text states '<em>Marc ira en vacances en Espagne cet été avec sa famille</em>' - Marc will go on vacation to Spain this summer with his family. 'Ira' is the future tense of 'aller' (to go), and 'vacances' means vacation.",
   "difficulty": "B1",
   "source": "Summer Plans",
   "tags": [
@@ -19,5 +19,6 @@
     "family",
     "future-plans"
   ],
-  "timeCreated": 1719963400
+  "timeCreated": 1719963400,
+  "verified": "claude"
 }

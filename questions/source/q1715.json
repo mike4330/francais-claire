@@ -10,7 +10,7 @@
     "The actors getting ready backstage"
   ],
   "correct": 1,
-  "explanation": "The sentence uses 'passais', the imparfait tense of 'passer', to describe a repeated action in the past. The speaker imagined the historical events inside the theater. The distractors test confusion about the timeline (modern plays), the focus (ticket prices), and the specific activity (actors preparing).",
+  "explanation": "The text states '<em>Chaque fois que je passais devant ce vieux théâtre, j'imaginais les événements incroyables qui avaient dû s'y dérouler il y a des décennies. C'était comme un voyage dans le temps.</em>' - Each time I passed in front of this old theater, I imagined the incredible events that must have taken place there decades ago. It was like a journey through time. The speaker imagined the historical events inside the theater.",
   "difficulty": "B1",
   "source": "Gemini CLI",
   "tags": [
@@ -20,5 +20,6 @@
     "daily-life"
   ],
   "timeCreated": 1720881353,
-  "parentQuestion": 2186
+  "parentQuestion": 2186,
+  "verified": "claude"
 }

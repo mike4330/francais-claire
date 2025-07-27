@@ -10,7 +10,7 @@
     "It only works for conflicts between neighboring countries."
   ],
   "correct": 0,
-  "explanation": "The speaker states 'Cette autre méthode de négociation internationale pourrait s'avérer plus efficace pour résoudre les conflits commerciaux entre les différentes nations européennes' - This other international negotiation method could prove more effective for resolving trade conflicts between different European nations. 'Autre' means 'other' or 'another'.",
+  "explanation": "The text states '<em>Cette autre méthode de négociation internationale pourrait s'avérer plus efficace pour résoudre les conflits commerciaux entre les différentes nations européennes.</em>' - This other international negotiation method could prove more effective for resolving trade conflicts between different European nations. 'Autre' means 'other' or 'another'.",
   "difficulty": "B2",
   "source": "International trade negotiations and diplomacy",
   "tags": [
@@ -19,5 +19,6 @@
     "trade",
     "negotiations"
   ],
-  "timeCreated": 1735948680
+  "timeCreated": 1735948680,
+  "verified": "claude"
 }

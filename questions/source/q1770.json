@@ -10,7 +10,7 @@
     "They recommend waiting before considering the professional opportunity"
   ],
   "correct": 0,
-  "explanation": "'Sérieusement' means 'seriously' and emphasizes the importance of the advice. The speaker is strongly recommending that the person give serious, thoughtful consideration to this professional opportunity rather than dismissing it lightly.",
+  "explanation": "The text states '<em>Tu devrais sérieusement considérer cette opportunité professionnelle</em>' - You should seriously consider this professional opportunity. 'Sérieusement' means 'seriously' and emphasizes the importance of the advice. The speaker is strongly recommending that the person give serious, thoughtful consideration to this professional opportunity rather than dismissing it lightly.",
   "difficulty": "B1",
   "source": "Career advice",
   "tags": [
@@ -18,5 +18,6 @@
     "advice",
     "opportunities"
   ],
-  "timeCreated": 1720077200
+  "timeCreated": 1720077200,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "Il essayait de nouvelles techniques de méditation pour réduire son stress quotidien."
   ],
   "correct": 0,
-  "explanation": "The speaker said 'Il essaye de nouvelles techniques de méditation pour réduire son stress quotidien.' - He tries new meditation techniques to reduce his daily stress. 'Essaye' is the third person singular present tense of 'essayer' (to try), alternative spelling of 'essaie'.",
+  "explanation": "The exact phrase was '<em>Il essaye de nouvelles techniques de méditation pour réduire son stress quotidien</em>' - He tries new meditation techniques to reduce his daily stress. 'Essaye' is the third person singular present tense of 'essayer' (to try), alternative spelling of 'essaie'.",
   "difficulty": "B1",
   "source": "Stress management and wellness",
   "tags": [
@@ -20,5 +20,6 @@
     "wellness",
     "self-care"
   ],
-  "timeCreated": 1736067200
+  "timeCreated": 1736067200,
+  "verified": "claude"
 }

@@ -1,6 +1,6 @@
 {
   "id": 1684,
-  "audioText": "Amèrement, tu achètera des médicaments coûteux car les docteurs formellement recommandent ce traitement médical.",
+  "audioText": "Amèrement, tu achèteras des médicaments coûteux car les docteurs recommandent formellement ce traitement médical.",
   "question": "Qu'est-ce que vous avez entendu?",
   "questionType": "listening",
   "options": [
@@ -10,9 +10,10 @@
     "Tristement, tu achèteras des médicaments coûteux car les docteurs formellement recommandent ce traitement médical."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Amèrement, tu achèteras des médicaments coûteux car les docteurs recommandent formellement ce traitement médical</em>' - Bitterly, you will buy expensive medicines because doctors formally recommend this medical treatment. This tests precise listening of 'amèrement', future tense, and 'formellement'.",
+  "explanation": "The exact phrase was '<em>Amèrement, tu achèteras des médicaments coûteux car les docteurs recommandent formellement ce traitement médical</em>' - Bitterly, you will buy expensive medicines because doctors formally recommend this medical treatment. This tests precise listening of 'amèrement', future tense 'achèteras', and 'formellement'.",
   "difficulty": "B1",
-  "source": "Strategic targeting - amèrement + achètera + formellement + docteurs + medical-treatment synergy",
+  "source": "Medical treatment scenario",
   "tags": ["medical-treatment", "doctors", "healthcare-costs"],
-  "timeCreated": 1736804900
+  "timeCreated": 1736804900,
+  "verified": "claude"
 }

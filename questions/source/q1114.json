@@ -10,7 +10,7 @@
     "savais"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'su' (past participle of 'savoir'). 'J'ai su' means 'I learned/found out'. The construction is passé composé: 'avoir' + past participle.",
+  "explanation": "The text states '<em>J'ai su la nouvelle par mon collègue qui était présent à la réunion</em>' - I learned the news from my colleague who was present at the meeting. The correct form is 'su' (past participle of 'savoir' in passé composé).",
   "difficulty": "B1",
   "source": "Workplace Information",
   "tags": [
@@ -19,5 +19,6 @@
     "colleagues",
     "meetings"
   ],
-  "timeCreated": 1719965200
+  "timeCreated": 1719965200,
+  "verified": "claude"
 }

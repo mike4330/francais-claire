@@ -10,7 +10,7 @@
     "In two weeks"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Elle verra les résultats... la semaine prochaine' - She will see the results next week. 'Verra' is the future tense of 'voir' (to see).",
+  "explanation": "The text states '<em>Elle verra les résultats de ses examens la semaine prochaine</em>' - She will see her exam results next week. 'Verra' is the future tense of 'voir' (to see), and 'la semaine prochaine' means next week.",
   "difficulty": "B1",
   "source": "Exam Results",
   "tags": [
@@ -19,5 +19,6 @@
     "results",
     "future-events"
   ],
-  "timeCreated": 1719965500
+  "timeCreated": 1719965500,
+  "verified": "claude"
 }

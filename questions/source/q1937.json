@@ -14,5 +14,6 @@
   "difficulty": "B1",
   "source": "claude",
   "tags": ["cooking", "recipe", "instructions"],
-  "timeCreated": "2025-07-16T00:00:00Z"
+  "timeCreated": "2025-07-16T00:00:00Z",
+  "verified": "claude"
 }

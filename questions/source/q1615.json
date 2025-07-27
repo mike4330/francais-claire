@@ -10,9 +10,10 @@
         "Les accessoires portés prudemment par cette dame fragile sont horribles"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'Les vêtements portés dangereusement par cette dame faible sont superbes'. The text states '<em>Les vêtements portés dangereusement par cette dame faible sont superbes</em>' - The clothes worn dangerously by this weak lady are superb. This targets the past participle 'portés', the adverb 'dangereusement', and the adjectives 'faible' and 'superbes'.",
+    "explanation": "The exact phrase was '<em>Les vêtements portés dangereusement par cette dame faible sont superbes</em>' - The clothes worn dangerously by this weak lady are superb. This tests listening precision for past participle agreement, adverb placement, and adjective forms.",
     "difficulty": "B2",
-    "source": "Strategic vocabulary targeting: porter conjugation + adjectives + adverbs",
+    "source": "Fashion description scenario",
     "tags": ["fashion", "description", "formal-situation"],
-    "timeCreated": 1720812200
+    "timeCreated": 1720812200,
+    "verified": "claude"
 }

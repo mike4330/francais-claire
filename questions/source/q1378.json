@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>La somme payée par l'entreprise était considérable pour cette acquisition</em>' - The amount paid by the company was considerable for this acquisition. 'Payée' (feminine past participle) agrees with 'la somme' (feminine noun). Past participles agree in gender and number when used with être or in passive constructions.",
     "difficulty": "B2",
-    "source": "Strategic targeting: payée (feminine past participle)",
+    "source": "Business acquisition scenario",
     "tags": ["business", "finance", "acquisition"],
-    "timeCreated": 1736628480
+    "timeCreated": 1736628480,
+    "verified": "claude"
 }

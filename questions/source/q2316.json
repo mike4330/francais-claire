@@ -7,9 +7,10 @@
   "correct": 0,
   "correctAnswer": "habitez",
   "acceptedAnswers": ["habitez", "Habitez"],
-  "explanation": "The correct form is 'habitez' - second person plural present of 'habiter' (to live). The question asks where you live now that you have moved.",
+  "explanation": "The text states '<em>Où habitez-vous maintenant que vous avez déménagé ?</em>' - Where do you live now that you have moved? The correct form is 'habitez' - second person plural present of 'habiter' (to live).",
   "difficulty": "B1",
   "source": "claude",
   "tags": ["housing", "moving", "location"],
-  "timeCreated": "2025-01-21T16:11:00Z"
+  "timeCreated": 1737477060,
+  "verified": "claude"
 }

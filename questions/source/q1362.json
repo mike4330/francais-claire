@@ -10,10 +10,11 @@
         "Ce vieil homme pauvre raconte des histoire uniques de sa jeunesse"
     ],
     "correct": 0,
-    "explanation": "The correct phrase is '<em>Ce vieil homme pauvre raconte des histoires uniques de sa jeunesse</em>' - This old poor man tells unique stories from his youth. Note the correct forms: 'vieil' (special masculine form before vowel), 'histoires' (plural), and 'uniques' (plural agreement).",
+    "explanation": "The exact phrase was '<em>Ce vieil homme pauvre raconte des histoires uniques de sa jeunesse</em>' - This old poor man tells unique stories from his youth. Note the correct forms: 'vieil' (special masculine form before vowel), 'histoires' (plural), and 'uniques' (plural agreement).",
     "difficulty": "B2",
     "source": "Listening version of Q1221",
     "tags": ["storytelling", "elderly", "memory"],
     "parentQuestion": 1221,
-    "timeCreated": 1736625960
+    "timeCreated": 1736625960,
+    "verified": "claude"
 }

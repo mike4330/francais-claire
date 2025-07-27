@@ -10,7 +10,7 @@
     "moyen"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'formidable' meaning 'fantastic' or 'wonderful'. This concert was absolutely fantastic, the orchestra played with remarkable precision. 'Formidable' expresses high praise and admiration.",
+  "explanation": "The text states '<em>Ce concert était absolument formidable, l'orchestre a joué avec une précision remarquable</em>' - This concert was absolutely fantastic, the orchestra played with remarkable precision. The correct answer is 'formidable' meaning 'fantastic' or 'wonderful'.",
   "difficulty": "B2",
   "source": "Concert review",
   "tags": [
@@ -18,5 +18,6 @@
     "performance",
     "praise"
   ],
-  "timeCreated": 1720077400
+  "timeCreated": 1720077400,
+  "verified": "claude"
 }

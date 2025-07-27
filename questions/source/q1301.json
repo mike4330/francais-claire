@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Ce programme donne un excellent exemple de collaboration internationale moderne et efficace</em>' - This program gives an excellent example of modern and effective international collaboration. 'Exemple' (example) is the correct noun, masculine singular with the indefinite article 'un'.",
     "difficulty": "B2",
-    "source": "Strategic targeting: exemple + internationale + efficace",
+    "source": "International collaboration scenario",
     "tags": ["collaboration", "international", "programs"],
-    "timeCreated": 1736625240
+    "timeCreated": 1736625240,
+    "verified": "claude"
 }

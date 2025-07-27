@@ -10,7 +10,7 @@
     "trouverai"
   ],
   "correct": 0,
-  "explanation": "The missing word is 'trouverais'. The complete sentence is 'Je pense que je trouverais ce livre passionnant si j'avais plus de temps pour lire' - I think I would find this book fascinating if I had more time to read. 'Trouverais' is the conditional form of 'trouver' (to find), used in hypothetical situations.",
+  "explanation": "The text states '<em>Je pense que je trouverais ce livre passionnant si j'avais plus de temps pour lire</em>' - I think I would find this book fascinating if I had more time to read. 'Trouverais' is the conditional form of 'trouver' (to find), used in hypothetical situations.",
   "difficulty": "B1",
   "source": "Reading habits and book preferences",
   "tags": [
@@ -19,5 +19,6 @@
     "hobbies",
     "time-management"
   ],
-  "timeCreated": 1735950960
+  "timeCreated": 1735950960,
+  "verified": "claude"
 }

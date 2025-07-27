@@ -1,7 +1,7 @@
 {
     "id": 1849,
     "audioText": "Les habitants vivaient au bout de la forêt verte, totalement isolés de la ville polluée.",
-    "question": "Les habitants vivaient au bout de la forêt verte, totalement isolés de la ville polluée.",
+    "question": "How were the inhabitants related to the polluted city?",
     "questionType": "listening",
     "options": [
         "Partially connected to it",
@@ -15,5 +15,6 @@
     "source": "Environmental contrast and rural life",
     "tags": ["environment", "rural-life", "pollution"],
     "timeCreated": 1720881353,
+    "verified": "claude",
     "parentQuestion": 869
 }

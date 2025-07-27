@@ -1,6 +1,6 @@
 {
     "id": 1579,
-    "audioText": "Les archers tiraient leurs flèches avec une précision parfait vers les cibles placées à cent mètres de distance.",
+    "audioText": "Les archers tiraient leurs flèches avec une précision parfaite vers les cibles placées à cent mètres de distance.",
     "question": "How did the archers shoot their arrows toward targets placed one hundred meters away?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "After extensive training and professional coaching sessions"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Les archers tiraient leurs flèches avec une précision parfait vers les cibles placées à cent mètres de distance.</em>' - The archers shot their arrows with perfect precision toward targets placed one hundred meters away. 'Tiraient' is the imperfect form of 'tirer' (to shoot/pull), 'précision' means precision, and 'parfait' means perfect.",
+    "explanation": "The text states '<em>Les archers tiraient leurs flèches avec une précision parfaite vers les cibles placées à cent mètres de distance</em>' - The archers shot their arrows with perfect precision toward targets placed one hundred meters away. 'Tiraient' is the imperfect form of 'tirer' (to shoot/pull), 'précision' means precision, and 'parfaite' means perfect.",
     "difficulty": "B2",
     "source": "Strategic conjugate coverage development - archery competition",
     "tags": ["sports", "competition", "precision"],
-    "timeCreated": 1720830700
+    "timeCreated": 1720830700,
+    "verified": "claude"
 }

@@ -10,9 +10,10 @@
     "I wrote you a long letter"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>J'ai rêvé de toi toute la nuit dernière</em>' - I dreamed of you all night last. 'Rêvé' is the past participle of 'rêver' (to dream), used in the passé composé.",
+  "explanation": "The text states '<em>J'ai rêvé de toi toute la nuit dernière</em>' - I dreamed of you all night last night. 'Rêvé' is the past participle of 'rêver' (to dream), used in the passé composé.",
   "difficulty": "B1",
   "source": "claude",
   "tags": ["dreams", "romance", "sleep"],
-  "timeCreated": "2025-01-21T16:08:00Z"
+  "timeCreated": 1737476880,
+  "verified": "claude"
 }

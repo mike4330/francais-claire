@@ -10,9 +10,10 @@
     "détesterai"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'détestais' - first person singular imperfect of 'détester' (to hate). The sentence shows a contrast between past and present feelings about mathematics.",
+  "explanation": "The text states '<em>Avant, je détestais les mathématiques mais maintenant j'adore cette matière</em>' - Before, I hated mathematics but now I love this subject. The correct form is 'détestais' - first person singular imperfect of 'détester' (to hate). The sentence shows a contrast between past and present feelings about mathematics.",
   "difficulty": "B2",
   "source": "claude",
   "tags": ["education", "mathematics", "attitude-change"],
-  "timeCreated": "2025-01-21T16:04:00Z"
+  "timeCreated": "2025-01-21T16:04:00Z",
+  "verified": "claude"
 }

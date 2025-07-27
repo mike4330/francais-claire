@@ -10,12 +10,13 @@
     "A discount"
   ],
   "correct": 0,
-  "explanation": "The sentence says the client was asking why their order was late.",
+  "explanation": "The text states '<em>Le client demandait pourquoi sa commande était en retard</em>' - The client was asking why their order was late. 'Demandait' is the imperfect form of 'demander' (to ask) and 'retard' means delay.",
   "difficulty": "B1",
   "source": "Gemini-generated",
   "tags": [
     "customer-service",
     "business"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

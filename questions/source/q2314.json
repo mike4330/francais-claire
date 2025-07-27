@@ -10,9 +10,10 @@
     "poussait"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'poussez' - second person plural present of 'pousser' (to push). The sentence warns that pushing the door too hard will break it.",
+  "explanation": "The text states '<em>Vous poussez cette porte trop fort, elle va se casser.</em>' - You push this door too hard, it's going to break. The correct form is 'poussez' - second person plural present of 'pousser' (to push).",
   "difficulty": "B1",
   "source": "claude",
   "tags": ["physical-actions", "warning", "doors"],
-  "timeCreated": "2025-01-21T16:09:00Z"
+  "timeCreated": 1737475740,
+  "verified": "claude"
 }

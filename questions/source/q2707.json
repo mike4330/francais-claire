@@ -1,0 +1,18 @@
+{
+  "id": 2707,
+  "audioText": "L'environnement doit être protégé contre les activités industrielles dangereuses pour les générations futures.",
+  "question": "What should happen to the environment?",
+  "questionType": "comprehension",
+  "options": [
+    "It should be developed for industry",
+    "It should be protected from dangerous activities",
+    "It should be studied by scientists",
+    "It should be used for recreational purposes"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>L'environnement doit être protégé contre les activités industrielles dangereuses pour les générations futures</em>' - The environment must be protected against dangerous industrial activities for future generations. The past participle 'protégé' (protected) is used in the passive construction 'doit être protégé' (must be protected).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["environment", "politics", "future-planning"],
+  "timeCreated": 1721988480
+}

@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The correct answer is 'He mysteriously disappeared, creating unbearable suspense'. The text states '<em>Pendant que je mangeais en regardant ce thriller politique, le président disparaissait mystérieusement, créant un suspense insoutenable</em>' - While I was eating and watching this political thriller, the president was mysteriously disappearing, creating unbearable suspense. 'Mangeais' is the imperfect form of 'manger' (to eat), and 'président' means 'president'.",
     "difficulty": "B2",
-    "source": "Strategic vocabulary development - political thriller context",
+    "source": "Political thriller scenario",
     "tags": ["suspense", "politics", "thriller"],
-    "timeCreated": 1720822380
+    "timeCreated": 1720822380,
+    "verified": "claude"
 }

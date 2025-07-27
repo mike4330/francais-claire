@@ -10,7 +10,7 @@
     "Half an hour"
   ],
   "correct": 0,
-  "explanation": "He 'est resté trois heures à attendre le médecin' - stayed/remained three hours waiting for the doctor. 'Resté' is the past participle of 'rester' used with être to form the passé composé.",
+  "explanation": "The text states '<em>Il est resté trois heures à attendre le médecin</em>' - He stayed three hours waiting for the doctor. 'Resté' is the past participle of 'rester' used with être to form the passé composé.",
   "difficulty": "B1",
   "source": "Medical Appointment",
   "tags": [
@@ -18,5 +18,6 @@
     "waiting",
     "appointment"
   ],
-  "timeCreated": 1720022640
+  "timeCreated": 1720022640,
+  "verified": "claude"
 }

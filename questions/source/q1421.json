@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The correct answer is 'Looking for a new job with the new digital platform'. The text states '<em>Selon l'annonce officielle, chercher un nouveau boulot deviendrait plus facile avec la nouvelle plateforme numérique</em>' - According to the official announcement, looking for a new job would become easier with the new digital platform. 'Deviendrait' is the conditional form of 'devenir' (to become), and 'boulot' is informal for 'job'.",
     "difficulty": "B2",
-    "source": "Strategic vocabulary development - job platform announcement context",
+    "source": "Job platform announcement",
     "tags": ["announcements", "technology", "workplace"],
-    "timeCreated": 1720819980
+    "timeCreated": 1720819980,
+    "verified": "claude"
 }

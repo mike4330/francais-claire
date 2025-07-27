@@ -10,7 +10,7 @@
     "It specializes only in artificial intelligence"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Cette start-up n'a pas la moindre expérience dans le domaine de l'intelligence artificielle' - This startup doesn't have the slightest experience in the field of artificial intelligence. 'Moindre' means 'slightest/least' and emphasizes complete lack of experience.",
+  "explanation": "The text states '<em>Cette start-up n'a pas la moindre expérience dans le domaine de l'intelligence artificielle.</em>' - This startup doesn't have the slightest experience in the field of artificial intelligence. 'Moindre' means 'slightest/least' and emphasizes complete lack of experience.",
   "difficulty": "B2",
   "source": "Technology Business",
   "tags": [
@@ -19,5 +19,6 @@
     "artificial-intelligence",
     "experience"
   ],
-  "timeCreated": 1720052280
+  "timeCreated": 1720052280,
+  "verified": "claude"
 }

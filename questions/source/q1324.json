@@ -10,7 +10,7 @@
     "resterais"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'restes' (2nd person singular present tense of 'rester'). The sentence means 'You always remain very patient with difficult children.' The present tense indicates a general, ongoing characteristic.",
+  "explanation": "The text states '<em>Tu restes toujours très patient avec les enfants difficiles</em>' - You always remain very patient with difficult children. The correct answer is 'restes' (2nd person singular present tense of 'rester'). The present tense indicates a general, ongoing characteristic.",
   "difficulty": "B1",
   "source": "Family Dynamics",
   "tags": [
@@ -18,5 +18,6 @@
     "children",
     "patience"
   ],
-  "timeCreated": 1720022580
+  "timeCreated": 1720022580,
+  "verified": "claude"
 }

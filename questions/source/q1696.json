@@ -1,6 +1,6 @@
 {
   "id": 1696,
-  "audioText": "Les documents gardés dans cette beauté architecturale montrent que nous boive trop rapidement pendant les concerts.",
+  "audioText": "Les documents gardés dans cette beauté architecturale montrent que nous buvons trop rapidement pendant les concerts.",
   "question": "What do the documents kept in this architectural beauty show?",
   "questionType": "comprehension",
   "options": [
@@ -10,9 +10,10 @@
     "That we leave too early from orchestral presentations"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Les documents gardés dans cette beauté architecturale montrent que nous buvons trop rapidement pendant les concerts</em>' - The documents kept in this architectural beauty show that we drink too quickly during concerts. This combines 'gardés', 'beauté', 'boive', and 'concerts'.",
+  "explanation": "The text states '<em>Les documents gardés dans cette beauté architecturale montrent que nous buvons trop rapidement pendant les concerts</em>' - The documents kept in this architectural beauty show that we drink too quickly during concerts. 'Buvons' is the correct first person plural present tense of 'boire' (to drink).",
   "difficulty": "B1",
-  "source": "Strategic targeting - gardés + beauté + boive + concerts synergy + cultural behavior",
+  "source": "Cultural behavior scenario",
   "tags": ["concerts", "cultural-behavior", "architecture"],
-  "timeCreated": 1736805660
+  "timeCreated": 1736805660,
+  "verified": "claude"
 }

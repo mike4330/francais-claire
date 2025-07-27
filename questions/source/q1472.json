@@ -10,7 +10,7 @@
     "It was hidden from journalists yesterday evening."
   ],
   "correct": 0,
-  "explanation": "The French sentence uses 'donnée' - the past participle feminine form of 'donner' (to give). 'L'information a été donnée' means 'the information was given'. The past participle agrees with the feminine noun 'information'.",
+  "explanation": "The text states '<em>L'information a été donnée aux journalistes hier soir</em>' - The information was given to journalists yesterday evening. The French sentence uses 'donnée' - the past participle feminine form of 'donner' (to give). The past participle agrees with the feminine noun 'information'.",
   "difficulty": "B2",
   "source": "Media and journalism context",
   "tags": [
@@ -18,5 +18,6 @@
     "journalism",
     "information"
   ],
-  "timeCreated": 1720108800
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

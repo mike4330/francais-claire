@@ -1,6 +1,6 @@
 {
   "id": 1709,
-  "audioText": "Amicalement, vous plairez exceptionnellement au colonel quand j'ouvrirai cette pierre montés dans l'oreille où la nourriture a été servie par hasard lors de ce rendez-vous.",
+  "audioText": "Amicalement, vous plairez exceptionnellement au colonel quand j'ouvrirai cette pierre montée dans l'oreille où la nourriture a été servie par hasard lors de ce rendez-vous.",
   "question": "Qu'est-ce que vous avez entendu?",
   "questionType": "listening",
   "options": [
@@ -10,9 +10,10 @@
     "Amicalement, vous plairiez exceptionnellement au colonel quand j'ouvrirai cette pierre montés dans l'oreille où la nourriture a été servie par hasard lors de ce rendez-vous."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Amicalement, vous plairez exceptionnellement au colonel quand j'ouvrirai cette pierre montée dans l'oreille où la nourriture a été servie par hasard lors de ce rendez-vous</em>' - Friendly, you will exceptionally please the colonel when I open this stone mounted in the ear where food was served by chance during this appointment. This tests precise listening of agreement and verb forms.",
+  "explanation": "The exact phrase was '<em>Amicalement, vous plairez exceptionnellement au colonel quand j'ouvrirai cette pierre montée dans l'oreille où la nourriture a été servie par hasard lors de ce rendez-vous</em>' - Friendly, you will exceptionally please the colonel when I open this stone mounted in the ear where food was served by chance during this appointment. This tests precise listening of agreement and verb forms.",
   "difficulty": "B1",
-  "source": "Strategic targeting - amicalement + plairez + exceptionnellement + colonel + ouvrirai + pierre + montés + oreille + servie + hasard + rendez-vous synergy + appointment",
+  "source": "Appointment scenario",
   "tags": ["appointment", "military", "food"],
-  "timeCreated": 1736806260
+  "timeCreated": 1736806260,
+  "verified": "claude"
 }

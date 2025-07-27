@@ -1,0 +1,18 @@
+{
+  "id": 2711,
+  "audioText": "Les parents protègent leurs enfants des dangers de la rue en les accompagnant toujours à l'école.",
+  "question": "How do parents ensure their children's safety?",
+  "questionType": "comprehension",
+  "options": [
+    "By teaching them self-defense techniques",
+    "By always accompanying them to school",
+    "By driving them in private vehicles",
+    "By hiring professional bodyguards"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Les parents protègent leurs enfants des dangers de la rue en les accompagnant toujours à l'école</em>' - Parents protect their children from street dangers by always accompanying them to school. The present tense 'protègent' (protect) shows ongoing parental protection through accompaniment.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["family", "child-safety", "education"],
+  "timeCreated": 1721988480
+}

@@ -10,7 +10,7 @@
     "It runs too slowly"
   ],
   "correct": 0,
-  "explanation": "The sentence says 'Il est étrange que cette nouvelle application consomme autant de batterie' - It's strange that this new application consumes so much battery. 'Étrange' means strange/odd, expressing surprise about the high battery consumption.",
+  "explanation": "The text states '<em>Il est étrange que cette nouvelle application consomme autant de batterie</em>' - It's strange that this new application consumes so much battery. 'Étrange' means strange, and 'consomme' means consumes.",
   "difficulty": "B1",
   "source": "Technology Issues",
   "tags": [
@@ -19,5 +19,6 @@
     "battery",
     "problems"
   ],
-  "timeCreated": 1720052460
+  "timeCreated": 1720052460,
+  "verified": "claude"
 }

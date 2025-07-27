@@ -10,9 +10,10 @@
     "Tu frappes souvent à la porte avant d'entrer dans ma chambre."
   ],
   "correct": 0,
-  "explanation": "The correct form is 'frappes' (knock). You always knock on the door before entering my room. This targets polite manners and under-represented 'manners' topic.",
+  "explanation": "The speaker said '<em>Tu frappes toujours à la porte avant d'entrer dans ma chambre</em>' - You always knock on the door before entering my room. The correct form is 'frappes' (knock). This tests exact comprehension of polite behavior and manners.",
   "difficulty": "B1",
   "source": "claude",
   "tags": ["manners", "politeness", "home"],
-  "timeCreated": "2025-01-21T16:58:00Z"
+  "timeCreated": "2025-01-21T16:58:00Z",
+  "verified": "claude"
 }

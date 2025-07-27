@@ -1,6 +1,6 @@
 {
     "id": 1582,
-    "audioText": "Le fleuriste portaient chaque fleur avec un soin infini pour créer des bouquets merveilleux pour le mariage parfait.",
+    "audioText": "Le fleuriste portait chaque fleur avec un soin infini pour créer des bouquets merveilleux pour le mariage parfait.",
     "question": "What did the florist carry with infinite care to create wonderful bouquets for the perfect wedding?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Fragile vases and elegant containers"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le fleuriste portaient chaque fleur avec un soin infini pour créer des bouquets merveilleux pour le mariage parfait.</em>' - The florist carried each flower with infinite care to create wonderful bouquets for the perfect wedding. 'Fleur' means flower, 'portaient' is a form of 'porter' (to carry), and 'soin' means care.",
+    "explanation": "The text states '<em>Le fleuriste portait chaque fleur avec un soin infini pour créer des bouquets merveilleux pour le mariage parfait.</em>' - The florist carried each flower with infinite care to create wonderful bouquets for the perfect wedding. 'Fleur' means flower, 'portait' is the imperfect form of 'porter' (to carry), and 'soin' means care.",
     "difficulty": "B1",
     "source": "Strategic noun coverage development - wedding floristry",
     "tags": ["wedding", "flowers", "craftsmanship"],
-    "timeCreated": 1720831120
+    "timeCreated": 1720831120,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "It seems completely necessary to them."
   ],
   "correct": 0,
-  "explanation": "The French sentence uses 'ridicule' meaning 'ridiculous/absurd'. 'Cette proposition me paraît complètement ridicule' means 'this proposal seems completely ridiculous to me'. The speaker finds the proposal absurd.",
+  "explanation": "The text states '<em>Cette proposition me paraît complètement ridicule</em>' - This proposal seems completely ridiculous to me. The French adjective 'ridicule' means ridiculous/absurd, and the speaker finds the proposal absurd.",
   "difficulty": "B1",
   "source": "Opinion expression in discussion",
   "tags": [
@@ -18,5 +18,6 @@
     "discussion",
     "criticism"
   ],
-  "timeCreated": 1720108800
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

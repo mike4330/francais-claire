@@ -10,12 +10,13 @@
     "Engineer"
   ],
   "correct": 0,
-  "explanation": "'Fils' means 'son'. The sentence states his son is a university student.",
+  "explanation": "The text states '<em>Mon fils est étudiant à l'université.</em>' - My son is a student at the university. 'Fils' means 'son' and 'étudiant' means student.",
   "difficulty": "B1",
   "source": "Gemini-generated",
   "tags": [
     "family",
     "education"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

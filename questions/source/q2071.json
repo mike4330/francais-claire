@@ -10,7 +10,7 @@
     "Tu parleras de cette pièce de jeu manquante avec tes coéquipiers lors du tournoi d'échecs."
   ],
   "correct": 0,
-  "explanation": "The exact phrase was 'Tu parleras de cette pièce de puzzle manquante avec tes coéquipiers lors du tournoi d'échecs.' - You will talk about this missing puzzle piece with your teammates during the chess tournament. Note 'parleras' vs 'discuteras', 'coéquipiers' vs 'collègues', and 'puzzle' vs 'jeu'. 'Parleras' is the future form of 'parler' (to talk), second person singular.",
+  "explanation": "The exact phrase was '<em>Tu parleras de cette pièce de puzzle manquante avec tes coéquipiers lors du tournoi d'échecs</em>' - You will talk about this missing puzzle piece with your teammates during the chess tournament. Note 'parleras' vs 'discuteras', 'coéquipiers' vs 'collègues', and 'puzzle' vs 'jeu'.",
   "difficulty": "B2",
   "source": "Puzzles and chess tournaments",
   "tags": [
@@ -19,5 +19,6 @@
     "games",
     "tournaments"
   ],
-  "timeCreated": 1735953060
+  "timeCreated": 1735953060,
+  "verified": "claude"
 }

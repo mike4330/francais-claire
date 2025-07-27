@@ -10,12 +10,13 @@
     "homme"
   ],
   "correct": 0,
-  "explanation": "'Fille' means 'daughter' or 'girl'. The sentence indicates a daughter going to school daily.",
+  "explanation": "The text states '<em>Ma fille va à l'école tous les jours</em>' - My daughter goes to school every day. 'Fille' means daughter or girl, and 'tous les jours' means every day.",
   "difficulty": "B1",
   "source": "Gemini-generated",
   "tags": [
     "family",
     "school"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

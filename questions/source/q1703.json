@@ -1,6 +1,6 @@
 {
   "id": 1703,
-  "audioText": "Invariablement, les occasions manquent et vous emmènerai ces enfants honnête dans votre appartement pour qu'ils raconterai leurs histoires curieuses.",
+  "audioText": "Invariablement, les occasions manquent et je vous emmènerai ces enfants honnêtes dans votre appartement pour qu'ils racontent leurs histoires curieuses.",
   "question": "Qu'est-ce que vous avez entendu?",
   "questionType": "listening",
   "options": [
@@ -10,9 +10,10 @@
     "Invariablement, les occasions manquent et vous emmènerai ces enfants honnête dans votre appartement pour qu'ils raconteraient leurs histoires curieuses."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Invariablement, les occasions manquent et vous emmènerai ces enfants honnête dans votre appartement pour qu'ils raconterai leurs histoires curieuses</em>' - Invariably, opportunities are lacking and you will take these honest children to your apartment so they will tell their curious stories. This tests precise listening of future and subjunctive forms.",
+  "explanation": "The exact phrase was '<em>Invariablement, les occasions manquent et je vous emmènerai ces enfants honnêtes dans votre appartement pour qu'ils racontent leurs histoires curieuses</em>' - Invariably, opportunities are lacking and I will take these honest children to your apartment so they tell their curious stories. This tests precise listening of future and subjunctive forms.",
   "difficulty": "B1",
-  "source": "Strategic targeting - invariablement + manquent + emmènerai + honnête + appartement + raconterai + curieuses synergy + storytelling",
+  "source": "Storytelling scenario",
   "tags": ["storytelling", "apartments", "opportunity"],
-  "timeCreated": 1736805860
+  "timeCreated": 1736805860,
+  "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "After the summer holidays."
   ],
   "correct": 0,
-  "explanation": "The text states 'Le nouveau manager prendra ses fonctions dès le mois prochain' - The new manager will take up his duties starting next month. 'Prendra' is the future form of 'prendre' (to take), and 'dès' means 'starting from' or 'as of'.",
+  "explanation": "The text states '<em>Le nouveau manager prendra ses fonctions dès le mois prochain pour diriger l'équipe commerciale</em>' - The new manager will take up his duties starting next month to lead the commercial team. 'Prendra' is the future form of 'prendre' (to take), and 'dès' means 'starting from' or 'as of'.",
   "difficulty": "B1",
   "source": "Management transitions and corporate hierarchy",
   "tags": [
@@ -19,5 +19,6 @@
     "transition",
     "leadership"
   ],
-  "timeCreated": 1735949820
+  "timeCreated": 1735949820,
+  "verified": "claude"
 }

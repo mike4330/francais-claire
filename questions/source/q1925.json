@@ -10,12 +10,13 @@
     "parti"
   ],
   "correct": 0,
-  "explanation": "The sentence indicates a future action, so the future tense 'partira' is required.",
+  "explanation": "The text states '<em>Il partira demain matin pour son voyage</em>' - He will leave tomorrow morning for his trip. The sentence indicates a future action, so the future tense 'partira' is required.",
   "difficulty": "B1",
   "source": "Gemini-generated",
   "tags": [
     "travel",
     "future-plans"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

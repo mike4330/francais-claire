@@ -1,6 +1,6 @@
 {
     "id": 1584,
-    "audioText": "L'écuyer portais fidèlement son cheval superbe vers le camp militaire pour l'entraînement matinal quotidien.",
+    "audioText": "L'écuyer portait fidèlement son cheval superbe vers le camp militaire pour l'entraînement matinal quotidien.",
     "question": "What did the squire faithfully lead toward the military camp for daily morning training?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Strategic documents for command briefings"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>L'écuyer portais fidèlement son cheval superbe vers le camp militaire pour l'entraînement matinal quotidien.</em>' - The squire faithfully led his superb horse toward the military camp for daily morning training. 'Cheval' means horse, 'portais' is a form of 'porter' (to carry/lead), and 'fidèlement' means faithfully.",
+    "explanation": "The text states '<em>L'écuyer portait fidèlement son cheval superbe vers le camp militaire pour l'entraînement matinal quotidien.</em>' - The squire faithfully led his superb horse toward the military camp for daily morning training. 'Cheval' means horse, 'portait' is the imperfect form of 'porter' (to carry/lead), and 'fidèlement' means faithfully.",
     "difficulty": "B2",
     "source": "Strategic noun coverage development - military equestrian training",
     "tags": ["military", "animals", "training"],
-    "timeCreated": 1720831240
+    "timeCreated": 1720831240,
+    "verified": "claude"
 }

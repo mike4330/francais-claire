@@ -10,7 +10,7 @@
     "You need to change your working methods"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Il faut que tu aies plus de confiance en toi' - You need to have more confidence in yourself. 'Aies' is the subjunctive form of 'avoir' used after 'il faut que'.",
+  "explanation": "The text states '<em>Il faut que tu aies plus de confiance en toi pour réussir dans cette nouvelle entreprise</em>' - You need to have more confidence in yourself to succeed in this new company. 'Aies' is the subjunctive form of 'avoir' used after 'il faut que'.",
   "difficulty": "B2",
   "source": "Career Advice",
   "tags": [
@@ -19,5 +19,6 @@
     "success",
     "advice"
   ],
-  "timeCreated": 1719964600
+  "timeCreated": 1719964600,
+  "verified": "claude"
 }

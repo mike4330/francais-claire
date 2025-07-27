@@ -1,0 +1,18 @@
+{
+  "id": 2709,
+  "audioText": "Il s'est approché discrètement de la fenêtre pour observer ce qui se passait dans la rue.",
+  "question": "How did he move toward the window?",
+  "questionType": "comprehension",
+  "options": [
+    "Quickly and noisily",
+    "Carefully and quietly",
+    "Hesitantly and slowly",
+    "Confidently and openly"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il s'est approché discrètement de la fenêtre pour observer ce qui se passait dans la rue</em>' - He approached the window discreetly to observe what was happening in the street. The past participle 'approché' (approached) combined with 'discrètement' (discreetly) indicates careful, quiet movement.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["movement", "observation", "discretion"],
+  "timeCreated": 1721988480
+}

@@ -10,9 +10,10 @@
     "vie"
   ],
   "correct": 0,
-  "explanation": "The correct form is 'voie' (path/route/way). This communication route allows the two cities to be connected quickly. Note the distinction from 'voix' (voice).",
+  "explanation": "The text states '<em>Cette voie de communication permet de relier les deux villes rapidement</em>' - This communication route allows the two cities to be connected quickly. The correct form is 'voie' (path/route/way), not 'voix' (voice).",
   "difficulty": "B2",
   "source": "claude",
   "tags": ["transportation", "communication", "infrastructure"],
-  "timeCreated": "2025-01-21T16:29:00Z"
+  "timeCreated": 1737478140,
+  "verified": "claude"
 }

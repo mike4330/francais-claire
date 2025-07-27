@@ -1,0 +1,18 @@
+{
+  "id": 2705,
+  "audioText": "Je remercie sincèrement mon professeur pour son aide précieuse durant cette période difficile.",
+  "question": "What is the speaker expressing?",
+  "questionType": "comprehension",
+  "options": [
+    "Apologizing for being late to class",
+    "Thanking their teacher for valuable help",
+    "Complaining about difficult coursework",
+    "Requesting extra tutoring sessions"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Je remercie sincèrement mon professeur pour son aide précieuse durant cette période difficile</em>' - I sincerely thank my teacher for their valuable help during this difficult period. The verb 'remercie' (thank) indicates gratitude, not an apology or complaint.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["education", "gratitude", "formal-communication"],
+  "timeCreated": 1721988480
+}

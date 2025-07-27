@@ -10,7 +10,7 @@
     "reviendra"
   ],
   "correct": 0,
-  "explanation": "The text contains 'Je reviendrai vous voir dès que j'aurai résolu ce problème urgent' - I will come back to see you as soon as I have resolved this urgent problem. 'Reviendrai' is the first person singular future tense of 'revenir' (to return).",
+  "explanation": "The text states '<em>Je reviendrai vous voir dès que j'aurai résolu ce problème urgent.</em>' - I will come back to see you as soon as I have resolved this urgent problem. 'Reviendrai' is the first person singular future tense of 'revenir' (to return).",
   "difficulty": "B1",
   "source": "Problem-solving promise",
   "tags": [
@@ -20,5 +20,6 @@
     "urgency",
     "return"
   ],
-  "timeCreated": 1736068100
+  "timeCreated": 1736068100,
+  "verified": "claude"
 }

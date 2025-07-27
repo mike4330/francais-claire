@@ -10,7 +10,7 @@
     "Le médecin a sauvé la santé du patient qui était retourné à l'hôpital."
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Le médecin a sauvé la vie du patient qui était retourné à l'hôpital</em>' - The doctor saved the patient's life who had returned to the hospital. This combines 'sauvé' (saved) and 'retourné' (returned) in a medical context.",
+  "explanation": "The exact phrase was '<em>Le médecin a sauvé la vie du patient qui était retourné à l'hôpital</em>' - The doctor saved the patient's life who had returned to the hospital. This tests listening precision for medical vocabulary and past participles.",
   "difficulty": "B2",
   "source": "Medical emergency conversation",
   "tags": [
@@ -18,5 +18,6 @@
     "medical",
     "emergency"
   ],
-  "timeCreated": 1736783160
+  "timeCreated": 1736783160,
+  "verified": "claude"
 }

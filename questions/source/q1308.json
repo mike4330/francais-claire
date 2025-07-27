@@ -10,7 +10,7 @@
     "That she can speak French fluently"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Je doute qu'elle veuille accepter cette proposition' - I doubt that she wants to accept this offer. 'Veuille' is the 3rd person singular subjunctive of 'vouloir' (to want), used after expressions of doubt like 'je doute que'.",
+  "explanation": "The text states '<em>Je doute qu'elle veuille accepter cette proposition de travail dans une autre ville</em>' - I doubt that she wants to accept this job offer in another city. 'Veuille' is the 3rd person singular subjunctive of 'vouloir' (to want), used after expressions of doubt like 'je doute que'.",
   "difficulty": "B2",
   "source": "Career Discussion",
   "tags": [
@@ -18,5 +18,6 @@
     "career",
     "doubt"
   ],
-  "timeCreated": 1720021620
+  "timeCreated": 1720021620,
+  "verified": "claude"
 }

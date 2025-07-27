@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Le maître de conférences explique les théories complexes avec beaucoup de patience aujourd'hui</em>' - The lecturer is explaining complex theories with great patience today. 'Maître de conférences' is a formal academic title, and 'explique' means 'explains'.",
     "difficulty": "B1",
-    "source": "Strategic noun coverage + academic context",
+    "source": "Academic teaching scenario",
     "tags": ["education", "academic", "workplace"],
-    "timeCreated": 1752093000
+    "timeCreated": 1752093000,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "Set the correct water temperature."
   ],
   "correct": 0,
-  "explanation": "The text states 'Ma grand-mère prenait toujours le temps de trier le linge blanc du linge de couleur avant chaque lessive' - My grandmother always took the time to sort white laundry from colored laundry before each wash. 'Prenait' is the imperfect form of 'prendre' (to take), third person singular, describing a habitual past action.",
+  "explanation": "The text states '<em>Ma grand-mère prenait toujours le temps de trier le linge blanc du linge de couleur avant chaque lessive</em>' - My grandmother always took the time to sort white laundry from colored laundry before each wash. 'Prenait' is the imperfect form of 'prendre' (to take), third person singular, describing a habitual past action.",
   "difficulty": "B1",
   "source": "Laundry sorting and household routines",
   "tags": [
@@ -19,5 +19,6 @@
     "household-routines",
     "domestic-tasks"
   ],
-  "timeCreated": 1735952880
+  "timeCreated": 1735952880,
+  "verified": "claude"
 }

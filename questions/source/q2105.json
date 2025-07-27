@@ -10,7 +10,7 @@
     "voulons"
   ],
   "correct": 0,
-  "explanation": "The correct answer is 'voulais' - the first person singular imperfect form of 'vouloir' (to want). The imperfect is used because this describes a repeated desire or habit in the past ('always wanted'). The sentence recalls childhood memories of wanting to help grandmother make homemade jams.",
+  "explanation": "The text states '<em>Quand j'étais enfant, je voulais toujours aider ma grand-mère à préparer les confitures maison avec les fruits de son jardin potager, apprenant ainsi les techniques traditionnelles de conservation culinaire transmises de génération en génération</em>' - When I was a child, I always wanted to help my grandmother prepare homemade jams with the fruits from her vegetable garden, learning traditional culinary preservation techniques passed down from generation to generation. The correct answer is 'voulais' - the first person singular imperfect form of 'vouloir' (to want).",
   "difficulty": "B2",
   "source": "Childhood memories of traditional French home cooking",
   "tags": [
@@ -24,5 +24,7 @@
     "fruits",
     "garden",
     "heritage"
-  ]
+  ],
+  "timeCreated": 1720026560,
+  "verified": "claude"
 }

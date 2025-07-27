@@ -12,7 +12,8 @@
     "correct": 0,
     "explanation": "The text states '<em>Elle a une tache sur la peau du nez qui inquiète son âme sensible</em>' - She has a spot on the skin of her nose that worries her sensitive soul. This targets the nouns 'peau', 'nez', and 'âme' in a health concern context.",
     "difficulty": "B2",
-    "source": "Strategic noun targeting: peau, nez, âme",
+    "source": "Health concern description",
     "tags": ["health", "appearance", "worry"],
-    "timeCreated": 1720618340
+    "timeCreated": 1720618340,
+    "verified": "claude"
 }

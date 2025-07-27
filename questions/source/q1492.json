@@ -10,7 +10,7 @@
     "For her to come help with shopping this weekend"
   ],
   "correct": 0,
-  "explanation": "The French sentence uses 'vienne' - the subjunctive form of 'venir' (to come) for il/elle. 'J'aimerais qu'elle vienne' means 'I would like her to come'. The subjunctive is required after expressions of desire like 'j'aimerais que'.",
+  "explanation": "The text states '<em>J'aimerais qu'elle vienne m'aider à jardiner ce week-end.</em>' - I would like her to come help me garden this weekend. The sentence uses 'vienne' - the subjunctive form of 'venir' (to come). The subjunctive is required after expressions of desire like 'j'aimerais que'.",
   "difficulty": "B2",
   "source": "Weekend gardening plans",
   "tags": [
@@ -18,5 +18,6 @@
     "help",
     "weekend"
   ],
-  "timeCreated": 1720108800
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

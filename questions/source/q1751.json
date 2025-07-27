@@ -1,6 +1,6 @@
 {
   "id": 1751,
-  "audioText": "Il vaudrait mieux partir illico pour éviter cette chaleur malheureux descendu dessous.",
+  "audioText": "Il vaudrait mieux partir illico pour éviter cette chaleur malheureuse descendue dessous.",
   "question": "What would be better to avoid the unfortunate heat that has descended below?",
   "questionType": "comprehension",
   "options": [
@@ -10,7 +10,7 @@
     "Close the windows"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Il vaudrait mieux partir illico pour éviter cette chaleur malheureux descendu dessous</em>' - It would be better to leave right away to avoid this unfortunate heat that has descended below. This combines 'vaudrait' (would be worth), 'illico' (right away), 'chaleur' (heat), 'malheureux' (unfortunate), 'descendu' (descended), and 'dessous' (below).",
+  "explanation": "The text states '<em>Il vaudrait mieux partir illico pour éviter cette chaleur malheureuse descendue dessous</em>' - It would be better to leave right away to avoid this unfortunate heat that has descended below. This combines 'vaudrait' (would be worth), 'illico' (right away), 'chaleur' (heat, feminine), 'malheureuse' (unfortunate, feminine), 'descendue' (descended, feminine agreement), and 'dessous' (below).",
   "difficulty": "B2",
   "source": "Weather emergency conversation",
   "tags": [
@@ -19,5 +19,6 @@
     "travel",
     "advice"
   ],
-  "timeCreated": 1736784660
+  "timeCreated": 1736784660,
+  "verified": "claude"
 }

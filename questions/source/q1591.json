@@ -10,9 +10,10 @@
         "Creative installations with modern aesthetic appeal"
     ],
     "correct": 0,
-    "explanation": "The text states 'Les arrangements floraux envoyés par l'artiste transformaient chaque fleur banale en chef-d'œuvre artistique impressionnant.' - The floral arrangements sent by the artist transformed each ordinary flower into an impressive artistic masterpiece. 'Fleur' means flower, 'envoyés' means sent, and 'chef-d'œuvre' means masterpiece.",
+    "explanation": "The text states '<em>Les arrangements floraux envoyés par l'artiste transformaient chaque fleur banale en chef-d'œuvre artistique impressionnant</em>' - The floral arrangements sent by the artist transformed each ordinary flower into an impressive artistic masterpiece. 'Fleur' means flower, 'envoyés' means sent, and 'chef-d'œuvre' means masterpiece.",
     "difficulty": "B2",
-    "source": "Strategic noun coverage development - artistic floral design",
+    "source": "Artistic floral design scenario",
     "tags": ["arts", "creativity", "design"],
-    "timeCreated": 1720832160
+    "timeCreated": 1720832160,
+    "verified": "claude"
 }

@@ -10,7 +10,7 @@
     "Half an hour"
   ],
   "correct": 1,
-  "explanation": "The French sentence 'Le tour de la ville prend deux heures avec ce guide' means 'The city tour takes two hours with this guide.' The key phrase is 'prend deux heures' (takes two hours).",
+  "explanation": "The text states '<em>Le tour de la ville prend deux heures avec ce guide</em>' - The city tour takes two hours with this guide. 'Prend' means takes, and 'deux heures' means two hours.",
   "difficulty": "B1",
   "source": "Tourism context - guided city tour information",
   "tags": [
@@ -19,5 +19,6 @@
     "time",
     "guided-tour"
   ],
-  "timeCreated": 1735902000
+  "timeCreated": 1735902000,
+  "verified": "claude"
 }

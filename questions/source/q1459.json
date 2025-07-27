@@ -10,7 +10,7 @@
     "Understanding the complexity of the technical requirements"
   ],
   "correct": 0,
-  "explanation": "The speaker states 'Il semble impossible de résoudre ce problème technique sans assistance externe spécialisée' - it seems impossible to solve this technical problem without specialized external assistance. The adjective 'impossible' means impossible/unfeasible.",
+  "explanation": "The text states '<em>Il semble impossible de résoudre ce problème technique sans assistance externe spécialisée</em>' - It seems impossible to solve this technical problem without specialized external assistance. The adjective 'impossible' means impossible/unfeasible.",
   "difficulty": "B2",
   "source": "Technical Problem Solving",
   "tags": [
@@ -19,5 +19,6 @@
     "technical-support",
     "workplace"
   ],
-  "timeCreated": 1720026560
+  "timeCreated": 1720026560,
+  "verified": "claude"
 }

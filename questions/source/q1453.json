@@ -1,6 +1,6 @@
 {
     "id": 1453,
-    "audioText": "Au contraire de tes habitudes, tu sentes maintenant les épices exotiques pendant que nous dînons ensemble.",
+    "audioText": "Au contraire de tes habitudes, tu sens maintenant les épices exotiques pendant que nous dînons ensemble.",
     "question": "What does the person now sense contrary to their habits?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "New flavors in the traditional family recipes"
     ],
     "correct": 0,
-    "explanation": "The correct answer is 'Exotic spices while we dine together'. The text states '<em>Au contraire de tes habitudes, tu sentes maintenant les épices exotiques pendant que nous dînons ensemble</em>' - Contrary to your habits, you now sense exotic spices while we dine together. 'Sentes' is the second-person singular present subjunctive of 'sentir' (to sense/smell), and 'contraire' means 'contrary'.",
+    "explanation": "The text states '<em>Au contraire de tes habitudes, tu sens maintenant les épices exotiques pendant que nous dînons ensemble</em>' - Contrary to your habits, you now sense exotic spices while we dine together. 'Sens' is the second-person singular present indicative of 'sentir' (to sense/smell), and 'contraire' means contrary.",
     "difficulty": "B2",
     "source": "Strategic vocabulary development - dining experience context",
     "tags": ["dining", "food", "senses"],
-    "timeCreated": 1720821840
+    "timeCreated": 1720821840,
+  "verified": "claude"
 }

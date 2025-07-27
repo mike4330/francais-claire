@@ -10,7 +10,7 @@
     "It is outdated and needs improvement"
   ],
   "correct": 0,
-  "explanation": "The speaker says 'Cette façon de résoudre le problème me semble très efficace et créative' - This way of solving the problem seems very effective and creative to me.",
+  "explanation": "The text states '<em>Cette façon de résoudre le problème me semble très efficace et créative</em>' - This way of solving the problem seems very effective and creative to me. 'Semble' means seems/appears, and 'efficace' means effective.",
   "difficulty": "B2",
   "source": "Problem Solving",
   "tags": [
@@ -19,5 +19,6 @@
     "efficiency",
     "creativity"
   ],
-  "timeCreated": 1719963000
+  "timeCreated": 1719963000,
+  "verified": "claude"
 }

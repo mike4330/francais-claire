@@ -15,5 +15,6 @@
     "source": "French Traffic News",
     "tags": ["news", "accident", "road-worker", "assistance", "eure", "traffic"],
     "timeCreated": 1720881353,
-    "parentQuestion": 1094
+    "parentQuestion": 1094,
+    "verified": "claude"
 }

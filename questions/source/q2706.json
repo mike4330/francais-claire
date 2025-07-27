@@ -1,0 +1,18 @@
+{
+  "id": 2706,
+  "audioText": "Elle est née dans une petite ville de Provence et y a vécu toute son enfance.",
+  "question": "What do we learn about this person?",
+  "questionType": "comprehension",
+  "options": [
+    "She moved to Provence as an adult",
+    "She was born and raised in Provence",
+    "She visits Provence during holidays",
+    "She dreams of living in Provence"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Elle est née dans une petite ville de Provence et y a vécu toute son enfance</em>' - She was born in a small town in Provence and lived there her whole childhood. The past participle 'née' (born) shows her place of birth, and the text confirms she spent her childhood there.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["childhood", "geography", "personal-history"],
+  "timeCreated": 1721988480
+}

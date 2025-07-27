@@ -10,7 +10,7 @@
     "External support and good luck."
   ],
   "correct": 0,
-  "explanation": "The speaker states 'Pour obtenir le meilleur résultat possible, il faut combiner talent naturel et travail acharné' - To achieve the best possible result, one must combine natural talent and hard work. 'Meilleur' means 'best' and is the superlative form of 'bon' (good).",
+  "explanation": "The text states '<em>Pour obtenir le meilleur résultat possible, il faut combiner talent naturel et travail acharné.</em>' - To achieve the best possible result, one must combine natural talent and hard work. 'Meilleur' means 'best' and is the superlative form of 'bon' (good).",
   "difficulty": "B2",
   "source": "Success principles and personal development",
   "tags": [
@@ -19,5 +19,6 @@
     "hard-work",
     "achievement"
   ],
-  "timeCreated": 1735949040
+  "timeCreated": 1735949040,
+  "verified": "claude"
 }

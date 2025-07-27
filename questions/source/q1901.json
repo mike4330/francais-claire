@@ -1,6 +1,6 @@
 {
     "id": 1901,
-    "audioText": "Cette femme brave porte distinctement le vêtement traditionnel apportée par sa grand-mère immigrante pour honorer ses origines culturelles.",
+    "audioText": "Cette femme brave porte distinctement le vêtement traditionnel apporté par sa grand-mère immigrante pour honorer ses origines culturelles.",
     "question": "Why does the brave woman distinctly wear the traditional clothing brought by her immigrant grandmother?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "To attract attention at social events"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Cette femme brave porte distinctement le vêtement traditionnel apportée par sa grand-mère immigrante pour honorer ses origines culturelles</em>' - This brave woman distinctly wears the traditional clothing brought by her immigrant grandmother to honor her cultural origins. 'Vêtement' means clothing, 'brave' means brave, 'distinctement' means distinctly, and 'apportée' is the past participle of 'apporter'.",
+    "explanation": "The text states '<em>Cette femme brave porte distinctement le vêtement traditionnel apporté par sa grand-mère immigrante pour honorer ses origines culturelles</em>' - This brave woman distinctly wears the traditional clothing brought by her immigrant grandmother to honor her cultural origins. 'Vêtement' means clothing, 'brave' means brave, 'distinctement' means distinctly, and 'apporté' is the past participle of 'apporter'.",
     "difficulty": "B2",
     "source": "Claude",
     "tags": ["culture", "tradition", "immigration"],
-    "timeCreated": "2025-07-14T12:00:00Z"
+    "timeCreated": "2025-07-14T12:00:00Z",
+    "verified": "claude"
 }

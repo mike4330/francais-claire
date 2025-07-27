@@ -11,7 +11,7 @@
     "J'aurais aimé avoir davantage de temps pour finir ce projet important."
   ],
   "correct": 0,
-  "explanation": "La phrase exacte utilisait 'aimé' (pas 'voulu'), 'finir' (pas 'terminer'), et 'plus de' (pas 'davantage de'). Ces nuances du conditionnel et des synonymes testent l'écoute précise en contexte professionnel.",
+  "explanation": "The text states '<em>J'aurais aimé avoir plus de temps pour finir ce projet important.</em>' - I would have liked to have more time to finish this important project. The exact phrase used 'aimé' (not 'voulu'), 'finir' (not 'terminer'), and 'plus de' (not 'davantage de').",
   "difficulty": "B2",
   "source": "Work - Project Management - Listening",
   "tags": [
@@ -21,5 +21,6 @@
     "time-management",
     "professional"
   ],
-  "timeCreated": 1720024440
+  "timeCreated": 1720024440,
+  "verified": "claude"
 }

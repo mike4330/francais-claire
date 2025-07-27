@@ -10,12 +10,13 @@
     "Writer"
   ],
   "correct": 2,
-  "explanation": "The sentence explicitly states 'actrice', which means actress.",
+  "explanation": "The text states '<em>C'est une actrice très connue dans le monde entier</em>' - She is a very well-known actress worldwide. The sentence explicitly states 'actrice', which means actress.",
   "difficulty": "B1",
   "source": "Gemini-generated",
   "tags": [
     "celebrity",
     "entertainment"
   ],
-  "timeCreated": 1720134000
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }

@@ -1,15 +1,7 @@
 {
   "id": 2086,
-  "type": "fill-in-the-blank",
-  "question": "Nous _______ vous voir bientôt.",
   "audioText": "Nous aimerions vous voir bientôt.",
-  "answer": "aimerions",
-  "hint": "Conditional tense of 'aimer'",
-  "level": "b",
-  "tags": [
-    "social_interaction",
-    "desire"
-  ],
+  "question": "Nous _______ vous voir bientôt.",
   "questionType": "fill-in-the-blank",
   "options": [
     "aimerions",
@@ -18,7 +10,10 @@
     "aimerons"
   ],
   "correct": 0,
-  "explanation": "'Aimerions' is the conditional tense of 'aimer' for 'nous', expressing a polite wish.",
+  "explanation": "The text states '<em>Nous aimerions vous voir bientôt</em>' - We would like to see you soon. 'Aimerions' is the conditional tense of 'aimer' for 'nous', expressing a polite wish.",
   "difficulty": "B1",
-  "source": "Gemini CLI"
+  "source": "Gemini CLI",
+  "tags": ["social-interaction", "politeness"],
+  "timeCreated": 1720108800,
+  "verified": "claude"
 }

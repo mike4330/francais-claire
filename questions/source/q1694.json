@@ -10,10 +10,11 @@
         "The vineyard records to trace wine origins"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Dans cette affaire complexe, l'écrivain examine attentivement le fond du verre de vin pour découvrir le genre d'histoire que raconte chaque mari désolé.</em>' - In this complex affair, the writer carefully examines the bottom of the wine glass to discover the kind of story each sorry husband tells. The nouns 'vin' means wine, 'fond' means bottom, 'genre' means kind/type, and 'mari' means husband. The distractors test misinterpretation of what is examined (restaurant menu, kitchen equipment, vineyard records).",
+    "explanation": "The exact phrase was '<em>Dans cette affaire complexe, l'écrivain examine attentivement le fond du verre de vin pour découvrir le genre d'histoire que raconte chaque mari désolé</em>' - In this complex affair, the writer carefully examines the bottom of the wine glass to discover the kind of story each sorry husband tells. The distractors test misinterpretation of what is examined.",
     "difficulty": "B2",
     "source": "Gemini CLI - Listening practice",
     "tags": ["food", "writers", "investigation"],
     "timeCreated": 1720800000,
+    "verified": "claude",
     "parentQuestion": 1022
 }

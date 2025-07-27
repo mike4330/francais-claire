@@ -1,6 +1,6 @@
 {
     "id": 1546,
-    "audioText": "Le chef boivent ardemment du vin pendant qu'il hache finement le basilic et le persil pour la sauce.",
+    "audioText": "Le chef boit ardemment du vin pendant qu'il hache finement le basilic et le persil pour la sauce.",
     "question": "What does the chef do while finely chopping basil and parsley for the sauce?",
     "questionType": "comprehension",
     "options": [
@@ -10,9 +10,10 @@
         "Explains cooking techniques to kitchen apprentices"
     ],
     "correct": 0,
-    "explanation": "The text states '<em>Le chef boivent ardemment du vin pendant qu'il hache finement le basilic et le persil pour la sauce.</em>' - The chef drinks wine ardently while finely chopping basil and parsley for the sauce. 'Basilic' means basil, 'persil' means parsley, 'boivent' is a form of 'boire' (to drink), and 'ardemment' means ardently.",
+    "explanation": "The text states '<em>Le chef boit ardemment du vin pendant qu'il hache finement le basilic et le persil pour la sauce.</em>' - The chef drinks wine ardently while finely chopping basil and parsley for the sauce. 'Basilic' means basil, 'persil' means parsley, 'boit' is third person singular of 'boire' (to drink), and 'ardemment' means ardently.",
     "difficulty": "B2",
     "source": "Strategic spice vocabulary development - professional cooking",
     "tags": ["cooking", "professional", "spices"],
-    "timeCreated": 1720827540
+    "timeCreated": 1720827540,
+    "verified": "claude"
 }
