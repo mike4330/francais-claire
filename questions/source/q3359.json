@@ -1,0 +1,23 @@
+{
+  "id": 3359,
+  "audioText": "Cette nouvelle technologie permettra aux entreprises de réduire leurs coûts énergétiques tout en améliorant leur efficacité opérationnelle.",
+  "question": "What will this new technology allow companies to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Reduce energy costs while improving operational efficiency",
+    "Increase their market share through aggressive marketing",
+    "Replace all human workers with automated systems",
+    "Eliminate all environmental regulations completely"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette nouvelle technologie permettra aux entreprises de réduire leurs coûts énergétiques tout en améliorant leur efficacité opérationnelle</em>' - This new technology will allow companies to reduce their energy costs while improving their operational efficiency. 'Permettra' is the future form of 'permettre' (to allow).",
+  "difficulty": "C1",
+  "source": "Business technology",
+  "tags": [
+    "business",
+    "technology",
+    "efficiency"
+  ],
+  "timeCreated": 1736806340,
+  "verified": "claude"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 3202,
+  "audioText": "Le concept de la relativité, c'est-à-dire que le temps et l'espace sont relatifs à l'observateur, a révolutionné la physique.",
+  "question": "What does the phrase 'c'est-à-dire' introduce in this sentence?",
+  "questionType": "comprehension",
+  "options": [
+    "A contradiction to the previous statement.",
+    "An example of a complex theory.",
+    "A clarification or explanation of the preceding concept.",
+    "A conclusion drawn from the observation."
+  ],
+  "correct": 2,
+  "explanation": "The text states '<em>Le concept de la relativité, c'est-à-dire que le temps et l'espace sont relatifs à l'observateur, a révolutionné la physique.</em>' - The concept of relativity, that is to say that time and space are relative to the observer, has revolutionized physics. 'C'est-à-dire' means 'that is to say' or 'in other words' and introduces a clarification or explanation of the concept of relativity.",
+  "difficulty": "C1",
+  "source": "Gemini-generated",
+  "tags": [
+    "science",
+    "physics",
+    "explanation"
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
+}

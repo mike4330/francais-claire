@@ -1,0 +1,24 @@
+{
+  "id": 3268,
+  "audioText": "Notre ancien directeur reviendra dans l'entreprise après avoir terminé ses études de management international.",
+  "question": "When will the former director return to the company?",
+  "questionType": "comprehension",
+  "options": [
+    "After completing his international management studies",
+    "When the current director resigns",
+    "Before the end of this fiscal year",
+    "Once the new building is constructed"
+  ],
+  "correct": 0,
+  "explanation": "The text states 'Notre ancien directeur reviendra dans l'entreprise après avoir terminé ses études de management international' - Our former director will return to the company after completing his international management studies. 'Reviendra' is the third person singular future tense of 'revenir' (to return).",
+  "difficulty": "C1",
+  "source": "Corporate management transition",
+  "tags": [
+    "business",
+    "management",
+    "education",
+    "return",
+    "leadership"
+  ],
+  "timeCreated": 1736068000
+}

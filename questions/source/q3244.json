@@ -1,0 +1,22 @@
+{
+  "id": 3244,
+  "audioText": "Il faut qu'elle mette ses affaires en ordre avant le déménagement.",
+  "question": "What does she need to do before moving?",
+  "questionType": "comprehension",
+  "options": [
+    "Put her things in order.",
+    "Pack her things in boxes.",
+    "Sell her things to others.",
+    "Give her things to friends."
+  ],
+  "correct": 0,
+  "explanation": "The French sentence uses 'mette' - the subjunctive form of 'mettre' (to put/place) for il/elle. 'Il faut qu'elle mette' means 'she must put/it's necessary that she put'. The subjunctive is required after 'il faut que'.",
+  "difficulty": "C1",
+  "source": "Moving preparation discussion",
+  "tags": [
+    "moving",
+    "organization",
+    "preparation"
+  ],
+  "timeCreated": 1720108800
+}

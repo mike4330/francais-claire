@@ -1,0 +1,26 @@
+{
+  "id": 3217,
+  "audioText": "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
+    "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir avec les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"",
+    "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la mélancolie et attirent les bobos en quête d'authenticité\"",
+    "La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bourgeois en quête d'authenticité\""
+  ],
+  "correct": 0,
+  "explanation": "The speaker said '<em>La lente agonie des restos routiers : \"C'est un comble, ils ont un avenir sans les chauffeurs routiers. Ces restaurants fleurent bon la nostalgie et attirent les bobos en quête d'authenticité\"</em>' - The slow death of roadside restaurants: 'It's ironic, they have a future without truck drivers. These restaurants smell of nostalgia and attract bourgeois bohemians seeking authenticity.' Key distinctions: 'sans' (without) not 'avec' (with), 'nostalgie' not 'mélancolie', and 'bobos' not 'bourgeois'.",
+  "difficulty": "C1",
+  "source": "French Cultural Commentary",
+  "tags": [
+    "culture",
+    "society",
+    "irony",
+    "gentrification",
+    "nostalgia",
+    "bobos"
+  ],
+  "parentQuestion": 2644,
+  "timeCreated": 1736064000
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3238,
+  "audioText": "L'historiographie contemporaine révèle que cette histoire officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque, remettant ainsi en question les paradigmes établis par plusieurs générations d'érudits.",
+  "question": "L'historiographie contemporaine révèle que cette ______ officielle, longtemps érigée en vérité indiscutable, dissimulait en réalité les complexités géopolitiques et les enjeux économiques sous-jacents qui ont façonné les véritables motivations des acteurs de l'époque.",
+  "questionType": "FIB-reading",
+  "options": [
+    "histoire",
+    "théorie",
+    "doctrine",
+    "version"
+  ],
+  "correct": 0,
+  "explanation": "The word 'histoire' (history/narrative) is correct here. The text discusses how contemporary historiography reveals that the 'official history' (histoire officielle) concealed underlying complexities. While 'version' could seem plausible, 'histoire officielle' is the established term for official historical narratives that are later questioned by revisionist scholarship.",
+  "difficulty": "C2",
+  "source": "Academic Historiography",
+  "tags": [
+    "academia",
+    "historiography",
+    "research",
+    "scholarship",
+    "critical-analysis"
+  ],
+  "timeCreated": 1751488532
+}

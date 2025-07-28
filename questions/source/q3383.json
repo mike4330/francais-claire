@@ -1,0 +1,24 @@
+{
+  "id": 3383,
+  "audioText": "Cette terre ancestrale avait terriblement souffert des politiques agricoles inadéquates qui avaient machinalement détruit l'équilibre écologique millénaire de cette région.",
+  "question": "What had terribly damaged the ancestral land?",
+  "questionType": "comprehension",
+  "options": [
+    "Inadequate agricultural policies that mechanically destroyed ecological balance",
+    "Natural disasters and climate change effects",
+    "Urban development and construction projects",
+    "Tourist activities and recreational use"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette terre ancestrale avait terriblement souffert des politiques agricoles inadéquates qui avaient machinalement détruit l'équilibre écologique</em>' - This ancestral land had terribly suffered from inadequate agricultural policies that had mechanically destroyed the ecological balance. 'Terre' means land/earth, 'terriblement' means terribly, and 'machinalement' means mechanically/automatically.",
+  "difficulty": "C1",
+  "source": "Environmental damage from poor agricultural policy",
+  "tags": [
+    "environment",
+    "agriculture",
+    "policy",
+    "ecology"
+  ],
+  "timeCreated": 1751813400,
+  "verified": "claude"
+}

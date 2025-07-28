@@ -1,0 +1,22 @@
+{
+  "id": 3199,
+  "audioText": "Ce patient traité depuis sa naissance souffre d'une maladie génétique rare nécessitant des soins constants et une surveillance médicale quotidienne.",
+  "question": "What characterizes this patient's medical situation?",
+  "questionType": "comprehension",
+  "options": [
+    "Treated since birth for a rare genetic disease requiring constant care",
+    "Recently diagnosed with a common condition needing minimal treatment",
+    "Recovering from surgery with temporary medication requirements",
+    "Experiencing seasonal allergies managed with routine prescriptions"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce patient traité depuis sa naissance souffre d'une maladie génétique rare nécessitant des soins constants et une surveillance médicale quotidienne</em>' - This patient treated since birth suffers from a rare genetic disease requiring constant care and daily medical monitoring. The past participle 'traité' (treated) and noun 'naissance' (birth) describe lifelong medical management.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "health",
+    "genetics",
+    "medical-care"
+  ],
+  "timeCreated": 1722041760
+}

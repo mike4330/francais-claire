@@ -1,0 +1,24 @@
+{
+  "id": 3265,
+  "audioText": "La conférence a été entendue par des milliers de personnes dans le monde entier.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "La conférence a été entendue par des milliers de personnes dans le monde entier.",
+    "La conférence a été entendue par des milliers de personnes dans le monde entier.",
+    "La conférence a été écoutée par des milliers de personnes dans le monde entier.",
+    "La conférence a été comprise par des milliers de personnes dans le monde entier."
+  ],
+  "correct": 0,
+  "explanation": "The speaker said 'La conférence a été entendue par des milliers de personnes dans le monde entier.' - The conference was heard by thousands of people worldwide. 'Entendue' is the feminine past participle of 'entendre' (to hear), used in passive voice with agreement.",
+  "difficulty": "C1",
+  "source": "Global conference broadcast",
+  "tags": [
+    "conferences",
+    "global-communication",
+    "media",
+    "broadcasting",
+    "audience"
+  ],
+  "timeCreated": 1736067100
+}

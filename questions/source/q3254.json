@@ -1,0 +1,22 @@
+{
+  "id": 3254,
+  "audioText": "Autrefois, cette région était couverte de forêts denses avant l'expansion urbaine massive.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Autrefois, cette région était couverte de forêts denses avant l'expansion urbaine massive.",
+    "Aujourd'hui, cette région était couverte de forêts denses avant l'expansion urbaine massive.",
+    "Autrefois, cette région était couverte de forêts claires avant l'expansion urbaine massive.",
+    "Autrefois, cette région était couverte de forêts denses après l'expansion urbaine massive."
+  ],
+  "correct": 0,
+  "explanation": "The speaker used 'autrefois' (formerly/in the past) to describe how this region was covered with dense forests before massive urban expansion. The other options change key elements: 'aujourd'hui' (today), 'claires' (light/sparse), or 'après' (after).",
+  "difficulty": "C1",
+  "source": "Historical geography discussion",
+  "tags": [
+    "history",
+    "environment",
+    "urban-development"
+  ],
+  "timeCreated": 1720076580
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3338,
+  "audioText": "Dans ce laboratoire proche de l'université, les chercheurs analysent minutieusement des échantillons de tissu mince prélevés sur des spécimens biologiques exceptionnels.",
+  "question": "What are researchers analyzing in the laboratory?",
+  "questionType": "comprehension",
+  "options": [
+    "Thin tissue samples from exceptional biological specimens",
+    "Thick muscle samples from laboratory animals",
+    "Blood samples from volunteer patients",
+    "DNA samples from archaeological finds"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Dans ce laboratoire proche de l'université, les chercheurs analysent minutieusement des échantillons de tissu mince prélevés sur des spécimens biologiques exceptionnels</em>' - In this laboratory close to the university, researchers meticulously analyze thin tissue samples taken from exceptional biological specimens. The adjectives 'proche' (close/nearby) and 'mince' (thin) describe location and sample characteristics.",
+  "difficulty": "C1",
+  "source": "Strategic adjective targeting: proche, mince",
+  "tags": [
+    "science",
+    "research",
+    "biology"
+  ],
+  "timeCreated": 1720964460
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3234,
+  "audioText": "L'accompagne médical depuis sa naissance permet de suivre l'évolution neurologique complexe de ce patient atteint d'une pathologie génétique rare nécessitant des interventions spécialisées régulières.",
+  "question": "What does the medical accompaniment since birth allow for this patient?",
+  "questionType": "comprehension",
+  "options": [
+    "Monitoring complex neurological evolution of a rare genetic condition",
+    "Providing basic routine checkups for common childhood diseases",
+    "Offering standard vaccination schedules for healthy development",
+    "Managing temporary symptoms from minor injuries"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'accompagne médical depuis sa naissance permet de suivre l'évolution neurologique complexe de ce patient atteint d'une pathologie génétique rare nécessitant des interventions spécialisées régulières</em>' - The medical accompaniment since birth allows monitoring the complex neurological evolution of this patient with a rare genetic pathology requiring regular specialized interventions. This targets noun 'naissance' (birth) and relates to missing verb 'accompagne'.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "medical-care",
+    "genetics",
+    "monitoring"
+  ],
+  "timeCreated": 1722041760
+}

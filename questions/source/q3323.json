@@ -1,0 +1,23 @@
+{
+  "id": 3323,
+  "audioText": "Cette lettre diplomatique transcende les frontières conventionnelles et touche l'âme collective d'une nation entière, établissant les fondements durables d'une paix authentique et génératrice de prospérité mutuelle.",
+  "question": "What does this diplomatic letter establish?",
+  "questionType": "comprehension",
+  "options": [
+    "The lasting foundations of authentic peace and mutual prosperity",
+    "New protocols for international trade negotiations",
+    "Advanced frameworks for cultural exchange programs",
+    "Comprehensive strategies for environmental cooperation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette lettre diplomatique transcende les frontières conventionnelles et touche l'âme collective d'une nation entière, établissant les fondements durables d'une paix authentique et génératrice de prospérité mutuelle</em>' - This diplomatic letter transcends conventional borders and touches the collective soul of an entire nation, establishing the lasting foundations of authentic peace that generates mutual prosperity. This targets 'lettre', 'âme', and 'paix' in a high-level diplomatic context.",
+  "difficulty": "C1",
+  "source": "Strategic noun targeting: lettre, âme, paix",
+  "tags": [
+    "diplomacy",
+    "international-relations",
+    "peace"
+  ],
+  "timeCreated": 1720618520,
+  "verified": "claude"
+}

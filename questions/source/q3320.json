@@ -1,0 +1,23 @@
+{
+  "id": 3320,
+  "audioText": "Cette journée mémorable a vu ce gars démontrer que l'esprit humain peut transcender les contraintes physiques les plus implacables grâce à une détermination inébranlable.",
+  "question": "What did this memorable day demonstrate?",
+  "questionType": "comprehension",
+  "options": [
+    "That the human spirit can transcend the most relentless physical constraints through unwavering determination",
+    "That technological advancement can solve previously insurmountable challenges",
+    "That collaborative effort produces superior results to individual achievement",
+    "That systematic preparation guarantees success in any endeavor"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette journée mémorable a vu ce gars démontrer que l'esprit humain peut transcender les contraintes physiques les plus implacables grâce à une détermination inébranlable</em>' - This memorable day saw this guy demonstrate that the human spirit can transcend the most relentless physical constraints through unwavering determination. This targets 'journée', 'gars', and 'esprit' in an inspirational human achievement context.",
+  "difficulty": "C1",
+  "source": "Strategic noun targeting: journée, gars, esprit",
+  "tags": [
+    "inspiration",
+    "human-spirit",
+    "determination"
+  ],
+  "timeCreated": 1720617920,
+  "verified": "claude"
+}
