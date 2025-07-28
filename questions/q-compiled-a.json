@@ -4153,6 +4153,28 @@
       "verified": "claude"
     },
     {
+      "id": 180,
+      "audioText": "Le médecin parle du sexe et de la santé avec ses patients.",
+      "question": "What does the doctor discuss with patients?",
+      "questionType": "comprehension",
+      "options": [
+        "Only their work problems",
+        "Sex and health topics",
+        "Their family relationships",
+        "Their financial concerns"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Le médecin parle du sexe et de la santé avec ses patients</em>' - The doctor talks about sex and health with his patients. The noun 'sexe' (sex) is discussed in a medical context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "health",
+        "medical-consultation",
+        "education"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
       "id": 181,
       "audioText": "Les trains partent toutes les heures.",
       "question": "Complete: Les trains ______ toutes les heures.",
@@ -8265,6 +8287,28 @@
       "verified": "claude"
     },
     {
+      "id": 361,
+      "audioText": "Le chien tire sur sa laisse quand il voit d'autres animaux dans le parc.",
+      "question": "What does the dog pull on?",
+      "questionType": "comprehension",
+      "options": [
+        "His food bowl",
+        "His leash",
+        "His toy",
+        "His bed"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Le chien tire sur sa laisse quand il voit d'autres animaux dans le parc</em>' - The dog pulls on his leash when he sees other animals in the park. The noun 'laisse' (leash) is what connects the dog to its owner.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "animals",
+        "pets",
+        "park"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
       "id": 362,
       "audioText": "Vous jouiez avec une joie évidente quand les citoyens ont voté pour la démocratie.",
       "question": "How were you playing when the citizens voted for democracy?",
@@ -8558,6 +8602,28 @@
       ],
       "timeCreated": 1720825080,
       "verified": "claude"
+    },
+    {
+      "id": 375,
+      "audioText": "À l'aube, les oiseaux chantent dans le jardin de ma grand-mère.",
+      "question": "When do the birds sing?",
+      "questionType": "comprehension",
+      "options": [
+        "At dawn",
+        "At noon",
+        "At sunset",
+        "At midnight"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>À l'aube, les oiseaux chantent dans le jardin de ma grand-mère</em>' - At dawn, the birds sing in my grandmother's garden. The noun 'aube' (dawn) refers to the early morning when the sun rises.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "nature",
+        "time",
+        "family"
+      ],
+      "timeCreated": 1722041760
     },
     {
       "id": 376,
@@ -16138,13 +16204,1246 @@
         "personality"
       ],
       "timeCreated": 1721988480
+    },
+    {
+      "id": 708,
+      "audioText": "Il baise sa femme doucement avant de partir.",
+      "question": "What does the man do before leaving?",
+      "questionType": "comprehension",
+      "options": [
+        "He kisses his wife gently",
+        "He waves goodbye to his wife",
+        "He hugs his wife tightly",
+        "He speaks quietly to his wife"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il baise sa femme doucement avant de partir</em>' - He kisses his wife gently before leaving. The verb 'baise' is an old-fashioned or literary form of 'embrasser' (to kiss).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "romance",
+        "affection",
+        "departure"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 709,
+      "audioText": "Je l'épouserai quand nous aurons assez d'argent pour une belle maison.",
+      "question": "When will the speaker get married?",
+      "questionType": "comprehension",
+      "options": [
+        "When they have enough money for a house",
+        "When they find the perfect location",
+        "When their family approves",
+        "When they finish their studies"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je l'épouserai quand nous aurons assez d'argent pour une belle maison</em>' - I will marry her/him when we have enough money for a beautiful house. The future tense 'épouserai' indicates a planned future action.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "marriage",
+        "financial-planning",
+        "future-plans"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 710,
+      "audioText": "Tu existes dans mon cœur depuis notre première rencontre au café.",
+      "question": "Tu ______ dans mon cœur depuis notre première rencontre au café.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "existes",
+      "acceptedAnswers": [
+        "existes",
+        "Existes"
+      ],
+      "explanation": "The correct word is 'existes' (exist) - the 'tu' form of 'exister'. The complete text is '<em>Tu existes dans mon cœur depuis notre première rencontre au café</em>' - You exist in my heart since our first meeting at the café.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "romance",
+        "emotions",
+        "memory"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 711,
+      "audioText": "Nous partons en vacance en juillet pour visiter la côte française.",
+      "question": "When are they going on vacation?",
+      "questionType": "comprehension",
+      "options": [
+        "In June to visit the mountains",
+        "In July to visit the French coast",
+        "In August to visit the countryside",
+        "In September to visit the cities"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Nous partons en vacance en juillet pour visiter la côte française</em>' - We are going on vacation in July to visit the French coast. The noun 'vacance' (vacation) indicates holiday time.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "travel",
+        "summer",
+        "coast"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 712,
+      "audioText": "Il baise la main de sa mère avant de partir au travail chaque matin.",
+      "question": "What does he do before leaving for work?",
+      "questionType": "comprehension",
+      "options": [
+        "He kisses his mother's hand",
+        "He shakes his mother's hand",
+        "He waves goodbye to his mother",
+        "He hugs his mother tightly"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il baise la main de sa mère avant de partir au travail chaque matin</em>' - He kisses his mother's hand before leaving for work each morning. The verb 'baise' is an old-fashioned form of 'embrasser' (to kiss), often used in formal or literary contexts.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "family",
+        "affection",
+        "tradition"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 713,
+      "audioText": "Mon pote a été baisé par cette arnaque en ligne hier soir.",
+      "question": "Mon ______ a été baisé par cette arnaque en ligne hier soir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "frère",
+        "pote",
+        "patron",
+        "voisin"
+      ],
+      "correct": 1,
+      "explanation": "The correct answer is 'pote' (buddy/friend) - informal term for friend. The complete text is '<em>Mon pote a été baisé par cette arnaque en ligne hier soir</em>' - My friend was screwed by this online scam last night. Here 'baisé' is used in slang meaning 'cheated/tricked'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "friendship",
+        "internet",
+        "scams"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 714,
+      "audioText": "Elle donne des baises à tous ses amis quand elle arrive à la fête.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Elle donne des bisous à tous ses amis quand elle arrive à la fête",
+        "Elle donne des baises à tous ses amis quand elle arrive à la fête",
+        "Elle donne des cadeaux à tous ses amis quand elle arrive à la fête",
+        "Elle donne des nouvelles à tous ses amis quand elle arrive à la fête"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Elle donne des baises à tous ses amis quand elle arrive à la fête</em>' - She gives kisses to all her friends when she arrives at the party. 'Baises' (kisses) is the plural form of the old-fashioned/literary term.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "friendship",
+        "greetings",
+        "social-events"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 715,
+      "audioText": "Tu abandonnes tes désirs personnels pour aider ta famille dans cette situation difficile.",
+      "question": "Tu ______ tes désirs personnels pour aider ta famille.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "abandonnes",
+      "acceptedAnswers": [
+        "abandonnes",
+        "Abandonnes"
+      ],
+      "explanation": "The correct word is 'abandonnes' (abandon/give up) - the 'tu' form of 'abandonner'. The complete text is '<em>Tu abandonnes tes désirs personnels pour aider ta famille dans cette situation difficile</em>' - You abandon your personal desires to help your family in this difficult situation. This targets under-represented topic 'desires'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "family",
+        "sacrifice",
+        "desires"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 716,
+      "audioText": "J'arrangerai ta chambre demain matin avant ton retour de l'école.",
+      "question": "When will the speaker arrange the room?",
+      "questionType": "comprehension",
+      "options": [
+        "Tomorrow morning before school return",
+        "This evening after dinner",
+        "Next weekend during cleanup",
+        "Right now before leaving"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>J'arrangerai ta chambre demain matin avant ton retour de l'école</em>' - I will arrange your room tomorrow morning before your return from school. The future tense 'arrangerai' indicates planned future action.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "family",
+        "household",
+        "future-plans"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 717,
+      "audioText": "Regarde le détail de cette belle peinture dans le musée d'art moderne.",
+      "question": "Regarde le ______ de cette belle peinture dans le musée d'art moderne.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "prix",
+        "détail",
+        "cadre",
+        "titre"
+      ],
+      "correct": 1,
+      "explanation": "The correct answer is 'détail' (detail) - a small feature or part of something. The complete text is '<em>Regarde le détail de cette belle peinture dans le musée d'art moderne</em>' - Look at the detail of this beautiful painting in the modern art museum. This also targets the noun 'peinture' (painting).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "art",
+        "museums",
+        "observation"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 718,
+      "audioText": "Ben, tu manges trop de viande rouge ces derniers temps selon ton médecin.",
+      "question": "Ben, tu manges trop de ______ rouge ces derniers temps selon ton médecin.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "viande",
+      "acceptedAnswers": [
+        "viande",
+        "Viande"
+      ],
+      "explanation": "The correct word is 'viande' (meat) - animal flesh used as food. The complete text is '<em>Ben, tu manges trop de viande rouge ces derniers temps selon ton médecin</em>' - Ben, you eat too much red meat lately according to your doctor. This also targets the interjection 'ben' (well).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "health",
+        "diet",
+        "medical-advice"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 719,
+      "audioText": "Le titre de ce livre traite des salutations traditionnelles dans différentes cultures.",
+      "question": "What does the book's title discuss?",
+      "questionType": "comprehension",
+      "options": [
+        "Traditional greetings in different cultures",
+        "Modern cooking methods worldwide",
+        "Historical wars between nations",
+        "Scientific discoveries in medicine"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le titre de ce livre traite des salutations traditionnelles dans différentes cultures</em>' - The title of this book deals with traditional greetings in different cultures. The noun 'titre' (title) refers to the name of a book. This targets missing verb 'traite' and under-represented topic 'greetings'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "books",
+        "culture",
+        "greetings"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 720,
+      "audioText": "L'attente du bus devient longue sous le ciel gris de cette fin d'année.",
+      "question": "L'______ du bus devient longue sous le ciel gris de cette fin d'année.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "attente",
+      "acceptedAnswers": [
+        "attente",
+        "Attente"
+      ],
+      "explanation": "The correct word is 'attente' (wait/waiting) - the action of staying in expectation. The complete text is '<em>L'attente du bus devient longue sous le ciel gris de cette fin d'année</em>' - The wait for the bus becomes long under the gray sky of this end of year. This targets under-represented topics 'sky' and 'year'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "transportation",
+        "weather",
+        "sky",
+        "year"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 721,
+      "audioText": "Je fiche tous mes papiers importants dans ce tiroir pour les retrouver.",
+      "question": "Je ______ tous mes papiers importants dans ce tiroir pour les retrouver.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "fiche",
+        "place",
+        "range",
+        "tourne"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'fiche' (put/stick) - to place something in a specific location. The complete text is '<em>Je fiche tous mes papiers importants dans ce tiroir pour les retrouver</em>' - I put all my important papers in this drawer to find them again. This targets under-represented topic 'paperwork'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "paperwork",
+        "organization",
+        "daily-life"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 722,
+      "audioText": "Tu risque de perdre cet objet si tu ne fais pas attention.",
+      "question": "Tu ______ de perdre cet objet si tu ne fais pas attention.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "risques",
+      "acceptedAnswers": [
+        "risques",
+        "Risques"
+      ],
+      "explanation": "The correct form is 'risques' (risk) - second person singular present of 'risquer'. The complete text is '<em>Tu risques de perdre cet objet si tu ne fais pas attention</em>' - You risk losing this object if you don't pay attention. This also targets the noun 'objet' (object).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "warning",
+        "objects",
+        "daily-life"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 723,
+      "audioText": "Mon camarade repose tranquillement après son long voyage.",
+      "question": "What is the friend doing after his long journey?",
+      "questionType": "comprehension",
+      "options": [
+        "Resting peacefully",
+        "Eating dinner",
+        "Making phone calls",
+        "Unpacking luggage"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Mon camarade repose tranquillement après son long voyage</em>' - My friend is resting peacefully after his long journey. The verb 'repose' (rests) and the noun 'camarade' (friend/comrade) describe peaceful recovery from travel.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "travel",
+        "rest",
+        "friendship"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 724,
+      "audioText": "Le temps a filé trop vite pendant les vacances avec ma reine.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le temps a filé trop vite pendant les vacances avec ma reine",
+        "Le temps a passé trop vite pendant les vacances avec ma reine",
+        "Le temps a couru trop vite pendant les vacances avec ma reine",
+        "Le temps a volé trop vite pendant les vacances avec ma reine"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le temps a filé trop vite pendant les vacances avec ma reine</em>' - Time flew too fast during vacation with my queen. The past participle 'filé' (flew/rushed) expresses rapid passage of time and 'reine' (queen) is an affectionate term.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "time",
+        "vacation",
+        "romance"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 725,
+      "audioText": "Tu fumes trop près de cet os fragile dans le cuir.",
+      "question": "Tu ______ trop près de cet os fragile dans le cuir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "fumes",
+        "mange",
+        "bois",
+        "cours"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'fumes' (smoke) - second person singular present of 'fumer'. The complete text is '<em>Tu fumes trop près de cet os fragile dans le cuir</em>' - You smoke too close to this fragile bone in the leather. This targets nouns 'os' (bone) and 'cuir' (leather).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "smoking",
+        "materials",
+        "warning"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 726,
+      "audioText": "Cette action blesse profondément mes sentiments, selon la presse locale.",
+      "question": "How does this action affect the speaker's feelings?",
+      "questionType": "comprehension",
+      "options": [
+        "It deeply hurts their feelings",
+        "It makes them very happy",
+        "It leaves them completely neutral",
+        "It fills them with pride"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette action blesse profondément mes sentiments, selon la presse locale</em>' - This action deeply hurts my feelings, according to the local press. The verb 'blesse' (hurts/wounds) and noun 'presse' (press) describe emotional pain reported in media.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "emotions",
+        "media-coverage",
+        "actions"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 727,
+      "audioText": "Vous filez vers le repos après cette longue aube de travail.",
+      "question": "Vous ______ vers le repos après cette longue aube de travail.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "filez",
+      "acceptedAnswers": [
+        "filez",
+        "Filez"
+      ],
+      "explanation": "The correct form is 'filez' (rush/hurry) - second person plural present of 'filer'. The complete text is '<em>Vous filez vers le repos après cette longue aube de travail</em>' - You rush toward rest after this long dawn of work. This targets nouns 'repos' (rest) and 'aube' (dawn).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "work",
+        "rest",
+        "time"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 728,
+      "audioText": "Ma reine ose porter cette belle robe rouge pour le dîner.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Ma reine ose porter cette belle robe rouge pour le dîner",
+        "Ma reine veut porter cette belle robe rouge pour le dîner",
+        "Ma reine peut porter cette belle robe rouge pour le dîner",
+        "Ma reine doit porter cette belle robe rouge pour le dîner"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma reine ose porter cette belle robe rouge pour le dîner</em>' - My queen dares to wear this beautiful red dress for dinner. The noun 'reine' (queen) is an affectionate term and the verb 'ose' (dares) expresses boldness.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "romance",
+        "clothing",
+        "dining"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 729,
+      "audioText": "Tu oses prendre ce repos mérité après ton travail difficile.",
+      "question": "What does the person dare to take after difficult work?",
+      "questionType": "comprehension",
+      "options": [
+        "A well-deserved rest",
+        "A long vacation",
+        "A new job",
+        "Some medicine"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu oses prendre ce repos mérité après ton travail difficile</em>' - You dare to take this well-deserved rest after your difficult work. The noun 'repos' (rest) describes earned relaxation and the verb 'oses' (dare) suggests taking time for oneself.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "work",
+        "rest",
+        "self-care"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 730,
+      "audioText": "Cette aube échappe aux regards des gens pressés dans la ville.",
+      "question": "Cette ______ échappe aux regards des gens pressés dans la ville.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "aube",
+        "nuit",
+        "pluie",
+        "neige"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'aube' (dawn) - the early morning time when the sun rises. The complete text is '<em>Cette aube échappe aux regards des gens pressés dans la ville</em>' - This dawn escapes the notice of hurried people in the city. This targets noun 'aube' (dawn) and missing verb 'échappe' (escapes).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "time",
+        "city-life",
+        "nature"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 731,
+      "audioText": "Le discute professeur présente le titre de son nouveau livre.",
+      "question": "Le ______ professeur présente le titre de son nouveau livre.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "distingué",
+      "acceptedAnswers": [
+        "distingué",
+        "Distingué"
+      ],
+      "explanation": "The correct word is 'distingué' (distinguished) - adjective describing someone respected. The complete text is '<em>Le distingué professeur présente le titre de son nouveau livre</em>' - The distinguished professor presents the title of his new book. This targets noun 'titre' (title) and relates to missing verb 'discute'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "education",
+        "books",
+        "presentation"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 732,
+      "audioText": "Ce cuir répétez la texture douce et naturelle des animaux.",
+      "question": "Ce ______ répète la texture douce et naturelle des animaux.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "cuir",
+      "acceptedAnswers": [
+        "cuir",
+        "Cuir"
+      ],
+      "explanation": "The correct word is 'cuir' (leather) - material made from animal hide. The complete text is '<em>Ce cuir répète la texture douce et naturelle des animaux</em>' - This leather repeats the soft and natural texture of animals. This targets noun 'cuir' (leather) and missing verb 'répétez' (repeat).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "materials",
+        "animals",
+        "texture"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 733,
+      "audioText": "Cette cave humide dégagez une odeur désagréable en été.",
+      "question": "Cette cave ______ dégagez une odeur désagréable en été.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "humide",
+        "sèche",
+        "chaude",
+        "froide"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'humide' (humid/damp) - describing moisture in the air or on surfaces. The complete text is '<em>Cette cave humide dégage une odeur désagréable en été</em>' - This humid cellar gives off an unpleasant smell in summer. This targets adjective 'humide' and missing verb 'dégagez'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "housing",
+        "smell",
+        "summer"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 734,
+      "audioText": "Ce repas gras prouve que tu manges trop de choses malsaines.",
+      "question": "What does this greasy meal prove about eating habits?",
+      "questionType": "comprehension",
+      "options": [
+        "Eating too many unhealthy things",
+        "Following a perfect diet",
+        "Choosing only organic foods",
+        "Maintaining excellent nutrition"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce repas gras prouve que tu manges trop de choses malsaines</em>' - This greasy meal proves that you eat too many unhealthy things. The adjective 'gras' (greasy/fatty) and missing verb 'prouve' (proves) describe poor dietary choices.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "diet",
+        "health",
+        "food"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 735,
+      "audioText": "Cette chouette soirée, tu osé danser avec tout le monde!",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette chouette soirée, tu as osé danser avec tout le monde",
+        "Cette belle soirée, tu as osé danser avec tout le monde",
+        "Cette super soirée, tu as osé danser avec tout le monde",
+        "Cette géniale soirée, tu as osé danser avec tout le monde"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette chouette soirée, tu as osé danser avec tout le monde</em>' - This cool evening, you dared to dance with everyone! The adjective 'chouette' (cool/nice) and missing verb 'osé' (dared) describe a fun social event.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "party",
+        "dancing",
+        "social"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 736,
+      "audioText": "Cette nourriture dégueulasse, tu osez la manger quand même?",
+      "question": "Cette nourriture ______, tu osez la manger quand même?",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "dégueulasse",
+        "délicieuse",
+        "excellente",
+        "parfaite"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'dégueulasse' (disgusting/gross) - very informal adjective describing something repulsive. The complete text is '<em>Cette nourriture dégueulasse, tu oses la manger quand même?</em>' - This disgusting food, you dare to eat it anyway? This targets adjective 'dégueulasse' and missing verb 'osez'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "food",
+        "disgust",
+        "taste"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 737,
+      "audioText": "Tu traites cette minuscule coupure avec beaucoup d'attention.",
+      "question": "Tu ______ cette minuscule coupure avec beaucoup d'attention.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "traites",
+      "acceptedAnswers": [
+        "traites",
+        "Traites"
+      ],
+      "explanation": "The correct form is 'traites' (treat) - second person singular present of 'traiter'. The complete text is '<em>Tu traites cette minuscule coupure avec beaucoup d'attention</em>' - You treat this tiny cut with a lot of attention. This targets verb 'traites' and adjective 'minuscule' (tiny).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "health",
+        "care",
+        "attention"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 738,
+      "audioText": "Elle obtient toujours des résultats magique dans ses études.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Elle obtient toujours des résultats magiques dans ses études",
+        "Elle obtient souvent des résultats magiques dans ses études",
+        "Elle obtient parfois des résultats magiques dans ses études",
+        "Elle obtient rarement des résultats magiques dans ses études"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle obtient toujours des résultats magiques dans ses études</em>' - She always gets magical results in her studies. The verb 'obtient' (gets/obtains) and adjective 'magique' (magical) describe academic success.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "education",
+        "success",
+        "studies"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 739,
+      "audioText": "Tu regretteras cette décision complet dans quelques années.",
+      "question": "Tu ______ cette décision complet dans quelques années.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "regretteras",
+      "acceptedAnswers": [
+        "regretteras",
+        "Regretteras"
+      ],
+      "explanation": "The correct form is 'regretteras' (will regret) - second person singular future of 'regretter'. The complete text is '<em>Tu regretteras cette décision complète dans quelques années</em>' - You will regret this complete decision in a few years. This targets verb 'regretteras' and adjective 'complet' (complete).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "regret",
+        "decisions",
+        "future"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 740,
+      "audioText": "J'obtiens toujours des informations amusant de mes amis.",
+      "question": "J'______ toujours des informations amusant de mes amis.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "obtiens",
+        "perds",
+        "refuse",
+        "cache"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'obtiens' (get/obtain) - first person singular present of 'obtenir'. The complete text is '<em>J'obtiens toujours des informations amusantes de mes amis</em>' - I always get amusing information from my friends. This targets verb 'obtiens' and adjective 'amusant' (amusing).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "friendship",
+        "information",
+        "communication"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 741,
+      "audioText": "Ces gens risquent de perdre leur emploi semblable à celui-ci.",
+      "question": "Ces gens ______ de perdre leur emploi semblable à celui-ci.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "risquent",
+      "acceptedAnswers": [
+        "risquent",
+        "Risquent"
+      ],
+      "explanation": "The correct form is 'risquent' (risk) - third person plural present of 'risquer'. The complete text is '<em>Ces gens risquent de perdre leur emploi semblable à celui-ci</em>' - These people risk losing their job similar to this one. This targets verb 'risquent' and adjective 'semblable' (similar).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "employment",
+        "risk",
+        "job-loss"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 742,
+      "audioText": "Tu regrettes déjà cette adresse inconnue que tu as donnée?",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Tu regrettes déjà cette adresse inconnue que tu as donnée",
+        "Tu regrettes déjà cette adresse connue que tu as donnée",
+        "Tu regrettes déjà cette adresse correcte que tu as donnée",
+        "Tu regrettes déjà cette adresse fausse que tu as donnée"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Tu regrettes déjà cette adresse inconnue que tu as donnée?</em>' - Do you already regret this unknown address that you gave? The verb 'regrettes' (regret) and adjective 'inconnu' (unknown) describe second thoughts, targeting under-represented topic 'address'.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "regret",
+        "address",
+        "information"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 743,
+      "audioText": "Les médecins traitent ce patient sourd avec beaucoup de patience.",
+      "question": "How do the doctors treat this deaf patient?",
+      "questionType": "comprehension",
+      "options": [
+        "With a lot of patience",
+        "Very quickly and efficiently",
+        "Without any special attention",
+        "Using only standard procedures"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Les médecins traitent ce patient sourd avec beaucoup de patience</em>' - The doctors treat this deaf patient with a lot of patience. The verb 'traitent' (treat) and adjective 'sourd' (deaf) describe compassionate medical care.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "medical-care",
+        "patience",
+        "disability"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 744,
+      "audioText": "Je demande pardon à ma mère pour cette erreur éternelle.",
+      "question": "Why is the speaker apologizing to their mother?",
+      "questionType": "comprehension",
+      "options": [
+        "For an eternal error",
+        "For arriving late",
+        "For forgetting something",
+        "For making noise"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je demande pardon à ma mère pour cette erreur éternelle</em>' - I ask my mother for forgiveness for this eternal error. The noun 'pardon' (forgiveness) and adjective 'éternel' (eternal) describe a lasting mistake requiring apology.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "family",
+        "apology",
+        "mistake"
+      ],
+      "timeCreated": 1722041880
+    },
+    {
+      "id": 745,
+      "audioText": "Cette haine sincère détruit toute notre amitié.",
+      "question": "Cette ______ sincère détruit toute notre amitié.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "haine",
+        "joie",
+        "peur",
+        "colère"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'haine' (hatred) - a strong negative emotion. The complete text is '<em>Cette haine sincère détruit toute notre amitié</em>' - This sincere hatred destroys all our friendship. This targets noun 'haine' and adjective 'sincère' (sincere).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "emotions",
+        "friendship",
+        "conflict"
+      ],
+      "timeCreated": 1722041880
+    },
+    {
+      "id": 746,
+      "audioText": "Le chauffeur surveille la route avec attention.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le chauffeur surveille la route avec attention",
+        "Le chauffeur surveille la voiture avec attention",
+        "Le chauffeur surveille la ville avec attention",
+        "Le chauffeur surveille la porte avec attention"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le chauffeur surveille la route avec attention</em>' - The driver watches the road carefully. The noun 'chauffeur' (driver) and verb 'surveille' (watches/monitors) describe careful driving.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "transportation",
+        "safety",
+        "driving"
+      ],
+      "timeCreated": 1722041880
+    },
+    {
+      "id": 747,
+      "audioText": "Ce génie réel comprend tout rapidement.",
+      "question": "Ce ______ réel comprend tout rapidement.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "génie",
+      "acceptedAnswers": [
+        "génie",
+        "Génie"
+      ],
+      "explanation": "The correct form is 'génie' (genius) - a person of exceptional intelligence. The complete text is '<em>Ce génie réel comprend tout rapidement</em>' - This real genius understands everything quickly. This targets noun 'génie' and adjective 'réel' (real).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "intelligence",
+        "understanding",
+        "talent"
+      ],
+      "timeCreated": 1722041880
+    },
+    {
+      "id": 748,
+      "audioText": "Il a été viré de son travail hier.",
+      "question": "Il a été ______ de son travail hier.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "viré",
+        "promu",
+        "félicité",
+        "invité"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'viré' (fired) - past participle of 'virer' meaning to dismiss from a job. The complete text is '<em>Il a été viré de son travail hier</em>' - He was fired from his job yesterday. This targets verb 'viré' in a common employment context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "employment",
+        "job-loss",
+        "termination"
+      ],
+      "timeCreated": 1722041940
+    },
+    {
+      "id": 749,
+      "audioText": "Vous plaisantez avec les enfants assis.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Vous plaisantez avec les enfants assis",
+        "Vous plaisantez avec les enfants debout",
+        "Vous discutez avec les enfants assis",
+        "Vous jouez avec les enfants assis"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous plaisantez avec les enfants assis</em>' - You joke with the seated children. The verb 'plaisantez' (joke/tease) and adjective 'assis' (seated) describe playful interaction with sitting children.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "children",
+        "humor",
+        "interaction"
+      ],
+      "timeCreated": 1722041940
+    },
+    {
+      "id": 750,
+      "audioText": "Ce problème a été réglé rapidement.",
+      "question": "What happened to the problem?",
+      "questionType": "comprehension",
+      "options": [
+        "It was resolved quickly",
+        "It became more complicated",
+        "It was ignored completely",
+        "It was postponed indefinitely"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce problème a été réglé rapidement</em>' - This problem was resolved quickly. The past participle 'réglé' (resolved/settled) describes successful problem-solving.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "problem-solving",
+        "efficiency",
+        "resolution"
+      ],
+      "timeCreated": 1722041940
+    },
+    {
+      "id": 751,
+      "audioText": "Cette réparation a coûté très cher.",
+      "question": "Cette réparation a ______ très cher.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "coûté",
+      "acceptedAnswers": [
+        "coûté",
+        "Coûté"
+      ],
+      "explanation": "The correct form is 'coûté' (cost) - past participle of 'coûter'. The complete text is '<em>Cette réparation a coûté très cher</em>' - This repair cost a lot. This targets verb 'coûté' in a common expense context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "cost",
+        "repair",
+        "expense"
+      ],
+      "timeCreated": 1722041940
+    },
+    {
+      "id": 752,
+      "audioText": "Certes, cette enfant éternelle joue sagement.",
+      "question": "How does this eternal child play?",
+      "questionType": "comprehension",
+      "options": [
+        "Wisely",
+        "Loudly",
+        "Quickly",
+        "Carelessly"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Certes, cette enfant éternelle joue sagement</em>' - Certainly, this eternal child plays wisely. The adverb 'sagement' (wisely) and adjective 'éternel' (eternal) describe mature play behavior. The adverb 'certes' (certainly) emphasizes the statement.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "children",
+        "behavior",
+        "wisdom"
+      ],
+      "timeCreated": 1722042000
+    },
+    {
+      "id": 753,
+      "audioText": "Il parle bonnement de son pote sincère.",
+      "question": "Il parle ______ de son pote sincère.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "bonnement",
+        "méchamment",
+        "tristement",
+        "rapidement"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'bonnement' (simply/honestly) - an adverb meaning in a straightforward manner. The complete text is '<em>Il parle bonnement de son pote sincère</em>' - He speaks simply about his sincere friend. This targets adverb 'bonnement' and includes nouns 'pote' (buddy) and adjective 'sincère' (sincere).",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "friendship",
+        "honesty",
+        "speaking"
+      ],
+      "timeCreated": 1722042000
+    },
+    {
+      "id": 754,
+      "audioText": "Elle s'assoit califourchon sur sa chaise.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Elle s'assoit califourchon sur sa chaise",
+        "Elle s'assoit confortablement sur sa chaise",
+        "Elle s'assoit doucement sur sa chaise",
+        "Elle s'assoit normalement sur sa chaise"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle s'assoit califourchon sur sa chaise</em>' - She sits straddling her chair. The adverb 'califourchon' (straddling) describes a specific sitting position with legs on either side.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "posture",
+        "sitting",
+        "position"
+      ],
+      "timeCreated": 1722042000
+    },
+    {
+      "id": 755,
+      "audioText": "Il a parié sur ce cheval noir.",
+      "question": "Il a ______ sur ce cheval noir.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "parié",
+        "joué",
+        "misé",
+        "gagné"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'parié' (bet) - past participle of 'parier'. The complete text is '<em>Il a parié sur ce cheval noir</em>' - He bet on this black horse. This targets the verb form 'parié' in a simple betting context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "betting",
+        "horses",
+        "competition"
+      ],
+      "timeCreated": 1722042240
+    },
+    {
+      "id": 756,
+      "audioText": "Je remarque ton nouveau costume bleu.",
+      "question": "What do I notice about you?",
+      "questionType": "comprehension",
+      "options": [
+        "Your new blue suit",
+        "Your old red shirt",
+        "Your strange behavior",
+        "Your tired expression"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Je remarque ton nouveau costume bleu</em>' - I notice your new blue suit. The verb 'remarque' (notice) describes observation of clothing appearance.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "observation",
+        "clothing",
+        "appearance"
+      ],
+      "timeCreated": 1722042240
+    },
+    {
+      "id": 757,
+      "audioText": "J'appartiens à cette famille depuis ma naissance.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "J'appartiens à cette famille depuis ma naissance",
+        "J'appartiens à cette famille depuis mon mariage",
+        "J'appartenais à cette famille depuis ma naissance",
+        "Je suis de cette famille depuis ma naissance"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>J'appartiens à cette famille depuis ma naissance</em>' - I belong to this family since my birth. The verb 'appartiens' (belong) expresses family membership from birth.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "family",
+        "belonging",
+        "identity"
+      ],
+      "timeCreated": 1722042240
+    },
+    {
+      "id": 758,
+      "audioText": "Ce film amusant me fait rire beaucoup.",
+      "question": "Ce film ______ me fait rire beaucoup.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "amusant",
+        "ennuyeux",
+        "triste",
+        "effrayant"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'amusant' (funny/amusing) - an adjective describing entertainment that causes laughter. The complete text is '<em>Ce film amusant me fait rire beaucoup</em>' - This amusing film makes me laugh a lot. This targets adjective 'amusant' in a simple entertainment context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "entertainment",
+        "humor",
+        "movies"
+      ],
+      "timeCreated": 1722042360
+    },
+    {
+      "id": 759,
+      "audioText": "Cette montagne lointaine semble très belle.",
+      "question": "How does this distant mountain appear?",
+      "questionType": "comprehension",
+      "options": [
+        "Very beautiful",
+        "Quite dangerous",
+        "Rather small",
+        "Completely hidden"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette montagne lointaine semble très belle</em>' - This distant mountain seems very beautiful. The adjective 'lointaine' (distant) describes geographical remoteness with aesthetic appeal.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "nature",
+        "mountains",
+        "beauty"
+      ],
+      "timeCreated": 1722042360
+    },
+    {
+      "id": 760,
+      "audioText": "Son regard fixe me dérange un peu.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Son regard fixe me dérange un peu",
+        "Son regard froid me dérange un peu",
+        "Son regard fixe me plaît un peu",
+        "Ses regards fixes me dérangent un peu"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Son regard fixe me dérange un peu</em>' - His fixed stare bothers me a little. The adjective 'fixe' (fixed/steady) describes an unmoving, intense gaze that causes discomfort.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "discomfort",
+        "behavior",
+        "eyes"
+      ],
+      "timeCreated": 1722042360
+    },
+    {
+      "id": 761,
+      "audioText": "Ma grand-mère cultive des fraises rouges dans son jardin.",
+      "question": "What does grandmother grow in her garden?",
+      "questionType": "comprehension",
+      "options": [
+        "Red strawberries",
+        "Green lettuce",
+        "Yellow roses",
+        "White potatoes"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ma grand-mère cultive des fraises rouges dans son jardin</em>' - My grandmother grows red strawberries in her garden. The noun 'fraises' (strawberries) with adjective 'rouges' (red) describes fruit cultivation in family garden context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "family",
+        "garden",
+        "fruit"
+      ],
+      "timeCreated": 1722179280
+    },
+    {
+      "id": 762,
+      "audioText": "Ce citron jaune apporte beaucoup de goût à la salade.",
+      "question": "Ce ______ jaune apporte beaucoup de goût à la salade.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "citron",
+      "acceptedAnswers": [
+        "citron",
+        "Citron"
+      ],
+      "explanation": "The correct answer is 'citron' (lemon) - a yellow citrus fruit that adds flavor to dishes. The complete text is '<em>Ce citron jaune apporte beaucoup de goût à la salade</em>' - This yellow lemon brings a lot of taste to the salad. This targets the missing food noun 'citron' in cooking context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "food",
+        "cooking",
+        "taste"
+      ],
+      "timeCreated": 1722179340
+    },
+    {
+      "id": 763,
+      "audioText": "Le poivre noir donne du piquant aux légumes grillés.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le poivre noir donne du piquant aux légumes grillés",
+        "Le poivre blanc donne du piquant aux légumes grillés",
+        "Le poivre noir donne du piquant aux légumes bouillis",
+        "Le sucre noir donne du piquant aux légumes grillés"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le poivre noir donne du piquant aux légumes grillés</em>' - Black pepper gives spiciness to grilled vegetables. The noun 'poivre' (pepper) with adjective 'noir' (black) and verb 'grillés' (grilled) describes seasoning in cooking context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "food",
+        "seasoning",
+        "vegetables"
+      ],
+      "timeCreated": 1722179520
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-27T06:46:34.450Z",
-    "totalQuestions": 695,
+    "compiledAt": "2025-07-28T00:16:21.750Z",
+    "totalQuestions": 754,
     "level": "A",
-    "idRange": "1-754",
+    "idRange": "1-818",
     "difficulties": [
       "A1",
       "A2"

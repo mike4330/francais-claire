@@ -1187,6 +1187,28 @@
       "timeCreated": 1720713600
     },
     {
+      "id": 2795,
+      "audioText": "Les scientifiques explorent les mystères de l'univers en utilisant des télescopes ultramodernes pour observer les galaxies lointaines.",
+      "question": "What do scientists explore?",
+      "questionType": "comprehension",
+      "options": [
+        "Ocean depths with submarines",
+        "Mysteries of the universe with telescopes",
+        "Ancient civilizations with excavations",
+        "Weather patterns with satellites"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Les scientifiques explorent les mystères de l'univers en utilisant des télescopes ultramodernes pour observer les galaxies lointaines</em>' - Scientists explore the mysteries of the universe using ultramodern telescopes to observe distant galaxies. The noun 'univers' (universe) refers to all of space and matter.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "science",
+        "astronomy",
+        "space"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
       "id": 2796,
       "audioText": "Grossièrement, cette organisation baby-care espérait que les parents retrouveras furtivement leurs larmes perdues après avoir vu la size de leur ventre.",
       "question": "What did the baby-care organization roughly hope?",
@@ -1229,6 +1251,28 @@
         "protocol-development"
       ],
       "timeCreated": 1736804960
+    },
+    {
+      "id": 2798,
+      "audioText": "Les astronomes observent cette étoile mystérieuse qui brûlent intensément dans les confins de notre galaxie lointaine.",
+      "question": "Les astronomes observent cette étoile mystérieuse qui ______ intensément dans les confins de notre galaxie.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "disparaît",
+        "brûlent",
+        "voyage",
+        "tourne"
+      ],
+      "correct": 1,
+      "explanation": "The correct answer is 'brûlent' (burn) - though this should be 'brûle' for singular 'étoile'. The complete text is '<em>Les astronomes observent cette étoile mystérieuse qui brûlent intensément dans les confins de notre galaxie lointaine</em>' - Astronomers observe this mysterious star that burns intensely in the confines of our distant galaxy. The noun 'étoile' (star) refers to a celestial body. This targets missing verb conjugate 'brûlent'.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "astronomy",
+        "space",
+        "science"
+      ],
+      "timeCreated": 1722041760
     },
     {
       "id": 2799,
@@ -2234,6 +2278,28 @@
       "timeCreated": 1720823200
     },
     {
+      "id": 2851,
+      "audioText": "Ce patient traité depuis sa naissance souffre d'une maladie génétique rare nécessitant des soins constants et une surveillance médicale quotidienne.",
+      "question": "What characterizes this patient's medical situation?",
+      "questionType": "comprehension",
+      "options": [
+        "Treated since birth for a rare genetic disease requiring constant care",
+        "Recently diagnosed with a common condition needing minimal treatment",
+        "Recovering from surgery with temporary medication requirements",
+        "Experiencing seasonal allergies managed with routine prescriptions"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce patient traité depuis sa naissance souffre d'une maladie génétique rare nécessitant des soins constants et une surveillance médicale quotidienne</em>' - This patient treated since birth suffers from a rare genetic disease requiring constant care and daily medical monitoring. The past participle 'traité' (treated) and noun 'naissance' (birth) describe lifelong medical management.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "health",
+        "genetics",
+        "medical-care"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
       "id": 2852,
       "audioText": "Cette guerre économique entre les deux superpuissances a des répercussions géopolitiques majeures qui transforment l'équilibre mondial et redéfinissent les alliances stratégiques traditionnelles.",
       "question": "What are the consequences of this economic war according to the text?",
@@ -3000,6 +3066,28 @@
       ],
       "timeCreated": 1736805700,
       "verified": "claude"
+    },
+    {
+      "id": 2886,
+      "audioText": "L'accompagne médical depuis sa naissance permet de suivre l'évolution neurologique complexe de ce patient atteint d'une pathologie génétique rare nécessitant des interventions spécialisées régulières.",
+      "question": "What does the medical accompaniment since birth allow for this patient?",
+      "questionType": "comprehension",
+      "options": [
+        "Monitoring complex neurological evolution of a rare genetic condition",
+        "Providing basic routine checkups for common childhood diseases",
+        "Offering standard vaccination schedules for healthy development",
+        "Managing temporary symptoms from minor injuries"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>L'accompagne médical depuis sa naissance permet de suivre l'évolution neurologique complexe de ce patient atteint d'une pathologie génétique rare nécessitant des interventions spécialisées régulières</em>' - The medical accompaniment since birth allows monitoring the complex neurological evolution of this patient with a rare genetic pathology requiring regular specialized interventions. This targets noun 'naissance' (birth) and relates to missing verb 'accompagne'.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "medical-care",
+        "genetics",
+        "monitoring"
+      ],
+      "timeCreated": 1722041760
     },
     {
       "id": 2887,
@@ -7471,11 +7559,187 @@
         "government-policy"
       ],
       "timeCreated": 1721988480
+    },
+    {
+      "id": 3082,
+      "audioText": "Ce diplomate arrangerait clandestinement une rencontre secrète entre les deux dirigeants si les négociations officielles échouaient complètement.",
+      "question": "How would the diplomat arrange the meeting?",
+      "questionType": "comprehension",
+      "options": [
+        "Publicly and transparently",
+        "Secretly and covertly",
+        "Quickly and efficiently",
+        "Carefully and methodically"
+      ],
+      "correct": 1,
+      "explanation": "The text states '<em>Ce diplomate arrangerait clandestinement une rencontre secrète entre les deux dirigeants si les négociations officielles échouaient complètement</em>' - This diplomat would secretly arrange a secret meeting between the two leaders if official negotiations failed completely. The adverb 'clandestinement' (secretly/covertly) emphasizes the hidden nature. The conditional 'arrangerait' shows hypothetical action.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "diplomacy",
+        "politics",
+        "secret-negotiations"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 3083,
+      "audioText": "Cette patiente traitée selon des protocoles expérimentaux innovants bénéficie d'approches thérapeutiques révolutionnaires développées par une équipe multidisciplinaire internationale reconnue pour son expertise en médecine personnalisée.",
+      "question": "What characterizes the patient's treatment approach?",
+      "questionType": "comprehension",
+      "options": [
+        "Innovative experimental protocols with revolutionary therapeutic approaches from international experts",
+        "Standard conventional treatments following established medical guidelines",
+        "Basic care limited to symptom management and pain relief",
+        "Alternative medicine focusing exclusively on natural remedies"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette patiente traitée selon des protocoles expérimentaux innovants bénéficie d'approches thérapeutiques révolutionnaires développées par une équipe multidisciplinaire internationale reconnue pour son expertise en médecine personnalisée</em>' - This patient treated according to innovative experimental protocols benefits from revolutionary therapeutic approaches developed by an international multidisciplinary team recognized for its expertise in personalized medicine. The past participle 'traitée' describes cutting-edge medical care.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "medical-research",
+        "innovation",
+        "expertise"
+      ],
+      "timeCreated": 1722041760
+    },
+    {
+      "id": 3084,
+      "audioText": "L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été correctement informée des récentes modifications réglementaires qui affecteraient significativement les procédures d'import-export dans notre secteur d'activité particulièrement sensible.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été correctement informée des récentes modifications réglementaires",
+        "L'objet de cette réunion extraordinaire était de déterminer si la presse nationale avait été correctement informée des récentes modifications réglementaires",
+        "L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été partiellement informée des récentes modifications réglementaires",
+        "L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été rapidement informée des récentes modifications réglementaires"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été correctement informée des récentes modifications réglementaires qui affecteraient significativement les procédures d'import-export dans notre secteur d'activité particulièrement sensible</em>' - The purpose of this extraordinary meeting was to determine if the international press had been correctly informed about recent regulatory changes that would significantly affect import-export procedures in our particularly sensitive business sector. This targets nouns 'objet' (purpose/object) and 'presse' (press).",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "business",
+        "media",
+        "regulation"
+      ],
+      "timeCreated": 1722041880
+    },
+    {
+      "id": 3085,
+      "audioText": "Discutons méthodiquement de cette stratégie commerciale complexe qui nécessite une analyse approfondie des tendances du marché actuel avant toute prise de décision définitive concernant l'allocation des ressources financières disponibles pour ce trimestre fiscal particulièrement critique pour notre organisation.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Discutons méthodiquement de cette stratégie commerciale complexe qui nécessite une analyse approfondie des tendances du marché actuel",
+        "Discutons rapidement de cette stratégie commerciale complexe qui nécessite une analyse approfondie des tendances du marché actuel",
+        "Discutons méthodiquement de cette stratégie commerciale simple qui nécessite une analyse approfondie des tendances du marché actuel",
+        "Discutons méthodiquement de cette stratégie commerciale complexe qui nécessite une analyse superficielle des tendances du marché actuel"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Discutons méthodiquement de cette stratégie commerciale complexe qui nécessite une analyse approfondie des tendances du marché actuel avant toute prise de décision définitive concernant l'allocation des ressources financières disponibles pour ce trimestre fiscal particulièrement critique pour notre organisation</em>' - Let's discuss methodically this complex commercial strategy that requires a thorough analysis of current market trends before any definitive decision-making regarding the allocation of available financial resources for this particularly critical fiscal quarter for our organization. This targets verb 'discutons' (let's discuss) and includes adverb 'méthodiquement' (methodically).",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "strategy",
+        "business",
+        "analysis"
+      ],
+      "timeCreated": 1722041940
+    },
+    {
+      "id": 3086,
+      "audioText": "Cette stratégie marketing innovante vise passablement à développer alternativement notre présence commerciale sur les marchés internationaux tout en préservant grandement notre identité culturelle authentique et en renforçant méthodiquement nos partenariats stratégiques existants avec les distributeurs locaux dans chaque région géographique ciblée.",
+      "question": "What does this innovative marketing strategy aim to do?",
+      "questionType": "comprehension",
+      "options": [
+        "Develop commercial presence internationally while preserving cultural identity and strengthening partnerships",
+        "Focus exclusively on local markets while abandoning international expansion plans",
+        "Reduce costs by eliminating partnerships with regional distributors",
+        "Prioritize short-term profits over long-term strategic relationships"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette stratégie marketing innovante vise passablement à développer alternativement notre présence commerciale sur les marchés internationaux tout en préservant grandement notre identité culturelle authentique et en renforçant méthodiquement nos partenariats stratégiques existants avec les distributeurs locaux dans chaque région géographique ciblée</em>' - This innovative marketing strategy aims reasonably to develop alternatively our commercial presence on international markets while greatly preserving our authentic cultural identity and methodically strengthening our existing strategic partnerships with local distributors in each targeted geographical region. This targets adverb 'passablement' (reasonably) and includes multiple strategic adverbs.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "strategy",
+        "marketing",
+        "international"
+      ],
+      "timeCreated": 1722042000
+    },
+    {
+      "id": 3087,
+      "audioText": "L'architecte contemporain a minutieusement conçu ce projet révolutionnaire en intégrant harmonieusement les éléments écologiques durables avec les innovations technologiques avancées, créant ainsi un écosystème urbain exemplaire qui transformera définitivement notre perception traditionnelle de l'habitat moderne et influencera prodigieusement l'évolution future de l'urbanisme intelligent.",
+      "question": "What has the contemporary architect done with this revolutionary project?",
+      "questionType": "comprehension",
+      "options": [
+        "Created an exemplary urban ecosystem integrating ecological and technological elements",
+        "Focused exclusively on traditional architectural styles without modern innovations",
+        "Developed a purely commercial project prioritizing profit over sustainability",
+        "Designed a simple residential building using conventional construction methods"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>L'architecte contemporain a minutieusement conçu ce projet révolutionnaire en intégrant harmonieusement les éléments écologiques durables avec les innovations technologiques avancées, créant ainsi un écosystème urbain exemplaire qui transformera définitivement notre perception traditionnelle de l'habitat moderne et influencera prodigieusement l'évolution future de l'urbanisme intelligent</em>' - The contemporary architect has meticulously designed this revolutionary project by harmoniously integrating sustainable ecological elements with advanced technological innovations, thus creating an exemplary urban ecosystem that will definitively transform our traditional perception of modern habitat and will prodigiously influence the future evolution of intelligent urbanism. This targets missing adverb 'prodigieusement' (prodigiously) in an advanced architectural context.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "architecture",
+        "technology",
+        "sustainability"
+      ],
+      "timeCreated": 1722042120
+    },
+    {
+      "id": 3088,
+      "audioText": "Ces chercheurs expérimentés attrapent méthodiquement les phénomènes complexes grâce à leurs instruments scientifiques sophistiqués, analysant minutieusement chaque donnée recueillie pour comprendre profondément les mécanismes fondamentaux qui régissent ces processus naturels extraordinaires et contribuent significativement à l'avancement des connaissances humaines dans ce domaine spécialisé.",
+      "question": "What do these experienced researchers do with complex phenomena?",
+      "questionType": "comprehension",
+      "options": [
+        "Methodically capture them using sophisticated scientific instruments for detailed analysis",
+        "Simply observe them without collecting any measurable data",
+        "Ignore them due to their overwhelming complexity",
+        "Document them briefly without conducting thorough investigation"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ces chercheurs expérimentés attrapent méthodiquement les phénomènes complexes grâce à leurs instruments scientifiques sophistiqués, analysant minutieusement chaque donnée recueillie pour comprendre profondément les mécanismes fondamentaux qui régissent ces processus naturels extraordinaires et contribuent significativement à l'avancement des connaissances humaines dans ce domaine spécialisé</em>' - These experienced researchers methodically capture complex phenomena using their sophisticated scientific instruments, meticulously analyzing each piece of collected data to deeply understand the fundamental mechanisms governing these extraordinary natural processes and significantly contribute to the advancement of human knowledge in this specialized field. This targets verb 'attrapent' (capture) in an advanced scientific research context.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "research",
+        "science",
+        "analysis"
+      ],
+      "timeCreated": 1722042240
+    },
+    {
+      "id": 3089,
+      "audioText": "Ces résultats étonnant révèlent prodigieusement des corrélations statistiques extraordinaires entre les variables socio-économiques complexes que les chercheurs tenté d'analyser systématiquement pendant plusieurs années consécutives, bouleversant ainsi fondamentalement les théories académiques établies et ouvrant simultanément de nouvelles perspectives méthodologiques révolutionnaires pour les investigations futures dans ce domaine scientifique spécialisé.",
+      "question": "Ces résultats ______ révèlent prodigieusement des corrélations statistiques extraordinaires entre les variables socio-économiques complexes.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "étonnant",
+        "décevant",
+        "prévisible",
+        "ordinaire"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'étonnant' (astonishing) - an adjective describing surprising research findings. The complete text is '<em>Ces résultats étonnant révèlent prodigieusement des corrélations statistiques extraordinaires entre les variables socio-économiques complexes que les chercheurs tenté d'analyser systématiquement pendant plusieurs années consécutives, bouleversant ainsi fondamentalement les théories académiques établies et ouvrant simultanément de nouvelles perspectives méthodologiques révolutionnaires pour les investigations futures dans ce domaine scientifique spécialisé</em>' - These astonishing results prodigiously reveal extraordinary statistical correlations between complex socio-economic variables that researchers attempted to analyze systematically for several consecutive years, thus fundamentally disrupting established academic theories and simultaneously opening new revolutionary methodological perspectives for future investigations in this specialized scientific field. This targets adjective 'étonnant' with synergistic inclusion of adverb 'prodigieusement' and verb 'tenté' in advanced research context.",
+      "difficulty": "C1",
+      "source": "claude",
+      "tags": [
+        "research",
+        "statistics",
+        "discovery"
+      ],
+      "timeCreated": 1722042360
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-27T06:46:34.472Z",
-    "totalQuestions": 321,
+    "compiledAt": "2025-07-28T00:16:21.775Z",
+    "totalQuestions": 333,
     "level": "C",
     "idRange": "2744-4000",
     "difficulties": [
