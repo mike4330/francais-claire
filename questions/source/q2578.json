@@ -1,0 +1,22 @@
+{
+  "id": 2578,
+  "audioText": "La chasse aux champignons commence tôt le matin quand la rosée couvre encore la forêt.",
+  "question": "When does mushroom hunting begin?",
+  "questionType": "comprehension",
+  "options": [
+    "Late in the afternoon",
+    "Early in the morning when dew covers the forest",
+    "During the hottest part of the day",
+    "Just before sunset"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>La chasse aux champignons commence tôt le matin quand la rosée couvre encore la forêt</em>' - Mushroom hunting begins early in the morning when the dew still covers the forest. The noun 'chasse' means 'hunt' or 'hunting'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": [
+    "nature",
+    "food",
+    "outdoor-activities"
+  ],
+  "timeCreated": 1721988480
+}

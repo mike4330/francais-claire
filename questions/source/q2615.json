@@ -1,0 +1,24 @@
+{
+  "id": 2615,
+  "audioText": "Je ne croyais pas que vous croyiez carrément que cette terre appartenait à votre famille depuis toujours.",
+  "question": "What didn't the speaker believe?",
+  "questionType": "comprehension",
+  "options": [
+    "That they really believed the land belonged to their family",
+    "That the land was recently purchased",
+    "That the family owned multiple properties",
+    "That they had legal documents for the land"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je ne croyais pas que vous croyiez carrément que cette terre appartenait à votre famille depuis toujours</em>' - I didn't believe that you really believed that this land belonged to your family forever. 'Croyiez' is the imperfect subjunctive of croire (to believe), 'carrément' means really/completely, and 'terre' means land/earth.",
+  "difficulty": "B2",
+  "source": "Property ownership and family inheritance discussion",
+  "tags": [
+    "property",
+    "family",
+    "inheritance",
+    "belief"
+  ],
+  "timeCreated": 1751811660,
+  "verified": "claude"
+}

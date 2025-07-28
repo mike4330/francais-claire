@@ -1,0 +1,23 @@
+{
+  "id": 2600,
+  "audioText": "Il faut que tu comprennes que dire merci est vraiment sympa et important.",
+  "question": "What should you understand about saying thanks?",
+  "questionType": "comprehension",
+  "options": [
+    "It's unnecessary",
+    "It's really nice and important",
+    "It's only for adults",
+    "It's too formal"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il faut que tu comprennes que dire merci est vraiment sympa et important</em>' - You must understand that saying thanks is really nice and important. 'Comprennes' is subjunctive, 'merci' means thanks, and 'sympa' means nice/kind.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": [
+    "kindness",
+    "politeness",
+    "social-skills"
+  ],
+  "timeCreated": 1751777362,
+  "verified": "claude"
+}

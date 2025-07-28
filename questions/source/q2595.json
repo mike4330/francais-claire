@@ -1,0 +1,22 @@
+{
+  "id": 2595,
+  "audioText": "Nous remercions sincèrement tous les bénévoles qui ont participé à cette campagne de solidarité.",
+  "question": "Nous ______ sincèrement tous les bénévoles qui ont participé à cette campagne.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "félicitons",
+    "remercions",
+    "encourageons",
+    "soutenons"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'remercions' (thank) - the 'nous' form of 'remercier'. The complete text is '<em>Nous remercions sincèrement tous les bénévoles qui ont participé à cette campagne de solidarité</em>' - We sincerely thank all the volunteers who participated in this solidarity campaign.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": [
+    "gratitude",
+    "volunteering",
+    "community"
+  ],
+  "timeCreated": 1722041760
+}

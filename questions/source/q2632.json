@@ -1,0 +1,24 @@
+{
+  "id": 2632,
+  "audioText": "Le drap noir était quasi entièrement couvert de peinture après l'accident de rénovation qui avait compliqué tous les travaux hospitaliers.",
+  "question": "What was the black sheet almost entirely covered with?",
+  "questionType": "comprehension",
+  "options": [
+    "Paint after a renovation accident that complicated hospital work",
+    "Blood from a medical procedure in the hospital",
+    "Water from a broken pipe in the operating room",
+    "Dust from old equipment being moved around"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le drap noir était quasi entièrement couvert de peinture après l'accident de rénovation qui avait compliqué tous les travaux hospitaliers.</em>' - The black sheet was almost entirely covered with paint after the renovation accident that complicated all hospital work. 'Quasi' means almost/nearly, 'noir' means black, and 'peinture' means paint.",
+  "difficulty": "B2",
+  "source": "Medical accident trauma in surgical setting",
+  "tags": [
+    "renovation",
+    "hospital",
+    "accident",
+    "maintenance"
+  ],
+  "timeCreated": 1751813580,
+  "verified": "claude"
+}

@@ -1,18 +1,23 @@
 {
   "id": 2717,
-  "audioText": "L'astronaute observe les étoiles depuis la station spatiale internationale pendant sa mission scientifique.",
-  "question": "Where is the astronaut observing from?",
+  "audioText": "L'oeil de l'enfant brille nettement quand il découvre quelque chose d'instant.",
+  "question": "How does the child's eye shine?",
   "questionType": "comprehension",
   "options": [
-    "From a ground-based observatory",
-    "From the international space station",
-    "From a high-altitude aircraft",
-    "From a mountain telescope facility"
+    "Clearly when discovering something momentary",
+    "Dimly when seeing familiar things",
+    "Brightly when playing with toys",
+    "Softly when feeling sleepy"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>L'astronaute observe les étoiles depuis la station spatiale internationale pendant sa mission scientifique</em>' - The astronaut observes the stars from the international space station during their scientific mission. This targets the under-represented 'space' topic.",
+  "correct": 0,
+  "explanation": "The speaker says '<em>L'oeil de l'enfant brille nettement quand il découvre quelque chose d'instant</em>' - The child's eye shines clearly when discovering something momentary. 'Oeil' means 'eye', 'nettement' means 'clearly', 'instant' means 'momentary'.",
   "difficulty": "B1",
-  "source": "claude",
-  "tags": ["space", "science", "observation"],
-  "timeCreated": 1721988480
+  "source": "Strategic vocabulary targeting",
+  "tags": [
+    "children",
+    "observation",
+    "discovery"
+  ],
+  "timeCreated": 1720443240,
+  "verified": "claude"
 }

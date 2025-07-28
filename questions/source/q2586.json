@@ -1,0 +1,22 @@
+{
+  "id": 2586,
+  "audioText": "Il faut agir vigoureusement contre cette pollution industrielle qui menace notre environnement local.",
+  "question": "Il faut agir ______ contre cette pollution industrielle qui menace notre environnement.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "doucement",
+    "prudemment",
+    "vigoureusement",
+    "lentement"
+  ],
+  "correct": 2,
+  "explanation": "The correct answer is 'vigoureusement' (vigorously) - an adverb indicating strong, energetic action is needed. The complete text is '<em>Il faut agir vigoureusement contre cette pollution industrielle qui menace notre environnement local</em>' - We must act vigorously against this industrial pollution that threatens our local environment.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "environment",
+    "politics",
+    "action"
+  ],
+  "timeCreated": 1721988480
+}

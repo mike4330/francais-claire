@@ -1,18 +1,23 @@
 {
   "id": 2722,
-  "audioText": "La chasse aux champignons commence tôt le matin quand la rosée couvre encore la forêt.",
-  "question": "When does mushroom hunting begin?",
+  "audioText": "Mon cœur bat fortement quand je dis merci.",
+  "question": "How does the speaker's heart beat when saying thank you?",
   "questionType": "comprehension",
   "options": [
-    "Late in the afternoon",
-    "Early in the morning when dew covers the forest",
-    "During the hottest part of the day",
-    "Just before sunset"
+    "Strongly",
+    "Slowly",
+    "Quietly",
+    "Irregularly"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>La chasse aux champignons commence tôt le matin quand la rosée couvre encore la forêt</em>' - Mushroom hunting begins early in the morning when the dew still covers the forest. The noun 'chasse' means 'hunt' or 'hunting'.",
-  "difficulty": "B1",
-  "source": "claude",
-  "tags": ["nature", "food", "outdoor-activities"],
-  "timeCreated": 1721988480
+  "correct": 0,
+  "explanation": "The speaker says '<em>Mon cœur bat fortement quand je dis merci</em>' - My heart beats strongly when I say thank you. 'Coeur' means 'heart', 'fortement' means 'strongly', 'merci' means 'thank you'.",
+  "difficulty": "A2",
+  "source": "Expressing gratitude",
+  "tags": [
+    "spirituality",
+    "gratitude",
+    "emotion"
+  ],
+  "timeCreated": 1720443300,
+  "verified": "claude"
 }

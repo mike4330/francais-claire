@@ -1,0 +1,22 @@
+{
+  "id": 2593,
+  "audioText": "Le voleur a été attrapé par la police après avoir cambriolé plusieurs maisons du quartier.",
+  "question": "What happened to the thief?",
+  "questionType": "comprehension",
+  "options": [
+    "He escaped from the neighborhood",
+    "He was caught by the police",
+    "He confessed to his crimes",
+    "He returned the stolen items"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Le voleur a été attrapé par la police après avoir cambriolé plusieurs maisons du quartier</em>' - The thief was caught by the police after burglarizing several houses in the neighborhood. The past participle 'attrapé' shows the completed action.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "crime",
+    "police",
+    "neighborhood"
+  ],
+  "timeCreated": 1722041760
+}

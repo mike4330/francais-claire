@@ -1,0 +1,22 @@
+{
+  "id": 2599,
+  "audioText": "Mon camarade de classe m'aide toujours avec les exercices de mathématiques les plus difficiles.",
+  "question": "Who helps the speaker with math?",
+  "questionType": "comprehension",
+  "options": [
+    "The mathematics teacher",
+    "A private tutor at home",
+    "Their classmate and friend",
+    "An older student volunteer"
+  ],
+  "correct": 2,
+  "explanation": "The text states '<em>Mon camarade de classe m'aide toujours avec les exercices de mathématiques les plus difficiles</em>' - My classmate always helps me with the most difficult math exercises. The noun 'camarade' (classmate/comrade) refers to a fellow student who provides assistance.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": [
+    "education",
+    "friendship",
+    "mathematics"
+  ],
+  "timeCreated": 1721988480
+}

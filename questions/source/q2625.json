@@ -1,0 +1,22 @@
+{
+  "id": 2625,
+  "audioText": "Le roi construisit un magnifique palais avec des tours dorées et des jardins extraordinaires.",
+  "question": "What did the king build?",
+  "questionType": "comprehension",
+  "options": [
+    "A simple castle with basic rooms",
+    "A magnificent palace with golden towers",
+    "A large church with tall spires",
+    "A military fortress with strong walls"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Le roi construisit un magnifique palais avec des tours dorées et des jardins extraordinaires</em>' - The king built a magnificent palace with golden towers and extraordinary gardens. The noun 'palais' (palace) refers to a grand royal residence.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "royalty",
+    "architecture",
+    "history"
+  ],
+  "timeCreated": 1722041760
+}

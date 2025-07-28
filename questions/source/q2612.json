@@ -1,0 +1,23 @@
+{
+  "id": 2612,
+  "audioText": "Chaque fois que le clown entrait en scène, on sentait une vague de rire monter dans le public. Son humour était si contagieux que même les plus sérieux ne pouvaient s'empêcher de sourire.",
+  "question": "What was the common feeling when the clown appeared?",
+  "questionType": "comprehension",
+  "options": [
+    "A sense of fear",
+    "A wave of laughter",
+    "A feeling of sadness",
+    "A moment of silence"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Chaque fois que le clown entrait en scène, on sentait une vague de rire monter dans le public</em>' - Every time the clown entered the stage, one felt a wave of laughter rising in the audience. The verb 'sentait' is the imparfait tense of 'sentir' (to feel).",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "humor",
+    "entertainment",
+    "circus"
+  ],
+  "timeCreated": 1720181346,
+  "verified": "claude"
+}

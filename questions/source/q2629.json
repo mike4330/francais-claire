@@ -1,0 +1,24 @@
+{
+  "id": 2629,
+  "audioText": "Son oeil s'ouvrit subitement quand il entendit ce coup violent frapper à la porte de sa chambre.",
+  "question": "What happened to his eye when he heard the noise?",
+  "questionType": "comprehension",
+  "options": [
+    "It opened suddenly",
+    "It closed tightly",
+    "It began to water",
+    "It remained unchanged"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son oeil s'ouvrit subitement quand il entendit ce coup violent frapper à la porte</em>' - His eye opened suddenly when he heard this violent knock at the door. 'Subitement' means suddenly/abruptly, 'oeil' means eye, and 'coup' means blow/knock.",
+  "difficulty": "B2",
+  "source": "Sudden awakening from unexpected noise",
+  "tags": [
+    "awakening",
+    "surprise",
+    "noise",
+    "reaction"
+  ],
+  "timeCreated": 1751813100,
+  "verified": "claude"
+}

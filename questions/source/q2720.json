@@ -1,18 +1,23 @@
 {
   "id": 2720,
-  "audioText": "La veille du concert, tous les musiciens ont répété une dernière fois dans la salle.",
-  "question": "When did the musicians rehearse?",
+  "audioText": "Ce beau parc me donne beaucoup de plaisir.",
+  "question": "What does the beautiful park give the speaker?",
   "questionType": "comprehension",
   "options": [
-    "During the concert performance",
-    "The day before the concert",
-    "A week before the show",
-    "On the morning of the concert"
+    "A lot of pleasure",
+    "Some fresh air",
+    "New energy",
+    "Good memories"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>La veille du concert, tous les musiciens ont répété une dernière fois dans la salle</em>' - The day before the concert, all the musicians rehearsed one last time in the hall. The noun 'veille' means 'the day before' or 'eve'.",
-  "difficulty": "B1",
-  "source": "claude",
-  "tags": ["musical-instruments", "entertainment", "scheduling"],
-  "timeCreated": 1721988480
+  "correct": 0,
+  "explanation": "The speaker says '<em>Ce beau parc me donne beaucoup de plaisir</em>' - This beautiful park gives me a lot of pleasure. 'Beau' means 'beautiful' and 'plaisir' means 'pleasure'.",
+  "difficulty": "A2",
+  "source": "Park enjoyment",
+  "tags": [
+    "park",
+    "nature",
+    "leisure"
+  ],
+  "timeCreated": 1720442940,
+  "verified": "claude"
 }

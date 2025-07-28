@@ -1,0 +1,22 @@
+{
+  "id": 2594,
+  "audioText": "Il abandonne bonnement son projet après avoir compris que c'était trop difficile pour lui.",
+  "question": "How does he abandon his project?",
+  "questionType": "comprehension",
+  "options": [
+    "Reluctantly and with anger",
+    "Simply and honestly",
+    "Secretly without telling anyone",
+    "Dramatically with great emotion"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il abandonne bonnement son projet après avoir compris que c'était trop difficile pour lui</em>' - He simply abandons his project after understanding it was too difficult for him. The adverb 'bonnement' (simply/honestly) indicates a straightforward acceptance.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "decision-making",
+    "projects",
+    "acceptance"
+  ],
+  "timeCreated": 1722041760
+}

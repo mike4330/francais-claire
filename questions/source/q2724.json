@@ -1,18 +1,23 @@
 {
   "id": 2724,
-  "audioText": "Elle parle affectueusement à sa grand-mère au téléphone chaque dimanche pour maintenir le lien familial.",
-  "question": "How does she speak to her grandmother?",
+  "audioText": "Tu détruis alternativement les objets précieux de la collection familiale, créant une ombre de tristesse sur les souvenirs de nos ancêtres.",
+  "question": "What effect does the destruction have on family memories?",
   "questionType": "comprehension",
   "options": [
-    "Formally and distantly",
-    "Affectionately and warmly",
-    "Quickly and impatiently",
-    "Loudly and clearly"
+    "You alternately destroy precious objects from the family collection, casting a shadow of sadness over our ancestors' memories",
+    "The destruction actually preserves the family memories better",
+    "You are carefully preserving all the family objects",
+    "The family collection is growing larger with new additions"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>Elle parle affectueusement à sa grand-mère au téléphone chaque dimanche pour maintenir le lien familial</em>' - She speaks affectionately to her grandmother on the phone every Sunday to maintain the family bond. The adverb 'affectueusement' (affectionately) was missing from the lemma coverage.",
-  "difficulty": "B2",
+  "correct": 0,
+  "explanation": "The text states '<em>Tu détruis alternativement les objets précieux de la collection familiale, créant une ombre de tristesse sur les souvenirs de nos ancêtres</em>' - You alternately destroy precious objects from the family collection, creating a shadow of sadness over the memories of our ancestors. 'Détruis' is second person singular present of 'détruire' (to destroy), with missing adverb 'alternativement' (alternately) and noun 'ombre' (shadow).",
+  "difficulty": "C1",
   "source": "claude",
-  "tags": ["family", "communication", "emotions"],
-  "timeCreated": 1721988480
+  "tags": [
+    "family-heritage",
+    "shadow",
+    "past-experiences"
+  ],
+  "timeCreated": 1737653580,
+  "verified": "claude"
 }

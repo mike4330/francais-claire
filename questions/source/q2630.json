@@ -1,0 +1,24 @@
+{
+  "id": 2630,
+  "audioText": "Son regard sincèrement inquiet révélait qu'elle avait brutalement compris la gravité de la situation familiale complexe.",
+  "question": "What did her look sincerely reveal?",
+  "questionType": "comprehension",
+  "options": [
+    "That she had brutally understood the gravity of the situation",
+    "That she was completely confused about everything",
+    "That she felt totally relieved and relaxed",
+    "That she had no concern about the matter"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son regard sincèrement inquiet révélait qu'elle avait brutalement compris la gravité de la situation</em>' - Her sincerely worried look revealed that she had brutally understood the gravity of the situation. 'Regard' means look/gaze, 'sincèrement' means sincerely, and 'brutalement' means brutally/harshly.",
+  "difficulty": "B2",
+  "source": "Strategic vocabulary targeting",
+  "tags": [
+    "family",
+    "emotions",
+    "realization",
+    "crisis"
+  ],
+  "timeCreated": 1751813220,
+  "verified": "claude"
+}

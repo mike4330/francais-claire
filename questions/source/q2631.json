@@ -1,0 +1,24 @@
+{
+  "id": 2631,
+  "audioText": "Son corps tremblait beaucoup après avoir lu ce livre très émouvant qu'il ne pouvait plus oublier.",
+  "question": "How was his body reacting after reading the book?",
+  "questionType": "comprehension",
+  "options": [
+    "It was trembling a lot",
+    "It was completely still and calm",
+    "It was moving energetically and confidently",
+    "It showed no physical reaction at all"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son corps tremblait beaucoup après avoir lu ce livre très émouvant qu'il ne pouvait plus oublier</em>' - His body was trembling a lot after reading this very moving book that he could no longer forget. 'Corps' means body, 'beaucoup' means a lot, and 'émouvant' means moving/touching.",
+  "difficulty": "B2",
+  "source": "Physical reaction to emotional literature",
+  "tags": [
+    "emotions",
+    "physical-reaction",
+    "literature",
+    "reading"
+  ],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

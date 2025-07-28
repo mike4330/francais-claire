@@ -1,0 +1,22 @@
+{
+  "id": 2592,
+  "audioText": "Vous craignez probablement que cette nouvelle loi ne change votre situation financière actuelle.",
+  "question": "Vous ______ probablement que cette nouvelle loi ne change votre situation financière.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "craignez",
+  "acceptedAnswers": [
+    "craignez",
+    "Craignez"
+  ],
+  "explanation": "The correct word is 'craignez' (fear/are afraid) - the formal 'vous' form of 'craindre'. The complete text is '<em>Vous craignez probablement que cette nouvelle loi ne change votre situation financière actuelle</em>' - You probably fear that this new law will change your current financial situation.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "politics",
+    "law",
+    "financial-concerns"
+  ],
+  "timeCreated": 1722041760
+}

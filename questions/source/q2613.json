@@ -1,0 +1,25 @@
+{
+  "id": 2613,
+  "audioText": "Sur une plage du Pas-de-Calais, un gendarme a percé l'embarcation de migrants qui étaient sur le point de débarquer. Un geste contraire au droit international mais salué par le Royaume-Uni.",
+  "question": "What action did the gendarme take regarding the migrants' boat?",
+  "questionType": "comprehension",
+  "options": [
+    "He punctured the boat to prevent landing",
+    "He helped them safely reach shore",
+    "He provided them with life jackets",
+    "He called for additional rescue boats"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sur une plage du Pas-de-Calais, un gendarme a percé l'embarcation de migrants qui étaient sur le point de débarquer</em>' - On a beach in Pas-de-Calais, a gendarme punctured the migrants' boat who were about to land. 'Percé' means punctured/pierced, 'embarcation' means boat/vessel, and 'débarquer' means to land/disembark. The text notes this action was contrary to international law but praised by the UK.",
+  "difficulty": "B2",
+  "source": "News report on migrant boat incident in Pas-de-Calais",
+  "tags": [
+    "news",
+    "migration",
+    "law-enforcement",
+    "international-law",
+    "politics"
+  ],
+  "timeCreated": 1751811180,
+  "verified": "claude"
+}

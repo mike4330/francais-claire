@@ -1,0 +1,22 @@
+{
+  "id": 2584,
+  "audioText": "Ce n'est pas un restaurant quelconque, c'est un établissement gastronomique réputé dans toute la région.",
+  "question": "What type of restaurant is being described?",
+  "questionType": "comprehension",
+  "options": [
+    "Any ordinary restaurant",
+    "A renowned gastronomic establishment",
+    "A simple neighborhood bistro",
+    "A fast-food chain restaurant"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Ce n'est pas un restaurant quelconque, c'est un établissement gastronomique réputé dans toute la région</em>' - It's not just any restaurant, it's a gastronomic establishment renowned throughout the region. The adjective 'quelconque' (any/ordinary) is used negatively to emphasize it's special.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "restaurant",
+    "food",
+    "reputation"
+  ],
+  "timeCreated": 1721988480
+}

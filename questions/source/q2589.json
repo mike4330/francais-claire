@@ -1,0 +1,22 @@
+{
+  "id": 2589,
+  "audioText": "Le chat attrape rapidement la souris qui court dans le jardin.",
+  "question": "Le chat ______ rapidement la souris qui court dans le jardin.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "regarde",
+    "attrape",
+    "cherche",
+    "poursuit"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'attrape' (catches) - the present tense form of 'attraper'. The complete text is '<em>Le chat attrape rapidement la souris qui court dans le jardin</em>' - The cat quickly catches the mouse running in the garden.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": [
+    "animals",
+    "garden",
+    "action"
+  ],
+  "timeCreated": 1722041760
+}

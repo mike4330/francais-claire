@@ -1,0 +1,23 @@
+{
+  "id": 2643,
+  "audioText": "Mon carnet est plein d'idées créatives développées au fond de mon esprit.",
+  "question": "What is the speaker's notebook full of?",
+  "questionType": "comprehension",
+  "options": [
+    "Creative ideas developed deep in their mind",
+    "Important business contacts and numbers",
+    "Daily tasks and urgent reminders",
+    "Financial calculations and budgets"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says '<em>Mon carnet est plein d'idées créatives développées au fond de mon esprit</em>' - My notebook is full of creative ideas developed deep in my mind. 'Plein' means 'full', 'fond' means 'depth/deep part'.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": [
+    "creativity",
+    "writing",
+    "thoughts"
+  ],
+  "timeCreated": 1720443120,
+  "verified": "claude"
+}

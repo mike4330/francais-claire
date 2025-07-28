@@ -1,18 +1,23 @@
 {
   "id": 2718,
-  "audioText": "Idem pour les autres participants qui ont exprimé des opinions similaires lors du débat.",
-  "question": "______ pour les autres participants qui ont exprimé des opinions similaires.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Cette sorte de chef cuisine étrangement avec des épices dans ses recettes traditionnelles.",
+  "question": "How does this type of chef cook?",
+  "questionType": "comprehension",
   "options": [
-    "Pareil",
-    "Aussi",
-    "Idem",
-    "Même"
+    "Strangely with spices in traditional recipes",
+    "Carefully with fresh herbs and vegetables",
+    "Quickly with modern cooking techniques",
+    "Slowly with expensive imported ingredients"
   ],
-  "correct": 2,
-  "explanation": "The correct answer is 'idem' - a Latin term used in French meaning 'the same' or 'likewise'. It's commonly used in formal contexts to indicate that the same applies to other cases. The complete text is '<em>Idem pour les autres participants qui ont exprimé des opinions similaires lors du débat</em>' - Same for the other participants who expressed similar opinions during the debate.",
-  "difficulty": "B2",
-  "source": "claude",
-  "tags": ["formal-discussion", "politics", "comparison"],
-  "timeCreated": 1721988480
+  "correct": 0,
+  "explanation": "The text states '<em>Cette sorte de chef cuisine étrangement avec des épices dans ses recettes traditionnelles</em>' - This type of chef cooks strangely with spices in their traditional recipes. 'Sorte' means 'type/kind', 'étrangement' means 'strangely', 'épices' means 'spices'.",
+  "difficulty": "B1",
+  "source": "Traditional cuisine",
+  "tags": [
+    "food",
+    "tradition",
+    "cooking"
+  ],
+  "timeCreated": 1720443420,
+  "verified": "claude"
 }

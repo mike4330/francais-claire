@@ -1,0 +1,22 @@
+{
+  "id": 2596,
+  "audioText": "Cette maison abandonnée depuis vingt ans cache aimablement ses secrets dans chaque pièce poussiéreuse.",
+  "question": "How does the abandoned house hide its secrets?",
+  "questionType": "comprehension",
+  "options": [
+    "Mysteriously and darkly",
+    "Kindly and gently",
+    "Completely and totally",
+    "Carefully and deliberately"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Cette maison abandonnée depuis vingt ans cache aimablement ses secrets dans chaque pièce poussiéreuse</em>' - This house abandoned for twenty years kindly hides its secrets in each dusty room. The adverb 'aimablement' (kindly) personifies the house in a gentle way.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "architecture",
+    "mystery",
+    "time"
+  ],
+  "timeCreated": 1722041760
+}

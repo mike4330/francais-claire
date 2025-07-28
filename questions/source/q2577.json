@@ -1,0 +1,22 @@
+{
+  "id": 2577,
+  "audioText": "Il faut aller à la banque avant midi pour retirer de l'argent au distributeur automatique.",
+  "question": "Why does someone need to go to the bank?",
+  "questionType": "comprehension",
+  "options": [
+    "To meet with a financial advisor",
+    "To withdraw money from the ATM",
+    "To open a new savings account",
+    "To apply for a business loan"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il faut aller à la banque avant midi pour retirer de l'argent au distributeur automatique</em>' - One must go to the bank before noon to withdraw money from the ATM. The noun 'banque' means 'bank'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": [
+    "banking",
+    "daily-life",
+    "money"
+  ],
+  "timeCreated": 1721988480
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2587,
+  "audioText": "Elle répond respectivement aux questions des journalistes selon leur ordre d'arrivée.",
+  "question": "Elle répond ______ aux questions des journalistes selon leur ordre d'arrivée.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "respectivement",
+  "acceptedAnswers": [
+    "respectivement",
+    "Respectivement"
+  ],
+  "explanation": "The correct word is 'respectivement' (respectively) - an adverb indicating she answers in corresponding order. The complete text is '<em>Elle répond respectivement aux questions des journalistes selon leur ordre d'arrivée</em>' - She answers the journalists' questions respectively according to their order of arrival.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "media-coverage",
+    "formal-communication",
+    "order"
+  ],
+  "timeCreated": 1721988480
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2590,
+  "audioText": "Dépêche-toi de finir tes devoirs avant que papa arrive à la maison ce soir.",
+  "question": "What is the speaker asking someone to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Take your time with homework",
+    "Hurry up and finish homework",
+    "Wait for dad to help with homework",
+    "Start working on homework now"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Dépêche-toi de finir tes devoirs avant que papa arrive à la maison ce soir</em>' - Hurry up and finish your homework before dad gets home tonight. The verb 'dépêche-toi' (hurry up) indicates urgency.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": [
+    "family",
+    "education",
+    "urgency"
+  ],
+  "timeCreated": 1722041760
+}

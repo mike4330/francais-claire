@@ -1,0 +1,24 @@
+{
+  "id": 2628,
+  "audioText": "Ce cœur brisé avait spécialement besoin de temps et de patience pour guérir complètement de cette peine profonde.",
+  "question": "What did the broken heart especially need?",
+  "questionType": "comprehension",
+  "options": [
+    "Time and patience to heal completely",
+    "Immediate medical intervention",
+    "Complete isolation from others",
+    "Aggressive therapeutic treatment"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce cœur brisé avait spécialement besoin de temps et de patience pour guérir complètement de cette peine profonde</em>' - This broken heart especially needed time and patience to heal completely from this deep pain. 'Spécialement' means especially/particularly, 'cœur' means heart, and 'peine' means pain/sorrow.",
+  "difficulty": "B2",
+  "source": "Emotional healing and recovery from heartbreak",
+  "tags": [
+    "emotions",
+    "healing",
+    "heartbreak",
+    "recovery"
+  ],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2633,
+  "audioText": "Il semble fortement impossible que cette politique de privatisation des services publics puisse réellement bénéficier aux citoyens ordinaires.",
+  "question": "What seems strongly impossible according to the text?",
+  "questionType": "comprehension",
+  "options": [
+    "That privatization policy could truly benefit ordinary citizens",
+    "That public services should remain under government control",
+    "That privatization always improves service quality significantly",
+    "That citizens want more government involvement in services"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il semble fortement impossible que cette politique de privatisation des services publics puisse réellement bénéficier aux citoyens ordinaires</em>' - It seems strongly impossible that this public service privatization policy could really benefit ordinary citizens. 'Fortement' means strongly/heavily, 'impossible' means impossible, and the text expresses skepticism about privatization benefits.",
+  "difficulty": "B2",
+  "source": "Public service privatization policy critique",
+  "tags": [
+    "privatization",
+    "politics",
+    "public-services",
+    "policy"
+  ],
+  "timeCreated": 1720076400,
+  "verified": "claude"
+}

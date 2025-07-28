@@ -1,0 +1,24 @@
+{
+  "id": 2621,
+  "audioText": "Cet homme bas et drôlement silencieux observait discrètement chaque détail du comportement suspect de ses collègues.",
+  "question": "How was the man observing his colleagues?",
+  "questionType": "comprehension",
+  "options": [
+    "Discretely and strangely quietly",
+    "Openly and very loudly",
+    "Carelessly and without attention",
+    "Aggressively and confrontationally"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet homme bas et drôlement silencieux observait discrètement chaque détail du comportement suspect</em>' - This short and strangely quiet man was discretely observing every detail of his colleagues' suspicious behavior. 'Homme' means man, 'bas' means short/low, and 'drôlement' means strangely/weirdly.",
+  "difficulty": "B2",
+  "source": "Workplace observation and surveillance",
+  "tags": [
+    "workplace",
+    "observation",
+    "suspicion",
+    "behavior"
+  ],
+  "timeCreated": 1720076400,
+  "verified": "claude"
+}

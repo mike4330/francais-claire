@@ -1,0 +1,22 @@
+{
+  "id": 2585,
+  "audioText": "Idem pour les autres participants qui ont exprimé des opinions similaires lors du débat.",
+  "question": "______ pour les autres participants qui ont exprimé des opinions similaires.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Pareil",
+    "Aussi",
+    "Idem",
+    "Même"
+  ],
+  "correct": 2,
+  "explanation": "The correct answer is 'idem' - a Latin term used in French meaning 'the same' or 'likewise'. It's commonly used in formal contexts to indicate that the same applies to other cases. The complete text is '<em>Idem pour les autres participants qui ont exprimé des opinions similaires lors du débat</em>' - Same for the other participants who expressed similar opinions during the debate.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "formal-discussion",
+    "politics",
+    "comparison"
+  ],
+  "timeCreated": 1721988480
+}

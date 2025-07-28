@@ -1,0 +1,23 @@
+{
+  "id": 2610,
+  "audioText": "Le secouriste n'était pas sûr que ce corps blessé attendrait effectivement l'arrivée de l'ambulance sans complications.",
+  "question": "What was the first responder unsure about?",
+  "questionType": "comprehension",
+  "options": [
+    "Whether the injured person would wait without complications",
+    "How to perform CPR correctly",
+    "Which hospital to call",
+    "Where to find medical supplies"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le secouriste n'était pas sûr que ce corps blessé attendrait effectivement l'arrivée de l'ambulance sans complications</em>' - The first responder wasn't sure that this injured body would effectively wait for the ambulance's arrival without complications. 'Corps' means body, 'sûr' means sure, 'attendrait' is conditional of attendre (to wait), and 'effectivement' means effectively.",
+  "difficulty": "B2",
+  "source": "Emergency response and first-aid assessment",
+  "tags": [
+    "first-aid",
+    "emergency",
+    "medical"
+  ],
+  "timeCreated": 1751788400,
+  "verified": "claude"
+}

@@ -1,15 +1,24 @@
 {
   "id": 2725,
-  "audioText": "Il travaille méthodiquement sur chaque détail du projet pour garantir sa réussite.",
-  "question": "Il travaille ______ sur chaque détail du projet.",
-  "questionType": "writing",
-  "options": [],
+  "audioText": "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
+    "Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique économique française.",
+    "Le journaliste a annoncé la retraite de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française.",
+    "Le journaliste a critiqué l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française."
+  ],
   "correct": 0,
-  "correctAnswer": "méthodiquement",
-  "acceptedAnswers": ["méthodiquement", "Méthodiquement"],
-  "explanation": "The correct word is 'méthodiquement' (methodically) - an adverb describing how he works systematically on each detail. The complete text is '<em>Il travaille méthodiquement sur chaque détail du projet pour garantir sa réussite</em>' - He works methodically on each detail of the project to guarantee its success.",
+  "explanation": "The text states '<em>Le journaliste a annoncé la mort de l'ancien ministre avec respect, soulignant ses contributions importantes à la politique environnementale française</em>' - The journalist announced the death of the former minister with respect, highlighting his important contributions to French environmental policy.",
   "difficulty": "B2",
-  "source": "claude",
-  "tags": ["business", "methodology", "precision"],
-  "timeCreated": 1721988480
+  "source": "Political News and Obituary",
+  "tags": [
+    "news",
+    "politics",
+    "journalism",
+    "obituary"
+  ],
+  "timeCreated": 1720134000,
+  "verified": "claude"
 }
