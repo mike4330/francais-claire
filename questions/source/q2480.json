@@ -1,0 +1,24 @@
+{
+  "id": 2480,
+  "audioText": "Il faut qu'il me rende ma clé avant de partir en vacances seul.",
+  "question": "Il faut qu'il me ______ ma clé avant de partir en vacances seul.",
+  "questionType": "FIB-reading",
+  "options": [
+    "rende",
+    "rend",
+    "rendu",
+    "rendait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il faut qu'il me rende ma clé avant de partir en vacances seul</em>' - He must return my key to me before going on vacation alone. After 'il faut que', we must use the subjunctive mood. 'Rende' is the third person singular subjunctive of 'rendre' (to return/give back), targeting missing subjunctive conjugate with solitude theme.",
+  "difficulty": "B2",
+  "source": "Vacation preparation",
+  "tags": [
+    "solitude",
+    "house-layout",
+    "travel",
+    "keys"
+  ],
+  "timeCreated": 1736104440,
+  "verified": "claude"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2418,
+  "audioText": "Il parie passablement sur cette course de chevaux en mangeant de la viande.",
+  "question": "Il ______ passablement sur cette course de chevaux en mangeant de la viande.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "parie",
+  "acceptedAnswers": ["parie", "Parie"],
+  "explanation": "The correct form is 'parie' (bets) - third person singular present of 'parier'. The complete text is '<em>Il parie passablement sur cette course de chevaux en mangeant de la viande</em>' - He bets reasonably on this horse race while eating meat. This targets verb 'parie' with adverb 'passablement' (reasonably) and noun 'viande' (meat).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["betting", "horses", "food"],
+  "timeCreated": 1722042000
+}

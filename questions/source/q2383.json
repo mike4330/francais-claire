@@ -1,0 +1,18 @@
+{
+  "id": 2383,
+  "audioText": "Quel dommage que tu n'oses pas attrapez cette opportunité professionnelle unique!",
+  "question": "Quel ______ que tu n'oses pas attrapez cette opportunité professionnelle unique!",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "dommage",
+    "bonheur",
+    "plaisir",
+    "succès"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'dommage' (shame/pity) - expressing regret about a missed opportunity. The complete text is '<em>Quel dommage que tu n'oses pas attraper cette opportunité professionnelle unique!</em>' - What a shame that you don't dare to grab this unique professional opportunity! This targets noun 'dommage' (damage/shame) and missing verbs 'oses' and 'attrapez'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["opportunity", "regret", "career"],
+  "timeCreated": 1722041760
+}

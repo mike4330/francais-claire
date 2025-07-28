@@ -1,0 +1,18 @@
+{
+  "id": 2406,
+  "audioText": "Cette soirée virée en catastrophe nous a tous marqués profondément.",
+  "question": "What effect did this evening have on everyone?",
+  "questionType": "comprehension",
+  "options": [
+    "This evening that turned into a disaster marked everyone deeply",
+    "This pleasant evening created wonderful memories for all",
+    "This boring evening was quickly forgotten by everyone",
+    "This successful evening exceeded all expectations"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette soirée virée en catastrophe nous a tous marqués profondément</em>' - This evening that turned into a disaster marked us all deeply. The past participle 'virée' (turned) describes a dramatic change of events.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["disaster", "memory", "impact"],
+  "timeCreated": 1722041940
+}

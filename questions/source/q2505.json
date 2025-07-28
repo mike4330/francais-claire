@@ -1,0 +1,18 @@
+{
+  "id": 2505,
+  "audioText": "Ce poisson frais nage gracieusement dans l'aquarium transparent du restaurant élégant.",
+  "question": "Ce ______ frais nage gracieusement dans l'aquarium transparent du restaurant élégant.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "poisson",
+    "canard",
+    "oiseau",
+    "chat"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'poisson' (fish) - an aquatic animal swimming in water. The complete text is '<em>Ce poisson frais nage gracieusement dans l'aquarium transparent du restaurant élégant</em>' - This fresh fish swims gracefully in the transparent aquarium of the elegant restaurant. The noun 'poisson' with adverb 'gracieusement' (gracefully) describes live seafood display in upscale dining.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["food", "restaurant", "seafood"],
+  "timeCreated": 1722179820
+}

@@ -1,0 +1,18 @@
+{
+  "id": 180,
+  "audioText": "Le médecin parle du sexe et de la santé avec ses patients.",
+  "question": "What does the doctor discuss with patients?",
+  "questionType": "comprehension",
+  "options": [
+    "Only their work problems",
+    "Sex and health topics",
+    "Their family relationships",
+    "Their financial concerns"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Le médecin parle du sexe et de la santé avec ses patients</em>' - The doctor talks about sex and health with his patients. The noun 'sexe' (sex) is discussed in a medical context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["health", "medical-consultation", "education"],
+  "timeCreated": 1722041760
+}

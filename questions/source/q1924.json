@@ -1,0 +1,18 @@
+{
+  "id": 1924,
+  "audioText": "Cette machine industrielle détruis complètement tous les anciens volumes de documentation technique chaque semaine.",
+  "question": "Cette machine industrielle ______ complètement tous les anciens volumes de documentation.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "conserve",
+    "détruis",
+    "organise",
+    "transporte"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'détruis' (destroys) - present tense 'je/tu' form of 'détruire'. The complete text is '<em>Cette machine industrielle détruis complètement tous les anciens volumes de documentation technique chaque semaine</em>' - This industrial machine completely destroys all the old volumes of technical documentation each week. This targets under-represented topic 'volume'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["technology", "documentation", "volume"],
+  "timeCreated": 1722041760
+}

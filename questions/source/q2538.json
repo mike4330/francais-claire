@@ -1,0 +1,23 @@
+{
+  "id": 2538,
+  "audioText": "Elle revenait souvent sur ses pas, se sentant plutôt triste après chaque dispute avec son ami. Le silence qui s'installait entre eux était lourd, et elle se demandait si leur relation, autrefois si claire, ne devenait pas de plus en plus complexe, teintée d'une mélancolie persistante.",
+  "question": "What is the woman's emotional state after arguments with her friend?",
+  "questionType": "comprehension",
+  "options": [
+    "She feels happy and relieved.",
+    "She feels rather sad and reflective.",
+    "She is angry and resentful.",
+    "She is indifferent to the situation."
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Elle revenait souvent sur ses pas, se sentant plutôt triste après chaque dispute avec son ami. Le silence qui s'installait entre eux était lourd, et elle se demandait si leur relation, autrefois si claire, ne devenait pas de plus en plus complexe, teintée d'une mélancolie persistante.</em>' - She often retraced her steps, feeling rather sad after each argument with her friend. The silence that settled between them was heavy, and she wondered if their relationship, once so clear, was not becoming increasingly complex, tinged with a persistent melancholy. Key phrases include 'plutôt triste' (rather sad) and 'mélancolie persistante' (persistent melancholy).",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "interpersonal-relationships",
+    "emotions",
+    "friendship"
+  ],
+  "timeCreated": 1720176000,
+  "verified": "claude"
+}

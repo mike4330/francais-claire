@@ -1,0 +1,18 @@
+{
+  "id": 2522,
+  "audioText": "Cet homme solitaire marche silencieusement le long de la plage déserte chaque soir.",
+  "question": "How does this solitary man walk along the deserted beach each evening?",
+  "questionType": "comprehension",
+  "options": [
+    "Silently and quietly",
+    "Loudly and energetically",
+    "Quickly and impatiently",
+    "Randomly and unpredictably"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet homme solitaire marche silencieusement le long de la plage déserte chaque soir</em>' - This solitary man walks silently along the deserted beach each evening. The adjective 'solitaire' (solitary) with adverb 'silencieusement' (silently) describes lonely contemplative walks.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["solitude", "beach", "evening"],
+  "timeCreated": 1722182700
+}

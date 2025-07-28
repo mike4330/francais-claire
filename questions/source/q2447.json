@@ -1,0 +1,23 @@
+{
+  "id": 2447,
+  "audioText": "Mes nouveaux voisins sont vraiment sympas. Ils tiennent toujours la porte et proposent leur aide quand ils voient que j'ai les bras chargés. C'est un geste de courtoisie simple mais appréciable.",
+  "question": "How do the new neighbors show courtesy?",
+  "questionType": "comprehension",
+  "options": [
+    "They play loud music",
+    "They ignore the speaker",
+    "They hold the door and offer help",
+    "They ask for favors"
+  ],
+  "correct": 2,
+  "explanation": "The text states '<em>Mes nouveaux voisins sont vraiment sympas. Ils tiennent toujours la porte et proposent leur aide quand ils voient que j'ai les bras chargés. C'est un geste de courtoisie simple mais appréciable.</em>' - My new neighbors are really nice. They always hold the door and offer their help when they see that my arms are loaded. It's a simple but appreciable gesture of courtesy. The text mentions 'Ils tiennent toujours la porte' (They always hold the door), using the verb 'tiennent' (from 'tenir'). It also describes them as 'sympas' (nice).",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": [
+    "courtesy",
+    "neighbors",
+    "daily-life"
+  ],
+  "timeCreated": 1720181354,
+  "verified": "claude"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2460,
+  "audioText": "Si tu me rends ce livre maintenant, je pourrai le prêter à ma sœur demain matin.",
+  "question": "What happens if the person returns the book now?",
+  "questionType": "comprehension",
+  "options": [
+    "The speaker can lend it to their sister tomorrow morning",
+    "The book will be returned to the library",
+    "The speaker will read it tonight",
+    "The sister will have to wait until next week"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Si tu me rends ce livre maintenant, je pourrai le prêter à ma sœur demain matin</em>' - If you return this book to me now, I will be able to lend it to my sister tomorrow morning. 'Rends' is the second person singular form of 'rendre' (to return/give back).",
+  "difficulty": "B1",
+  "source": "Family conversation",
+  "tags": [
+    "family",
+    "books",
+    "sharing"
+  ],
+  "timeCreated": 1704414000,
+  "verified": "claude"
+}

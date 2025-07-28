@@ -1,0 +1,18 @@
+{
+  "id": 2391,
+  "audioText": "Vous rejoignez cette réel équipe de recherche pour étudier les phénomènes climatiques.",
+  "question": "Vous ______ cette réel équipe de recherche pour étudier les phénomènes climatiques.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rejoignez",
+    "quittez",
+    "évitez",
+    "ignorez"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'rejoignez' (join) - second person plural present of 'rejoindre'. The complete text is '<em>Vous rejoignez cette réelle équipe de recherche pour étudier les phénomènes climatiques</em>' - You join this real research team to study climate phenomena. This targets verb 'rejoignez' and adjective 'réel' (real).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["research", "climate", "teamwork"],
+  "timeCreated": 1722041760
+}

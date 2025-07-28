@@ -1,0 +1,18 @@
+{
+  "id": 2494,
+  "audioText": "Ces couples baisent passionnément sous les étoiles brillantes de la nuit romantique.",
+  "question": "Ces couples ______ passionnément sous les étoiles brillantes de la nuit romantique.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "baisent",
+    "dansent",
+    "parlent",
+    "marchent"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'baisent' (kiss) - third person plural present of 'baiser'. The complete text is '<em>Ces couples baisent passionnément sous les étoiles brillantes de la nuit romantique</em>' - These couples kiss passionately under the bright stars of the romantic night. This targets verb 'baisent' in a romantic stargazing context.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["romance", "affection", "night"],
+  "timeCreated": 1722042240
+}

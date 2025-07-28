@@ -1,0 +1,18 @@
+{
+  "id": 2424,
+  "audioText": "Il ressent une aise parfaite dans cette nouvelle situation professionnelle confortable.",
+  "question": "Il ressent une ______ parfaite dans cette nouvelle situation professionnelle confortable.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "aise",
+    "gêne",
+    "angoisse",
+    "fatigue"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'aise' (ease/comfort) - a noun describing physical or emotional comfort. The complete text is '<em>Il ressent une aise parfaite dans cette nouvelle situation professionnelle confortable</em>' - He feels perfect ease in this new comfortable professional situation. This targets noun 'aise' (ease) in a positive work context.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["comfort", "adaptation", "work"],
+  "timeCreated": 1722042120
+}

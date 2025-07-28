@@ -1,0 +1,18 @@
+{
+  "id": 2398,
+  "audioText": "La presse locale souhaite interviewer le maire concernant les récents développements urbains.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "La presse locale souhaite interviewer le maire concernant les récents développements urbains",
+    "La presse locale souhaite rencontrer le maire concernant les récents développements urbains",
+    "La presse locale souhaite questionner le maire concernant les récents développements urbains",
+    "La presse locale souhaite consulter le maire concernant les récents développements urbains"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La presse locale souhaite interviewer le maire concernant les récents développements urbains</em>' - The local press wants to interview the mayor about recent urban developments. The noun 'presse' (press) and verb 'souhaite' (wants/wishes) describe media interest.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["media", "politics", "urban-development"],
+  "timeCreated": 1722041880
+}

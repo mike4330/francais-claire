@@ -1,0 +1,18 @@
+{
+  "id": 2509,
+  "audioText": "Le chasseur nettoie soigneusement son fusil après chaque sortie en forêt.",
+  "question": "What does the hunter do carefully after each forest outing?",
+  "questionType": "comprehension",
+  "options": [
+    "Cleans his rifle carefully",
+    "Stores his equipment randomly",
+    "Checks his boots quickly",
+    "Counts his supplies roughly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le chasseur nettoie soigneusement son fusil après chaque sortie en forêt</em>' - The hunter carefully cleans his rifle after each forest outing. The noun 'fusil' (rifle) with adverb 'soigneusement' (carefully) describes hunting equipment maintenance.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["hunting", "equipment", "maintenance"],
+  "timeCreated": 1722180540
+}

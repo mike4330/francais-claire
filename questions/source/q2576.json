@@ -1,0 +1,22 @@
+{
+  "id": 2576,
+  "audioText": "Elle parle affectueusement à sa grand-mère au téléphone chaque dimanche pour maintenir le lien familial.",
+  "question": "How does she speak to her grandmother?",
+  "questionType": "comprehension",
+  "options": [
+    "Formally and distantly",
+    "Affectionately and warmly",
+    "Quickly and impatiently",
+    "Loudly and clearly"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Elle parle affectueusement à sa grand-mère au téléphone chaque dimanche pour maintenir le lien familial</em>' - She speaks affectionately to her grandmother on the phone every Sunday to maintain the family bond. The adverb 'affectueusement' (affectionately) was missing from the lemma coverage.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": [
+    "family",
+    "communication",
+    "emotions"
+  ],
+  "timeCreated": 1721988480
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2521,
+  "audioText": "Cette conversation intime révèle délicatement les sentiments profonds cachés depuis longtemps.",
+  "question": "How does this intimate conversation reveal deep hidden feelings?",
+  "questionType": "comprehension",
+  "options": [
+    "Delicately and sensitively",
+    "Harshly and brutally",
+    "Quickly and carelessly",
+    "Loudly and publicly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette conversation intime révèle délicatement les sentiments profonds cachés depuis longtemps</em>' - This intimate conversation delicately reveals deep feelings hidden for a long time. The adjective 'intime' (intimate) with adverb 'délicatement' (delicately) describes sensitive emotional disclosure.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["emotions", "conversation", "intimacy"],
+  "timeCreated": 1722182580
+}

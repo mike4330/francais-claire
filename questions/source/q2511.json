@@ -1,0 +1,18 @@
+{
+  "id": 2511,
+  "audioText": "La consommation excessive d'alcool nuit gravement à la santé physique et mentale.",
+  "question": "La consommation excessive d'______ nuit gravement à la santé physique et mentale.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "alcool",
+    "sucre",
+    "café",
+    "eau"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'alcool' (alcohol) - a substance that can be harmful when consumed excessively. The complete text is '<em>La consommation excessive d'alcool nuit gravement à la santé physique et mentale</em>' - Excessive consumption of alcohol seriously harms physical and mental health. This targets the noun 'alcool' with adverb 'gravement' (seriously) in health context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["health", "substance", "warning"],
+  "timeCreated": 1722180840
+}

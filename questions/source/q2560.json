@@ -1,0 +1,24 @@
+{
+  "id": 2560,
+  "audioText": "Cette histoire drôle que nous entendons souvent fait toujours rire aux éclats.",
+  "question": "Cette histoire ______ que nous entendons souvent fait toujours rire aux éclats.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "drôle",
+    "amusante",
+    "comique",
+    "marrante"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette histoire drôle que nous entendons souvent fait toujours rire aux éclats</em>' - This funny story that we often hear always makes us burst out laughing. 'Drôle' means 'funny' and 'entendons' is the first person plural of 'entendre' (to hear).",
+  "difficulty": "B1",
+  "source": "Storytelling humor",
+  "tags": [
+    "humor",
+    "frequency",
+    "entertainment",
+    "laughter"
+  ],
+  "timeCreated": 1736106720,
+  "verified": "claude"
+}

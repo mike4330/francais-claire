@@ -1,0 +1,18 @@
+{
+  "id": 2415,
+  "audioText": "Elle lui parle affectueusement en tenant son cerveau blessé dans ses mains délicates.",
+  "question": "How does she speak to him?",
+  "questionType": "comprehension",
+  "options": [
+    "Affectionately while holding his injured brain in her delicate hands",
+    "Angrily while examining his head injury carefully",
+    "Quietly while treating his minor head wound",
+    "Professionally while diagnosing his condition"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle lui parle affectueusement en tenant son cerveau blessé dans ses mains délicates</em>' - She speaks to him affectionately while holding his injured brain in her delicate hands. The adverb 'affectueusement' (affectionately) and noun 'cerveau' (brain) with verb 'blessé' (injured) describe tender care.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["care", "injury", "tenderness"],
+  "timeCreated": 1722042000
+}

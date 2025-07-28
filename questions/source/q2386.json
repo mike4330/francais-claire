@@ -1,0 +1,15 @@
+{
+  "id": 2386,
+  "audioText": "Cet étranger fichez ses documents dans le bureau d'immigration pour obtenir son permis de séjour.",
+  "question": "Cet ______ fichez ses documents dans le bureau d'immigration pour obtenir son permis de séjour.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "étranger",
+  "acceptedAnswers": ["étranger", "Étranger"],
+  "explanation": "The correct word is 'étranger' (foreigner/stranger) - person from another country. The complete text is '<em>Cet étranger fiche ses documents dans le bureau d'immigration pour obtenir son permis de séjour</em>' - This foreigner files his documents at the immigration office to get his residence permit. This targets adjective/noun 'étranger' and missing verb 'fichez'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["immigration", "bureaucracy", "documents"],
+  "timeCreated": 1722041760
+}

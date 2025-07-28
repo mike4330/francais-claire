@@ -1,0 +1,24 @@
+{
+  "id": 2482,
+  "audioText": "Quand j'étais jeune, je vivais dehors presque tout l'été avec mes amis du quartier.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Quand j'étais jeune, je vivais dehors presque tout l'été avec mes amis du quartier.",
+    "Quand j'étais jeune, je restais dehors presque tout l'été avec mes amis du quartier.",
+    "Quand j'étais jeune, je vivais dehors presque tout l'hiver avec mes amis du quartier.",
+    "Quand j'étais jeune, je vivais dedans presque tout l'été avec mes amis du quartier."
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is '<em>Quand j'étais jeune, je vivais dehors presque tout l'été avec mes amis du quartier</em>' - When I was young, I lived outside almost all summer with my neighborhood friends. 'Vivais' is the imperfect form of 'vivre' (to live).",
+  "difficulty": "B1",
+  "source": "Childhood memories",
+  "tags": [
+    "outdoor",
+    "student-life",
+    "childhood",
+    "friends"
+  ],
+  "timeCreated": 1736104560,
+  "verified": "claude"
+}

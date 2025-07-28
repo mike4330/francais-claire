@@ -1,0 +1,23 @@
+{
+  "id": 2466,
+  "audioText": "Cette entreprise travaille uniquement avec des fournisseurs locaux pour réduire son empreinte carbone.",
+  "question": "How does this company source its suppliers?",
+  "questionType": "comprehension",
+  "options": [
+    "It works exclusively with local suppliers",
+    "It partners with international suppliers only",
+    "It uses a mix of local and international suppliers",
+    "It changes suppliers frequently based on cost"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette entreprise travaille uniquement avec des fournisseurs locaux pour réduire son empreinte carbone</em>' - This company works exclusively with local suppliers to reduce its carbon footprint. 'Uniquement' means exclusively or only.",
+  "difficulty": "B2",
+  "source": "Business sustainability",
+  "tags": [
+    "business",
+    "sustainability",
+    "environment"
+  ],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

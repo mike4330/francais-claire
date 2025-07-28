@@ -1,0 +1,24 @@
+{
+  "id": 2530,
+  "audioText": "Désolé, nous finissons toujours nos réunions de département très tard le vendredi soir.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Désolé, nous finissons toujours nos réunions de département très tard le vendredi soir.",
+    "Désolé, nous finissons toujours nos réunions de département très tard le jeudi soir.",
+    "Désolé, nous commençons toujours nos réunions de département très tard le vendredi soir.",
+    "Désolé, nous finissons toujours nos réunions d'étudiant très tard le vendredi soir."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Désolé, nous finissons toujours nos réunions de département très tard le vendredi soir</em>' - Sorry, we always finish our department meetings very late on Friday evening. 'Finissons' is the present form of 'finir' (to finish) with 'nous', targeting missing verb conjugate with departure/meeting themes. The distractors test day confusion (jeudi), verb confusion (commençons), and meeting type confusion (étudiant).",
+  "difficulty": "B1",
+  "source": "Department schedule",
+  "tags": [
+    "departure",
+    "workplace",
+    "meetings",
+    "schedule"
+  ],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2379,
+  "audioText": "Le médecin m'a obligé à faire cette opération délicate pour ma santé.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le médecin m'a obligé à faire cette opération délicate pour ma santé",
+    "Le médecin m'a conseillé de faire cette opération délicate pour ma santé",
+    "Le médecin m'a proposé de faire cette opération délicate pour ma santé",
+    "Le médecin m'a permis de faire cette opération délicate pour ma santé"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le médecin m'a obligé à faire cette opération délicate pour ma santé</em>' - The doctor forced me to have this delicate operation for my health. The past participle 'obligé' (forced/obliged) and the noun 'opération' (operation) describe medical necessity.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["health", "medical-advice", "necessity"],
+  "timeCreated": 1722041760
+}

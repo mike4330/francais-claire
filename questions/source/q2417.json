@@ -1,0 +1,18 @@
+{
+  "id": 2417,
+  "audioText": "Cette nouvelle technologie a démesurément amélioré la hauteur de nos performances.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette nouvelle technologie a démesurément amélioré la hauteur de nos performances",
+    "Cette nouvelle technologie a considérablement amélioré la hauteur de nos performances",
+    "Cette nouvelle technologie a démesurément amélioré la qualité de nos performances",
+    "Cette nouvelle technologie a démesurément diminué la hauteur de nos performances"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette nouvelle technologie a démesurément amélioré la hauteur de nos performances</em>' - This new technology has excessively improved the height of our performances. The adverb 'démesurément' (excessively/immeasurably) and noun 'hauteur' (height) describe dramatic improvement.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["technology", "improvement", "performance"],
+  "timeCreated": 1722042000
+}

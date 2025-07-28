@@ -1,0 +1,18 @@
+{
+  "id": 2393,
+  "audioText": "Ces systèmes informatiques attaqués par des virus lointain causent des pertes financières importantes.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Ces systèmes informatiques attaqués par des virus lointains causent des pertes financières importantes",
+    "Ces systèmes informatiques attaqués par des virus locaux causent des pertes financières importantes", 
+    "Ces systèmes informatiques attaqués par des virus récents causent des pertes financières importantes",
+    "Ces systèmes informatiques attaqués par des virus connus causent des pertes financières importantes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces systèmes informatiques attaqués par des virus lointains causent des pertes financières importantes</em>' - These computer systems attacked by distant viruses cause significant financial losses. The past participle 'attaqués' (attacked) and adjective 'lointain' (distant) describe cyber security threats.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["technology", "security", "finance"],
+  "timeCreated": 1722041760
+}

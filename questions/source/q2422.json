@@ -1,0 +1,15 @@
+{
+  "id": 2422,
+  "audioText": "Cet ennui constant vire vers la dépression selon le psychologue expérimenté.",
+  "question": "Cet ______ constant vire vers la dépression selon le psychologue expérimenté.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "ennui",
+  "acceptedAnswers": ["ennui", "Ennui"],
+  "explanation": "The correct answer is 'ennui' (boredom) - a noun describing persistent lack of interest. The complete text is '<em>Cet ennui constant vire vers la dépression selon le psychologue expérimenté</em>' - This constant boredom turns toward depression according to the experienced psychologist. This targets noun 'ennui' (boredom) and verb 'vire' (turns/shifts).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["emotions", "psychology", "health"],
+  "timeCreated": 1722042120
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1748,
+  "audioText": "Cette publicité controversée sur la lune et les rêves a créé beaucoup de discussions dans les médias.",
+  "question": "What did the controversial advertisement create?",
+  "questionType": "comprehension",
+  "options": [
+    "Confusion among customers",
+    "Many discussions in the media",
+    "Legal problems for the company",
+    "Increased sales immediately"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Cette publicité controversée sur la lune et les rêves a créé beaucoup de discussions dans les médias</em>' - This controversial advertisement about the moon and dreams created many discussions in the media. This targets under-represented topics 'moon' and 'advertising'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["advertising", "moon", "media-coverage"],
+  "timeCreated": 1722041760
+}

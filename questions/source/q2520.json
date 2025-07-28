@@ -1,0 +1,18 @@
+{
+  "id": 2520,
+  "audioText": "Ce passage obscur révèle mystérieusement des secrets historiques fascinants cachés depuis des siècles.",
+  "question": "What does this obscure passage mysteriously reveal?",
+  "questionType": "comprehension",
+  "options": [
+    "Fascinating historical secrets hidden for centuries",
+    "Simple contemporary stories written recently",
+    "Basic geographical information clearly documented",
+    "Common knowledge readily available everywhere"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce passage obscur révèle mystérieusement des secrets historiques fascinants cachés depuis des siècles</em>' - This obscure passage mysteriously reveals fascinating historical secrets hidden for centuries. The adjective 'obscur' (obscure) with adverb 'mystérieusement' (mysteriously) describes hidden knowledge discovery.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["history", "mystery", "secrets"],
+  "timeCreated": 1722182220
+}

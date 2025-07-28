@@ -1,0 +1,18 @@
+{
+  "id": 2392,
+  "audioText": "Pourquoi abandonnez-vous ce projet blond si prometteur avant même d'explorer toutes les possibilités?",
+  "question": "What does the speaker question about the blonde project?",
+  "questionType": "comprehension",
+  "options": [
+    "Why abandon such a promising project before exploring all possibilities",
+    "How to improve the project's current performance metrics",
+    "When to schedule the next project review meeting",
+    "Where to find additional funding for continuation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Pourquoi abandonnez-vous ce projet blond si prometteur avant même d'explorer toutes les possibilités?</em>' - Why do you abandon this promising blonde project before even exploring all the possibilities? The verb 'abandonnez' (abandon) and adjective 'blond' describe giving up on potential.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["projects", "potential", "abandonment"],
+  "timeCreated": 1722041760
+}

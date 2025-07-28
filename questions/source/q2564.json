@@ -1,0 +1,24 @@
+{
+  "id": 2564,
+  "audioText": "Toutes les solutions pareilles qu'ils proposent ne conviennent guère aux besoins spécifiques du projet.",
+  "question": "Toutes les solutions ______ qu'ils proposent ne conviennent guère aux besoins spécifiques du projet.",
+  "questionType": "FIB-reading",
+  "options": [
+    "pareilles",
+    "identiques",
+    "similaires",
+    "uniformes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Toutes les solutions pareilles qu'ils proposent ne conviennent guère aux besoins spécifiques du projet</em>' - All the similar solutions they propose hardly suit the specific needs of the project. 'Pareilles' means 'similar/alike' and 'guère' means 'hardly/scarcely'.",
+  "difficulty": "B2",
+  "source": "Project planning",
+  "tags": [
+    "projects",
+    "solutions",
+    "specificity",
+    "adequacy"
+  ],
+  "timeCreated": 1736106960,
+  "verified": "claude"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2440,
+  "audioText": "Personnellement, je trouve que le mur blanc donne une impression d'espace et de lumière, mais le designer pense qu'une couleur plus audacieuse serait plus appropriée pour ce design.",
+  "question": "______, je trouve que le mur blanc donne une impression d'espace.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Objectivement",
+    "Généralement",
+    "Personnellement",
+    "Finalement"
+  ],
+  "correct": 2,
+  "explanation": "'<em>Personnellement, je trouve que le mur blanc donne une impression d'espace et de lumière</em>' - Personally, I find that the white wall gives an impression of space and light. The adverb 'Personnellement' (personally) introduces a personal opinion.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "design",
+    "opinion",
+    "interior-design"
+  ],
+  "timeCreated": 1720181351,
+  "verified": "claude"
+}

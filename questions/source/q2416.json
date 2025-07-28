@@ -1,0 +1,18 @@
+{
+  "id": 2416,
+  "audioText": "Le suspect défend farouchement sa queue de poisson grillé contre les accusations policières.",
+  "question": "Le suspect défend ______ sa queue de poisson grillé contre les accusations policières.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "farouchement",
+    "calmement",
+    "poliment",
+    "discrètement"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'farouchement' (fiercely) - an adverb meaning with fierce determination. The complete text is '<em>Le suspect défend farouchement sa queue de poisson grillé contre les accusations policières</em>' - The suspect fiercely defends his grilled fish tail against police accusations. This targets adverb 'farouchement' and includes nouns 'queue' (tail) and 'poisson' (fish).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["defense", "police", "food"],
+  "timeCreated": 1722042000
+}

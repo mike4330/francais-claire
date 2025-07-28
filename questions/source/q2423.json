@@ -1,0 +1,18 @@
+{
+  "id": 2423,
+  "audioText": "Elle parle avec une douceur remarquable à ses enfants troublés.",
+  "question": "How does she speak to her troubled children?",
+  "questionType": "comprehension",
+  "options": [
+    "With remarkable gentleness",
+    "With firm authority",
+    "With obvious irritation",
+    "With professional distance"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle parle avec une douceur remarquable à ses enfants troublés</em>' - She speaks with remarkable gentleness to her troubled children. The noun 'douceur' (gentleness/softness) describes tender maternal communication with distressed children.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["family", "children", "tenderness"],
+  "timeCreated": 1722042120
+}

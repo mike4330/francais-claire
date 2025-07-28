@@ -1,0 +1,15 @@
+{
+  "id": 1474,
+  "audioText": "Sa connaissance approfondie de la littérature française impressionne tous ses professeurs à l'université.",
+  "question": "Sa ______ approfondie de la littérature française impressionne tous ses professeurs.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "connaissance",
+  "acceptedAnswers": ["connaissance", "Connaissance"],
+  "explanation": "The correct word is 'connaissance' (knowledge) - understanding or awareness of a subject. The complete text is '<em>Sa connaissance approfondie de la littérature française impressionne tous ses professeurs à l'université</em>' - His deep knowledge of French literature impresses all his professors at the university.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["education", "literature", "academic-performance"],
+  "timeCreated": 1722041760
+}

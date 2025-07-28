@@ -1,0 +1,18 @@
+{
+  "id": 2518,
+  "audioText": "Les prisonniers politiques ont été finalement libérés après des années d'emprisonnement injuste.",
+  "question": "What happened to the political prisoners after years of unjust imprisonment?",
+  "questionType": "comprehension",
+  "options": [
+    "They were finally freed",
+    "They were transferred elsewhere",
+    "They were given longer sentences",
+    "They were placed under house arrest"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les prisonniers politiques ont été finalement libérés après des années d'emprisonnement injuste</em>' - The political prisoners were finally freed after years of unjust imprisonment. The verb 'libérés' (freed - past participle) with adverb 'finalement' (finally) describes justice and human rights victory.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["justice", "freedom", "politics"],
+  "timeCreated": 1722181860
+}

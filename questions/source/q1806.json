@@ -1,0 +1,15 @@
+{
+  "id": 1806,
+  "audioText": "Vous vérifiez toujours l'état de votre cerveau avant de prendre des décisions importantes dans la vie.",
+  "question": "Vous ______ toujours l'état de votre cerveau avant de prendre des décisions importantes.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "vérifiez",
+  "acceptedAnswers": ["vérifiez", "Vérifiez"],
+  "explanation": "The correct word is 'vérifiez' (verify/check) - the formal 'vous' form of 'vérifier'. The complete text is '<em>Vous vérifiez toujours l'état de votre cerveau avant de prendre des décisions importantes dans la vie</em>' - You always check the state of your brain before making important decisions in life. This includes the missing noun 'cerveau' (brain).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["decision-making", "health", "psychology"],
+  "timeCreated": 1722041760
+}

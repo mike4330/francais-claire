@@ -1,0 +1,18 @@
+{
+  "id": 2402,
+  "audioText": "Surveillez attentivement ce franc étroit qui pourrait facilement se perdre dans votre portefeuille.",
+  "question": "What should you watch carefully?",
+  "questionType": "comprehension",
+  "options": [
+    "A narrow franc that could easily get lost in your wallet",
+    "Your entire wallet and its contents",
+    "The exchange rate of the currency",
+    "The security of your payment method"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Surveillez attentivement ce franc étroit qui pourrait facilement se perdre dans votre portefeuille</em>' - Watch carefully this narrow franc that could easily get lost in your wallet. The verb 'surveillez' (watch/monitor) and noun 'franc' with adjective 'étroit' (narrow) describe careful money management.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["money", "attention", "loss-prevention"],
+  "timeCreated": 1722041940
+}

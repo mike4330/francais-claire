@@ -1,0 +1,23 @@
+{
+  "id": 2544,
+  "audioText": "Il ne comprend pas cette décision, pourtant elle semble logique aux autres collègues.",
+  "question": "Il ne comprend pas cette décision, ______ elle semble logique aux autres collègues.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pourtant",
+    "cependant",
+    "néanmoins",
+    "toutefois"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il ne comprend pas cette décision, pourtant elle semble logique aux autres collègues</em>' - He doesn't understand this decision, yet it seems logical to other colleagues. 'Pourtant' means 'yet/however' and introduces a contrast.",
+  "difficulty": "B1",
+  "source": "Workplace disagreement",
+  "tags": [
+    "disagreement",
+    "logic",
+    "contrast"
+  ],
+  "timeCreated": 1736105760,
+  "verified": "claude"
+}

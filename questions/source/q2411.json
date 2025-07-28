@@ -1,0 +1,18 @@
+{
+  "id": 2411,
+  "audioText": "Ce projet a été recommencé trois fois avant d'obtenir un résultat satisfaisant.",
+  "question": "Ce projet a été ______ trois fois avant d'obtenir un résultat satisfaisant.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "recommencé",
+    "abandonné",
+    "approuvé",
+    "terminé"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'recommencé' (restarted) - past participle of 'recommencer'. The complete text is '<em>Ce projet a été recommencé trois fois avant d'obtenir un résultat satisfaisant</em>' - This project was restarted three times before obtaining a satisfactory result. This targets verb 'recommencé' in a project management context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["project", "persistence", "improvement"],
+  "timeCreated": 1722041940
+}

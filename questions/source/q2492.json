@@ -1,0 +1,18 @@
+{
+  "id": 2492,
+  "audioText": "Tu répètes souvent cette phrase mystérieuse sans explication claire.",
+  "question": "What do you often do with this mysterious phrase?",
+  "questionType": "comprehension",
+  "options": [
+    "Repeat it without clear explanation",
+    "Write it down carefully in notes",
+    "Translate it into other languages",
+    "Forget it completely each time"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu répètes souvent cette phrase mystérieuse sans explication claire</em>' - You often repeat this mysterious phrase without clear explanation. The verb 'répètes' (repeat) describes habitual verbal behavior without clarification.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["repetition", "mystery", "communication"],
+  "timeCreated": 1722042240
+}

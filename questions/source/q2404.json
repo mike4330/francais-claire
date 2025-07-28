@@ -1,0 +1,18 @@
+{
+  "id": 2404,
+  "audioText": "Cette opération coûtera certainement plus cher que prévu initialement par les experts.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette opération coûtera certainement plus cher que prévu initialement par les experts",
+    "Cette opération coûtera certainement moins cher que prévu initialement par les experts",
+    "Cette opération coûtera probablement plus cher que prévu initialement par les experts",
+    "Cette opération coûtera certainement plus cher que prévu finalement par les experts"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette opération coûtera certainement plus cher que prévu initialement par les experts</em>' - This operation will certainly cost more than initially anticipated by the experts. The verb 'coûtera' (will cost) and noun 'opération' describe cost overruns.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["cost", "prediction", "expertise"],
+  "timeCreated": 1722041940
+}

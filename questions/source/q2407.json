@@ -1,0 +1,18 @@
+{
+  "id": 2407,
+  "audioText": "La femme attaquée par ce chien juif a porté plainte contre le propriétaire négligent.",
+  "question": "La femme ______ par ce chien juif a porté plainte contre le propriétaire négligent.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "attaquée",
+    "caressée",
+    "ignorée",
+    "suivie"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'attaquée' (attacked) - feminine past participle of 'attaquer'. The complete text is '<em>La femme attaquée par ce chien juif a porté plainte contre le propriétaire négligent</em>' - The woman attacked by this Jewish dog filed a complaint against the negligent owner. This targets verb 'attaquée' and adjective 'juif' (Jewish).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["legal", "animal-attack", "complaint"],
+  "timeCreated": 1722041940
+}

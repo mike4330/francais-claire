@@ -1,0 +1,15 @@
+{
+  "id": 2382,
+  "audioText": "Cette regrette visite du palais royal a déçu les touristes qui s'attendaient à plus de grandeur.",
+  "question": "Cette ______ visite du palais royal a déçu les touristes qui s'attendaient à plus de grandeur.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "regrettable",
+  "acceptedAnswers": ["regrettable", "Regrettable"],
+  "explanation": "The correct word is 'regrettable' (regrettable) - adjective describing something unfortunate. The complete text is '<em>Cette regrettable visite du palais royal a déçu les touristes qui s'attendaient à plus de grandeur</em>' - This regrettable visit to the royal palace disappointed tourists who expected more grandeur. This targets noun 'palais' (palace) and relates to missing verb 'regrette'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["tourism", "disappointment", "royalty"],
+  "timeCreated": 1722041760
+}

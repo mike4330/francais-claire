@@ -1,0 +1,18 @@
+{
+  "id": 2385,
+  "audioText": "Cette gloire assuré par ses victoires sportives lui apporte reconnaissance et respect international.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette gloire assurée par ses victoires sportives lui apporte reconnaissance et respect international",
+    "Cette gloire obtenue par ses victoires sportives lui apporte reconnaissance et respect international",
+    "Cette gloire garantie par ses victoires sportives lui apporte reconnaissance et respect international",
+    "Cette gloire confirmée par ses victoires sportives lui apporte reconnaissance et respect international"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette gloire assurée par ses victoires sportives lui apporte reconnaissance et respect international</em>' - This glory assured by his sporting victories brings him recognition and international respect. The noun 'gloire' (glory) and missing verb 'assuré' (assured) describe athletic achievement.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["sports", "recognition", "success"],
+  "timeCreated": 1722041760
+}

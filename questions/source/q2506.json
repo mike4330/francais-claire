@@ -1,0 +1,18 @@
+{
+  "id": 2506,
+  "audioText": "Ce génie scientifique révolutionne complètement les théories mathématiques traditionnelles avec ses découvertes extraordinaires.",
+  "question": "What does this scientific genius do with traditional mathematical theories?",
+  "questionType": "comprehension",
+  "options": [
+    "Completely revolutionizes them with extraordinary discoveries",
+    "Slightly modifies them with basic improvements",
+    "Carefully preserves them without any changes",
+    "Gradually abandons them for simpler approaches"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce génie scientifique révolutionne complètement les théories mathématiques traditionnelles avec ses découvertes extraordinaires</em>' - This scientific genius completely revolutionizes traditional mathematical theories with his extraordinary discoveries. The noun 'génie' (genius) with adverb 'complètement' (completely) describes intellectual breakthrough in academic context.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["science", "mathematics", "discovery"],
+  "timeCreated": 1722180120
+}

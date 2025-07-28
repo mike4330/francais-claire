@@ -1,0 +1,18 @@
+{
+  "id": 2503,
+  "audioText": "Cette huile d'olive extra vierge coûte très cher au supermarché.",
+  "question": "Cette ______ d'olive extra vierge coûte très cher au supermarché.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "huile",
+    "eau",
+    "sauce",
+    "crème"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'huile' (oil) - specifically olive oil, a premium cooking ingredient. The complete text is '<em>Cette huile d'olive extra vierge coûte très cher au supermarché</em>' - This extra virgin olive oil costs very expensive at the supermarket. This targets the missing food noun 'huile' in shopping context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["food", "shopping", "expensive"],
+  "timeCreated": 1722179460
+}

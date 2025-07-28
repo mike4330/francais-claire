@@ -1,0 +1,24 @@
+{
+  "id": 2469,
+  "audioText": "En pensant à cette technique stupide, nous perdons notre temps précieux sur ce projet.",
+  "question": "En ______ à cette technique stupide, nous perdons notre temps précieux sur ce projet.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "pensant",
+    "regardant",
+    "parlant",
+    "écoutant"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>En pensant à cette technique stupide, nous perdons notre temps précieux sur ce projet</em>' - By thinking about this stupid technique, we are wasting our precious time on this project. 'Pensant' is the present participle of 'penser' (to think), 'stupide' means 'stupid', and 'perdons' is first person plural of 'perdre' (to lose/waste).",
+  "difficulty": "B2",
+  "source": "Strategic vocabulary targeting",
+  "tags": [
+    "techniques",
+    "choice",
+    "workplace",
+    "time-management"
+  ],
+  "timeCreated": 1736103780,
+  "verified": "claude"
+}

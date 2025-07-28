@@ -1,0 +1,18 @@
+{
+  "id": 1236,
+  "audioText": "L'autobus fait un arrêt prolongé à la gare centrale pour permettre aux voyageurs de descendre.",
+  "question": "L'autobus fait un ______ prolongé à la gare centrale pour permettre aux voyageurs de descendre.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "départ",
+    "arrêt",
+    "passage",
+    "voyage"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'arrêt' (stop) - a pause in movement. The complete text is '<em>L'autobus fait un arrêt prolongé à la gare centrale pour permettre aux voyageurs de descendre</em>' - The bus makes an extended stop at the central station to allow passengers to get off.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["transportation", "public-transport", "travel"],
+  "timeCreated": 1722041760
+}

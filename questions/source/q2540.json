@@ -1,0 +1,23 @@
+{
+  "id": 2540,
+  "audioText": "Vous attendiez avec impatience le train, et ensuite, vous avez réalisé que vous aviez oublié votre billet. C'était une situation frustrante, mais vous avez trouvé une solution rapidement.",
+  "question": "What was the main problem encountered by the person?",
+  "questionType": "comprehension",
+  "options": [
+    "They missed their train.",
+    "They forgot their ticket.",
+    "They were late for an appointment.",
+    "They couldn't find the train station."
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Vous attendiez avec impatience le train, et ensuite, vous avez réalisé que vous aviez oublié votre billet</em>' - You were impatiently waiting for the train, and then, you realized you had forgotten your ticket. 'Attendiez' is the imperfect tense of 'attendre' (to wait for), 'ensuite' means 'then', and 'aviez oublié' means 'had forgotten'.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "transportation",
+    "daily-life",
+    "travel"
+  ],
+  "timeCreated": 1720176000,
+  "verified": "claude"
+}

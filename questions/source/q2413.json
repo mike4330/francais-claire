@@ -1,0 +1,18 @@
+{
+  "id": 2413,
+  "audioText": "Le contrat signée par la directrice était obscur et difficile à comprendre pour les employés.",
+  "question": "How was the contract signed by the director?",
+  "questionType": "comprehension",
+  "options": [
+    "It was obscure and difficult for employees to understand",
+    "It was clear and easy for everyone to follow",
+    "It was incomplete and needed more details",
+    "It was perfect and satisfied all requirements"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le contrat signée par la directrice était obscur et difficile à comprendre pour les employés</em>' - The contract signed by the director was obscure and difficult for employees to understand. The past participle 'signée' (signed) and adjective 'obscur' (obscure) describe contract complexity.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["contracts", "complexity", "understanding"],
+  "timeCreated": 1722041940
+}

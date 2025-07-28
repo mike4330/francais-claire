@@ -1,0 +1,18 @@
+{
+  "id": 2410,
+  "audioText": "Tu recommences toujours les mêmes erreurs magiques qui nous font rire.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Tu recommences toujours les mêmes erreurs magiques qui nous font rire",
+    "Tu recommences toujours les mêmes erreurs tragiques qui nous font rire",
+    "Tu recommences souvent les mêmes erreurs magiques qui nous font rire",
+    "Tu recommences toujours les mêmes erreurs magiques qui nous font pleurer"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu recommences toujours les mêmes erreurs magiques qui nous font rire</em>' - You always start making the same magical mistakes that make us laugh. The verb 'recommences' (start again) and adjective 'magique' (magical) describe amusing repetitive behavior.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["repetition", "humor", "mistakes"],
+  "timeCreated": 1722041940
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2409,
+  "audioText": "Vous regretterez certainement cette décision minuscule qui aura des conséquences énormes sur votre avenir professionnel.",
+  "question": "What will you regret according to the speaker?",
+  "questionType": "comprehension",
+  "options": [
+    "A tiny decision that will have huge consequences on your professional future",
+    "A major decision that will improve your career prospects",
+    "A minor mistake that won't affect your job",
+    "An important choice that will benefit everyone"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous regretterez certainement cette décision minuscule qui aura des conséquences énormes sur votre avenir professionnel</em>' - You will certainly regret this tiny decision that will have enormous consequences on your professional future. The verb 'regretterez' (will regret) and adjective 'minuscule' (tiny) describe underestimating importance.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["regret", "decision", "consequences"],
+  "timeCreated": 1722041940
+}

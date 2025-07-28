@@ -1,0 +1,18 @@
+{
+  "id": 2403,
+  "audioText": "Avant, je plaisantais souvent avec mes collègues durant les pauses cafés dans ce lieu paisible.",
+  "question": "Avant, je ______ souvent avec mes collègues durant les pauses cafés dans ce lieu paisible.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "plaisantais",
+    "travaillais",
+    "discutais",
+    "mangeais"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'plaisantais' (used to joke) - imperfect tense of 'plaisanter'. The complete text is '<em>Avant, je plaisantais souvent avec mes collègues durant les pauses cafés dans ce lieu paisible</em>' - Before, I used to joke often with my colleagues during coffee breaks in this peaceful place. This targets verb 'plaisantais' and adjective 'paisible' (peaceful).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["workplace", "humor", "coffee-break"],
+  "timeCreated": 1722041940
+}

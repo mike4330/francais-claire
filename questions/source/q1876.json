@@ -1,0 +1,18 @@
+{
+  "id": 1876,
+  "audioText": "Tu craignais autrefois les ombres dans ta chambre, mais maintenant tu dors paisiblement.",
+  "question": "What did the person used to fear?",
+  "questionType": "comprehension",
+  "options": [
+    "Strange noises in the house",
+    "Shadows in their room",
+    "Animals outside the window",
+    "People in the hallway"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Tu craignais autrefois les ombres dans ta chambre, mais maintenant tu dors paisiblement</em>' - You used to fear the shadows in your room, but now you sleep peacefully. The imperfect 'craignais' (feared) shows past habitual action. This targets under-represented topic 'shadow'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["childhood", "fears", "shadow"],
+  "timeCreated": 1722041760
+}

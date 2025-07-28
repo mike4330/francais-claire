@@ -1,0 +1,18 @@
+{
+  "id": 2523,
+  "audioText": "Ce professeur sévère contrôle rigoureusement la discipline dans sa classe traditionnelle.",
+  "question": "How does this strict teacher control discipline in his traditional classroom?",
+  "questionType": "comprehension",
+  "options": [
+    "Rigorously and firmly",
+    "Loosely and carelessly",
+    "Kindly and gently",
+    "Randomly and inconsistently"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce professeur sévère contrôle rigoureusement la discipline dans sa classe traditionnelle</em>' - This strict teacher rigorously controls discipline in his traditional classroom. The adjective 'sévère' (strict) with adverb 'rigoureusement' (rigorously) describes authoritarian teaching style.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["education", "discipline", "teacher"],
+  "timeCreated": 1722182820
+}

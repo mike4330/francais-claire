@@ -1,0 +1,15 @@
+{
+  "id": 2499,
+  "audioText": "Cette femme sourd ne peut pas entendre la musique forte de la fête.",
+  "question": "Cette femme ______ ne peut pas entendre la musique forte de la fête.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "sourd",
+  "acceptedAnswers": ["sourd", "Sourd"],
+  "explanation": "The correct form is 'sourd' (deaf) - an adjective describing hearing impairment. The complete text is '<em>Cette femme sourd ne peut pas entendre la musique forte de la fête</em>' - This deaf woman cannot hear the loud music from the party. This targets adjective 'sourd' in a disability context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["disability", "hearing", "music"],
+  "timeCreated": 1722042360
+}

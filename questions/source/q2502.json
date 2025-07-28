@@ -1,0 +1,18 @@
+{
+  "id": 2502,
+  "audioText": "Les pâtes italiennes cuisent parfaitement dans l'eau bouillante salée pendant dix minutes exactement.",
+  "question": "How long do the Italian pasta cook in the salted boiling water?",
+  "questionType": "comprehension",
+  "options": [
+    "Exactly ten minutes",
+    "About five minutes",
+    "Around fifteen minutes",
+    "Nearly twenty minutes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les pâtes italiennes cuisent parfaitement dans l'eau bouillante salée pendant dix minutes exactement</em>' - The Italian pasta cooks perfectly in salted boiling water for exactly ten minutes. The noun 'pâtes' (pasta) with verb 'cuisent' (cook) describes precise cooking timing in culinary preparation.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["food", "cooking", "time"],
+  "timeCreated": 1722179400
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1486,
+  "audioText": "Il cherche la solitude dans les montagnes pour échapper au stress de la ville moderne.",
+  "question": "What does he seek in the mountains?",
+  "questionType": "comprehension",
+  "options": [
+    "Adventure and excitement",
+    "Solitude and peace",
+    "New friends and connections",
+    "Business opportunities"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il cherche la solitude dans les montagnes pour échapper au stress de la ville moderne</em>' - He seeks solitude in the mountains to escape the stress of modern city life. The noun 'solitude' means being alone by choice for peace.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["nature", "stress-relief", "mountains"],
+  "timeCreated": 1722041760
+}

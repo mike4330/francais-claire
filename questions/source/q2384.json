@@ -1,0 +1,18 @@
+{
+  "id": 2384,
+  "audioText": "Je me sens à l'aise quand le médecin mené cette consultation avec patience et bienveillance.",
+  "question": "How does the speaker feel during the doctor's consultation?",
+  "questionType": "comprehension",
+  "options": [
+    "Comfortable and at ease",
+    "Nervous and anxious",
+    "Confused and lost",
+    "Angry and frustrated"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je me sens à l'aise quand le médecin mené cette consultation avec patience et bienveillance</em>' - I feel at ease when the doctor conducts this consultation with patience and kindness. The expression 'à l'aise' (at ease/comfortable) and the missing verb 'mené' (conducted) describe professional medical care.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["medical-care", "comfort", "consultation"],
+  "timeCreated": 1722041760
+}

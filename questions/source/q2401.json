@@ -1,0 +1,18 @@
+{
+  "id": 2401,
+  "audioText": "La différence entre ces deux objets n'est pas visible à première vue.",
+  "question": "La ______ entre ces deux objets n'est pas visible à première vue.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "différence",
+    "ressemblance",
+    "distance",
+    "relation"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'différence' (difference) - a distinction between things. The complete text is '<em>La différence entre ces deux objets n'est pas visible à première vue</em>' - The difference between these two objects is not visible at first glance. This targets nouns 'différence' and 'objet' (object).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["comparison", "observation", "analysis"],
+  "timeCreated": 1722041880
+}

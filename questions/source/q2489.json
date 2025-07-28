@@ -1,0 +1,15 @@
+{
+  "id": 2489,
+  "audioText": "Tu fiches ces documents importants dans le tiroir du bureau organisé.",
+  "question": "Tu ______ ces documents importants dans le tiroir du bureau organisé.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "fiches",
+  "acceptedAnswers": ["fiches", "Fiches"],
+  "explanation": "The correct form is 'fiches' (file/put) - second person singular present of 'ficher'. The complete text is '<em>Tu fiches ces documents importants dans le tiroir du bureau organisé</em>' - You file these important documents in the organized desk drawer. This targets verb 'fiches' in an office organization context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["organization", "documents", "office"],
+  "timeCreated": 1722042240
+}

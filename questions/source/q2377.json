@@ -1,0 +1,18 @@
+{
+  "id": 2377,
+  "audioText": "Cette mine d'or abandonnée cache probablement encore des trésors précieux dans ses galeries souterraines profondes.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette mine d'or abandonnée cache probablement encore des trésors précieux dans ses galeries souterraines profondes",
+    "Cette mine d'or abandonnée révèle probablement encore des trésors précieux dans ses galeries souterraines profondes",
+    "Cette mine d'or abandonnée contient probablement encore des trésors précieux dans ses galeries souterraines profondes", 
+    "Cette mine d'or abandonnée montre probablement encore des trésors précieux dans ses galeries souterraines profondes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette mine d'or abandonnée cache probablement encore des trésors précieux dans ses galeries souterraines profondes</em>' - This abandoned gold mine probably still hides precious treasures in its deep underground galleries. The noun 'mine' refers to an excavation for extracting minerals.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["mining", "treasure", "exploration"],
+  "timeCreated": 1722041760
+}

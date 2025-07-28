@@ -1,0 +1,22 @@
+{
+  "id": 2575,
+  "audioText": "Cette année, nous prendrons nos vacances en juillet pour profiter du beau temps estival.",
+  "question": "When will they take their vacation?",
+  "questionType": "comprehension",
+  "options": [
+    "In June for the summer weather",
+    "In July to enjoy the summer weather",
+    "In August before school starts",
+    "In September when it's cooler"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Cette année, nous prendrons nos vacances en juillet pour profiter du beau temps estival</em>' - This year, we will take our vacation in July to enjoy the beautiful summer weather. The noun 'vacances' (vacation) is typically used in plural form in French.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": [
+    "travel",
+    "family",
+    "scheduling"
+  ],
+  "timeCreated": 1721988480
+}

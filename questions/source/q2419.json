@@ -1,0 +1,18 @@
+{
+  "id": 2419,
+  "audioText": "Cette haine prodigieusement profonde a retiré toute joie de sa vie quotidienne.",
+  "question": "What has the deep hatred done to his life?",
+  "questionType": "comprehension",
+  "options": [
+    "Removed all joy from his daily life",
+    "Brought unexpected happiness to his routine",
+    "Made his relationships more meaningful",
+    "Improved his overall mental health"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette haine prodigieusement profonde a retiré toute joie de sa vie quotidienne</em>' - This prodigiously deep hatred has removed all joy from his daily life. The noun 'haine' (hatred) with adverb 'prodigieusement' (prodigiously) and verb 'retiré' (removed) describe emotional devastation.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["emotions", "sadness", "daily-life"],
+  "timeCreated": 1722042120
+}

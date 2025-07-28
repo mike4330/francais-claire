@@ -1,0 +1,18 @@
+{
+  "id": 2376,
+  "audioText": "L'enquête sur ce meurtre brûle lentement les preuves importantes au laboratoire de criminalistique.",
+  "question": "What is the investigation doing to the evidence?",
+  "questionType": "comprehension",
+  "options": [
+    "Preserving them carefully in storage",
+    "Burning them slowly in the lab",
+    "Analyzing them thoroughly with tests",
+    "Hiding them from public view"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>L'enquête sur ce meurtre brûle lentement les preuves importantes au laboratoire de criminalistique</em>' - The investigation into this murder slowly burns the important evidence at the forensic laboratory. The noun 'meurtre' (murder) refers to unlawful killing. This also targets missing verb 'brûle' (burns).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["crime", "investigation", "forensics"],
+  "timeCreated": 1722041760
+}

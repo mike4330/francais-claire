@@ -1,0 +1,18 @@
+{
+  "id": 2507,
+  "audioText": "Cette caisse enregistreuse moderne calcule automatiquement la monnaie exacte pour chaque transaction commerciale.",
+  "question": "What does this modern cash register do automatically?",
+  "questionType": "comprehension",
+  "options": [
+    "Calculates the exact change for each commercial transaction",
+    "Records the customer's personal information accurately",
+    "Prints detailed receipts with promotional offers",
+    "Connects directly to the bank's security system"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette caisse enregistreuse moderne calcule automatiquement la monnaie exacte pour chaque transaction commerciale</em>' - This modern cash register automatically calculates the exact change for each commercial transaction. The noun 'caisse' (cash register) with adverb 'automatiquement' (automatically) describes retail technology in business context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["business", "technology", "money"],
+  "timeCreated": 1722180240
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2550,
+  "audioText": "Cette réaction est évidemment liée au stress qu'elle ressent au travail chaque jour.",
+  "question": "Cette réaction est ______ liée au stress qu'elle ressent au travail chaque jour.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "évidemment",
+    "certainement",
+    "probablement",
+    "clairement"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette réaction est évidemment liée au stress qu'elle ressent au travail chaque jour</em>' - This reaction is obviously linked to the stress she feels at work every day. 'Évidemment' means 'obviously/evidently' and expresses certainty.",
+  "difficulty": "B2",
+  "source": "Workplace stress",
+  "tags": [
+    "workplace",
+    "stress",
+    "emotions",
+    "health"
+  ],
+  "timeCreated": 1736106120,
+  "verified": "claude"
+}

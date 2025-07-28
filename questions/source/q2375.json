@@ -1,0 +1,18 @@
+{
+  "id": 2375,
+  "audioText": "Quand j'étais petit, je courais après les intérêts scientifiques qui captivaient mon imagination d'enfant.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Quand j'étais petit, je courais après les intérêts scientifiques qui captivaient mon imagination d'enfant",
+    "Quand j'étais petit, je pensais aux intérêts scientifiques qui captivaient mon imagination d'enfant",
+    "Quand j'étais petit, je lisais sur les intérêts scientifiques qui captivaient mon imagination d'enfant",
+    "Quand j'étais petit, je rêvais des intérêts scientifiques qui captivaient mon imagination d'enfant"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Quand j'étais petit, je courais après les intérêts scientifiques qui captivaient mon imagination d'enfant</em>' - When I was little, I ran after the scientific interests that captivated my child's imagination. The imperfect 'courais' (used to run) shows past habitual action. This targets under-represented topic 'interest'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["childhood", "science", "interest"],
+  "timeCreated": 1722041760
+}

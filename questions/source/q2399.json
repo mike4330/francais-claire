@@ -1,0 +1,15 @@
+{
+  "id": 2399,
+  "audioText": "Mon camarade de classe plaisantes souvent sur mes cheveux blonds et courts.",
+  "question": "Mon ______ de classe plaisantes souvent sur mes cheveux blonds et courts.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "camarade",
+  "acceptedAnswers": ["camarade", "Camarade"],
+  "explanation": "The correct form is 'camarade' (classmate/comrade) - a friend or colleague. The complete text is '<em>Mon camarade de classe plaisantes souvent sur mes cheveux blonds et courts</em>' - My classmate often jokes about my short blond hair. This targets noun 'camarade' and verb 'plaisantes' (joke), plus adjective 'blond'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["school", "friendship", "teasing"],
+  "timeCreated": 1722041880
+}

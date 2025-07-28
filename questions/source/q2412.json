@@ -1,0 +1,15 @@
+{
+  "id": 2412,
+  "audioText": "Le suspect surveillé par la police s'est enfui en costume vers la sortie arrière.",
+  "question": "Le suspect ______ par la police s'est enfui en costume vers la sortie arrière.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "surveillé",
+  "acceptedAnswers": ["surveillé", "Surveillé"],
+  "explanation": "The correct form is 'surveillé' (watched/monitored) - past participle of 'surveiller'. The complete text is '<em>Le suspect surveillé par la police s'est enfui en costume vers la sortie arrière</em>' - The suspect watched by the police fled in a suit toward the back exit. This targets verb 'surveillé' and noun 'costume' (suit).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["police", "surveillance", "escape"],
+  "timeCreated": 1722041940
+}

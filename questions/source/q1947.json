@@ -1,0 +1,15 @@
+{
+  "id": 1947,
+  "audioText": "Nos voisins invitent toujours leurs amis pour des soirées de pâtisserie le week-end.",
+  "question": "Nos voisins ______ toujours leurs amis pour des soirées de pâtisserie le week-end.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "invitent",
+  "acceptedAnswers": ["invitent", "Invitent"],
+  "explanation": "The correct word is 'invitent' (invite) - the third person plural form of 'inviter'. The complete text is '<em>Nos voisins invitent toujours leurs amis pour des soirées de pâtisserie le week-end</em>' - Our neighbors always invite their friends for baking evenings on weekends. This targets under-represented topic 'baking'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["neighbors", "social-events", "baking"],
+  "timeCreated": 1722041760
+}

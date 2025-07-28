@@ -1,0 +1,23 @@
+{
+  "id": 2569,
+  "audioText": "Il faut que ce restaurant vous plaise pour votre anniversaire.",
+  "question": "What does the speaker suggest about the restaurant?",
+  "questionType": "comprehension",
+  "options": [
+    "It must be expensive for your birthday",
+    "It must please you for your birthday",
+    "It must be reserved for your birthday",
+    "It must be nearby for your birthday"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il faut que ce restaurant vous plaise pour votre anniversaire</em>' - It's necessary that this restaurant pleases you for your birthday. The subjunctive form 'plaise' is used after 'Il faut que' (it is necessary that) to express necessity or obligation.",
+  "difficulty": "B1",
+  "source": "Restaurant recommendation conversation",
+  "tags": [
+    "restaurant",
+    "birthday",
+    "recommendation"
+  ],
+  "timeCreated": 1751765448,
+  "verified": "claude"
+}

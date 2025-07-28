@@ -1,0 +1,18 @@
+{
+  "id": 2095,
+  "audioText": "Tu approches maintenant de la zone d'éclairage où l'on peut mieux voir les détails importants.",
+  "question": "What is the person approaching?",
+  "questionType": "comprehension",
+  "options": [
+    "The lighting zone where details are clearer",
+    "The exit door of the building",
+    "The information desk for help",
+    "The security checkpoint area"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu approches maintenant de la zone d'éclairage où l'on peut mieux voir les détails importants</em>' - You are now approaching the lighting zone where one can better see the important details. The verb 'approches' (approach) is the 'tu' form. This targets under-represented topic 'lighting'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["location", "visibility", "lighting"],
+  "timeCreated": 1722041760
+}

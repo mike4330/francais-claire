@@ -1,0 +1,15 @@
+{
+  "id": 2495,
+  "audioText": "Je rejoindrai certainement mon équipe demain matin pour la réunion stratégique importante.",
+  "question": "Je ______ certainement mon équipe demain matin pour la réunion stratégique importante.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "rejoindrai",
+  "acceptedAnswers": ["rejoindrai", "Rejoindrai"],
+  "explanation": "The correct form is 'rejoindrai' (will join) - first person singular future of 'rejoindre'. The complete text is '<em>Je rejoindrai certainement mon équipe demain matin pour la réunion stratégique importante</em>' - I will certainly join my team tomorrow morning for the important strategic meeting. This targets verb 'rejoindrai' in a professional context.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["team", "meeting", "future-plans"],
+  "timeCreated": 1722042240
+}

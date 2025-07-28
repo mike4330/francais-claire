@@ -1,0 +1,24 @@
+{
+  "id": 2458,
+  "audioText": "Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre.",
+  "question": "What advice is being given about data?",
+  "questionType": "comprehension",
+  "options": [
+    "You should back up your data more often to avoid losing it",
+    "You should delete old data to free up space",
+    "You should share your data with colleagues",
+    "You should encrypt your data for security"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre</em>' - You should back up your data more often to avoid losing it. 'Devriez' is the conditional form of 'devoir' (should), 'sauvegarder' means to back up, and 'données' means data.",
+  "difficulty": "B1",
+  "source": "Strategic vocabulary targeting",
+  "tags": [
+    "technology",
+    "data",
+    "backup",
+    "advice"
+  ],
+  "timeCreated": 1720051860,
+  "verified": "claude"
+}

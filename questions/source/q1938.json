@@ -1,0 +1,18 @@
+{
+  "id": 1938,
+  "audioText": "Les habitants du quartier craignent que les nouveaux rapports sur la pollution nuisent à leur santé.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Les habitants du quartier craignent que les nouveaux rapports sur la pollution nuisent à leur santé",
+    "Les habitants du quartier pensent que les nouveaux rapports sur la pollution nuisent à leur santé",
+    "Les habitants du quartier espèrent que les nouveaux rapports sur la pollution nuisent à leur santé",
+    "Les habitants du quartier savent que les nouveaux rapports sur la pollution nuisent à leur santé"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les habitants du quartier craignent que les nouveaux rapports sur la pollution nuisent à leur santé</em>' - The neighborhood residents fear that the new reports on pollution may harm their health. The verb 'craignent' (fear) is the third person plural form. This targets under-represented topic 'reports'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["environment", "health", "reports"],
+  "timeCreated": 1722041760
+}

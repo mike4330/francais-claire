@@ -1,0 +1,15 @@
+{
+  "id": 2408,
+  "audioText": "Recommencez cette présentation depuis le début, car la première tentative était confuse.",
+  "question": "______ cette présentation depuis le début, car la première tentative était confuse.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "Recommencez",
+  "acceptedAnswers": ["Recommencez", "recommencez"],
+  "explanation": "The correct form is 'Recommencez' (start over) - imperative form of 'recommencer'. The complete text is '<em>Recommencez cette présentation depuis le début, car la première tentative était confuse</em>' - Start this presentation over from the beginning, because the first attempt was confusing. This targets verb 'recommencez' in a professional context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["presentation", "instruction", "improvement"],
+  "timeCreated": 1722041940
+}

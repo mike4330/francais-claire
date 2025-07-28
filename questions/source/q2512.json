@@ -1,0 +1,18 @@
+{
+  "id": 2512,
+  "audioText": "Cet inspecteur expérimenté enquête minutieusement sur les crimes financiers complexes.",
+  "question": "How does this experienced inspector investigate complex financial crimes?",
+  "questionType": "comprehension",
+  "options": [
+    "Minutely and thoroughly",
+    "Quickly and superficially",
+    "Randomly and carelessly",
+    "Slowly and incompletely"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet inspecteur expérimenté enquête minutieusement sur les crimes financiers complexes</em>' - This experienced inspector investigates complex financial crimes minutely. The noun 'inspecteur' (inspector) with adverb 'minutieusement' (minutely) describes thorough police investigation methods.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["police", "investigation", "crime"],
+  "timeCreated": 1722180900
+}

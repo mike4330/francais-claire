@@ -1,0 +1,18 @@
+{
+  "id": 2493,
+  "audioText": "Il a dégagé rapidement le passage encombré pour permettre l'évacuation urgente.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Il a dégagé rapidement le passage encombré pour permettre l'évacuation urgente",
+    "Il a dégagé lentement le passage encombré pour permettre l'évacuation urgente",
+    "Il a dégagé rapidement le passage bloqué pour permettre l'évacuation urgente",
+    "Il a libéré rapidement le passage encombré pour permettre l'évacuation urgente"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il a dégagé rapidement le passage encombré pour permettre l'évacuation urgente</em>' - He quickly cleared the cluttered passage to allow urgent evacuation. The verb 'dégagé' (cleared) describes emergency response action.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["emergency", "clearing", "safety"],
+  "timeCreated": 1722042240
+}

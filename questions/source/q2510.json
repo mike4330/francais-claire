@@ -1,0 +1,18 @@
+{
+  "id": 2510,
+  "audioText": "Sa retraite paisible commence officiellement le mois prochain après quarante années professionnelles.",
+  "question": "When does his peaceful retirement officially begin?",
+  "questionType": "comprehension",
+  "options": [
+    "Next month after forty professional years",
+    "This year after thirty working years",
+    "Next summer after fifty career years",
+    "This winter after twenty business years"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa retraite paisible commence officiellement le mois prochain après quarante années professionnelles</em>' - His peaceful retirement officially begins next month after forty professional years. The noun 'retraite' (retirement) with adverb 'officiellement' (officially) describes career transition timing.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["retirement", "career", "time"],
+  "timeCreated": 1722180660
+}

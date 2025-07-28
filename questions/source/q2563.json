@@ -1,0 +1,24 @@
+{
+  "id": 2563,
+  "audioText": "Ce professeur gentil aide volontiers tous les étudiants qui rencontrent des difficultés académiques.",
+  "question": "Ce professeur ______ aide volontiers tous les étudiants qui rencontrent des difficultés académiques.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "gentil",
+    "sympa",
+    "bienveillant",
+    "attentionné"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce professeur gentil aide volontiers tous les étudiants qui rencontrent des difficultés académiques</em>' - This kind teacher gladly helps all students who encounter academic difficulties. 'Gentil' means 'kind/nice', 'volontiers' means 'willingly/gladly', and 'aide' is the present tense of 'aider' (to help).",
+  "difficulty": "B1",
+  "source": "Teacher support",
+  "tags": [
+    "education",
+    "kindness",
+    "students",
+    "support"
+  ],
+  "timeCreated": 1736106900,
+  "verified": "claude"
+}

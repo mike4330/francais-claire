@@ -1,0 +1,24 @@
+{
+  "id": 2457,
+  "audioText": "Cette famille riche contribue généreusement aux œuvres de charité locales et finance plusieurs programmes éducatifs dans la région.",
+  "question": "Cette famille ______ contribue généreusement aux œuvres de charité locales et finance plusieurs programmes éducatifs dans la région.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "riche",
+    "généreuse",
+    "connue",
+    "influente"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette famille riche contribue généreusement aux œuvres de charité locales et finance plusieurs programmes éducatifs dans la région.</em>' - 'This wealthy family generously contributes to local charities and finances several educational programs in the region.' The missing word is 'riche' (wealthy/rich).",
+  "difficulty": "B1",
+  "source": "Philanthropy and community support",
+  "tags": [
+    "philanthropy",
+    "charity",
+    "education",
+    "community"
+  ],
+  "timeCreated": 1735949160,
+  "verified": "claude"
+}

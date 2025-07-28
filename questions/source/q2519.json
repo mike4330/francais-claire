@@ -1,0 +1,18 @@
+{
+  "id": 2519,
+  "audioText": "Ce village lointain reste complètement isolé des technologies modernes urbaines.",
+  "question": "What remains completely isolated from modern urban technologies?",
+  "questionType": "comprehension",
+  "options": [
+    "This distant village",
+    "This nearby city",
+    "This modern town",
+    "This connected suburb"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce village lointain reste complètement isolé des technologies modernes urbaines</em>' - This distant village remains completely isolated from modern urban technologies. The adjective 'lointain' (distant) with adverb 'complètement' (completely) describes geographic and technological separation.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["village", "isolation", "technology"],
+  "timeCreated": 1722181980
+}

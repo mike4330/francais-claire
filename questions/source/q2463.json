@@ -1,0 +1,24 @@
+{
+  "id": 2463,
+  "audioText": "Il fallait améliorer notre stratégie commerciale pour rester compétitifs sur le marché.",
+  "question": "Il ______ améliorer notre stratégie commerciale pour rester compétitifs sur le marché.",
+  "questionType": "FIB-reading",
+  "options": [
+    "fallait",
+    "faudra",
+    "faut",
+    "fallût"
+  ],
+  "correct": 0,
+  "explanation": "The correct form is 'fallait' (imperfect of 'falloir'). The text states '<em>Il fallait améliorer notre stratégie commerciale pour rester compétitifs sur le marché</em>' - We needed to improve our business strategy to stay competitive in the market. This expresses a past necessity.",
+  "difficulty": "B1",
+  "source": "Business Strategy",
+  "tags": [
+    "business",
+    "strategy",
+    "competition",
+    "market"
+  ],
+  "timeCreated": 1720051800,
+  "verified": "claude"
+}

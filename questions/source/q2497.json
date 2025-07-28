@@ -1,0 +1,18 @@
+{
+  "id": 2497,
+  "audioText": "Ces deux situations semblables créent une confusion totale chez les observateurs attentifs.",
+  "question": "Ces deux situations ______ créent une confusion totale chez les observateurs attentifs.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "semblables",
+    "différentes",
+    "opposées",
+    "complexes"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'semblables' (similar) - an adjective describing likeness between situations. The complete text is '<em>Ces deux situations semblables créent une confusion totale chez les observateurs attentifs</em>' - These two similar situations create total confusion among attentive observers. This targets adjective 'semblables' in an analytical context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["comparison", "confusion", "observation"],
+  "timeCreated": 1722042360
+}

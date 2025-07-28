@@ -1,0 +1,18 @@
+{
+  "id": 2496,
+  "audioText": "Ces soldats blessés reçoivent des soins médicaux urgents dans l'hôpital militaire spécialisé.",
+  "question": "What are these wounded soldiers receiving?",
+  "questionType": "comprehension",
+  "options": [
+    "Urgent medical care in the specialized military hospital",
+    "Basic first aid treatment in a field tent",
+    "Psychological counseling for trauma recovery",
+    "Orders for their next military assignment"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces soldats blessés reçoivent des soins médicaux urgents dans l'hôpital militaire spécialisé</em>' - These wounded soldiers receive urgent medical care in the specialized military hospital. The adjective 'blessés' (wounded) describes soldiers needing medical attention.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["military", "medical", "care"],
+  "timeCreated": 1722042240
+}

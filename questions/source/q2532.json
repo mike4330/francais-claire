@@ -1,0 +1,24 @@
+{
+  "id": 2532,
+  "audioText": "Tu auras soif si tu ne bois que des boissons caféinées pendant tes examens d'été.",
+  "question": "Tu ______ soif si tu ne bois que des boissons caféinées pendant tes examens d'été.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "auras",
+    "souffriras",
+    "mourras",
+    "ressentiras"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu auras soif si tu ne bois que des boissons caféinées pendant tes examens d'été</em>' - You will be thirsty if you only drink caffeinated beverages during your summer exams. 'Auras' is the future form of 'avoir' (to have), and 'avoir soif' means to be thirsty.",
+  "difficulty": "B2",
+  "source": "Study habits",
+  "tags": [
+    "drinks",
+    "students",
+    "health",
+    "exams"
+  ],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

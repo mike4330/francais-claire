@@ -1,0 +1,24 @@
+{
+  "id": 2566,
+  "audioText": "Cette situation dangereuse que vous décrivez nécessite évidemment une intervention immédiate des autorités.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette situation dangereuse que vous décrivez nécessite évidemment une intervention immédiate des autorités.",
+    "Cette situation dangereuse que vous décrivez nécessite évidemment une intervention rapide des autorités.",
+    "Cette situation grave que vous décrivez nécessite évidemment une intervention immédiate des autorités.",
+    "Cette situation dangereuse que vous décrivez nécessite certainement une intervention immédiate des autorités."
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is '<em>Cette situation dangereuse que vous décrivez nécessite évidemment une intervention immédiate des autorités</em>' - This dangerous situation you describe obviously requires immediate intervention by authorities. 'Dangereuse' means 'dangerous' and 'évidemment' means 'obviously'.",
+  "difficulty": "B2",
+  "source": "Emergency response",
+  "tags": [
+    "danger",
+    "emergency",
+    "authorities",
+    "intervention"
+  ],
+  "timeCreated": 1736107080,
+  "verified": "claude"
+}

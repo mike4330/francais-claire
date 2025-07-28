@@ -1,0 +1,23 @@
+{
+  "id": 2539,
+  "audioText": "Tu finiras par comprendre que le monde est souvent perçu à travers le prisme de nos propres expériences. Cette réflexion est essentielle pour grandir et apprécier la diversité des perspectives.",
+  "question": "What is the main idea conveyed about understanding the world?",
+  "questionType": "comprehension",
+  "options": [
+    "The world is too vast to be fully understood.",
+    "Personal experiences shape our perception of the world, and reflection is crucial for growth.",
+    "Understanding the world is an easy and straightforward process.",
+    "Diversity of perspectives is not important for personal growth."
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Tu finiras par comprendre que le monde est souvent perçu à travers le prisme de nos propres expériences. Cette réflexion est essentielle pour grandir et apprécier la diversité des perspectives.</em>' - You will eventually understand that the world is often perceived through the prism of our own experiences. This reflection is essential for growing and appreciating the diversity of perspectives.",
+  "difficulty": "B2",
+  "source": "Gemini CLI",
+  "tags": [
+    "reflection",
+    "personal-growth",
+    "philosophy"
+  ],
+  "timeCreated": 1720176000,
+  "verified": "claude"
+}

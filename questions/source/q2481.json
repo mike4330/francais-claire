@@ -1,0 +1,24 @@
+{
+  "id": 2481,
+  "audioText": "En essayant de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur.",
+  "question": "En ______ de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "essayant",
+    "apprenant",
+    "commençant",
+    "tentant"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>En essayant de conduire seul pour la première fois, il a eu une discussion profonde avec son instructeur</em>' - While trying to drive alone for the first time, he had a deep discussion with his instructor. 'Essayant' is the present participle of 'essayer' (to try), and 'profonde' means 'deep', targeting missing verb conjugate and adjective with driving/clarity themes.",
+  "difficulty": "B2",
+  "source": "Driving lesson",
+  "tags": [
+    "driving",
+    "student-life",
+    "clarity",
+    "learning"
+  ],
+  "timeCreated": 1736104500,
+  "verified": "claude"
+}

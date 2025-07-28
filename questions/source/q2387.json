@@ -1,0 +1,18 @@
+{
+  "id": 2387,
+  "audioText": "Ce traitement douloureux obligée la patiente à prendre des médicaments plus forts pour gérer la douleur.",
+  "question": "What does this painful treatment force the patient to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Take stronger medications to manage pain",
+    "Stop all medical treatments immediately",
+    "Switch to a different doctor",
+    "Reduce physical activity completely"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce traitement douloureux oblige la patiente à prendre des médicaments plus forts pour gérer la douleur</em>' - This painful treatment forces the patient to take stronger medications to manage the pain. The adjective 'douloureux' (painful) and missing verb 'obligée' (forced) describe medical necessity.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["medical-treatment", "pain", "medication"],
+  "timeCreated": 1722041760
+}

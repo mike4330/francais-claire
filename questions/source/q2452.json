@@ -1,0 +1,24 @@
+{
+  "id": 2452,
+  "audioText": "Il trouve cette idée complètement bête et refuse d'y participer avec nous.",
+  "question": "Il trouve cette idée complètement ______ et refuse d'y participer avec nous.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "bête",
+    "géniale",
+    "difficile",
+    "nouvelle"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il trouve cette idée complètement bête et refuse d'y participer avec nous</em>' - He finds this idea completely stupid and refuses to participate with us. 'Bête' means 'stupid/silly' and explains his refusal to join the activity.",
+  "difficulty": "B1",
+  "source": "Group disagreement",
+  "tags": [
+    "opinions",
+    "disagreement",
+    "participation",
+    "judgment"
+  ],
+  "timeCreated": 1736103000,
+  "verified": "claude"
+}

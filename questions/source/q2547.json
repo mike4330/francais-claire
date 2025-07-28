@@ -1,0 +1,24 @@
+{
+  "id": 2547,
+  "audioText": "Le garde reste debout toute la nuit pour surveiller l'entrée du musée.",
+  "question": "Le garde reste ______ toute la nuit pour surveiller l'entrée du musée.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "debout",
+    "éveillé",
+    "vigilant",
+    "attentif"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le garde reste debout toute la nuit pour surveiller l'entrée du musée</em>' - The guard stays standing all night to watch the museum entrance. 'Debout' means 'standing up' and indicates physical position.",
+  "difficulty": "B1",
+  "source": "Security work",
+  "tags": [
+    "security",
+    "museum",
+    "surveillance",
+    "night-shift"
+  ],
+  "timeCreated": 1736105940,
+  "verified": "claude"
+}

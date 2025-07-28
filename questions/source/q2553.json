@@ -1,0 +1,24 @@
+{
+  "id": 2553,
+  "audioText": "Cette blessure guérit légèrement plus vite que prévu grâce aux nouveaux traitements.",
+  "question": "Cette blessure guérit ______ plus vite que prévu grâce aux nouveaux traitements.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "légèrement",
+    "un peu",
+    "nettement",
+    "beaucoup"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette blessure guérit légèrement plus vite que prévu grâce aux nouveaux traitements</em>' - This injury is healing slightly faster than expected thanks to new treatments. 'Légèrement' means 'slightly/lightly' and indicates a small degree.",
+  "difficulty": "B2",
+  "source": "Medical progress",
+  "tags": [
+    "health",
+    "recovery",
+    "treatment",
+    "progress"
+  ],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

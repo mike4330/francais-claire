@@ -1,0 +1,18 @@
+{
+  "id": 2490,
+  "audioText": "Ces livres appartiennent à la bibliothèque universitaire moderne et spacieuse.",
+  "question": "Where do these books belong?",
+  "questionType": "comprehension",
+  "options": [
+    "To the modern and spacious university library",
+    "To a private collection of rare books",
+    "To the local public library downtown",
+    "To a student's personal study room"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces livres appartiennent à la bibliothèque universitaire moderne et spacieuse</em>' - These books belong to the modern and spacious university library. The verb 'appartiennent' (belong) describes library ownership of academic materials.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["education", "library", "books"],
+  "timeCreated": 1722042240
+}

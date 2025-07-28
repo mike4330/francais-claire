@@ -1,0 +1,18 @@
+{
+  "id": 2378,
+  "audioText": "Cette enquête dégage un franc parfum de corruption selon les journalistes présents.",
+  "question": "What does this investigation reveal according to the journalists?",
+  "questionType": "comprehension",
+  "options": [
+    "A clear scent of corruption",
+    "Complete transparency in proceedings",
+    "Strong support from officials",
+    "Perfect adherence to protocols"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette enquête dégage un franc parfum de corruption selon les journalistes présents</em>' - This investigation gives off a frank scent of corruption according to the journalists present. The verb 'dégage' (gives off/reveals) expresses emanation and the noun 'franc' (frank/honest) describes directness.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["politics", "corruption", "media-coverage"],
+  "timeCreated": 1722041760
+}

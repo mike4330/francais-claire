@@ -1,0 +1,18 @@
+{
+  "id": 2380,
+  "audioText": "Je rejoins ma famille au palais pour célébrer cette différence culturelle importante.",
+  "question": "Je ______ ma famille au palais pour célébrer cette différence culturelle importante.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rejoins",
+    "quitte",
+    "cherche",
+    "appelle"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'rejoins' (join/meet up with) - first person singular present of 'rejoindre'. The complete text is '<em>Je rejoins ma famille au palais pour célébrer cette différence culturelle importante</em>' - I'm joining my family at the palace to celebrate this important cultural difference. This targets nouns 'palais' (palace) and 'différence' (difference).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["family", "culture", "celebration"],
+  "timeCreated": 1722041760
+}

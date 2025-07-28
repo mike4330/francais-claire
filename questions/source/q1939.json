@@ -1,0 +1,18 @@
+{
+  "id": 1939,
+  "audioText": "Le champion olympique courait tous les matins au lever du soleil pour maintenir sa forme physique exceptionnelle.",
+  "question": "Le champion olympique ______ tous les matins au lever du soleil pour maintenir sa forme.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "marchait",
+    "courait",
+    "nageait",
+    "dormait"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'courait' (used to run) - the imperfect form of 'courir' showing habitual past action. The complete text is '<em>Le champion olympique courait tous les matins au lever du soleil pour maintenir sa forme physique exceptionnelle</em>' - The Olympic champion used to run every morning at sunrise to maintain his exceptional physical condition.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["sports", "training", "discipline"],
+  "timeCreated": 1722041760
+}

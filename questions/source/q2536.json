@@ -1,0 +1,24 @@
+{
+  "id": 2536,
+  "audioText": "Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir.",
+    "Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde de l'espace pour guérir.",
+    "Cette tristesse légère affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir.",
+    "Cette tristesse profonde affecte sa vie sociale et mérite qu'on lui accorde du temps pour guérir."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette tristesse profonde affecte sa vie quotidienne et mérite qu'on lui accorde du temps pour guérir</em>' - This deep sadness affects her daily life and deserves that we give her time to heal. 'Profonde' means 'deep', describing the intensity of sadness.",
+  "difficulty": "B1",
+  "source": "Emotional support",
+  "tags": [
+    "emotions",
+    "mental-health",
+    "healing",
+    "support"
+  ],
+  "timeCreated": 1736105520,
+  "verified": "claude"
+}

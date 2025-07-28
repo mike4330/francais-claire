@@ -1,19 +1,23 @@
 {
-    "id": 1698,
-    "audioText": "Une chose très étrange s'est passée hier soir dans notre quartier résidentiel, selon plusieurs témoins.",
-    "question": "What does the speaker say happened in the residential neighborhood?",
-    "questionType": "listening",
-    "options": [
-        "Something very strange",
-        "A normal event",
-        "Nothing important",
-        "A celebration"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Une chose très étrange s'est passée</em>' - Something very strange happened. 'Chose' means thing or something, and here it refers to an unspecified strange event. The distractors test misinterpretation of the event (normal event, nothing important, a celebration).",
-    "difficulty": "B2",
-    "source": "Gemini CLI - Listening practice",
-    "tags": ["community", "incidents", "mystery"],
-    "timeCreated": 1720800000,
-    "parentQuestion": 873
+  "id": 1698,
+  "audioText": "Une chose très étrange s'est passée hier soir dans notre quartier résidentiel, selon plusieurs témoins.",
+  "question": "What does the speaker say happened in the residential neighborhood?",
+  "questionType": "listening",
+  "options": [
+    "Something very strange",
+    "A normal event",
+    "Nothing important",
+    "A celebration"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Une chose très étrange s'est passée</em>' - Something very strange happened. 'Chose' means thing or something, and here it refers to an unspecified strange event. The distractors test misinterpretation of the event (normal event, nothing important, a celebration).",
+  "difficulty": "B2",
+  "source": "Gemini CLI - Listening practice",
+  "tags": [
+    "community",
+    "incidents",
+    "mystery"
+  ],
+  "timeCreated": 1720800000,
+  "parentQuestion": 2605
 }

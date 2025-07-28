@@ -1,0 +1,18 @@
+{
+  "id": 2516,
+  "audioText": "Nous avons généreusement partagé nos ressources alimentaires avec les familles nécessiteuses du quartier.",
+  "question": "How did we share our food resources with needy families in the neighborhood?",
+  "questionType": "comprehension",
+  "options": [
+    "Generously and willingly",
+    "Reluctantly and sparingly",
+    "Secretly and mysteriously",
+    "Randomly and carelessly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Nous avons généreusement partagé nos ressources alimentaires avec les familles nécessiteuses du quartier</em>' - We generously shared our food resources with needy families in the neighborhood. The verb 'partagé' (shared - past participle) with adverb 'généreusement' (generously) describes community solidarity.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["community", "sharing", "charity"],
+  "timeCreated": 1722181680
+}

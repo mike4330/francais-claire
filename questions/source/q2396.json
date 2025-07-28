@@ -1,0 +1,18 @@
+{
+  "id": 2396,
+  "audioText": "La douceur de sa voix plaisante toujours aux enfants qui l'écoutent attentivement.",
+  "question": "What effect does this person's voice have on children?",
+  "questionType": "comprehension",
+  "options": [
+    "The gentleness of their voice always pleases children who listen carefully",
+    "Their loud voice frightens children and makes them run away",
+    "Their strict tone makes children behave immediately",
+    "Their singing voice puts children to sleep"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La douceur de sa voix plaisante toujours aux enfants qui l'écoutent attentivement</em>' - The gentleness of their voice always pleases children who listen to them carefully. The noun 'douceur' (gentleness) and verb 'plaisante' (pleases) describe an appealing voice quality.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["communication", "children", "voice"],
+  "timeCreated": 1722041880
+}

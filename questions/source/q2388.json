@@ -1,0 +1,15 @@
+{
+  "id": 2388,
+  "audioText": "Ce concept obscur risqué de confondre même les étudiants les plus brillants dans cette analyse complexe.",
+  "question": "Ce concept ______ risqué de confondre même les étudiants les plus brillants dans cette analyse complexe.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "obscur",
+  "acceptedAnswers": ["obscur", "Obscur"],
+  "explanation": "The correct word is 'obscur' (obscure/unclear) - adjective describing something difficult to understand. The complete text is '<em>Ce concept obscur risque de confondre même les étudiants les plus brillants dans cette analyse complexe</em>' - This obscure concept risks confusing even the brightest students in this complex analysis. This targets adjective 'obscur' and missing verb 'risqué'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["education", "complexity", "confusion"],
+  "timeCreated": 1722041760
+}

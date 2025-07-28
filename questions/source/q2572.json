@@ -1,0 +1,23 @@
+{
+  "id": 2572,
+  "audioText": "La fille de mon voisin étudie la médecine à l'université.",
+  "question": "What is the neighbor's daughter studying?",
+  "questionType": "comprehension",
+  "options": [
+    "Engineering",
+    "Medicine",
+    "Literature",
+    "Business"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>La fille de mon voisin étudie la médecine</em>' - The neighbor's daughter studies medicine. The noun 'fille' can mean both girl and daughter, here meaning daughter in the family relationship context.",
+  "difficulty": "B1",
+  "source": "Neighbor relationships and education",
+  "tags": [
+    "family",
+    "education",
+    "university"
+  ],
+  "timeCreated": 1751776887,
+  "verified": "claude"
+}

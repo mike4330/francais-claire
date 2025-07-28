@@ -1,0 +1,18 @@
+{
+  "id": 2389,
+  "audioText": "Nous sommes obligés de couvrez cette connerie administrative pour éviter les problèmes légaux.",
+  "question": "Nous sommes ______ de couvrez cette connerie administrative pour éviter les problèmes légaux.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "obligés",
+    "heureux",
+    "libres",
+    "contents"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'obligés' (obliged/forced) - masculine plural past participle of 'obliger'. The complete text is '<em>Nous sommes obligés de couvrir cette connerie administrative pour éviter les problèmes légaux</em>' - We are obliged to cover this administrative bullshit to avoid legal problems. This targets verb 'obligés' and synergistically includes noun 'connerie'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["bureaucracy", "legal", "obligation"],
+  "timeCreated": 1722041760
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2504,
+  "audioText": "Cette viande rouge grillée parfaitement révèle magnifiquement les techniques culinaires traditionnelles du chef expérimenté.",
+  "question": "What does the perfectly grilled red meat reveal?",
+  "questionType": "comprehension",
+  "options": [
+    "The chef's traditional culinary techniques magnificently",
+    "The restaurant's expensive pricing strategy clearly",
+    "The customer's sophisticated dining preferences obviously",
+    "The kitchen's modern equipment capabilities impressively"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette viande rouge grillée parfaitement révèle magnifiquement les techniques culinaires traditionnelles du chef expérimenté</em>' - This perfectly grilled red meat magnificently reveals the experienced chef's traditional culinary techniques. The noun 'viande' (meat) with adverb 'magnifiquement' (magnificently) describes professional cooking expertise.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["food", "cooking", "chef"],
+  "timeCreated": 1722179700
+}

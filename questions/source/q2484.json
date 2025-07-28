@@ -1,0 +1,24 @@
+{
+  "id": 2484,
+  "audioText": "Il partait toujours tôt le matin pour éviter la frustration des embouteillages urbains.",
+  "question": "Il ______ toujours tôt le matin pour éviter la frustration des embouteillages urbains.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "partait",
+    "sortait",
+    "quittait",
+    "démarrait"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il partait toujours tôt le matin pour éviter la frustration des embouteillages urbains</em>' - He always left early in the morning to avoid the frustration of urban traffic jams. 'Partait' is the imperfect form of 'partir' (to leave/depart), targeting missing verb conjugate with frustration/driving themes.",
+  "difficulty": "B1",
+  "source": "Commuting strategy",
+  "tags": [
+    "frustration",
+    "driving",
+    "daily-life",
+    "transportation"
+  ],
+  "timeCreated": 1736104680,
+  "verified": "claude"
+}

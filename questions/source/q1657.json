@@ -1,0 +1,18 @@
+{
+  "id": 1657,
+  "audioText": "Le document a été vérifié trois fois par différents experts avant sa publication officielle.",
+  "question": "What happened to the document?",
+  "questionType": "comprehension",
+  "options": [
+    "It was rejected by experts",
+    "It was verified three times by experts",
+    "It was written by three authors",
+    "It was translated into different languages"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Le document a été vérifié trois fois par différents experts avant sa publication officielle</em>' - The document was verified three times by different experts before its official publication. The past participle 'vérifié' (verified) shows the completed action.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["documents", "verification", "expertise"],
+  "timeCreated": 1722041760
+}

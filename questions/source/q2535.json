@@ -1,0 +1,24 @@
+{
+  "id": 2535,
+  "audioText": "Les participants aident généralement les organisateurs à faire leurs choix difficiles avec respect et compromis.",
+  "question": "Les participants ______ généralement les organisateurs à faire leurs choix difficiles avec respect et compromis.",
+  "questionType": "FIB-reading",
+  "options": [
+    "aident",
+    "assistent",
+    "accompagnent",
+    "soutiennent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les participants aident généralement les organisateurs à faire leurs choix difficiles avec respect et compromis</em>' - The participants generally help the organizers make their difficult choices with respect and compromise. 'Aident' is the present form of 'aider' (to help), targeting missing verb conjugate with choices/respect/compromise themes.",
+  "difficulty": "B2",
+  "source": "Group decision-making",
+  "tags": [
+    "choices",
+    "respect",
+    "compromise",
+    "teamwork"
+  ],
+  "timeCreated": 1736105460,
+  "verified": "claude"
+}

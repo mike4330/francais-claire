@@ -1,0 +1,23 @@
+{
+  "id": 2429,
+  "audioText": "Je ne pense pas qu'elle revienne dans sa chambre avant minuit.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Je ne pense pas qu'elle revienne dans sa chambre avant minuit.",
+    "Je ne pense pas qu'elle revient dans sa chambre avant minuit.",
+    "Je ne pense pas qu'elle reviendra dans sa chambre avant minuit.",
+    "Je ne pense pas qu'elle revienne dans son bureau avant minuit."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je ne pense pas qu'elle revienne dans sa chambre avant minuit</em>' - I don't think she'll come back to her bedroom before midnight. 'Revienne' is the third person singular subjunctive form of 'revenir' (to come back), used after 'Je ne pense pas que'.",
+  "difficulty": "B2",
+  "source": "Evening routine",
+  "tags": [
+    "evening",
+    "home",
+    "daily-life"
+  ],
+  "timeCreated": 1704416160,
+  "verified": "claude"
+}

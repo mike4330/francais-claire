@@ -1,0 +1,23 @@
+{
+  "id": 2426,
+  "audioText": "Demain, je passerai un entretien d'embauche pour un poste de chef de projet. J'espère vraiment que ça se passera bien.",
+  "question": "Demain, je ______ un entretien d'embauche pour un poste de chef de projet.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "passerons",
+    "passerez",
+    "passerai",
+    "passeras"
+  ],
+  "correct": 2,
+  "explanation": "The text states '<em>Demain, je passerai un entretien d'embauche pour un poste de chef de projet</em>' - Tomorrow, I will have a job interview for a project manager position. The sentence requires the first-person singular of the futur simple tense for the verb 'passer', which is 'passerai'.",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": [
+    "career",
+    "job-interview",
+    "workplace"
+  ],
+  "timeCreated": 1720181343,
+  "verified": "claude"
+}

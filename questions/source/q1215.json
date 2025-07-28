@@ -1,0 +1,18 @@
+{
+  "id": 1215,
+  "audioText": "La justice française condamne sévèrement les crimes contre les personnes vulnérables dans notre société.",
+  "question": "What does French justice do?",
+  "questionType": "comprehension",
+  "options": [
+    "Ignores crimes against vulnerable people",
+    "Severely condemns crimes against vulnerable people",
+    "Only investigates financial crimes",
+    "Focuses mainly on traffic violations"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>La justice française condamne sévèrement les crimes contre les personnes vulnérables dans notre société</em>' - French justice severely condemns crimes against vulnerable people in our society. The noun 'justice' refers to the legal system.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["law", "crime", "social-justice"],
+  "timeCreated": 1722041760
+}

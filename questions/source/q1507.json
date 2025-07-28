@@ -1,0 +1,18 @@
+{
+  "id": 1507,
+  "audioText": "La reine d'Angleterre vérifie personnellement les protocoles diplomatiques lors des visites officielles importantes.",
+  "question": "What does the Queen of England personally check?",
+  "questionType": "comprehension",
+  "options": [
+    "Weather forecasts for events",
+    "Diplomatic protocols for visits",
+    "Menu choices for dinners",
+    "Security arrangements only"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>La reine d'Angleterre vérifie personnellement les protocoles diplomatiques lors des visites officielles importantes</em>' - The Queen of England personally checks diplomatic protocols during important official visits. The noun 'reine' (queen) refers to a female monarch. This also targets the missing verb 'vérifie'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["royalty", "diplomacy", "protocol"],
+  "timeCreated": 1722041760
+}

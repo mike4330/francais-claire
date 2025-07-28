@@ -1,0 +1,23 @@
+{
+  "id": 2425,
+  "audioText": "Si tu essaies de réparer cette vieille horloge toi-même sans les bons outils, tu risques de l'endommager encore plus. Il vaut mieux appeler un professionnel.",
+  "question": "What is the speaker advising against?",
+  "questionType": "comprehension",
+  "options": [
+    "Buying a new clock",
+    "Trying to fix the old clock without proper tools",
+    "Calling a professional for help",
+    "Cleaning the clock"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Si tu essaies de réparer cette vieille horloge toi-même sans les bons outils, tu risques de l'endommager encore plus. Il vaut mieux appeler un professionnel.</em>' - If you try to repair this old clock yourself without the proper tools, you risk damaging it even more. It's better to call a professional. The sentence warns against trying to repair the clock yourself without proper tools.",
+  "difficulty": "B1",
+  "source": "Gemini CLI",
+  "tags": [
+    "advice",
+    "repairs",
+    "daily-life"
+  ],
+  "timeCreated": 1720181342,
+  "verified": "claude"
+}

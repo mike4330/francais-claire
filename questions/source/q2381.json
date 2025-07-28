@@ -1,0 +1,15 @@
+{
+  "id": 2381,
+  "audioText": "L'animal échappé de la queue des visiteurs court vers la liste des refuges sécurisés.",
+  "question": "L'animal ______ de la queue des visiteurs court vers la liste des refuges sécurisés.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "échappé",
+  "acceptedAnswers": ["échappé", "Échappé"],
+  "explanation": "The correct form is 'échappé' (escaped) - past participle of 'échapper'. The complete text is '<em>L'animal échappé de la queue des visiteurs court vers la liste des refuges sécurisés</em>' - The animal escaped from the queue of visitors runs toward the list of secure shelters. This targets nouns 'queue' (queue/tail) and 'liste' (list).",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["animals", "safety", "emergency"],
+  "timeCreated": 1722041760
+}

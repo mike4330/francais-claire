@@ -1,0 +1,18 @@
+{
+  "id": 2394,
+  "audioText": "Cette femme chargée de surveiller les bagages fixe attentivement chaque valise suspecte.",
+  "question": "What is this woman's responsibility regarding luggage?",
+  "questionType": "comprehension",
+  "options": [
+    "She's in charge of monitoring luggage and watches each suspicious suitcase carefully",
+    "She helps passengers find their lost baggage at the airport",
+    "She arranges luggage transportation between terminals",
+    "She repairs damaged suitcases and travel bags"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette femme chargée de surveiller les bagages fixe attentivement chaque valise suspecte</em>' - This woman in charge of monitoring luggage watches each suspicious suitcase carefully. The past participle 'chargée' (in charge) and adjective 'fixe' (fixed/steady) describe security surveillance, targeting under-represented topic 'luggage'.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["security", "luggage", "surveillance"],
+  "timeCreated": 1722041760
+}

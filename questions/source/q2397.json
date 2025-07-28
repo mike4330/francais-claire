@@ -1,0 +1,18 @@
+{
+  "id": 2397,
+  "audioText": "Cette attaque surprise contre notre position a été repoussée par les soldats.",
+  "question": "Cette ______ surprise contre notre position a été repoussée par les soldats.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "attaque",
+    "visite",
+    "offre",
+    "demande"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'attaque' (attack) - a military offensive action. The complete text is '<em>Cette attaque surprise contre notre position a été repoussée par les soldats</em>' - This surprise attack against our position was repelled by the soldiers. This targets noun 'attaque' and includes missing verb context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["military", "defense", "conflict"],
+  "timeCreated": 1722041880
+}

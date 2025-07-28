@@ -1,20 +1,24 @@
 {
-    "id": 1531,
-    "audioText": "Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer.",
-    "question": "Qu'est-ce que vous avez entendu?",
-    "questionType": "listening",
-    "options": [
-        "Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer",
-        "Beaucoup de gens pensent que les technologies modernes changent lentement notre manière de communiquer",
-        "Beaucoup de gens pensent que les technologies nouvelles changent rapidement notre manière de communiquer",
-        "Beaucoup de personnes pensent que les technologies modernes changent rapidement notre manière de communiquer"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 'Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer'. The complete text is '<em>Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer.</em>' - Many people think that modern technologies are rapidly changing our way of communicating.",
-    "difficulty": "B1",
-    "source": "Listening variant of comprehension question",
-    "tags": ["technology", "communication", "social-opinion"],
-    "parentQuestion": 875,
-    "timeCreated": 1720826220,
-    "verified": "claude"
+  "id": 1531,
+  "audioText": "Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer",
+    "Beaucoup de gens pensent que les technologies modernes changent lentement notre manière de communiquer",
+    "Beaucoup de gens pensent que les technologies nouvelles changent rapidement notre manière de communiquer",
+    "Beaucoup de personnes pensent que les technologies modernes changent rapidement notre manière de communiquer"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer'. The complete text is '<em>Beaucoup de gens pensent que les technologies modernes changent rapidement notre manière de communiquer.</em>' - Many people think that modern technologies are rapidly changing our way of communicating.",
+  "difficulty": "B1",
+  "source": "Listening variant of comprehension question",
+  "tags": [
+    "technology",
+    "communication",
+    "social-opinion"
+  ],
+  "parentQuestion": 2607,
+  "timeCreated": 1720826220,
+  "verified": "claude"
 }

@@ -1,0 +1,24 @@
+{
+  "id": 2476,
+  "audioText": "Cette situation était vraiment horrible et nous perdons encore du temps à en parler.",
+  "question": "Cette situation était vraiment ______ et nous perdons encore du temps à en parler.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "horrible",
+    "difficile",
+    "compliquée",
+    "surprenante"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette situation était vraiment horrible et nous perdons encore du temps à en parler</em>' - This situation was really horrible and we are still wasting time talking about it. 'Horrible' means 'horrible/awful' and 'perdons' is first person plural present of 'perdre' (to lose/waste), combining missing adjective with verb form.",
+  "difficulty": "B1",
+  "source": "Past situation analysis",
+  "tags": [
+    "past-events",
+    "workplace",
+    "time-management",
+    "discussion"
+  ],
+  "timeCreated": 1736104200,
+  "verified": "claude"
+}

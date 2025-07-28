@@ -1,0 +1,15 @@
+{
+  "id": 2405,
+  "audioText": "Les cambrioleurs attaquent souvent les maisons isolées en utilisant des outils ronds.",
+  "question": "Les cambrioleurs ______ souvent les maisons isolées en utilisant des outils ronds.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "attaquent",
+  "acceptedAnswers": ["attaquent", "Attaquent"],
+  "explanation": "The correct form is 'attaquent' (attack) - third person plural present of 'attaquer'. The complete text is '<em>Les cambrioleurs attaquent souvent les maisons isolées en utilisant des outils ronds</em>' - Burglars often attack isolated houses using round tools. This targets verb 'attaquent' and adjective 'rond' (round).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["crime", "security", "burglary"],
+  "timeCreated": 1722041940
+}

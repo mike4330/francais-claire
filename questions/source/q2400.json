@@ -1,0 +1,18 @@
+{
+  "id": 2400,
+  "audioText": "Cette liste complète des participants a été souhaitée par l'organisateur de l'événement.",
+  "question": "What did the event organizer want?",
+  "questionType": "comprehension",
+  "options": [
+    "A complete list of participants",
+    "A partial list of attendees",
+    "The final budget report",
+    "The venue confirmation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette liste complète des participants a été souhaitée par l'organisateur de l'événement</em>' - This complete list of participants was desired by the event organizer. The noun 'liste' (list) and adjective 'complet' (complete) describe comprehensive participant tracking.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["organization", "events", "planning"],
+  "timeCreated": 1722041880
+}

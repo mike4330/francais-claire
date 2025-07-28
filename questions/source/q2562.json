@@ -1,0 +1,24 @@
+{
+  "id": 2562,
+  "audioText": "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale.",
+  "question": "Qu'est-ce que vous avez entendu ?",
+  "questionType": "listening",
+  "options": [
+    "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale.",
+    "Cette nouvelle triste concernant la taxation affecte profondément toute la communauté régionale.",
+    "Cette nouvelle grave concernant la taxation affecte profondément toute la communauté locale.",
+    "Cette nouvelle triste concernant les impôts affecte profondément toute la communauté locale."
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is '<em>Cette nouvelle triste concernant la taxation affecte profondément toute la communauté locale</em>' - This sad news about taxation deeply affects the entire local community. 'Triste' means 'sad' and 'profondément' means 'deeply'.",
+  "difficulty": "B2",
+  "source": "Tax policy impact",
+  "tags": [
+    "taxation",
+    "sadness",
+    "community",
+    "impact"
+  ],
+  "timeCreated": 1736106840,
+  "verified": "claude"
+}

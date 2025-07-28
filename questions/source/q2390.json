@@ -1,0 +1,18 @@
+{
+  "id": 2390,
+  "audioText": "Vous couvrez cette anxiété avec un sourire prouvé mais votre stress reste visible.",
+  "question": "How do you handle this anxiety according to the text?",
+  "questionType": "comprehension",
+  "options": [
+    "Cover it with a proven smile but stress remains visible",
+    "Express it openly and honestly to everyone",
+    "Ignore it completely without any reaction",
+    "Seek immediate professional help"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous couvrez cette anxiété avec un sourire prouvé mais votre stress reste visible</em>' - You cover this anxiety with a proven smile but your stress remains visible. The verb 'couvrez' (cover) and missing verb 'prouvé' (proven) describe masking emotions, targeting under-represented topic 'anxiety'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["anxiety", "emotions", "stress"],
+  "timeCreated": 1722041760
+}

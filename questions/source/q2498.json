@@ -1,0 +1,18 @@
+{
+  "id": 2498,
+  "audioText": "Cet homme inconnu virez curieusement autour de notre maison depuis ce matin.",
+  "question": "What has this unknown man been doing?",
+  "questionType": "comprehension",
+  "options": [
+    "Turning curiously around our house since this morning",
+    "Walking normally past our house occasionally",
+    "Working peacefully in our garden today",
+    "Visiting our neighbors for friendly conversation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet homme inconnu virez curieusement autour de notre maison depuis ce matin</em>' - This unknown man has been turning curiously around our house since this morning. The adjective 'inconnu' (unknown) and verb 'virez' (turn) describe suspicious behavior around property.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["stranger", "suspicion", "home"],
+  "timeCreated": 1722042360
+}

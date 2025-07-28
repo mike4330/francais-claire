@@ -1,0 +1,18 @@
+{
+  "id": 2395,
+  "audioText": "Cette femme accompagnée d'un homme ordinaire fait sa livraison hebdomadaire dans le quartier résidentiel.",
+  "question": "Cette femme ______ d'un homme ordinaire fait sa livraison hebdomadaire dans le quartier résidentiel.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "accompagnée",
+    "séparée",
+    "éloignée",
+    "cachée"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'accompagnée' (accompanied) - feminine past participle of 'accompagner'. The complete text is '<em>Cette femme accompagnée d'un homme ordinaire fait sa livraison hebdomadaire dans le quartier résidentiel</em>' - This woman accompanied by an ordinary man makes her weekly delivery in the residential neighborhood. This targets verb 'accompagnée' and adjective 'ordinaire' (ordinary), including under-represented topic 'delivery'.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["delivery", "partnership", "neighborhood"],
+  "timeCreated": 1722041760
+}

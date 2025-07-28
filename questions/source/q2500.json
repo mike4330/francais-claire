@@ -1,0 +1,18 @@
+{
+  "id": 2500,
+  "audioText": "Cette nourriture dégueulasse sent vraiment mauvais dans la cuisine.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette nourriture dégueulasse sent vraiment mauvais dans la cuisine",
+    "Cette nourriture délicieuse sent vraiment bon dans la cuisine",
+    "Cette nourriture dégueulasse goûte vraiment mauvais dans la cuisine",
+    "Cette nouvelle dégueulasse sent vraiment mauvais dans la cuisine"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette nourriture dégueulasse sent vraiment mauvais dans la cuisine</em>' - This disgusting food really smells bad in the kitchen. The adjective 'dégueulasse' (disgusting/gross) describes food with offensive odor in culinary context.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["food", "smell", "disgust"],
+  "timeCreated": 1722042360
+}

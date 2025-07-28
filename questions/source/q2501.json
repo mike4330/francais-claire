@@ -1,0 +1,18 @@
+{
+  "id": 2501,
+  "audioText": "Ce village paisible retirez agréablement tous les visiteurs urbains stressés de leur routine quotidienne.",
+  "question": "What does this peaceful village do for stressed urban visitors?",
+  "questionType": "comprehension",
+  "options": [
+    "Pleasantly removes them from their daily routine",
+    "Quickly sends them back to their busy cities",
+    "Charges them expensive fees for relaxation services",
+    "Offers them only basic accommodation without comfort"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce village paisible retirez agréablement tous les visiteurs urbains stressés de leur routine quotidienne</em>' - This peaceful village pleasantly removes all stressed urban visitors from their daily routine. The adjective 'paisible' (peaceful) with adverb 'agréablement' (pleasantly) and verb 'retirez' (remove) describe rural escape from urban stress.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["village", "peace", "relaxation"],
+  "timeCreated": 1722042360
+}

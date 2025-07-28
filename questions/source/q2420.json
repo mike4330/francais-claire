@@ -1,0 +1,18 @@
+{
+  "id": 2420,
+  "audioText": "Il marche agréablement sur le trottoir en évitant les flaques d'eau.",
+  "question": "Il marche ______ sur le trottoir en évitant les flaques d'eau.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "agréablement",
+    "rapidement",
+    "difficilement",
+    "bruyamment"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'agréablement' (pleasantly) - an adverb describing how one walks. The complete text is '<em>Il marche agréablement sur le trottoir en évitant les flaques d'eau</em>' - He walks pleasantly on the sidewalk while avoiding puddles. This targets noun 'trottoir' (sidewalk) and includes missing adverb 'agréablement' (pleasantly).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["walking", "street", "weather"],
+  "timeCreated": 1722042120
+}

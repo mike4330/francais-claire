@@ -1,0 +1,18 @@
+{
+  "id": 2515,
+  "audioText": "Ils ont bossé intensément toute la nuit pour terminer ce projet urgent.",
+  "question": "How did they work all night to finish this urgent project?",
+  "questionType": "comprehension",
+  "options": [
+    "Intensely and continuously",
+    "Casually and sporadically",
+    "Reluctantly and slowly",
+    "Carelessly and hastily"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ils ont bossé intensément toute la nuit pour terminer ce projet urgent</em>' - They worked intensely all night to finish this urgent project. The verb 'bossé' (worked - past participle, informal) with adverb 'intensément' (intensely) describes dedicated work effort.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["work", "project", "dedication"],
+  "timeCreated": 1722181500
+}

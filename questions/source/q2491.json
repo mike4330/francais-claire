@@ -1,0 +1,18 @@
+{
+  "id": 2491,
+  "audioText": "Elle a souhaité une belle journée à tous ses collègues matinaux.",
+  "question": "Elle a ______ une belle journée à tous ses collègues matinaux.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "souhaité",
+    "offert",
+    "donné",
+    "promis"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'souhaité' (wished) - past participle of 'souhaiter'. The complete text is '<em>Elle a souhaité une belle journée à tous ses collègues matinaux</em>' - She wished a good day to all her early morning colleagues. This targets verb 'souhaité' in a workplace greeting context.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["greeting", "politeness", "morning"],
+  "timeCreated": 1722042240
+}

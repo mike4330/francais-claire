@@ -1,0 +1,18 @@
+{
+  "id": 2508,
+  "audioText": "Cet appareil électronique sophistiqué fonctionne remarquablement bien dans des conditions environnementales extrêmes.",
+  "question": "How does this sophisticated electronic device function in extreme environmental conditions?",
+  "questionType": "comprehension",
+  "options": [
+    "Remarkably well",
+    "Poorly and unreliably",
+    "Only with constant maintenance",
+    "Better than expected sometimes"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet appareil électronique sophistiqué fonctionne remarquablement bien dans des conditions environnementales extrêmes</em>' - This sophisticated electronic device functions remarkably well in extreme environmental conditions. The noun 'appareil' (device) with adverb 'remarquablement' (remarkably) describes technology performance in challenging situations.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["technology", "performance", "environment"],
+  "timeCreated": 1722180360
+}

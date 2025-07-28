@@ -1,20 +1,24 @@
 {
-    "id": 2158,
-    "audioText": "Il faut que tu comprennes que dire merci est vraiment sympa et important.",
-    "question": "Il faut que tu comprennes que dire merci est vraiment sympa et important.",
-    "questionType": "listening",
-    "options": [
-        "It's unnecessary",
-        "It's really nice and important",
-        "It's only for adults",
-        "It's too formal"
-    ],
-    "correct": 1,
-    "explanation": "The text states '<em>Il faut que tu comprennes que dire merci est vraiment sympa et important</em>' - You must understand that saying thanks is really nice and important. 'Comprennes' is the subjunctive form of 'comprendre' (to understand), 'merci' means thanks, and 'sympa' means nice/kind.",
-    "difficulty": "B1",
-    "source": "Social etiquette and politeness",
-    "tags": ["kindness", "politeness", "social-skills"],
-    "timeCreated": 1720881353,
-    "parentQuestion": 868,
-    "verified": "claude"
+  "id": 2158,
+  "audioText": "Il faut que tu comprennes que dire merci est vraiment sympa et important.",
+  "question": "Il faut que tu comprennes que dire merci est vraiment sympa et important.",
+  "questionType": "listening",
+  "options": [
+    "It's unnecessary",
+    "It's really nice and important",
+    "It's only for adults",
+    "It's too formal"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Il faut que tu comprennes que dire merci est vraiment sympa et important</em>' - You must understand that saying thanks is really nice and important. 'Comprennes' is the subjunctive form of 'comprendre' (to understand), 'merci' means thanks, and 'sympa' means nice/kind.",
+  "difficulty": "B1",
+  "source": "Social etiquette and politeness",
+  "tags": [
+    "kindness",
+    "politeness",
+    "social-skills"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2600,
+  "verified": "claude"
 }

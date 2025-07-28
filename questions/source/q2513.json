@@ -1,0 +1,18 @@
+{
+  "id": 2513,
+  "audioText": "Je doutais sérieusement de la véracité de ses explications contradictoires hier soir.",
+  "question": "What was I seriously doubting last night?",
+  "questionType": "comprehension",
+  "options": [
+    "The truthfulness of his contradictory explanations",
+    "The accuracy of my personal observations",
+    "The reliability of the weather forecast",
+    "The quality of the evening entertainment"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je doutais sérieusement de la véracité de ses explications contradictoires hier soir</em>' - I was seriously doubting the truthfulness of his contradictory explanations last night. The verb 'doutais' (was doubting - imperfect) with adverb 'sérieusement' (seriously) describes past skepticism.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["doubt", "truth", "explanation"],
+  "timeCreated": 1722181200
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2477,
+  "audioText": "Il rentrera certainement à la maison quand il aura fini son travail de nettoyage.",
+  "question": "Il ______ certainement à la maison quand il aura fini son travail de nettoyage.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "rentrera",
+    "retournera",
+    "reviendra",
+    "restera"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il rentrera certainement à la maison quand il aura fini son travail de nettoyage</em>' - He will certainly come home when he has finished his cleaning work. 'Rentrera' is the future form of 'rentrer' (to return home), targeting missing verb conjugate with cleanliness/house themes.",
+  "difficulty": "B1",
+  "source": "Household chores",
+  "tags": [
+    "cleanliness",
+    "house-layout",
+    "daily-life",
+    "routine"
+  ],
+  "timeCreated": 1736104260,
+  "verified": "claude"
+}

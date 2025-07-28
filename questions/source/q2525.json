@@ -1,0 +1,24 @@
+{
+  "id": 2525,
+  "audioText": "Ces étudiants se fatigueront énormément si on ne limite pas leurs heures d'étude quotidiennes.",
+  "question": "Ces étudiants se ______ énormément si on ne limite pas leurs heures d'étude quotidiennes.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fatigueront",
+    "reposeront",
+    "épuiseront",
+    "concentreront"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces étudiants se fatigueront énormément si on ne limite pas leurs heures d'étude quotidiennes</em>' - These students will get extremely tired if we don't limit their daily study hours. 'Fatigueront' is the future form of 'fatiguer' (to tire), expressing concern about student exhaustion.",
+  "difficulty": "B2",
+  "source": "Academic stress",
+  "tags": [
+    "students",
+    "education",
+    "health",
+    "stress"
+  ],
+  "timeCreated": 1720132800,
+  "verified": "claude"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2517,
+  "audioText": "Elle a courageusement douté des affirmations officielles controversées présentées par les autorités gouvernementales.",
+  "question": "How did she doubt the controversial official statements presented by government authorities?",
+  "questionType": "comprehension",
+  "options": [
+    "Courageously and bravely",
+    "Quietly and secretly",
+    "Blindly and foolishly",
+    "Partially and hesitantly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle a courageusement douté des affirmations officielles controversées présentées par les autorités gouvernementales</em>' - She courageously doubted the controversial official statements presented by government authorities. The verb 'douté' (doubted - past participle) with adverb 'courageusement' (courageously) describes brave skepticism of authority.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["courage", "skepticism", "government"],
+  "timeCreated": 1722181800
+}

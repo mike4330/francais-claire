@@ -1,0 +1,18 @@
+{
+  "id": 2414,
+  "audioText": "La voiture brûlée dans l'accident a causé des dommages considérables au parking souterrain.",
+  "question": "La voiture ______ dans l'accident a causé des dommages considérables au parking souterrain.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "brûlée",
+    "réparée",
+    "lavée",
+    "vendue"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'brûlée' (burned) - feminine past participle of 'brûler'. The complete text is '<em>La voiture brûlée dans l'accident a causé des dommages considérables au parking souterrain</em>' - The car burned in the accident caused considerable damage to the underground parking. This targets verb 'brûlée' and noun 'dommage' (damage).",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["accident", "fire", "damage"],
+  "timeCreated": 1722041940
+}

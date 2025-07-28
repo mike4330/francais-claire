@@ -1,0 +1,18 @@
+{
+  "id": 2514,
+  "audioText": "Elle récupère progressivement ses forces après cette longue maladie épuisante.",
+  "question": "How is she recovering her strength after the exhausting illness?",
+  "questionType": "comprehension",
+  "options": [
+    "Progressively and gradually",
+    "Quickly and completely",
+    "Slowly and painfully",
+    "Randomly and unpredictably"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle récupère progressivement ses forces après cette longue maladie épuisante</em>' - She progressively recovers her strength after this long exhausting illness. The verb 'récupère' (recovers) with adverb 'progressivement' (progressively) describes gradual health improvement.",
+  "difficulty": "B1",
+  "source": "claude",
+  "tags": ["health", "recovery", "illness"],
+  "timeCreated": 1722181320
+}
