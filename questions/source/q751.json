@@ -1,0 +1,15 @@
+{
+  "id": 751,
+  "audioText": "Cette réparation a coûté très cher.",
+  "question": "Cette réparation a ______ très cher.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "coûté",
+  "acceptedAnswers": ["coûté", "Coûté"],
+  "explanation": "The correct form is 'coûté' (cost) - past participle of 'coûter'. The complete text is '<em>Cette réparation a coûté très cher</em>' - This repair cost a lot. This targets verb 'coûté' in a common expense context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["cost", "repair", "expense"],
+  "timeCreated": 1722041940
+}

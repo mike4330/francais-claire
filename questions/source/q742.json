@@ -1,0 +1,18 @@
+{
+  "id": 742,
+  "audioText": "Tu regrettes déjà cette adresse inconnue que tu as donnée?",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Tu regrettes déjà cette adresse inconnue que tu as donnée",
+    "Tu regrettes déjà cette adresse connue que tu as donnée",
+    "Tu regrettes déjà cette adresse correcte que tu as donnée",
+    "Tu regrettes déjà cette adresse fausse que tu as donnée"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu regrettes déjà cette adresse inconnue que tu as donnée?</em>' - Do you already regret this unknown address that you gave? The verb 'regrettes' (regret) and adjective 'inconnu' (unknown) describe second thoughts, targeting under-represented topic 'address'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["regret", "address", "information"],
+  "timeCreated": 1722041760
+}

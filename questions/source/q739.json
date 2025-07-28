@@ -1,0 +1,15 @@
+{
+  "id": 739,
+  "audioText": "Tu regretteras cette décision complet dans quelques années.",
+  "question": "Tu ______ cette décision complet dans quelques années.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "regretteras",
+  "acceptedAnswers": ["regretteras", "Regretteras"],
+  "explanation": "The correct form is 'regretteras' (will regret) - second person singular future of 'regretter'. The complete text is '<em>Tu regretteras cette décision complète dans quelques années</em>' - You will regret this complete decision in a few years. This targets verb 'regretteras' and adjective 'complet' (complete).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["regret", "decisions", "future"],
+  "timeCreated": 1722041760
+}

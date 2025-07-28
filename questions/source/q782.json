@@ -1,19 +1,18 @@
 {
-    "id": 782,
-    "audioText": "Il trouve cette idée complètement bête et refuse d'y participer avec nous.",
-    "question": "Il trouve cette idée complètement ______ et refuse d'y participer avec nous.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "bête",
-        "géniale",
-        "difficile",
-        "nouvelle"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Il trouve cette idée complètement bête et refuse d'y participer avec nous</em>' - He finds this idea completely stupid and refuses to participate with us. 'Bête' means 'stupid/silly' and explains his refusal to join the activity.",
-    "difficulty": "B1",
-    "source": "Group disagreement",
-    "tags": ["opinions", "disagreement", "participation", "judgment"],
-    "timeCreated": 1736103000,
-    "verified": "claude"
+  "id": 782,
+  "audioText": "J'ai toujours apprécié sincèrement votre aide précieuse.",
+  "question": "J'ai toujours ______ sincèrement votre aide précieuse.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "apprécié",
+    "critiqué",
+    "refusé",
+    "ignoré"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'apprécié' (appreciated - past participle) used with auxiliary 'avoir' in passé composé. The complete text is '<em>J'ai toujours apprécié sincèrement votre aide précieuse</em>' - I have always sincerely appreciated your precious help. This targets verb 'apprécié' with adverb 'sincèrement' (sincerely) in gratitude context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["gratitude", "help", "appreciation"],
+  "timeCreated": 1722181380
 }

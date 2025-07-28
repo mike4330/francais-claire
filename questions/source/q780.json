@@ -1,19 +1,18 @@
 {
-    "id": 780,
-    "audioText": "Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner.",
-    "question": "Qu'est-ce que vous avez entendu ?",
-    "questionType": "listening",
-    "options": [
-        "Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner.",
-        "Le service parfait de ce restaurant impressionne tous les clients qui viennent déjeuner.",
-        "Le service rapide de ce restaurant impressionne tous les clients qui viennent dîner.",
-        "Le service rapide de ce restaurant intéresse tous les clients qui viennent déjeuner."
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Le service rapide de ce restaurant impressionne tous les clients qui viennent déjeuner</em>' - The fast service of this restaurant impresses all the clients who come for lunch. 'Rapide' means 'fast/quick'. The distractors test adjective confusion (parfait), meal confusion (dîner), and verb confusion (intéresse).",
-    "difficulty": "B1",
-    "source": "Restaurant service",
-    "tags": ["restaurant", "service", "customers", "speed"],
-    "timeCreated": 1736102880,
-    "verified": "claude"
+  "id": 780,
+  "audioText": "Elle bosse vraiment dur toute la semaine.",
+  "question": "What does she do really hard all week?",
+  "questionType": "comprehension",
+  "options": [
+    "Works hard",
+    "Studies easily",
+    "Rests peacefully",
+    "Plays constantly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle bosse vraiment dur toute la semaine</em>' - She really works hard all week. The verb 'bosse' (works - informal) with adverb 'vraiment' (really) describes intensive work habits in casual language.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["work", "effort", "casual"],
+  "timeCreated": 1722181140
 }

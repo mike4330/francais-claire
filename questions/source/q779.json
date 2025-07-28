@@ -1,19 +1,15 @@
 {
-    "id": 779,
-    "audioText": "Cette histoire étrange m'a fasciné toute la soirée et j'ai eu du mal à dormir.",
-    "question": "Cette histoire ______ m'a fasciné toute la soirée et j'ai eu du mal à dormir.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "étrange",
-        "amusante",
-        "courte",
-        "simple"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Cette histoire étrange m'a fasciné toute la soirée et j'ai eu du mal à dormir</em>' - This strange story fascinated me all evening and I had trouble sleeping. 'Étrange' means 'strange/odd' and explains why the story was so captivating.",
-    "difficulty": "B2",
-    "source": "Evening reading",
-    "tags": ["stories", "reading", "emotions", "mystery"],
-    "timeCreated": 1736102820,
-    "verified": "claude"
+  "id": 779,
+  "audioText": "Il apprécie énormément ce nouveau restaurant italien.",
+  "question": "Il ______ énormément ce nouveau restaurant italien.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "apprécie",
+  "acceptedAnswers": ["apprécie", "Apprécie"],
+  "explanation": "The correct form is 'apprécie' (appreciates) - third person singular present of 'apprécier'. The complete text is '<em>Il apprécie énormément ce nouveau restaurant italien</em>' - He enormously appreciates this new Italian restaurant. This targets verb 'apprécie' with adverb 'énormément' (enormously) in dining context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["restaurant", "opinion", "food"],
+  "timeCreated": 1722181080
 }

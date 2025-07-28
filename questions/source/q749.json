@@ -1,0 +1,18 @@
+{
+  "id": 749,
+  "audioText": "Vous plaisantez avec les enfants assis.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Vous plaisantez avec les enfants assis",
+    "Vous plaisantez avec les enfants debout",
+    "Vous discutez avec les enfants assis",
+    "Vous jouez avec les enfants assis"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Vous plaisantez avec les enfants assis</em>' - You joke with the seated children. The verb 'plaisantez' (joke/tease) and adjective 'assis' (seated) describe playful interaction with sitting children.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["children", "humor", "interaction"],
+  "timeCreated": 1722041940
+}

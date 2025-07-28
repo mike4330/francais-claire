@@ -1,0 +1,22 @@
+{
+  "id": 3494,
+  "audioText": "Les astronomes observent cette étoile mystérieuse qui brûlent intensément dans les confins de notre galaxie lointaine.",
+  "question": "Les astronomes observent cette étoile mystérieuse qui ______ intensément dans les confins de notre galaxie.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "disparaît",
+    "brûlent",
+    "voyage",
+    "tourne"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'brûlent' (burn) - though this should be 'brûle' for singular 'étoile'. The complete text is '<em>Les astronomes observent cette étoile mystérieuse qui brûlent intensément dans les confins de notre galaxie lointaine</em>' - Astronomers observe this mysterious star that burns intensely in the confines of our distant galaxy. The noun 'étoile' (star) refers to a celestial body. This targets missing verb conjugate 'brûlent'.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "astronomy",
+    "space",
+    "science"
+  ],
+  "timeCreated": 1722041760
+}

@@ -1,0 +1,18 @@
+{
+  "id": 717,
+  "audioText": "Regarde le détail de cette belle peinture dans le musée d'art moderne.",
+  "question": "Regarde le ______ de cette belle peinture dans le musée d'art moderne.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "prix",
+    "détail",
+    "cadre",
+    "titre"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'détail' (detail) - a small feature or part of something. The complete text is '<em>Regarde le détail de cette belle peinture dans le musée d'art moderne</em>' - Look at the detail of this beautiful painting in the modern art museum. This also targets the noun 'peinture' (painting).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["art", "museums", "observation"],
+  "timeCreated": 1722041760
+}

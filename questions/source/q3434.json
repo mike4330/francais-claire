@@ -1,0 +1,22 @@
+{
+  "id": 3434,
+  "audioText": "Cette stratégie marketing innovante vise passablement à développer alternativement notre présence commerciale sur les marchés internationaux tout en préservant grandement notre identité culturelle authentique et en renforçant méthodiquement nos partenariats stratégiques existants avec les distributeurs locaux dans chaque région géographique ciblée.",
+  "question": "What does this innovative marketing strategy aim to do?",
+  "questionType": "comprehension",
+  "options": [
+    "Develop commercial presence internationally while preserving cultural identity and strengthening partnerships",
+    "Focus exclusively on local markets while abandoning international expansion plans",
+    "Reduce costs by eliminating partnerships with regional distributors",
+    "Prioritize short-term profits over long-term strategic relationships"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette stratégie marketing innovante vise passablement à développer alternativement notre présence commerciale sur les marchés internationaux tout en préservant grandement notre identité culturelle authentique et en renforçant méthodiquement nos partenariats stratégiques existants avec les distributeurs locaux dans chaque région géographique ciblée</em>' - This innovative marketing strategy aims reasonably to develop alternatively our commercial presence on international markets while greatly preserving our authentic cultural identity and methodically strengthening our existing strategic partnerships with local distributors in each targeted geographical region. This targets adverb 'passablement' (reasonably) and includes multiple strategic adverbs.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "strategy",
+    "marketing",
+    "international"
+  ],
+  "timeCreated": 1722042000
+}

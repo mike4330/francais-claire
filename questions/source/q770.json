@@ -1,20 +1,15 @@
-
 {
   "id": 770,
-  "audioText": "Personnellement, je trouve que le mur blanc donne une impression d'espace et de lumière, mais le designer pense qu'une couleur plus audacieuse serait plus appropriée pour ce design.",
-  "question": "______, je trouve que le mur blanc donne une impression d'espace.",
-  "questionType": "fill-in-the-blank",
-  "options": [
-    "Objectivement",
-    "Généralement",
-    "Personnellement",
-    "Finalement"
-  ],
-  "correct": 2,
-  "explanation": "'<em>Personnellement, je trouve que le mur blanc donne une impression d'espace et de lumière</em>' - Personally, I find that the white wall gives an impression of space and light. The adverb 'Personnellement' (personally) introduces a personal opinion.",
-  "difficulty": "B2",
-  "source": "Gemini CLI",
-  "tags": ["design", "opinion", "interior-design"],
-  "timeCreated": 1720181351,
-  "verified": "claude"
+  "audioText": "Ce tapis rouge décore magnifiquement le salon élégant.",
+  "question": "Ce ______ rouge décore magnifiquement le salon élégant.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "tapis",
+  "acceptedAnswers": ["tapis", "Tapis"],
+  "explanation": "The correct answer is 'tapis' (carpet/rug) - a floor covering for decoration. The complete text is '<em>Ce tapis rouge décore magnifiquement le salon élégant</em>' - This red carpet magnificently decorates the elegant living room. This targets the noun 'tapis' with adverb 'magnifiquement' (magnificently) in home decoration context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["home", "decoration", "furniture"],
+  "timeCreated": 1722180060
 }

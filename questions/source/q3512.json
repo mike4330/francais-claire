@@ -1,0 +1,22 @@
+{
+  "id": 3512,
+  "audioText": "Son cœur battait curieusement lentement malgré l'intensité émotionnelle de la situation qu'elle vivait actuellement avec son ancien partenaire professionnel.",
+  "question": "How was her heart beating despite the emotional intensity?",
+  "questionType": "comprehension",
+  "options": [
+    "Curiously slowly",
+    "Extremely rapidly",
+    "Completely irregularly",
+    "Perfectly normally"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son cœur battait curieusement lentement malgré l'intensité émotionnelle de la situation qu'elle vivait actuellement avec son ancien partenaire professionnel.</em>' - 'Her heart was beating curiously slowly despite the emotional intensity of the situation she was currently experiencing with her former professional partner.' The noun 'cœur' means heart, and 'curieusement' means curiously or strangely.",
+  "difficulty": "C1",
+  "source": "Strategic noun targeting",
+  "tags": [
+    "emotions",
+    "professional-relationships",
+    "intensity"
+  ],
+  "timeCreated": 1720713600
+}

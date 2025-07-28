@@ -1,19 +1,18 @@
 {
-    "id": 760,
-    "audioText": "Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage.",
-    "question": "What does the doctor believe will happen if the symptoms worsen further?",
-    "questionType": "comprehension",
-    "options": [
-        "The patient will die",
-        "The patient will recover quickly",
-        "The patient will need surgery",
-        "The patient will be discharged"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Le médecin croit que ce patient mourra si les symptômes s'aggravent davantage</em>' - The doctor believes this patient will die if the symptoms worsen further. 'Mourra' is the third person singular future form of 'mourir' (to die).",
-    "difficulty": "B1",
-    "source": "Strategic vocabulary targeting",
-    "tags": ["health", "medical", "prognosis"],
-    "timeCreated": 1704416340,
-    "verified": "claude"
+  "id": 760,
+  "audioText": "Son regard fixe me dérange un peu.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Son regard fixe me dérange un peu",
+    "Son regard froid me dérange un peu",
+    "Son regard fixe me plaît un peu",
+    "Ses regards fixes me dérangent un peu"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Son regard fixe me dérange un peu</em>' - His fixed stare bothers me a little. The adjective 'fixe' (fixed/steady) describes an unmoving, intense gaze that causes discomfort.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["discomfort", "behavior", "eyes"],
+  "timeCreated": 1722042360
 }

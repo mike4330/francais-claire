@@ -1,20 +1,18 @@
-
 {
   "id": 769,
-  "audioText": "Chaque fois que je passais devant ce vieux théâtre, j'imaginais les événements incroyables qui avaient dû s'y dérouler il y a des décennies. C'était comme un voyage dans le temps.",
-  "question": "What did the speaker imagine when walking past the old theater?",
+  "audioText": "La douceur de sa voix calme tous les enfants.",
+  "question": "What calms all the children?",
   "questionType": "comprehension",
   "options": [
-    "The modern plays being performed",
-    "The incredible events that must have taken place there decades ago",
-    "The price of the tickets",
-    "The actors getting ready backstage"
+    "The gentleness of her voice",
+    "The loudness of her singing",
+    "The speed of her speech",
+    "The accent of her pronunciation"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>Chaque fois que je passais devant ce vieux théâtre, j'imaginais les événements incroyables qui avaient dû s'y dérouler il y a des décennies</em>' - Each time I passed by this old theater, I imagined the incredible events that must have taken place there decades ago. 'Passais' is the imperfect tense of 'passer' (to pass by), and 'imaginais' is the imperfect of 'imaginer' (to imagine).",
-  "difficulty": "B1",
-  "source": "Strategic vocabulary targeting",
-  "tags": ["theater", "history", "imagination", "memories"],
-  "timeCreated": 1720181350,
-  "verified": "claude"
+  "correct": 0,
+  "explanation": "The text states '<em>La douceur de sa voix calme tous les enfants</em>' - The gentleness of her voice calms all the children. The noun 'douceur' (gentleness/sweetness) with verb 'calme' (calms) describes soothing vocal quality in childcare context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["voice", "children", "calm"],
+  "timeCreated": 1722180000
 }

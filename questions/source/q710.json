@@ -1,0 +1,15 @@
+{
+  "id": 710,
+  "audioText": "Tu existes dans mon cœur depuis notre première rencontre au café.",
+  "question": "Tu ______ dans mon cœur depuis notre première rencontre au café.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "existes",
+  "acceptedAnswers": ["existes", "Existes"],
+  "explanation": "The correct word is 'existes' (exist) - the 'tu' form of 'exister'. The complete text is '<em>Tu existes dans mon cœur depuis notre première rencontre au café</em>' - You exist in my heart since our first meeting at the café.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["romance", "emotions", "memory"],
+  "timeCreated": 1722041760
+}

@@ -1,0 +1,18 @@
+{
+  "id": 748,
+  "audioText": "Il a été viré de son travail hier.",
+  "question": "Il a été ______ de son travail hier.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "viré",
+    "promu",
+    "félicité",
+    "invité"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'viré' (fired) - past participle of 'virer' meaning to dismiss from a job. The complete text is '<em>Il a été viré de son travail hier</em>' - He was fired from his job yesterday. This targets verb 'viré' in a common employment context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["employment", "job-loss", "termination"],
+  "timeCreated": 1722041940
+}

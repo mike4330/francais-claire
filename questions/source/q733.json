@@ -1,0 +1,18 @@
+{
+  "id": 733,
+  "audioText": "Cette cave humide dégagez une odeur désagréable en été.",
+  "question": "Cette cave ______ dégagez une odeur désagréable en été.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "humide",
+    "sèche",
+    "chaude",
+    "froide"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'humide' (humid/damp) - describing moisture in the air or on surfaces. The complete text is '<em>Cette cave humide dégage une odeur désagréable en été</em>' - This humid cellar gives off an unpleasant smell in summer. This targets adjective 'humide' and missing verb 'dégagez'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["housing", "smell", "summer"],
+  "timeCreated": 1722041760
+}

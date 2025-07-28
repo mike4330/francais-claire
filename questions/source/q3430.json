@@ -1,0 +1,22 @@
+{
+  "id": 3430,
+  "audioText": "Ce diplomate arrangerait clandestinement une rencontre secrète entre les deux dirigeants si les négociations officielles échouaient complètement.",
+  "question": "How would the diplomat arrange the meeting?",
+  "questionType": "comprehension",
+  "options": [
+    "Publicly and transparently",
+    "Secretly and covertly",
+    "Quickly and efficiently",
+    "Carefully and methodically"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Ce diplomate arrangerait clandestinement une rencontre secrète entre les deux dirigeants si les négociations officielles échouaient complètement</em>' - This diplomat would secretly arrange a secret meeting between the two leaders if official negotiations failed completely. The adverb 'clandestinement' (secretly/covertly) emphasizes the hidden nature. The conditional 'arrangerait' shows hypothetical action.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "diplomacy",
+    "politics",
+    "secret-negotiations"
+  ],
+  "timeCreated": 1722041760
+}

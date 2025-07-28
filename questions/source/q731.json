@@ -1,0 +1,15 @@
+{
+  "id": 731,
+  "audioText": "Le discute professeur présente le titre de son nouveau livre.",
+  "question": "Le ______ professeur présente le titre de son nouveau livre.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "distingué",
+  "acceptedAnswers": ["distingué", "Distingué"],
+  "explanation": "The correct word is 'distingué' (distinguished) - adjective describing someone respected. The complete text is '<em>Le distingué professeur présente le titre de son nouveau livre</em>' - The distinguished professor presents the title of his new book. This targets noun 'titre' (title) and relates to missing verb 'discute'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["education", "books", "presentation"],
+  "timeCreated": 1722041760
+}

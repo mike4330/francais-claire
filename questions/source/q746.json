@@ -1,0 +1,18 @@
+{
+  "id": 746,
+  "audioText": "Le chauffeur surveille la route avec attention.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le chauffeur surveille la route avec attention",
+    "Le chauffeur surveille la voiture avec attention",
+    "Le chauffeur surveille la ville avec attention", 
+    "Le chauffeur surveille la porte avec attention"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le chauffeur surveille la route avec attention</em>' - The driver watches the road carefully. The noun 'chauffeur' (driver) and verb 'surveille' (watches/monitors) describe careful driving.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["transportation", "safety", "driving"],
+  "timeCreated": 1722041880
+}

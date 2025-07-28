@@ -1,0 +1,18 @@
+{
+  "id": 736,
+  "audioText": "Cette nourriture dégueulasse, tu osez la manger quand même?",
+  "question": "Cette nourriture ______, tu osez la manger quand même?",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "dégueulasse",
+    "délicieuse",
+    "excellente",
+    "parfaite"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'dégueulasse' (disgusting/gross) - very informal adjective describing something repulsive. The complete text is '<em>Cette nourriture dégueulasse, tu oses la manger quand même?</em>' - This disgusting food, you dare to eat it anyway? This targets adjective 'dégueulasse' and missing verb 'osez'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["food", "disgust", "taste"],
+  "timeCreated": 1722041760
+}

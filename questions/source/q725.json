@@ -1,0 +1,18 @@
+{
+  "id": 725,
+  "audioText": "Tu fumes trop près de cet os fragile dans le cuir.",
+  "question": "Tu ______ trop près de cet os fragile dans le cuir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fumes",
+    "mange",
+    "bois",
+    "cours"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'fumes' (smoke) - second person singular present of 'fumer'. The complete text is '<em>Tu fumes trop près de cet os fragile dans le cuir</em>' - You smoke too close to this fragile bone in the leather. This targets nouns 'os' (bone) and 'cuir' (leather).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["smoking", "materials", "warning"],
+  "timeCreated": 1722041760
+}

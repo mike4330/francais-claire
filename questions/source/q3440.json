@@ -1,0 +1,23 @@
+{
+  "id": 3440,
+  "audioText": "Cette terre vierge aux forêts épaisses représente un territoire intact où l'homme jaloux de la nature n'a pas encore imposé sa volonté raisonnable mais destructrice",
+  "question": "What does this virgin land with thick forests represent?",
+  "questionType": "comprehension",
+  "options": [
+    "An intact territory where jealous humans haven't imposed their reasonable but destructive will",
+    "A dangerous wilderness that needs immediate human intervention",
+    "A perfect example of sustainable human development",
+    "A protected area where rational planning has succeeded"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette terre vierge aux forêts épaisses représente un territoire intact où l'homme jaloux de la nature n'a pas encore imposé sa volonté raisonnable mais destructrice</em>' - This virgin land with thick forests represents an intact territory where humans, jealous of nature, haven't yet imposed their reasonable but destructive will. This combines 'vierge', 'épaisses', 'jaloux', and 'raisonnable'.",
+  "difficulty": "C1",
+  "source": "Environmental philosophy",
+  "tags": [
+    "environment",
+    "nature",
+    "philosophy",
+    "conservation"
+  ],
+  "timeCreated": 1721069820
+}

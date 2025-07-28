@@ -1,0 +1,18 @@
+{
+  "id": 752,
+  "audioText": "Certes, cette enfant éternelle joue sagement.",
+  "question": "How does this eternal child play?",
+  "questionType": "comprehension",
+  "options": [
+    "Wisely",
+    "Loudly",
+    "Quickly",
+    "Carelessly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Certes, cette enfant éternelle joue sagement</em>' - Certainly, this eternal child plays wisely. The adverb 'sagement' (wisely) and adjective 'éternel' (eternal) describe mature play behavior. The adverb 'certes' (certainly) emphasizes the statement.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["children", "behavior", "wisdom"],
+  "timeCreated": 1722042000
+}

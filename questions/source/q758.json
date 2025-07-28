@@ -1,23 +1,18 @@
 {
   "id": 758,
-  "audioText": "Je ne pense pas qu'elle revienne dans sa chambre avant minuit.",
-  "question": "Qu'est-ce que vous avez entendu ?",
-  "questionType": "listening",
+  "audioText": "Ce film amusant me fait rire beaucoup.",
+  "question": "Ce film ______ me fait rire beaucoup.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "Je ne pense pas qu'elle revienne dans sa chambre avant minuit.",
-    "Je ne pense pas qu'elle revient dans sa chambre avant minuit.",
-    "Je ne pense pas qu'elle reviendra dans sa chambre avant minuit.",
-    "Je ne pense pas qu'elle revienne dans son bureau avant minuit."
+    "amusant",
+    "ennuyeux",
+    "triste",
+    "effrayant"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Je ne pense pas qu'elle revienne dans sa chambre avant minuit</em>' - I don't think she'll come back to her bedroom before midnight. 'Revienne' is the third person singular subjunctive form of 'revenir' (to come back), used after 'Je ne pense pas que'.",
-  "difficulty": "B2",
-  "source": "Evening routine",
-  "tags": [
-    "evening",
-    "home",
-    "daily-life"
-  ],
-  "timeCreated": 1704416160,
-  "verified": "claude"
+  "explanation": "The correct answer is 'amusant' (funny/amusing) - an adjective describing entertainment that causes laughter. The complete text is '<em>Ce film amusant me fait rire beaucoup</em>' - This amusing film makes me laugh a lot. This targets adjective 'amusant' in a simple entertainment context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["entertainment", "humor", "movies"],
+  "timeCreated": 1722042360
 }

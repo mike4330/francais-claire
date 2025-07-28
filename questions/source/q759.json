@@ -1,19 +1,18 @@
 {
-    "id": 759,
-    "audioText": "Il faut qu'elle termine son travail avant que l'alarme ne se déclenche.",
-    "question": "What must happen before the alarm goes off?",
-    "questionType": "comprehension",
-    "options": [
-        "She must finish her work",
-        "She must call for help",
-        "She must run away quickly",
-        "She must start the machine"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Il faut qu'elle termine son travail avant que l'alarme ne se déclenche</em>' - She must finish her work before the alarm goes off. 'Termine' is the third person singular subjunctive form of 'terminer' (to finish), used after 'Il faut que'.",
-    "difficulty": "B2",
-    "source": "Workplace scenario",
-    "tags": ["work", "deadline", "workplace"],
-    "timeCreated": 1704416220,
-    "verified": "claude"
+  "id": 759,
+  "audioText": "Cette montagne lointaine semble très belle.",
+  "question": "How does this distant mountain appear?",
+  "questionType": "comprehension",
+  "options": [
+    "Very beautiful",
+    "Quite dangerous",
+    "Rather small",
+    "Completely hidden"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette montagne lointaine semble très belle</em>' - This distant mountain seems very beautiful. The adjective 'lointaine' (distant) describes geographical remoteness with aesthetic appeal.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["nature", "mountains", "beauty"],
+  "timeCreated": 1722042360
 }

@@ -1,0 +1,18 @@
+{
+  "id": 719,
+  "audioText": "Le titre de ce livre traite des salutations traditionnelles dans différentes cultures.",
+  "question": "What does the book's title discuss?",
+  "questionType": "comprehension",
+  "options": [
+    "Traditional greetings in different cultures",
+    "Modern cooking methods worldwide",
+    "Historical wars between nations",
+    "Scientific discoveries in medicine"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le titre de ce livre traite des salutations traditionnelles dans différentes cultures</em>' - The title of this book deals with traditional greetings in different cultures. The noun 'titre' (title) refers to the name of a book. This targets missing verb 'traite' and under-represented topic 'greetings'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["books", "culture", "greetings"],
+  "timeCreated": 1722041760
+}

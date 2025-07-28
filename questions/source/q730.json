@@ -1,0 +1,18 @@
+{
+  "id": 730,
+  "audioText": "Cette aube échappe aux regards des gens pressés dans la ville.",
+  "question": "Cette ______ échappe aux regards des gens pressés dans la ville.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "aube",
+    "nuit",
+    "pluie",
+    "neige"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'aube' (dawn) - the early morning time when the sun rises. The complete text is '<em>Cette aube échappe aux regards des gens pressés dans la ville</em>' - This dawn escapes the notice of hurried people in the city. This targets noun 'aube' (dawn) and missing verb 'échappe' (escapes).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["time", "city-life", "nature"],
+  "timeCreated": 1722041760
+}

@@ -1,0 +1,15 @@
+{
+  "id": 747,
+  "audioText": "Ce génie réel comprend tout rapidement.",
+  "question": "Ce ______ réel comprend tout rapidement.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "génie",
+  "acceptedAnswers": ["génie", "Génie"],
+  "explanation": "The correct form is 'génie' (genius) - a person of exceptional intelligence. The complete text is '<em>Ce génie réel comprend tout rapidement</em>' - This real genius understands everything quickly. This targets noun 'génie' and adjective 'réel' (real).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["intelligence", "understanding", "talent"],
+  "timeCreated": 1722041880
+}

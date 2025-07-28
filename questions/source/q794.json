@@ -1,24 +1,18 @@
 {
   "id": 794,
-  "audioText": "Il faut que tu dises la vérité à tes parents.",
-  "question": "Il faut que tu ______ la vérité à tes parents.",
-  "questionType": "FIB-reading",
+  "audioText": "Cette nourriture dégueulasse sent vraiment horrible dans la cuisine.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
   "options": [
-    "dises",
-    "dis",
-    "dise",
-    "disais"
+    "Cette nourriture dégueulasse sent vraiment horrible dans la cuisine",
+    "Cette nourriture délicieuse sent vraiment horrible dans la cuisine",
+    "Cette nourriture dégueulasse sent vraiment bonne dans la cuisine",
+    "Cette boisson dégueulasse sent vraiment horrible dans la cuisine"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Il faut que tu dises la vérité à tes parents</em>' - You must tell the truth to your parents. The correct form is 'dises' (2nd person singular subjunctive of 'dire'). After 'il faut que', we must use the subjunctive mood. Since the subject is 'tu', we need 'dises'.",
-  "difficulty": "B2",
-  "source": "Family Honesty",
-  "tags": [
-    "family",
-    "honesty",
-    "truth",
-    "parents"
-  ],
-  "timeCreated": 1720051740,
-  "verified": "claude"
+  "explanation": "The text states '<em>Cette nourriture dégueulasse sent vraiment horrible dans la cuisine</em>' - This disgusting food really smells horrible in the kitchen. The adjective 'dégueulasse' (disgusting/gross) with adverb 'vraiment' (really) describes offensive food odor.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["food", "smell", "disgust"],
+  "timeCreated": 1722182520
 }

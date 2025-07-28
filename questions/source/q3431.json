@@ -1,0 +1,22 @@
+{
+  "id": 3431,
+  "audioText": "Cette patiente traitée selon des protocoles expérimentaux innovants bénéficie d'approches thérapeutiques révolutionnaires développées par une équipe multidisciplinaire internationale reconnue pour son expertise en médecine personnalisée.",
+  "question": "What characterizes the patient's treatment approach?",
+  "questionType": "comprehension",
+  "options": [
+    "Innovative experimental protocols with revolutionary therapeutic approaches from international experts",
+    "Standard conventional treatments following established medical guidelines",
+    "Basic care limited to symptom management and pain relief",
+    "Alternative medicine focusing exclusively on natural remedies"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette patiente traitée selon des protocoles expérimentaux innovants bénéficie d'approches thérapeutiques révolutionnaires développées par une équipe multidisciplinaire internationale reconnue pour son expertise en médecine personnalisée</em>' - This patient treated according to innovative experimental protocols benefits from revolutionary therapeutic approaches developed by an international multidisciplinary team recognized for its expertise in personalized medicine. The past participle 'traitée' describes cutting-edge medical care.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "medical-research",
+    "innovation",
+    "expertise"
+  ],
+  "timeCreated": 1722041760
+}

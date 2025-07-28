@@ -1,19 +1,18 @@
 {
-    "id": 765,
-    "audioText": "Elle observait tranquillement les étoiles quand soudain un météore a traversé le ciel nocturne.",
-    "question": "Elle observait tranquillement les étoiles quand ______ un météore a traversé le ciel nocturne.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "soudain",
-        "souvent",
-        "lentement",
-        "doucement"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Elle observait tranquillement les étoiles quand soudain un météore a traversé le ciel nocturne</em>' - She was quietly observing the stars when suddenly a meteor crossed the night sky. 'Soudain' means 'suddenly' and indicates an unexpected, abrupt event.",
-    "difficulty": "B1",
-    "source": "Night observation",
-    "tags": ["night", "observation", "astronomy"],
-    "timeCreated": 1704416700,
-    "verified": "claude"
+  "id": 765,
+  "audioText": "L'os de ce poulet est cassé.",
+  "question": "What is broken in this chicken?",
+  "questionType": "comprehension",
+  "options": [
+    "The bone",
+    "The wing",
+    "The skin",
+    "The meat"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'os de ce poulet est cassé</em>' - The bone of this chicken is broken. The noun 'os' (bone) with verb 'cassé' (broken) describes damaged poultry in cooking context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["food", "cooking", "damage"],
+  "timeCreated": 1722179640
 }

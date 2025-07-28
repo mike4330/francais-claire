@@ -1,0 +1,18 @@
+{
+  "id": 744,
+  "audioText": "Je demande pardon à ma mère pour cette erreur éternelle.",
+  "question": "Why is the speaker apologizing to their mother?",
+  "questionType": "comprehension",
+  "options": [
+    "For an eternal error",
+    "For arriving late",
+    "For forgetting something",
+    "For making noise"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je demande pardon à ma mère pour cette erreur éternelle</em>' - I ask my mother for forgiveness for this eternal error. The noun 'pardon' (forgiveness) and adjective 'éternel' (eternal) describe a lasting mistake requiring apology.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["family", "apology", "mistake"],
+  "timeCreated": 1722041880
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3422,
+  "audioText": "Arrête ! Tu ne peux pas traverser maintenant, le feu est rouge.",
+  "question": "______ ! Tu ne peux pas traverser maintenant, le feu est rouge.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "Arrête",
+    "Arrêtes",
+    "Arrêter",
+    "Arrêtant"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Arrête ! Tu ne peux pas traverser maintenant, le feu est rouge</em>' - Stop! You can't cross now, the light is red. The correct answer is 'Arrête' (2nd person singular imperative of 'arrêter'), the informal command form used to tell someone to stop immediately.",
+  "difficulty": "C1",
+  "source": "Traffic Safety - Emergency Commands",
+  "tags": [
+    "traffic-safety",
+    "emergency-commands",
+    "pedestrian-safety",
+    "urban-navigation"
+  ],
+  "timeCreated": 1720027640,
+  "verified": "claude"
+}

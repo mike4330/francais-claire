@@ -1,0 +1,15 @@
+{
+  "id": 715,
+  "audioText": "Tu abandonnes tes désirs personnels pour aider ta famille dans cette situation difficile.",
+  "question": "Tu ______ tes désirs personnels pour aider ta famille.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "abandonnes",
+  "acceptedAnswers": ["abandonnes", "Abandonnes"],
+  "explanation": "The correct word is 'abandonnes' (abandon/give up) - the 'tu' form of 'abandonner'. The complete text is '<em>Tu abandonnes tes désirs personnels pour aider ta famille dans cette situation difficile</em>' - You abandon your personal desires to help your family in this difficult situation. This targets under-represented topic 'desires'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["family", "sacrifice", "desires"],
+  "timeCreated": 1722041760
+}

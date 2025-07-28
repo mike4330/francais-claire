@@ -1,0 +1,23 @@
+{
+  "id": 3490,
+  "audioText": "Avant-hier, elle examinait machinalement les données là-dedans. Sitôt qu'elle découvrit les réactions chimiques, elle comprit que dorénavant la recherche scientifique exigerait une approche différente, bien au-delà des méthodes traditionnelles.",
+  "question": "When did she examine the data mechanically?",
+  "questionType": "comprehension",
+  "options": [
+    "Yesterday evening",
+    "The day before yesterday",
+    "Last week",
+    "This morning"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Avant-hier, elle examinait machinalement les données là-dedans. Sitôt qu'elle découvrit les réactions chimiques, elle comprit que dorénavant la recherche scientifique exigerait une approche différente, bien au-delà des méthodes traditionnelles.</em>' - 'The day before yesterday, she was mechanically examining the data in there. As soon as she discovered the chemical reactions, she understood that from now on scientific research would require a different approach, well beyond traditional methods.' The time reference is clearly 'avant-hier' (the day before yesterday).",
+  "difficulty": "C1",
+  "source": "Strategic adverb targeting",
+  "tags": [
+    "scientific-research",
+    "discovery",
+    "reactions",
+    "methodology"
+  ],
+  "timeCreated": 1720713600
+}

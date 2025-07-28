@@ -1,0 +1,15 @@
+{
+  "id": 718,
+  "audioText": "Ben, tu manges trop de viande rouge ces derniers temps selon ton médecin.",
+  "question": "Ben, tu manges trop de ______ rouge ces derniers temps selon ton médecin.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "viande",
+  "acceptedAnswers": ["viande", "Viande"],
+  "explanation": "The correct word is 'viande' (meat) - animal flesh used as food. The complete text is '<em>Ben, tu manges trop de viande rouge ces derniers temps selon ton médecin</em>' - Ben, you eat too much red meat lately according to your doctor. This also targets the interjection 'ben' (well).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["health", "diet", "medical-advice"],
+  "timeCreated": 1722041760
+}

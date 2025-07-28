@@ -1,0 +1,18 @@
+{
+  "id": 754,
+  "audioText": "Elle s'assoit califourchon sur sa chaise.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Elle s'assoit califourchon sur sa chaise",
+    "Elle s'assoit confortablement sur sa chaise",
+    "Elle s'assoit doucement sur sa chaise",
+    "Elle s'assoit normalement sur sa chaise"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Elle s'assoit califourchon sur sa chaise</em>' - She sits straddling her chair. The adverb 'califourchon' (straddling) describes a specific sitting position with legs on either side.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["posture", "sitting", "position"],
+  "timeCreated": 1722042000
+}

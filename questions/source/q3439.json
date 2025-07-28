@@ -1,0 +1,22 @@
+{
+  "id": 3439,
+  "audioText": "Cette quête éternelle de perfectionnement intellectuel transcende miraculeusement les limitations temporelles conventionnelles, permettant aux chercheurs passionnés de repousser continuellement les frontières conceptuelles établies par les générations précédentes dans leur exploration systématique des phénomènes complexes qui régissent fondamentalement l'évolution progressive de la connaissance humaine contemporaine.",
+  "question": "What does this eternal quest for intellectual improvement transcend miraculously?",
+  "questionType": "comprehension",
+  "options": [
+    "Conventional temporal limitations",
+    "Basic academic requirements",
+    "Simple research methodologies",
+    "Traditional educational frameworks"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette quête éternelle de perfectionnement intellectuel transcende miraculeusement les limitations temporelles conventionnelles, permettant aux chercheurs passionnés de repousser continuellement les frontières conceptuelles établies par les générations précédentes dans leur exploration systématique des phénomènes complexes qui régissent fondamentalement l'évolution progressive de la connaissance humaine contemporaine</em>' - This eternal quest for intellectual improvement miraculously transcends conventional temporal limitations, allowing passionate researchers to continuously push back the conceptual boundaries established by previous generations in their systematic exploration of complex phenomena that fundamentally govern the progressive evolution of contemporary human knowledge. The adjective 'éternelle' (eternal) with adverbs 'miraculeusement' (miraculously) and 'continuellement' (continuously) describes transcendent intellectual pursuit.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "philosophy",
+    "research",
+    "knowledge"
+  ],
+  "timeCreated": 1722182340
+}

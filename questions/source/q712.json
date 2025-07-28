@@ -1,0 +1,18 @@
+{
+  "id": 712,
+  "audioText": "Il baise la main de sa mère avant de partir au travail chaque matin.",
+  "question": "What does he do before leaving for work?",
+  "questionType": "comprehension",
+  "options": [
+    "He kisses his mother's hand",
+    "He shakes his mother's hand",
+    "He waves goodbye to his mother",
+    "He hugs his mother tightly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il baise la main de sa mère avant de partir au travail chaque matin</em>' - He kisses his mother's hand before leaving for work each morning. The verb 'baise' is an old-fashioned form of 'embrasser' (to kiss), often used in formal or literary contexts.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["family", "affection", "tradition"],
+  "timeCreated": 1722041760
+}

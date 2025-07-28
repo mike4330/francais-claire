@@ -1,0 +1,22 @@
+{
+  "id": 3462,
+  "audioText": "La crainte d'un effondrement économique majeur pousse les investisseurs vers des valeurs refuges traditionnelles comme l'or et l'immobilier, malgré leurs rendements historiquement modestes dans ce contexte inflationniste.",
+  "question": "What is driving investors toward traditional safe-haven assets?",
+  "questionType": "comprehension",
+  "options": [
+    "The fear of a major economic collapse, despite modest historical returns",
+    "The promise of high returns in an inflationary context",
+    "Government regulations requiring investment in gold and real estate",
+    "The certainty of economic stability in the coming months"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>La crainte d'un effondrement économique majeur pousse les investisseurs vers des valeurs refuges traditionnelles comme l'or et l'immobilier, malgré leurs rendements historiquement modestes dans ce contexte inflationniste</em>' - The fear of a major economic collapse is pushing investors toward traditional safe-haven assets like gold and real estate, despite their historically modest returns in this inflationary context. 'Crainte' (fear/apprehension) is a feminine noun expressing concern about future events.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "economics",
+    "finance",
+    "investment"
+  ],
+  "timeCreated": "2025-01-23T16:50:00Z"
+}

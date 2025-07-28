@@ -1,0 +1,18 @@
+{
+  "id": 729,
+  "audioText": "Tu oses prendre ce repos mérité après ton travail difficile.",
+  "question": "What does the person dare to take after difficult work?",
+  "questionType": "comprehension",
+  "options": [
+    "A well-deserved rest",
+    "A long vacation",
+    "A new job",
+    "Some medicine"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Tu oses prendre ce repos mérité après ton travail difficile</em>' - You dare to take this well-deserved rest after your difficult work. The noun 'repos' (rest) describes earned relaxation and the verb 'oses' (dare) suggests taking time for oneself.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["work", "rest", "self-care"],
+  "timeCreated": 1722041760
+}

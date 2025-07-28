@@ -1,0 +1,18 @@
+{
+  "id": 361,
+  "audioText": "Le chien tire sur sa laisse quand il voit d'autres animaux dans le parc.",
+  "question": "What does the dog pull on?",
+  "questionType": "comprehension",
+  "options": [
+    "His food bowl",
+    "His leash",
+    "His toy",
+    "His bed"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Le chien tire sur sa laisse quand il voit d'autres animaux dans le parc</em>' - The dog pulls on his leash when he sees other animals in the park. The noun 'laisse' (leash) is what connects the dog to its owner.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["animals", "pets", "park"],
+  "timeCreated": 1722041760
+}

@@ -1,20 +1,18 @@
-
 {
   "id": 756,
-  "audioText": "Demain, je passerai un entretien d'embauche pour un poste de chef de projet. J'espère vraiment que ça se passera bien.",
-  "question": "Demain, je ______ un entretien d'embauche pour un poste de chef de projet.",
-  "questionType": "fill-in-the-blank",
+  "audioText": "Je remarque ton nouveau costume bleu.",
+  "question": "What do I notice about you?",
+  "questionType": "comprehension",
   "options": [
-    "passerons",
-    "passerez",
-    "passerai",
-    "passeras"
+    "Your new blue suit",
+    "Your old red shirt",
+    "Your strange behavior",
+    "Your tired expression"
   ],
-  "correct": 2,
-  "explanation": "The text states '<em>Demain, je passerai un entretien d'embauche pour un poste de chef de projet</em>' - Tomorrow, I will have a job interview for a project manager position. The sentence requires the first-person singular of the futur simple tense for the verb 'passer', which is 'passerai'.",
-  "difficulty": "B1",
-  "source": "Gemini CLI",
-  "tags": ["career", "job-interview", "workplace"],
-  "timeCreated": 1720181343,
-  "verified": "claude"
+  "correct": 0,
+  "explanation": "The text states '<em>Je remarque ton nouveau costume bleu</em>' - I notice your new blue suit. The verb 'remarque' (notice) describes observation of clothing appearance.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["observation", "clothing", "appearance"],
+  "timeCreated": 1722042240
 }

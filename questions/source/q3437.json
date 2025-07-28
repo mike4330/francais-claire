@@ -1,0 +1,22 @@
+{
+  "id": 3437,
+  "audioText": "Ces résultats étonnant révèlent prodigieusement des corrélations statistiques extraordinaires entre les variables socio-économiques complexes que les chercheurs tenté d'analyser systématiquement pendant plusieurs années consécutives, bouleversant ainsi fondamentalement les théories académiques établies et ouvrant simultanément de nouvelles perspectives méthodologiques révolutionnaires pour les investigations futures dans ce domaine scientifique spécialisé.",
+  "question": "Ces résultats ______ révèlent prodigieusement des corrélations statistiques extraordinaires entre les variables socio-économiques complexes.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "étonnant",
+    "décevant",
+    "prévisible",
+    "ordinaire"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'étonnant' (astonishing) - an adjective describing surprising research findings. The complete text is '<em>Ces résultats étonnant révèlent prodigieusement des corrélations statistiques extraordinaires entre les variables socio-économiques complexes que les chercheurs tenté d'analyser systématiquement pendant plusieurs années consécutives, bouleversant ainsi fondamentalement les théories académiques établies et ouvrant simultanément de nouvelles perspectives méthodologiques révolutionnaires pour les investigations futures dans ce domaine scientifique spécialisé</em>' - These astonishing results prodigiously reveal extraordinary statistical correlations between complex socio-economic variables that researchers attempted to analyze systematically for several consecutive years, thus fundamentally disrupting established academic theories and simultaneously opening new revolutionary methodological perspectives for future investigations in this specialized scientific field. This targets adjective 'étonnant' with synergistic inclusion of adverb 'prodigieusement' and verb 'tenté' in advanced research context.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "research",
+    "statistics",
+    "discovery"
+  ],
+  "timeCreated": 1722042360
+}

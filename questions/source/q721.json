@@ -1,0 +1,18 @@
+{
+  "id": 721,
+  "audioText": "Je fiche tous mes papiers importants dans ce tiroir pour les retrouver.",
+  "question": "Je ______ tous mes papiers importants dans ce tiroir pour les retrouver.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "fiche",
+    "place",
+    "range",
+    "tourne"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'fiche' (put/stick) - to place something in a specific location. The complete text is '<em>Je fiche tous mes papiers importants dans ce tiroir pour les retrouver</em>' - I put all my important papers in this drawer to find them again. This targets under-represented topic 'paperwork'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["paperwork", "organization", "daily-life"],
+  "timeCreated": 1722041760
+}

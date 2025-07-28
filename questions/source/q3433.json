@@ -1,0 +1,22 @@
+{
+  "id": 3433,
+  "audioText": "Discutons méthodiquement de cette stratégie commerciale complexe qui nécessite une analyse approfondie des tendances du marché actuel avant toute prise de décision définitive concernant l'allocation des ressources financières disponibles pour ce trimestre fiscal particulièrement critique pour notre organisation.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Discutons méthodiquement de cette stratégie commerciale complexe qui nécessite une analyse approfondie des tendances du marché actuel",
+    "Discutons rapidement de cette stratégie commerciale complexe qui nécessite une analyse approfondie des tendances du marché actuel",
+    "Discutons méthodiquement de cette stratégie commerciale simple qui nécessite une analyse approfondie des tendances du marché actuel",
+    "Discutons méthodiquement de cette stratégie commerciale complexe qui nécessite une analyse superficielle des tendances du marché actuel"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Discutons méthodiquement de cette stratégie commerciale complexe qui nécessite une analyse approfondie des tendances du marché actuel avant toute prise de décision définitive concernant l'allocation des ressources financières disponibles pour ce trimestre fiscal particulièrement critique pour notre organisation</em>' - Let's discuss methodically this complex commercial strategy that requires a thorough analysis of current market trends before any definitive decision-making regarding the allocation of available financial resources for this particularly critical fiscal quarter for our organization. This targets verb 'discutons' (let's discuss) and includes adverb 'méthodiquement' (methodically).",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "strategy",
+    "business",
+    "analysis"
+  ],
+  "timeCreated": 1722041940
+}

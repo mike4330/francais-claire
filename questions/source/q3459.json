@@ -1,0 +1,22 @@
+{
+  "id": 3459,
+  "audioText": "Le film était atrocement ennuyeux et les spectateurs sont partis avant la fin.",
+  "question": "Write the correct form: Le film était ______ ennuyeux et les spectateurs sont partis avant la fin.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "atrocement",
+  "acceptedAnswers": [
+    "atrocement",
+    "Atrocement"
+  ],
+  "explanation": "The correct form is 'atrocement' (atrociously/terribly). The film was terribly boring and the spectators left before the end. 'Atrocement' intensifies the negative quality.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "entertainment",
+    "cinema",
+    "boredom"
+  ],
+  "timeCreated": "2025-01-21T17:09:00Z"
+}

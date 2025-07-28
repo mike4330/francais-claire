@@ -1,0 +1,18 @@
+{
+  "id": 753,
+  "audioText": "Il parle bonnement de son pote sincère.",
+  "question": "Il parle ______ de son pote sincère.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "bonnement",
+    "méchamment",
+    "tristement",
+    "rapidement"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'bonnement' (simply/honestly) - an adverb meaning in a straightforward manner. The complete text is '<em>Il parle bonnement de son pote sincère</em>' - He speaks simply about his sincere friend. This targets adverb 'bonnement' and includes nouns 'pote' (buddy) and adjective 'sincère' (sincere).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["friendship", "honesty", "speaking"],
+  "timeCreated": 1722042000
+}

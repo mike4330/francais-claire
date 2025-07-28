@@ -1,0 +1,18 @@
+{
+  "id": 735,
+  "audioText": "Cette chouette soirée, tu osé danser avec tout le monde!",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette chouette soirée, tu as osé danser avec tout le monde",
+    "Cette belle soirée, tu as osé danser avec tout le monde",
+    "Cette super soirée, tu as osé danser avec tout le monde",
+    "Cette géniale soirée, tu as osé danser avec tout le monde"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette chouette soirée, tu as osé danser avec tout le monde</em>' - This cool evening, you dared to dance with everyone! The adjective 'chouette' (cool/nice) and missing verb 'osé' (dared) describe a fun social event.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["party", "dancing", "social"],
+  "timeCreated": 1722041760
+}

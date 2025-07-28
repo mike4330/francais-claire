@@ -1,0 +1,22 @@
+{
+  "id": 3435,
+  "audioText": "L'architecte contemporain a minutieusement conçu ce projet révolutionnaire en intégrant harmonieusement les éléments écologiques durables avec les innovations technologiques avancées, créant ainsi un écosystème urbain exemplaire qui transformera définitivement notre perception traditionnelle de l'habitat moderne et influencera prodigieusement l'évolution future de l'urbanisme intelligent.",
+  "question": "What has the contemporary architect done with this revolutionary project?",
+  "questionType": "comprehension",
+  "options": [
+    "Created an exemplary urban ecosystem integrating ecological and technological elements",
+    "Focused exclusively on traditional architectural styles without modern innovations",
+    "Developed a purely commercial project prioritizing profit over sustainability",
+    "Designed a simple residential building using conventional construction methods"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'architecte contemporain a minutieusement conçu ce projet révolutionnaire en intégrant harmonieusement les éléments écologiques durables avec les innovations technologiques avancées, créant ainsi un écosystème urbain exemplaire qui transformera définitivement notre perception traditionnelle de l'habitat moderne et influencera prodigieusement l'évolution future de l'urbanisme intelligent</em>' - The contemporary architect has meticulously designed this revolutionary project by harmoniously integrating sustainable ecological elements with advanced technological innovations, thus creating an exemplary urban ecosystem that will definitively transform our traditional perception of modern habitat and will prodigiously influence the future evolution of intelligent urbanism. This targets missing adverb 'prodigieusement' (prodigiously) in an advanced architectural context.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "architecture",
+    "technology",
+    "sustainability"
+  ],
+  "timeCreated": 1722042120
+}

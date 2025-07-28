@@ -1,19 +1,18 @@
 {
-    "id": 781,
-    "audioText": "Son talent incroyable pour la musique lui a permis de réussir dans tous les concours.",
-    "question": "What allowed him to succeed in all competitions?",
-    "questionType": "comprehension",
-    "options": [
-        "His incredible talent for music",
-        "His expensive musical instruments",
-        "His years of formal training",
-        "His family connections in music"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Son talent incroyable pour la musique lui a permis de réussir dans tous les concours</em>' - His incredible talent for music allowed him to succeed in all competitions. 'Incroyable' means 'incredible/amazing' and emphasizes the exceptional nature of his musical ability.",
-    "difficulty": "B2",
-    "source": "Musical talent",
-    "tags": ["music", "talent", "competitions", "success"],
-    "timeCreated": 1720132800,
-    "verified": "claude"
+  "id": 781,
+  "audioText": "Il fui rapidement quand il vit la police.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Il fui rapidement quand il vit la police",
+    "Il fut rapidement quand il vit la police",
+    "Il fuit rapidement quand il vit la police",
+    "Il fui lentement quand il vit la police"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il fui rapidement quand il vit la police</em>' - He fled quickly when he saw the police. The verb 'fui' (fled - simple past) with adverb 'rapidement' (quickly) describes hasty escape from authorities.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["escape", "police", "fear"],
+  "timeCreated": 1722181260
 }

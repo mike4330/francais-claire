@@ -1,0 +1,22 @@
+{
+  "id": 3463,
+  "audioText": "Les ruelles étroites du quartier historique empêchez irrésistiblement les véhicules modernes de circuler efficacement, créant perpétuellement des embouteillages aux heures de pointe.",
+  "question": "What problem do the narrow streets create?",
+  "questionType": "comprehension",
+  "options": [
+    "The narrow historic streets irresistibly prevent modern vehicles from circulating efficiently, perpetually creating traffic jams",
+    "The narrow streets make it easier for vehicles to move quickly",
+    "The historic district has no traffic problems at all",
+    "Modern vehicles are banned from the area by law"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les ruelles étroites du quartier historique empêchez irrésistiblement les véhicules modernes de circuler efficacement, créant perpétuellement des embouteillages aux heures de pointe</em>' - The narrow alleys of the historic district irresistibly prevent modern vehicles from circulating efficiently, perpetually creating traffic jams during rush hours. 'Étroites' (narrow) is the target adjective, with missing adverbs 'irrésistiblement' (irresistibly) and 'perpétuellement' (perpetually).",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "urban-planning",
+    "transportation",
+    "historical-preservation"
+  ],
+  "timeCreated": "2025-01-23T16:59:00Z"
+}

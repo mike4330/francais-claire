@@ -1,0 +1,22 @@
+{
+  "id": 3455,
+  "audioText": "Sa connaissance approfondie de la philosophie lui permet de participer à des débats intellectuels stimulants.",
+  "question": "What enables him to participate in stimulating intellectual debates?",
+  "questionType": "comprehension",
+  "options": [
+    "His deep knowledge of philosophy",
+    "His years of university teaching",
+    "His extensive library collection",
+    "His natural debating talent"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Sa connaissance approfondie de la philosophie lui permet de participer à des débats intellectuels stimulants</em>' - His deep knowledge of philosophy enables him to participate in stimulating intellectual debates. 'Connaissance' means knowledge/understanding.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "philosophy",
+    "intellectual-discussion",
+    "knowledge"
+  ],
+  "timeCreated": "2025-01-21T16:42:00Z"
+}

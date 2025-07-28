@@ -1,0 +1,18 @@
+{
+  "id": 734,
+  "audioText": "Ce repas gras prouve que tu manges trop de choses malsaines.",
+  "question": "What does this greasy meal prove about eating habits?",
+  "questionType": "comprehension",
+  "options": [
+    "Eating too many unhealthy things",
+    "Following a perfect diet",
+    "Choosing only organic foods",
+    "Maintaining excellent nutrition"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce repas gras prouve que tu manges trop de choses malsaines</em>' - This greasy meal proves that you eat too many unhealthy things. The adjective 'gras' (greasy/fatty) and missing verb 'prouve' (proves) describe poor dietary choices.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["diet", "health", "food"],
+  "timeCreated": 1722041760
+}

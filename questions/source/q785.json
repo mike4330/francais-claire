@@ -1,24 +1,18 @@
 {
   "id": 785,
-  "audioText": "Elle a été appelée pour un entretien demain matin.",
-  "question": "What happened to her regarding tomorrow morning?",
-  "questionType": "comprehension",
+  "audioText": "Le voleur fuit désespérément par la fenêtre ouverte.",
+  "question": "Le voleur ______ désespérément par la fenêtre ouverte.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "She was called for an interview tomorrow morning",
-    "She has to call someone tomorrow morning",
-    "She will call her boss tomorrow morning",
-    "She missed a call from work yesterday"
+    "fuit",
+    "dort",
+    "mange",
+    "danse"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Elle a été appelée pour un entretien demain matin.</em>' - She was called for an interview tomorrow morning. 'Appelée' is the feminine past participle of 'appeler' (to call), used here in the passive voice.",
-  "difficulty": "B1",
-  "source": "Job Interview",
-  "tags": [
-    "job-interview",
-    "appointments",
-    "phone-calls",
-    "employment"
-  ],
-  "timeCreated": 1720051380,
-  "verified": "claude"
+  "explanation": "The correct answer is 'fuit' (flees) - third person singular present of 'fuir'. The complete text is '<em>Le voleur fuit désespérément par la fenêtre ouverte</em>' - The thief desperately flees through the open window. This targets verb 'fuit' with adverb 'désespérément' (desperately) in crime context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["crime", "escape", "desperation"],
+  "timeCreated": 1722181620
 }

@@ -1,0 +1,22 @@
+{
+  "id": 3464,
+  "audioText": "Cette procédure administrative extrêmement pénible oblige les citoyens à attendre interminablement dans des files d'attente, rendant l'expérience particulièrement frustrante pour tous ceux qui ont des obligations professionnelles urgentes.",
+  "question": "What makes this administrative procedure particularly difficult?",
+  "questionType": "comprehension",
+  "options": [
+    "The extremely painful procedure forces citizens to wait endlessly in queues, making it frustrating for those with urgent professional obligations",
+    "The procedure is quick and efficient for all citizens",
+    "Only certain people are allowed to use this procedure",
+    "The procedure can be completed entirely online without waiting"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette procédure administrative extrêmement pénible oblige les citoyens à attendre interminablement dans des files d'attente, rendant l'expérience particulièrement frustrante pour tous ceux qui ont des obligations professionnelles urgentes</em>' - This extremely painful administrative procedure forces citizens to wait endlessly in queues, making the experience particularly frustrating for all those who have urgent professional obligations. 'Pénible' (painful/difficult) is the target adjective, with the missing adverb 'interminablement' (endlessly).",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "administration",
+    "bureaucracy",
+    "obligation"
+  ],
+  "timeCreated": "2025-01-23T17:00:00Z"
+}

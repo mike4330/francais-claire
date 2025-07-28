@@ -1,20 +1,18 @@
-
 {
   "id": 768,
-  "audioText": "Il est tout à fait humain de faire des erreurs, mais pour progresser, il faut s'analyser régulièrement et apprendre de ses échecs.",
-  "question": "Pour progresser, il faut s'analyser ______ et apprendre de ses échecs.",
+  "audioText": "Il se sent à l'aise dans cette situation.",
+  "question": "Il se sent à ______ dans cette situation.",
   "questionType": "fill-in-the-blank",
   "options": [
-    "rarement",
-    "régulièrement",
-    "parfois",
-    "jamais"
+    "l'aise",
+    "l'école",
+    "l'heure",
+    "l'aide"
   ],
-  "correct": 1,
-  "explanation": "The text states '<em>Il est tout à fait humain de faire des erreurs, mais pour progresser, il faut s'analyser régulièrement et apprendre de ses échecs</em>' - It is quite human to make mistakes, but to progress, one must analyze oneself regularly and learn from failures. The adverb 'régulièrement' (regularly) fits this context perfectly. The adjective 'humain' (human) is also used.",
-  "difficulty": "B2",
-  "source": "Gemini CLI",
-  "tags": ["psychology", "self-improvement", "learning"],
-  "timeCreated": 1720181347,
-  "verified": "claude"
+  "correct": 0,
+  "explanation": "The correct answer is 'l'aise' (ease/comfort) - the expression 'à l'aise' means comfortable or at ease. The complete text is '<em>Il se sent à l'aise dans cette situation</em>' - He feels at ease in this situation. This targets the noun 'aise' in comfort context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["comfort", "feeling", "situation"],
+  "timeCreated": 1722179940
 }

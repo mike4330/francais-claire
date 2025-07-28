@@ -1,0 +1,23 @@
+{
+  "id": 3461,
+  "audioText": "Cette décision controversée mènera inévitablement à des manifestations massives dans la capitale.",
+  "question": "What will this controversial decision inevitably lead to?",
+  "questionType": "comprehension",
+  "options": [
+    "Massive demonstrations in the capital",
+    "Economic recession throughout the country",
+    "Political negotiations with opposition",
+    "International diplomatic tensions"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette décision controversée mènera inévitablement à des manifestations massives dans la capitale</em>' - This controversial decision will inevitably lead to massive demonstrations in the capital. 'Inévitablement' means inevitably/unavoidably.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "politics",
+    "protests",
+    "consequences"
+  ],
+  "timeCreated": 1737478500,
+  "verified": "claude"
+}

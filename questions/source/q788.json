@@ -1,24 +1,15 @@
 {
   "id": 788,
-  "audioText": "Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre.",
-  "question": "What advice is being given about data?",
-  "questionType": "comprehension",
-  "options": [
-    "You should back up your data more often to avoid losing it",
-    "You should delete old data to free up space",
-    "You should share your data with colleagues",
-    "You should encrypt your data for security"
-  ],
+  "audioText": "Ces deux situations semblables créent exactement les mêmes problèmes.",
+  "question": "Ces deux situations ______ créent exactement les mêmes problèmes.",
+  "questionType": "writing",
+  "options": [],
   "correct": 0,
-  "explanation": "The text states '<em>Vous devriez sauvegarder vos données plus souvent pour éviter de les perdre</em>' - You should back up your data more often to avoid losing it. 'Devriez' is the conditional form of 'devoir' (should), 'sauvegarder' means to back up, and 'données' means data.",
-  "difficulty": "B1",
-  "source": "Strategic vocabulary targeting",
-  "tags": [
-    "technology",
-    "data",
-    "backup",
-    "advice"
-  ],
-  "timeCreated": 1720051860,
-  "verified": "claude"
+  "correctAnswer": "semblables",
+  "acceptedAnswers": ["semblables", "Semblables"],
+  "explanation": "The correct form is 'semblables' (similar) - plural adjective agreeing with 'situations'. The complete text is '<em>Ces deux situations semblables créent exactement les mêmes problèmes</em>' - These two similar situations create exactly the same problems. This targets adjective 'semblables' with adverb 'exactement' (exactly) in comparison context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["comparison", "similarity", "problems"],
+  "timeCreated": 1722182040
 }

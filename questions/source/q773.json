@@ -1,19 +1,15 @@
 {
-    "id": 773,
-    "audioText": "J'ai cherché mes clés partout mais je les ai perdus, c'est fou autrement je serais déjà parti.",
-    "question": "J'ai cherché mes clés partout mais je les ai ______, c'est fou autrement je serais déjà parti.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "perdus",
-        "trouvés",
-        "rangés",
-        "oubliés"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>J'ai cherché mes clés partout mais je les ai perdus, c'est fou autrement je serais déjà parti</em>' - I looked for my keys everywhere but I lost them, it's crazy otherwise I would have already left. 'Perdus' is the past participle of 'perdre' (to lose), 'fou' means 'crazy', and 'autrement' means 'otherwise'.",
-    "difficulty": "B2",
-    "source": "Daily frustration",
-    "tags": ["searching", "keys", "frustration"],
-    "timeCreated": 1736102520,
-    "verified": "claude"
+  "id": 773,
+  "audioText": "Ce lycée moderne offre d'excellents programmes éducatifs.",
+  "question": "Ce ______ moderne offre d'excellents programmes éducatifs.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "lycée",
+  "acceptedAnswers": ["lycée", "Lycée"],
+  "explanation": "The correct answer is 'lycée' (high school) - a secondary education institution in France. The complete text is '<em>Ce lycée moderne offre d'excellents programmes éducatifs</em>' - This modern high school offers excellent educational programs. This targets the noun 'lycée' in education context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["education", "school", "programs"],
+  "timeCreated": 1722180480
 }

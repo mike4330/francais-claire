@@ -1,0 +1,15 @@
+{
+  "id": 727,
+  "audioText": "Vous filez vers le repos après cette longue aube de travail.",
+  "question": "Vous ______ vers le repos après cette longue aube de travail.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "filez",
+  "acceptedAnswers": ["filez", "Filez"],
+  "explanation": "The correct form is 'filez' (rush/hurry) - second person plural present of 'filer'. The complete text is '<em>Vous filez vers le repos après cette longue aube de travail</em>' - You rush toward rest after this long dawn of work. This targets nouns 'repos' (rest) and 'aube' (dawn).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["work", "rest", "time"],
+  "timeCreated": 1722041760
+}

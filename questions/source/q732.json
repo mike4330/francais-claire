@@ -1,0 +1,15 @@
+{
+  "id": 732,
+  "audioText": "Ce cuir répétez la texture douce et naturelle des animaux.",
+  "question": "Ce ______ répète la texture douce et naturelle des animaux.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "cuir",
+  "acceptedAnswers": ["cuir", "Cuir"],
+  "explanation": "The correct word is 'cuir' (leather) - material made from animal hide. The complete text is '<em>Ce cuir répète la texture douce et naturelle des animaux</em>' - This leather repeats the soft and natural texture of animals. This targets noun 'cuir' (leather) and missing verb 'répétez' (repeat).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["materials", "animals", "texture"],
+  "timeCreated": 1722041760
+}

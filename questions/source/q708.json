@@ -1,0 +1,18 @@
+{
+  "id": 708,
+  "audioText": "Il baise sa femme doucement avant de partir.",
+  "question": "What does the man do before leaving?",
+  "questionType": "comprehension",
+  "options": [
+    "He kisses his wife gently",
+    "He waves goodbye to his wife",
+    "He hugs his wife tightly",
+    "He speaks quietly to his wife"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Il baise sa femme doucement avant de partir</em>' - He kisses his wife gently before leaving. The verb 'baise' is an old-fashioned or literary form of 'embrasser' (to kiss).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["romance", "affection", "departure"],
+  "timeCreated": 1722041760
+}

@@ -1,0 +1,18 @@
+{
+  "id": 743,
+  "audioText": "Les médecins traitent ce patient sourd avec beaucoup de patience.",
+  "question": "How do the doctors treat this deaf patient?",
+  "questionType": "comprehension",
+  "options": [
+    "With a lot of patience",
+    "Very quickly and efficiently",
+    "Without any special attention",
+    "Using only standard procedures"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les médecins traitent ce patient sourd avec beaucoup de patience</em>' - The doctors treat this deaf patient with a lot of patience. The verb 'traitent' (treat) and adjective 'sourd' (deaf) describe compassionate medical care.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["medical-care", "patience", "disability"],
+  "timeCreated": 1722041760
+}

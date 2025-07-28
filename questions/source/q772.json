@@ -1,19 +1,18 @@
 {
-    "id": 772,
-    "audioText": "Le chat noir sortait souvent la nuit et sautait dessus le toit de la maison.",
-    "question": "Where did the black cat jump at night?",
-    "questionType": "comprehension",
-    "options": [
-        "On top of the house roof",
-        "Into the neighbor's garden",
-        "Through the front door",
-        "Under the old wooden table"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Le chat noir sortait souvent la nuit et sautait dessus le toit de la maison</em>' - The black cat would often go out at night and jump on top of the house roof. 'Sortait' is the imperfect form of 'sortir' (to go out), 'dessus' means 'on top of', and 'noir' describes the cat's color.",
-    "difficulty": "B1",
-    "source": "Animal behavior",
-    "tags": ["animals", "nighttime", "house"],
-    "timeCreated": 1736102460,
-    "verified": "claude"
+  "id": 772,
+  "audioText": "Le camion rouge transporte les marchandises lourdes.",
+  "question": "Le ______ rouge transporte les marchandises lourdes.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "camion",
+    "train",
+    "bateau",
+    "avion"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'camion' (truck) - a vehicle for transporting goods. The complete text is '<em>Le camion rouge transporte les marchandises lourdes</em>' - The red truck transports heavy goods. This targets the noun 'camion' in transportation context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["transport", "goods", "vehicle"],
+  "timeCreated": 1722180300
 }

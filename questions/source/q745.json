@@ -1,0 +1,18 @@
+{
+  "id": 745,
+  "audioText": "Cette haine sincère détruit toute notre amitié.",
+  "question": "Cette ______ sincère détruit toute notre amitié.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "haine",
+    "joie",
+    "peur",
+    "colère"
+  ],
+  "correct": 0,
+  "explanation": "The correct answer is 'haine' (hatred) - a strong negative emotion. The complete text is '<em>Cette haine sincère détruit toute notre amitié</em>' - This sincere hatred destroys all our friendship. This targets noun 'haine' and adjective 'sincère' (sincere).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["emotions", "friendship", "conflict"],
+  "timeCreated": 1722041880
+}

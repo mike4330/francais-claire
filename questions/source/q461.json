@@ -1,24 +1,24 @@
 {
-    "id": 461,
-    "audioText": "J'ai subitement envie de faire le tour du quartier.",
-    "question": "J'ai subitement envie de faire le tour du quartier.",
-    "questionType": "listening",
-    "options": [
-        "Suddenly",
-        "Gradually",
-        "Reluctantly",
-        "Repeatedly"
-    ],
-    "correct": 0,
-    "explanation": "The speaker says '<em>J'ai subitement envie de faire le tour du quartier</em>' - I suddenly want to take a walk around the neighborhood. 'Subitement' means 'suddenly', 'envie' means 'desire/want', 'tour' means 'tour/walk around'. The distractors test confusion about the adverb.",
-    "difficulty": "A2",
-    "source": "Spontaneous activity",
-    "tags": [
-        "leisure",
-        "walking",
-        "spontaneous-activity"
-    ],
-    "timeCreated": 1720881353,
-    "parentQuestion": 918,
-    "verified": "claude"
+  "id": 461,
+  "audioText": "J'ai subitement envie de faire le tour du quartier.",
+  "question": "J'ai subitement envie de faire le tour du quartier.",
+  "questionType": "listening",
+  "options": [
+    "Suddenly",
+    "Gradually",
+    "Reluctantly",
+    "Repeatedly"
+  ],
+  "correct": 0,
+  "explanation": "The speaker says '<em>J'ai subitement envie de faire le tour du quartier</em>' - I suddenly want to take a walk around the neighborhood. 'Subitement' means 'suddenly', 'envie' means 'desire/want', 'tour' means 'tour/walk around'. The distractors test confusion about the adverb.",
+  "difficulty": "A2",
+  "source": "Spontaneous activity",
+  "tags": [
+    "leisure",
+    "walking",
+    "spontaneous-activity"
+  ],
+  "timeCreated": 1720881353,
+  "parentQuestion": 2723,
+  "verified": "claude"
 }

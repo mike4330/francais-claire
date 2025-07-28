@@ -1,0 +1,22 @@
+{
+  "id": 3491,
+  "audioText": "Les scientifiques explorent les mystères de l'univers en utilisant des télescopes ultramodernes pour observer les galaxies lointaines.",
+  "question": "What do scientists explore?",
+  "questionType": "comprehension",
+  "options": [
+    "Ocean depths with submarines",
+    "Mysteries of the universe with telescopes",
+    "Ancient civilizations with excavations",
+    "Weather patterns with satellites"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Les scientifiques explorent les mystères de l'univers en utilisant des télescopes ultramodernes pour observer les galaxies lointaines</em>' - Scientists explore the mysteries of the universe using ultramodern telescopes to observe distant galaxies. The noun 'univers' (universe) refers to all of space and matter.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "science",
+    "astronomy",
+    "space"
+  ],
+  "timeCreated": 1722041760
+}

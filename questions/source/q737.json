@@ -1,0 +1,15 @@
+{
+  "id": 737,
+  "audioText": "Tu traites cette minuscule coupure avec beaucoup d'attention.",
+  "question": "Tu ______ cette minuscule coupure avec beaucoup d'attention.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "traites",
+  "acceptedAnswers": ["traites", "Traites"],
+  "explanation": "The correct form is 'traites' (treat) - second person singular present of 'traiter'. The complete text is '<em>Tu traites cette minuscule coupure avec beaucoup d'attention</em>' - You treat this tiny cut with a lot of attention. This targets verb 'traites' and adjective 'minuscule' (tiny).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["health", "care", "attention"],
+  "timeCreated": 1722041760
+}

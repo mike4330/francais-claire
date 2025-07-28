@@ -1,0 +1,15 @@
+{
+  "id": 720,
+  "audioText": "L'attente du bus devient longue sous le ciel gris de cette fin d'année.",
+  "question": "L'______ du bus devient longue sous le ciel gris de cette fin d'année.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "attente",
+  "acceptedAnswers": ["attente", "Attente"],
+  "explanation": "The correct word is 'attente' (wait/waiting) - the action of staying in expectation. The complete text is '<em>L'attente du bus devient longue sous le ciel gris de cette fin d'année</em>' - The wait for the bus becomes long under the gray sky of this end of year. This targets under-represented topics 'sky' and 'year'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["transportation", "weather", "sky", "year"],
+  "timeCreated": 1722041760
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3523,
+  "audioText": "Cette organisation extrémiste manifeste volontairement son opposition à ces droits fondamentaux, cherchant à détourner manifestement le sens traditionnel de la justice dans cette société contemporaine pour imposer différemment ses idéologies radicales.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette organisation extrémiste manifeste volontairement son opposition à ces droits fondamentaux, cherchant à détourner manifestement le sens traditionnel de la justice dans cette société contemporaine pour imposer différemment ses idéologies radicales.",
+    "Cette organisation extrémiste manifeste volontairement son opposition à ces droits fondamentaux, cherchant à détourner clairement le sens traditionnel de la justice dans cette société contemporaine pour imposer différemment ses idéologies radicales.",
+    "Cette organisation extrémiste manifeste volontairement son opposition à ces droits fondamentaux, cherchant à détourner manifestement le sens traditionnel de la justice dans cette société contemporaine pour imposer brutalement ses idéologies radicales.",
+    "Cette organisation extrémiste exprime volontairement son opposition à ces droits fondamentaux, cherchant à détourner manifestement le sens traditionnel de la justice dans cette société contemporaine pour imposer différemment ses idéologies radicales."
+  ],
+  "correct": 0,
+  "explanation": "The audio states '<em>Cette organisation extrémiste manifeste volontairement son opposition à ces droits fondamentaux, cherchant à détourner manifestement le sens traditionnel de la justice dans cette société contemporaine pour imposer différemment ses idéologies radicales.</em>' - 'This extremist organization voluntarily manifests its opposition to these fundamental rights, seeking to manifestly divert the traditional meaning of justice in this contemporary society to differently impose its radical ideologies.' The nouns 'droit' means rights and 'sens' means meaning/sense, with key adverbs 'volontairement' (voluntarily), 'manifestement' (manifestly), and 'différemment' (differently).",
+  "difficulty": "C1",
+  "source": "Strategic noun targeting",
+  "tags": [
+    "extremism",
+    "law",
+    "politics"
+  ],
+  "timeCreated": 1720715800
+}

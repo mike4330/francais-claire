@@ -1,20 +1,18 @@
-
 {
   "id": 776,
-  "audioText": "Pour que la démocratie vive et prospère, il est impératif que chaque citoyen participe activement au processus électoral et exprime ses opinions de manière constructive.",
-  "question": "Pour que la démocratie ______, il est impératif que chaque citoyen participe.",
-  "questionType": "listening",
+  "audioText": "Cette piste cyclable mène directement au centre-ville.",
+  "question": "Where does this bike path lead directly?",
+  "questionType": "comprehension",
   "options": [
-    "vit",
-    "vivra",
-    "vive",
-    "vivait"
+    "To the city center",
+    "To the train station",
+    "To the shopping mall",
+    "To the sports complex"
   ],
-  "correct": 2,
-  "explanation": "The text states '<em>Pour que la démocratie vive et prospère, il est impératif que chaque citoyen participe activement au processus électoral et exprime ses opinions de manière constructive</em>' - For democracy to live and prosper, it is imperative that each citizen actively participates in the electoral process and expresses their opinions constructively. The phrase 'Pour que' (in order that) requires the subjunctive mood. 'Vive' is the present subjunctive form of 'vivre' (to live).",
-  "difficulty": "B2",
-  "source": "Gemini CLI",
-  "tags": ["goals", "politics", "democracy", "civic-duty"],
-  "timeCreated": 1720181353,
-  "verified": "claude"
+  "correct": 0,
+  "explanation": "The text states '<em>Cette piste cyclable mène directement au centre-ville</em>' - This bike path leads directly to the city center. The noun 'piste' (path/track) with adverb 'directement' (directly) describes urban cycling infrastructure.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["transport", "cycling", "city"],
+  "timeCreated": 1722180780
 }

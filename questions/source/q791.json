@@ -1,24 +1,18 @@
 {
   "id": 791,
-  "audioText": "Le médecin dit qu'il ne peut pas travailler à la campagne parce que c'est trop difficile pour lui.",
-  "question": "Qu'est-ce que vous avez entendu?",
-  "questionType": "listening",
+  "audioText": "Ce couloir étroit mène directement à la sortie d'urgence.",
+  "question": "Ce couloir ______ mène directement à la sortie d'urgence.",
+  "questionType": "fill-in-the-blank",
   "options": [
-    "Le médecin dit qu'il ne peut pas travailler à la campagne parce que c'est trop difficile pour lui.",
-    "Le médecin dit qu'il ne veut pas travailler à la campagne parce que c'est trop difficile pour lui.",
-    "Le médecin dit qu'il ne peut pas travailler à la campagne parce que c'est trop loin pour lui.",
-    "Le médecin dit qu'il ne peut pas travailler en ville parce que c'est trop difficile pour lui."
+    "étroit",
+    "large",
+    "haut",
+    "bas"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Le médecin dit qu'il ne peut pas travailler à la campagne parce que c'est trop difficile pour lui.</em>' - The doctor says he cannot work in the countryside because it's too difficult for him. This describes a doctor's limitation regarding rural practice.",
-  "difficulty": "B2",
-  "source": "Healthcare accessibility discussion",
-  "tags": [
-    "healthcare",
-    "rural-areas",
-    "medical-practice",
-    "difficulty"
-  ],
-  "timeCreated": 1720200000,
-  "verified": "claude"
+  "explanation": "The correct answer is 'étroit' (narrow) - describing a corridor's width. The complete text is '<em>Ce couloir étroit mène directement à la sortie d'urgence</em>' - This narrow corridor leads directly to the emergency exit. This targets adjective 'étroit' with adverb 'directement' (directly) in safety context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["building", "safety", "emergency"],
+  "timeCreated": 1722182280
 }

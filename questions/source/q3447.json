@@ -1,0 +1,23 @@
+{
+  "id": 3447,
+  "audioText": "Cet architecte renommé a habité cette magnifique demeure victorienne pendant vingt-cinq années consécutives avant de la léguer à ses descendants.",
+  "question": "What did the renowned architect do with the Victorian mansion?",
+  "questionType": "comprehension",
+  "options": [
+    "Lived in it for twenty-five consecutive years before bequeathing it to descendants",
+    "Renovated it completely and sold it to wealthy investors",
+    "Transformed it into a prestigious cultural center for the community",
+    "Demolished it to build a modern architectural masterpiece"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cet architecte renommé a habité cette magnifique demeure victorienne pendant vingt-cinq années consécutives avant de la léguer à ses descendants</em>' - This renowned architect lived in this magnificent Victorian mansion for twenty-five consecutive years before bequeathing it to his descendants. 'Habité' is the past participle of 'habiter' (to live/reside).",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "architecture",
+    "inheritance",
+    "historical-buildings"
+  ],
+  "timeCreated": 1737471900,
+  "verified": "claude"
+}

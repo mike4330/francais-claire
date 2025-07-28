@@ -1,0 +1,15 @@
+{
+  "id": 722,
+  "audioText": "Tu risque de perdre cet objet si tu ne fais pas attention.",
+  "question": "Tu ______ de perdre cet objet si tu ne fais pas attention.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "risques",
+  "acceptedAnswers": ["risques", "Risques"],
+  "explanation": "The correct form is 'risques' (risk) - second person singular present of 'risquer'. The complete text is '<em>Tu risques de perdre cet objet si tu ne fais pas attention</em>' - You risk losing this object if you don't pay attention. This also targets the noun 'objet' (object).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["warning", "objects", "daily-life"],
+  "timeCreated": 1722041760
+}

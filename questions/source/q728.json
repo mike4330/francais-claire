@@ -1,0 +1,18 @@
+{
+  "id": 728,
+  "audioText": "Ma reine ose porter cette belle robe rouge pour le dîner.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Ma reine ose porter cette belle robe rouge pour le dîner",
+    "Ma reine veut porter cette belle robe rouge pour le dîner",
+    "Ma reine peut porter cette belle robe rouge pour le dîner",
+    "Ma reine doit porter cette belle robe rouge pour le dîner"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ma reine ose porter cette belle robe rouge pour le dîner</em>' - My queen dares to wear this beautiful red dress for dinner. The noun 'reine' (queen) is an affectionate term and the verb 'ose' (dares) expresses boldness.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["romance", "clothing", "dining"],
+  "timeCreated": 1722041760
+}

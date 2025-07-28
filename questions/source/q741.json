@@ -1,0 +1,15 @@
+{
+  "id": 741,
+  "audioText": "Ces gens risquent de perdre leur emploi semblable à celui-ci.",
+  "question": "Ces gens ______ de perdre leur emploi semblable à celui-ci.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "risquent",
+  "acceptedAnswers": ["risquent", "Risquent"],
+  "explanation": "The correct form is 'risquent' (risk) - third person plural present of 'risquer'. The complete text is '<em>Ces gens risquent de perdre leur emploi semblable à celui-ci</em>' - These people risk losing their job similar to this one. This targets verb 'risquent' and adjective 'semblable' (similar).",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["employment", "risk", "job-loss"],
+  "timeCreated": 1722041760
+}

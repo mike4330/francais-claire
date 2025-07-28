@@ -1,0 +1,22 @@
+{
+  "id": 3432,
+  "audioText": "L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été correctement informée des récentes modifications réglementaires qui affecteraient significativement les procédures d'import-export dans notre secteur d'activité particulièrement sensible.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été correctement informée des récentes modifications réglementaires",
+    "L'objet de cette réunion extraordinaire était de déterminer si la presse nationale avait été correctement informée des récentes modifications réglementaires",
+    "L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été partiellement informée des récentes modifications réglementaires",
+    "L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été rapidement informée des récentes modifications réglementaires"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>L'objet de cette réunion extraordinaire était de déterminer si la presse internationale avait été correctement informée des récentes modifications réglementaires qui affecteraient significativement les procédures d'import-export dans notre secteur d'activité particulièrement sensible</em>' - The purpose of this extraordinary meeting was to determine if the international press had been correctly informed about recent regulatory changes that would significantly affect import-export procedures in our particularly sensitive business sector. This targets nouns 'objet' (purpose/object) and 'presse' (press).",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "business",
+    "media",
+    "regulation"
+  ],
+  "timeCreated": 1722041880
+}

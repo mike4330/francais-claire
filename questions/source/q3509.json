@@ -1,0 +1,23 @@
+{
+  "id": 3509,
+  "audioText": "Les fenêtres laissées ouvertes précédemment ont causé un dégât d'eau curieusement localisé près de la bouche d'aération.",
+  "question": "What caused the water damage?",
+  "questionType": "comprehension",
+  "options": [
+    "Windows left open previously",
+    "A blocked ventilation system",
+    "Heavy rain from outside",
+    "A broken water pipe"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les fenêtres laissées ouvertes précédemment ont causé un dégât d'eau curieusement localisé près de la bouche d'aération.</em>' - 'The windows left open previously caused water damage curiously localized near the ventilation opening.' The past participle 'laissées' (feminine plural) agrees with 'fenêtres', and the adverbs 'précédemment' and 'curieusement' modify the timing and nature of the incident.",
+  "difficulty": "C1",
+  "source": "Building maintenance scenario",
+  "tags": [
+    "damage",
+    "building-maintenance",
+    "weather"
+  ],
+  "timeCreated": 1720713600,
+  "verified": "claude"
+}

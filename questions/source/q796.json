@@ -1,23 +1,18 @@
 {
   "id": 796,
-  "audioText": "Cette entreprise travaille uniquement avec des fournisseurs locaux pour réduire son empreinte carbone.",
-  "question": "How does this company source its suppliers?",
+  "audioText": "Il se sent las après cette longue journée de travail difficile.",
+  "question": "How does he feel after this long difficult work day?",
   "questionType": "comprehension",
   "options": [
-    "It works exclusively with local suppliers",
-    "It partners with international suppliers only",
-    "It uses a mix of local and international suppliers",
-    "It changes suppliers frequently based on cost"
+    "Tired and weary",
+    "Fresh and energetic",
+    "Happy and excited",
+    "Angry and frustrated"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Cette entreprise travaille uniquement avec des fournisseurs locaux pour réduire son empreinte carbone</em>' - This company works exclusively with local suppliers to reduce its carbon footprint. 'Uniquement' means exclusively or only.",
-  "difficulty": "B2",
-  "source": "Business sustainability",
-  "tags": [
-    "business",
-    "sustainability",
-    "environment"
-  ],
-  "timeCreated": 1720132800,
-  "verified": "claude"
+  "explanation": "The text states '<em>Il se sent las après cette longue journée de travail difficile</em>' - He feels tired after this long difficult work day. The adjective 'las' (tired/weary) describes exhaustion from hard work.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["fatigue", "work", "exhaustion"],
+  "timeCreated": 1722182760
 }

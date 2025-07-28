@@ -1,19 +1,15 @@
 {
-    "id": 762,
-    "audioText": "Ma grand-mère a toujours vécu ici, mais maintenant elle habite ailleurs dans une maison de retraite.",
-    "question": "Ma grand-mère a toujours vécu ici, mais maintenant elle habite ______ dans une maison de retraite.",
-    "questionType": "fill-in-the-blank",
-    "options": [
-        "ailleurs",
-        "ici",
-        "là-bas",
-        "partout"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Ma grand-mère a toujours vécu ici, mais maintenant elle habite ailleurs dans une maison de retraite</em>' - My grandmother always lived here, but now she lives elsewhere in a retirement home. 'Ailleurs' means 'elsewhere/somewhere else' and contrasts with 'ici' (here).",
-    "difficulty": "B1",
-    "source": "Family changes",
-    "tags": ["grandmother", "relocation", "retirement"],
-    "timeCreated": 1704416520,
-    "verified": "claude"
+  "id": 762,
+  "audioText": "Ce citron jaune apporte beaucoup de goût à la salade.",
+  "question": "Ce ______ jaune apporte beaucoup de goût à la salade.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "citron",
+  "acceptedAnswers": ["citron", "Citron"],
+  "explanation": "The correct answer is 'citron' (lemon) - a yellow citrus fruit that adds flavor to dishes. The complete text is '<em>Ce citron jaune apporte beaucoup de goût à la salade</em>' - This yellow lemon brings a lot of taste to the salad. This targets the missing food noun 'citron' in cooking context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["food", "cooking", "taste"],
+  "timeCreated": 1722179340
 }

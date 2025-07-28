@@ -1,19 +1,15 @@
 {
-    "id": 764,
-    "audioText": "Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part.",
-    "question": "Where did he look for his keys?",
-    "questionType": "comprehension",
-    "options": [
-        "Everywhere in the house but found them nowhere",
-        "Only in the living room and kitchen",
-        "Outside in the garden and garage",
-        "In his car and office building"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Il a cherché ses clés partout dans la maison mais ne les a trouvées nulle part</em>' - He looked for his keys everywhere in the house but didn't find them anywhere. 'Partout' means 'everywhere' and contrasts with 'nulle part' (nowhere).",
-    "difficulty": "B1",
-    "source": "Strategic vocabulary targeting",
-    "tags": ["daily-life", "searching", "home"],
-    "timeCreated": 1704416640,
-    "verified": "claude"
+  "id": 764,
+  "audioText": "Mon pote arrive demain pour le week-end.",
+  "question": "Mon ______ arrive demain pour le week-end.",
+  "questionType": "writing",
+  "options": [],
+  "correct": 0,
+  "correctAnswer": "pote",
+  "acceptedAnswers": ["pote", "Pote"],
+  "explanation": "The correct answer is 'pote' (friend/buddy) - an informal term for friend in French. The complete text is '<em>Mon pote arrive demain pour le week-end</em>' - My buddy arrives tomorrow for the weekend. This targets the noun 'pote' in casual friendship context.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["friendship", "casual", "weekend"],
+  "timeCreated": 1722179580
 }

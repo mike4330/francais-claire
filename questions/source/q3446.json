@@ -1,0 +1,23 @@
+{
+  "id": 3446,
+  "audioText": "Cette décision irrationnelle révèle une certaine folie dans sa stratégie d'investissement, mettant en péril l'avenir financier de l'entreprise.",
+  "question": "What does this irrational decision reveal about his investment strategy?",
+  "questionType": "comprehension",
+  "options": [
+    "A certain madness that endangers the company's financial future",
+    "A brilliant innovation that competitors haven't understood yet",
+    "A calculated risk based on detailed market analysis",
+    "A conservative approach designed to minimize potential losses"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette décision irrationnelle révèle une certaine folie dans sa stratégie d'investissement, mettant en péril l'avenir financier de l'entreprise.</em>' - 'This irrational decision reveals a certain madness in his investment strategy, endangering the company's financial future.' The noun 'folie' means madness or folly.",
+  "difficulty": "C1",
+  "source": "Corporate financial analysis",
+  "tags": [
+    "business",
+    "finance",
+    "strategy"
+  ],
+  "timeCreated": 1737290580,
+  "verified": "claude"
+}

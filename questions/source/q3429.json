@@ -1,0 +1,22 @@
+{
+  "id": 3429,
+  "audioText": "Le gouvernement protégera les libertés fondamentales des citoyens contre toute tentative d'ingérence autoritaire, même en période de crise politique majeure.",
+  "question": "What commitment is the government making?",
+  "questionType": "comprehension",
+  "options": [
+    "To expand governmental powers during crises",
+    "To safeguard citizens' fundamental freedoms",
+    "To restrict civil liberties temporarily",
+    "To negotiate with authoritarian regimes"
+  ],
+  "correct": 1,
+  "explanation": "The text states '<em>Le gouvernement protégera les libertés fondamentales des citoyens contre toute tentative d'ingérence autoritaire, même en période de crise politique majeure</em>' - The government will protect citizens' fundamental freedoms against any attempt at authoritarian interference, even during major political crises. The future tense 'protégera' (will protect) expresses this firm commitment.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "politics",
+    "civil-rights",
+    "government-policy"
+  ],
+  "timeCreated": 1721988480
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3438,
+  "audioText": "Ce comité parlementaire examine méthodiquement les implications socio-économiques complexes des réformes législatives proposées, analysant systématiquement chaque article juridique controversé pour évaluer précisément son impact potentiel sur les différentes couches de la société française contemporaine.",
+  "question": "What does this parliamentary committee do methodically?",
+  "questionType": "comprehension",
+  "options": [
+    "Examines complex socio-economic implications of proposed legislative reforms",
+    "Reviews simple administrative procedures for government efficiency",
+    "Monitors basic budget allocations for public services",
+    "Organizes routine meetings for departmental coordination"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce comité parlementaire examine méthodiquement les implications socio-économiques complexes des réformes législatives proposées, analysant systématiquement chaque article juridique controversé pour évaluer précisément son impact potentiel sur les différentes couches de la société française contemporaine</em>' - This parliamentary committee methodically examines the complex socio-economic implications of proposed legislative reforms, systematically analyzing each controversial legal article to precisely evaluate its potential impact on different layers of contemporary French society. The noun 'comité' (committee) with adverbs 'méthodiquement' (methodically) and 'systématiquement' (systematically) describes thorough governmental analysis.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "politics",
+    "government",
+    "analysis"
+  ],
+  "timeCreated": 1722180420
+}

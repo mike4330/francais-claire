@@ -1,0 +1,18 @@
+{
+  "id": 750,
+  "audioText": "Ce problème a été réglé rapidement.",
+  "question": "What happened to the problem?",
+  "questionType": "comprehension",
+  "options": [
+    "It was resolved quickly",
+    "It became more complicated",
+    "It was ignored completely",
+    "It was postponed indefinitely"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce problème a été réglé rapidement</em>' - This problem was resolved quickly. The past participle 'réglé' (resolved/settled) describes successful problem-solving.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["problem-solving", "efficiency", "resolution"],
+  "timeCreated": 1722041940
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3436,
+  "audioText": "Ces chercheurs expérimentés attrapent méthodiquement les phénomènes complexes grâce à leurs instruments scientifiques sophistiqués, analysant minutieusement chaque donnée recueillie pour comprendre profondément les mécanismes fondamentaux qui régissent ces processus naturels extraordinaires et contribuent significativement à l'avancement des connaissances humaines dans ce domaine spécialisé.",
+  "question": "What do these experienced researchers do with complex phenomena?",
+  "questionType": "comprehension",
+  "options": [
+    "Methodically capture them using sophisticated scientific instruments for detailed analysis",
+    "Simply observe them without collecting any measurable data",
+    "Ignore them due to their overwhelming complexity",
+    "Document them briefly without conducting thorough investigation"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ces chercheurs expérimentés attrapent méthodiquement les phénomènes complexes grâce à leurs instruments scientifiques sophistiqués, analysant minutieusement chaque donnée recueillie pour comprendre profondément les mécanismes fondamentaux qui régissent ces processus naturels extraordinaires et contribuent significativement à l'avancement des connaissances humaines dans ce domaine spécialisé</em>' - These experienced researchers methodically capture complex phenomena using their sophisticated scientific instruments, meticulously analyzing each piece of collected data to deeply understand the fundamental mechanisms governing these extraordinary natural processes and significantly contribute to the advancement of human knowledge in this specialized field. This targets verb 'attrapent' (capture) in an advanced scientific research context.",
+  "difficulty": "C1",
+  "source": "claude",
+  "tags": [
+    "research",
+    "science",
+    "analysis"
+  ],
+  "timeCreated": 1722042240
+}

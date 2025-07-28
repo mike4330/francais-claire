@@ -1,0 +1,23 @@
+{
+  "id": 3444,
+  "audioText": "Les philosophes contemporains s'interrogent sur le destin de l'humanité face aux défis écologiques et technologiques du vingt et unième siècle.",
+  "question": "What are contemporary philosophers questioning regarding humanity?",
+  "questionType": "comprehension",
+  "options": [
+    "Humanity's destiny facing ecological and technological challenges of the 21st century",
+    "The role of artificial intelligence in future education systems",
+    "The impact of social media on traditional philosophical thought",
+    "The relationship between ancient wisdom and modern scientific discoveries"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Les philosophes contemporains s'interrogent sur le destin de l'humanité face aux défis écologiques et technologiques du vingt et unième siècle.</em>' - 'Contemporary philosophers are questioning humanity's destiny in the face of ecological and technological challenges of the twenty-first century.' The noun 'destin' means destiny or fate.",
+  "difficulty": "C1",
+  "source": "Contemporary philosophical discourse",
+  "tags": [
+    "philosophy",
+    "environment",
+    "technology"
+  ],
+  "timeCreated": 1737290460,
+  "verified": "claude"
+}

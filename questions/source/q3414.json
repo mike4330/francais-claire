@@ -1,0 +1,22 @@
+{
+  "id": 3414,
+  "audioText": "À l'improviste, nous retrouvés cette pierre précieuse dans les nombreux documents retrouvés après le passage des archéologues au Chile.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "À l'improviste, nous retrouvés cette pierre précieuse dans les nombreux documents retrouvés après le passage des archéologues au Chile.",
+    "À l'improviste, nous avons retrouvé cette pierre précieuse dans les nombreux documents retrouvés après le passage des archéologues au Chile.",
+    "À l'improviste, nous retrouvés cette pierre précieuse dans les nombreux documents retrouvé après le passage des archéologues au Chile.",
+    "À l'improviste, nous retrouvé cette pierre précieuse dans les nombreux documents retrouvés après le passage des archéologues au Chile."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>À l'improviste, nous retrouvés cette pierre précieuse dans les nombreux documents retrouvés après le passage des archéologues au Chile</em>' - Unexpectedly, we found this precious stone in the numerous documents found after the archaeologists' passage in Chile. This tests precise listening of agreement forms.",
+  "difficulty": "C1",
+  "source": "Strategic targeting - à l'improviste + retrouvés + pierre + nombreux + Chile synergy + archaeology",
+  "tags": [
+    "archaeology",
+    "chile",
+    "discovery"
+  ],
+  "timeCreated": 1736804540
+}

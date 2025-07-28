@@ -1,0 +1,18 @@
+{
+  "id": 724,
+  "audioText": "Le temps a filé trop vite pendant les vacances avec ma reine.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le temps a filé trop vite pendant les vacances avec ma reine",
+    "Le temps a passé trop vite pendant les vacances avec ma reine",
+    "Le temps a couru trop vite pendant les vacances avec ma reine",
+    "Le temps a volé trop vite pendant les vacances avec ma reine"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le temps a filé trop vite pendant les vacances avec ma reine</em>' - Time flew too fast during vacation with my queen. The past participle 'filé' (flew/rushed) expresses rapid passage of time and 'reine' (queen) is an affectionate term.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["time", "vacation", "romance"],
+  "timeCreated": 1722041760
+}

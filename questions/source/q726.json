@@ -1,0 +1,18 @@
+{
+  "id": 726,
+  "audioText": "Cette action blesse profondément mes sentiments, selon la presse locale.",
+  "question": "How does this action affect the speaker's feelings?",
+  "questionType": "comprehension",
+  "options": [
+    "It deeply hurts their feelings",
+    "It makes them very happy",
+    "It leaves them completely neutral",
+    "It fills them with pride"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette action blesse profondément mes sentiments, selon la presse locale</em>' - This action deeply hurts my feelings, according to the local press. The verb 'blesse' (hurts/wounds) and noun 'presse' (press) describe emotional pain reported in media.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["emotions", "media-coverage", "actions"],
+  "timeCreated": 1722041760
+}

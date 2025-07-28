@@ -1,19 +1,18 @@
 {
-    "id": 778,
-    "audioText": "Il travaille seul dans son bureau depuis le matin car il préfère la tranquillité.",
-    "question": "Why does he work alone in his office?",
-    "questionType": "comprehension",
-    "options": [
-        "Because he prefers the quiet",
-        "Because his colleagues are absent",
-        "Because he has too much work",
-        "Because the meeting was cancelled"
-    ],
-    "correct": 0,
-    "explanation": "The text states '<em>Il travaille seul dans son bureau depuis le matin car il préfère la tranquillité</em>' - He works alone in his office since morning because he prefers the quiet. 'Seul' means 'alone' and describes his work preference for solitude.",
-    "difficulty": "B1",
-    "source": "Workplace preference",
-    "tags": ["workplace", "preferences", "solitude"],
-    "timeCreated": 1736102760,
-    "verified": "claude"
+  "id": 778,
+  "audioText": "Ce trottoir glissant devient dangereusement impraticable sous la pluie.",
+  "question": "What happens to this slippery sidewalk in the rain?",
+  "questionType": "comprehension",
+  "options": [
+    "It becomes dangerously impassable",
+    "It becomes perfectly safe to walk on",
+    "It becomes slightly more comfortable",
+    "It becomes easier to navigate quickly"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Ce trottoir glissant devient dangereusement impraticable sous la pluie</em>' - This slippery sidewalk becomes dangerously impassable in the rain. The noun 'trottoir' (sidewalk) with adverb 'dangereusement' (dangerously) describes urban safety hazards.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["safety", "weather", "street"],
+  "timeCreated": 1722181020
 }

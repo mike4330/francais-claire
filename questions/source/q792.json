@@ -1,24 +1,18 @@
 {
   "id": 792,
-  "audioText": "Il faut que les étudiants aient terminé leur projet avant vendredi.",
-  "question": "Il faut que les étudiants ______ terminé leur projet avant vendredi.",
-  "questionType": "FIB-reading",
+  "audioText": "Sa réponse sincère touche profondément tous les participants.",
+  "question": "What kind of response deeply touches all participants?",
+  "questionType": "comprehension",
   "options": [
-    "aient",
-    "ont",
-    "avaient",
-    "auront"
+    "His sincere response",
+    "His false response",
+    "His quick response",
+    "His delayed response"
   ],
   "correct": 0,
-  "explanation": "The text states '<em>Il faut que les étudiants aient terminé leur projet avant vendredi.</em>' - The students must have finished their project before Friday. The correct form is 'aient' (subjunctive of 'avoir'). After 'il faut que', we must use the subjunctive mood.",
-  "difficulty": "B2",
-  "source": "School Project Deadline",
-  "tags": [
-    "education",
-    "deadlines",
-    "projects",
-    "school"
-  ],
-  "timeCreated": 1720051560,
-  "verified": "claude"
+  "explanation": "The text states '<em>Sa réponse sincère touche profondément tous les participants</em>' - His sincere response deeply touches all participants. The adjective 'sincère' (sincere) with adverb 'profondément' (deeply) describes authentic emotional impact.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["honesty", "emotion", "response"],
+  "timeCreated": 1722182400
 }

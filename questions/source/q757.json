@@ -1,20 +1,18 @@
-
 {
   "id": 757,
-  "audioText": "Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque. Ils sont rentrés très tard, mais ils avaient l'air vraiment contents de leur soirée.",
-  "question": "Why did the father and his friends go out?",
-  "questionType": "comprehension",
+  "audioText": "J'appartiens à cette famille depuis ma naissance.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
   "options": [
-    "To celebrate a birthday",
-    "To watch a movie",
-    "To celebrate winning a pétanque tournament",
-    "To have a quiet dinner"
+    "J'appartiens à cette famille depuis ma naissance",
+    "J'appartiens à cette famille depuis mon mariage",
+    "J'appartenais à cette famille depuis ma naissance",
+    "Je suis de cette famille depuis ma naissance"
   ],
-  "correct": 2,
-  "explanation": "The text states '<em>Mon père et ses amis sont sortis hier soir pour fêter leur victoire au tournoi de pétanque</em>' - My father and his friends went out last night to celebrate their victory in the pétanque tournament. They came home very late but looked really happy about their evening.",
-  "difficulty": "B2",
-  "source": "Gemini CLI",
-  "tags": ["father", "celebration", "sports", "friends"],
-  "timeCreated": 1720181344,
-  "verified": "claude"
+  "correct": 0,
+  "explanation": "The text states '<em>J'appartiens à cette famille depuis ma naissance</em>' - I belong to this family since my birth. The verb 'appartiens' (belong) expresses family membership from birth.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["family", "belonging", "identity"],
+  "timeCreated": 1722042240
 }

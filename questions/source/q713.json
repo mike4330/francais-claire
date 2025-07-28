@@ -1,0 +1,18 @@
+{
+  "id": 713,
+  "audioText": "Mon pote a été baisé par cette arnaque en ligne hier soir.",
+  "question": "Mon ______ a été baisé par cette arnaque en ligne hier soir.",
+  "questionType": "fill-in-the-blank",
+  "options": [
+    "frère",
+    "pote",
+    "patron",
+    "voisin"
+  ],
+  "correct": 1,
+  "explanation": "The correct answer is 'pote' (buddy/friend) - informal term for friend. The complete text is '<em>Mon pote a été baisé par cette arnaque en ligne hier soir</em>' - My friend was screwed by this online scam last night. Here 'baisé' is used in slang meaning 'cheated/tricked'.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["friendship", "internet", "scams"],
+  "timeCreated": 1722041760
+}

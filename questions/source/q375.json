@@ -1,0 +1,18 @@
+{
+  "id": 375,
+  "audioText": "À l'aube, les oiseaux chantent dans le jardin de ma grand-mère.",
+  "question": "When do the birds sing?",
+  "questionType": "comprehension",
+  "options": [
+    "At dawn",
+    "At noon",
+    "At sunset",
+    "At midnight"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>À l'aube, les oiseaux chantent dans le jardin de ma grand-mère</em>' - At dawn, the birds sing in my grandmother's garden. The noun 'aube' (dawn) refers to the early morning when the sun rises.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["nature", "time", "family"],
+  "timeCreated": 1722041760
+}

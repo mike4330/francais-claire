@@ -1,0 +1,18 @@
+{
+  "id": 716,
+  "audioText": "J'arrangerai ta chambre demain matin avant ton retour de l'école.",
+  "question": "When will the speaker arrange the room?",
+  "questionType": "comprehension",
+  "options": [
+    "Tomorrow morning before school return",
+    "This evening after dinner",
+    "Next weekend during cleanup",
+    "Right now before leaving"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>J'arrangerai ta chambre demain matin avant ton retour de l'école</em>' - I will arrange your room tomorrow morning before your return from school. The future tense 'arrangerai' indicates planned future action.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["family", "household", "future-plans"],
+  "timeCreated": 1722041760
+}

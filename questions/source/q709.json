@@ -1,0 +1,18 @@
+{
+  "id": 709,
+  "audioText": "Je l'épouserai quand nous aurons assez d'argent pour une belle maison.",
+  "question": "When will the speaker get married?",
+  "questionType": "comprehension",
+  "options": [
+    "When they have enough money for a house",
+    "When they find the perfect location",
+    "When their family approves",
+    "When they finish their studies"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Je l'épouserai quand nous aurons assez d'argent pour une belle maison</em>' - I will marry her/him when we have enough money for a beautiful house. The future tense 'épouserai' indicates a planned future action.",
+  "difficulty": "A2",
+  "source": "claude",
+  "tags": ["marriage", "financial-planning", "future-plans"],
+  "timeCreated": 1722041760
+}

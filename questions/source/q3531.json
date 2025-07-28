@@ -1,0 +1,23 @@
+{
+  "id": 3531,
+  "audioText": "Cette entreprise travaille exclusivement avec des partenaires locaux, refusant catégoriquement toute collaboration internationale.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Cette entreprise travaille exclusivement avec des partenaires locaux, refusant catégoriquement toute collaboration internationale.",
+    "Cette entreprise travaille exclusivement avec des partenaires locales, refusant catégoriquement toute collaboration internationale.",
+    "Cette entreprise travaille exclusivement avec des partenaires locaux, refusant catégoriquement toutes collaboration internationale.",
+    "Cette entreprise travaille excessivement avec des partenaires locaux, refusant catégoriquement toute collaboration internationale."
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Cette entreprise travaille exclusivement avec des partenaires locaux, refusant catégoriquement toute collaboration internationale.</em>' - 'This company works exclusively with local partners, categorically refusing any international collaboration.' This tests the high-priority adverb 'exclusivement' (exclusively) in a business strategy context.",
+  "difficulty": "C1",
+  "source": "Business partnership strategies and local economics",
+  "tags": [
+    "business",
+    "partnerships",
+    "local-economy",
+    "strategy"
+  ],
+  "timeCreated": 1736347560
+}
