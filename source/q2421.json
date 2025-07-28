@@ -1,0 +1,18 @@
+{
+  "id": 2421,
+  "audioText": "Le médecin a tenté de réparer son crâne fracturé pendant l'opération chirurgicale.",
+  "question": "Qu'est-ce que vous avez entendu?",
+  "questionType": "listening",
+  "options": [
+    "Le médecin a tenté de réparer son crâne fracturé pendant l'opération chirurgicale",
+    "Le médecin a essayé de réparer son crâne fracturé pendant l'opération chirurgicale", 
+    "Le médecin a tenté de soigner son crâne fracturé pendant l'opération chirurgicale",
+    "Le médecin a tenté de réparer son cerveau fracturé pendant l'opération chirurgicale"
+  ],
+  "correct": 0,
+  "explanation": "The text states '<em>Le médecin a tenté de réparer son crâne fracturé pendant l'opération chirurgicale</em>' - The doctor attempted to repair his fractured skull during the surgical operation. The noun 'crâne' (skull) and verb 'tenté' (attempted) describe medical intervention.",
+  "difficulty": "B2",
+  "source": "claude",
+  "tags": ["health", "medical", "surgery"],
+  "timeCreated": 1722042120
+}
