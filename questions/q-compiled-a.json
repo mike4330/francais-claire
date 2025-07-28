@@ -1816,7 +1816,7 @@
     {
       "id": 81,
       "audioText": "Pour réussir cette recette, il faut faire mijoter les légumes à feu doux pendant une heure.",
-      "parentQuestion": 917,
+      "parentQuestion": 2722,
       "question": "Qu'est-ce que vous avez entendu?",
       "questionType": "listening",
       "options": [
@@ -9468,7 +9468,7 @@
         "discovery"
       ],
       "timeCreated": 1720800000,
-      "parentQuestion": 2747
+      "parentQuestion": 3443
     },
     {
       "id": 413,
@@ -10556,7 +10556,7 @@
         "spontaneous-activity"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 918,
+      "parentQuestion": 2723,
       "verified": "claude"
     },
     {
@@ -12042,7 +12042,7 @@
         "discovery"
       ],
       "timeCreated": 1720881353,
-      "parentQuestion": 2747
+      "parentQuestion": 3443
     },
     {
       "id": 527,
@@ -17437,13 +17437,739 @@
         "vegetables"
       ],
       "timeCreated": 1722179520
+    },
+    {
+      "id": 764,
+      "audioText": "Mon pote arrive demain pour le week-end.",
+      "question": "Mon ______ arrive demain pour le week-end.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "pote",
+      "acceptedAnswers": [
+        "pote",
+        "Pote"
+      ],
+      "explanation": "The correct answer is 'pote' (friend/buddy) - an informal term for friend in French. The complete text is '<em>Mon pote arrive demain pour le week-end</em>' - My buddy arrives tomorrow for the weekend. This targets the noun 'pote' in casual friendship context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "friendship",
+        "casual",
+        "weekend"
+      ],
+      "timeCreated": 1722179580
+    },
+    {
+      "id": 765,
+      "audioText": "L'os de ce poulet est cassé.",
+      "question": "What is broken in this chicken?",
+      "questionType": "comprehension",
+      "options": [
+        "The bone",
+        "The wing",
+        "The skin",
+        "The meat"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>L'os de ce poulet est cassé</em>' - The bone of this chicken is broken. The noun 'os' (bone) with verb 'cassé' (broken) describes damaged poultry in cooking context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "food",
+        "cooking",
+        "damage"
+      ],
+      "timeCreated": 1722179640
+    },
+    {
+      "id": 766,
+      "audioText": "La hauteur de cette montagne impressionne tous les visiteurs.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "La hauteur de cette montagne impressionne tous les visiteurs",
+        "La beauté de cette montagne impressionne tous les visiteurs",
+        "La hauteur de cette montagne effraie tous les visiteurs",
+        "La largeur de cette montagne impressionne tous les visiteurs"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La hauteur de cette montagne impressionne tous les visiteurs</em>' - The height of this mountain impresses all visitors. The noun 'hauteur' (height) with verb 'impressionne' (impresses) describes mountain tourism context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "mountain",
+        "tourism",
+        "impression"
+      ],
+      "timeCreated": 1722179760
+    },
+    {
+      "id": 767,
+      "audioText": "Quel dommage que tu ne puisses pas venir!",
+      "question": "What is expressed about the person not being able to come?",
+      "questionType": "comprehension",
+      "options": [
+        "What a pity/shame",
+        "What a relief",
+        "What a surprise",
+        "What good news"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Quel dommage que tu ne puisses pas venir!</em>' - What a pity/shame that you cannot come! The noun 'dommage' (pity/shame) expresses regret about someone's inability to attend an event.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "regret",
+        "invitation",
+        "disappointment"
+      ],
+      "timeCreated": 1722179880
+    },
+    {
+      "id": 768,
+      "audioText": "Il se sent à l'aise dans cette situation.",
+      "question": "Il se sent à ______ dans cette situation.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "l'aise",
+        "l'école",
+        "l'heure",
+        "l'aide"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'l'aise' (ease/comfort) - the expression 'à l'aise' means comfortable or at ease. The complete text is '<em>Il se sent à l'aise dans cette situation</em>' - He feels at ease in this situation. This targets the noun 'aise' in comfort context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "comfort",
+        "feeling",
+        "situation"
+      ],
+      "timeCreated": 1722179940
+    },
+    {
+      "id": 769,
+      "audioText": "La douceur de sa voix calme tous les enfants.",
+      "question": "What calms all the children?",
+      "questionType": "comprehension",
+      "options": [
+        "The gentleness of her voice",
+        "The loudness of her singing",
+        "The speed of her speech",
+        "The accent of her pronunciation"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>La douceur de sa voix calme tous les enfants</em>' - The gentleness of her voice calms all the children. The noun 'douceur' (gentleness/sweetness) with verb 'calme' (calms) describes soothing vocal quality in childcare context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "voice",
+        "children",
+        "calm"
+      ],
+      "timeCreated": 1722180000
+    },
+    {
+      "id": 770,
+      "audioText": "Ce tapis rouge décore magnifiquement le salon élégant.",
+      "question": "Ce ______ rouge décore magnifiquement le salon élégant.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "tapis",
+      "acceptedAnswers": [
+        "tapis",
+        "Tapis"
+      ],
+      "explanation": "The correct answer is 'tapis' (carpet/rug) - a floor covering for decoration. The complete text is '<em>Ce tapis rouge décore magnifiquement le salon élégant</em>' - This red carpet magnificently decorates the elegant living room. This targets the noun 'tapis' with adverb 'magnifiquement' (magnificently) in home decoration context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "home",
+        "decoration",
+        "furniture"
+      ],
+      "timeCreated": 1722180060
+    },
+    {
+      "id": 771,
+      "audioText": "Sa valise bleue contient tous ses vêtements d'été.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Sa valise bleue contient tous ses vêtements d'été",
+        "Sa valise rouge contient tous ses vêtements d'été",
+        "Sa valise bleue contient tous ses vêtements d'hiver",
+        "Sa mallette bleue contient tous ses vêtements d'été"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Sa valise bleue contient tous ses vêtements d'été</em>' - His blue suitcase contains all his summer clothes. The noun 'valise' (suitcase) with adjective 'bleue' (blue) describes travel luggage in vacation context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "travel",
+        "clothes",
+        "summer"
+      ],
+      "timeCreated": 1722180180
+    },
+    {
+      "id": 772,
+      "audioText": "Le camion rouge transporte les marchandises lourdes.",
+      "question": "Le ______ rouge transporte les marchandises lourdes.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "camion",
+        "train",
+        "bateau",
+        "avion"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'camion' (truck) - a vehicle for transporting goods. The complete text is '<em>Le camion rouge transporte les marchandises lourdes</em>' - The red truck transports heavy goods. This targets the noun 'camion' in transportation context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "transport",
+        "goods",
+        "vehicle"
+      ],
+      "timeCreated": 1722180300
+    },
+    {
+      "id": 773,
+      "audioText": "Ce lycée moderne offre d'excellents programmes éducatifs.",
+      "question": "Ce ______ moderne offre d'excellents programmes éducatifs.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "lycée",
+      "acceptedAnswers": [
+        "lycée",
+        "Lycée"
+      ],
+      "explanation": "The correct answer is 'lycée' (high school) - a secondary education institution in France. The complete text is '<em>Ce lycée moderne offre d'excellents programmes éducatifs</em>' - This modern high school offers excellent educational programs. This targets the noun 'lycée' in education context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "education",
+        "school",
+        "programs"
+      ],
+      "timeCreated": 1722180480
+    },
+    {
+      "id": 774,
+      "audioText": "Ce parfum français sent délicieusement bon toute la journée.",
+      "question": "Ce ______ français sent délicieusement bon toute la journée.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "parfum",
+      "acceptedAnswers": [
+        "parfum",
+        "Parfum"
+      ],
+      "explanation": "The correct answer is 'parfum' (perfume) - a fragrant cosmetic product. The complete text is '<em>Ce parfum français sent délicieusement bon toute la journée</em>' - This French perfume smells deliciously good all day long. This targets the noun 'parfum' with adverb 'délicieusement' (deliciously) in beauty context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "beauty",
+        "fragrance",
+        "french"
+      ],
+      "timeCreated": 1722180600
+    },
+    {
+      "id": 775,
+      "audioText": "Le témoin raconte exactement ce qu'il a vu.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Le témoin raconte exactement ce qu'il a vu",
+        "Le témoin raconte parfaitement ce qu'il a vu",
+        "Le médecin raconte exactement ce qu'il a vu",
+        "Le témoin explique exactement ce qu'il a vu"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Le témoin raconte exactement ce qu'il a vu</em>' - The witness tells exactly what he saw. The noun 'témoin' (witness) with adverb 'exactement' (exactly) describes precise testimony in legal context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "justice",
+        "testimony",
+        "truth"
+      ],
+      "timeCreated": 1722180720
+    },
+    {
+      "id": 776,
+      "audioText": "Cette piste cyclable mène directement au centre-ville.",
+      "question": "Where does this bike path lead directly?",
+      "questionType": "comprehension",
+      "options": [
+        "To the city center",
+        "To the train station",
+        "To the shopping mall",
+        "To the sports complex"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette piste cyclable mène directement au centre-ville</em>' - This bike path leads directly to the city center. The noun 'piste' (path/track) with adverb 'directement' (directly) describes urban cycling infrastructure.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "transport",
+        "cycling",
+        "city"
+      ],
+      "timeCreated": 1722180780
+    },
+    {
+      "id": 777,
+      "audioText": "Cet ennui profond l'envahit complètement chaque dimanche après-midi.",
+      "question": "Cet ______ profond l'envahit complètement chaque dimanche après-midi.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "ennui",
+        "espoir",
+        "amour",
+        "plaisir"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'ennui' (boredom) - a feeling of being uninterested or restless. The complete text is '<em>Cet ennui profond l'envahit complètement chaque dimanche après-midi</em>' - This deep boredom completely overwhelms him every Sunday afternoon. This targets the noun 'ennui' with adverb 'complètement' (completely) in emotional context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "emotions",
+        "boredom",
+        "weekend"
+      ],
+      "timeCreated": 1722180960
+    },
+    {
+      "id": 778,
+      "audioText": "Ce trottoir glissant devient dangereusement impraticable sous la pluie.",
+      "question": "What happens to this slippery sidewalk in the rain?",
+      "questionType": "comprehension",
+      "options": [
+        "It becomes dangerously impassable",
+        "It becomes perfectly safe to walk on",
+        "It becomes slightly more comfortable",
+        "It becomes easier to navigate quickly"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Ce trottoir glissant devient dangereusement impraticable sous la pluie</em>' - This slippery sidewalk becomes dangerously impassable in the rain. The noun 'trottoir' (sidewalk) with adverb 'dangereusement' (dangerously) describes urban safety hazards.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "safety",
+        "weather",
+        "street"
+      ],
+      "timeCreated": 1722181020
+    },
+    {
+      "id": 779,
+      "audioText": "Il apprécie énormément ce nouveau restaurant italien.",
+      "question": "Il ______ énormément ce nouveau restaurant italien.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "apprécie",
+      "acceptedAnswers": [
+        "apprécie",
+        "Apprécie"
+      ],
+      "explanation": "The correct form is 'apprécie' (appreciates) - third person singular present of 'apprécier'. The complete text is '<em>Il apprécie énormément ce nouveau restaurant italien</em>' - He enormously appreciates this new Italian restaurant. This targets verb 'apprécie' with adverb 'énormément' (enormously) in dining context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "restaurant",
+        "opinion",
+        "food"
+      ],
+      "timeCreated": 1722181080
+    },
+    {
+      "id": 780,
+      "audioText": "Elle bosse vraiment dur toute la semaine.",
+      "question": "What does she do really hard all week?",
+      "questionType": "comprehension",
+      "options": [
+        "Works hard",
+        "Studies easily",
+        "Rests peacefully",
+        "Plays constantly"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Elle bosse vraiment dur toute la semaine</em>' - She really works hard all week. The verb 'bosse' (works - informal) with adverb 'vraiment' (really) describes intensive work habits in casual language.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "work",
+        "effort",
+        "casual"
+      ],
+      "timeCreated": 1722181140
+    },
+    {
+      "id": 781,
+      "audioText": "Il fui rapidement quand il vit la police.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Il fui rapidement quand il vit la police",
+        "Il fut rapidement quand il vit la police",
+        "Il fuit rapidement quand il vit la police",
+        "Il fui lentement quand il vit la police"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il fui rapidement quand il vit la police</em>' - He fled quickly when he saw the police. The verb 'fui' (fled - simple past) with adverb 'rapidement' (quickly) describes hasty escape from authorities.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "escape",
+        "police",
+        "fear"
+      ],
+      "timeCreated": 1722181260
+    },
+    {
+      "id": 782,
+      "audioText": "J'ai toujours apprécié sincèrement votre aide précieuse.",
+      "question": "J'ai toujours ______ sincèrement votre aide précieuse.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "apprécié",
+        "critiqué",
+        "refusé",
+        "ignoré"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'apprécié' (appreciated - past participle) used with auxiliary 'avoir' in passé composé. The complete text is '<em>J'ai toujours apprécié sincèrement votre aide précieuse</em>' - I have always sincerely appreciated your precious help. This targets verb 'apprécié' with adverb 'sincèrement' (sincerely) in gratitude context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "gratitude",
+        "help",
+        "appreciation"
+      ],
+      "timeCreated": 1722181380
+    },
+    {
+      "id": 783,
+      "audioText": "Vous respirez profondément pour vous calmer avant l'examen.",
+      "question": "What do you do deeply to calm yourself before the exam?",
+      "questionType": "comprehension",
+      "options": [
+        "Breathe",
+        "Think",
+        "Stretch",
+        "Count"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous respirez profondément pour vous calmer avant l'examen</em>' - You breathe deeply to calm yourself before the exam. The verb 'respirez' (breathe - second person plural) with adverb 'profondément' (deeply) describes stress management technique.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "breathing",
+        "calm",
+        "exam"
+      ],
+      "timeCreated": 1722181440
+    },
+    {
+      "id": 784,
+      "audioText": "Vous souhaitez vraiment réussir cet important concours national.",
+      "question": "Vous ______ vraiment réussir cet important concours national.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "souhaitez",
+      "acceptedAnswers": [
+        "souhaitez",
+        "Souhaitez"
+      ],
+      "explanation": "The correct form is 'souhaitez' (wish/hope) - second person plural present of 'souhaiter'. The complete text is '<em>Vous souhaitez vraiment réussir cet important concours national</em>' - You really wish to succeed in this important national competition. This targets verb 'souhaitez' with adverb 'vraiment' (really) in ambition context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "ambition",
+        "competition",
+        "success"
+      ],
+      "timeCreated": 1722181560
+    },
+    {
+      "id": 785,
+      "audioText": "Le voleur fuit désespérément par la fenêtre ouverte.",
+      "question": "Le voleur ______ désespérément par la fenêtre ouverte.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "fuit",
+        "dort",
+        "mange",
+        "danse"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'fuit' (flees) - third person singular present of 'fuir'. The complete text is '<em>Le voleur fuit désespérément par la fenêtre ouverte</em>' - The thief desperately flees through the open window. This targets verb 'fuit' with adverb 'désespérément' (desperately) in crime context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "crime",
+        "escape",
+        "desperation"
+      ],
+      "timeCreated": 1722181620
+    },
+    {
+      "id": 786,
+      "audioText": "Vous remarquez immédiatement les changements dans son comportement.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Vous remarquez immédiatement les changements dans son comportement",
+        "Vous remarquez lentement les changements dans son comportement",
+        "Vous oubliez immédiatement les changements dans son comportement",
+        "Vous remarquez immédiatement les problèmes dans son comportement"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Vous remarquez immédiatement les changements dans son comportement</em>' - You immediately notice the changes in his behavior. The verb 'remarquez' (notice - second person plural) with adverb 'immédiatement' (immediately) describes quick observation skills.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "observation",
+        "behavior",
+        "change"
+      ],
+      "timeCreated": 1722181740
+    },
+    {
+      "id": 787,
+      "audioText": "Mes parents apprécient particulièrement les concerts de musique classique.",
+      "question": "Mes parents ______ particulièrement les concerts de musique classique.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "apprécient",
+        "détestent",
+        "évitent",
+        "oublient"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'apprécient' (appreciate) - third person plural present of 'apprécier'. The complete text is '<em>Mes parents apprécient particulièrement les concerts de musique classique</em>' - My parents particularly appreciate classical music concerts. This targets verb 'apprécient' with adverb 'particulièrement' (particularly) in cultural context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "music",
+        "culture",
+        "family"
+      ],
+      "timeCreated": 1722181920
+    },
+    {
+      "id": 788,
+      "audioText": "Ces deux situations semblables créent exactement les mêmes problèmes.",
+      "question": "Ces deux situations ______ créent exactement les mêmes problèmes.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "semblables",
+      "acceptedAnswers": [
+        "semblables",
+        "Semblables"
+      ],
+      "explanation": "The correct form is 'semblables' (similar) - plural adjective agreeing with 'situations'. The complete text is '<em>Ces deux situations semblables créent exactement les mêmes problèmes</em>' - These two similar situations create exactly the same problems. This targets adjective 'semblables' with adverb 'exactement' (exactly) in comparison context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "comparison",
+        "similarity",
+        "problems"
+      ],
+      "timeCreated": 1722182040
+    },
+    {
+      "id": 789,
+      "audioText": "Il reste assis tranquillement pendant toute la réunion.",
+      "question": "How does he remain seated during the entire meeting?",
+      "questionType": "comprehension",
+      "options": [
+        "Quietly and calmly",
+        "Restlessly and impatiently",
+        "Loudly and disruptively",
+        "Nervously and anxiously"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il reste assis tranquillement pendant toute la réunion</em>' - He remains seated quietly during the entire meeting. The adjective 'assis' (seated) with adverb 'tranquillement' (quietly) describes calm meeting behavior.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "meeting",
+        "behavior",
+        "calm"
+      ],
+      "timeCreated": 1722182100
+    },
+    {
+      "id": 790,
+      "audioText": "Cette table rond convient parfaitement à notre petit salon.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette table rond convient parfaitement à notre petit salon",
+        "Cette table ronde convient parfaitement à notre petit salon",
+        "Cette table rond convient parfaitement à notre grand salon",
+        "Cette chaise rond convient parfaitement à notre petit salon"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette table rond convient parfaitement à notre petit salon</em>' - This round table suits our small living room perfectly. The adjective 'rond' (round) with adverb 'parfaitement' (perfectly) describes furniture fitting in home context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "furniture",
+        "home",
+        "shape"
+      ],
+      "timeCreated": 1722182160
+    },
+    {
+      "id": 791,
+      "audioText": "Ce couloir étroit mène directement à la sortie d'urgence.",
+      "question": "Ce couloir ______ mène directement à la sortie d'urgence.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "étroit",
+        "large",
+        "haut",
+        "bas"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'étroit' (narrow) - describing a corridor's width. The complete text is '<em>Ce couloir étroit mène directement à la sortie d'urgence</em>' - This narrow corridor leads directly to the emergency exit. This targets adjective 'étroit' with adverb 'directement' (directly) in safety context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "building",
+        "safety",
+        "emergency"
+      ],
+      "timeCreated": 1722182280
+    },
+    {
+      "id": 792,
+      "audioText": "Sa réponse sincère touche profondément tous les participants.",
+      "question": "What kind of response deeply touches all participants?",
+      "questionType": "comprehension",
+      "options": [
+        "His sincere response",
+        "His false response",
+        "His quick response",
+        "His delayed response"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Sa réponse sincère touche profondément tous les participants</em>' - His sincere response deeply touches all participants. The adjective 'sincère' (sincere) with adverb 'profondément' (deeply) describes authentic emotional impact.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "honesty",
+        "emotion",
+        "response"
+      ],
+      "timeCreated": 1722182400
+    },
+    {
+      "id": 793,
+      "audioText": "Cet enfant gai chante joyeusement dans la cour de récréation.",
+      "question": "Cet enfant ______ chante joyeusement dans la cour de récréation.",
+      "questionType": "writing",
+      "options": [],
+      "correct": 0,
+      "correctAnswer": "gai",
+      "acceptedAnswers": [
+        "gai",
+        "Gai"
+      ],
+      "explanation": "The correct form is 'gai' (cheerful/happy) - masculine singular adjective agreeing with 'enfant'. The complete text is '<em>Cet enfant gai chante joyeusement dans la cour de récréation</em>' - This cheerful child sings joyfully in the playground. This targets adjective 'gai' with adverb 'joyeusement' (joyfully) in childhood context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "children",
+        "happiness",
+        "playground"
+      ],
+      "timeCreated": 1722182460
+    },
+    {
+      "id": 794,
+      "audioText": "Cette nourriture dégueulasse sent vraiment horrible dans la cuisine.",
+      "question": "Qu'est-ce que vous avez entendu?",
+      "questionType": "listening",
+      "options": [
+        "Cette nourriture dégueulasse sent vraiment horrible dans la cuisine",
+        "Cette nourriture délicieuse sent vraiment horrible dans la cuisine",
+        "Cette nourriture dégueulasse sent vraiment bonne dans la cuisine",
+        "Cette boisson dégueulasse sent vraiment horrible dans la cuisine"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Cette nourriture dégueulasse sent vraiment horrible dans la cuisine</em>' - This disgusting food really smells horrible in the kitchen. The adjective 'dégueulasse' (disgusting/gross) with adverb 'vraiment' (really) describes offensive food odor.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "food",
+        "smell",
+        "disgust"
+      ],
+      "timeCreated": 1722182520
+    },
+    {
+      "id": 795,
+      "audioText": "Ce train lent arrive finalement à destination après six heures.",
+      "question": "Ce train ______ arrive finalement à destination après six heures.",
+      "questionType": "fill-in-the-blank",
+      "options": [
+        "lent",
+        "rapide",
+        "moderne",
+        "ancien"
+      ],
+      "correct": 0,
+      "explanation": "The correct answer is 'lent' (slow) - describing the train's speed. The complete text is '<em>Ce train lent arrive finalement à destination après six heures</em>' - This slow train finally arrives at destination after six hours. This targets adjective 'lent' with adverb 'finalement' (finally) in transportation context.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "transport",
+        "speed",
+        "travel"
+      ],
+      "timeCreated": 1722182640
+    },
+    {
+      "id": 796,
+      "audioText": "Il se sent las après cette longue journée de travail difficile.",
+      "question": "How does he feel after this long difficult work day?",
+      "questionType": "comprehension",
+      "options": [
+        "Tired and weary",
+        "Fresh and energetic",
+        "Happy and excited",
+        "Angry and frustrated"
+      ],
+      "correct": 0,
+      "explanation": "The text states '<em>Il se sent las après cette longue journée de travail difficile</em>' - He feels tired after this long difficult work day. The adjective 'las' (tired/weary) describes exhaustion from hard work.",
+      "difficulty": "A2",
+      "source": "claude",
+      "tags": [
+        "fatigue",
+        "work",
+        "exhaustion"
+      ],
+      "timeCreated": 1722182760
     }
   ],
   "metadata": {
-    "compiledAt": "2025-07-28T00:16:21.750Z",
-    "totalQuestions": 754,
+    "compiledAt": "2025-07-28T12:03:56.868Z",
+    "totalQuestions": 787,
     "level": "A",
-    "idRange": "1-818",
+    "idRange": "1-920",
     "difficulties": [
       "A1",
       "A2"
