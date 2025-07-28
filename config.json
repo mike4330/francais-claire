@@ -33,18 +33,18 @@
         "a": {
             "levels": ["A1", "A2"],
             "minId": 1,
-            "maxId": 754,
+            "maxId": 920,
             "description": "Beginner/Elementary"
         },
         "b": {
             "levels": ["B1", "B2"],
-            "minId": 755,
-            "maxId": 2743,
+            "minId": 921,
+            "maxId": 3193,
             "description": "Intermediate/Upper-Intermediate"
         },
         "c": {
             "levels": ["C1", "C2"],
-            "minId": 2744,
+            "minId": 3194,
             "maxId": 4000,
             "description": "Advanced/Proficiency"
         }
